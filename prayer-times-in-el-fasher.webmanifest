@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prayer Times in El Fasher",
+  "short_name": "Prayer Times in El Fasher",
+  "description": "Today's prayer times in El Fasher, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for El Fasher.",
+  "id": "/loona-islamic-tools/prayer-times-in-el-fasher.html",
+  "start_url": "./prayer-times-in-el-fasher.html",
+  "scope": "./prayer-times-in-el-fasher.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

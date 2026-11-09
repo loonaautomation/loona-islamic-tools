@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamic Date Today",
+  "short_name": "Islamic Date Today",
+  "description": "What is the Islamic date today? See today’s Hijri date — day, month and year (Umm al-Qura) — with the Gregorian date, updated live on your device. Free.",
+  "id": "/loona-islamic-tools/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

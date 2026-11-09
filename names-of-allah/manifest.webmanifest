@@ -1,0 +1,29 @@
+{
+  "name": "Loona 99 Names of Allah",
+  "short_name": "99 Names of Allah",
+  "description": "All 99 Names of Allah with Arabic text, transliteration and English meanings on one searchable page. Learn and memorise Asma-ul-Husna free, on any device.",
+  "id": "/loona-islamic-tools/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

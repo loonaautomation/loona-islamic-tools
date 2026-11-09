@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prayer Times by Country",
+  "short_name": "Prayer Times by Country",
+  "description": "Prayer times for 867 cities worldwide, grouped by country: Fajr, Sunrise, Dhuhr, Asr, Maghrib and Isha for today, full-month timetables, Qibla direction and Ramadan 2027 timetables by country.",
+  "id": "/loona-islamic-tools/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

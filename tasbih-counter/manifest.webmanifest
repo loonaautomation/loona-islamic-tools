@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tasbih Counter",
+  "short_name": "Tasbih Counter",
+  "description": "A digital tasbih counter: SubhanAllah, Alhamdulillah and more presets, 33/99/100 targets, round tracking, vibration and lifetime totals saved on your device.",
+  "id": "/loona-islamic-tools/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
