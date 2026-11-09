@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebetszeiten in Nizāmābād",
+  "short_name": "Gebetszeiten in Nizāmābād",
+  "description": "Die heutigen Gebetszeiten in Nizāmābād, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Nizāmābād.",
+  "id": "/loona-islamic-tools/de/prayer-times-in-nizamabad.html",
+  "start_url": "./prayer-times-in-nizamabad.html",
+  "scope": "./prayer-times-in-nizamabad.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

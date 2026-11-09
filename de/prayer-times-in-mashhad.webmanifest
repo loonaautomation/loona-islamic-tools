@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebetszeiten in Mashhad",
+  "short_name": "Gebetszeiten in Mashhad",
+  "description": "Die heutigen Gebetszeiten in Mashhad, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Mashhad.",
+  "id": "/loona-islamic-tools/de/prayer-times-in-mashhad.html",
+  "start_url": "./prayer-times-in-mashhad.html",
+  "scope": "./prayer-times-in-mashhad.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

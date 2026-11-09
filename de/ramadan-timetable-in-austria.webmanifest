@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadan-Zeitplan in Österreich 2027 (1448)",
+  "short_name": "Ramadan-Zeitplan in Österreich 2027 (1448)",
+  "description": "Ramadan-2027-Zeitplan für Österreich: Sehri-Ende (Fajr) und Iftar- (Maghrib) Zeiten für jeden Tag des Ramadan 1448, berechnet für Vienna. Voraussichtlich 8. Februar bis 8. März 2027, vorbehaltlich der Mondsichtung.",
+  "id": "/loona-islamic-tools/de/ramadan-timetable-in-austria.html",
+  "start_url": "./ramadan-timetable-in-austria.html",
+  "scope": "./ramadan-timetable-in-austria.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebetszeiten in Taiping",
+  "short_name": "Gebetszeiten in Taiping",
+  "description": "Die heutigen Gebetszeiten in Taiping, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Taiping.",
+  "id": "/loona-islamic-tools/de/prayer-times-in-taiping.html",
+  "start_url": "./prayer-times-in-taiping.html",
+  "scope": "./prayer-times-in-taiping.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

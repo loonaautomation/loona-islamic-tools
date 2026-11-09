@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebetszeiten in Tasikmalaya",
+  "short_name": "Gebetszeiten in Tasikmalaya",
+  "description": "Die heutigen Gebetszeiten in Tasikmalaya, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tasikmalaya.",
+  "id": "/loona-islamic-tools/de/prayer-times-in-tasikmalaya.html",
+  "start_url": "./prayer-times-in-tasikmalaya.html",
+  "scope": "./prayer-times-in-tasikmalaya.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
