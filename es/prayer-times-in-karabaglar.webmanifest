@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horarios de oración en Karabağlar",
+  "short_name": "Horarios de oración en Karabağlar",
+  "description": "Horarios de oración de hoy en Karabağlar, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Karabağlar.",
+  "id": "/loona-islamic-tools/es/prayer-times-in-karabaglar.html",
+  "start_url": "./prayer-times-in-karabaglar.html",
+  "scope": "./prayer-times-in-karabaglar.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

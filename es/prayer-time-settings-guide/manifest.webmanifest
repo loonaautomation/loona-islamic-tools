@@ -1,0 +1,29 @@
+{
+  "name": "Loona Métodos de Cálculo de los Horarios de Oración Explicados: Karachi, ISNA, MWL, Hanafi frente a Shafi",
+  "short_name": "Métodos de Cálculo de los Horarios de Oración",
+  "description": "Una guía en lenguaje sencillo sobre el cálculo de los horarios de oración: ángulos crepusculares para el Fajr y el Isha, los cinco métodos principales, Asr Hanafi frente a Shafi, y reglas para latitudes altas.",
+  "id": "/loona-islamic-tools/es/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

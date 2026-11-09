@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dirección de la Qibla",
+  "short_name": "Dirección de la Qibla",
+  "description": "Encuentra la dirección de la Qibla en grados desde cualquier ciudad o tu ubicación exacta, con una esfera de brújula en vivo y la distancia a La Meca. Gratis, preciso y privado.",
+  "id": "/loona-islamic-tools/es/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

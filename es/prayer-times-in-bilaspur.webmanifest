@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horarios de oración en Bilāspur",
+  "short_name": "Horarios de oración en Bilāspur",
+  "description": "Horarios de oración de hoy en Bilāspur, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bilāspur.",
+  "id": "/loona-islamic-tools/es/prayer-times-in-bilaspur.html",
+  "start_url": "./prayer-times-in-bilaspur.html",
+  "scope": "./prayer-times-in-bilaspur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contador de Tasbih — Contador digital de dhikr con objetivos y totales | Loona</title>
+<meta name="description" content="Un contador digital de tasbih: SubhanAllah, Alhamdulillah y más preajustes, objetivos de 33/99/100, seguimiento de vueltas, vibración y totales de por vida guardados en tu dispositivo.">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-islamic-tools/tasbih-counter/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-islamic-tools/de/tasbih-counter/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-islamic-tools/fr/tasbih-counter/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-islamic-tools/pt/tasbih-counter/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-islamic-tools/it/tasbih-counter/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-islamic-tools/tasbih-counter/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Islamic Tools">
+<meta property="og:title" content="Contador de Tasbih — Contador digital de dhikr con objetivos y totales | Loona">
+<meta property="og:description" content="Un contador digital de tasbih: SubhanAllah, Alhamdulillah y más preajustes, objetivos de 33/99/100, seguimiento de vueltas, vibración y totales de por vida guardados en tu dispositivo.">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/"><meta property="og:locale" content="es_ES">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-islamic-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Contador de Tasbih — Contador digital de dhikr con objetivos y totales | Loona">
+<meta name="twitter:description" content="Un contador digital de tasbih: SubhanAllah, Alhamdulillah y más preajustes, objetivos de 33/99/100, seguimiento de vueltas, vibración y totales de por vida guardados en tu dispositivo.">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-islamic-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b4f47;--gold:#c9a227;--gold2:#e8c95a;--bg:#f6f3ea;--card:#ffffff;--ink:#1c2422;--mut:#5a6a66}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{background:linear-gradient(135deg,var(--teal),var(--teal2));color:#fff;padding:32px 18px 26px;text-align:center}
+header .brand{color:var(--gold2);font-weight:700;letter-spacing:2px;font-size:.8rem;text-transform:uppercase}
+header h1{font-size:1.65rem;margin:8px auto;max-width:780px}
+header p{color:#d9e8e4;max-width:700px;margin:0 auto;font-size:.97rem}
+.wrap{max-width:1020px;margin:0 auto;padding:22px 16px 40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin-top:8px}
+.card{background:var(--card);border:1px solid #e4ddc8;border-top:4px solid var(--gold);border-radius:12px;padding:16px;display:block;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(6,46,42,.06)}
+a.card:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(6,46,42,.12)}
+.card h2,.card h3{font-size:1.02rem;color:var(--teal);margin-bottom:6px}
+.card p{font-size:.88rem;color:var(--mut)}
+.badge{display:inline-block;margin-top:10px;font-size:.72rem;font-weight:700;padding:3px 9px;border-radius:20px;background:#e7f2ee;color:var(--teal2)}
+.ext .badge{background:#f3ead0;color:#7a6410}
+.sec{margin-top:30px}
+.sec h2{color:var(--teal);font-size:1.25rem;margin-bottom:8px}
+.sec h3{color:var(--teal);font-size:1.05rem;margin:14px 0 6px}
+.sec p{margin-bottom:10px}
+.inshort{background:#eef6f2;border-left:4px solid var(--gold);border-radius:8px;padding:13px 16px;margin:18px 0 4px;font-size:.97rem}
+.note{background:#fdf6dd;border:1px solid #eadfae;border-radius:10px;padding:12px 14px;font-size:.9rem;margin-top:18px}
+.tool{background:var(--card);border:1px solid #e4ddc8;border-radius:14px;padding:18px;box-shadow:0 1px 3px rgba(6,46,42,.06);margin-top:16px}
+.tool label{font-weight:600;font-size:.88rem;color:var(--teal);display:block;margin-bottom:5px}
+.tool select,.tool input[type=text],.tool input[type=number],.tool input[type=date],.tool input[type=month],.tool input[type=search]{width:100%;padding:10px 12px;border:1px solid #cfd8d3;border-radius:9px;font-size:.98rem;background:#fff;color:var(--ink)}
+.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.btn{display:inline-block;background:var(--teal);color:#fff;border:none;padding:11px 20px;border-radius:9px;font-size:.95rem;font-weight:700;cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--teal2)}
+.btn.gold{background:var(--gold);color:#231a00}
+.btn.ghost{background:#e7f2ee;color:var(--teal)}
+.btn.small{padding:8px 14px;font-size:.86rem}
+.times{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-top:16px}
+.tcell{background:#f2f7f4;border:1px solid #dce8e1;border-radius:12px;padding:14px;text-align:center}
+.tcell .tn{font-size:.82rem;font-weight:700;color:var(--teal2);text-transform:uppercase;letter-spacing:1px}
+.tcell .tv{font-size:1.5rem;font-weight:800;color:var(--teal);margin-top:4px}
+.tcell .tv12{font-size:.85rem;color:var(--mut)}
+.tcell.next{border-color:var(--gold);background:#fdf6dd;box-shadow:0 0 0 2px var(--gold) inset}
+.methodline{margin-top:14px;font-size:.88rem;color:var(--mut);background:#f6f3ea;border-radius:8px;padding:9px 12px}
+table.tbl{width:100%;border-collapse:collapse;margin-top:14px;font-size:.92rem;background:#fff}
+table.tbl th{background:var(--teal);color:#fff;text-align:left;padding:9px 10px}
+table.tbl td{border-bottom:1px solid #e7e2d2;padding:8px 10px}
+table.tbl tr:nth-child(even) td{background:#faf8f1}
+table.tbl tr.today td{background:#fdf6dd;font-weight:700}
+.strip{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 4px}
+.strip a{background:#e7f2ee;color:var(--teal);text-decoration:none;font-size:.84rem;font-weight:600;padding:7px 13px;border-radius:20px;border:1px solid #cfded6}
+.strip a:hover{background:#d8ebe1}
+.ar{font-family:"Traditional Arabic","Scheherazade New","Amiri",serif;direction:rtl;text-align:right;line-height:2}
+.faq{margin-top:8px}
+.faq details{background:#fff;border:1px solid #e4ddc8;border-radius:10px;padding:12px 15px;margin-bottom:9px}
+.faq summary{font-weight:700;color:var(--teal);cursor:pointer}
+.faq p{margin-top:7px;font-size:.94rem}
+footer{background:var(--teal);color:#cfe0db;text-align:center;padding:22px 16px;font-size:.85rem;margin-top:36px}
+footer a{color:var(--gold2);text-decoration:none}
+.big{max-width:640px;margin:18px auto 0;background:var(--teal);color:#fff;border-radius:16px;padding:26px 20px;text-align:center}
+.big .bh{font-size:2rem;font-weight:800;color:var(--gold2);line-height:1.3}
+.big .bs{color:#d9e8e4;margin-top:6px}
+.count{font-size:3.4rem;font-weight:800;color:var(--teal);text-align:center;line-height:1.1}
+.taparea{display:block;width:100%;background:#eef6f2;border:2px dashed var(--gold);border-radius:16px;padding:26px 14px;text-align:center;cursor:pointer;user-select:none;-webkit-user-select:none}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;margin-top:12px}
+.cal .dow{font-weight:700;text-align:center;color:var(--teal);font-size:.8rem;padding:4px 0}
+.cal .cell{background:#fff;border:1px solid #e4ddc8;border-radius:9px;min-height:64px;padding:6px;text-align:center}
+.cal .cell .hd{font-size:1.15rem;font-weight:800;color:var(--teal)}
+.cal .cell .gd{font-size:.72rem;color:var(--mut)}
+.cal .cell.dim{opacity:.35}
+.cal .cell.today{border-color:var(--gold);background:#fdf6dd}
+.chk{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid #e4ddc8;border-radius:10px;padding:11px 13px;margin-bottom:8px;font-size:.95rem}
+.chk input{width:19px;height:19px;margin-top:2px;accent-color:var(--teal2)}
+.progress{height:14px;background:#e7e2d2;border-radius:8px;overflow:hidden;margin:10px 0 4px}
+.progress>div{height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2));width:0%}
+.namecard .ar{text-align:center;font-size:1.7rem;color:var(--teal)}
+.namecard{text-align:center}
+.dua .ar{font-size:1.35rem;color:#123f38}
+.dua .src{font-size:.8rem;color:var(--mut);font-style:italic}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.chip{border:1px solid var(--gold);background:#fff;color:var(--teal);border-radius:20px;padding:6px 14px;font-size:.85rem;font-weight:600;cursor:pointer}
+.chip.on{background:var(--gold);color:#231a00}
+@media print{header,footer,.strip,.noprint,.faq,.inshort{display:none!important}body{background:#fff}.tool,.card{box-shadow:none}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"Contador de Tasbih","url":"https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/","applicationCategory":"LifestyleApplication","operatingSystem":"Any (web browser)","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"Tasbih digital y contador de dhikr.","publisher":{"@type":"Organization","name":"Loona Automation"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo funciona el contador de tasbih?","acceptedAnswer":{"@type":"Answer","text":"Toca la gran zona de conteo (o pulsa la barra espaciadora) una vez por recitación. El contador sigue la vuelta actual frente a tu objetivo — 33, 99, 100 o tu propio número — y luego inicia una nueva vuelta automáticamente y suma a tus vueltas y a tu total de por vida."}},{"@type":"Question","name":"¿Vibra al llegar al objetivo?","acceptedAnswer":{"@type":"Answer","text":"En los teléfonos que admiten vibración, el contador da un zumbido corto cuando completas una vuelta, así que puedes contar con los ojos cerrados o el teléfono en el bolsillo."}},{"@type":"Question","name":"¿Se guardan mis totales?","acceptedAnswer":{"@type":"Answer","text":"Sí — las vueltas y los totales de por vida se guardan en tu navegador solo en este dispositivo. No se sube nada. Borrar los datos de tu navegador los reinicia."}},{"@type":"Question","name":"¿Qué dhikr puedo contar?","acceptedAnswer":{"@type":"Answer","text":"Los preajustes incluyen SubhanAllah, Alhamdulillah, Allahu Akbar, La ilaha illallah, Astaghfirullah y Salawat (durud). También puedes escribir cualquier dhikr o frase personalizada tuya."}}]}</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona Islamic Tools",
+      "item": "https://loonaautomation.github.io/loona-islamic-tools/es/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "Contador de Tasbih",
+      "item": "https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header><div class="brand">Loona Automation</div>
+<h1>Contador de Tasbih — Contador digital de dhikr</h1>
+<p>Cuenta tu dhikr diario con objetivos, vueltas y un total de por vida — sin app, sin registro.</p></header>
+<div class="wrap"><div class="inshort"><strong>En resumen:</strong> un tasbih digital de bolsillo: elige un dhikr y un objetivo (33, 99, 100 o personalizado), toca para contar, y el contador sigue las vueltas y tu total histórico — guardado solo en tu teléfono.</div><div class="strip noprint"><a href="../prayer-times/">Horarios de Oración</a><a href="../islamic-date-today/">Fecha islámica de hoy</a><a href="../sehri-iftar-today/">Sehri e Iftar hoy</a><a href="../qibla-direction/">Dirección de la Qibla</a><a href="./">Contador de Tasbih</a><a href="../names-of-allah/">99 Nombres de Allah</a></div><div class="tool"><div class="row"><div><label for="tDhikr">Dhikr</label><select id="tDhikr"><option value="SubhanAllah">SubhanAllah</option><option value="Alhamdulillah">Alhamdulillah</option><option value="Allahu Akbar">Allahu Akbar</option><option value="La ilaha illallah">La ilaha illallah</option><option value="Astaghfirullah">Astaghfirullah</option><option value="Salawat (Durud)">Salawat (Durud)</option><option value="__custom">Personalizado…</option></select></div><div><label for="tCustom">Dhikr personalizado (si se elige)</label><input type="text" id="tCustom" placeholder="Escribe tu dhikr"></div><div><label for="tTarget">Objetivo por vuelta</label><select id="tTarget"><option>33</option><option>99</option><option>100</option><option value="custom">Personalizado</option></select></div><div><label for="tTargetN">Objetivo personalizado</label><input type="number" id="tTargetN" min="1" max="100000" placeholder="p. ej., 500"></div></div><p class="ar" style="text-align:center;font-size:1.6rem;margin-top:16px" id="tAr"></p><button class="taparea" type="button" id="tTap"><span class="count" id="tCount">0</span><br><span style="color:var(--mut)">Toca aquí para contar</span></button><div class="times"><div class="tcell"><div class="tn">Vuelta</div><div class="tv" id="tRound">0</div></div><div class="tcell"><div class="tn">Objetivo</div><div class="tv" id="tTgt">33</div></div><div class="tcell"><div class="tn">Total de por vida</div><div class="tv" id="tTotal">0</div></div></div><p style="text-align:center;margin-top:14px"><button class="btn ghost small" type="button" id="tResetRound">Restablecer vuelta</button> <button class="btn ghost small" type="button" id="tResetAll">Restablecer todo</button></p></div><div class="sec"><h2>Preguntas frecuentes</h2><div class="faq"><details><summary>¿Cómo funciona el contador de tasbih?</summary><p>Toca la gran zona de conteo (o pulsa la barra espaciadora) una vez por recitación. El contador sigue la vuelta actual frente a tu objetivo — 33, 99, 100 o tu propio número — y luego inicia una nueva vuelta automáticamente y suma a tus vueltas y a tu total de por vida.</p></details><details><summary>¿Vibra al llegar al objetivo?</summary><p>En los teléfonos que admiten vibración, el contador da un zumbido corto cuando completas una vuelta, así que puedes contar con los ojos cerrados o el teléfono en el bolsillo.</p></details><details><summary>¿Se guardan mis totales?</summary><p>Sí — las vueltas y los totales de por vida se guardan en tu navegador solo en este dispositivo. No se sube nada. Borrar los datos de tu navegador los reinicia.</p></details><details><summary>¿Qué dhikr puedo contar?</summary><p>Los preajustes incluyen SubhanAllah, Alhamdulillah, Allahu Akbar, La ilaha illallah, Astaghfirullah y Salawat (durud). También puedes escribir cualquier dhikr o frase personalizada tuya.</p></details></div></div><div class="sec"><h2>Cómo funciona</h2><p>El contador es una versión digital de una sarta de cuentas de oración. Elige un dhikr de la lista &mdash; SubhanAllah, Alhamdulillah, Allahu Akbar, La ilaha illallah, Astaghfirullah o Salawat &mdash; o escribe cualquier frase tuya, y luego elige un objetivo: 33, 99, 100, o cualquier número hasta 100,000. Cada toque del botón grande suma uno; cuando el conteo alcanza el objetivo, el teléfono vibra (en dispositivos compatibles con vibración), la vuelta se completa y el conteo pasa directamente a la siguiente vuelta. Tus vueltas y tu total histórico se guardan en este navegador, solo en este dispositivo.</p><h3>Ejemplo resuelto</h3><p>Selecciona SubhanAllah con un objetivo de 33 y toca 33 veces: el teléfono da una vibración corta, el contador de vueltas pasa a 1, y tu total crece en 33. Repítelo dos veces más y tienes el familiar 99 &mdash; tres vueltas completas &mdash; y el total sigue ahí mañana si cierras la página y vuelves.</p><h3>Preguntas frecuentes</h3><div class="faq"><details><summary>¿Puedo fijar un objetivo que no sea 33, 99 ni 100?</summary><p>Sí &mdash; el campo de objetivo personalizado acepta cualquier número de 1 a 100,000, lo que conviene para un wird diario fijo como 500 istighfar o 1,000 salawat, donde los objetivos estándar de cuentas son demasiado pequeños.</p></details><details><summary>¿El total histórico se guarda por separado para cada dhikr?</summary><p>No &mdash; hay un único total compartido y un contador de vueltas para la página, sea cual sea el dhikr que estés contando. Cambiar de SubhanAllah a Astaghfirullah no los reinicia; suman todo lo que has contado en este dispositivo.</p></details><details><summary>Mi iPhone no vibra cuando llego al objetivo &mdash; ¿se ha roto algo?</summary><p>No. La vibración usa la API de Vibración, que los iPhone no proporcionan a las páginas web, así que en un iPhone la vuelta completada se muestra solo en pantalla. En la mayoría de los teléfonos Android la vibración funciona, siempre que esté activada en los ajustes del propio teléfono.</p></details><details><summary>¿Qué pasa con mis totales si borro los datos de mi navegador o cambio de teléfono?</summary><p>Empiezan de nuevo desde cero. Las vueltas y el total viven solo en el almacenamiento de este navegador en este dispositivo &mdash; nada se guarda en línea ni se vincula a una cuenta &mdash; así que borrar los datos del sitio, o cambiar a un teléfono nuevo, inicia un conteo fresco.</p></details><details><summary>¿El contador sigue más allá del objetivo?</summary><p>Sí. Al llegar al objetivo hay una vibración, el contador de vueltas sube uno, y el conteo reinicia desde cero automáticamente &mdash; así puedes seguir hasta 66, 99 y más allá sin pulsar nada ni perder tu sitio.</p></details></div></div><div class="sec"><h2>Herramientas islámicas relacionadas</h2><div class="grid"><a class="card" href="../duas-library/"><h3>Biblioteca de Duas</h3><p>Duas diarias auténticas con texto en árabe, transliteración, traducción al español y fuentes — ordenadas por momento.</p><span class="badge">Abrir herramienta</span></a><a class="card" href="../names-of-allah/"><h3>99 Nombres de Allah</h3><p>Asma-ul-Husna: los 99 nombres con texto en caligrafía árabe, transliteración y significados en español. Buscable.</p><span class="badge">Abrir herramienta</span></a><a class="card" href="../prayer-times/"><h3>Horarios de Oración</h3><p>Horarios diarios de Salah precisos para cualquier ciudad del mundo, con cinco métodos de cálculo y Asr Hanafi o Shafi.</p><span class="badge">Abrir herramienta</span></a><a class="card" href="../islamic-date-today/"><h3>Fecha islámica de hoy</h3><p>La fecha de la hégira de hoy en letra grande y clara — día, nombre del mes y año — con la fecha gregoriana al lado.</p><span class="badge">Abrir herramienta</span></a></div></div><script>var DHIKR=[["SubhanAllah","سُبْحَانَ الله"],["Alhamdulillah","الْحَمْدُ لِلَّه"],["Allahu Akbar","اللَّهُ أَكْبَر"],["La ilaha illallah","لَا إِلَهَ إِلَّا الله"],["Astaghfirullah","أَسْتَغْفِرُ الله"],["Salawat (Durud)","اللَّهُمَّ صَلِّ عَلَى مُحَمَّدٍ"]];var count=0,rounds=0,total=0;try{var s=JSON.parse(localStorage.getItem("loonaTasbih")||"{}");total=s.total||0;rounds=s.rounds||0}catch(e){}var dEl=document.getElementById("tDhikr"),cEl=document.getElementById("tCustom"),tgEl=document.getElementById("tTarget"),tnEl=document.getElementById("tTargetN");function target(){return tgEl.value==="custom"?(parseInt(tnEl.value,10)||33):parseInt(tgEl.value,10)}function save(){try{localStorage.setItem("loonaTasbih",JSON.stringify({total:total,rounds:rounds}))}catch(e){}}function draw(){document.getElementById("tCount").textContent=count;document.getElementById("tRound").textContent=rounds;document.getElementById("tTotal").textContent=total.toLocaleString();document.getElementById("tTgt").textContent=target();var ar="";if(dEl.value==="__custom"){ar=cEl.value}else{for(var i=0;i<DHIKR.length;i++)if(DHIKR[i][0]===dEl.value)ar=DHIKR[i][1];}document.getElementById("tAr").textContent=ar;}function tap(){count++;total++;if(count>=target()){count=0;rounds++;if(navigator.vibrate)navigator.vibrate(60)}save();draw()}document.getElementById("tTap").addEventListener("click",tap);document.addEventListener("keydown",function(e){if(e.code==="Space"&&document.activeElement.tagName!=="INPUT"&&document.activeElement.tagName!=="SELECT"){e.preventDefault();tap()}});[dEl,cEl,tgEl,tnEl].forEach(function(el){el.addEventListener("change",draw);el.addEventListener("input",draw)});document.getElementById("tResetRound").addEventListener("click",function(){count=0;draw()});document.getElementById("tResetAll").addEventListener("click",function(){if(confirm("¿Restablecer las rondas y el total acumulado a cero?")){count=0;rounds=0;total=0;save();draw()}});draw();</script></div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">Inserta esta herramienta en tu sitio web — gratis</h2>
+<p style="margin:0 0 12px;line-height:1.6">Añade esta herramienta a tu propio sitio web o blog — es completamente gratuita, no necesita registro y siempre muestra la última versión. Copia el código siguiente y pégalo en tu página donde quieras que aparezca la herramienta. Mantener la pequeña línea de crédito &ldquo;Powered by Loona Automation&rdquo; bajo el embed ayuda a mantener esta herramienta gratuita &mdash; pero puedes darle estilo o quitarla; la herramienta funciona de cualquier modo.</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Tasbih Counter by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;Desarrollado por &lt;a href="https://loonaautomation.github.io/loona-islamic-tools/es/tasbih-counter/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; gratis Contador de Tasbih&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">Copiar código de inserción</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='¡Copiado!';setTimeout(function(){b.textContent='Copiar código de inserción';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+<footer><p><strong>Loona Islamic Tools</strong> — un conjunto de herramientas gratuito de <a href="https://loonaautomation.github.io/">Loona Automation</a>. Todo funciona 100% en tu navegador; tus ubicaciones y ajustes nunca salen de tu dispositivo.</p><p style="margin-top:8px"><a href="../about.html">Acerca de</a> &nbsp;·&nbsp; <a href="../privacy.html">Política de Privacidad</a> &nbsp;·&nbsp; <a href="../terms.html">Términos</a> &nbsp;·&nbsp; <a href="../contact.html">Contacto</a></p><p style="margin-top:8px">Preguntas o correcciones: <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Instalar app';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Instala esta app: toca el botón Compartir y luego elige «Añadir a pantalla de inicio».');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

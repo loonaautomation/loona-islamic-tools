@@ -1,0 +1,29 @@
+{
+  "name": "Loona Año de la hégira 1454",
+  "short_name": "Año de la hégira 1454",
+  "description": "El año de la hégira 1454 AH: fechas de inicio y fin, los 12 meses islámicos con sus fechas gregorianas, y las fechas clave del año, incluidos Ramadán y los dos Eids, según el calendario Umm al-Qura.",
+  "id": "/loona-islamic-tools/es/hijri-year-1454.html",
+  "start_url": "./hijri-year-1454.html",
+  "scope": "./hijri-year-1454.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

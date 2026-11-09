@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horario de Ramadán en Canadá 2027 (1448)",
+  "short_name": "Horario de Ramadán en Canadá 2027 (1448)",
+  "description": "Horario de Ramadán 2027 para Canadá: horarios del fin del Sehri (Fajr) y del Iftar (Maghrib) para cada día de Ramadán 1448, calculados para Ottawa. Previsto del 8 de febrero al 8 de marzo de 2027, sujeto al avistamiento de la luna.",
+  "id": "/loona-islamic-tools/es/ramadan-timetable-in-canada.html",
+  "start_url": "./ramadan-timetable-in-canada.html",
+  "scope": "./ramadan-timetable-in-canada.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
