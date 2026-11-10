@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hicri Takvim",
+  "short_name": "Hicri Takvim",
+  "description": "Her günün Miladi tarihini de gösteren temiz bir İslami takvimde herhangi bir Hicri ay ve yıla göz atın. Umm al-Qura takvimi, ücretsiz ve her zaman güncel.",
+  "id": "/loona-islamic-tools/tr/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

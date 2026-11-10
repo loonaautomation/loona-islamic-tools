@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jalandhar 2027 (1448) Ramazan Çizelgesi",
+  "short_name": "Jalandhar 2027 (1448) Ramazan Çizelgesi",
+  "description": "2027 Ramazan çizelgesi — Jalandhar, Hindistan: 1448 Ramazan ayının her günü için Sahur sonu (İmsak) ve İftar (Akşam) vakitleri. Beklenen: 8 Şubat ile 8 Mart 2027 arası, hilalin görülmesine bağlıdır.",
+  "id": "/loona-islamic-tools/tr/ramadan-timetable-in-jalandhar.html",
+  "start_url": "./ramadan-timetable-in-jalandhar.html",
+  "scope": "./ramadan-timetable-in-jalandhar.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

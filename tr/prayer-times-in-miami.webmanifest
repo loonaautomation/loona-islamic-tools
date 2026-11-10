@@ -1,0 +1,29 @@
+{
+  "name": "Loona Miami Namaz Vakitleri",
+  "short_name": "Miami Namaz Vakitleri",
+  "description": "Bugünün namaz vakitleri — Miami, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Miami için cihazınızda canlı hesaplanır.",
+  "id": "/loona-islamic-tools/tr/prayer-times-in-miami.html",
+  "start_url": "./prayer-times-in-miami.html",
+  "scope": "./prayer-times-in-miami.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

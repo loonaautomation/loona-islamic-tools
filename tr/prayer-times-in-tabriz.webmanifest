@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabriz Namaz Vakitleri",
+  "short_name": "Tabriz Namaz Vakitleri",
+  "description": "Bugünün namaz vakitleri — Tabriz, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tabriz için cihazınızda canlı hesaplanır.",
+  "id": "/loona-islamic-tools/tr/prayer-times-in-tabriz.html",
+  "start_url": "./prayer-times-in-tabriz.html",
+  "scope": "./prayer-times-in-tabriz.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

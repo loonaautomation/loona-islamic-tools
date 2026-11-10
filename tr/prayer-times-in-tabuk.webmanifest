@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabuk Namaz Vakitleri",
+  "short_name": "Tabuk Namaz Vakitleri",
+  "description": "Bugünün namaz vakitleri — Tabuk, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Tabuk için cihazınızda canlı hesaplanır.",
+  "id": "/loona-islamic-tools/tr/prayer-times-in-tabuk.html",
+  "start_url": "./prayer-times-in-tabuk.html",
+  "scope": "./prayer-times-in-tabuk.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

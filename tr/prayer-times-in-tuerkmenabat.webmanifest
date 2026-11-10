@@ -1,0 +1,29 @@
+{
+  "name": "Loona Türkmenabat Namaz Vakitleri",
+  "short_name": "Türkmenabat Namaz Vakitleri",
+  "description": "Bugünün namaz vakitleri — Türkmenabat, Türkmenistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Türkmenabat için cihazınızda canlı hesaplanır.",
+  "id": "/loona-islamic-tools/tr/prayer-times-in-tuerkmenabat.html",
+  "start_url": "./prayer-times-in-tuerkmenabat.html",
+  "scope": "./prayer-times-in-tuerkmenabat.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ürdün Ramazan Çizelgesi 2027 (1448)",
+  "short_name": "Ürdün Ramazan Çizelgesi 2027 (1448)",
+  "description": "2027 Ramazan çizelgesi — Ürdün: 1448 Ramazan ayının her günü için Sahur sonu (İmsak) ve İftar (Akşam) vakitleri, Amman için hesaplanır. Beklenen: 8 Şubat ile 8 Mart 2027 arası, hilalin görülmesine bağlıdır.",
+  "id": "/loona-islamic-tools/tr/ramadan-timetable-in-jordan.html",
+  "start_url": "./ramadan-timetable-in-jordan.html",
+  "scope": "./ramadan-timetable-in-jordan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allah'ın 99 İsmi",
+  "short_name": "Allah'ın 99 İsmi",
+  "description": "Allah'ın 99 isminin tamamı; Arapça metin, transliterasyon ve Türkçe anlamlarıyla tek bir aranabilir sayfada. Esmaül Hüsna'yı ücretsiz öğrenin ve ezberleyin, her cihazda.",
+  "id": "/loona-islamic-tools/tr/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

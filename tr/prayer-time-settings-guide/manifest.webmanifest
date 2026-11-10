@@ -1,0 +1,29 @@
+{
+  "name": "Loona Namaz Vakti Hesaplama Yöntemleri Açıklaması: Karachi, ISNA, MWL, Hanefi ve Şafii Karşılaştırması",
+  "short_name": "Namaz Vakti Hesaplama Yöntemleri Açıklaması:",
+  "description": "Namaz vakti hesaplamasına dair sade bir rehber: İmsak ve Yatsı için alacakaranlık açıları, beş büyük yöntem, Hanefi ve Şafii İkindi karşılaştırması ve yüksek enlem kuralları.",
+  "id": "/loona-islamic-tools/tr/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

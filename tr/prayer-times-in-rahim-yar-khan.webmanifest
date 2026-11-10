@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rahim Yar Khan Namaz Vakitleri",
+  "short_name": "Rahim Yar Khan Namaz Vakitleri",
+  "description": "Bugünün namaz vakitleri — Rahim Yar Khan, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Rahim Yar Khan için cihazınızda canlı hesaplanır.",
+  "id": "/loona-islamic-tools/tr/prayer-times-in-rahim-yar-khan.html",
+  "start_url": "./prayer-times-in-rahim-yar-khan.html",
+  "scope": "./prayer-times-in-rahim-yar-khan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
