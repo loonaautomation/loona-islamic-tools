@@ -1,0 +1,29 @@
+{
+  "name": "Loona رمضان ٹائم ٹیبل",
+  "short_name": "رمضان ٹائم ٹیبل",
+  "description": "کسی بھی شہر اور ہجری سال کے لیے مکمل رمضان ٹائم ٹیبل: رمضان کے ہر دن کی سحری کا اختتام اور افطار کے اوقات، عیسوی تاریخوں اور روزے کی لمبائی کے ساتھ۔ مفت، چھپنے کے قابل۔",
+  "id": "/loona-islamic-tools/ur/ramadan-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

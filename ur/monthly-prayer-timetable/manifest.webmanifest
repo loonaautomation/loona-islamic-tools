@@ -1,0 +1,29 @@
+{
+  "name": "Loona ماہانہ نماز کا ٹائم ٹیبل",
+  "short_name": "ماہانہ نماز کا ٹائم ٹیبل",
+  "description": "کسی بھی شہر کے لیے چھپنے کے قابل ماہانہ نماز ٹائم ٹیبل بنائیں: پورے مہینے کے تمام چھ اوقات، آپ کے حساب کے طریقے اور عصر کے مکتب کے ساتھ، مفت اور نجی۔",
+  "id": "/loona-islamic-tools/ur/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

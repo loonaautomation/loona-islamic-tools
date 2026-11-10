@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamic Tools کے بارے میں",
+  "short_name": "Loona Islamic Tools کے بارے میں",
+  "description": "Loona Islamic Tools کے بارے میں: Loona Automation کے بنائے ہوئے مفت نماز کے اوقات، ہجری کیلنڈر، قبلہ، تسبیح اور دعا ٹولز کا مجموعہ۔ اوقات کا حساب کیسے لگایا جاتا ہے۔",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ur/about.html"
+}

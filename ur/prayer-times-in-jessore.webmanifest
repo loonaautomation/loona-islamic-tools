@@ -1,0 +1,29 @@
+{
+  "name": "Loona جیسور میں نماز کے اوقات",
+  "short_name": "جیسور میں نماز کے اوقات",
+  "description": "جیسور، بنگلہ دیش میں آج کے نماز اوقات: فجر، طلوعِ آفتاب، ظہر، عصر (حنفی)، مغرب اور عشاء، نیز قبلے کی سمت اور آج کی ہجری تاریخ۔ کراچی طریقہ، آپ کی ڈیوائس پر لائیو حساب شدہ برائے جیسور۔",
+  "id": "/loona-islamic-tools/ur/prayer-times-in-jessore.html",
+  "start_url": "./prayer-times-in-jessore.html",
+  "scope": "./prayer-times-in-jessore.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona تسبیح کاؤنٹر",
+  "short_name": "تسبیح کاؤنٹر",
+  "description": "ایک ڈیجیٹل تسبیح کاؤنٹر: سبحان اللہ، الحمد للہ اور مزید پری سیٹس، 33/99/100 اہداف، چکر ٹریکنگ، تھرتھراہٹ اور زندگی بھر کے مجموعے آپ کی ڈیوائس پر محفوظ۔",
+  "id": "/loona-islamic-tools/ur/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

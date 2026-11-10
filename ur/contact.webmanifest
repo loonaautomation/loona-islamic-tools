@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamic Tools سے رابطہ",
+  "short_name": "Loona Islamic Tools سے رابطہ",
+  "description": "Loona Islamic Tools اور Loona Automation سے رابطہ: نماز کے اوقات، ہجری تاریخوں اور دعاؤں کے مواد کی اصلاح، تجاویز اور شراکت کے سوالات کے لیے ای میل۔",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ur/contact.html"
+}

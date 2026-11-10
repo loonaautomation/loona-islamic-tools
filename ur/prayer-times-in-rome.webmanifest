@@ -1,0 +1,29 @@
+{
+  "name": "Loona روم میں نماز کے اوقات",
+  "short_name": "روم میں نماز کے اوقات",
+  "description": "روم، اٹلی میں آج کے نماز اوقات: فجر، طلوعِ آفتاب، ظہر، عصر (شافعی)، مغرب اور عشاء، نیز قبلہ سمت اور آج کی ہجری تاریخ۔ مسلم ورلڈ لیگ طریقہ، آپ کی ڈیوائس پر روم کے لیے براہ راست حساب۔",
+  "id": "/loona-islamic-tools/ur/prayer-times-in-rome.html",
+  "start_url": "./prayer-times-in-rome.html",
+  "scope": "./prayer-times-in-rome.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

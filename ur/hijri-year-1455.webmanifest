@@ -1,0 +1,29 @@
+{
+  "name": "Loona ہجری سال 1455",
+  "short_name": "ہجری سال 1455",
+  "description": "ہجری سال 1455 ہجری: آغاز و اختتام کی تاریخیں، تمام 12 اسلامی مہینے ان کی عیسوی تاریخوں کے ساتھ، اور سال کی اہم تاریخیں بشمول رمضان اور دونوں عیدیں، ام القریٰ کیلنڈر پر۔",
+  "id": "/loona-islamic-tools/ur/hijri-year-1455.html",
+  "start_url": "./hijri-year-1455.html",
+  "scope": "./hijri-year-1455.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

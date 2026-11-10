@@ -1,0 +1,29 @@
+{
+  "name": "Loona آج کے نماز کے اوقات",
+  "short_name": "آج کے نماز کے اوقات",
+  "description": "آج کے فجر، ظہر، عصر، مغرب اور عشاء کے اوقات کسی بھی شہر کے لیے حاصل کریں: کراچی، ISNA، MWL اور مزید طریقے، حنفی یا شافعی عصر، عین کوآرڈینیٹس کی سہولت۔",
+  "id": "/loona-islamic-tools/ur/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
