@@ -99,6 +99,21 @@ footer a{color:var(--gold2);text-decoration:none}
 .chip{border:1px solid var(--gold);background:#fff;color:var(--teal);border-radius:20px;padding:6px 14px;font-size:.85rem;font-weight:600;cursor:pointer}
 .chip.on{background:var(--gold);color:#231a00}
 @media print{header,footer,.strip,.noprint,.faq,.inshort{display:none!important}body{background:#fff}.tool,.card{box-shadow:none}}
+
+.ls{max-width:640px;margin:22px auto 4px;position:relative;text-align:left}
+.ls-box{display:flex;background:#fff;border-radius:999px;overflow:hidden;box-shadow:0 8px 24px rgba(0,0,0,.28);border:2px solid var(--gold,#d4af37)}
+.ls-box input{flex:1;border:0;outline:0;padding:14px 18px;font-size:1.02rem;min-width:0;color:var(--ink,#12211c);background:#fff}
+.ls-box button{border:0;background:var(--gold,#d4af37);color:#231a00;font-weight:800;padding:0 22px;font-size:1rem;cursor:pointer}
+.ls-box button:hover{background:var(--gold2,#b8912a)}
+.ls-list{position:absolute;left:0;right:0;top:calc(100% + 8px);background:#fff;border-radius:14px;box-shadow:0 18px 44px rgba(0,0,0,.35);z-index:60;max-height:70vh;overflow-y:auto;text-align:left}
+.ls-item{display:block;padding:10px 16px;text-decoration:none;border-bottom:1px solid #eee9da}
+.ls-item:last-of-type{border-bottom:0}
+.ls-item:hover,.ls-item.act{background:#fbf6df}
+.ls-nm{font-weight:700;color:var(--ink,#12211c)}
+.ls-badge{display:inline-block;margin-left:8px;background:var(--teal,#062e2a);color:#ffe9a8;font-size:.68rem;font-weight:700;padding:2px 8px;border-radius:999px;vertical-align:2px;white-space:nowrap}
+.ls-ds{display:block;color:#5a6660;font-size:.85rem;margin-top:1px}
+.ls-none{padding:12px 16px;color:#5a6660;font-size:.92rem}
+@media(max-width:560px){.ls-box button{padding:0 14px}.ls-box input{padding:12px 14px;font-size:.98rem}}
 </style>
 <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"Loona Islamic Tools","url":"https://loonaautomation.github.io/loona-islamic-tools/","publisher":{"@type":"Organization","name":"Loona Automation"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Are these Islamic tools free to use?","acceptedAnswer":{"@type":"Answer","text":"Yes. Every tool on Loona Islamic Tools is 100% free, with no sign-up and no account. Open any page and use it right away."}},{"@type":"Question","name":"How are the prayer times calculated?","acceptedAnswer":{"@type":"Answer","text":"Times are calculated in your browser with the standard solar (PrayTimes) method used by mosques and apps worldwide. The default method is the University of Islamic Sciences, Karachi (Fajr 18°, Isha 18°) with Hanafi Asr, and you can switch method, Asr school and city on every prayer page."}},{"@type":"Question","name":"Is my location or personal data uploaded anywhere?","acceptedAnswer":{"@type":"Answer","text":"No. All calculations run 100% on your device. Your chosen city, settings and tasbih totals are stored only in your own browser (localStorage) and are never sent to a server."}},{"@type":"Question","name":"Which Hijri calendar do you use?","acceptedAnswer":{"@type":"Answer","text":"The calendar pages use the Umm al-Qura calendar built into your device (via the internationalised date system). Actual month starts can differ by a day in some countries because of local moon sighting."}},{"@type":"Question","name":"Why does Asr time differ between Hanafi and Shafi settings?","acceptedAnswer":{"@type":"Answer","text":"The schools use different shadow factors: Asr begins when an object’s shadow equals its height (factor 1, Shafi) or twice its height (factor 2, Hanafi). Both options are provided, and the page always shows which one is in use."}}]}</script>
 <script type="application/ld+json">
@@ -122,7 +137,12 @@ footer a{color:var(--gold2);text-decoration:none}
 <body>
 <header><div class="brand">Loona Automation</div>
 <h1>Islamic Tools — Prayer Times, Hijri Calendar, Qibla & Daily Duas</h1>
-<p>A complete set of free, private Islamic tools by Loona Automation. No sign-up — every calculation runs in your browser, on your device.</p></header>
+<p>A complete set of free, private Islamic tools by Loona Automation. No sign-up — every calculation runs in your browser, on your device.</p>
+<div class="ls"><form id="lsForm" role="search" autocomplete="off">
+<div class="ls-box"><input id="lsInput" type="search" placeholder="Search 42 Islamic tools&hellip; try &lsquo;prayer&rsquo;" aria-label="Search 42 Islamic tools" autocomplete="off"><button type="submit">Search</button></div>
+<div id="lsList" class="ls-list" role="listbox" hidden></div>
+</form></div>
+</header>
 <div class="wrap"><div class="inshort"><strong>In short:</strong> Loona Islamic Tools gives you accurate prayer times, today’s Hijri date, Qibla direction, a Ramadan timetable, a digital tasbih, the 99 Names of Allah and a library of authentic daily duas — all free, with no sign-up, and everything calculated privately on your own device.</div><div class="tool noprint"><div class="row"><div><label for="hCity">Your city</label><select id="hCity"><option value="0">Faisalabad, Pakistan</option><option value="1">Lahore, Pakistan</option><option value="2">Karachi, Pakistan</option><option value="3">Islamabad, Pakistan</option><option value="4">Rawalpindi, Pakistan</option><option value="5">Multan, Pakistan</option><option value="6">Peshawar, Pakistan</option><option value="7">Quetta, Pakistan</option><option value="8">Makkah, Saudi Arabia</option><option value="9">Madinah, Saudi Arabia</option><option value="10">Dubai, UAE</option><option value="11">London, United Kingdom</option><option value="12">New York, United States</option></select></div><div><label for="hMethod">Calculation method</label><select id="hMethod"><option value="karachi">University of Islamic Sciences, Karachi</option><option value="isna">Islamic Society of North America (ISNA)</option><option value="mwl">Muslim World League</option><option value="egypt">Egyptian General Authority of Survey</option><option value="makkah">Umm al-Qura University, Makkah</option></select></div><div><label for="hAsr">Asr school</label><select id="hAsr"><option value="2">Hanafi (factor 2)</option><option value="1">Shafi (factor 1)</option></select></div></div><p style="margin-top:12px;font-size:1.05rem">Today is <strong id="hHijri">…</strong> <span style="color:var(--mut)" id="hGreg"></span></p><div class="times" id="hTimes"></div><p class="methodline" id="hMethodLine"></p><p style="margin-top:10px"><a class="btn small" href="prayer-times/">Open the full Prayer Times tool</a> <a class="btn small ghost" href="sehri-iftar-today/">Sehri &amp; Iftar today</a></p></div><div class="sec"><h2>All Islamic Tools</h2><div class="grid"><a class="card" href="prayer-times/"><h3>Prayer Times</h3><p>Accurate daily Salah times for any city in the world, with five calculation methods and Hanafi or Shafi Asr.</p><span class="badge">Open tool</span></a><a class="card" href="islamic-date-today/"><h3>Islamic Date Today</h3><p>Today’s Hijri date in big, clear type — day, month name and year — with the Gregorian date alongside.</p><span class="badge">Open tool</span></a><a class="card" href="sehri-iftar-today/"><h3>Sehri & Iftar Today</h3><p>Today’s Sehri end (Fajr) and Iftar (Maghrib) times with a live countdown to the next one.</p><span class="badge">Open tool</span></a><a class="card" href="qibla-direction/"><h3>Qibla Direction</h3><p>The exact Qibla bearing in degrees for your city or location, with a compass dial and distance to Makkah.</p><span class="badge">Open tool</span></a><a class="card" href="hijri-calendar/"><h3>Hijri Calendar</h3><p>A full Islamic month calendar showing every Hijri day with its Gregorian date side by side.</p><span class="badge">Open tool</span></a><a class="card" href="ramadan-timetable/"><h3>Ramadan Timetable</h3><p>A printable day-by-day Ramadan timetable for your city: Sehri end and Iftar for all 29–30 days.</p><span class="badge">Open tool</span></a><a class="card" href="monthly-prayer-timetable/"><h3>Monthly Prayer Timetable</h3><p>A printable full-month prayer timetable for your home or masjid — all six times for every day.</p><span class="badge">Open tool</span></a><a class="card" href="tasbih-counter/"><h3>Tasbih Counter</h3><p>A digital tasbih with dhikr presets, targets of 33, 99 or 100, round counting and saved lifetime totals.</p><span class="badge">Open tool</span></a><a class="card" href="names-of-allah/"><h3>99 Names of Allah</h3><p>Asma-ul-Husna: all 99 names with Arabic calligraphy text, transliteration and English meanings. Searchable.</p><span class="badge">Open tool</span></a><a class="card" href="duas-library/"><h3>Duas Library</h3><p>Authentic daily duas with Arabic text, transliteration, English translation and sources — sorted by moment.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-time-settings-guide/"><h3>Prayer Time Settings Guide</h3><p>How prayer-time calculation methods work, what Hanafi vs Shafi Asr means, and how high latitudes are handled.</p><span class="badge">Open tool</span></a><a class="card" href="umrah-checklist/"><h3>Umrah Checklist</h3><p>A complete interactive Umrah preparation checklist — documents, packing and ibadah — with progress tracking.</p><span class="badge">Open tool</span></a></div></div><div class="sec"><h2>Prayer Times by City</h2><p>Daily Salah times for 30 major cities, calculated on your device with the Karachi method and Hanafi Asr by default — method and Asr school can be changed on every page.</p><p style="margin-top:14px"><strong>Pakistan</strong></p><div class="grid"><a class="card" href="prayer-times-in-karachi.html"><h3>Prayer Times in Karachi</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Karachi, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-lahore.html"><h3>Prayer Times in Lahore</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Lahore, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-islamabad.html"><h3>Prayer Times in Islamabad</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Islamabad, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-faisalabad.html"><h3>Prayer Times in Faisalabad</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Faisalabad, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-rawalpindi.html"><h3>Prayer Times in Rawalpindi</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Rawalpindi, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-multan.html"><h3>Prayer Times in Multan</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Multan, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-peshawar.html"><h3>Prayer Times in Peshawar</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Peshawar, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-quetta.html"><h3>Prayer Times in Quetta</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Quetta, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-sialkot.html"><h3>Prayer Times in Sialkot</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Sialkot, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-hyderabad.html"><h3>Prayer Times in Hyderabad</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Hyderabad, Pakistan — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a></div><p style="margin-top:14px"><strong>Gulf & Middle East</strong></p><div class="grid"><a class="card" href="prayer-times-in-makkah.html"><h3>Prayer Times in Makkah</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Makkah, Saudi Arabia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-madinah.html"><h3>Prayer Times in Madinah</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Madinah, Saudi Arabia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-riyadh.html"><h3>Prayer Times in Riyadh</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Riyadh, Saudi Arabia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-dubai.html"><h3>Prayer Times in Dubai</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Dubai, UAE — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-abu-dhabi.html"><h3>Prayer Times in Abu Dhabi</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Abu Dhabi, UAE — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-doha.html"><h3>Prayer Times in Doha</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Doha, Qatar — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-kuwait-city.html"><h3>Prayer Times in Kuwait City</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Kuwait City, Kuwait — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-muscat.html"><h3>Prayer Times in Muscat</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Muscat, Oman — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a></div><p style="margin-top:14px"><strong>Around the World</strong></p><div class="grid"><a class="card" href="prayer-times-in-istanbul.html"><h3>Prayer Times in Istanbul</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Istanbul, Türkiye — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-cairo.html"><h3>Prayer Times in Cairo</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Cairo, Egypt — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-london.html"><h3>Prayer Times in London</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for London, United Kingdom — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-paris.html"><h3>Prayer Times in Paris</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Paris, France — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-berlin.html"><h3>Prayer Times in Berlin</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Berlin, Germany — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-new-york.html"><h3>Prayer Times in New York</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for New York, United States — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-toronto.html"><h3>Prayer Times in Toronto</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Toronto, Canada — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-kuala-lumpur.html"><h3>Prayer Times in Kuala Lumpur</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Kuala Lumpur, Malaysia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-jakarta.html"><h3>Prayer Times in Jakarta</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Jakarta, Indonesia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-dhaka.html"><h3>Prayer Times in Dhaka</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Dhaka, Bangladesh — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-delhi.html"><h3>Prayer Times in Delhi</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Delhi, India — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a><a class="card" href="prayer-times-in-sydney.html"><h3>Prayer Times in Sydney</h3><p>Today’s Fajr, Dhuhr, Asr, Maghrib and Isha times for Sydney, Australia — with next-prayer countdown, Qibla direction and the Hijri date.</p><span class="badge">Open tool</span></a></div></div><div class="sec"><h2>More from Loona</h2><div class="grid"><a class="card ext" href="https://loonaautomation.github.io/loona-calculators/zakat-calculator/"><h3>Zakat Calculator</h3><p>Calculate 2.5% Zakat on your net zakatable assets with the gold and silver nisab check — from Loona Calculators.</p><span class="badge">Loona Calculators tool</span></a><a class="card ext" href="https://loonaautomation.github.io/loona-calculators/hijri-date-converter/"><h3>Hijri Date Converter</h3><p>Convert any date between the Gregorian and Hijri calendars, in either direction — from Loona Calculators.</p><span class="badge">Loona Calculators tool</span></a></div></div><div class="sec"><h2>Frequently Asked Questions</h2><div class="faq"><details><summary>Are these Islamic tools free to use?</summary><p>Yes. Every tool on Loona Islamic Tools is 100% free, with no sign-up and no account. Open any page and use it right away.</p></details><details><summary>How are the prayer times calculated?</summary><p>Times are calculated in your browser with the standard solar (PrayTimes) method used by mosques and apps worldwide. The default method is the University of Islamic Sciences, Karachi (Fajr 18°, Isha 18°) with Hanafi Asr, and you can switch method, Asr school and city on every prayer page.</p></details><details><summary>Is my location or personal data uploaded anywhere?</summary><p>No. All calculations run 100% on your device. Your chosen city, settings and tasbih totals are stored only in your own browser (localStorage) and are never sent to a server.</p></details><details><summary>Which Hijri calendar do you use?</summary><p>The calendar pages use the Umm al-Qura calendar built into your device (via the internationalised date system). Actual month starts can differ by a day in some countries because of local moon sighting.</p></details><details><summary>Why does Asr time differ between Hanafi and Shafi settings?</summary><p>The schools use different shadow factors: Asr begins when an object’s shadow equals its height (factor 1, Shafi) or twice its height (factor 2, Hanafi). Both options are provided, and the page always shows which one is in use.</p></details></div></div><script>/* Loona Islamic Tools — prayer-time engine (PrayTimes solar method), Hijri helpers, Qibla.
    Pure client-side. Works in browser and Node (for tests). */
 (function (global) {
@@ -313,6 +333,239 @@ footer a{color:var(--gold2);text-decoration:none}
 </script>
 <script>var P=window.LoonaPrayer;function hRender(){var ci=+document.getElementById("hCity").value;var c=P.CITIES[ci];var m=document.getElementById("hMethod").value;var a=+document.getElementById("hAsr").value;var now=new Date();var t=P.computeTimes({year:now.getFullYear(),month:now.getMonth()+1,day:now.getDate(),lat:c.lat,lng:c.lng,timeZone:c.tz,method:m,asr:a});var names=[["Fajr","fajr"],["Sunrise","sunrise"],["Dhuhr","dhuhr"],["Asr","asr"],["Maghrib","maghrib"],["Isha","isha"]];document.getElementById("hTimes").innerHTML=names.map(function(n){return "<div class=\"tcell\"><div class=\"tn\">"+n[0]+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");var hj=P.hijriLong(now);document.getElementById("hHijri").textContent=hj.text;document.getElementById("hGreg").textContent="("+now.toLocaleDateString("en-GB",{weekday:"long",day:"numeric",month:"long",year:"numeric"})+")";document.getElementById("hMethodLine").textContent="Method: "+P.METHODS[m].name+" \u00B7 Asr: "+(a===2?"Hanafi (factor 2)":"Shafi (factor 1)")+" \u00B7 City: "+c.name+" \u00B7 Timezone: "+c.tz;}["hCity","hMethod","hAsr"].forEach(function(id){document.getElementById(id).addEventListener("change",hRender)});hRender();</script></div>
 <footer><p><strong>Loona Islamic Tools</strong> — a free tool set by <a href="https://loonaautomation.github.io/">Loona Automation</a>. Everything runs 100% in your browser; your locations and settings never leave your device.</p><p style="margin-top:8px"><a href="about.html">About</a> &nbsp;·&nbsp; <a href="privacy.html">Privacy Policy</a> &nbsp;·&nbsp; <a href="terms.html">Terms</a> &nbsp;·&nbsp; <a href="contact.html">Contact</a></p><p style="margin-top:8px">Questions or corrections: <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p></footer>
+<script>/*loona-islamic-search*/
+/* Loona Islamic Tools search (per-site build of the Loona hub tool search v2) — lazy-loads /search-index.json on first focus/typing.
+   v2 fixes: a failed fetch no longer poisons the session (it retries on the next
+   keystroke/focus), a "Loading tools…" state shows while the index downloads,
+   an embedded popular-tools fallback keeps search alive offline, Roman Urdu
+   aliases, joined-word matching, dedupe and tool-over-guide ranking. */
+(function () {
+  "use strict";
+  var form = document.getElementById('lsForm'),
+      input = document.getElementById('lsInput'),
+      list = document.getElementById('lsList');
+  if (!form || !input || !list) return;
+  var INDEX_URL = '/loona-islamic-tools/search-index.json';
+  var STR = {"loading": "Loading tools…", "fb": "Showing popular tools — the full index is on its way…", "zero1": "No exact match for “", "zero2": "” — try these popular tools:"};
+  var FALLBACK = [{"n": "Prayer Times", "u": "https://loonaautomation.github.io/loona-islamic-tools/prayer-times/", "s": "Loona Islamic Tools", "d": "Accurate daily Salah times for any city in the world, with five calculation methods and Hanafi or Shafi Asr.", "k": "prayer times prayer times accurate daily salah times for any city in the world with five calculation methods and hanafi or shafi asr", "p": 0, "c": "Tool"}, {"n": "Islamic Date Today", "u": "https://loonaautomation.github.io/loona-islamic-tools/islamic-date-today/", "s": "Loona Islamic Tools", "d": "Today’s Hijri date in big, clear type — day, month name and year — with the Gregorian date alongside.", "k": "islamic date today islamic date today today s hijri date in big clear type day month name and year with the gregorian date alongside", "p": 1, "c": "Tool"}, {"n": "Sehri & Iftar Today", "u": "https://loonaautomation.github.io/loona-islamic-tools/sehri-iftar-today/", "s": "Loona Islamic Tools", "d": "Today’s Sehri end (Fajr) and Iftar (Maghrib) times with a live countdown to the next one.", "k": "sehri iftar today sehri iftar today today s sehri end fajr and iftar maghrib times with a live countdown to the next one", "p": 2, "c": "Tool"}, {"n": "Qibla Direction", "u": "https://loonaautomation.github.io/loona-islamic-tools/qibla-direction/", "s": "Loona Islamic Tools", "d": "The exact Qibla bearing in degrees for your city or location, with a compass dial and distance to Makkah.", "k": "qibla direction qibla direction the exact qibla bearing in degrees for your city or location with a compass dial and distance to makkah", "p": 3, "c": "Tool"}, {"n": "Hijri Calendar", "u": "https://loonaautomation.github.io/loona-islamic-tools/hijri-calendar/", "s": "Loona Islamic Tools", "d": "A full Islamic month calendar showing every Hijri day with its Gregorian date side by side.", "k": "hijri calendar hijri calendar a full islamic month calendar showing every hijri day with its gregorian date side by side", "p": 4, "c": "Tool"}, {"n": "Tasbih Counter", "u": "https://loonaautomation.github.io/loona-islamic-tools/tasbih-counter/", "s": "Loona Islamic Tools", "d": "A digital tasbih with dhikr presets, targets of 33, 99 or 100, round counting and saved lifetime totals.", "k": "tasbih counter tasbih counter a digital tasbih with dhikr presets targets of 33 99 or 100 round counting and saved lifetime totals", "p": 5, "c": "Tool"}];
+  var data = null, loading = null, usingFallback = false, active = -1, current = [];
+
+  /*CORE-START*/
+/* Loona search core v2 — shared by the homepage dropdown and the /search/ page.
+   Adds over v1: Roman Urdu alias layer, joined-word matching, keyword prefix match,
+   URL+name dedupe, tool-over-guide boost. `data` is supplied by the page glue. */
+var ALIASES = {
+  "namaz": "prayer times",
+  "roza": "sehri iftar",
+  "tasbeeh": "tasbih",
+  "dua": "duas",
+  "suhoor": "sehri",
+  "qibla": "qibla"
+};
+function norm(s) { s = (s || '').toLowerCase().replace(/ß/g, 'ss').replace(/æ/g, 'ae').replace(/ø/g, 'o').replace(/ł/g, 'l').replace(/đ/g, 'd'); try { s = s.normalize('NFD').replace(/[\u0300-\u036f]/g, ''); } catch (e) {} return s.replace(/[^a-z0-9\s]/g, ' ').replace(/\s+/g, ' ').trim(); }
+function lev(a, b) {
+  if (a === b) return 0;
+  var la = a.length, lb = b.length, i, j;
+  if (Math.abs(la - lb) > 1) return 2;
+  var prev = [], cur = [];
+  for (j = 0; j <= lb; j++) prev[j] = j;
+  for (i = 1; i <= la; i++) {
+    cur[0] = i; var best = 99;
+    for (j = 1; j <= lb; j++) {
+      var v = Math.min(prev[j] + 1, cur[j - 1] + 1, prev[j - 1] + (a.charAt(i - 1) === b.charAt(j - 1) ? 0 : 1));
+      cur[j] = v; if (v < best) best = v;
+    }
+    if (best > 1) return 2;
+    var t = prev; prev = cur; cur = t;
+  }
+  return prev[lb];
+}
+function wordLevel(w, nameWords, hayWords, nameJoined) {
+  var i;
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i] === w) return 30;
+  for (i = 0; i < nameWords.length; i++) if (w.length >= 3 && nameWords[i].indexOf(w) === 0) return 24;
+  for (i = 0; i < hayWords.length; i++) if (hayWords[i] === w) return 20;
+  for (i = 0; i < hayWords.length; i++) if (w.length >= 3 && hayWords[i].indexOf(w) === 0) return 18;
+  if (w.length >= 4 && nameJoined.indexOf(w) >= 0) return 22;
+  if (w.length >= 4) {
+    for (i = 0; i < nameWords.length; i++) if (lev(w, nameWords[i]) <= 1) return 17;
+    for (i = 0; i < hayWords.length; i++) if (lev(w, hayWords[i]) <= 1) return 12;
+  }
+  for (i = 0; i < nameWords.length; i++) if (nameWords[i].indexOf(w) >= 0) return 14;
+  return 0;
+}
+function expandWords(qw) {
+  /* variants tried (best score wins): the words themselves; each Roman Urdu
+     word swapped for the FIRST word of its English meaning; the full meaning;
+     and — for multi-word queries — the words joined into one ("wi fi"→"wifi"). */
+  var prim = [], full = [], changed = false;
+  for (var i = 0; i < qw.length; i++) {
+    var a = ALIASES[qw[i]];
+    if (a) {
+      changed = true;
+      var parts = a.split(' ');
+      prim.push(parts[0]);
+      for (var j = 0; j < parts.length; j++) full.push(parts[j]);
+    } else { prim.push(qw[i]); full.push(qw[i]); }
+  }
+  var out = [qw];
+  if (changed) { out.push(prim); if (full.join(' ') !== prim.join(' ')) out.push(full); }
+  if (qw.length > 1) out.push([qw.join('')]);
+  return out;
+}
+function runSearch(q, limit) {
+  var query = norm(q);
+  if (!query || !data) return [];
+  var variants = expandWords(query.split(' ')), out = [];
+  for (var e = 0; e < data.length; e++) {
+    var it = data[e], name = norm(it.n),
+        hay = name + ' ' + norm(it.s) + ' ' + (it.k || ''),
+        nameWords = name.split(' '), hayWords = hay.split(' '),
+        nameJoined = name.replace(/ /g, ''), best = -1;
+    for (var v = 0; v < variants.length; v++) {
+      var qw = variants[v], sum = 0, ok = true;
+      for (var i = 0; i < qw.length; i++) {
+        var lv = wordLevel(qw[i], nameWords, hayWords, nameJoined);
+        if (lv === 0) { ok = false; break; }
+        sum += lv;
+      }
+      if (!ok) continue;
+      var score = sum * 10, qs = qw.join(' '), qJoined = qs.replace(/ /g, '');
+      if (name === qs) score += 100000;
+      else if (name.indexOf(qs) === 0) score += 5000;
+      else if (name.indexOf(qs) >= 0) score += 2000;
+      if (nameJoined === qJoined) score += 9000;
+      else if (qJoined.length >= 4 && nameJoined.indexOf(qJoined) >= 0) score += 2500;
+      if (qw.length > 1) {
+        var allN = true;
+        for (var k = 0; k < qw.length; k++) if (nameWords.indexOf(qw[k]) < 0) allN = false;
+        if (allN) score += 800;
+      }
+      /* tool whose name carries the searched word beats a guide about it */
+      if (it.c !== 'Guide') {
+        for (var m = 0; m < qw.length; m++) if (nameWords.indexOf(qw[m]) >= 0) { score += 350; break; }
+      }
+      score -= (typeof it.p === 'number' ? it.p : 400) * 0.6;
+      score -= name.length * 0.3;
+      if (score > best) best = score;
+    }
+    if (best >= 0) out.push({ it: it, score: best });
+  }
+  out.sort(function (a, b) { return b.score - a.score; });
+  /* dedupe: same URL once, same tool name once (keep the better-ranked copy) */
+  var seenU = {}, seenN = {}, res = [];
+  for (var r = 0; r < out.length; r++) {
+    var en = out[r].it, key = norm(en.n);
+    if (seenU[en.u] || seenN[key]) continue;
+    seenU[en.u] = 1; seenN[key] = 1; res.push(en);
+    if (res.length >= limit) break;
+  }
+  return res;
+}
+function popular(n) {
+  if (!data) return [];
+  return data.filter(function (e) { return (typeof e.p === 'number' ? e.p : 400) < 30; })
+             .sort(function (a, b) { return a.p - b.p; }).slice(0, n);
+}
+/*CORE-END*/
+
+
+  function esc(s) {
+    return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+  }
+  function badge(e) { return e.c === 'Website' ? 'Website' : (e.c === 'Guide' ? 'Guide' : e.s.replace(/^Loona /, '')); }
+  function itemHtml(e, i) {
+    return '<a class="ls-item" role="option" data-i="' + i + '" href="' + esc(e.u) + '">' +
+           '<span class="ls-nm">' + esc(e.n) + '</span><span class="ls-badge">' + esc(badge(e)) + '</span>' +
+           '<span class="ls-ds">' + esc(e.d) + '</span></a>';
+  }
+  function bindItems() {
+    var links = list.querySelectorAll('.ls-item');
+    for (var i = 0; i < links.length; i++) {
+      links[i].addEventListener('mouseenter', function () { setActive(parseInt(this.getAttribute('data-i'), 10)); });
+    }
+  }
+  function render(items, q) {
+    active = -1; current = items;
+    var h = '';
+    if (usingFallback) h += '<div class="ls-none">' + STR.fb + '</div>';
+    h += items.map(itemHtml).join('');
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderZero(q) {
+    var pop = popular(6);
+    active = -1; current = pop;
+    var h = '<div class="ls-none">' + STR.zero1 + esc(q) + STR.zero2 + '</div>' +
+            pop.map(itemHtml).join('') +
+            '';
+    list.innerHTML = h;
+    bindItems();
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function renderLoading() {
+    list.innerHTML = '<div class="ls-none">' + STR.loading + '</div>';
+    list.hidden = false;
+    input.setAttribute('aria-expanded', 'true');
+  }
+  function refresh() {
+    var q = input.value;
+    if (!data) { renderLoading(); return; }
+    if (!norm(q)) { render(popular(6), ''); return; }
+    var res = runSearch(q, 8);
+    if (res.length) render(res, q); else renderZero(q);
+  }
+  function hide() { list.hidden = true; active = -1; input.setAttribute('aria-expanded', 'false'); }
+  function setActive(i) {
+    active = i;
+    var links = list.querySelectorAll('.ls-item');
+    for (var j = 0; j < links.length; j++) links[j].classList.toggle('act', j === i);
+    if (i >= 0 && links[i]) links[i].scrollIntoView({ block: 'nearest' });
+  }
+  function ensureIndex() {
+    if (data && !usingFallback) return;
+    if (loading) return;
+    loading = fetch(INDEX_URL).then(function (r) {
+      if (!r.ok) throw new Error('index ' + r.status);
+      return r.json();
+    }).then(function (j) {
+      data = j; usingFallback = false; loading = null; refresh();
+    }).catch(function () {
+      loading = null;                 /* not poisoned: next keystroke/focus retries */
+      if (!data) { data = FALLBACK; usingFallback = true; }
+      refresh();
+    });
+  }
+  var timer = null;
+  function onType() { ensureIndex(); refresh(); }
+  input.addEventListener('focus', onType);
+  input.addEventListener('input', function () { clearTimeout(timer); timer = setTimeout(onType, 70); });
+  input.addEventListener('keydown', function (ev) {
+    if (ev.key === 'ArrowDown' || ev.key === 'ArrowUp') {
+      ev.preventDefault();
+      if (list.hidden) { onType(); return; }
+      var n = current.length; if (!n) return;
+      setActive(ev.key === 'ArrowDown' ? (active + 1) % n : (active - 1 + n) % n);
+    } else if (ev.key === 'Escape') { hide(); }
+  });
+  form.addEventListener('submit', function (ev) {
+    ev.preventDefault();
+    var q = input.value;
+    if (active >= 0 && current[active]) { window.location.href = current[active].u; return; }
+    ensureIndex();
+    if (data) {
+      var best = runSearch(q, 1);
+      if (best.length) { window.location.href = best[0].u; return; }
+    }
+    if (norm(q)) renderZero(q);
+  });
+  document.addEventListener('click', function (ev) { if (!form.contains(ev.target)) hide(); });
+})();
+
+</script>
 <script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' Install App';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('Install this app: tap the Share button, then choose "Add to Home Screen".');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
 </body>
 </html>
