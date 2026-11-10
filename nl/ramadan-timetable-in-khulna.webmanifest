@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadan-rooster in Khulna 2027 (1448)",
+  "short_name": "Ramadan-rooster in Khulna 2027 (1448)",
+  "description": "Ramadan 2027-rooster voor Khulna, Bangladesh: Sehri-einde (Fajr) en Iftar-tijden (Maghrib) voor elke dag van Ramadan 1448. Verwacht 8 februari tot 8 maart 2027, onder voorbehoud van maanwaarneming.",
+  "id": "/loona-islamic-tools/nl/ramadan-timetable-in-khulna.html",
+  "start_url": "./ramadan-timetable-in-khulna.html",
+  "scope": "./ramadan-timetable-in-khulna.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

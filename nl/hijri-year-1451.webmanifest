@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hijri-jaar 1451",
+  "short_name": "Hijri-jaar 1451",
+  "description": "Het Hijri-jaar 1451 AH: start- en einddatums, alle 12 islamitische maanden met hun gregoriaanse datums, en de belangrijke datums van het jaar inclusief Ramadan en beide Eids, volgens de Umm al-Qura-kalender.",
+  "id": "/loona-islamic-tools/nl/hijri-year-1451.html",
+  "start_url": "./hijri-year-1451.html",
+  "scope": "./hijri-year-1451.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

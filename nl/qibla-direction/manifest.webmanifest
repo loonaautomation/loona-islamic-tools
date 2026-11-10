@@ -1,0 +1,29 @@
+{
+  "name": "Loona Qibla-richting",
+  "short_name": "Qibla-richting",
+  "description": "Vind de Qibla-richting in graden vanuit elke stad of je exacte locatie, met een live kompaswijzerplaat en de afstand tot Mekka. Gratis, nauwkeurig en privé.",
+  "id": "/loona-islamic-tools/nl/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

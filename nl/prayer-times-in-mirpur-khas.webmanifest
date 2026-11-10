@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebedstijden in Mirpur Khas",
+  "short_name": "Gebedstijden in Mirpur Khas",
+  "description": "De gebedstijden van vandaag in Mirpur Khas, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Mirpur Khas.",
+  "id": "/loona-islamic-tools/nl/prayer-times-in-mirpur-khas.html",
+  "start_url": "./prayer-times-in-mirpur-khas.html",
+  "scope": "./prayer-times-in-mirpur-khas.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

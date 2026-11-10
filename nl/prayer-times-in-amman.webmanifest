@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebedstijden in Amman",
+  "short_name": "Gebedstijden in Amman",
+  "description": "De gebedstijden van vandaag in Amman, Jordanië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Amman.",
+  "id": "/loona-islamic-tools/nl/prayer-times-in-amman.html",
+  "start_url": "./prayer-times-in-amman.html",
+  "scope": "./prayer-times-in-amman.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

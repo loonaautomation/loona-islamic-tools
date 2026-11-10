@@ -1,0 +1,29 @@
+{
+  "name": "Loona 99 Namen van Allah",
+  "short_name": "99 Namen van Allah",
+  "description": "Alle 99 Namen van Allah met Arabische tekst, transliteratie en Nederlandse betekenissen op één doorzoekbare pagina. Leer en memoriseer de Asma-ul-Husna gratis, op elk apparaat.",
+  "id": "/loona-islamic-tools/nl/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

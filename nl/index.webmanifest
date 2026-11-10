@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamitische tools: Gebedstijden, Hijri-datum, Qibla, Tasbih & dua's",
+  "short_name": "Islamitische tools: Gebedstijden, Hijri-datum,",
+  "description": "Islamitische tools: nauwkeurige gebedstijden voor elke stad, de Hijri-datum van vandaag, Qibla-richting, Ramadan-rooster, tasbih-teller, 99 Namen van Allah en dua's.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/nl/"
+}

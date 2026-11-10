@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebedstijden in Camayenne",
+  "short_name": "Gebedstijden in Camayenne",
+  "description": "De gebedstijden van vandaag in Camayenne, Guinee: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Camayenne.",
+  "id": "/loona-islamic-tools/nl/prayer-times-in-camayenne.html",
+  "start_url": "./prayer-times-in-camayenne.html",
+  "scope": "./prayer-times-in-camayenne.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

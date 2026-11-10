@@ -1,0 +1,29 @@
+{
+  "name": "Loona Gebedstijden in Ḩayy Khildā",
+  "short_name": "Gebedstijden in Ḩayy Khildā",
+  "description": "De gebedstijden van vandaag in Ḩayy Khildā, Jordanië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ḩayy Khildā.",
+  "id": "/loona-islamic-tools/nl/prayer-times-in-hayy-khilda.html",
+  "start_url": "./prayer-times-in-hayy-khilda.html",
+  "scope": "./prayer-times-in-hayy-khilda.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

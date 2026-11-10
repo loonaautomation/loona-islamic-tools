@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sehri- & Iftar-tijd vandaag",
+  "short_name": "Sehri- & Iftar-tijd vandaag",
+  "description": "De Sehri-eindtijd (Fajr) en Iftar-tijd (Maghrib) van vandaag voor jouw stad met live aftellen naar de volgende. Karachi-methode, standaard Hanafi-Asr, aanpasbaar.",
+  "id": "/loona-islamic-tools/nl/sehri-iftar-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

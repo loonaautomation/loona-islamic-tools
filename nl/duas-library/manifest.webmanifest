@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dua-bibliotheek",
+  "short_name": "Dua-bibliotheek",
+  "description": "Een bibliotheek met authentieke dua's voor elk moment — ochtend, eten, reizen, thuis, angst, vergeving — elk met Arabisch, transliteratie, vertaling en bron.",
+  "id": "/loona-islamic-tools/nl/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
