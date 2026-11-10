@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Dumai",
+  "short_name": "مواقيت الصلاة في Dumai",
+  "description": "مواقيت الصلاة اليوم في Dumai، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDumai.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-dumai.html",
+  "start_url": "./prayer-times-in-dumai.html",
+  "scope": "./prayer-times-in-dumai.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

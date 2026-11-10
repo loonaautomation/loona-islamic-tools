@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Kalyān",
+  "short_name": "مواقيت الصلاة في Kalyān",
+  "description": "مواقيت الصلاة اليوم في Kalyān، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKalyān.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-kalyan.html",
+  "start_url": "./prayer-times-in-kalyan.html",
+  "scope": "./prayer-times-in-kalyan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

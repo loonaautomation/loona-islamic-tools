@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Lubuklinggau",
+  "short_name": "مواقيت الصلاة في Lubuklinggau",
+  "description": "مواقيت الصلاة اليوم في Lubuklinggau، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـLubuklinggau.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-lubuklinggau.html",
+  "start_url": "./prayer-times-in-lubuklinggau.html",
+  "scope": "./prayer-times-in-lubuklinggau.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

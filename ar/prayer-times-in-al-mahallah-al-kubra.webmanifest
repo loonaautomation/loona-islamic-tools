@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Al Maḩallah al Kubrá",
+  "short_name": "مواقيت الصلاة في Al Maḩallah al Kubrá",
+  "description": "مواقيت الصلاة اليوم في Al Maḩallah al Kubrá، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـAl Maḩallah al Kubrá.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-al-mahallah-al-kubra.html",
+  "start_url": "./prayer-times-in-al-mahallah-al-kubra.html",
+  "scope": "./prayer-times-in-al-mahallah-al-kubra.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

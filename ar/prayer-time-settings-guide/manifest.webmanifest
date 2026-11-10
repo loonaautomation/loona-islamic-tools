@@ -1,0 +1,29 @@
+{
+  "name": "Loona طرق حساب مواقيت الصلاة مشروحة: كراتشي وISNA وMWL، وحنفي مقابل شافعي",
+  "short_name": "طرق حساب مواقيت الصلاة مشروحة: كراتشي وISNA",
+  "description": "دليل بلغة بسيطة لحساب مواقيت الصلاة: زوايا الشفق للفجر والعشاء، والطرق الخمس الكبرى، والعصر الحنفي مقابل الشافعي، وقواعد خطوط العرض العالية.",
+  "id": "/loona-islamic-tools/ar/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

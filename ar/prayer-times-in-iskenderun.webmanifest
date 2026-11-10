@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في İskenderun",
+  "short_name": "مواقيت الصلاة في İskenderun",
+  "description": "مواقيت الصلاة اليوم في İskenderun، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـİskenderun.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-iskenderun.html",
+  "start_url": "./prayer-times-in-iskenderun.html",
+  "scope": "./prayer-times-in-iskenderun.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

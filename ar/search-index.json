@@ -1,0 +1,380 @@
+[
+ {
+  "n": "مواقيت الصلاة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times/",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والشروق والظهر والعصر والمغرب والعشاء لمدينتك — مع عدّاد تنازلي مباشر للصلاة التالية.",
+  "k": "prayer times prayer times مواقيت الصلاة مواقيت الفجر والشروق والظهر والعصر والمغرب والعشاء لمدينتك مع عدّاد تنازلي مباشر للصلاة التالية",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "التاريخ الإسلامي اليوم",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/islamic-date-today/",
+  "s": "Loona Islamic Tools",
+  "d": "التاريخ الهجري لليوم بخط كبير وواضح — اليوم واسم الشهر والسنة — مع التاريخ الميلادي بجانبه.",
+  "k": "islamic date today islamic date today التاريخ الإسلامي اليوم التاريخ الهجري لليوم بخط كبير وواضح اليوم واسم الشهر والسنة مع التاريخ الميلادي بجانبه",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "السحور والإفطار اليوم",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/sehri-iftar-today/",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت انتهاء السحور (الفجر) والإفطار (المغرب) لليوم لمدينتك مع عدّاد تنازلي مباشر للتالي.",
+  "k": "sehri iftar today sehri iftar today السحور والإفطار اليوم مواقيت انتهاء السحور الفجر والإفطار المغرب لليوم لمدينتك مع عدّاد تنازلي مباشر للتالي",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "اتجاه القبلة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/qibla-direction/",
+  "s": "Loona Islamic Tools",
+  "d": "اتجاه القبلة الدقيق بالدرجات لمدينتك أو موقعك، مع قرص بوصلة والمسافة إلى مكة.",
+  "k": "qibla direction qibla direction اتجاه القبلة اتجاه القبلة الدقيق بالدرجات لمدينتك أو موقعك، مع قرص بوصلة والمسافة إلى مكة",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "التقويم الهجري",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/hijri-calendar/",
+  "s": "Loona Islamic Tools",
+  "d": "تقويم شهر هجري كامل — كل يوم إسلامي مع تاريخه الميلادي في الخلية نفسها.",
+  "k": "hijri calendar hijri calendar التقويم الهجري تقويم شهر هجري كامل كل يوم إسلامي مع تاريخه الميلادي في الخلية نفسها",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "جدول رمضان",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/ramadan-timetable/",
+  "s": "Loona Islamic Tools",
+  "d": "جدول رمضان قابل للطباعة يومًا بيوم لمدينتك: انتهاء السحور والإفطار لكل الأيام الـ29–30.",
+  "k": "ramadan timetable ramadan timetable جدول رمضان جدول رمضان قابل للطباعة يومًا بيوم لمدينتك انتهاء السحور والإفطار لكل الأيام الـ29 30",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "جدول مواقيت الصلاة الشهري",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/monthly-prayer-timetable/",
+  "s": "Loona Islamic Tools",
+  "d": "جدول مواقيت صلاة قابل للطباعة لشهر كامل لمنزلك أو مسجدك — المواقيت الستة لكل يوم.",
+  "k": "monthly prayer timetable monthly prayer timetable جدول مواقيت الصلاة الشهري جدول مواقيت صلاة قابل للطباعة لشهر كامل لمنزلك أو مسجدك المواقيت الستة لكل يوم",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "عداد التسبيح",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/tasbih-counter/",
+  "s": "Loona Islamic Tools",
+  "d": "عدّ تسبيحك على عداد حلقة كبير — الجولات والمجموع الكلي والذكر الخاص، كلها محفوظة على جهازك.",
+  "k": "tasbih counter tasbih counter عداد التسبيح عدّ تسبيحك على عداد حلقة كبير الجولات والمجموع الكلي والذكر الخاص، كلها محفوظة على جهازك",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "أسماء الله الحسنى الـ99",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/names-of-allah/",
+  "s": "Loona Islamic Tools",
+  "d": "أسماء الله الحسنى: الأسماء الـ99 كلها بالنص العربي والنقل الصوتي والمعاني. قابلة للبحث.",
+  "k": "99 names of allah 99 names of allah أسماء الله الحسنى الـ99 أسماء الله الحسنى الأسماء الـ99 كلها بالنص العربي والنقل الصوتي والمعاني قابلة للبحث",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "مكتبة الأدعية",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/duas-library/",
+  "s": "Loona Islamic Tools",
+  "d": "أدعية يومية صحيحة بالنص العربي والنقل الصوتي والترجمة والمصادر — مرتبة حسب اللحظة.",
+  "k": "duas library duas library مكتبة الأدعية أدعية يومية صحيحة بالنص العربي والنقل الصوتي والترجمة والمصادر مرتبة حسب اللحظة",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "دليل إعدادات مواقيت الصلاة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-time-settings-guide/",
+  "s": "Loona Islamic Tools",
+  "d": "كيف تعمل طرق حساب مواقيت الصلاة، وماذا يعني العصر الحنفي مقابل الشافعي، وكيف تُعالج خطوط العرض العالية.",
+  "k": "prayer time settings guide prayer time settings guide دليل إعدادات مواقيت الصلاة كيف تعمل طرق حساب مواقيت الصلاة، وماذا يعني العصر الحنفي مقابل الشافعي، وكيف تُعالج خطوط العرض العالية",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "قائمة العمرة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/umrah-checklist/",
+  "s": "Loona Islamic Tools",
+  "d": "قائمة تحضير عمرة تفاعلية كاملة — المستندات والتعبئة والعبادة — مع تتبع التقدم.",
+  "k": "umrah checklist umrah checklist قائمة العمرة قائمة تحضير عمرة تفاعلية كاملة المستندات والتعبئة والعبادة مع تتبع التقدم",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في كراتشي",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-karachi.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كراتشي، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in karachi prayer times in karachi مواقيت الصلاة في كراتشي مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كراتشي، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في لاهور",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-lahore.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في لاهور، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in lahore prayer times in lahore مواقيت الصلاة في لاهور مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في لاهور، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في إسلام آباد",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-islamabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في إسلام آباد، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in islamabad prayer times in islamabad مواقيت الصلاة في إسلام آباد مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في إسلام آباد، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في فيصل آباد",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-faisalabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في فيصل آباد، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in faisalabad prayer times in faisalabad مواقيت الصلاة في فيصل آباد مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في فيصل آباد، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في روالبندي",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-rawalpindi.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في روالبندي، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in rawalpindi prayer times in rawalpindi مواقيت الصلاة في روالبندي مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في روالبندي، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في ملتان",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-multan.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في ملتان، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in multan prayer times in multan مواقيت الصلاة في ملتان مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في ملتان، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في بيشاور",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-peshawar.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في بيشاور، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in peshawar prayer times in peshawar مواقيت الصلاة في بيشاور مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في بيشاور، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في كويته",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-quetta.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كويته، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in quetta prayer times in quetta مواقيت الصلاة في كويته مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كويته، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في سيالكوت",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-sialkot.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في سيالكوت، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in sialkot prayer times in sialkot مواقيت الصلاة في سيالكوت مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في سيالكوت، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في حيدر آباد",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-hyderabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في حيدر آباد، باكستان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in hyderabad prayer times in hyderabad مواقيت الصلاة في حيدر آباد مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في حيدر آباد، باكستان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في مكة المكرمة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-makkah.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مكة المكرمة، السعودية — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in makkah prayer times in makkah مواقيت الصلاة في مكة المكرمة مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مكة المكرمة، السعودية مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في المدينة المنورة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-madinah.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في المدينة المنورة، السعودية — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in madinah prayer times in madinah مواقيت الصلاة في المدينة المنورة مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في المدينة المنورة، السعودية مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في الرياض",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-riyadh.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في الرياض، السعودية — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in riyadh prayer times in riyadh مواقيت الصلاة في الرياض مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في الرياض، السعودية مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في دبي",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-dubai.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دبي، الإمارات العربية المتحدة — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in dubai prayer times in dubai مواقيت الصلاة في دبي مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دبي، الإمارات العربية المتحدة مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في أبوظبي",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-abu-dhabi.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في أبوظبي، الإمارات العربية المتحدة — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in abu dhabi prayer times in abu dhabi مواقيت الصلاة في أبوظبي مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في أبوظبي، الإمارات العربية المتحدة مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في الدوحة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-doha.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في الدوحة، قطر — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in doha prayer times in doha مواقيت الصلاة في الدوحة مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في الدوحة، قطر مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في مدينة الكويت",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-kuwait-city.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مدينة الكويت، الكويت — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in kuwait city prayer times in kuwait city مواقيت الصلاة في مدينة الكويت مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مدينة الكويت، الكويت مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في مسقط",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-muscat.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مسقط، عُمان — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in muscat prayer times in muscat مواقيت الصلاة في مسقط مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في مسقط، عُمان مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في إسطنبول",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-istanbul.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في إسطنبول، تركيا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in istanbul prayer times in istanbul مواقيت الصلاة في إسطنبول مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في إسطنبول، تركيا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في القاهرة",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-cairo.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في القاهرة، مصر — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in cairo prayer times in cairo مواقيت الصلاة في القاهرة مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في القاهرة، مصر مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في لندن",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-london.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في لندن، المملكة المتحدة — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in london prayer times in london مواقيت الصلاة في لندن مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في لندن، المملكة المتحدة مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في باريس",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-paris.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في باريس، فرنسا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in paris prayer times in paris مواقيت الصلاة في باريس مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في باريس، فرنسا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في برلين",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-berlin.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في برلين، ألمانيا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in berlin prayer times in berlin مواقيت الصلاة في برلين مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في برلين، ألمانيا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في نيويورك",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-new-york.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في نيويورك، الولايات المتحدة — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in new york prayer times in new york مواقيت الصلاة في نيويورك مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في نيويورك، الولايات المتحدة مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في تورونتو",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-toronto.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في تورونتو، كندا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in toronto prayer times in toronto مواقيت الصلاة في تورونتو مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في تورونتو، كندا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في كوالالمبور",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-kuala-lumpur.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كوالالمبور، ماليزيا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in kuala lumpur prayer times in kuala lumpur مواقيت الصلاة في كوالالمبور مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في كوالالمبور، ماليزيا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في جاكرتا",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-jakarta.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في جاكرتا، إندونيسيا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in jakarta prayer times in jakarta مواقيت الصلاة في جاكرتا مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في جاكرتا، إندونيسيا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في دكا",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-dhaka.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دكا، بنغلاديش — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in dhaka prayer times in dhaka مواقيت الصلاة في دكا مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دكا، بنغلاديش مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في دلهي",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-delhi.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دلهي، الهند — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in delhi prayer times in delhi مواقيت الصلاة في دلهي مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في دلهي، الهند مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "مواقيت الصلاة في سيدني",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-times-in-sydney.html",
+  "s": "Loona Islamic Tools",
+  "d": "مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في سيدني، أستراليا — مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري.",
+  "k": "prayer times in sydney prayer times in sydney مواقيت الصلاة في سيدني مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم في سيدني، أستراليا مع عدّاد تنازلي للصلاة التالية، واتجاه القبلة، والتاريخ الهجري",
+  "p": 141,
+  "c": "Tool"
+ }
+]

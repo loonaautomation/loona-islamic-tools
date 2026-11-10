@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Navi Mumbai",
+  "short_name": "مواقيت الصلاة في Navi Mumbai",
+  "description": "مواقيت الصلاة اليوم في Navi Mumbai، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNavi Mumbai.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-navi-mumbai.html",
+  "start_url": "./prayer-times-in-navi-mumbai.html",
+  "scope": "./prayer-times-in-navi-mumbai.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

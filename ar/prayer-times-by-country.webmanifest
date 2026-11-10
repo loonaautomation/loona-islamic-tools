@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة حسب البلد",
+  "short_name": "مواقيت الصلاة حسب البلد",
+  "description": "مواقيت الصلاة لـ867 مدينة حول العالم، مجمعة حسب البلد: الفجر والشروق والظهر والعصر والمغرب والعشاء لليوم، وجداول شهر كامل، واتجاه القبلة، وجداول رمضان 2027 حسب البلد.",
+  "id": "/loona-islamic-tools/ar/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

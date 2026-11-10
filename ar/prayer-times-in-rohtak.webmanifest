@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Rohtak",
+  "short_name": "مواقيت الصلاة في Rohtak",
+  "description": "مواقيت الصلاة اليوم في Rohtak، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRohtak.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-rohtak.html",
+  "start_url": "./prayer-times-in-rohtak.html",
+  "scope": "./prayer-times-in-rohtak.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

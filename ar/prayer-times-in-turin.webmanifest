@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Turin",
+  "short_name": "مواقيت الصلاة في Turin",
+  "description": "مواقيت الصلاة اليوم في Turin، إيطاليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTurin.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-turin.html",
+  "start_url": "./prayer-times-in-turin.html",
+  "scope": "./prayer-times-in-turin.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

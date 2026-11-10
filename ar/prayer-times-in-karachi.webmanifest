@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Karachi",
+  "short_name": "مواقيت الصلاة في Karachi",
+  "description": "مواقيت الصلاة اليوم في Karachi، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKarachi.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-karachi.html",
+  "start_url": "./prayer-times-in-karachi.html",
+  "scope": "./prayer-times-in-karachi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

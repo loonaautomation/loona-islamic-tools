@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Sfax",
+  "short_name": "مواقيت الصلاة في Sfax",
+  "description": "مواقيت الصلاة اليوم في Sfax، تونس: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSfax.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-sfax.html",
+  "start_url": "./prayer-times-in-sfax.html",
+  "scope": "./prayer-times-in-sfax.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

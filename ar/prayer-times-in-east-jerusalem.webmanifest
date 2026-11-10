@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في East Jerusalem",
+  "short_name": "مواقيت الصلاة في East Jerusalem",
+  "description": "مواقيت الصلاة اليوم في East Jerusalem، فلسطين: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـEast Jerusalem.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-east-jerusalem.html",
+  "start_url": "./prayer-times-in-east-jerusalem.html",
+  "scope": "./prayer-times-in-east-jerusalem.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

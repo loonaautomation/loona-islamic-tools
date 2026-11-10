@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Bhilai",
+  "short_name": "مواقيت الصلاة في Bhilai",
+  "description": "مواقيت الصلاة اليوم في Bhilai، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBhilai.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-bhilai.html",
+  "start_url": "./prayer-times-in-bhilai.html",
+  "scope": "./prayer-times-in-bhilai.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

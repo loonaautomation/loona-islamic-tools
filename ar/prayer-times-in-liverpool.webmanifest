@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Liverpool",
+  "short_name": "مواقيت الصلاة في Liverpool",
+  "description": "مواقيت الصلاة اليوم في Liverpool، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـLiverpool.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-liverpool.html",
+  "start_url": "./prayer-times-in-liverpool.html",
+  "scope": "./prayer-times-in-liverpool.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

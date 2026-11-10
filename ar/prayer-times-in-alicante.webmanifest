@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Alicante",
+  "short_name": "مواقيت الصلاة في Alicante",
+  "description": "مواقيت الصلاة اليوم في Alicante، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAlicante.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-alicante.html",
+  "start_url": "./prayer-times-in-alicante.html",
+  "scope": "./prayer-times-in-alicante.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

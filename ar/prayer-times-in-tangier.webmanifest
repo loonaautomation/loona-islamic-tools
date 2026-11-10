@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Tangier",
+  "short_name": "مواقيت الصلاة في Tangier",
+  "description": "مواقيت الصلاة اليوم في Tangier، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTangier.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-tangier.html",
+  "start_url": "./prayer-times-in-tangier.html",
+  "scope": "./prayer-times-in-tangier.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

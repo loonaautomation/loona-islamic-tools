@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Brussels",
+  "short_name": "مواقيت الصلاة في Brussels",
+  "description": "مواقيت الصلاة اليوم في Brussels، بلجيكا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBrussels.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-brussels.html",
+  "start_url": "./prayer-times-in-brussels.html",
+  "scope": "./prayer-times-in-brussels.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

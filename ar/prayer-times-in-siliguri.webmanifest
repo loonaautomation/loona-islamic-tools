@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Siliguri",
+  "short_name": "مواقيت الصلاة في Siliguri",
+  "description": "مواقيت الصلاة اليوم في Siliguri، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSiliguri.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-siliguri.html",
+  "start_url": "./prayer-times-in-siliguri.html",
+  "scope": "./prayer-times-in-siliguri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

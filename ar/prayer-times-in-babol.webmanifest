@@ -1,0 +1,29 @@
+{
+  "name": "Loona مواقيت الصلاة في Bābol",
+  "short_name": "مواقيت الصلاة في Bābol",
+  "description": "مواقيت الصلاة اليوم في Bābol، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBābol.",
+  "id": "/loona-islamic-tools/ar/prayer-times-in-babol.html",
+  "start_url": "./prayer-times-in-babol.html",
+  "scope": "./prayer-times-in-babol.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
