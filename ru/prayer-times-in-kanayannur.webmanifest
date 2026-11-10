@@ -1,0 +1,29 @@
+{
+  "name": "Loona Время намаза в городе Kanayannur",
+  "short_name": "Время намаза в городе Kanayannur",
+  "description": "Время намаза на сегодня: Kanayannur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Kanayannur.",
+  "id": "/loona-islamic-tools/ru/prayer-times-in-kanayannur.html",
+  "start_url": "./prayer-times-in-kanayannur.html",
+  "scope": "./prayer-times-in-kanayannur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

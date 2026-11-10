@@ -1,0 +1,29 @@
+{
+  "name": "Loona Объяснение методов расчёта времени намаза: Карачи, ISNA, MWL, ханафитский и шафиитский",
+  "short_name": "Объяснение методов расчёта времени намаза:",
+  "description": "Понятное руководство по расчёту времени намаза: сумеречные углы для Фаджра и Иши, пять основных методов, ханафитский и шафиитский Аср, а также правила для высоких широт.",
+  "id": "/loona-islamic-tools/ru/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

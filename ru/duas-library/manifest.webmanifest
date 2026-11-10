@@ -1,0 +1,29 @@
+{
+  "name": "Loona Библиотека дуа",
+  "short_name": "Библиотека дуа",
+  "description": "Библиотека достоверных дуа на каждый момент — утро, еда, путешествие, дом, тревога, прощение — каждое с арабским текстом, транслитерацией, переводом и источником.",
+  "id": "/loona-islamic-tools/ru/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 99 имён Аллаха",
+  "short_name": "99 имён Аллаха",
+  "description": "Все 99 имён Аллаха с арабским текстом, транслитерацией и значениями на английском на одной странице с поиском. Изучайте и запоминайте Асма аль-Хусна бесплатно, на любом устройстве.",
+  "id": "/loona-islamic-tools/ru/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

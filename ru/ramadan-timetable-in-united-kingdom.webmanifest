@@ -1,0 +1,29 @@
+{
+  "name": "Loona Расписание Рамадана: Великобритания, 2027 (1448)",
+  "short_name": "Расписание Рамадана: Великобритания, 2027 (1448)",
+  "description": "Расписание Рамадана 2027 года для страны Великобритания: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для города London. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
+  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-united-kingdom.html",
+  "start_url": "./ramadan-timetable-in-united-kingdom.html",
+  "scope": "./ramadan-timetable-in-united-kingdom.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

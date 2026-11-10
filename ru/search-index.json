@@ -1,0 +1,380 @@
+[
+ {
+  "n": "Время намаза",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times/",
+  "s": "Loona Islamic Tools",
+  "d": "Точное ежедневное время намаза (салят) для любого города мира, с пятью методами расчёта и ханафитским или шафиитским Асром.",
+  "k": "время намаза prayer times prayer times accurate daily salah times for any city in the world with five calculation methods and hanafi or shafi asr асром время города для ежедневное и или любого методами мира намаза пятью расчёта с салят точное ханафитским шафиитским",
+  "p": 0,
+  "c": "Tool"
+ },
+ {
+  "n": "Исламская дата сегодня",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/islamic-date-today/",
+  "s": "Loona Islamic Tools",
+  "d": "Сегодняшняя дата хиджры крупным, чётким шрифтом — день, название месяца и год — с григорианской датой рядом.",
+  "k": "исламская дата сегодня islamic date today islamic date today today s hijri date in big clear type day month name and year with the gregorian date alongside год григорианской дата датой день и исламская крупным месяца название рядом с сегодня сегодняшняя хиджры чётким шрифтом",
+  "p": 1,
+  "c": "Tool"
+ },
+ {
+  "n": "Сехри и ифтар сегодня",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/sehri-iftar-today/",
+  "s": "Loona Islamic Tools",
+  "d": "Сегодняшнее время окончания сехри (Фаджр) и ифтара (Магриб) с живым обратным отсчётом до следующего из них.",
+  "k": "сехри и ифтар сегодня sehri iftar today sehri iftar today today s sehri end fajr and iftar maghrib times with a live countdown to the next one время до живым и из ифтар ифтара магриб них обратным окончания отсчётом с сегодня сегодняшнее сехри следующего фаджр",
+  "p": 2,
+  "c": "Tool"
+ },
+ {
+  "n": "Направление Киблы",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/qibla-direction/",
+  "s": "Loona Islamic Tools",
+  "d": "Точный азимут Киблы в градусах для вашего города или местоположения, с циферблатом компаса и расстоянием до Мекки.",
+  "k": "направление киблы qibla direction qibla direction the exact qibla bearing in degrees for your city or location with a compass dial and distance to makkah азимут в вашего города градусах для до и или киблы компаса мекки местоположения направление расстоянием с точный циферблатом",
+  "p": 3,
+  "c": "Tool"
+ },
+ {
+  "n": "Календарь хиджры",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/hijri-calendar/",
+  "s": "Loona Islamic Tools",
+  "d": "Полный календарь исламского месяца, показывающий каждый день хиджры рядом с его григорианской датой.",
+  "k": "календарь хиджры hijri calendar hijri calendar a full islamic month calendar showing every hijri day with its gregorian date side by side григорианской датой день его исламского каждый календарь месяца показывающий полный рядом с хиджры",
+  "p": 4,
+  "c": "Tool"
+ },
+ {
+  "n": "Расписание Рамадана",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/ramadan-timetable/",
+  "s": "Loona Islamic Tools",
+  "d": "Распечатываемое расписание Рамадана по дням для вашего города: окончание сухура и ифтар на все 29–30 дней.",
+  "k": "расписание рамадана ramadan timetable ramadan timetable a printable day by day ramadan timetable for your city sehri end and iftar for all 29 30 days 29 30 вашего все города для дней дням и ифтар на окончание по рамадана распечатываемое расписание сухура",
+  "p": 105,
+  "c": "Tool"
+ },
+ {
+  "n": "Ежемесячное расписание намазов",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/monthly-prayer-timetable/",
+  "s": "Loona Islamic Tools",
+  "d": "Полное расписание намазов на месяц для печати — для вашего дома или мечети: все шесть времён на каждый день.",
+  "k": "ежемесячное расписание намазов monthly prayer timetable monthly prayer timetable a printable full month prayer timetable for your home or masjid all six times for every day вашего времён все день для дома ежемесячное или каждый месяц мечети на намазов печати полное расписание шесть",
+  "p": 106,
+  "c": "Tool"
+ },
+ {
+  "n": "Счётчик тасбиха",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/tasbih-counter/",
+  "s": "Loona Islamic Tools",
+  "d": "Цифровой тасбих с готовыми вариантами зикра, целями 33, 99 или 100, подсчётом кругов и сохраняемыми итоговыми значениями за всё время.",
+  "k": "счётчик тасбиха tasbih counter tasbih counter a digital tasbih with dhikr presets targets of 33 99 or 100 round counting and saved lifetime totals 100 33 99 вариантами время всё готовыми за зикра значениями и или итоговыми кругов подсчётом с сохраняемыми счётчик тасбих тасбиха целями цифровой",
+  "p": 5,
+  "c": "Tool"
+ },
+ {
+  "n": "99 имён Аллаха",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/names-of-allah/",
+  "s": "Loona Islamic Tools",
+  "d": "Асма аль-Хусна: все 99 имён с арабским каллиграфическим текстом, транслитерацией и значениями на английском. С поиском.",
+  "k": "99 имён аллаха 99 names of allah names of allah asma ul husna all 99 names with arabic calligraphy text transliteration and english meanings searchable 99 аллаха аль-хусна английском арабским асма все значениями и имён каллиграфическим на поиском с текстом транслитерацией",
+  "p": 108,
+  "c": "Tool"
+ },
+ {
+  "n": "Библиотека дуа",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/duas-library/",
+  "s": "Loona Islamic Tools",
+  "d": "Достоверные ежедневные дуа с арабским текстом, транслитерацией, переводом на английский и источниками — отсортированы по моменту.",
+  "k": "библиотека дуа duas library duas library authentic daily duas with arabic text transliteration english translation and sources sorted by moment английский арабским библиотека достоверные дуа ежедневные и источниками моменту на отсортированы переводом по с текстом транслитерацией",
+  "p": 109,
+  "c": "Tool"
+ },
+ {
+  "n": "Руководство по настройкам времени намаза",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-time-settings-guide/",
+  "s": "Loona Islamic Tools",
+  "d": "Как работают методы расчёта времени намаза, что означает ханафитский и шафиитский Аср и как обрабатываются высокие широты.",
+  "k": "руководство по настройкам времени намаза prayer time settings guide prayer time settings guide how prayer time calculation methods work what hanafi vs shafi asr means and how high latitudes are handled аср времени высокие и как методы намаза настройкам обрабатываются означает по работают расчёта руководство ханафитский что шафиитский широты",
+  "p": 110,
+  "c": "Tool"
+ },
+ {
+  "n": "Контрольный список умры",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/umrah-checklist/",
+  "s": "Loona Islamic Tools",
+  "d": "Полный интерактивный контрольный список подготовки к умре — документы, упаковка вещей и ибада — с отслеживанием прогресса.",
+  "k": "контрольный список умры umrah checklist umrah checklist a complete interactive umrah preparation checklist documents packing and ibadah with progress tracking вещей документы и ибада интерактивный к контрольный отслеживанием подготовки полный прогресса с список умре умры упаковка",
+  "p": 111,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Karachi",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-karachi.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Karachi, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе karachi prayer times in karachi prayer times in karachi today s fajr dhuhr asr maghrib and isha times for karachi pakistan with next prayer countdown qibla direction and the hijri date karachi асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 112,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Lahore",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-lahore.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Lahore, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе lahore prayer times in lahore prayer times in lahore today s fajr dhuhr asr maghrib and isha times for lahore pakistan with next prayer countdown qibla direction and the hijri date lahore асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 113,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Islamabad",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-islamabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Islamabad, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе islamabad prayer times in islamabad prayer times in islamabad today s fajr dhuhr asr maghrib and isha times for islamabad pakistan with next prayer countdown qibla direction and the hijri date islamabad асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 114,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Faisalabad",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-faisalabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Faisalabad, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе faisalabad prayer times in faisalabad prayer times in faisalabad today s fajr dhuhr asr maghrib and isha times for faisalabad pakistan with next prayer countdown qibla direction and the hijri date faisalabad асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 115,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Rawalpindi",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-rawalpindi.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Rawalpindi, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе rawalpindi prayer times in rawalpindi prayer times in rawalpindi today s fajr dhuhr asr maghrib and isha times for rawalpindi pakistan with next prayer countdown qibla direction and the hijri date rawalpindi асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 116,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Multan",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-multan.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Multan, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе multan prayer times in multan prayer times in multan today s fajr dhuhr asr maghrib and isha times for multan pakistan with next prayer countdown qibla direction and the hijri date multan асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 117,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Peshawar",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-peshawar.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Peshawar, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе peshawar prayer times in peshawar prayer times in peshawar today s fajr dhuhr asr maghrib and isha times for peshawar pakistan with next prayer countdown qibla direction and the hijri date peshawar асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 118,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Quetta",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-quetta.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Quetta, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе quetta prayer times in quetta prayer times in quetta today s fajr dhuhr asr maghrib and isha times for quetta pakistan with next prayer countdown qibla direction and the hijri date quetta асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 119,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Sialkot",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-sialkot.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Sialkot, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе sialkot prayer times in sialkot prayer times in sialkot today s fajr dhuhr asr maghrib and isha times for sialkot pakistan with next prayer countdown qibla direction and the hijri date sialkot асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 120,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Hyderabad",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-hyderabad.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Hyderabad, Пакистан — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе hyderabad prayer times in hyderabad prayer times in hyderabad today s fajr dhuhr asr maghrib and isha times for hyderabad pakistan with next prayer countdown qibla direction and the hijri date hyderabad асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом пакистан по с сегодня следующего фаджра хиджре",
+  "p": 121,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Makkah",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-makkah.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Makkah, Саудовская Аравия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе makkah prayer times in makkah prayer times in makkah today s fajr dhuhr asr maghrib and isha times for makkah saudi arabia with next prayer countdown qibla direction and the hijri date makkah аравия асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с саудовская сегодня следующего фаджра хиджре",
+  "p": 122,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Madinah",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-madinah.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Madinah, Саудовская Аравия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе madinah prayer times in madinah prayer times in madinah today s fajr dhuhr asr maghrib and isha times for madinah saudi arabia with next prayer countdown qibla direction and the hijri date madinah аравия асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с саудовская сегодня следующего фаджра хиджре",
+  "p": 123,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Riyadh",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-riyadh.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Riyadh, Саудовская Аравия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе riyadh prayer times in riyadh prayer times in riyadh today s fajr dhuhr asr maghrib and isha times for riyadh saudi arabia with next prayer countdown qibla direction and the hijri date riyadh аравия асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с саудовская сегодня следующего фаджра хиджре",
+  "p": 124,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Dubai",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-dubai.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Dubai, ОАЭ — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе dubai prayer times in dubai prayer times in dubai today s fajr dhuhr asr maghrib and isha times for dubai uae with next prayer countdown qibla direction and the hijri date dubai асра в время городе датой до зухра и иши киблы магриба на намаза направлением оаэ обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 125,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Abu Dhabi",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-abu-dhabi.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Abu Dhabi, ОАЭ — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе abu dhabi prayer times in abu dhabi prayer times in abu dhabi today s fajr dhuhr asr maghrib and isha times for abu dhabi uae with next prayer countdown qibla direction and the hijri date abu dhabi асра в время городе датой до зухра и иши киблы магриба на намаза направлением оаэ обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 126,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Doha",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-doha.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Doha, Катар — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе doha prayer times in doha prayer times in doha today s fajr dhuhr asr maghrib and isha times for doha qatar with next prayer countdown qibla direction and the hijri date doha асра в время городе датой до зухра и иши катар киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 127,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в Кувейте",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-kuwait-city.html",
+  "s": "Loona Islamic Tools",
+  "d": "Сегодняшнее время Фаджра, Зухра, Асра, Магриба и Иша для города Кувейт, Кувейт — с обратным отсчётом до следующего намаза, направлением Киблы и датой по хиджре.",
+  "k": "время намаза в кувейте prayer times in kuwait city prayer times in kuwait city today s fajr dhuhr asr maghrib and isha times for kuwait city kuwait with next prayer countdown qibla direction and the hijri date асра в время города датой для до зухра и иша киблы кувейт кувейте магриба намаза направлением обратным отсчётом по с сегодняшнее следующего фаджра хиджре",
+  "p": 128,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Muscat",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-muscat.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Muscat, Оман — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе muscat prayer times in muscat prayer times in muscat today s fajr dhuhr asr maghrib and isha times for muscat oman with next prayer countdown qibla direction and the hijri date muscat асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным оман отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 129,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Istanbul",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-istanbul.html",
+  "s": "Loona Islamic Tools",
+  "d": "Сегодняшнее время Фаджр, Зухр, Аср, Магриб и Иша для Стамбула, Турция — с обратным отсчётом до следующего намаза, направлением Киблы и датой хиджры.",
+  "k": "время намаза в городе istanbul prayer times in istanbul prayer times in istanbul today s fajr dhuhr asr maghrib and isha times for istanbul turkiye with next prayer countdown qibla direction and the hijri date istanbul аср в время городе датой для до зухр и иша киблы магриб намаза направлением обратным отсчётом с сегодняшнее следующего стамбула турция фаджр хиджры",
+  "p": 130,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Cairo",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-cairo.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Cairo, Египет — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе cairo prayer times in cairo prayer times in cairo today s fajr dhuhr asr maghrib and isha times for cairo egypt with next prayer countdown qibla direction and the hijri date cairo асра в время городе датой до египет зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 131,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе London",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-london.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: London, Великобритания — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе london prayer times in london prayer times in london today s fajr dhuhr asr maghrib and isha times for london united kingdom with next prayer countdown qibla direction and the hijri date london асра в великобритания время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 132,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Paris",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-paris.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Paris, Франция — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе paris prayer times in paris prayer times in paris today s fajr dhuhr asr maghrib and isha times for paris france with next prayer countdown qibla direction and the hijri date paris асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра франция хиджре",
+  "p": 133,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Berlin",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-berlin.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Berlin, Германия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе berlin prayer times in berlin prayer times in berlin today s fajr dhuhr asr maghrib and isha times for berlin germany with next prayer countdown qibla direction and the hijri date berlin асра в время германия городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 134,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе New York",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-new-york.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: New York, США — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе new york prayer times in new york prayer times in new york today s fajr dhuhr asr maghrib and isha times for new york united states with next prayer countdown qibla direction and the hijri date new york асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего сша фаджра хиджре",
+  "p": 135,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Toronto",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-toronto.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Toronto, Канада — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе toronto prayer times in toronto prayer times in toronto today s fajr dhuhr asr maghrib and isha times for toronto canada with next prayer countdown qibla direction and the hijri date toronto асра в время городе датой до зухра и иши канада киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 136,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Kuala Lumpur",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-kuala-lumpur.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Kuala Lumpur, Малайзия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе kuala lumpur prayer times in kuala lumpur prayer times in kuala lumpur today s fajr dhuhr asr maghrib and isha times for kuala lumpur malaysia with next prayer countdown qibla direction and the hijri date kuala lumpur асра в время городе датой до зухра и иши киблы магриба малайзия на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 137,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Jakarta",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-jakarta.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Jakarta, Индонезия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе jakarta prayer times in jakarta prayer times in jakarta today s fajr dhuhr asr maghrib and isha times for jakarta indonesia with next prayer countdown qibla direction and the hijri date jakarta асра в время городе датой до зухра и индонезия иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 138,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Dhaka",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-dhaka.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Dhaka, Бангладеш — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе dhaka prayer times in dhaka prayer times in dhaka today s fajr dhuhr asr maghrib and isha times for dhaka bangladesh with next prayer countdown qibla direction and the hijri date dhaka асра бангладеш в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 139,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Delhi",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-delhi.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Delhi, Индия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе delhi prayer times in delhi prayer times in delhi today s fajr dhuhr asr maghrib and isha times for delhi india with next prayer countdown qibla direction and the hijri date delhi асра в время городе датой до зухра и индия иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 140,
+  "c": "Tool"
+ },
+ {
+  "n": "Время намаза в городе Sydney",
+  "u": "https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-times-in-sydney.html",
+  "s": "Loona Islamic Tools",
+  "d": "Время Фаджра, Зухра, Асра, Магриба и Иши на сегодня: Sydney, Австралия — с обратным отсчётом до следующего намаза, направлением Киблы и датой по Хиджре.",
+  "k": "время намаза в городе sydney prayer times in sydney prayer times in sydney today s fajr dhuhr asr maghrib and isha times for sydney australia with next prayer countdown qibla direction and the hijri date sydney австралия асра в время городе датой до зухра и иши киблы магриба на намаза направлением обратным отсчётом по с сегодня следующего фаджра хиджре",
+  "p": 141,
+  "c": "Tool"
+ }
+]
