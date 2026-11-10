@@ -1,0 +1,29 @@
+{
+  "name": "Loona Politique de confidentialité",
+  "short_name": "Politique de confidentialité",
+  "description": "Politique de confidentialité de Loona Islamic Tools : tous les calculs s’exécutent sur votre appareil, aucun compte, aucune donnée envoyée. Ce que localStorage conserve et quelles analyses sont exécutées.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/fr/privacy.html"
+}

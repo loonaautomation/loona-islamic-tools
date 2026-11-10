@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calendrier du Ramadan à Aden 2027 (1448)",
+  "short_name": "Calendrier du Ramadan à Aden 2027 (1448)",
+  "description": "Calendrier du Ramadan 2027 pour Aden, Yémen : heures de fin de Sehri (Fajr) et d’Iftar (Maghrib) pour chaque jour du Ramadan 1448. Prévu du 8 février au 8 mars 2027, sous réserve de l’observation de la lune.",
+  "id": "/loona-islamic-tools/fr/ramadan-timetable-in-aden.html",
+  "start_url": "./ramadan-timetable-in-aden.html",
+  "scope": "./ramadan-timetable-in-aden.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Heures de prière à Iskandar Puteri",
+  "short_name": "Heures de prière à Iskandar Puteri",
+  "description": "Les heures de prière d’aujourd’hui à Iskandar Puteri, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Iskandar Puteri.",
+  "id": "/loona-islamic-tools/fr/prayer-times-in-iskandar-puteri.html",
+  "start_url": "./prayer-times-in-iskandar-puteri.html",
+  "scope": "./prayer-times-in-iskandar-puteri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

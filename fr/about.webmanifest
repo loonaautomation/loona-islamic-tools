@@ -1,0 +1,29 @@
+{
+  "name": "Loona À propos de Loona Islamic Tools",
+  "short_name": "À propos de Loona Islamic Tools",
+  "description": "À propos de Loona Islamic Tools : un ensemble gratuit d’outils pour les heures de prière, le calendrier hégirien, la Qibla, le tasbih et les duas, créé par Loona Automation. Comment les heures sont calculées.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/fr/about.html"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Heures de prière à Al Ain City",
+  "short_name": "Heures de prière à Al Ain City",
+  "description": "Les heures de prière d’aujourd’hui à Al Ain City, Émirats arabes unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Umm al-Qura, calculées en direct sur votre appareil pour Al Ain City.",
+  "id": "/loona-islamic-tools/fr/prayer-times-in-al-ain-city.html",
+  "start_url": "./prayer-times-in-al-ain-city.html",
+  "scope": "./prayer-times-in-al-ain-city.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

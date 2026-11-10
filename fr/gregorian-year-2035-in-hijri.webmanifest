@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2035 en hégirien",
+  "short_name": "2035 en hégirien",
+  "description": "L’année grégorienne 2035 dans le calendrier hégirien : la date islamique de chaque mois de 2035, plus les dates du Ramadan, d’Eid al-Fitr et d’Eid al-Adha en 2035, selon le calendrier Umm al-Qura.",
+  "id": "/loona-islamic-tools/fr/gregorian-year-2035-in-hijri.html",
+  "start_url": "./gregorian-year-2035-in-hijri.html",
+  "scope": "./gregorian-year-2035-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

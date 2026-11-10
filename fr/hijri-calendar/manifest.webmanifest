@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calendrier hégirien",
+  "short_name": "Calendrier hégirien",
+  "description": "Parcourez n’importe quel mois et n’importe quelle année hégiriens dans un calendrier islamique clair où chaque jour affiche aussi sa date grégorienne. Calendrier Umm al-Qura, gratuit et toujours à jour.",
+  "id": "/loona-islamic-tools/fr/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
