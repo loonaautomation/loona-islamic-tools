@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2032 nell'egira",
+  "short_name": "2032 nell'egira",
+  "description": "L'anno gregoriano 2032 nel calendario dell'egira: la data islamica di ogni mese del 2032, più le date di Ramadan, Eid al-Fitr ed Eid al-Adha nel 2032, nel calendario Umm al-Qura.",
+  "id": "/loona-islamic-tools/it/gregorian-year-2032-in-hijri.html",
+  "start_url": "./gregorian-year-2032-in-hijri.html",
+  "scope": "./gregorian-year-2032-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

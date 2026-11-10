@@ -1,0 +1,29 @@
+{
+  "name": "Loona Strumenti islamici: orari di preghiera, data dell'egira, Qibla, Tasbih e dua",
+  "short_name": "Strumenti islamici: orari di preghiera, data",
+  "description": "Strumenti islamici: orari di preghiera accurati per qualsiasi città, la data dell'egira di oggi, direzione della Qibla, tabella di Ramadan, contatore tasbih, 99 Nomi di Allah e dua.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/it/"
+}

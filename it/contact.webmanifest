@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contatta Loona Islamic Tools",
+  "short_name": "Contatta Loona Islamic Tools",
+  "description": "Contatta Loona Islamic Tools e Loona Automation: email per correzioni a orari di preghiera, date dell'egira, contenuti delle dua, suggerimenti e domande di partnership.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/it/contact.html"
+}

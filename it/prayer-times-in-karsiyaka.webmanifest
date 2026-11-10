@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orari di preghiera a Karşıyaka",
+  "short_name": "Orari di preghiera a Karşıyaka",
+  "description": "Orari di preghiera di oggi a Karşıyaka, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Karşıyaka.",
+  "id": "/loona-islamic-tools/it/prayer-times-in-karsiyaka.html",
+  "start_url": "./prayer-times-in-karsiyaka.html",
+  "scope": "./prayer-times-in-karsiyaka.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

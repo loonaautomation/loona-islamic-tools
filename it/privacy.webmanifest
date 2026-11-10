@@ -1,0 +1,29 @@
+{
+  "name": "Loona Informativa sulla privacy",
+  "short_name": "Informativa sulla privacy",
+  "description": "Informativa sulla privacy di Loona Islamic Tools: tutti i calcoli vengono eseguiti sul tuo dispositivo, nessun account, nessun dato caricato. Cosa conserva localStorage e quali analisi vengono eseguite.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/it/privacy.html"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Calendario dell'egira",
+  "short_name": "Calendario dell'egira",
+  "description": "Sfoglia qualsiasi mese e anno dell'egira in un calendario islamico pulito, dove ogni giorno mostra anche la sua data gregoriana. Calendario Umm al-Qura, gratuito e sempre aggiornato.",
+  "id": "/loona-islamic-tools/it/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

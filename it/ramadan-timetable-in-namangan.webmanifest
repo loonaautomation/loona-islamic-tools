@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabella di Ramadan a Namangan 2027 (1448)",
+  "short_name": "Tabella di Ramadan a Namangan 2027 (1448)",
+  "description": "Tabella di Ramadan 2027 per Namangan, Uzbekistan: orari di fine Sehri (Fajr) e Iftar (Maghrib) per ogni giorno di Ramadan 1448. Previsti dal 8 febbraio al 8 marzo 2027, soggetti ad avvistamento della luna.",
+  "id": "/loona-islamic-tools/it/ramadan-timetable-in-namangan.html",
+  "start_url": "./ramadan-timetable-in-namangan.html",
+  "scope": "./ramadan-timetable-in-namangan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

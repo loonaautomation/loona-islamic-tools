@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orari di preghiera a Erode",
+  "short_name": "Orari di preghiera a Erode",
+  "description": "Orari di preghiera di oggi a Erode, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Erode.",
+  "id": "/loona-islamic-tools/it/prayer-times-in-erode.html",
+  "start_url": "./prayer-times-in-erode.html",
+  "scope": "./prayer-times-in-erode.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
