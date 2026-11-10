@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Bakersfield",
+  "short_name": "Horários de Oração em Bakersfield",
+  "description": "Horários de oração de hoje em Bakersfield, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Bakersfield.",
+  "id": "/loona-islamic-tools/pt/prayer-times-in-bakersfield.html",
+  "start_url": "./prayer-times-in-bakersfield.html",
+  "scope": "./prayer-times-in-bakersfield.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

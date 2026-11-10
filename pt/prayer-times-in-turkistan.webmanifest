@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Turkistan",
+  "short_name": "Horários de Oração em Turkistan",
+  "description": "Horários de oração de hoje em Turkistan, Cazaquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Turkistan.",
+  "id": "/loona-islamic-tools/pt/prayer-times-in-turkistan.html",
+  "start_url": "./prayer-times-in-turkistan.html",
+  "scope": "./prayer-times-in-turkistan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
