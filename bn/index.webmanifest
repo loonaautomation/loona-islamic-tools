@@ -1,0 +1,29 @@
+{
+  "name": "Loona ইসলামি টুল: নামাজের সময়, হিজরি তারিখ, কিবলা, তাসবীহ ও দোয়া",
+  "short_name": "ইসলামি টুল: নামাজের সময়, হিজরি তারিখ, কিবলা,",
+  "description": "ইসলামি টুল: যেকোনো শহরের জন্য নির্ভুল নামাজের সময়, আজকের হিজরি তারিখ, কিবলার দিক, রমজানের সময়সূচি, তাসবীহ কাউন্টার, আল্লাহর 99টি নাম ও দোয়া।",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/bn/"
+}

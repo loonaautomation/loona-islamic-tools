@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bakersfield-এ নামাজের সময়",
+  "short_name": "Bakersfield-এ নামাজের সময়",
+  "description": "Bakersfield, যুক্তরাষ্ট্র-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Bakersfield-এর জন্য লাইভ হিসাব করা হয়েছে।",
+  "id": "/loona-islamic-tools/bn/prayer-times-in-bakersfield.html",
+  "start_url": "./prayer-times-in-bakersfield.html",
+  "scope": "./prayer-times-in-bakersfield.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

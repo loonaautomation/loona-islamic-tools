@@ -1,0 +1,29 @@
+{
+  "name": "Loona রমজানের সময়সূচি",
+  "short_name": "রমজানের সময়সূচি",
+  "description": "যেকোনো শহর ও হিজরি বছরের জন্য পূর্ণ রমজান সময়সূচি: রমজানের প্রতিটি দিনের সেহরি শেষ ও ইফতারের সময়, গ্রেগরিয়ান তারিখ ও রোজার সময়কালসহ। ফ্রি, ছাপানোর উপযোগী।",
+  "id": "/loona-islamic-tools/bn/ramadan-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

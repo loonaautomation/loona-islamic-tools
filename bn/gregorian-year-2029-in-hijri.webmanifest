@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2029 হিজরিতে",
+  "short_name": "2029 হিজরিতে",
+  "description": "হিজরি ক্যালেন্ডারে গ্রেগরিয়ান বছর 2029: 2029-এর প্রতিটি মাসের ইসলামি তারিখ, সঙ্গে 2029-এর রমজান, ঈদুল ফিতর ও ঈদুল আজহার তারিখ, উম্ম আল-কুরা ক্যালেন্ডার অনুযায়ী।",
+  "id": "/loona-islamic-tools/bn/gregorian-year-2029-in-hijri.html",
+  "start_url": "./gregorian-year-2029-in-hijri.html",
+  "scope": "./gregorian-year-2029-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

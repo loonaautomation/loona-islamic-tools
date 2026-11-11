@@ -1,0 +1,29 @@
+{
+  "name": "Loona দোয়ার ভাণ্ডার",
+  "short_name": "দোয়ার ভাণ্ডার",
+  "description": "প্রতিটি মুহূর্তের জন্য বিশুদ্ধ দোয়ার একটি ভাণ্ডার — সকাল, খাবার, সফর, ঘর, দুশ্চিন্তা, ক্ষমা — প্রতিটির সঙ্গে আরবি, উচ্চারণ, অনুবাদ ও সূত্র।",
+  "id": "/loona-islamic-tools/bn/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

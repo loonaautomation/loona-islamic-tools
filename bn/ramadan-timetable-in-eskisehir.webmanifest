@@ -1,0 +1,29 @@
+{
+  "name": "Loona Eskişehir 2027 (1448)-এ রমজান সময়সূচি",
+  "short_name": "Eskişehir 2027 (1448)-এ রমজান সময়সূচি",
+  "description": "Eskişehir, তুরস্ক-এর জন্য রমজান 2027 সময়সূচি: রমজান 1448-এর প্রতিটি দিনের সেহরি শেষ (ফজর) ও ইফতার (মাগরিব) সময়। প্রত্যাশিত 8 ফেব্রুয়ারি থেকে 8 মার্চ 2027, চাঁদ দেখার ওপর নির্ভরশীল।",
+  "id": "/loona-islamic-tools/bn/ramadan-timetable-in-eskisehir.html",
+  "start_url": "./ramadan-timetable-in-eskisehir.html",
+  "scope": "./ramadan-timetable-in-eskisehir.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

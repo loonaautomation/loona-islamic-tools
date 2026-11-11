@@ -1,0 +1,29 @@
+{
+  "name": "Loona হিজরি বছর 1455",
+  "short_name": "হিজরি বছর 1455",
+  "description": "হিজরি বছর 1455 AH: শুরু ও শেষের তারিখ, সব 12টি ইসলামি মাস তাদের গ্রেগরিয়ান তারিখসহ, এবং বছরের গুরুত্বপূর্ণ তারিখসমূহ — রমজান ও দুই ঈদসহ, উম্ম আল-কুরা ক্যালেন্ডার অনুযায়ী।",
+  "id": "/loona-islamic-tools/bn/hijri-year-1455.html",
+  "start_url": "./hijri-year-1455.html",
+  "scope": "./hijri-year-1455.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

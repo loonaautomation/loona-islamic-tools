@@ -1,0 +1,29 @@
+{
+  "name": "Loona আজকের সেহরি ও ইফতারের সময়",
+  "short_name": "আজকের সেহরি ও ইফতারের সময়",
+  "description": "আপনার শহরের জন্য আজকের সেহরি শেষ (ফজর) ও ইফতার (মাগরিব) সময়, পরেরটির দিকে লাইভ কাউন্টডাউনসহ। ডিফল্টভাবে Karachi পদ্ধতি, হানাফি আসর, সমন্বয়যোগ্য।",
+  "id": "/loona-islamic-tools/bn/sehri-iftar-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

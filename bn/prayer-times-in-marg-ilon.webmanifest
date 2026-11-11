@@ -1,0 +1,29 @@
+{
+  "name": "Loona Marg‘ilon-এ নামাজের সময়",
+  "short_name": "Marg‘ilon-এ নামাজের সময়",
+  "description": "Marg‘ilon, উজবেকিস্তান-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Muslim World League পদ্ধতি, আপনার ডিভাইসে Marg‘ilon-এর জন্য লাইভ হিসাব করা হয়েছে।",
+  "id": "/loona-islamic-tools/bn/prayer-times-in-marg-ilon.html",
+  "start_url": "./prayer-times-in-marg-ilon.html",
+  "scope": "./prayer-times-in-marg-ilon.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

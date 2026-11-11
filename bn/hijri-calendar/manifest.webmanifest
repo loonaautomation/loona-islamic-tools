@@ -1,0 +1,29 @@
+{
+  "name": "Loona হিজরি ক্যালেন্ডার",
+  "short_name": "হিজরি ক্যালেন্ডার",
+  "description": "যেকোনো হিজরি মাস ও বছর ঘুরে দেখুন একটি পরিষ্কার ইসলামি ক্যালেন্ডারে, যেখানে প্রতিটি দিন তার গ্রেগরিয়ান তারিখও দেখায়। উম্ম আল-কুরা ক্যালেন্ডার, ফ্রি এবং সবসময় হালনাগাদ।",
+  "id": "/loona-islamic-tools/bn/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
