@@ -1,0 +1,29 @@
+{
+  "name": "Loona Công cụ Hồi giáo: Giờ cầu nguyện, Ngày Hijri, Qibla, Tasbih & Duas",
+  "short_name": "Công cụ Hồi giáo: Giờ cầu nguyện, Ngày Hijri,",
+  "description": "Công cụ Hồi giáo: giờ cầu nguyện chính xác cho bất kỳ thành phố nào, ngày Hijri hôm nay, hướng Qibla, bảng giờ Ramadan, máy đếm tasbih, 99 Tên của Allah và các lời dua.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/vi/"
+}

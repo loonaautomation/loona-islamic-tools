@@ -1,0 +1,29 @@
+{
+  "name": "Loona Thư viện Dua",
+  "short_name": "Thư viện Dua",
+  "description": "Một thư viện các lời dua xác thực cho mọi khoảnh khắc — buổi sáng, ăn uống, du lịch, gia đình, lo âu, sự tha thứ — mỗi lời dua đều có tiếng Ả Rập, phiên âm, bản dịch và nguồn trích dẫn.",
+  "id": "/loona-islamic-tools/vi/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

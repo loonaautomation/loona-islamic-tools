@@ -1,0 +1,29 @@
+{
+  "name": "Loona Năm Hijri 1454",
+  "short_name": "Năm Hijri 1454",
+  "description": "Năm Hijri 1454 AH: ngày bắt đầu và kết thúc, tất cả 12 tháng Hồi giáo với ngày Dương lịch của chúng, và các ngày quan trọng của năm bao gồm Ramadan và cả hai ngày Eid, theo lịch Umm al-Qura.",
+  "id": "/loona-islamic-tools/vi/hijri-year-1454.html",
+  "start_url": "./hijri-year-1454.html",
+  "scope": "./hijri-year-1454.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

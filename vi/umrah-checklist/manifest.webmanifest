@@ -1,0 +1,29 @@
+{
+  "name": "Loona Danh sách kiểm tra Umrah",
+  "short_name": "Danh sách kiểm tra Umrah",
+  "description": "Một danh sách kiểm tra Umrah tương tác: giấy tờ, đặt chỗ, hành lý, sức khỏe và chuẩn bị ibadah, với thanh tiến độ, tùy chọn in và tiến độ được lưu trên thiết bị của bạn.",
+  "id": "/loona-islamic-tools/vi/umrah-checklist/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

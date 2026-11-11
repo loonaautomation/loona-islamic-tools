@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2033 theo lịch Hijri",
+  "short_name": "2033 theo lịch Hijri",
+  "description": "Năm Dương lịch 2033 trong lịch Hijri: ngày Hồi giáo của mỗi tháng trong 2033, cộng thêm ngày Ramadan, Eid al-Fitr và Eid al-Adha trong 2033, theo lịch Umm al-Qura.",
+  "id": "/loona-islamic-tools/vi/gregorian-year-2033-in-hijri.html",
+  "start_url": "./gregorian-year-2033-in-hijri.html",
+  "scope": "./gregorian-year-2033-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

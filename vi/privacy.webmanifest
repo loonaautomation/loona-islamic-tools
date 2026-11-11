@@ -1,0 +1,29 @@
+{
+  "name": "Loona Chính sách quyền riêng tư",
+  "short_name": "Chính sách quyền riêng tư",
+  "description": "Chính sách quyền riêng tư cho Loona Islamic Tools: mọi phép tính đều chạy trên thiết bị của bạn, không có tài khoản, không có dữ liệu được tải lên. Những gì localStorage lưu trữ và những phân tích nào được chạy.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/vi/privacy.html"
+}

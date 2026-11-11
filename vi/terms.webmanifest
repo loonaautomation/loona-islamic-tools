@@ -1,0 +1,29 @@
+{
+  "name": "Loona Điều khoản sử dụng",
+  "short_name": "Điều khoản sử dụng",
+  "description": "Điều khoản sử dụng cho Loona Islamic Tools: miễn phí cho mục đích cá nhân và masjid; giờ cầu nguyện là các ước tính đã tính — hãy luôn xác nhận các giờ quan trọng tại địa phương.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/vi/terms.html"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hướng Qibla",
+  "short_name": "Hướng Qibla",
+  "description": "Tìm hướng Qibla theo độ từ bất kỳ thành phố nào hoặc vị trí chính xác của bạn, với mặt số la bàn trực tiếp và khoảng cách đến Makkah. Miễn phí, chính xác và riêng tư.",
+  "id": "/loona-islamic-tools/vi/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

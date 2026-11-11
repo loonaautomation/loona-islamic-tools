@@ -1,0 +1,29 @@
+{
+  "name": "Loona Giờ cầu nguyện tại Bhubaneswar",
+  "short_name": "Giờ cầu nguyện tại Bhubaneswar",
+  "description": "Giờ cầu nguyện hôm nay tại Bhubaneswar, Ấn Độ: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Bhubaneswar.",
+  "id": "/loona-islamic-tools/vi/prayer-times-in-bhubaneswar.html",
+  "start_url": "./prayer-times-in-bhubaneswar.html",
+  "scope": "./prayer-times-in-bhubaneswar.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

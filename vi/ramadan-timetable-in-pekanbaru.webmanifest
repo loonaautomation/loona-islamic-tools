@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bảng giờ Ramadan tại Pekanbaru 2027 (1448)",
+  "short_name": "Bảng giờ Ramadan tại Pekanbaru 2027 (1448)",
+  "description": "Bảng giờ Ramadan 2027 cho Pekanbaru, Indonesia: giờ kết thúc Sehri (Fajr) và giờ Iftar (Maghrib) cho mỗi ngày của Ramadan 1448. Dự kiến từ ngày 8 tháng 2 đến ngày 8 tháng 3 năm 2027, tùy thuộc vào việc ngắm trăng.",
+  "id": "/loona-islamic-tools/vi/ramadan-timetable-in-pekanbaru.html",
+  "start_url": "./ramadan-timetable-in-pekanbaru.html",
+  "scope": "./ramadan-timetable-in-pekanbaru.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

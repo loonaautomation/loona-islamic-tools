@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lịch Hijri",
+  "short_name": "Lịch Hijri",
+  "description": "Duyệt bất kỳ tháng và năm Hijri nào trong một lịch Hồi giáo rõ ràng, nơi mỗi ngày cũng hiển thị ngày Dương lịch tương ứng. Lịch Umm al-Qura, miễn phí và luôn cập nhật.",
+  "id": "/loona-islamic-tools/vi/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
