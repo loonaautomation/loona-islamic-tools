@@ -1,0 +1,29 @@
+{
+  "name": "Loona यमन में रमज़ान समय-सारणी 2027 (1448)",
+  "short_name": "यमन में रमज़ान समय-सारणी 2027 (1448)",
+  "description": "यमन के लिए रमज़ान 2027 समय-सारणी: रमज़ान 1448 के हर दिन के लिए सेहरी समाप्ति (फ़ज्र) और इफ़्तार (मग़रिब) के समय, Sanaa के लिए गणना किए गए। अपेक्षित 8 फरवरी से 8 मार्च 2027, चाँद दिखने पर निर्भर।",
+  "id": "/loona-islamic-tools/hi/ramadan-timetable-in-yemen.html",
+  "start_url": "./ramadan-timetable-in-yemen.html",
+  "scope": "./ramadan-timetable-in-yemen.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

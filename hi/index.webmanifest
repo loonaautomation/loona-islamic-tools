@@ -1,0 +1,29 @@
+{
+  "name": "Loona इस्लामी टूल: नमाज़ समय, हिजरी तारीख़, क़िबला, तस्बीह और दुआएँ",
+  "short_name": "इस्लामी टूल: नमाज़ समय, हिजरी तारीख़, क़िबला,",
+  "description": "इस्लामी टूल: किसी भी शहर के लिए सटीक नमाज़ समय, आज की हिजरी तारीख़, क़िबला दिशा, रमज़ान समय-सारणी, तस्बीह काउंटर, अल्लाह के 99 नाम और दुआएँ।",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/hi/"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona आज के नमाज़ समय",
+  "short_name": "आज के नमाज़ समय",
+  "description": "किसी भी शहर के लिए आज के फ़ज्र, ज़ुहर, अस्र, मग़रिब और इशा नमाज़ समय पाएँ: Karachi, ISNA, MWL और अन्य विधियाँ, हनफ़ी या शाफ़ई अस्र, सटीक निर्देशांक समर्थित।",
+  "id": "/loona-islamic-tools/hi/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

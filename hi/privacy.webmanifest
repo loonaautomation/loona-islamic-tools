@@ -1,0 +1,29 @@
+{
+  "name": "Loona गोपनीयता नीति",
+  "short_name": "गोपनीयता नीति",
+  "description": "Loona Islamic Tools के लिए गोपनीयता नीति: सभी गणनाएँ आपके डिवाइस पर चलती हैं, कोई खाते नहीं, कोई अपलोड किया गया डेटा नहीं। localStorage क्या संग्रहीत करता है और कौन से विश्लेषण चलते हैं।",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/hi/privacy.html"
+}

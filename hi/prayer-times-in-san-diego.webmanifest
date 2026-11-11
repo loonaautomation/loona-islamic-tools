@@ -1,0 +1,29 @@
+{
+  "name": "Loona San Diego में नमाज़ के समय",
+  "short_name": "San Diego में नमाज़ के समय",
+  "description": "San Diego, संयुक्त राज्य अमेरिका में आज के नमाज़ के समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (शाफ़ई), मग़रिब और इशा, साथ में क़िबला की दिशा और आज की हिजरी तारीख़। ISNA विधि, San Diego के लिए आपके डिवाइस पर लाइव गणना।",
+  "id": "/loona-islamic-tools/hi/prayer-times-in-san-diego.html",
+  "start_url": "./prayer-times-in-san-diego.html",
+  "scope": "./prayer-times-in-san-diego.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

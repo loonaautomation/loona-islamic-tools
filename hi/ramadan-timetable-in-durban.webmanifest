@@ -1,0 +1,29 @@
+{
+  "name": "Loona Durban 2027 (1448) में रमज़ान समय-सारणी",
+  "short_name": "Durban 2027 (1448) में रमज़ान समय-सारणी",
+  "description": "Durban, दक्षिण अफ़्रीका के लिए रमज़ान 2027 समय-सारणी: रमज़ान 1448 के हर दिन के लिए सेहरी समाप्ति (फ़ज्र) और इफ़्तार (मग़रिब) के समय। अपेक्षित 8 फरवरी से 8 मार्च 2027, चाँद दिखने पर निर्भर।",
+  "id": "/loona-islamic-tools/hi/ramadan-timetable-in-durban.html",
+  "start_url": "./ramadan-timetable-in-durban.html",
+  "scope": "./ramadan-timetable-in-durban.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona तस्बीह काउंटर",
+  "short_name": "तस्बीह काउंटर",
+  "description": "डिजिटल तस्बीह काउंटर: सुब्हानअल्लाह, अल्हम्दुलिल्लाह और अन्य प्रीसेट, 33/99/100 लक्ष्य, राउंड ट्रैकिंग, कंपन और आपके डिवाइस पर सहेजे गए जीवनभर के कुल।",
+  "id": "/loona-islamic-tools/hi/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

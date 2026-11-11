@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kuwait City में नमाज़ समय",
+  "short_name": "Kuwait City में नमाज़ समय",
+  "description": "कुवैत City, कुवैत में आज के नमाज़ समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (हनफ़ी), मग़रिब और इशा, साथ में क़िबला दिशा और आज की हिजरी तारीख़। Karachi विधि, आपके डिवाइस पर कुवैत City के लिए लाइव गणना की गई।",
+  "id": "/loona-islamic-tools/hi/prayer-times-in-kuwait-city.html",
+  "start_url": "./prayer-times-in-kuwait-city.html",
+  "scope": "./prayer-times-in-kuwait-city.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

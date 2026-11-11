@@ -1,0 +1,29 @@
+{
+  "name": "Loona हिजरी में 2030",
+  "short_name": "हिजरी में 2030",
+  "description": "हिजरी कैलेंडर में ग्रेगोरियन वर्ष 2030: 2030 के हर महीने की इस्लामी तारीख़, साथ में 2030 में रमज़ान, ईद अल-फ़ित्र और ईद अल-अज़हा की तारीख़ें, उम्म अल-क़ुरा कैलेंडर पर।",
+  "id": "/loona-islamic-tools/hi/gregorian-year-2030-in-hijri.html",
+  "start_url": "./gregorian-year-2030-in-hijri.html",
+  "scope": "./gregorian-year-2030-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

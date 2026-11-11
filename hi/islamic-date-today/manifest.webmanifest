@@ -1,0 +1,29 @@
+{
+  "name": "Loona आज की इस्लामी तारीख़",
+  "short_name": "आज की इस्लामी तारीख़",
+  "description": "आज इस्लामी तारीख़ क्या है? आज की हिजरी तारीख़ देखें — दिन, महीना और वर्ष (उम्म अल-क़ुरा) — ग्रेगोरियन तारीख़ के साथ, आपके डिवाइस पर लाइव अपडेट। मुफ़्त।",
+  "id": "/loona-islamic-tools/hi/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona नमाज़ समय गणना विधियों की व्याख्या: Karachi, ISNA, MWL, हनफ़ी बनाम शाफ़ई",
+  "short_name": "नमाज़ समय गणना विधियों की व्याख्या: Karachi,",
+  "description": "नमाज़ समय गणना की सरल-हिंदी मार्गदर्शिका: फ़ज्र और इशा के गोधूलि कोण, पाँच प्रमुख विधियाँ, हनफ़ी बनाम शाफ़ई अस्र, और उच्च-अक्षांश नियम।",
+  "id": "/loona-islamic-tools/hi/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

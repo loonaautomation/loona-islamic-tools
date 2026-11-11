@@ -1,0 +1,29 @@
+{
+  "name": "Loona Djibouti में नमाज़ समय",
+  "short_name": "Djibouti में नमाज़ समय",
+  "description": "जिबूती, जिबूती में आज के नमाज़ समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (शाफ़ई), मग़रिब और इशा, साथ में क़िबला दिशा और आज की हिजरी तारीख़। मुस्लिम वर्ल्ड लीग विधि, आपके डिवाइस पर जिबूती के लिए लाइव गणना की गई।",
+  "id": "/loona-islamic-tools/hi/prayer-times-in-djibouti.html",
+  "start_url": "./prayer-times-in-djibouti.html",
+  "scope": "./prayer-times-in-djibouti.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

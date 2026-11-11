@@ -1,0 +1,29 @@
+{
+  "name": "Loona Leeds में नमाज़ के समय",
+  "short_name": "Leeds में नमाज़ के समय",
+  "description": "Leeds, यूनाइटेड किंगडम में आज के नमाज़ के समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (शाफ़ई), मग़रिब और इशा, साथ में क़िबला की दिशा और आज की हिजरी तारीख़। मुस्लिम वर्ल्ड लीग विधि, Leeds के लिए आपके डिवाइस पर लाइव गणना।",
+  "id": "/loona-islamic-tools/hi/prayer-times-in-leeds.html",
+  "start_url": "./prayer-times-in-leeds.html",
+  "scope": "./prayer-times-in-leeds.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

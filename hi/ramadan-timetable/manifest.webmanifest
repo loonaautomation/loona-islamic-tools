@@ -1,0 +1,29 @@
+{
+  "name": "Loona रमज़ान समय-सारणी",
+  "short_name": "रमज़ान समय-सारणी",
+  "description": "किसी भी शहर और हिजरी वर्ष के लिए पूरी रमज़ान समय-सारणी: रमज़ान के हर दिन के लिए सेहरी समाप्ति और इफ़्तार समय, ग्रेगोरियन तारीख़ों और रोज़े की अवधि के साथ। मुफ़्त, छपाई-योग्य।",
+  "id": "/loona-islamic-tools/hi/ramadan-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
