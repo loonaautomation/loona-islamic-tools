@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat di Esna",
+  "short_name": "Waktu Salat di Esna",
+  "description": "Waktu salat hari ini di Esna, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Esna.",
+  "id": "/loona-islamic-tools/id/prayer-times-in-esna.html",
+  "start_url": "./prayer-times-in-esna.html",
+  "scope": "./prayer-times-in-esna.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

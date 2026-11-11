@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat di Shibganj",
+  "short_name": "Waktu Salat di Shibganj",
+  "description": "Waktu salat hari ini di Shibganj, Bangladesh: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Shibganj.",
+  "id": "/loona-islamic-tools/id/prayer-times-in-shibganj.html",
+  "start_url": "./prayer-times-in-shibganj.html",
+  "scope": "./prayer-times-in-shibganj.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

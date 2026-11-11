@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat di Bogura",
+  "short_name": "Waktu Salat di Bogura",
+  "description": "Waktu salat hari ini di Bogura, Bangladesh: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bogura.",
+  "id": "/loona-islamic-tools/id/prayer-times-in-bogura.html",
+  "start_url": "./prayer-times-in-bogura.html",
+  "scope": "./prayer-times-in-bogura.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

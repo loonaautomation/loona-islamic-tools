@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat di Oklahoma City",
+  "short_name": "Waktu Salat di Oklahoma City",
+  "description": "Waktu salat hari ini di Oklahoma City, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Oklahoma City.",
+  "id": "/loona-islamic-tools/id/prayer-times-in-oklahoma-city.html",
+  "start_url": "./prayer-times-in-oklahoma-city.html",
+  "scope": "./prayer-times-in-oklahoma-city.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jadwal Ramadan di Evaton 2027 (1448)",
+  "short_name": "Jadwal Ramadan di Evaton 2027 (1448)",
+  "description": "Jadwal Ramadan 2027 untuk Evaton, Afrika Selatan: waktu akhir Sahur (Subuh) dan Buka Puasa (Magrib) untuk setiap hari Ramadan 1448. Diperkirakan 8 Februari hingga 8 Maret 2027, tergantung rukyat.",
+  "id": "/loona-islamic-tools/id/ramadan-timetable-in-evaton.html",
+  "start_url": "./ramadan-timetable-in-evaton.html",
+  "scope": "./ramadan-timetable-in-evaton.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metode Perhitungan Waktu Salat Dijelaskan: Karachi, ISNA, MWL, Hanafi vs Syafi'i",
+  "short_name": "Metode Perhitungan Waktu Salat Dijelaskan:",
+  "description": "Panduan berbahasa sederhana tentang perhitungan waktu salat: sudut senja untuk Subuh dan Isya, lima metode utama, Asar Hanafi vs Syafi'i, dan aturan lintang tinggi.",
+  "id": "/loona-islamic-tools/id/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ketentuan Penggunaan",
+  "short_name": "Ketentuan Penggunaan",
+  "description": "Ketentuan penggunaan untuk Loona Islamic Tools: gratis untuk penggunaan pribadi dan masjid; waktu salat adalah perkiraan hasil perhitungan — selalu konfirmasikan waktu penting secara lokal.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/id/terms.html"
+}

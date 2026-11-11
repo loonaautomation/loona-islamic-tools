@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat di Maradi",
+  "short_name": "Waktu Salat di Maradi",
+  "description": "Waktu salat hari ini di Maradi, Niger: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Maradi.",
+  "id": "/loona-islamic-tools/id/prayer-times-in-maradi.html",
+  "start_url": "./prayer-times-in-maradi.html",
+  "scope": "./prayer-times-in-maradi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

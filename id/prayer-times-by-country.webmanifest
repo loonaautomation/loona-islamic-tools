@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Salat berdasarkan Negara",
+  "short_name": "Waktu Salat berdasarkan Negara",
+  "description": "Waktu salat untuk 867 kota di seluruh dunia, dikelompokkan berdasarkan negara: Subuh, Matahari Terbit, Zuhur, Asar, Magrib dan Isya untuk hari ini, jadwal sebulan penuh, arah kiblat dan jadwal Ramadan 2027 berdasarkan negara.",
+  "id": "/loona-islamic-tools/id/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
