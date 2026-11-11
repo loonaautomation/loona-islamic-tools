@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Banja Luka",
+  "short_name": "Czasy modlitw w miejscowości Banja Luka",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Banja Luka, kraj Bośnia i Hercegowina: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Banja Luka.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-banja-luka.html",
+  "start_url": "./prayer-times-in-banja-luka.html",
+  "scope": "./prayer-times-in-banja-luka.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

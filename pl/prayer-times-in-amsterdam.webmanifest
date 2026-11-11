@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Amsterdam",
+  "short_name": "Czasy modlitw w miejscowości Amsterdam",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Amsterdam, kraj Niderlandy: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Amsterdam.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-amsterdam.html",
+  "start_url": "./prayer-times-in-amsterdam.html",
+  "scope": "./prayer-times-in-amsterdam.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Thrissur",
+  "short_name": "Czasy modlitw w miejscowości Thrissur",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Thrissur, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Thrissur.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-thrissur.html",
+  "start_url": "./prayer-times-in-thrissur.html",
+  "scope": "./prayer-times-in-thrissur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

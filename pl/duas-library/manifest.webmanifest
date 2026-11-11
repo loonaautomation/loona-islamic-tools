@@ -1,0 +1,29 @@
+{
+  "name": "Loona Biblioteka du",
+  "short_name": "Biblioteka du",
+  "description": "Biblioteka autentycznych du na każdą chwilę — poranek, jedzenie, podróż, dom, niepokój, przebaczenie — każda z tekstem arabskim, transliteracją, tłumaczeniem i źródłem.",
+  "id": "/loona-islamic-tools/pl/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

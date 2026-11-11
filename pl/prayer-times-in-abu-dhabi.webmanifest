@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Abu Dhabi",
+  "short_name": "Czasy modlitw w miejscowości Abu Dhabi",
+  "description": "Dzisiejsze godziny modlitw w miejscowości Abu Dhabi, UAE: Fadżr, wschód słońca, Zuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibli i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Abu Dhabi.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-abu-dhabi.html",
+  "start_url": "./prayer-times-in-abu-dhabi.html",
+  "scope": "./prayer-times-in-abu-dhabi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

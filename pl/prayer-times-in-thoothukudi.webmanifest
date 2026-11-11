@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Thoothukudi",
+  "short_name": "Czasy modlitw w miejscowości Thoothukudi",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Thoothukudi, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Thoothukudi.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-thoothukudi.html",
+  "start_url": "./prayer-times-in-thoothukudi.html",
+  "scope": "./prayer-times-in-thoothukudi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Harmonogram Ramadanu",
+  "short_name": "Harmonogram Ramadanu",
+  "description": "Pełny harmonogram Ramadanu dla dowolnego miasta i roku hidżry: godziny zakończenia sehri i iftaru na każdy dzień Ramadanu wraz z datami gregoriańskimi i czasem trwania postu. Za darmo, do wydruku.",
+  "id": "/loona-islamic-tools/pl/ramadan-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

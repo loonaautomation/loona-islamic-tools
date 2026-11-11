@@ -1,0 +1,29 @@
+{
+  "name": "Loona Lista kontrolna umry",
+  "short_name": "Lista kontrolna umry",
+  "description": "Interaktywna lista kontrolna Umry: dokumenty, rezerwacje, pakowanie, zdrowie i przygotowanie ibadah, z paskiem postępu, opcją drukowania i postępami zapisywanymi na Twoim urządzeniu.",
+  "id": "/loona-islamic-tools/pl/umrah-checklist/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

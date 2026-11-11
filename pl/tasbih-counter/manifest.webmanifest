@@ -1,0 +1,29 @@
+{
+  "name": "Loona Licznik tasbih",
+  "short_name": "Licznik tasbih",
+  "description": "Cyfrowy licznik tasbih: SubhanAllah, Alhamdulillah i inne ustawienia wstępne, cele 33/99/100, śledzenie rund, wibracja oraz sumy z całego okresu zapisywane na Twoim urządzeniu.",
+  "id": "/loona-islamic-tools/pl/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

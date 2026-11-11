@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Bandar Seri Alam",
+  "short_name": "Czasy modlitw w miejscowości Bandar Seri Alam",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Bandar Seri Alam, kraj Malezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Bandar Seri Alam.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-bandar-seri-alam.html",
+  "start_url": "./prayer-times-in-bandar-seri-alam.html",
+  "scope": "./prayer-times-in-bandar-seri-alam.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

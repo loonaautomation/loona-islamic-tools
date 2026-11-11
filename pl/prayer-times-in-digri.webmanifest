@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Digri",
+  "short_name": "Czasy modlitw w miejscowości Digri",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Digri, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Digri.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-digri.html",
+  "start_url": "./prayer-times-in-digri.html",
+  "scope": "./prayer-times-in-digri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

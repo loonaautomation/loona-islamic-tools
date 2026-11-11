@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Valencia",
+  "short_name": "Czasy modlitw w miejscowości Valencia",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Valencia, kraj Hiszpania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Valencia.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-valencia.html",
+  "start_url": "./prayer-times-in-valencia.html",
+  "scope": "./prayer-times-in-valencia.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

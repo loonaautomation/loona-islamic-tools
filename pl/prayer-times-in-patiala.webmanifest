@@ -1,0 +1,29 @@
+{
+  "name": "Loona Czasy modlitw w miejscowości Patiāla",
+  "short_name": "Czasy modlitw w miejscowości Patiāla",
+  "description": "Dzisiejsze czasy modlitw w miejscowości Patiāla, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Patiāla.",
+  "id": "/loona-islamic-tools/pl/prayer-times-in-patiala.html",
+  "start_url": "./prayer-times-in-patiala.html",
+  "scope": "./prayer-times-in-patiala.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
