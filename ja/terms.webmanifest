@@ -1,0 +1,29 @@
+{
+  "name": "Loona 利用規約",
+  "short_name": "利用規約",
+  "description": "Loona Islamic Tools の利用規約：個人利用とモスクでの利用は無料です。礼拝時刻は計算された推定値です — 重要な時刻は必ず現地で確認してください。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ja/terms.html"
+}

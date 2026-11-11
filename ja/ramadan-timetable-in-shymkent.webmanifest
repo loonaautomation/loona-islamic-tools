@@ -1,0 +1,29 @@
+{
+  "name": "Loona Shymkent 2027 (1448) のラマダンの時刻表",
+  "short_name": "Shymkent 2027 (1448) のラマダンの時刻表",
+  "description": "Shymkent（カザフスタン）の Ramadan 2027 の時刻表：Ramadan 1448 の毎日のセフリ終了（Fajr）とイフタール（Maghrib）の時刻です。2027年二月8日から三月8日までが見込まれますが、月観測によります。",
+  "id": "/loona-islamic-tools/ja/ramadan-timetable-in-shymkent.html",
+  "start_url": "./ramadan-timetable-in-shymkent.html",
+  "scope": "./ramadan-timetable-in-shymkent.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

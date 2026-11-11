@@ -1,0 +1,29 @@
+{
+  "name": "Loona パレスチナ のラマダンの時刻表（2027 年（1448））",
+  "short_name": "パレスチナ のラマダンの時刻表（2027 年（1448））",
+  "description": "パレスチナ の Ramadan 2027 年時刻表：Ramadan 1448 年の毎日の Sehri 終了（Fajr）と Iftar（Maghrib）の時刻。Ramallah について計算。8日 二月 から 8日 三月 2027 年までと予想され、月の目視によります。",
+  "id": "/loona-islamic-tools/ja/ramadan-timetable-in-palestine.html",
+  "start_url": "./ramadan-timetable-in-palestine.html",
+  "scope": "./ramadan-timetable-in-palestine.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

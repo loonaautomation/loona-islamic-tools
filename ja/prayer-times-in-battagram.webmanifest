@@ -1,0 +1,29 @@
+{
+  "name": "Loona Battagram の礼拝時刻",
+  "short_name": "Battagram の礼拝時刻",
+  "description": "Battagram（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Battagram についてライブ計算されます。",
+  "id": "/loona-islamic-tools/ja/prayer-times-in-battagram.html",
+  "start_url": "./prayer-times-in-battagram.html",
+  "scope": "./prayer-times-in-battagram.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

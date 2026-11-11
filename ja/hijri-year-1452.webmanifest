@@ -1,0 +1,29 @@
+{
+  "name": "Loona ヒジュラ暦 1452 年",
+  "short_name": "ヒジュラ暦 1452 年",
+  "description": "ヒジュラ暦 1452 年：開始日と終了日、全 12 のイスラームの月とそのグレゴリオ暦日付、Ramadan と両方の Eid を含むその年の主な日付。Umm al-Qura 暦に基づきます。",
+  "id": "/loona-islamic-tools/ja/hijri-year-1452.html",
+  "start_url": "./hijri-year-1452.html",
+  "scope": "./hijri-year-1452.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

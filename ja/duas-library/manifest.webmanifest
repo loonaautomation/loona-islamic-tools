@@ -1,0 +1,29 @@
+{
+  "name": "Loona ドゥアーライブラリ",
+  "short_name": "ドゥアーライブラリ",
+  "description": "朝、食事、旅行、家庭、不安、赦しなど、あらゆる場面のための本格的なドゥアーのライブラリです。各ドゥアーにはアラビア語、翻字、翻訳、出典が付いています。",
+  "id": "/loona-islamic-tools/ja/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona サウジアラビア のラマダンの時刻表（2027 年（1448））",
+  "short_name": "サウジアラビア のラマダンの時刻表（2027 年（1448））",
+  "description": "サウジアラビア の Ramadan 2027 の時刻表：Ramadan 1448 の毎日のセフリ終了（Fajr）とイフタール（Maghrib）の時刻を、Riyadh について計算します。2027年三月8日から8二月日までが見込まれますが、月観測によります。",
+  "id": "/loona-islamic-tools/ja/ramadan-timetable-in-saudi-arabia.html",
+  "start_url": "./ramadan-timetable-in-saudi-arabia.html",
+  "scope": "./ramadan-timetable-in-saudi-arabia.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

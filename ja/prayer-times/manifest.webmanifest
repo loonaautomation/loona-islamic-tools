@@ -1,0 +1,29 @@
+{
+  "name": "Loona 今日の礼拝時刻",
+  "short_name": "今日の礼拝時刻",
+  "description": "どの都市でも、今日の Fajr、Dhuhr、Asr、Maghrib、Isha の礼拝時刻を取得しましょう。Karachi、ISNA、MWL などの計算方法、ハナフィー学派またはシャーフィイー学派の Asr、正確な座標にも対応しています。",
+  "id": "/loona-islamic-tools/ja/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

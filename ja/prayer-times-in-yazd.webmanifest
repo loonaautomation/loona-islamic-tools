@@ -1,0 +1,29 @@
+{
+  "name": "Loona Yazd の礼拝時刻",
+  "short_name": "Yazd の礼拝時刻",
+  "description": "Yazd（イラン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Yazd についてライブ計算されます。",
+  "id": "/loona-islamic-tools/ja/prayer-times-in-yazd.html",
+  "start_url": "./prayer-times-in-yazd.html",
+  "scope": "./prayer-times-in-yazd.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

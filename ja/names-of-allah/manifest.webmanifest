@@ -1,0 +1,29 @@
+{
+  "name": "Loona アッラーの99の御名",
+  "short_name": "アッラーの99の御名",
+  "description": "アラビア語テキスト、翻字、日本語の意味を備えたアッラーの99の御名すべてを、一つの検索可能なページにまとめました。Asma-ul-Husna を無料で学び、暗記できます。どのデバイスでも使えます。",
+  "id": "/loona-islamic-tools/ja/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

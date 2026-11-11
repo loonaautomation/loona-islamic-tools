@@ -1,0 +1,29 @@
+{
+  "name": "Loona 礼拝時刻の計算方法を解説：Karachi、ISNA、MWL、ハナフィー学派とシャーフィイー学派",
+  "short_name": "礼拝時刻の計算方法を解説：Karachi、ISNA、MWL、ハナフィー学派とシャーフィイー学派",
+  "description": "礼拝時刻の計算をわかりやすく解説するガイドです。ファジュルとイシャーの薄明の角度、五つの主要な計算方法、ハナフィー学派とシャーフィイー学派のアスルの違い、高緯度地域のルールを説明します。",
+  "id": "/loona-islamic-tools/ja/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ras Al Khaimah の礼拝時刻",
+  "short_name": "Ras Al Khaimah の礼拝時刻",
+  "description": "Ras Al Khaimah、アラブ首長国連邦 の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Ras Al Khaimah についてあなたのデバイス上でライブ計算されます。",
+  "id": "/loona-islamic-tools/ja/prayer-times-in-ras-al-khaimah.html",
+  "start_url": "./prayer-times-in-ras-al-khaimah.html",
+  "scope": "./prayer-times-in-ras-al-khaimah.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

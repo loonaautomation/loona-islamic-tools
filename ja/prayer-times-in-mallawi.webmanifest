@@ -1,0 +1,29 @@
+{
+  "name": "Loona Mallawī の礼拝時刻",
+  "short_name": "Mallawī の礼拝時刻",
+  "description": "Mallawī、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Mallawī についてあなたのデバイス上でライブ計算されます。",
+  "id": "/loona-islamic-tools/ja/prayer-times-in-mallawi.html",
+  "start_url": "./prayer-times-in-mallawi.html",
+  "scope": "./prayer-times-in-mallawi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

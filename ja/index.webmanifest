@@ -1,0 +1,29 @@
+{
+  "name": "Loona イスラームツール：礼拝時刻、ヒジュラ暦の日付、キブラ、タスビーフ、ドゥアー",
+  "short_name": "イスラームツール：礼拝時刻、ヒジュラ暦の日付、キブラ、タスビーフ、ドゥアー",
+  "description": "イスラームツール：どの都市でも正確な礼拝時刻、今日のヒジュラ暦日付、キブラの方向、ラマダンの時刻表、タスビーフカウンター、アッラーの99の御名、ドゥアー。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ja/"
+}

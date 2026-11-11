@@ -1,0 +1,29 @@
+{
+  "name": "Loona ヒジュラ暦カレンダー",
+  "short_name": "ヒジュラ暦カレンダー",
+  "description": "すべての日にグレゴリオ暦の日付も表示される、すっきりしたイスラーム暦で、どのヒジュラ暦の月と年でも閲覧できます。Umm al-Qura カレンダーで、無料、そして常に最新です。",
+  "id": "/loona-islamic-tools/ja/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
