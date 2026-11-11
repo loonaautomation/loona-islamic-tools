@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tirunelveli의 기도 시간",
+  "short_name": "Tirunelveli의 기도 시간",
+  "description": "오늘의 기도 시간 — Tirunelveli, 인도: Fajr, 일출, Dhuhr, Asr (Hanafi), Maghrib, Isha, 그리고 키블라 방향과 오늘의 히즈리 날짜예요. Karachi 방식, Tirunelveli 기준으로 기기에서 실시간 계산해요.",
+  "id": "/loona-islamic-tools/ko/prayer-times-in-tirunelveli.html",
+  "start_url": "./prayer-times-in-tirunelveli.html",
+  "scope": "./prayer-times-in-tirunelveli.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

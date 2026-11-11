@@ -1,0 +1,29 @@
+{
+  "name": "Loona 개인정보 처리방침",
+  "short_name": "개인정보 처리방침",
+  "description": "Loona Islamic Tools 개인정보 처리방침: 모든 계산은 내 기기에서 실행되고, 계정도, 업로드되는 데이터도 없어요. localStorage가 저장하는 것과 어떤 분석이 실행되는지 설명해요.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ko/privacy.html"
+}

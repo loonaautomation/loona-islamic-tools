@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오늘의 Sehri & Iftar 시간",
+  "short_name": "오늘의 Sehri & Iftar 시간",
+  "description": "내 도시의 오늘 Sehri 종료(Fajr)와 Iftar(Maghrib) 시간, 다음 시간까지의 실시간 카운트다운과 함께요. 기본값은 Karachi 방식, Hanafi Asr이며 조정할 수 있어요.",
+  "id": "/loona-islamic-tools/ko/sehri-iftar-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

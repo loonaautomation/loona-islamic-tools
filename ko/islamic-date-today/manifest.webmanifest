@@ -1,0 +1,29 @@
+{
+  "name": "Loona 오늘의 이슬람 날짜",
+  "short_name": "오늘의 이슬람 날짜",
+  "description": "오늘의 이슬람 날짜는 며칠인가요? 오늘의 히즈리 날짜 — 날짜, 달, 연도(Umm al-Qura) — 를 그레고리력 날짜와 함께, 기기에서 실시간으로 업데이트하며 확인하세요. 무료예요.",
+  "id": "/loona-islamic-tools/ko/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

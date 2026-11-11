@@ -1,0 +1,29 @@
+{
+  "name": "Loona 월간 기도 시간표",
+  "short_name": "월간 기도 시간표",
+  "description": "어떤 도시든 인쇄 가능한 월간 기도 시간표를 만들어 보세요: 한 달 전체의 여섯 가지 시간을 모두, 계산 방식과 Asr 학파와 함께, 무료이고 프라이빗하게요.",
+  "id": "/loona-islamic-tools/ko/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
