@@ -1,0 +1,29 @@
+{
+  "name": "Loona 伊斯兰工具：礼拜时间、伊斯兰历日期、朝向、念珠与杜阿",
+  "short_name": "伊斯兰工具：礼拜时间、伊斯兰历日期、朝向、念珠与杜阿",
+  "description": "伊斯兰工具：为任何城市提供准确的礼拜时间、今天的伊斯兰历日期、朝向方向、斋月时间表、念珠计数器、Allah的99个尊名和杜阿。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/zh/"
+}

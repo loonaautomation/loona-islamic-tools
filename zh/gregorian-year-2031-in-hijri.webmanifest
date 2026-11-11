@@ -1,0 +1,29 @@
+{
+  "name": "Loona 伊斯兰历2031年",
+  "short_name": "伊斯兰历2031年",
+  "description": "公历2031年在伊斯兰历中：2031每个月的伊斯兰历日期，外加2031年的Ramadan、开斋节和宰牲节日期，按Umm al-Qura日历。",
+  "id": "/loona-islamic-tools/zh/gregorian-year-2031-in-hijri.html",
+  "start_url": "./gregorian-year-2031-in-hijri.html",
+  "scope": "./gregorian-year-2031-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

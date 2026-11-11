@@ -1,0 +1,29 @@
+{
+  "name": "Loona Manisa的礼拜时间",
+  "short_name": "Manisa的礼拜时间",
+  "description": "Manisa（土耳其）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Manisa实时计算。",
+  "id": "/loona-islamic-tools/zh/prayer-times-in-manisa.html",
+  "start_url": "./prayer-times-in-manisa.html",
+  "scope": "./prayer-times-in-manisa.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

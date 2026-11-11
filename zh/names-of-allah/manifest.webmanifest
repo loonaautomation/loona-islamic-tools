@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allah的99个尊名",
+  "short_name": "Allah的99个尊名",
+  "description": "Allah的全部99个尊名，汇集在一个可搜索的页面上，附有阿拉伯原文、音译和中文释义。免费学习和记诵Asma-ul-Husna，任何设备均可使用。",
+  "id": "/loona-islamic-tools/zh/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

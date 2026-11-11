@@ -1,0 +1,29 @@
+{
+  "name": "Loona 每月礼拜时间表",
+  "short_name": "每月礼拜时间表",
+  "description": "为任何城市生成可打印的每月礼拜时间表：整月全部六个时间，配有您的计算方法和Asr学派，免费且私密。",
+  "id": "/loona-islamic-tools/zh/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

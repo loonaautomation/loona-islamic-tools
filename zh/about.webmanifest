@@ -1,0 +1,29 @@
+{
+  "name": "Loona 关于Loona Islamic Tools",
+  "short_name": "关于Loona Islamic Tools",
+  "description": "关于Loona Islamic Tools：由Loona Automation打造的一套免费工具，涵盖礼拜时间、伊斯兰历、朝向、念珠计数和杜阿。时间如何计算，一并说明。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/zh/about.html"
+}

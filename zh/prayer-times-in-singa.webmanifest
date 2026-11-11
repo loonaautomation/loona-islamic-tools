@@ -1,0 +1,29 @@
+{
+  "name": "Loona Singa的礼拜时间",
+  "short_name": "Singa的礼拜时间",
+  "description": "Singa（苏丹）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Singa实时计算。",
+  "id": "/loona-islamic-tools/zh/prayer-times-in-singa.html",
+  "start_url": "./prayer-times-in-singa.html",
+  "scope": "./prayer-times-in-singa.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

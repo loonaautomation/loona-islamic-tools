@@ -1,0 +1,29 @@
+{
+  "name": "Loona 今日礼拜时间",
+  "short_name": "今日礼拜时间",
+  "description": "获取任何城市今天的Fajr、Dhuhr、Asr、Maghrib和Isha礼拜时间：Karachi、ISNA、MWL等多种方法，Hanafi或Shafi的Asr，支持确切坐标。",
+  "id": "/loona-islamic-tools/zh/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

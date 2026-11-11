@@ -1,0 +1,29 @@
+{
+  "name": "Loona 联系Loona Islamic Tools",
+  "short_name": "联系Loona Islamic Tools",
+  "description": "联系Loona Islamic Tools和Loona Automation：通过电子邮件反馈礼拜时间、伊斯兰历日期、杜阿内容的更正，以及建议和合作问题。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/zh/contact.html"
+}
