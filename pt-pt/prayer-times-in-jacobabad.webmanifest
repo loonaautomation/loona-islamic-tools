@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Jacobabad",
+  "short_name": "Horários de Oração em Jacobabad",
+  "description": "Horários de oração de hoje em Jacobabad, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Jacobabad.",
+  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-jacobabad.html",
+  "start_url": "./prayer-times-in-jacobabad.html",
+  "scope": "./prayer-times-in-jacobabad.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

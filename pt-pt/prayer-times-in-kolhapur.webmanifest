@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Kolhāpur",
+  "short_name": "Horários de Oração em Kolhāpur",
+  "description": "Horários de oração de hoje em Kolhāpur, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Kolhāpur.",
+  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-kolhapur.html",
+  "start_url": "./prayer-times-in-kolhapur.html",
+  "scope": "./prayer-times-in-kolhapur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Boksburg",
+  "short_name": "Horários de Oração em Boksburg",
+  "description": "Horários de oração de hoje em Boksburg, África do Sul: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Boksburg.",
+  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-boksburg.html",
+  "start_url": "./prayer-times-in-boksburg.html",
+  "scope": "./prayer-times-in-boksburg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

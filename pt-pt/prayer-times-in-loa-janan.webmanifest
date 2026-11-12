@@ -1,0 +1,29 @@
+{
+  "name": "Loona Horários de Oração em Loa Janan",
+  "short_name": "Horários de Oração em Loa Janan",
+  "description": "Horários de oração de hoje em Loa Janan, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Loa Janan.",
+  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-loa-janan.html",
+  "start_url": "./prayer-times-in-loa-janan.html",
+  "scope": "./prayer-times-in-loa-janan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

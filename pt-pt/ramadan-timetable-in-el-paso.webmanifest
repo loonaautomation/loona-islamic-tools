@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabela do Ramadã em El Paso 2027 (1448)",
+  "short_name": "Tabela do Ramadã em El Paso 2027 (1448)",
+  "description": "Tabela do Ramadã 2027 para El Paso, Estados Unidos: horários do fim do Sehri (Fajr) e do Iftar (Maghrib) para cada dia do Ramadã 1448. Esperado de 8 de fevereiro a 8 de março de 2027, sujeito a observação da lua.",
+  "id": "/loona-islamic-tools/pt-pt/ramadan-timetable-in-el-paso.html",
+  "start_url": "./ramadan-timetable-in-el-paso.html",
+  "scope": "./ramadan-timetable-in-el-paso.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
