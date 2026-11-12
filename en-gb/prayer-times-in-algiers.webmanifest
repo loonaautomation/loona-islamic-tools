@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prayer Times in Algiers Today",
+  "short_name": "Prayer Times in Algiers Today",
+  "description": "Today's prayer times in Algiers, Algeria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Algiers.",
+  "id": "/loona-islamic-tools/en-gb/prayer-times-in-algiers.html",
+  "start_url": "./prayer-times-in-algiers.html",
+  "scope": "./prayer-times-in-algiers.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
