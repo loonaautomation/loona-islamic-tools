@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ano da Hégira 1452",
+  "short_name": "Ano da Hégira 1452",
+  "description": "O ano da Hégira 1452 AH: datas de início e fim, todos os 12 meses islâmicos com as suas datas gregorianas, e as datas principais do ano, incluindo o Ramadã e ambos os Eids, no calendário Umm al-Qura.",
+  "id": "/loona-islamic-tools/pt-br/hijri-year-1452.html",
+  "start_url": "./hijri-year-1452.html",
+  "scope": "./hijri-year-1452.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

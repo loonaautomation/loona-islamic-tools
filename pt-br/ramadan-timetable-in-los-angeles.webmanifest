@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tabela do Ramadã em Los Angeles 2027 (1448)",
+  "short_name": "Tabela do Ramadã em Los Angeles 2027 (1448)",
+  "description": "Tabela do Ramadã 2027 para Los Angeles, Estados Unidos: horários do fim do Sehri (Fajr) e do Iftar (Maghrib) para cada dia do Ramadã 1448. Esperado de 8 de fevereiro a 8 de março de 2027, sujeito a observação da lua.",
+  "id": "/loona-islamic-tools/pt-br/ramadan-timetable-in-los-angeles.html",
+  "start_url": "./ramadan-timetable-in-los-angeles.html",
+  "scope": "./ramadan-timetable-in-los-angeles.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contador de Tasbih",
+  "short_name": "Contador de Tasbih",
+  "description": "Um contador de tasbih digital: SubhanAllah, Alhamdulillah e mais predefinições, metas de 33/99/100, acompanhamento de voltas, vibração e totais vitalícios salvos no seu dispositivo.",
+  "id": "/loona-islamic-tools/pt-br/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

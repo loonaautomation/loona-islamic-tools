@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ferramentas Islâmicas: Horários de Oração, Data da Hégira, Qibla, Tasbih e Duas",
+  "short_name": "Ferramentas Islâmicas: Horários de Oração, Data",
+  "description": "Ferramentas islâmicas: horários de oração precisos para qualquer cidade, a data da Hégira de hoje, direção da Qibla, tabela do Ramadã, contador de tasbih, 99 Nomes de Allah e duas.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/pt-br/"
+}
