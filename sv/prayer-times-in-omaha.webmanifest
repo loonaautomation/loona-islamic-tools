@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Omaha",
+  "short_name": "Bönetider i Omaha",
+  "description": "Dagens bönetider i Omaha, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Omaha.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-omaha.html",
+  "start_url": "./prayer-times-in-omaha.html",
+  "scope": "./prayer-times-in-omaha.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

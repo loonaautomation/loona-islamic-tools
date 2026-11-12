@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Nasiriyah",
+  "short_name": "Bönetider i Nasiriyah",
+  "description": "Dagens bönetider i Nasiriyah, Irak: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nasiriyah.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-nasiriyah.html",
+  "start_url": "./prayer-times-in-nasiriyah.html",
+  "scope": "./prayer-times-in-nasiriyah.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

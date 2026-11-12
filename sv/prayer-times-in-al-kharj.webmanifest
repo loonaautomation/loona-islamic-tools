@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Al Kharj",
+  "short_name": "Bönetider i Al Kharj",
+  "description": "Dagens bönetider i Al Kharj, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Al Kharj.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-al-kharj.html",
+  "start_url": "./prayer-times-in-al-kharj.html",
+  "scope": "./prayer-times-in-al-kharj.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

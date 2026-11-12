@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Hamburg-Nord",
+  "short_name": "Bönetider i Hamburg-Nord",
+  "description": "Dagens bönetider i Hamburg-Nord, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Hamburg-Nord.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-hamburg-nord.html",
+  "start_url": "./prayer-times-in-hamburg-nord.html",
+  "scope": "./prayer-times-in-hamburg-nord.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

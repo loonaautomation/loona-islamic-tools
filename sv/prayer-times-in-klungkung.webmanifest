@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Klungkung",
+  "short_name": "Bönetider i Klungkung",
+  "description": "Dagens bönetider i Klungkung, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Klungkung.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-klungkung.html",
+  "start_url": "./prayer-times-in-klungkung.html",
+  "scope": "./prayer-times-in-klungkung.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

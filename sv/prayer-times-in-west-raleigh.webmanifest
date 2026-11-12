@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i West Raleigh",
+  "short_name": "Bönetider i West Raleigh",
+  "description": "Dagens bönetider i West Raleigh, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för West Raleigh.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-west-raleigh.html",
+  "start_url": "./prayer-times-in-west-raleigh.html",
+  "scope": "./prayer-times-in-west-raleigh.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

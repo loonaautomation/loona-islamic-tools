@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Soshanguve",
+  "short_name": "Bönetider i Soshanguve",
+  "description": "Dagens bönetider i Soshanguve, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Soshanguve.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-soshanguve.html",
+  "start_url": "./prayer-times-in-soshanguve.html",
+  "scope": "./prayer-times-in-soshanguve.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

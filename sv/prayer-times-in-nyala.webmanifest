@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Nyala",
+  "short_name": "Bönetider i Nyala",
+  "description": "Dagens bönetider i Nyala, Sudan: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nyala.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-nyala.html",
+  "start_url": "./prayer-times-in-nyala.html",
+  "scope": "./prayer-times-in-nyala.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

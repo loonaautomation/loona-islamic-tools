@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Graz",
+  "short_name": "Bönetider i Graz",
+  "description": "Dagens bönetider i Graz, Österrike: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Graz.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-graz.html",
+  "start_url": "./prayer-times-in-graz.html",
+  "scope": "./prayer-times-in-graz.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

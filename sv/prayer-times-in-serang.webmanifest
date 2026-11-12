@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Serang",
+  "short_name": "Bönetider i Serang",
+  "description": "Dagens bönetider i Serang, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Serang.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-serang.html",
+  "start_url": "./prayer-times-in-serang.html",
+  "scope": "./prayer-times-in-serang.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

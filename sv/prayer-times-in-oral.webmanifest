@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Oral",
+  "short_name": "Bönetider i Oral",
+  "description": "Dagens bönetider i Oral, Kazakstan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Oral.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-oral.html",
+  "start_url": "./prayer-times-in-oral.html",
+  "scope": "./prayer-times-in-oral.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

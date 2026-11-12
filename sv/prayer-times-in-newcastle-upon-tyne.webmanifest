@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Newcastle upon Tyne",
+  "short_name": "Bönetider i Newcastle upon Tyne",
+  "description": "Dagens bönetider i Newcastle upon Tyne, Storbritannien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Newcastle upon Tyne.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-newcastle-upon-tyne.html",
+  "start_url": "./prayer-times-in-newcastle-upon-tyne.html",
+  "scope": "./prayer-times-in-newcastle-upon-tyne.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

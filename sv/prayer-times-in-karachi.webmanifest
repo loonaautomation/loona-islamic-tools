@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Karachi",
+  "short_name": "Bönetider i Karachi",
+  "description": "Dagens bönetider i Karachi, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Karachi.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-karachi.html",
+  "start_url": "./prayer-times-in-karachi.html",
+  "scope": "./prayer-times-in-karachi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i Morādābād",
+  "short_name": "Bönetider i Morādābād",
+  "description": "Dagens bönetider i Morādābād, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Morādābād.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-moradabad.html",
+  "start_url": "./prayer-times-in-moradabad.html",
+  "scope": "./prayer-times-in-moradabad.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

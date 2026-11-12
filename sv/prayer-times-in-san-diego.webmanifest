@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider i San Diego",
+  "short_name": "Bönetider i San Diego",
+  "description": "Dagens bönetider i San Diego, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för San Diego.",
+  "id": "/loona-islamic-tools/sv/prayer-times-in-san-diego.html",
+  "start_url": "./prayer-times-in-san-diego.html",
+  "scope": "./prayer-times-in-san-diego.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

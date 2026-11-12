@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bönetider efter land",
+  "short_name": "Bönetider efter land",
+  "description": "Bönetider för 867 städer världen över, grupperade efter land: Fajr, soluppgång, Dhuhr, Asr, Maghrib och Isha för i dag, tidtabeller för hela månaden, Qibla-riktning och tidtabeller för Ramadan 2027 per land.",
+  "id": "/loona-islamic-tools/sv/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
