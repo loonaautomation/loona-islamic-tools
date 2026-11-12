@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Vereeniging",
+  "short_name": "Časy modliteb v Vereeniging",
+  "description": "Dnešní časy modliteb v Vereeniging, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Vereeniging.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-vereeniging.html",
+  "start_url": "./prayer-times-in-vereeniging.html",
+  "scope": "./prayer-times-in-vereeniging.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

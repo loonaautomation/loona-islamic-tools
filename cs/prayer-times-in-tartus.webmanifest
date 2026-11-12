@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Ţarţūs",
+  "short_name": "Časy modliteb v Ţarţūs",
+  "description": "Dnešní časy modliteb v Ţarţūs, Sýrie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ţarţūs.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-tartus.html",
+  "start_url": "./prayer-times-in-tartus.html",
+  "scope": "./prayer-times-in-tartus.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Liverpool",
+  "short_name": "Časy modliteb v Liverpool",
+  "description": "Dnešní časy modliteb v Liverpool, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Liverpool.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-liverpool.html",
+  "start_url": "./prayer-times-in-liverpool.html",
+  "scope": "./prayer-times-in-liverpool.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

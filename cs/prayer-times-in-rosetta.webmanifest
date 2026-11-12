@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Rosetta",
+  "short_name": "Časy modliteb v Rosetta",
+  "description": "Dnešní časy modliteb v Rosetta, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Rosetta.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-rosetta.html",
+  "start_url": "./prayer-times-in-rosetta.html",
+  "scope": "./prayer-times-in-rosetta.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

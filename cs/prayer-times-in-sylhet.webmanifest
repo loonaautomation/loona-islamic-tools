@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Sylhet",
+  "short_name": "Časy modliteb v Sylhet",
+  "description": "Dnešní časy modliteb v Sylhet, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Sylhet.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-sylhet.html",
+  "start_url": "./prayer-times-in-sylhet.html",
+  "scope": "./prayer-times-in-sylhet.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

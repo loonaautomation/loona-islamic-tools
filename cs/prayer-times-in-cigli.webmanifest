@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Çiğli",
+  "short_name": "Časy modliteb v Çiğli",
+  "description": "Dnešní časy modliteb v Çiğli, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Çiğli.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-cigli.html",
+  "start_url": "./prayer-times-in-cigli.html",
+  "scope": "./prayer-times-in-cigli.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

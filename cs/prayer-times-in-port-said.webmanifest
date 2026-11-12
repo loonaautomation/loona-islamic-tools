@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Port Said",
+  "short_name": "Časy modliteb v Port Said",
+  "description": "Dnešní časy modliteb v Port Said, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Port Said.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-port-said.html",
+  "start_url": "./prayer-times-in-port-said.html",
+  "scope": "./prayer-times-in-port-said.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Sunshine Coast",
+  "short_name": "Časy modliteb v Sunshine Coast",
+  "description": "Dnešní časy modliteb v Sunshine Coast, Austrálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sunshine Coast.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-sunshine-coast.html",
+  "start_url": "./prayer-times-in-sunshine-coast.html",
+  "scope": "./prayer-times-in-sunshine-coast.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

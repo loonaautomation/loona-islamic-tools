@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Bonn",
+  "short_name": "Časy modliteb v Bonn",
+  "description": "Dnešní časy modliteb v Bonn, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bonn.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-bonn.html",
+  "start_url": "./prayer-times-in-bonn.html",
+  "scope": "./prayer-times-in-bonn.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

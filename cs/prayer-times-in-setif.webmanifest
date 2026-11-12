@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modliteb v Sétif",
+  "short_name": "Časy modliteb v Sétif",
+  "description": "Dnešní časy modliteb v Sétif, Alžírsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sétif.",
+  "id": "/loona-islamic-tools/cs/prayer-times-in-setif.html",
+  "start_url": "./prayer-times-in-setif.html",
+  "scope": "./prayer-times-in-setif.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
