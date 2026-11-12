@@ -1,0 +1,29 @@
+{
+  "name": "Loona Duas Library — Authentic Duas for Every Day",
+  "short_name": "Duas Library — Authentic Duas for Every Day",
+  "description": "A library of authentic duas for every moment — morning, food, travel, home, anxiety, forgiveness — each with Arabic, transliteration, translation and source.",
+  "id": "/loona-islamic-tools/en-us/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

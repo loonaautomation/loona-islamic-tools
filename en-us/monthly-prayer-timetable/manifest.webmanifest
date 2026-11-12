@@ -1,0 +1,29 @@
+{
+  "name": "Loona Monthly Prayer Timetable — Printable for Home & Masjid",
+  "short_name": "Monthly Prayer Timetable — Printable for Home & Masjid",
+  "description": "Generate a printable monthly prayer timetable for any city: all six times for the whole month, with your calculation method and Asr school, free and private.",
+  "id": "/loona-islamic-tools/en-us/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Prayer Times in Honolulu Today",
+  "short_name": "Prayer Times in Honolulu Today",
+  "description": "Today's prayer times in Honolulu, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Honolulu.",
+  "id": "/loona-islamic-tools/en-us/prayer-times-in-honolulu.html",
+  "start_url": "./prayer-times-in-honolulu.html",
+  "scope": "./prayer-times-in-honolulu.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

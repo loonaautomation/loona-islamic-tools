@@ -1,0 +1,28 @@
+{
+  "name": "Loona Islamic Tools",
+  "short_name": "Islamic Tools",
+  "description": "Islamic tools: accurate prayer times for any city, today’s Hijri date, Qibla direction, Ramadan timetable, tasbih counter, 99 Names of Allah and duas.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

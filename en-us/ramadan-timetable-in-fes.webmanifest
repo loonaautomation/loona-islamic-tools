@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadan Timetable in Fes 2027",
+  "short_name": "Ramadan Timetable in Fes 2027",
+  "description": "Ramadan 2027 timetable for Fes, Morocco: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448. Expected February 8 to March 8, 2027, subject to moon sighting.",
+  "id": "/loona-islamic-tools/en-us/ramadan-timetable-in-fes.html",
+  "start_url": "./ramadan-timetable-in-fes.html",
+  "scope": "./ramadan-timetable-in-fes.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

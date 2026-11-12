@@ -1,0 +1,29 @@
+{
+  "name": "Loona Umrah Checklist — Prepare Without Forgetting a Thing",
+  "short_name": "Umrah Checklist — Prepare Without Forgetting a Thing",
+  "description": "An interactive Umrah checklist: documents, bookings, packing, health and ibadah preparation, with progress bar, print option and progress saved on your device.",
+  "id": "/loona-islamic-tools/en-us/umrah-checklist/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
