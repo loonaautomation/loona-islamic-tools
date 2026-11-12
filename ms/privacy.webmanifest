@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dasar Privasi",
+  "short_name": "Dasar Privasi",
+  "description": "Dasar privasi Loona Islamic Tools: semua pengiraan berjalan pada peranti anda, tiada akaun, tiada data dimuat naik. Apa yang disimpan localStorage dan analitis apa yang berjalan.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/ms/privacy.html"
+}

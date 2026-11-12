@@ -1,0 +1,29 @@
+{
+  "name": "Loona Jadual Waktu Solat Bulanan",
+  "short_name": "Jadual Waktu Solat Bulanan",
+  "description": "Jana jadual waktu solat bulanan yang boleh dicetak untuk mana-mana bandar: keenam-enam waktu bagi seluruh bulan, dengan kaedah pengiraan dan mazhab Asar anda, percuma dan peribadi.",
+  "id": "/loona-islamic-tools/ms/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat di Bagerhat",
+  "short_name": "Waktu Solat di Bagerhat",
+  "description": "Waktu solat hari ini di Bagerhat, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bagerhat.",
+  "id": "/loona-islamic-tools/ms/prayer-times-in-bagerhat.html",
+  "start_url": "./prayer-times-in-bagerhat.html",
+  "scope": "./prayer-times-in-bagerhat.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat di Albuquerque",
+  "short_name": "Waktu Solat di Albuquerque",
+  "description": "Waktu solat hari ini di Albuquerque, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Albuquerque.",
+  "id": "/loona-islamic-tools/ms/prayer-times-in-albuquerque.html",
+  "start_url": "./prayer-times-in-albuquerque.html",
+  "scope": "./prayer-times-in-albuquerque.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

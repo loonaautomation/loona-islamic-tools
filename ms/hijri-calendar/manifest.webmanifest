@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kalendar Hijri",
+  "short_name": "Kalendar Hijri",
+  "description": "Layari mana-mana bulan dan tahun Hijri dalam kalendar Islam yang kemas di mana setiap hari turut memaparkan tarikh Masihinya. Kalendar Umm al-Qura, percuma dan sentiasa terkini.",
+  "id": "/loona-islamic-tools/ms/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

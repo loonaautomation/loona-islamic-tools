@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat di Abu Dhabi",
+  "short_name": "Waktu Solat di Abu Dhabi",
+  "description": "Waktu solat hari ini di Abu Dhabi, UAE: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Abu Dhabi.",
+  "id": "/loona-islamic-tools/ms/prayer-times-in-abu-dhabi.html",
+  "start_url": "./prayer-times-in-abu-dhabi.html",
+  "scope": "./prayer-times-in-abu-dhabi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

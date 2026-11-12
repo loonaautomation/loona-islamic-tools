@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tahun Hijri 1451",
+  "short_name": "Tahun Hijri 1451",
+  "description": "Tahun Hijri 1451 AH: tarikh mula dan tamat, kesemua 12 bulan Islam dengan tarikh Masihinya, dan tarikh penting tahun itu termasuk Ramadan dan kedua-dua Hari Raya, pada kalendar Umm al-Qura.",
+  "id": "/loona-islamic-tools/ms/hijri-year-1451.html",
+  "start_url": "./hijri-year-1451.html",
+  "scope": "./hijri-year-1451.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

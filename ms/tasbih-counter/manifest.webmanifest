@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kaunter Tasbih",
+  "short_name": "Kaunter Tasbih",
+  "description": "Kaunter tasbih digital: SubhanAllah, Alhamdulillah dan lagi pratetap, sasaran 33/99/100, penjejakan pusingan, getaran dan jumlah seumur hidup yang disimpan pada peranti anda.",
+  "id": "/loona-islamic-tools/ms/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

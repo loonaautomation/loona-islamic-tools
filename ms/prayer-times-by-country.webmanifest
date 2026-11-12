@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat mengikut Negara",
+  "short_name": "Waktu Solat mengikut Negara",
+  "description": "Waktu solat untuk 867 bandar di seluruh dunia, dikumpulkan mengikut negara: Subuh, Matahari Terbit, Zohor, Asar, Maghrib dan Isyak untuk hari ini, jadual sebulan penuh, arah Kiblat dan jadual Ramadan 2027 mengikut negara.",
+  "id": "/loona-islamic-tools/ms/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

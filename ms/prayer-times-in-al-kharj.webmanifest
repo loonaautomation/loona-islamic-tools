@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat di Al Kharj",
+  "short_name": "Waktu Solat di Al Kharj",
+  "description": "Waktu solat hari ini di Al Kharj, Arab Saudi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Umm al-Qura, dikira secara langsung pada peranti anda untuk Al Kharj.",
+  "id": "/loona-islamic-tools/ms/prayer-times-in-al-kharj.html",
+  "start_url": "./prayer-times-in-al-kharj.html",
+  "scope": "./prayer-times-in-al-kharj.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

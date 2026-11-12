@@ -1,0 +1,29 @@
+{
+  "name": "Loona Waktu Solat di Erzurum",
+  "short_name": "Waktu Solat di Erzurum",
+  "description": "Waktu solat hari ini di Erzurum, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Erzurum.",
+  "id": "/loona-islamic-tools/ms/prayer-times-in-erzurum.html",
+  "start_url": "./prayer-times-in-erzurum.html",
+  "scope": "./prayer-times-in-erzurum.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
