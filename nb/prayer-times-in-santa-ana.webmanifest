@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Santa Ana",
+  "short_name": "Bønnetider i Santa Ana",
+  "description": "Dagens bønnetider i Santa Ana, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Santa Ana.",
+  "id": "/loona-islamic-tools/nb/prayer-times-in-santa-ana.html",
+  "start_url": "./prayer-times-in-santa-ana.html",
+  "scope": "./prayer-times-in-santa-ana.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

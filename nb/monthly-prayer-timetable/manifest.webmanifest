@@ -1,0 +1,29 @@
+{
+  "name": "Loona Månedlig bønnetabell",
+  "short_name": "Månedlig bønnetabell",
+  "description": "Lag en utskrivbar månedlig bønnetabell for hvilken som helst by: alle seks tider for hele måneden, med din beregningsmetode og Asr-skole, gratis og privat.",
+  "id": "/loona-islamic-tools/nb/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

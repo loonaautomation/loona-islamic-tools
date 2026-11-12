@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Adelaide",
+  "short_name": "Bønnetider i Adelaide",
+  "description": "Dagens bønnetider i Adelaide, Australia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Adelaide.",
+  "id": "/loona-islamic-tools/nb/prayer-times-in-adelaide.html",
+  "start_url": "./prayer-times-in-adelaide.html",
+  "scope": "./prayer-times-in-adelaide.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
