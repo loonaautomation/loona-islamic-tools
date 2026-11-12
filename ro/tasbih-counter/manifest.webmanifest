@@ -1,0 +1,29 @@
+{
+  "name": "Loona Contor Tasbih",
+  "short_name": "Contor Tasbih",
+  "description": "Un contor digital de tasbih: SubhanAllah, Alhamdulillah și alte presetări, ținte de 33/99/100, urmărirea rundelor, vibrație și totaluri pe viață salvate pe dispozitivul dvs.",
+  "id": "/loona-islamic-tools/ro/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

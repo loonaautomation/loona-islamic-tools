@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ore de rugăciune astăzi",
+  "short_name": "Ore de rugăciune astăzi",
+  "description": "Obține orele de rugăciune Fajr, Dhuhr, Asr, Maghrib și Isha de astăzi pentru orice oraș: metode Karachi, ISNA, MWL și altele, Asr Hanafi sau Shafi, coordonate exacte acceptate.",
+  "id": "/loona-islamic-tools/ro/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

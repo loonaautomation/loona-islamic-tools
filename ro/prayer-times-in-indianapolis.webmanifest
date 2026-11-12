@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ore de rugăciune în Indianapolis",
+  "short_name": "Ore de rugăciune în Indianapolis",
+  "description": "Orele de rugăciune de azi în Indianapolis, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Indianapolis.",
+  "id": "/loona-islamic-tools/ro/prayer-times-in-indianapolis.html",
+  "start_url": "./prayer-times-in-indianapolis.html",
+  "scope": "./prayer-times-in-indianapolis.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

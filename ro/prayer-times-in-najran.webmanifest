@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ore de rugăciune în Najrān",
+  "short_name": "Ore de rugăciune în Najrān",
+  "description": "Orele de rugăciune de azi în Najrān, Arabia Saudită: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Umm al-Qura, calculate live pe dispozitivul dvs. pentru Najrān.",
+  "id": "/loona-islamic-tools/ro/prayer-times-in-najran.html",
+  "start_url": "./prayer-times-in-najran.html",
+  "scope": "./prayer-times-in-najran.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

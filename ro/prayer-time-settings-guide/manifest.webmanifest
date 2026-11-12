@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metodele de calcul al orelor de rugăciune, explicate: Karachi, ISNA, MWL, Hanafi vs Shafi",
+  "short_name": "Metodele de calcul al orelor de rugăciune,",
+  "description": "Un ghid în limbaj simplu despre calculul orelor de rugăciune: unghiurile crepusculare pentru Fajr și Isha, cele cinci metode principale, Asr Hanafi vs Shafi și regulile pentru latitudini mari.",
+  "id": "/loona-islamic-tools/ro/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

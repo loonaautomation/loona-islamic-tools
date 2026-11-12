@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orar Ramadan în Tadjikistan 2027 (1448)",
+  "short_name": "Orar Ramadan în Tadjikistan 2027 (1448)",
+  "description": "Orar Ramadan 2027 pentru Tadjikistan: orele de sfârșit Sehri (Fajr) și Iftar (Maghrib) pentru fiecare zi a Ramadanului 1448, calculate pentru Dushanbe. Estimat 8 februarie până la 8 martie 2027, în funcție de observarea lunii.",
+  "id": "/loona-islamic-tools/ro/ramadan-timetable-in-tajikistan.html",
+  "start_url": "./ramadan-timetable-in-tajikistan.html",
+  "scope": "./ramadan-timetable-in-tajikistan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

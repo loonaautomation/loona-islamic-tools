@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ore de rugăciune pe țări",
+  "short_name": "Ore de rugăciune pe țări",
+  "description": "Ore de rugăciune pentru 867 orașe din întreaga lume, grupate pe țări: Fajr, Răsărit, Dhuhr, Asr, Maghrib și Isha pentru azi, orare pentru întreaga lună, direcția Qibla și orare Ramadan 2027 pe țări.",
+  "id": "/loona-islamic-tools/ro/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

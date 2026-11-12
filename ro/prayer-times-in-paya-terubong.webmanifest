@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ore de rugăciune în Paya Terubong",
+  "short_name": "Ore de rugăciune în Paya Terubong",
+  "description": "Orele de rugăciune de azi în Paya Terubong, Malaezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Paya Terubong.",
+  "id": "/loona-islamic-tools/ro/prayer-times-in-paya-terubong.html",
+  "start_url": "./prayer-times-in-paya-terubong.html",
+  "scope": "./prayer-times-in-paya-terubong.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

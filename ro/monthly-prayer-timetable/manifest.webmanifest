@@ -1,0 +1,29 @@
+{
+  "name": "Loona Orar lunar al rugăciunilor",
+  "short_name": "Orar lunar al rugăciunilor",
+  "description": "Generează un orar lunar tipăribil al rugăciunilor pentru orice oraș: toate cele șase ore pentru întreaga lună, cu metoda ta de calcul și școala Asr, gratuit și privat.",
+  "id": "/loona-islamic-tools/ro/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
