@@ -1,0 +1,29 @@
+{
+  "name": "Loona ทิศกิบลัต",
+  "short_name": "ทิศกิบลัต",
+  "description": "ค้นหาทิศกิบลัตเป็นองศาจากทุกเมืองหรือตำแหน่งที่แน่นอนของคุณ พร้อมหน้าปัดเข็มทิศแบบสดและระยะทางไปมักกะห์ ฟรี แม่นยำ และเป็นส่วนตัว",
+  "id": "/loona-islamic-tools/th/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona เวลาละหมาดใน Buraydah",
+  "short_name": "เวลาละหมาดใน Buraydah",
+  "description": "เวลาละหมาดวันนี้ใน Buraydah, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Umm al-Qura คำนวณสดบนอุปกรณ์ของคุณสำหรับ Buraydah",
+  "id": "/loona-islamic-tools/th/prayer-times-in-buraydah.html",
+  "start_url": "./prayer-times-in-buraydah.html",
+  "scope": "./prayer-times-in-buraydah.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

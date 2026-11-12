@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตารางเวลารอมฎอนใน Latakia 2027 (1448)",
+  "short_name": "ตารางเวลารอมฎอนใน Latakia 2027 (1448)",
+  "description": "ตารางเวลารอมฎอน 2027 สำหรับ Latakia, ซีเรีย: เวลาสิ้นสุดเซฮรี (ฟัจญ์ร) และเวลาอิฟตาร (มัฆริบ) สำหรับทุกวันของรอมฎอน 1448 คาดการณ์ 8 กุมภาพันธ์ ถึง 8 มีนาคม 2027 ทั้งนี้ขึ้นอยู่กับการเห็นดวงจันทร์",
+  "id": "/loona-islamic-tools/th/ramadan-timetable-in-latakia.html",
+  "start_url": "./ramadan-timetable-in-latakia.html",
+  "scope": "./ramadan-timetable-in-latakia.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

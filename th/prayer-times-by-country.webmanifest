@@ -1,0 +1,29 @@
+{
+  "name": "Loona เวลาละหมาดตามประเทศ",
+  "short_name": "เวลาละหมาดตามประเทศ",
+  "description": "เวลาละหมาดสำหรับ 867 เมืองทั่วโลก จัดกลุ่มตามประเทศ: ฟัจร์ พระอาทิตย์ขึ้น ซุฮร์ อัศร์ มัฆริบ และอีชาสำหรับวันนี้ ตารางเวลาเต็มเดือน ทิศทางกิบลัต และตารางรอมฎอน 2027 ตามประเทศ",
+  "id": "/loona-islamic-tools/th/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

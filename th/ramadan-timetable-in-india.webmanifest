@@ -1,0 +1,29 @@
+{
+  "name": "Loona ตารางเวลารอมฎอนใน India 2027 (1448)",
+  "short_name": "ตารางเวลารอมฎอนใน India 2027 (1448)",
+  "description": "ตารางเวลารอมฎอน 2027 สำหรับ India: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for New Delhi. Expected 8 February to 8 March 2027, subject to moon sighting.",
+  "id": "/loona-islamic-tools/th/ramadan-timetable-in-india.html",
+  "start_url": "./ramadan-timetable-in-india.html",
+  "scope": "./ramadan-timetable-in-india.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona วันที่อิสลามวันนี้",
+  "short_name": "วันที่อิสลามวันนี้",
+  "description": "วันที่อิสลามของวันนี้คือวันที่เท่าใด? ดูวันที่ฮิจเราะห์ของวันนี้ — วัน เดือน และปี (อุมมุลกุรอ) — พร้อมวันที่เกรกอเรียน อัปเดตสดบนอุปกรณ์ของคุณ ฟรี",
+  "id": "/loona-islamic-tools/th/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona เวลาละหมาดใน Sanandaj",
+  "short_name": "เวลาละหมาดใน Sanandaj",
+  "description": "เวลาละหมาดวันนี้ใน Sanandaj, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sanandaj",
+  "id": "/loona-islamic-tools/th/prayer-times-in-sanandaj.html",
+  "start_url": "./prayer-times-in-sanandaj.html",
+  "scope": "./prayer-times-in-sanandaj.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona เวลาละหมาดใน Gatineau",
+  "short_name": "เวลาละหมาดใน Gatineau",
+  "description": "เวลาละหมาดวันนี้ใน Gatineau, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Gatineau",
+  "id": "/loona-islamic-tools/th/prayer-times-in-gatineau.html",
+  "start_url": "./prayer-times-in-gatineau.html",
+  "scope": "./prayer-times-in-gatineau.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

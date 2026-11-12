@@ -1,0 +1,29 @@
+{
+  "name": "Loona เกี่ยวกับ Loona Islamic Tools",
+  "short_name": "เกี่ยวกับ Loona Islamic Tools",
+  "description": "เกี่ยวกับ Loona Islamic Tools: ชุดเครื่องมือฟรีเกี่ยวกับเวลาละหมาด ปฏิทินฮิจเราะห์ กิบลัต ตัสเบี๊ยะฮ์ และดุอาอ์ สร้างโดย Loona Automation เวลาต่างๆ คำนวณกันอย่างไร",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/th/about.html"
+}

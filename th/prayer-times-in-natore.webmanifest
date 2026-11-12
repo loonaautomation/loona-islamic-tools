@@ -1,0 +1,29 @@
+{
+  "name": "Loona เวลาละหมาดใน Natore",
+  "short_name": "เวลาละหมาดใน Natore",
+  "description": "เวลาละหมาดวันนี้ใน Natore, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Natore",
+  "id": "/loona-islamic-tools/th/prayer-times-in-natore.html",
+  "start_url": "./prayer-times-in-natore.html",
+  "scope": "./prayer-times-in-natore.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
