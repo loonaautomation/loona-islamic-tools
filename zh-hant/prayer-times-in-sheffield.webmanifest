@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sheffield的禮拜時間",
+  "short_name": "Sheffield的禮拜時間",
+  "description": "Sheffield（英國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Sheffield實時計算。",
+  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-sheffield.html",
+  "start_url": "./prayer-times-in-sheffield.html",
+  "scope": "./prayer-times-in-sheffield.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

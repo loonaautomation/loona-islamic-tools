@@ -1,0 +1,29 @@
+{
+  "name": "Loona 杜阿文庫",
+  "short_name": "杜阿文庫",
+  "description": "一個收錄每個時刻真實杜阿的文庫——清晨、用餐、旅行、居家、焦慮、求饒恕——每篇都附有阿拉伯原文、音譯、翻譯和出處。",
+  "id": "/loona-islamic-tools/zh-hant/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

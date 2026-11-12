@@ -1,0 +1,29 @@
+{
+  "name": "Loona 禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi",
+  "short_name": "禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi",
+  "description": "一份通俗易懂的禮拜時間計算指南：Fajr和Isha的晨昏蒙影角度、五大計算方法、Hanafi與Shafi的Asr之別，以及高緯度規則。",
+  "id": "/loona-islamic-tools/zh-hant/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

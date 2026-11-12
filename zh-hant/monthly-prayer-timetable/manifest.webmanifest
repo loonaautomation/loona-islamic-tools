@@ -1,0 +1,29 @@
+{
+  "name": "Loona 每月禮拜時間表",
+  "short_name": "每月禮拜時間表",
+  "description": "為任何城市生成可列印的每月禮拜時間表：整月全部六個時間，配有您的計算方法和Asr學派，免費且私密。",
+  "id": "/loona-islamic-tools/zh-hant/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

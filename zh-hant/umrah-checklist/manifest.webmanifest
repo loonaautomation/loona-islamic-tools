@@ -1,0 +1,29 @@
+{
+  "name": "Loona 副朝清單",
+  "short_name": "副朝清單",
+  "description": "一份互動式副朝清單：證件、預訂、行李打包、健康與功修準備，帶有進度條、列印選項，進度儲存在您的裝置上。",
+  "id": "/loona-islamic-tools/zh-hant/umrah-checklist/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

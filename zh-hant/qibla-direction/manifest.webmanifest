@@ -1,0 +1,29 @@
+{
+  "name": "Loona 朝向方向",
+  "short_name": "朝向方向",
+  "description": "從任何城市或您的確切位置查詢以度數表示的朝向方向，配有實時羅盤錶盤以及到Makkah的距離。免費、準確且私密。",
+  "id": "/loona-islamic-tools/zh-hant/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

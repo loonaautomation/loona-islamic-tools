@@ -1,0 +1,29 @@
+{
+  "name": "Loona 伊斯蘭工具：禮拜時間、伊斯蘭曆日期、朝向、念珠與杜阿",
+  "short_name": "伊斯蘭工具：禮拜時間、伊斯蘭曆日期、朝向、念珠與杜阿",
+  "description": "伊斯蘭工具：為任何城市提供準確的禮拜時間、今天的伊斯蘭曆日期、朝向方向、齋月時間表、念珠計數器、Allah的99個尊名和杜阿。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/zh-hant/"
+}

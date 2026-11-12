@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi | Loona</title>
+<meta name="description" content="一份通俗易懂的禮拜時間計算指南：Fajr和Isha的晨昏蒙影角度、五大計算方法、Hanafi與Shafi的Asr之別，以及高緯度規則。">
+<link rel="canonical" href="https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/"><link rel="alternate" hreflang="en" href="https://loonaautomation.github.io/loona-islamic-tools/prayer-time-settings-guide/"><link rel="alternate" hreflang="es" href="https://loonaautomation.github.io/loona-islamic-tools/es/prayer-time-settings-guide/"><link rel="alternate" hreflang="de" href="https://loonaautomation.github.io/loona-islamic-tools/de/prayer-time-settings-guide/"><link rel="alternate" hreflang="fr" href="https://loonaautomation.github.io/loona-islamic-tools/fr/prayer-time-settings-guide/"><link rel="alternate" hreflang="pt" href="https://loonaautomation.github.io/loona-islamic-tools/pt/prayer-time-settings-guide/"><link rel="alternate" hreflang="it" href="https://loonaautomation.github.io/loona-islamic-tools/it/prayer-time-settings-guide/"><link rel="alternate" hreflang="nl" href="https://loonaautomation.github.io/loona-islamic-tools/nl/prayer-time-settings-guide/"><link rel="alternate" hreflang="ar" href="https://loonaautomation.github.io/loona-islamic-tools/ar/prayer-time-settings-guide/"><link rel="alternate" hreflang="ur" href="https://loonaautomation.github.io/loona-islamic-tools/ur/prayer-time-settings-guide/"><link rel="alternate" hreflang="tr" href="https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-time-settings-guide/"><link rel="alternate" hreflang="ru" href="https://loonaautomation.github.io/loona-islamic-tools/ru/prayer-time-settings-guide/"><link rel="alternate" hreflang="vi" href="https://loonaautomation.github.io/loona-islamic-tools/vi/prayer-time-settings-guide/"><link rel="alternate" hreflang="x-default" href="https://loonaautomation.github.io/loona-islamic-tools/prayer-time-settings-guide/">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Loona Islamic Tools">
+<meta property="og:title" content="禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi | Loona">
+<meta property="og:description" content="一份通俗易懂的禮拜時間計算指南：Fajr和Isha的晨昏蒙影角度、五大計算方法、Hanafi與Shafi的Asr之別，以及高緯度規則。">
+<meta property="og:url" content="https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/"><meta property="og:locale" content="zh_TW">
+<meta property="og:image" content="https://loonaautomation.github.io/loona-islamic-tools/og-image.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi | Loona">
+<meta name="twitter:description" content="一份通俗易懂的禮拜時間計算指南：Fajr和Isha的晨昏蒙影角度、五大計算方法、Hanafi與Shafi的Asr之別，以及高緯度規則。">
+<meta name="twitter:image" content="https://loonaautomation.github.io/loona-islamic-tools/og-image.jpg">
+<link rel="icon" type="image/png" sizes="32x32" href="../../favicon-32.png">
+<link rel="apple-touch-icon" href="../../apple-touch-icon.png">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1566440962454692" crossorigin="anonymous"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5L43M13ZYT"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-5L43M13ZYT');</script>
+<script type="text/javascript">(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window,document,"clarity","script","z599jkwoy9");</script>
+<style>
+:root{--teal:#062e2a;--teal2:#0b4f47;--gold:#c9a227;--gold2:#e8c95a;--bg:#f6f3ea;--card:#ffffff;--ink:#1c2422;--mut:#5a6a66}
+*{box-sizing:border-box;margin:0;padding:0}
+body{font-family:system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+header{background:linear-gradient(135deg,var(--teal),var(--teal2));color:#fff;padding:32px 18px 26px;text-align:center}
+header .brand{color:var(--gold2);font-weight:700;letter-spacing:2px;font-size:.8rem;text-transform:uppercase}
+header h1{font-size:1.65rem;margin:8px auto;max-width:780px}
+header p{color:#d9e8e4;max-width:700px;margin:0 auto;font-size:.97rem}
+.wrap{max-width:1020px;margin:0 auto;padding:22px 16px 40px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:14px;margin-top:8px}
+.card{background:var(--card);border:1px solid #e4ddc8;border-top:4px solid var(--gold);border-radius:12px;padding:16px;display:block;text-decoration:none;color:var(--ink);box-shadow:0 1px 3px rgba(6,46,42,.06)}
+a.card:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(6,46,42,.12)}
+.card h2,.card h3{font-size:1.02rem;color:var(--teal);margin-bottom:6px}
+.card p{font-size:.88rem;color:var(--mut)}
+.badge{display:inline-block;margin-top:10px;font-size:.72rem;font-weight:700;padding:3px 9px;border-radius:20px;background:#e7f2ee;color:var(--teal2)}
+.ext .badge{background:#f3ead0;color:#7a6410}
+.sec{margin-top:30px}
+.sec h2{color:var(--teal);font-size:1.25rem;margin-bottom:8px}
+.sec h3{color:var(--teal);font-size:1.05rem;margin:14px 0 6px}
+.sec p{margin-bottom:10px}
+.inshort{background:#eef6f2;border-left:4px solid var(--gold);border-radius:8px;padding:13px 16px;margin:18px 0 4px;font-size:.97rem}
+.note{background:#fdf6dd;border:1px solid #eadfae;border-radius:10px;padding:12px 14px;font-size:.9rem;margin-top:18px}
+.tool{background:var(--card);border:1px solid #e4ddc8;border-radius:14px;padding:18px;box-shadow:0 1px 3px rgba(6,46,42,.06);margin-top:16px}
+.tool label{font-weight:600;font-size:.88rem;color:var(--teal);display:block;margin-bottom:5px}
+.tool select,.tool input[type=text],.tool input[type=number],.tool input[type=date],.tool input[type=month],.tool input[type=search]{width:100%;padding:10px 12px;border:1px solid #cfd8d3;border-radius:9px;font-size:.98rem;background:#fff;color:var(--ink)}
+.row{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.btn{display:inline-block;background:var(--teal);color:#fff;border:none;padding:11px 20px;border-radius:9px;font-size:.95rem;font-weight:700;cursor:pointer;text-decoration:none}
+.btn:hover{background:var(--teal2)}
+.btn.gold{background:var(--gold);color:#231a00}
+.btn.ghost{background:#e7f2ee;color:var(--teal)}
+.btn.small{padding:8px 14px;font-size:.86rem}
+.times{display:grid;grid-template-columns:repeat(auto-fit,minmax(140px,1fr));gap:12px;margin-top:16px}
+.tcell{background:#f2f7f4;border:1px solid #dce8e1;border-radius:12px;padding:14px;text-align:center}
+.tcell .tn{font-size:.82rem;font-weight:700;color:var(--teal2);text-transform:uppercase;letter-spacing:1px}
+.tcell .tv{font-size:1.5rem;font-weight:800;color:var(--teal);margin-top:4px}
+.tcell .tv12{font-size:.85rem;color:var(--mut)}
+.tcell.next{border-color:var(--gold);background:#fdf6dd;box-shadow:0 0 0 2px var(--gold) inset}
+.methodline{margin-top:14px;font-size:.88rem;color:var(--mut);background:#f6f3ea;border-radius:8px;padding:9px 12px}
+table.tbl{width:100%;border-collapse:collapse;margin-top:14px;font-size:.92rem;background:#fff}
+table.tbl th{background:var(--teal);color:#fff;text-align:left;padding:9px 10px}
+table.tbl td{border-bottom:1px solid #e7e2d2;padding:8px 10px}
+table.tbl tr:nth-child(even) td{background:#faf8f1}
+table.tbl tr.today td{background:#fdf6dd;font-weight:700}
+.strip{display:flex;flex-wrap:wrap;gap:8px;margin:20px 0 4px}
+.strip a{background:#e7f2ee;color:var(--teal);text-decoration:none;font-size:.84rem;font-weight:600;padding:7px 13px;border-radius:20px;border:1px solid #cfded6}
+.strip a:hover{background:#d8ebe1}
+.ar{font-family:"Traditional Arabic","Scheherazade New","Amiri",serif;direction:rtl;text-align:right;line-height:2}
+.faq{margin-top:8px}
+.faq details{background:#fff;border:1px solid #e4ddc8;border-radius:10px;padding:12px 15px;margin-bottom:9px}
+.faq summary{font-weight:700;color:var(--teal);cursor:pointer}
+.faq p{margin-top:7px;font-size:.94rem}
+footer{background:var(--teal);color:#cfe0db;text-align:center;padding:22px 16px;font-size:.85rem;margin-top:36px}
+footer a{color:var(--gold2);text-decoration:none}
+.big{max-width:640px;margin:18px auto 0;background:var(--teal);color:#fff;border-radius:16px;padding:26px 20px;text-align:center}
+.big .bh{font-size:2rem;font-weight:800;color:var(--gold2);line-height:1.3}
+.big .bs{color:#d9e8e4;margin-top:6px}
+.count{font-size:3.4rem;font-weight:800;color:var(--teal);text-align:center;line-height:1.1}
+.taparea{display:block;width:100%;background:#eef6f2;border:2px dashed var(--gold);border-radius:16px;padding:26px 14px;text-align:center;cursor:pointer;user-select:none;-webkit-user-select:none}
+.cal{display:grid;grid-template-columns:repeat(7,1fr);gap:6px;margin-top:12px}
+.cal .dow{font-weight:700;text-align:center;color:var(--teal);font-size:.8rem;padding:4px 0}
+.cal .cell{background:#fff;border:1px solid #e4ddc8;border-radius:9px;min-height:64px;padding:6px;text-align:center}
+.cal .cell .hd{font-size:1.15rem;font-weight:800;color:var(--teal)}
+.cal .cell .gd{font-size:.72rem;color:var(--mut)}
+.cal .cell.dim{opacity:.35}
+.cal .cell.today{border-color:var(--gold);background:#fdf6dd}
+.chk{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid #e4ddc8;border-radius:10px;padding:11px 13px;margin-bottom:8px;font-size:.95rem}
+.chk input{width:19px;height:19px;margin-top:2px;accent-color:var(--teal2)}
+.progress{height:14px;background:#e7e2d2;border-radius:8px;overflow:hidden;margin:10px 0 4px}
+.progress>div{height:100%;background:linear-gradient(90deg,var(--gold),var(--gold2));width:0%}
+.namecard .ar{text-align:center;font-size:1.7rem;color:var(--teal)}
+.namecard{text-align:center}
+.dua .ar{font-size:1.35rem;color:#123f38}
+.dua .src{font-size:.8rem;color:var(--mut);font-style:italic}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin:12px 0}
+.chip{border:1px solid var(--gold);background:#fff;color:var(--teal);border-radius:20px;padding:6px 14px;font-size:.85rem;font-weight:600;cursor:pointer}
+.chip.on{background:var(--gold);color:#231a00}
+@media print{header,footer,.strip,.noprint,.faq,.inshort{display:none!important}body{background:#fff}.tool,.card{box-shadow:none}}
+</style>
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebApplication","name":"禮拜時間設定指南","url":"https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/","applicationCategory":"LifestyleApplication","operatingSystem":"Any (web browser)","offers":{"@type":"Offer","price":"0","priceCurrency":"USD"},"description":"禮拜計算方法與Asr學派指南。","publisher":{"@type":"Organization","name":"Loona Automation"}}</script><script type="application/ld+json">{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"我應該選擇哪種計算方法？","acceptedAnswer":{"@type":"Answer","text":"選擇您國家或當地清真寺使用的方法。在巴基斯坦、印度和孟加拉國，這幾乎總是伊斯蘭科學大學，Karachi。在北美：ISNA。在歐洲大部分地區和世界許多地方：穆斯林世界聯盟。在埃及：埃及測量總署。在沙烏地阿拉伯：Umm al-Qura。"}},{"@type":"Question","name":"Hanafi和Shafi的Asr有什麼區別？","acceptedAnswer":{"@type":"Answer","text":"兩者都以影子標記Asr。在Shafi學派（係數1）中，當物體的影子等於其高度再加上正午影子時，Asr開始。在Hanafi學派（係數2）中，當影子是高度的兩倍時開始。因此Hanafi的Asr更晚——通常晚45到75分鐘。"}},{"@type":"Question","name":"為什麼我清真寺的時間表相差幾分鐘？","acceptedAnswer":{"@type":"Answer","text":"清真寺通常會加上預防性（ihtiyat）分鐘、將時間取整，或者使用其確切社群的座標而非市中心。一到三分鐘的差異是正常的；請先檢查計算方法和Asr設定是否匹配。"}},{"@type":"Question","name":"在非常北方的城市，夏天會發生什麼？","acceptedAnswer":{"@type":"Answer","text":"在高緯度，太陽可能永遠不會沉到地平線以下18°。本站隨後應用基於角度的規則：Fajr和Isha被設定為夜晚的一個固定比例（角度 ÷ 60），這是大多數教法委員會對此類地方採用的標準方法。"}},{"@type":"Question","name":"更改計算方法會改變Maghrib嗎？","acceptedAnswer":{"@type":"Answer","text":"不會。在全部五種方法中，Maghrib都是日落。各方法的區別在於Fajr和Isha的晨昏蒙影角度（而Umm al-Qura將Isha設定為Maghrib之後90分鐘，而不是一個角度）。"}}]}</script>
+<script type="application/ld+json">{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Loona Automation",
+      "item": "https://loonaautomation.github.io/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Loona Islamic Tools",
+      "item": "https://loonaautomation.github.io/loona-islamic-tools/zh-hant/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "禮拜時間計算方法詳解：Karachi、ISNA、MWL、Hanafi與Shafi",
+      "item": "https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/"
+    }
+  ]
+}</script>
+<link rel="manifest" href="manifest.webmanifest">
+<meta name="theme-color" content="#062e2a">
+</head>
+<body>
+<header><div class="brand">Loona Automation</div>
+<h1>禮拜時間設定指南 — 計算方法、Asr學派與高緯度</h1>
+<p>為什麼時間表不同，以及如何設定任何禮拜計算器，使其與您當地的清真寺相匹配。</p></header>
+<div class="wrap"><div class="inshort"><strong>簡而言之：</strong> 計算方法只是Fajr和Isha的一對商定的晨昏蒙影角度，外加一條Asr規則。選擇您地區使用的方法——巴基斯坦用Karachi，北美用ISNA，歐洲大部分地區用MWL——將Asr設定為您的學派（Hanafi係數2，Shafi係數1），時間將在幾分鐘內與您當地的時間表吻合。</div><div class="strip noprint"><a href="../prayer-times/">禮拜時間</a><a href="../islamic-date-today/">今日伊斯蘭曆日期</a><a href="../sehri-iftar-today/">今日Sehri與Iftar</a><a href="../qibla-direction/">朝向方向</a><a href="../tasbih-counter/">念珠計數器</a><a href="../names-of-allah/">Allah的99個尊名</a></div><div class="sec"><h2>禮拜時間如何計算</h2><p>每個禮拜時間都由太陽決定。Dhuhr是太陽正午；日出和Maghrib是太陽上邊緣越過地平線的時刻（俯角為0.833°，這考慮了太陽的大小和大氣折射）。Fajr和Isha發生在晨昏蒙影期間，此時太陽位於地平線以下若干度 <em>下方</em> 地平線——而這正是各方法不同之處：每個權威機構都測量並商定了自己的晨昏蒙影角度。</p><h3>本站的五種方法</h3><table class="tbl"><tr><th>方法</th><th>Fajr角度</th><th>Isha</th><th>常用地區</th></tr><tr><td>卡拉奇伊斯蘭科學大學</td><td>18°</td><td>18°</td><td>巴基斯坦、印度、孟加拉國、阿富汗</td></tr><tr><td>北美伊斯蘭協會 (ISNA)</td><td>15°</td><td>15°</td><td>美國和加拿大</td></tr><tr><td>穆斯林世界聯盟 (MWL)</td><td>18°</td><td>17°</td><td>歐洲、遠東、美洲部分地區</td></tr><tr><td>埃及測量總署</td><td>19.5°</td><td>17.5°</td><td>埃及和非洲大部分地區</td></tr><tr><td>Umm al-Qura大學，Makkah</td><td>18.5°</td><td>Maghrib + 90分鐘</td><td>沙烏地阿拉伯（兩聖地時間表）</td></tr></table><h3>Asr：Hanafi與Shafi之比較</h3><p>Asr不是一個角度，而是一個影子比例。在太陽正午時測量一個垂直物體：它已經投下了一段短影子。在 <strong>Shafi</strong> 學派（也包括Maliki和Hanbali），Asr在影子長度增長到等於物體高度時開始 <em>加</em> 那段正午影子 — 計算係數1。在 <strong>Hanafi</strong> 學派，Asr在影子達到 <em>兩次</em> 高度加上正午影子——係數2。因為太陽必須走得更遠，Hanafi的Asr更晚。巴基斯坦遵循Hanafi學派，因此它是本站的預設設定；切換開關在每個禮拜頁面上。</p><h3>高緯度地區：基於角度的規則</h3><p>在大約48°緯度以上，有些夏夜真正的晨昏蒙影永不結束。本站不會失敗，而是用推薦用於此類地區的基於角度的方法來封頂Fajr和Isha：夜晚按晨昏蒙影角度的比例劃分（角度 ÷ 夜晚的60）。您在別處可能看到的替代方案是夜晚中點和七分之一；基於角度的方法最平滑地跟隨季節。</p><h3>與您的清真寺最接近的匹配</h3><p>1. 設定您的確切城市——市中心座標與郊區可能相差一兩分鐘。2. 匹配方法。3. 匹配Asr學派。4. 請記住，許多清真寺會為集體禮拜時間加上一到五分鐘的預防性分鐘； <em>開始</em> 這樣時間應該就會非常接近了。</p></div><div class="sec"><h2>常見問題</h2><div class="faq"><details><summary>我應該選擇哪種計算方法？</summary><p>選擇您國家或當地清真寺使用的方法。在巴基斯坦、印度和孟加拉國，這幾乎總是伊斯蘭科學大學，Karachi。在北美：ISNA。在歐洲大部分地區和世界許多地方：穆斯林世界聯盟。在埃及：埃及測量總署。在沙烏地阿拉伯：Umm al-Qura。</p></details><details><summary>Hanafi和Shafi的Asr有什麼區別？</summary><p>兩者都以影子標記Asr。在Shafi學派（係數1）中，當物體的影子等於其高度再加上正午影子時，Asr開始。在Hanafi學派（係數2）中，當影子是高度的兩倍時開始。因此Hanafi的Asr更晚——通常晚45到75分鐘。</p></details><details><summary>為什麼我清真寺的時間表相差幾分鐘？</summary><p>清真寺通常會加上預防性（ihtiyat）分鐘、將時間取整，或者使用其確切社群的座標而非市中心。一到三分鐘的差異是正常的；請先檢查計算方法和Asr設定是否匹配。</p></details><details><summary>在非常北方的城市，夏天會發生什麼？</summary><p>在高緯度，太陽可能永遠不會沉到地平線以下18°。本站隨後應用基於角度的規則：Fajr和Isha被設定為夜晚的一個固定比例（角度 ÷ 60），這是大多數教法委員會對此類地方採用的標準方法。</p></details><details><summary>更改計算方法會改變Maghrib嗎？</summary><p>不會。在全部五種方法中，Maghrib都是日落。各方法的區別在於Fajr和Isha的晨昏蒙影角度（而Umm al-Qura將Isha設定為Maghrib之後90分鐘，而不是一個角度）。</p></details></div></div><div class="sec"><h2>工作方式</h2><p>本指南解釋了隱藏在每個禮拜時間計算中的兩個選擇，這樣您就可以放心地設定任何Loona禮拜工具。第一個選擇是計算方法 &mdash; 一對商定的晨昏蒙影角度，確定Fajr和Isha。第二個是Asr學派 &mdash; 影子係數2（Hanafi）或1（Shafi），確定Asr。本頁的表格列出了所有Loona工具內建的五種方法，及其角度和使用它們的地區；Dhuhr（太陽正午）和Maghrib（日落）在每種方法下都相同。</p><h3>示例演算</h3><p>以Faisalabad為例，日期2026年11月7日（星期六）。使用Karachi方法（18&deg;/18&deg;），Fajr是5:05 AM，Isha是6:37 PM。切換到ISNA（15&deg;/15&deg;），Fajr移到5:19 AM，Isha移到6:23 PM &mdash; 每個方向14分鐘。保持Karachi不變，但將Asr從Hanafi切換到Shafi，只有一個時間改變：Asr從3:37 PM移到2:52 PM，移動了45分鐘，而其他五個時間完全不動。</p><h3>常見問題解答</h3><div class="faq"><details><summary>用通俗的話來說，什麼是晨昏蒙影角度？</summary><p>它是指太陽中心必須沉到地平線以下多遠，天空才算暗到足以標記Fajr或Isha。角度越大意味著太陽沉得越深，因此Fajr在早晨來得更早，Isha在夜裡來得更晚 &mdash; 這就是為什麼18&deg;方法比15&deg;方法給出更長的&lsquo;夜晚&rsquo;。</p></details><details><summary>Karachi和MWL的Fajr都顯示18&deg; &mdash; 它們的時間相同嗎？</summary><p>它們的Fajr時間完全吻合，但Isha不同，因為MWL的Isha使用17&deg;，而Karachi使用18&deg;。在Faisalabad，2026年11月7日，MWL的Isha是6:32 PM，而Karachi的Isha是6:37 PM &mdash; 同一個黎明，夜裡相差五分鐘。</p></details><details><summary>為什麼Umm al-Qura那一行寫的是&lsquo;Maghrib + 90分鐘&rsquo;，而不是Isha角度？</summary><p>因為Umm al-Qura日曆根本不用晨昏蒙影來定義Isha。它將Isha設定為全年Maghrib之後固定的90分鐘，因此在Makkah設定下，Maghrib和Isha之間的間隔不會隨季節增長或縮短，這與基於角度的方法不同。</p></details><details><summary>我正在另一個國家訪問&mdash;應該更改我的計算方法嗎？</summary><p>是的：使用您所在地方的方法，或您當地清真寺在那裡遵循的方法。角度是地區慣例，而不是單一的全球標準，因此明智的設定會隨您旅行 &mdash; 北美用ISNA，歐洲大部分地區用MWL，巴基斯坦用Karachi。</p></details><details><summary>我的新手機應用給出的時間與本網站略有不同&mdash;如何使它們一致？</summary><p>比較兩組設定，而不是比較時間。開啟該應用的設定，記下它的方法和Asr學派，然後在任何Loona禮拜頁面上選擇相同的一對設定；在幾乎所有情況下，時間都會在一分鐘以內達成一致，剩下的差距通常是一方新增的預防性調整。</p></details></div></div><div class="sec"><h2>相關伊斯蘭工具</h2><div class="grid"><a class="card" href="../prayer-times/"><h3>禮拜時間</h3><p>為全球任何城市提供準確的每日禮拜時間，配有五種計算方法，並可選擇Hanafi或Shafi的Asr。</p><span class="badge">開啟工具</span></a><a class="card" href="../monthly-prayer-timetable/"><h3>每月禮拜時間表</h3><p>一份可列印的整月禮拜時間表，適合家庭或清真寺使用——每一天的六個時間一應俱全。</p><span class="badge">開啟工具</span></a><a class="card" href="../sehri-iftar-today/"><h3>今日Sehri與Iftar</h3><p>今天的Sehri結束（Fajr）和Iftar（Maghrib）時間，並實時倒計時到下一個。</p><span class="badge">開啟工具</span></a><a class="card" href="../qibla-direction/"><h3>朝向方向</h3><p>為您所在的城市或位置提供以度數表示的精確朝向方位，配有羅盤錶盤以及到Makkah的距離。</p><span class="badge">開啟工具</span></a></div></div></div>
+<div id="loona-embed" style="max-width:780px;margin:30px auto;padding:24px;background:#fdfaf1;border:1px solid #d9c98a;border-radius:14px;text-align:left">
+<h2 style="margin:0 0 10px;color:#062e2a;font-size:1.35rem;line-height:1.3">將此工具嵌入您的網站 — 免費</h2>
+<p style="margin:0 0 12px;line-height:1.6">將此工具新增到您自己的網站或部落格——完全免費，無需註冊，並始終顯示最新版本。複製下面的程式碼，貼上到您希望工具出現的頁面位置即可。在嵌入程式碼下方保留小小的&ldquo;Powered by Loona Automation&rdquo;署名行，有助於讓此工具繼續免費——但您可以自由地設定樣式或將其刪除；無論哪種方式，工具都能正常工作。</p>
+<textarea id="loonaEmbedCode" readonly rows="4" style="width:100%;box-sizing:border-box;font-family:ui-monospace,Menlo,Consolas,monospace;font-size:.8rem;line-height:1.45;padding:12px;border:1px solid #e4ddc8;border-radius:10px;background:#fff;color:#1c2422;resize:vertical">&lt;iframe src="https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/" width="100%" height="720" style="border:1px solid #e5e7eb;border-radius:12px;max-width:760px" loading="lazy" title="Prayer Time Calculation Methods Explained by Loona"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:13px;font-family:Arial,sans-serif"&gt;由 &lt;a href="https://loonaautomation.github.io/loona-islamic-tools/zh-hant/prayer-time-settings-guide/" target="_blank" rel="noopener"&gt;Loona Automation&lt;/a&gt; &mdash; 免費 Prayer Time Calculation Methods Explained&lt;/p&gt;</textarea>
+<p style="margin:10px 0 0"><button type="button" id="loonaEmbedBtn" style="background:#062e2a;color:#fff;border:0;border-radius:8px;padding:10px 18px;font-size:.95rem;font-weight:700;cursor:pointer">複製嵌入程式碼</button></p>
+</div>
+<script>
+(function(){var b=document.getElementById('loonaEmbedBtn'),t=document.getElementById('loonaEmbedCode');if(!b||!t)return;b.addEventListener('click',function(){var done=function(){b.textContent='已複製！';setTimeout(function(){b.textContent='複製嵌入程式碼';},2000);};var fallback=function(){t.removeAttribute('readonly');t.select();try{document.execCommand('copy');}catch(e){}t.setAttribute('readonly','');done();};if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(t.value).then(done,fallback);}else{fallback();}});})();
+</script>
+<footer><p><strong>Loona Islamic Tools</strong> — 一套免費工具集，由 <a href="https://loonaautomation.github.io/">Loona Automation</a>。一切都在您的瀏覽器中執行，100%本地計算；您的位置和設定永遠不會離開您的裝置。</p><p style="margin-top:8px"><a href="../about.html">關於</a> &nbsp;·&nbsp; <a href="../privacy.html">隱私政策</a> &nbsp;·&nbsp; <a href="../terms.html">條款</a> &nbsp;·&nbsp; <a href="../contact.html">聯絡我們</a></p><p style="margin-top:8px">問題或更正： <a href="mailto:loonaautomation@gmail.com">loonaautomation@gmail.com</a></p></footer>
+<script>/*loona-pwa*/(function(){if('serviceWorker' in navigator){window.addEventListener('load',function(){navigator.serviceWorker.register('../../sw.js').catch(function(){});});}var D=null;function S(){return window.matchMedia('(display-mode: standalone)').matches||window.navigator.standalone===true;}function B(m){if(S()||document.getElementById('loona-install-btn'))return;var b=document.createElement('button');b.id='loona-install-btn';b.type='button';b.textContent=String.fromCodePoint(0x1F4F2)+' 安裝應用';b.setAttribute('style','position:fixed;right:16px;bottom:16px;z-index:2147483000;background:#062e2a;color:#fff;border:1px solid #c9a227;border-radius:999px;padding:11px 18px;font:600 14px/1.2 system-ui,-apple-system,sans-serif;box-shadow:0 6px 18px rgba(0,0,0,.35);cursor:pointer');b.addEventListener('click',function(){if(m==='p'&&D){D.prompt();D.userChoice.then(function(){D=null;b.remove();});}else{alert('安裝此應用：點按分享按鈕，然後選擇“新增到主螢幕”。');}});document.body.appendChild(b);}window.addEventListener('beforeinstallprompt',function(e){e.preventDefault();D=e;B('p');});window.addEventListener('appinstalled',function(){var b=document.getElementById('loona-install-btn');if(b)b.remove();});if(/iphone|ipad|ipod/i.test(navigator.userAgent)&&!S()){window.addEventListener('load',function(){B('i');});}})();</script>
+</body>
+</html>

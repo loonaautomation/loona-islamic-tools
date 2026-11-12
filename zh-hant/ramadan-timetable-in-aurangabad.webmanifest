@@ -1,0 +1,29 @@
+{
+  "name": "Loona Aurangabad 2027 (1448)齋月時間表",
+  "short_name": "Aurangabad 2027 (1448)齋月時間表",
+  "description": "Aurangabad（印度）的Ramadan 2027時間表：Ramadan 1448每一天的Sehri結束（Fajr）和Iftar（Maghrib）時間。預計2027年2月8日至3月8日，以見月為準。",
+  "id": "/loona-islamic-tools/zh-hant/ramadan-timetable-in-aurangabad.html",
+  "start_url": "./ramadan-timetable-in-aurangabad.html",
+  "scope": "./ramadan-timetable-in-aurangabad.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
