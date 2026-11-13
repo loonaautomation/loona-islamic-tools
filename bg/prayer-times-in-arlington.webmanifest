@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз в Arlington",
+  "short_name": "Часове за намаз в Arlington",
+  "description": "Днешните часове за намаз в Arlington, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Arlington.",
+  "id": "/loona-islamic-tools/bg/prayer-times-in-arlington.html",
+  "start_url": "./prayer-times-in-arlington.html",
+  "scope": "./prayer-times-in-arlington.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
