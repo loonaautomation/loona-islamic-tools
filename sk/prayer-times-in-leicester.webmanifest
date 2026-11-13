@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Leicester",
+  "short_name": "Časy modlitieb v Leicester",
+  "description": "Dnešné časy modlitieb v Leicester, Spojené kráľovstvo: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Leicester.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-leicester.html",
+  "start_url": "./prayer-times-in-leicester.html",
+  "scope": "./prayer-times-in-leicester.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Sungai Petani",
+  "short_name": "Časy modlitieb v Sungai Petani",
+  "description": "Dnešné časy modlitieb v Sungai Petani, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sungai Petani.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-sungai-petani.html",
+  "start_url": "./prayer-times-in-sungai-petani.html",
+  "scope": "./prayer-times-in-sungai-petani.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

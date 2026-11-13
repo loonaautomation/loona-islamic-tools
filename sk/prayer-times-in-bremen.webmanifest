@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Bremen",
+  "short_name": "Časy modlitieb v Bremen",
+  "description": "Dnešné časy modlitieb v Bremen, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Bremen.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-bremen.html",
+  "start_url": "./prayer-times-in-bremen.html",
+  "scope": "./prayer-times-in-bremen.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

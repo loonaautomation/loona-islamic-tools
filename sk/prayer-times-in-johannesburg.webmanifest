@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Johannesburg",
+  "short_name": "Časy modlitieb v Johannesburg",
+  "description": "Dnešné časy modlitieb v Johannesburg, Juhoafrická republika: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Johannesburg.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-johannesburg.html",
+  "start_url": "./prayer-times-in-johannesburg.html",
+  "scope": "./prayer-times-in-johannesburg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

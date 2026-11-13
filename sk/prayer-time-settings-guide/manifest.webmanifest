@@ -1,0 +1,29 @@
+{
+  "name": "Loona Metódy výpočtu časov modlitieb vysvetlené: Karáčí, ISNA, MWL, hanafijský a šáfiovský Asr",
+  "short_name": "Metódy výpočtu časov modlitieb vysvetlené:",
+  "description": "Zrozumiteľný návod na výpočet časov modlitieb: uhly súmraku pre Fadžr a Išá, päť hlavných metód, hanafijský a šáfiovský Asr a pravidlá pre vysoké zemepisné šírky.",
+  "id": "/loona-islamic-tools/sk/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

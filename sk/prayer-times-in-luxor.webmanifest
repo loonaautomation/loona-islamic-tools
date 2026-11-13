@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Luxor",
+  "short_name": "Časy modlitieb v Luxor",
+  "description": "Dnešné časy modlitieb v Luxor, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Luxor.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-luxor.html",
+  "start_url": "./prayer-times-in-luxor.html",
+  "scope": "./prayer-times-in-luxor.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

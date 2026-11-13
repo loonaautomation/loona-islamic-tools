@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rozvrh Ramadánu v Jeddah 2027 (1448)",
+  "short_name": "Rozvrh Ramadánu v Jeddah 2027 (1448)",
+  "description": "Rozvrh Ramadánu 2027 pre Jeddah, Saudská Arábia: časy konca Sehri (Fadžr) a Iftaru (Magrib) na každý deň Ramadánu 1448. Očakávané od 8 februára do 8 marca 2027, v závislosti od pozorovania mesiaca.",
+  "id": "/loona-islamic-tools/sk/ramadan-timetable-in-jeddah.html",
+  "start_url": "./ramadan-timetable-in-jeddah.html",
+  "scope": "./ramadan-timetable-in-jeddah.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

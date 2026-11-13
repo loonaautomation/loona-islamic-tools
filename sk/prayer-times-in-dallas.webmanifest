@@ -1,0 +1,29 @@
+{
+  "name": "Loona Časy modlitieb v Dallas",
+  "short_name": "Časy modlitieb v Dallas",
+  "description": "Dnešné časy modlitieb v Dallas, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Dallas.",
+  "id": "/loona-islamic-tools/sk/prayer-times-in-dallas.html",
+  "start_url": "./prayer-times-in-dallas.html",
+  "scope": "./prayer-times-in-dallas.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
