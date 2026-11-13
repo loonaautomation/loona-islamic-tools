@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз по държава",
+  "short_name": "Часове за намаз по държава",
+  "description": "Часове за намаз за 867 града по целия свят, групирани по страна: Фаджр, Изгрев, Зухр, Аср, Магриб и Иша за днес, графици за цял месец, посока на Киблата и графици за Рамазан 2027 по страни.",
+  "id": "/loona-islamic-tools/bg/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
