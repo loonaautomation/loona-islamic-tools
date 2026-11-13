@@ -1,0 +1,29 @@
+{
+  "name": "Loona Türkmenabat imaidői",
+  "short_name": "Türkmenabat imaidői",
+  "description": "A mai imaidők: Türkmenabat, Türkmenisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Türkmenabat számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-tuerkmenabat.html",
+  "start_url": "./prayer-times-in-tuerkmenabat.html",
+  "scope": "./prayer-times-in-tuerkmenabat.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

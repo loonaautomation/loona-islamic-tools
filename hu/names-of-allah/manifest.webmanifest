@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allah 99 neve",
+  "short_name": "Allah 99 neve",
+  "description": "Allah mind a 99 neve arab szöveggel, átírással és magyar jelentésekkel egyetlen kereshető oldalon. Tanulja meg és jegyezze meg az Asma-ul-Husna neveit ingyen, bármilyen eszközön.",
+  "id": "/loona-islamic-tools/hu/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

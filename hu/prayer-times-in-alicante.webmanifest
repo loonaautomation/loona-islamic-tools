@@ -1,0 +1,29 @@
+{
+  "name": "Loona Alicante imaidői",
+  "short_name": "Alicante imaidői",
+  "description": "A mai imaidők: Alicante, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Alicante számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-alicante.html",
+  "start_url": "./prayer-times-in-alicante.html",
+  "scope": "./prayer-times-in-alicante.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

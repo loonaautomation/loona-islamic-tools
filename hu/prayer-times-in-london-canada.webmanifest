@@ -1,0 +1,29 @@
+{
+  "name": "Loona Imaidők itt: London (Kanada)",
+  "short_name": "Imaidők itt: London (Kanada)",
+  "description": "A mai imaidők: London, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén London számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-london-canada.html",
+  "start_url": "./prayer-times-in-london-canada.html",
+  "scope": "./prayer-times-in-london-canada.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

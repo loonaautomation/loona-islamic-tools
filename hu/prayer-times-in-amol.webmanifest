@@ -1,0 +1,29 @@
+{
+  "name": "Loona Āmol imaidői",
+  "short_name": "Āmol imaidői",
+  "description": "A mai imaidők: Āmol, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Āmol számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-amol.html",
+  "start_url": "./prayer-times-in-amol.html",
+  "scope": "./prayer-times-in-amol.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

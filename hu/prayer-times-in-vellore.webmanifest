@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vellore imaidői",
+  "short_name": "Vellore imaidői",
+  "description": "A mai imaidők: Vellore, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Vellore számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-vellore.html",
+  "start_url": "./prayer-times-in-vellore.html",
+  "scope": "./prayer-times-in-vellore.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

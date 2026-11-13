@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kom Ombo imaidői",
+  "short_name": "Kom Ombo imaidői",
+  "description": "A mai imaidők: Kom Ombo, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Kom Ombo számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-kom-ombo.html",
+  "start_url": "./prayer-times-in-kom-ombo.html",
+  "scope": "./prayer-times-in-kom-ombo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

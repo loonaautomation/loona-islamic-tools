@@ -1,0 +1,29 @@
+{
+  "name": "Loona Duisburg imaidői",
+  "short_name": "Duisburg imaidői",
+  "description": "A mai imaidők: Duisburg, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Duisburg számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-duisburg.html",
+  "start_url": "./prayer-times-in-duisburg.html",
+  "scope": "./prayer-times-in-duisburg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

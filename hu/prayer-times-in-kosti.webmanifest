@@ -1,0 +1,29 @@
+{
+  "name": "Loona Kosti imaidői",
+  "short_name": "Kosti imaidői",
+  "description": "A mai imaidők: Kosti, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kosti számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-kosti.html",
+  "start_url": "./prayer-times-in-kosti.html",
+  "scope": "./prayer-times-in-kosti.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

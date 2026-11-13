@@ -1,0 +1,29 @@
+{
+  "name": "Loona New South Memphis imaidői",
+  "short_name": "New South Memphis imaidői",
+  "description": "A mai imaidők: New South Memphis, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén New South Memphis számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-new-south-memphis.html",
+  "start_url": "./prayer-times-in-new-south-memphis.html",
+  "scope": "./prayer-times-in-new-south-memphis.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

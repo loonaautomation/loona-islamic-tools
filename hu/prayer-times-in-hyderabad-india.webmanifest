@@ -1,0 +1,29 @@
+{
+  "name": "Loona Imaidők itt: Hyderabad (India)",
+  "short_name": "Imaidők itt: Hyderabad (India)",
+  "description": "A mai imaidők: Hyderabad, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Hyderabad számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-hyderabad-india.html",
+  "start_url": "./prayer-times-in-hyderabad-india.html",
+  "scope": "./prayer-times-in-hyderabad-india.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

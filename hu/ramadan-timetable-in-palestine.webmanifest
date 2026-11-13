@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadán-menetrend: Palesztina 2027 (1448)",
+  "short_name": "Ramadán-menetrend: Palesztina 2027 (1448)",
+  "description": "Ramadán 2027 menetrend Palesztina számára: a sehri vége (Fajr) és az iftár (Maghrib) időpontjai a Ramadán 1448 minden napjára, Ramallah számára számítva. Várhatóan 8 február és 8 március 2027 között, a holdészleléstől függően.",
+  "id": "/loona-islamic-tools/hu/ramadan-timetable-in-palestine.html",
+  "start_url": "./ramadan-timetable-in-palestine.html",
+  "scope": "./ramadan-timetable-in-palestine.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

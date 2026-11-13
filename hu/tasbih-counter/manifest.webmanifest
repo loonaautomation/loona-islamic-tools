@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tasbih-számláló",
+  "short_name": "Tasbih-számláló",
+  "description": "Digitális tasbih számláló: SubhanAllah, Alhamdulillah és további előbeállítások, 33/99/100 célok, körkövetés, rezgés és az eszközére mentett összesített számok.",
+  "id": "/loona-islamic-tools/hu/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sacramento imaidői",
+  "short_name": "Sacramento imaidői",
+  "description": "A mai imaidők: Sacramento, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Sacramento számára.",
+  "id": "/loona-islamic-tools/hu/prayer-times-in-sacramento.html",
+  "start_url": "./prayer-times-in-sacramento.html",
+  "scope": "./prayer-times-in-sacramento.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
