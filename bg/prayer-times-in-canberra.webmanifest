@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз в Canberra",
+  "short_name": "Часове за намаз в Canberra",
+  "description": "Днешните часове за намаз в Canberra, Австралия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Canberra.",
+  "id": "/loona-islamic-tools/bg/prayer-times-in-canberra.html",
+  "start_url": "./prayer-times-in-canberra.html",
+  "scope": "./prayer-times-in-canberra.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
