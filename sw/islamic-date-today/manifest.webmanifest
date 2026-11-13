@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tarehe ya Kiislamu ya Leo",
+  "short_name": "Tarehe ya Kiislamu ya Leo",
+  "description": "Je, tarehe ya Kiislamu ya leo ni ipi? Tazama tarehe ya Hijria ya leo — siku, mwezi na mwaka (Umm al-Qura) — pamoja na tarehe ya Gregori, inayosasiwa moja kwa moja kwenye kifaa chako. Bure.",
+  "id": "/loona-islamic-tools/sw/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

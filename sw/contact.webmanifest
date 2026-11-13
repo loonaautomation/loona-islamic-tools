@@ -1,0 +1,29 @@
+{
+  "name": "Loona Wasiliana na Zana za Kiislamu za Loona",
+  "short_name": "Wasiliana na Zana za Kiislamu za Loona",
+  "description": "Wasiliana na Zana za Kiislamu za Loona na Loona Automation: barua pepe kwa marekebisho ya nyakati za swala, tarehe za Hijria, maudhui ya dua, mapendekezo na maswali ya ushirikiano.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/sw/contact.html"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala katika Lucknow",
+  "short_name": "Nyakati za Swala katika Lucknow",
+  "description": "Nyakati za swala za leo katika Lucknow, India: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Hanafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya Karachi, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Lucknow.",
+  "id": "/loona-islamic-tools/sw/prayer-times-in-lucknow.html",
+  "start_url": "./prayer-times-in-lucknow.html",
+  "scope": "./prayer-times-in-lucknow.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala katika Vijayawada",
+  "short_name": "Nyakati za Swala katika Vijayawada",
+  "description": "Nyakati za swala za leo katika Vijayawada, India: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Hanafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya Karachi, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Vijayawada.",
+  "id": "/loona-islamic-tools/sw/prayer-times-in-vijayawada.html",
+  "start_url": "./prayer-times-in-vijayawada.html",
+  "scope": "./prayer-times-in-vijayawada.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala katika Cimahi",
+  "short_name": "Nyakati za Swala katika Cimahi",
+  "description": "Nyakati za swala za leo katika Cimahi, Indonesia: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Shafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya Ligi ya Waislamu Duniani, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Cimahi.",
+  "id": "/loona-islamic-tools/sw/prayer-times-in-cimahi.html",
+  "start_url": "./prayer-times-in-cimahi.html",
+  "scope": "./prayer-times-in-cimahi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

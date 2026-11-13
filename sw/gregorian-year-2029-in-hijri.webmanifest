@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2029 katika Hijria",
+  "short_name": "2029 katika Hijria",
+  "description": "Mwaka wa Gregori 2029 katika kalenda ya Hijria: tarehe ya Kiislamu ya kila mwezi wa 2029, pamoja na tarehe za Ramadan, Idi el-Fitri na Idi el-Adha katika 2029, katika kalenda ya Umm al-Qura.",
+  "id": "/loona-islamic-tools/sw/gregorian-year-2029-in-hijri.html",
+  "start_url": "./gregorian-year-2029-in-hijri.html",
+  "scope": "./gregorian-year-2029-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala katika Çiğli",
+  "short_name": "Nyakati za Swala katika Çiğli",
+  "description": "Nyakati za swala za leo katika Çiğli, Uturuki: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Hanafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya Ligi ya Waislamu Duniani, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Çiğli.",
+  "id": "/loona-islamic-tools/sw/prayer-times-in-cigli.html",
+  "start_url": "./prayer-times-in-cigli.html",
+  "scope": "./prayer-times-in-cigli.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

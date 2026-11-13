@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala kwa Nchi",
+  "short_name": "Nyakati za Swala kwa Nchi",
+  "description": "Nyakati za swala kwa miji 867 duniani kote, zimepangwa kwa nchi: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri, Magharibi na Isha kwa leo, ratiba za mwezi mzima, uelekeo wa Kibla na ratiba za Ramadan 2027 kwa nchi.",
+  "id": "/loona-islamic-tools/sw/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

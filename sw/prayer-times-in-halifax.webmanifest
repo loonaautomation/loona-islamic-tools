@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nyakati za Swala katika Halifax",
+  "short_name": "Nyakati za Swala katika Halifax",
+  "description": "Nyakati za swala za leo katika Halifax, Kanada: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Shafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya ISNA, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Halifax.",
+  "id": "/loona-islamic-tools/sw/prayer-times-in-halifax.html",
+  "start_url": "./prayer-times-in-halifax.html",
+  "scope": "./prayer-times-in-halifax.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Zana za Kiislamu: Nyakati za Swala, Tarehe ya Hijria, Kibla, Tasbihi na Dua",
+  "short_name": "Zana za Kiislamu: Nyakati za Swala, Tarehe ya",
+  "description": "Zana za Kiislamu: nyakati sahihi za swala kwa mji wowote, tarehe ya Hijria ya leo, uelekeo wa Kibla, ratiba ya Ramadan, kihesabu cha tasbihi, Majina 99 ya Allah na dua.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/sw/"
+}

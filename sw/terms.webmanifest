@@ -1,0 +1,29 @@
+{
+  "name": "Loona Masharti ya Matumizi",
+  "short_name": "Masharti ya Matumizi",
+  "description": "Masharti ya matumizi ya Zana za Kiislamu za Loona: bure kwa matumizi ya kibinafsi na ya msikiti; nyakati za swala ni makadirio yaliyokokotolewa — hakikisha kila wakati nyakati muhimu mahali ulipo.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/sw/terms.html"
+}
