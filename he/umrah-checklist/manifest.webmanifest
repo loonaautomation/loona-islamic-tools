@@ -1,0 +1,29 @@
+{
+  "name": "Loona רשימת עומרה",
+  "short_name": "רשימת עומרה",
+  "description": "רשימת עומרה אינטראקטיבית: מסמכים, הזמנות, אריזה, בריאות והכנת איבאדה, עם סרגל התקדמות, אפשרות הדפסה והתקדמות הנשמרת במכשיר שלך.",
+  "id": "/loona-islamic-tools/he/umrah-checklist/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

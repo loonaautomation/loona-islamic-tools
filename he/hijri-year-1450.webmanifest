@@ -1,0 +1,29 @@
+{
+  "name": "Loona שנה היג'רית 1450",
+  "short_name": "שנה היג'רית 1450",
+  "description": "השנה ההיג'רית 1450 AH: תאריכי התחלה וסיום, כל 12 החודשים האסלאמיים עם התאריכים הגרגוריאניים שלהם, והתאריכים המרכזיים של השנה כולל Ramadan ושני העידים, בלוח Umm al-Qura.",
+  "id": "/loona-islamic-tools/he/hijri-year-1450.html",
+  "start_url": "./hijri-year-1450.html",
+  "scope": "./hijri-year-1450.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

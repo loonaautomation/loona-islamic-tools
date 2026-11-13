@@ -1,0 +1,29 @@
+{
+  "name": "Loona 99 שמות אללה",
+  "short_name": "99 שמות אללה",
+  "description": "כל 99 השמות של אללה עם טקסט בערבית, תעתיק ופירושים באנגלית בעמוד אחד הניתן לחיפוש. למד ושנן את Asma-ul-Husna בחינם, בכל מכשיר.",
+  "id": "/loona-islamic-tools/he/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

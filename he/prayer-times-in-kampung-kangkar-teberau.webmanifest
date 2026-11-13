@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר Kampung Kangkar Teberau",
+  "short_name": "זמני תפילה בעיר Kampung Kangkar Teberau",
+  "description": "זמני התפילה של היום בעיר Kampung Kangkar Teberau, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kampung Kangkar Teberau.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-kampung-kangkar-teberau.html",
+  "start_url": "./prayer-times-in-kampung-kangkar-teberau.html",
+  "scope": "./prayer-times-in-kampung-kangkar-teberau.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

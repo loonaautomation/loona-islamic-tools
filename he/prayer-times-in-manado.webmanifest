@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר Manado",
+  "short_name": "זמני תפילה בעיר Manado",
+  "description": "זמני התפילה של היום בעיר Manado, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Manado.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-manado.html",
+  "start_url": "./prayer-times-in-manado.html",
+  "scope": "./prayer-times-in-manado.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

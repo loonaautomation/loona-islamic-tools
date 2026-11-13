@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר Denver",
+  "short_name": "זמני תפילה בעיר Denver",
+  "description": "זמני התפילה של היום בעיר Denver, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Denver.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-denver.html",
+  "start_url": "./prayer-times-in-denver.html",
+  "scope": "./prayer-times-in-denver.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

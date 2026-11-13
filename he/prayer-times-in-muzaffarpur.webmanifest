@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר Muzaffarpur",
+  "short_name": "זמני תפילה בעיר Muzaffarpur",
+  "description": "זמני התפילה של היום בעיר Muzaffarpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Muzaffarpur.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-muzaffarpur.html",
+  "start_url": "./prayer-times-in-muzaffarpur.html",
+  "scope": "./prayer-times-in-muzaffarpur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

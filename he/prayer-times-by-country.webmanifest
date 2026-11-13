@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה לפי מדינה",
+  "short_name": "זמני תפילה לפי מדינה",
+  "description": "זמני תפילה עבור 867 ערים ברחבי העולם, מקובצים לפי מדינה: Fajr, Sunrise, Dhuhr, Asr, Maghrib ו-Isha להיום, לוחות חודש מלאים, כיוון קיבלה ולוחות Ramadan 2027 לפי מדינה.",
+  "id": "/loona-islamic-tools/he/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

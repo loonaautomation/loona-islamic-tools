@@ -1,0 +1,29 @@
+{
+  "name": "Loona לוח Ramadan בטורקיה 2027 (1448)",
+  "short_name": "לוח Ramadan בטורקיה 2027 (1448)",
+  "description": "לוח Ramadan 2027 עבור טורקיה: זמני סיום Sehri (Fajr) ו-Iftar (Maghrib) לכל יום של Ramadan 1448, מחושב עבור Ankara. צפוי 8 פברואר עד 8 מרץ 2027, בכפוף לתצפית הירח.",
+  "id": "/loona-islamic-tools/he/ramadan-timetable-in-turkey.html",
+  "start_url": "./ramadan-timetable-in-turkey.html",
+  "scope": "./ramadan-timetable-in-turkey.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

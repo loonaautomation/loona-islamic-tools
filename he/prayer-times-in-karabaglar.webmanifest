@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר Karabağlar",
+  "short_name": "זמני תפילה בעיר Karabağlar",
+  "description": "זמני התפילה של היום בעיר Karabağlar, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Karabağlar.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-karabaglar.html",
+  "start_url": "./prayer-times-in-karabaglar.html",
+  "scope": "./prayer-times-in-karabaglar.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona לוח זמני תפילה חודשי",
+  "short_name": "לוח זמני תפילה חודשי",
+  "description": "צור לוח זמני תפילה חודשי להדפסה לכל עיר: כל ששת הזמנים לכל החודש, עם שיטת החישוב ואסכולת ה-Asr שלך, חינמי ופרטי.",
+  "id": "/loona-islamic-tools/he/monthly-prayer-timetable/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

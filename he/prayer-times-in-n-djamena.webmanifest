@@ -1,0 +1,29 @@
+{
+  "name": "Loona זמני תפילה בעיר N'Djamena",
+  "short_name": "זמני תפילה בעיר N'Djamena",
+  "description": "זמני התפילה של היום בעיר N'Djamena, צ'אד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור N'Djamena.",
+  "id": "/loona-islamic-tools/he/prayer-times-in-n-djamena.html",
+  "start_url": "./prayer-times-in-n-djamena.html",
+  "scope": "./prayer-times-in-n-djamena.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
