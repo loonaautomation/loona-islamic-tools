@@ -1,0 +1,29 @@
+{
+  "name": "Loona Današnji islamski datum",
+  "short_name": "Današnji islamski datum",
+  "description": "Koji je danas islamski datum? Pogledajte današnji hidžretski datum — dan, mjesec i godinu (Umm al-Qura) — s gregorijanskim datumom, ažurirano uživo na vašem uređaju. Besplatno.",
+  "id": "/loona-islamic-tools/hr/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

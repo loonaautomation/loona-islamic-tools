@@ -1,0 +1,29 @@
+{
+  "name": "Loona Brojač tesbiha",
+  "short_name": "Brojač tesbiha",
+  "description": "Digitalni brojač tespiha: SubhanAllah, Alhamdulillah i druge unaprijed postavljene dove, ciljevi 33/99/100, praćenje krugova, vibracija i doživotni ukupni zbrojevi spremljeni na vašem uređaju.",
+  "id": "/loona-islamic-tools/hr/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Objašnjene metode izračuna vremena namaza: Karachi, ISNA, MWL, hanefijski i šafijski Asr",
+  "short_name": "Objašnjene metode izračuna vremena namaza:",
+  "description": "Vodič jednostavnim jezikom o izračunu vremena namaza: kutovi sumraka za Fadžr i Išu, pet glavnih metoda, hanefijski i šafijski Asr te pravila za velike geografske širine.",
+  "id": "/loona-islamic-tools/hr/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

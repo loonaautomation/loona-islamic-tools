@@ -1,0 +1,29 @@
+{
+  "name": "Loona Politika privatnosti",
+  "short_name": "Politika privatnosti",
+  "description": "Politika privatnosti za Loona Islamic Tools: svi izračuni izvršavaju se na vašem uređaju, bez računa, bez učitanih podataka. Što localStorage pohranjuje i koja se analitika pokreće.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/hr/privacy.html"
+}

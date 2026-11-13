@@ -1,0 +1,29 @@
+{
+  "name": "Loona Vremena namaza u gradu Baltimore",
+  "short_name": "Vremena namaza u gradu Baltimore",
+  "description": "Današnja vremena namaza u gradu Baltimore, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Baltimore.",
+  "id": "/loona-islamic-tools/hr/prayer-times-in-baltimore.html",
+  "start_url": "./prayer-times-in-baltimore.html",
+  "scope": "./prayer-times-in-baltimore.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
