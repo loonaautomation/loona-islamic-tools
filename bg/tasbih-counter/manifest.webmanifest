@@ -1,0 +1,29 @@
+{
+  "name": "Loona Брояч тасбих",
+  "short_name": "Брояч тасбих",
+  "description": "Дигитален брояч за тасбих: SubhanAllah, Alhamdulillah и още предварителни настройки, цели 33/99/100, проследяване на кръгове, вибрация и доживотни общи бройки, запазени на вашето устройство.",
+  "id": "/loona-islamic-tools/bg/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
