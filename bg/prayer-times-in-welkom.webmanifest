@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз в Welkom",
+  "short_name": "Часове за намаз в Welkom",
+  "description": "Днешните часове за намаз в Welkom, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Welkom.",
+  "id": "/loona-islamic-tools/bg/prayer-times-in-welkom.html",
+  "start_url": "./prayer-times-in-welkom.html",
+  "scope": "./prayer-times-in-welkom.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
