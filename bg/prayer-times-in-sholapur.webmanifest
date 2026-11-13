@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз в Sholapur",
+  "short_name": "Часове за намаз в Sholapur",
+  "description": "Днешните часове за намаз в Sholapur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Sholapur.",
+  "id": "/loona-islamic-tools/bg/prayer-times-in-sholapur.html",
+  "start_url": "./prayer-times-in-sholapur.html",
+  "scope": "./prayer-times-in-sholapur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
