@@ -1,0 +1,29 @@
+{
+  "name": "Loona Посока на Киблата",
+  "short_name": "Посока на Киблата",
+  "description": "Намерете посоката на Киблата в градуси от всеки град или точното ви местоположение, с циферблат на компас на живо и разстоянието до Makkah. Безплатно, точно и поверително.",
+  "id": "/loona-islamic-tools/bg/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
