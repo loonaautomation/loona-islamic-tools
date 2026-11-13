@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Las Palmas de Gran Canaria",
+  "short_name": "Час намазу в Las Palmas de Gran Canaria",
+  "description": "Сьогоднішній час намазу в Las Palmas de Gran Canaria, Іспанія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Las Palmas de Gran Canaria.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-las-palmas-de-gran-canaria.html",
+  "start_url": "./prayer-times-in-las-palmas-de-gran-canaria.html",
+  "scope": "./prayer-times-in-las-palmas-de-gran-canaria.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

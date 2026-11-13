@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Chandigarh",
+  "short_name": "Час намазу в Chandigarh",
+  "description": "Сьогоднішній час намазу в Chandigarh, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Chandigarh.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-chandigarh.html",
+  "start_url": "./prayer-times-in-chandigarh.html",
+  "scope": "./prayer-times-in-chandigarh.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

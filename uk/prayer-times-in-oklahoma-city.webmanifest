@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Oklahoma City",
+  "short_name": "Час намазу в Oklahoma City",
+  "description": "Сьогоднішній час намазу в Oklahoma City, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Oklahoma City.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-oklahoma-city.html",
+  "start_url": "./prayer-times-in-oklahoma-city.html",
+  "scope": "./prayer-times-in-oklahoma-city.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

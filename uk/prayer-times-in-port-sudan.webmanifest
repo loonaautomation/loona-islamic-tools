@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Port Sudan",
+  "short_name": "Час намазу в Port Sudan",
+  "description": "Сьогоднішній час намазу в Порт-Судан, країна Судан: Фаджр, схід сонця, Зугр, Аср (Шафі), Магріб та Іша, а також напрямок Кібли та сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розрахований наживо на вашому пристрої для Порт-Судан.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-port-sudan.html",
+  "start_url": "./prayer-times-in-port-sudan.html",
+  "scope": "./prayer-times-in-port-sudan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Jaipur",
+  "short_name": "Час намазу в Jaipur",
+  "description": "Сьогоднішній час намазу в Jaipur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jaipur.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-jaipur.html",
+  "start_url": "./prayer-times-in-jaipur.html",
+  "scope": "./prayer-times-in-jaipur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

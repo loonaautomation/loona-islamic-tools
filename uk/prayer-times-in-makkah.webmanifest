@@ -1,0 +1,29 @@
+{
+  "name": "Loona Час намазу в Makkah",
+  "short_name": "Час намазу в Makkah",
+  "description": "Сьогоднішній час намазу в Makkah, Саудівська Аравія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Makkah.",
+  "id": "/loona-islamic-tools/uk/prayer-times-in-makkah.html",
+  "start_url": "./prayer-times-in-makkah.html",
+  "scope": "./prayer-times-in-makkah.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

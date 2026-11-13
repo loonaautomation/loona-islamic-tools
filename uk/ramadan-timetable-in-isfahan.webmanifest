@@ -1,0 +1,29 @@
+{
+  "name": "Loona Розклад Рамадану в Isfahan 2027 (1448)",
+  "short_name": "Розклад Рамадану в Isfahan 2027 (1448)",
+  "description": "Розклад Рамадану 2027 для Isfahan, Іран: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
+  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-isfahan.html",
+  "start_url": "./ramadan-timetable-in-isfahan.html",
+  "scope": "./ramadan-timetable-in-isfahan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

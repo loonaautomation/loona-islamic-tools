@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ісламські інструменти: час намазу, дата за хіджрою, Кібла, тасбіх і дуа",
+  "short_name": "Ісламські інструменти: час намазу, дата за",
+  "description": "Ісламські інструменти: точний час намазу для будь-якого міста, сьогоднішня дата за хіджрою, напрямок Кібли, розклад Рамадану, лічильник тасбіха, 99 імен Аллага та дуа.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/uk/"
+}

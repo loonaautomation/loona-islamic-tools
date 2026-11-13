@@ -1,0 +1,29 @@
+{
+  "name": "Loona Пояснення методів розрахунку часу намазу: Карачі, ISNA, MWL, ханафітська та шафіїтська школи",
+  "short_name": "Пояснення методів розрахунку часу намазу:",
+  "description": "Посібник простою мовою про розрахунок часу намазу: кути сутінків для Фаджру та Іші, п’ять основних методів, Аср за ханафітською та шафіїтською школами й правила для високих широт.",
+  "id": "/loona-islamic-tools/uk/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
