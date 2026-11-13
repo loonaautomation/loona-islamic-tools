@@ -1,0 +1,29 @@
+{
+  "name": "Loona Часове за намаз в Kunri",
+  "short_name": "Часове за намаз в Kunri",
+  "description": "Днешните часове за намаз в Kunri, Пакистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kunri.",
+  "id": "/loona-islamic-tools/bg/prayer-times-in-kunri.html",
+  "start_url": "./prayer-times-in-kunri.html",
+  "scope": "./prayer-times-in-kunri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
