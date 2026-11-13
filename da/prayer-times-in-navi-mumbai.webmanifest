@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Navi Mumbai",
+  "short_name": "Bønnetider i Navi Mumbai",
+  "description": "Dagens bønnetider i Navi Mumbai, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Navi Mumbai.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-navi-mumbai.html",
+  "start_url": "./prayer-times-in-navi-mumbai.html",
+  "scope": "./prayer-times-in-navi-mumbai.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

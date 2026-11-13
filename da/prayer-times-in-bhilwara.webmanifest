@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Bhilwara",
+  "short_name": "Bønnetider i Bhilwara",
+  "description": "Dagens bønnetider i Bhilwara, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Bhilwara.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-bhilwara.html",
+  "start_url": "./prayer-times-in-bhilwara.html",
+  "scope": "./prayer-times-in-bhilwara.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

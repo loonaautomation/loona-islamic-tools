@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Cardiff",
+  "short_name": "Bønnetider i Cardiff",
+  "description": "Dagens bønnetider i Cardiff, Storbritannien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Cardiff.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-cardiff.html",
+  "start_url": "./prayer-times-in-cardiff.html",
+  "scope": "./prayer-times-in-cardiff.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

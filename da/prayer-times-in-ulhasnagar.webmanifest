@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Ulhasnagar",
+  "short_name": "Bønnetider i Ulhasnagar",
+  "description": "Dagens bønnetider i Ulhasnagar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Ulhasnagar.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-ulhasnagar.html",
+  "start_url": "./prayer-times-in-ulhasnagar.html",
+  "scope": "./prayer-times-in-ulhasnagar.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

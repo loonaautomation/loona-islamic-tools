@@ -1,0 +1,29 @@
+{
+  "name": "Loona Dua-bibliotek",
+  "short_name": "Dua-bibliotek",
+  "description": "Et bibliotek med autentiske duaer til ethvert øjeblik — morgen, mad, rejse, hjem, angst, tilgivelse — hver med arabisk tekst, translitteration, oversættelse og kilde.",
+  "id": "/loona-islamic-tools/da/duas-library/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

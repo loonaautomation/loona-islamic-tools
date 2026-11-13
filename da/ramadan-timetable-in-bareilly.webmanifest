@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadan-tidsplan i Bareilly 2027 (1448)",
+  "short_name": "Ramadan-tidsplan i Bareilly 2027 (1448)",
+  "description": "Ramadan 2027-tidsplan for Bareilly, Indien: Sehri-slut (Fajr) og Iftar (Maghrib) tider for hver dag i Ramadan 1448. Forventet 8. februar til 8. marts 2027, med forbehold for måneobservation.",
+  "id": "/loona-islamic-tools/da/ramadan-timetable-in-bareilly.html",
+  "start_url": "./ramadan-timetable-in-bareilly.html",
+  "scope": "./ramadan-timetable-in-bareilly.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Nuremberg",
+  "short_name": "Bønnetider i Nuremberg",
+  "description": "Dagens bønnetider i Nuremberg, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Nuremberg.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-nuremberg.html",
+  "start_url": "./prayer-times-in-nuremberg.html",
+  "scope": "./prayer-times-in-nuremberg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

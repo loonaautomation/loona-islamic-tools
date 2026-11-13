@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Fresno",
+  "short_name": "Bønnetider i Fresno",
+  "description": "Dagens bønnetider i Fresno, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Fresno.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-fresno.html",
+  "start_url": "./prayer-times-in-fresno.html",
+  "scope": "./prayer-times-in-fresno.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

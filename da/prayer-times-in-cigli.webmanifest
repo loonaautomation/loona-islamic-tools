@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Çiğli",
+  "short_name": "Bønnetider i Çiğli",
+  "description": "Dagens bønnetider i Çiğli, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Çiğli.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-cigli.html",
+  "start_url": "./prayer-times-in-cigli.html",
+  "scope": "./prayer-times-in-cigli.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

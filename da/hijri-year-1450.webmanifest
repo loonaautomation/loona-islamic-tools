@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hijri-år 1450",
+  "short_name": "Hijri-år 1450",
+  "description": "Hijri-året 1450 AH: start- og slutdatoer, alle 12 islamiske måneder med deres gregorianske datoer, og årets vigtige datoer inklusive Ramadan og begge Eid, efter Umm al-Qura-kalenderen.",
+  "id": "/loona-islamic-tools/da/hijri-year-1450.html",
+  "start_url": "./hijri-year-1450.html",
+  "scope": "./hijri-year-1450.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

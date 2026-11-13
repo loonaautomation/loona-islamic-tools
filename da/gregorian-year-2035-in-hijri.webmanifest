@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2035 i Hijri",
+  "short_name": "2035 i Hijri",
+  "description": "Det gregorianske år 2035 i Hijri-kalenderen: den islamiske dato for hver måned i 2035, plus Ramadan-, Eid al-Fitr- og Eid al-Adha-datoer i 2035, efter Umm al-Qura-kalenderen.",
+  "id": "/loona-islamic-tools/da/gregorian-year-2035-in-hijri.html",
+  "start_url": "./gregorian-year-2035-in-hijri.html",
+  "scope": "./gregorian-year-2035-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona 2032 i Hijri",
+  "short_name": "2032 i Hijri",
+  "description": "Det gregorianske år 2032 i Hijri-kalenderen: den islamiske dato for hver måned i 2032, plus Ramadan-, Eid al-Fitr- og Eid al-Adha-datoer i 2032, efter Umm al-Qura-kalenderen.",
+  "id": "/loona-islamic-tools/da/gregorian-year-2032-in-hijri.html",
+  "start_url": "./gregorian-year-2032-in-hijri.html",
+  "scope": "./gregorian-year-2032-in-hijri.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

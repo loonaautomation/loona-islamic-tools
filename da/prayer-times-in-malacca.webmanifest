@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Malacca",
+  "short_name": "Bønnetider i Malacca",
+  "description": "Dagens bønnetider i Malacca, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Malacca.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-malacca.html",
+  "start_url": "./prayer-times-in-malacca.html",
+  "scope": "./prayer-times-in-malacca.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

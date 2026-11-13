@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i San Antonio",
+  "short_name": "Bønnetider i San Antonio",
+  "description": "Dagens bønnetider i San Antonio, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for San Antonio.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-san-antonio.html",
+  "start_url": "./prayer-times-in-san-antonio.html",
+  "scope": "./prayer-times-in-san-antonio.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

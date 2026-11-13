@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Salé Al Jadida",
+  "short_name": "Bønnetider i Salé Al Jadida",
+  "description": "Dagens bønnetider i Salé Al Jadida, Marokko: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Salé Al Jadida.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-sale-al-jadida.html",
+  "start_url": "./prayer-times-in-sale-al-jadida.html",
+  "scope": "./prayer-times-in-sale-al-jadida.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

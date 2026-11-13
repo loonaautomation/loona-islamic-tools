@@ -1,0 +1,29 @@
+{
+  "name": "Loona Sehri- og Iftar-tid i dag",
+  "short_name": "Sehri- og Iftar-tid i dag",
+  "description": "Dagens Sehri-slut (Fajr) og Iftar (Maghrib) tider for din by med en live nedtælling til den næste. Karachi-metoden, Hanafi-Asr som standard, kan justeres.",
+  "id": "/loona-islamic-tools/da/sehri-iftar-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

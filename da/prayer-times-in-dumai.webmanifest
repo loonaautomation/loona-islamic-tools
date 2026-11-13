@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Dumai",
+  "short_name": "Bønnetider i Dumai",
+  "description": "Dagens bønnetider i Dumai, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Dumai.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-dumai.html",
+  "start_url": "./prayer-times-in-dumai.html",
+  "scope": "./prayer-times-in-dumai.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamisk dato i dag",
+  "short_name": "Islamisk dato i dag",
+  "description": "Hvad er den islamiske dato i dag? Se dagens Hijri-dato — dag, måned og år (Umm al-Qura) — med den gregorianske dato, opdateret live på din enhed. Gratis.",
+  "id": "/loona-islamic-tools/da/islamic-date-today/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

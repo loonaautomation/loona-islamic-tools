@@ -1,0 +1,29 @@
+{
+  "name": "Loona Bønnetider i Eskişehir",
+  "short_name": "Bønnetider i Eskişehir",
+  "description": "Dagens bønnetider i Eskişehir, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Eskişehir.",
+  "id": "/loona-islamic-tools/da/prayer-times-in-eskisehir.html",
+  "start_url": "./prayer-times-in-eskisehir.html",
+  "scope": "./prayer-times-in-eskisehir.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
