@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Pretoria",
+  "short_name": "Rukousajat: Pretoria",
+  "description": "Tämän päivän rukousajat paikassa Pretoria, Etelä-Afrikka: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Pretoria.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-pretoria.html",
+  "start_url": "./prayer-times-in-pretoria.html",
+  "scope": "./prayer-times-in-pretoria.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

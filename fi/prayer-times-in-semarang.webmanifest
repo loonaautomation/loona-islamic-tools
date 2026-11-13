@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Semarang",
+  "short_name": "Rukousajat: Semarang",
+  "description": "Tämän päivän rukousajat paikassa Semarang, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Semarang.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-semarang.html",
+  "start_url": "./prayer-times-in-semarang.html",
+  "scope": "./prayer-times-in-semarang.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

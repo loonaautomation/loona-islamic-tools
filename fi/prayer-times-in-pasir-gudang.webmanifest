@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Pasir Gudang",
+  "short_name": "Rukousajat: Pasir Gudang",
+  "description": "Tämän päivän rukousajat paikassa Pasir Gudang, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Pasir Gudang.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-pasir-gudang.html",
+  "start_url": "./prayer-times-in-pasir-gudang.html",
+  "scope": "./prayer-times-in-pasir-gudang.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

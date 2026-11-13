@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat tänään",
+  "short_name": "Rukousajat tänään",
+  "description": "Hae tämän päivän Fajr-, Dhuhr-, Asr-, Maghrib- ja Isha-rukousajat mille tahansa kaupungille: Karachi, ISNA, MWL ja muita menetelmiä, Hanafi- tai Shafi-Asr, tarkat koordinaatit tuettuina.",
+  "id": "/loona-islamic-tools/fi/prayer-times/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

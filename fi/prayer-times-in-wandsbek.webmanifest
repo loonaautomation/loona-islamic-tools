@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Wandsbek",
+  "short_name": "Rukousajat: Wandsbek",
+  "description": "Tämän päivän rukousajat paikassa Wandsbek, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Wandsbek.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-wandsbek.html",
+  "start_url": "./prayer-times-in-wandsbek.html",
+  "scope": "./prayer-times-in-wandsbek.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Warangal",
+  "short_name": "Rukousajat: Warangal",
+  "description": "Tämän päivän rukousajat paikassa Warangal, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Warangal.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-warangal.html",
+  "start_url": "./prayer-times-in-warangal.html",
+  "scope": "./prayer-times-in-warangal.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

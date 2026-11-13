@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat maittain",
+  "short_name": "Rukousajat maittain",
+  "description": "Rukousajat 867 kaupungille maailmanlaajuisesti, ryhmiteltynä maittain: Fajr, Auringonnousu, Dhuhr, Asr, Maghrib ja Isha tälle päivälle, koko kuukauden aikataulut, Qibla-suunta ja Ramadan 2027 -aikataulut maittain.",
+  "id": "/loona-islamic-tools/fi/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

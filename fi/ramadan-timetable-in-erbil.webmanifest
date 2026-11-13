@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ramadan-aikataulu: Erbil 2027 (1448)",
+  "short_name": "Ramadan-aikataulu: Erbil 2027 (1448)",
+  "description": "Ramadanin 2027 aikataulu paikalle Erbil, Irak: Sehrin päättymis- (Fajr) ja Iftar- (Maghrib) ajat Ramadanin 1448 jokaiselle päivälle. Odotettavasti 8. helmikuuta – 8. maaliskuuta 2027, kuun havainnoinnista riippuen.",
+  "id": "/loona-islamic-tools/fi/ramadan-timetable-in-erbil.html",
+  "start_url": "./ramadan-timetable-in-erbil.html",
+  "scope": "./ramadan-timetable-in-erbil.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

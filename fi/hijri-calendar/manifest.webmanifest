@@ -1,0 +1,29 @@
+{
+  "name": "Loona Hijri-kalenteri",
+  "short_name": "Hijri-kalenteri",
+  "description": "Selaa mitä tahansa hijri-kuukautta ja -vuotta siistissä islamilaisessa kalenterissa, jossa jokainen päivä näyttää myös gregoriaanisen päivämääränsä. Umm al-Qura -kalenteri, ilmainen ja aina ajan tasalla.",
+  "id": "/loona-islamic-tools/fi/hijri-calendar/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

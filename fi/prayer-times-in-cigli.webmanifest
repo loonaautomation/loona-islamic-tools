@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Çiğli",
+  "short_name": "Rukousajat: Çiğli",
+  "description": "Tämän päivän rukousajat paikassa Çiğli, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Çiğli.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-cigli.html",
+  "start_url": "./prayer-times-in-cigli.html",
+  "scope": "./prayer-times-in-cigli.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

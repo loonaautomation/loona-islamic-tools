@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Winnipeg",
+  "short_name": "Rukousajat: Winnipeg",
+  "description": "Tämän päivän rukousajat paikassa Winnipeg, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Winnipeg.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-winnipeg.html",
+  "start_url": "./prayer-times-in-winnipeg.html",
+  "scope": "./prayer-times-in-winnipeg.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

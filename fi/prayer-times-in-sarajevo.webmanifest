@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Sarajevo",
+  "short_name": "Rukousajat: Sarajevo",
+  "description": "Tämän päivän rukousajat paikassa Sarajevo, Bosnia ja Hertsegovina: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sarajevo.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-sarajevo.html",
+  "start_url": "./prayer-times-in-sarajevo.html",
+  "scope": "./prayer-times-in-sarajevo.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

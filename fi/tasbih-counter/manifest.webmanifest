@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tasbih-laskuri",
+  "short_name": "Tasbih-laskuri",
+  "description": "Digitaalinen tasbih-laskuri: SubhanAllah, Alhamdulillah ja muita esiasetuksia, 33/99/100 tavoitteet, kierrosten seuranta, värinä ja elinikäiset kokonaismäärät tallennettuna laitteellesi.",
+  "id": "/loona-islamic-tools/fi/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

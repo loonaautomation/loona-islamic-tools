@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Marg‘ilon",
+  "short_name": "Rukousajat: Marg‘ilon",
+  "description": "Tämän päivän rukousajat paikassa Marg‘ilon, Uzbekistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Marg‘ilon.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-marg-ilon.html",
+  "start_url": "./prayer-times-in-marg-ilon.html",
+  "scope": "./prayer-times-in-marg-ilon.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

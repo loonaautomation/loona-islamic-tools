@@ -1,0 +1,29 @@
+{
+  "name": "Loona Tietosuojakäytäntö",
+  "short_name": "Tietosuojakäytäntö",
+  "description": "Loona Islamic Toolsin tietosuojakäytäntö: kaikki laskelmat tehdään laitteellasi, ei tilejä, ei ladattuja tietoja. Mitä localStorage tallentaa ja mitä analytiikkaa käytetään.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/fi/privacy.html"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Allahin 99 nimeä",
+  "short_name": "Allahin 99 nimeä",
+  "description": "Kaikki Allahin 99 nimeä arabiankielisellä tekstillä, translitteraatiolla ja suomenkielisillä merkityksillä yhdellä haettavalla sivulla. Opi ja opettele ulkoa Asma-ul-Husna ilmaiseksi, millä tahansa laitteella.",
+  "id": "/loona-islamic-tools/fi/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

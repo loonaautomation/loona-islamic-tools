@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Sahāranpur",
+  "short_name": "Rukousajat: Sahāranpur",
+  "description": "Tämän päivän rukousajat paikassa Sahāranpur, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Sahāranpur.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-saharanpur.html",
+  "start_url": "./prayer-times-in-saharanpur.html",
+  "scope": "./prayer-times-in-saharanpur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

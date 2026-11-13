@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousaikojen laskentamenetelmät selitettynä: Karachi, ISNA, MWL, Hanafi vs. Shafi",
+  "short_name": "Rukousaikojen laskentamenetelmät selitettynä:",
+  "description": "Selkeä opas rukousaikojen laskentaan: hämärän kulmat Fajrille ja Ishalle, viisi tärkeintä menetelmää, Hanafi- ja Shafi-Asrin ero sekä korkeiden leveysasteiden säännöt.",
+  "id": "/loona-islamic-tools/fi/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

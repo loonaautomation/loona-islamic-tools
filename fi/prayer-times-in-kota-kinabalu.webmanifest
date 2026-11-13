@@ -1,0 +1,29 @@
+{
+  "name": "Loona Rukousajat: Kota Kinabalu",
+  "short_name": "Rukousajat: Kota Kinabalu",
+  "description": "Tämän päivän rukousajat paikassa Kota Kinabalu, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kota Kinabalu.",
+  "id": "/loona-islamic-tools/fi/prayer-times-in-kota-kinabalu.html",
+  "start_url": "./prayer-times-in-kota-kinabalu.html",
+  "scope": "./prayer-times-in-kota-kinabalu.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
