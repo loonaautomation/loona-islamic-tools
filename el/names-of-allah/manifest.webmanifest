@@ -1,0 +1,29 @@
+{
+  "name": "Loona Τα 99 Ονόματα του Αλλάχ",
+  "short_name": "Τα 99 Ονόματα του Αλλάχ",
+  "description": "Και τα 99 Ονόματα του Αλλάχ με αραβικό κείμενο, μεταγραφή και ελληνικές σημασίες σε μία σελίδα με δυνατότητα αναζήτησης. Μάθετε και απομνημονεύστε τα Asma-ul-Husna δωρεάν, σε οποιαδήποτε συσκευή.",
+  "id": "/loona-islamic-tools/el/names-of-allah/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ώρες Προσευχής στο İskenderun",
+  "short_name": "Ώρες Προσευχής στο İskenderun",
+  "description": "Οι σημερινές ώρες προσευχής στο İskenderun, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το İskenderun.",
+  "id": "/loona-islamic-tools/el/prayer-times-in-iskenderun.html",
+  "start_url": "./prayer-times-in-iskenderun.html",
+  "scope": "./prayer-times-in-iskenderun.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

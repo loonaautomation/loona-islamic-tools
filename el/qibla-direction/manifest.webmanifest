@@ -1,0 +1,29 @@
+{
+  "name": "Loona Κατεύθυνση Κίμπλα",
+  "short_name": "Κατεύθυνση Κίμπλα",
+  "description": "Βρείτε την κατεύθυνση της Κίμπλα σε μοίρες από οποιαδήποτε πόλη ή την ακριβή τοποθεσία σας, με ζωντανή καντράν πυξίδας και την απόσταση από τη Μέκκα. Δωρεάν, ακριβής και ιδιωτική.",
+  "id": "/loona-islamic-tools/el/qibla-direction/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μέθοδοι Υπολογισμού Ωρών Προσευχής Εξηγημένες: Karachi, ISNA, MWL, Χανάφι έναντι Σάφι",
+  "short_name": "Μέθοδοι Υπολογισμού Ωρών Προσευχής Εξηγημένες:",
+  "description": "Ένας απλός, κατανοητός οδηγός για τον υπολογισμό των ωρών προσευχής: οι γωνίες λυκόφωτος για Φατζρ και Ισά, οι πέντε κύριες μέθοδοι, το Ασρ κατά Χανάφι έναντι Σάφι, και οι κανόνες για τα μεγάλα γεωγραφικά πλάτη.",
+  "id": "/loona-islamic-tools/el/prayer-time-settings-guide/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

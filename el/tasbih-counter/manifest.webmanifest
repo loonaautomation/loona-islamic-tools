@@ -1,0 +1,29 @@
+{
+  "name": "Loona Μετρητής Τασμπίχ",
+  "short_name": "Μετρητής Τασμπίχ",
+  "description": "Ένας ψηφιακός μετρητής tasbih: SubhanAllah, Alhamdulillah και άλλα προεπιλεγμένα, στόχοι 33/99/100, παρακολούθηση γύρων, δόνηση και συνολικές μετρήσεις διάρκειας ζωής αποθηκευμένες στη συσκευή σας.",
+  "id": "/loona-islamic-tools/el/tasbih-counter/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

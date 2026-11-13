@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ώρες Προσευχής στο Cimahi",
+  "short_name": "Ώρες Προσευχής στο Cimahi",
+  "description": "Οι σημερινές ώρες προσευχής στο Cimahi, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Cimahi.",
+  "id": "/loona-islamic-tools/el/prayer-times-in-cimahi.html",
+  "start_url": "./prayer-times-in-cimahi.html",
+  "scope": "./prayer-times-in-cimahi.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ώρες Προσευχής στο Dera Ismail Khan",
+  "short_name": "Ώρες Προσευχής στο Dera Ismail Khan",
+  "description": "Οι σημερινές ώρες προσευχής στο Dera Ismail Khan, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dera Ismail Khan.",
+  "id": "/loona-islamic-tools/el/prayer-times-in-dera-ismail-khan.html",
+  "start_url": "./prayer-times-in-dera-ismail-khan.html",
+  "scope": "./prayer-times-in-dera-ismail-khan.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

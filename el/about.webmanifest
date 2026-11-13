@@ -1,0 +1,29 @@
+{
+  "name": "Loona Σχετικά με τα Loona Islamic Tools",
+  "short_name": "Σχετικά με τα Loona Islamic Tools",
+  "description": "Σχετικά με τα Loona Islamic Tools: ένα δωρεάν σύνολο εργαλείων για ώρες προσευχής, ημερολόγιο Χίτζρι, Κίμπλα, τασμπίχ και ντουά, από τη Loona Automation. Πώς υπολογίζονται οι ώρες.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "id": "/loona-islamic-tools/el/about.html"
+}

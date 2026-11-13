@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ώρες Προσευχής ανά Χώρα",
+  "short_name": "Ώρες Προσευχής ανά Χώρα",
+  "description": "Ώρες προσευχής για 867 πόλεις παγκοσμίως, ομαδοποιημένες κατά χώρα: Φατζρ, Ανατολή, Ντουχρ, Ασρ, Μαγκρίμπ και Ισά για σήμερα, προγράμματα πλήρους μήνα, κατεύθυνση Κίμπλα και προγράμματα Ραμαζανιού 2027 κατά χώρα.",
+  "id": "/loona-islamic-tools/el/prayer-times-by-country.html",
+  "start_url": "./prayer-times-by-country.html",
+  "scope": "./prayer-times-by-country.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

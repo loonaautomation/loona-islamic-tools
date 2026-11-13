@@ -1,0 +1,29 @@
+{
+  "name": "Loona Ώρες Προσευχής στο Dinajpur",
+  "short_name": "Ώρες Προσευχής στο Dinajpur",
+  "description": "Οι σημερινές ώρες προσευχής στο Dinajpur, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dinajpur.",
+  "id": "/loona-islamic-tools/el/prayer-times-in-dinajpur.html",
+  "start_url": "./prayer-times-in-dinajpur.html",
+  "scope": "./prayer-times-in-dinajpur.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}

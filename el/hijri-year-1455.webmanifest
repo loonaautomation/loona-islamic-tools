@@ -1,0 +1,29 @@
+{
+  "name": "Loona Έτος Χίτζρι 1455",
+  "short_name": "Έτος Χίτζρι 1455",
+  "description": "Το έτος Χίτζρι 1455 AH: ημερομηνίες αρχής και τέλους, και οι 12 ισλαμικοί μήνες με τις γρηγοριανές ημερομηνίες τους, και οι βασικές ημερομηνίες του έτους συμπεριλαμβανομένου του Ραμαζανιού και των δύο Eid, στο ημερολόγιο Umm al-Qura.",
+  "id": "/loona-islamic-tools/el/hijri-year-1455.html",
+  "start_url": "./hijri-year-1455.html",
+  "scope": "./hijri-year-1455.html",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
