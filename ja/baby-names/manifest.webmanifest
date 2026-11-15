@@ -1,0 +1,29 @@
+{
+  "name": "Loona ムスリムの赤ちゃんの名前",
+  "short_name": "ムスリムの赤ちゃんの名前",
+  "description": "男の子と女の子のムスリムの赤ちゃんの名前1197件を、アラビア語表記、翻字、意味、由来とともにご紹介。検索、頭文字での絞り込み、お気に入り保存、「今日の名前」の発見ができます — 無料、登録不要。",
+  "id": "/loona-islamic-tools/ja/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
