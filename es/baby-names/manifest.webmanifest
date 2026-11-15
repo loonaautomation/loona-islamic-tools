@@ -1,0 +1,29 @@
+{
+  "name": "Loona Nombres musulmanes para bebés",
+  "short_name": "Nombres musulmanes para bebés",
+  "description": "Explora 1197 nombres musulmanes para bebés, de niño y de niña, con texto en árabe, transliteración, significado y origen. Busca, filtra por letra, guarda tus favoritos y descubre un Nombre del Día: gratis y sin registro.",
+  "id": "/loona-islamic-tools/es/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
