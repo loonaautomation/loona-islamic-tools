@@ -1,0 +1,29 @@
+{
+  "name": "Loona Islamitische babynamen",
+  "short_name": "Islamitische babynamen",
+  "description": "Blader door 1197 islamitische babynamen voor jongens en meisjes met Arabische tekst, transliteratie, betekenis en herkomst. Zoek, filter op letter, sla favorieten op en ontdek een Naam van de Dag — gratis, zonder registratie.",
+  "id": "/loona-islamic-tools/nl/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
