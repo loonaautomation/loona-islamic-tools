@@ -1,0 +1,29 @@
+{
+  "name": "Loona Muslimske babynavn",
+  "short_name": "Muslimske babynavn",
+  "description": "Bla gjennom 1197 muslimske babynavn for gutter og jenter med arabisk tekst, translitterasjon, betydning og opprinnelse. Søk, filtrer etter bokstav, lagre favoritter og oppdag Dagens navn — gratis, uten registrering.",
+  "id": "/loona-islamic-tools/nb/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
