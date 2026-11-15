@@ -1,0 +1,29 @@
+{
+  "name": "Loona – Μουσουλμανικά Ονόματα Μωρών",
+  "short_name": "Μουσουλμανικά Ονόματα Μωρών",
+  "description": "Περιηγήσου σε 1197 μουσουλμανικά ονόματα μωρών για αγόρια και κορίτσια με αραβικό κείμενο, μεταγραφή, σημασία και προέλευση. Αναζήτησε, φιλτράρισε ανά γράμμα, αποθήκευσε αγαπημένα και ανακάλυψε το Όνομα της Ημέρας — δωρεάν, χωρίς εγγραφή.",
+  "id": "/loona-islamic-tools/el/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
