@@ -1,0 +1,29 @@
+{
+  "name": "Loona 穆斯林嬰兒名字",
+  "short_name": "穆斯林嬰兒名字",
+  "description": "瀏覽1197個適合男孩和女孩的穆斯林嬰兒名字，附有阿拉伯原文、音譯、含義和來源。可搜尋、按字母篩選、儲存收藏，還能發現每日一名字——免費，無需註冊。",
+  "id": "/loona-islamic-tools/zh-hant/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
