@@ -1,0 +1,29 @@
+{
+  "name": "Loona – Nume musulmane pentru bebeluși",
+  "short_name": "Nume musulmane pentru bebeluși",
+  "description": "Răsfoiește 1197 de nume musulmane pentru băieți și fete, cu text arab, transliterare, semnificație și origine. Caută, filtrează după literă, salvează favorite și descoperă Numele zilei — gratuit, fără înregistrare.",
+  "id": "/loona-islamic-tools/ro/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
