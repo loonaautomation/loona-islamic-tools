@@ -1,0 +1,29 @@
+{
+  "name": "Loona مسلم بچوں کے نام",
+  "short_name": "مسلم بچوں کے نام",
+  "description": "لڑکوں اور لڑکیوں کے لیے 1197 مسلم بچوں کے نام عربی متن، تلفظ، معنی اور اصل کے ساتھ دیکھیں۔ تلاش کریں، حرف کے لحاظ سے فلٹر کریں، پسندیدہ محفوظ کریں اور آج کا نام دریافت کریں — مفت، سائن اپ کے بغیر۔",
+  "id": "/loona-islamic-tools/ur/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
