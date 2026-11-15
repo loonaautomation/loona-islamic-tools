@@ -1,0 +1,29 @@
+{
+  "name": "Loona – Muslimská dětská jména",
+  "short_name": "Muslimská dětská jména",
+  "description": "Procházejte 1197 muslimských dětských jmen pro chlapce i dívky s arabským textem, transliterací, významem a původem. Vyhledávejte, filtrujte podle písmene, ukládejte oblíbené a objevte jméno dne — zdarma, bez registrace.",
+  "id": "/loona-islamic-tools/cs/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
