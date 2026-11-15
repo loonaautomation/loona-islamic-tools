@@ -1,0 +1,29 @@
+{
+  "name": "Loona أسماء أطفال مسلمين",
+  "short_name": "أسماء أطفال مسلمين",
+  "description": "تصفح 1197 اسمًا مسلمًا للأطفال، للأولاد والبنات، بالنص العربي والنقل الصوتي والمعنى والأصل. ابحث، وصفِّ بحسب الحرف، واحفظ المفضلة واكتشف اسم اليوم — مجانًا، دون تسجيل.",
+  "id": "/loona-islamic-tools/ar/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
