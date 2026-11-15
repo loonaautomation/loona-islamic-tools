@@ -1,0 +1,29 @@
+{
+  "name": "Loona Muslim Baby Names",
+  "short_name": "Muslim Baby Names",
+  "description": "Browse 1197 Muslim baby names for boys and girls with Arabic text, transliteration, meaning and origin. Search, filter by letter, save favourites and discover a Name of the Day — free, no sign-up.",
+  "id": "/loona-islamic-tools/en-gb/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
