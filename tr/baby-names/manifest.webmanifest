@@ -1,0 +1,29 @@
+{
+  "name": "Loona Müslüman Bebek İsimleri",
+  "short_name": "Müslüman Bebek İsimleri",
+  "description": "Erkek ve kız çocuklar için Arapça metin, transliterasyon, anlam ve köken içeren 1197 Müslüman bebek ismine göz atın. Arayın, harfe göre filtreleyin, favorileri kaydedin ve Günün İsmini keşfedin — ücretsiz, kayıtsız.",
+  "id": "/loona-islamic-tools/tr/baby-names/",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#062e2a",
+  "theme_color": "#062e2a",
+  "icons": [
+    {
+      "src": "/loona-islamic-tools/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
