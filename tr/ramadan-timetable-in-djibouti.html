@@ -321,7 +321,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"mwl",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" sonraki":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · sonraki":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · sonraki":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" \u00B7 "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Yöntem: "+P.METHODS.mwl.name+" (İmsak 18°, Yatsı 17°) · İkindi: Şafii (faktör 1) · Konum: "+CITY.name+", "+CITY.country+" · Saat dilimi: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Sonraki namaza kalan: "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" saat "+P.fmt12(t[nextKey])):"Bugünün tüm namaz vakitleri: "+CITY.name+" geçti \u2014 sıradaki yarının İmsak’ı."):"";

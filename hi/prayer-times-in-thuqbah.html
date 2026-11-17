@@ -344,7 +344,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"makkah",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" अगला":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 अगला":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 अगला":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" \u00B7 "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="विधि: "+P.METHODS.makkah.name+" (फ़ज्र 18.5°, इशा मग़रिब के 90 मिनट बाद) \u00B7 अस्र: शाफ़ई (गुणक 1) \u00B7 स्थान: "+CITY.name+", "+CITY.country+" \u00B7 समय-क्षेत्र: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("अगली नमाज़ में बाकी "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" पर "+P.fmt12(t[nextKey])):"आज के सभी नमाज़ समय: "+CITY.name+" बीत चुके हैं \u2014 कल का फ़ज्र अगला है।"):"";

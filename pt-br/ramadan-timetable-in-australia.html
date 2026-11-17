@@ -322,7 +322,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"mwl",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" seguinte":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · seguinte":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · seguinte":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" · "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Método: "+P.METHODS.mwl.name+" (Fajr 18°, Isha 17°) · Asr: Shafi (fator 1) · Localização: "+CITY.name+", "+CITY.country+" · Fuso horário: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Próxima oração em "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" às "+P.fmt12(t[nextKey])):"Todos os horários de oração de hoje em "+CITY.name+" já passaram — o Fajr de amanhã é o seguinte."):"";

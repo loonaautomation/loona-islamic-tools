@@ -344,7 +344,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"egypt",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" পরবর্তী":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · পরবর্তী":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · পরবর্তী":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" \u00B7 "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="পদ্ধতি: "+P.METHODS.egypt.name+" (Fajr 19.5°, Isha 17.5°) · Asr: Shafi (factor 1) · অবস্থান: "+CITY.name+", "+CITY.country+" · সময়ক্ষেত্র: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("পরবর্তী নামাজ হতে বাকি "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+", সময় "+P.fmt12(t[nextKey])):"আজকের সব নামাজের সময়: "+CITY.name+" পেরিয়ে গেছে \u2014 আগামীকালের ফজর পরবর্তী।"):"";

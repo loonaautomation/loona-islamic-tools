@@ -344,7 +344,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"isna",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" επόμενη":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · επόμενη":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · επόμενη":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" · "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Μέθοδος: "+P.METHODS.isna.name+" (Fajr 15°, Isha 15°) · Asr: Σάφι (συντελεστής 1) · Τοποθεσία: "+CITY.name+", "+CITY.country+" · Ζώνη ώρας: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Επόμενη προσευχή σε "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" στις "+P.fmt12(t[nextKey])):"Όλες οι σημερινές ώρες προσευχής σε "+CITY.name+" έχουν περάσει — επόμενο είναι το Φατζρ του αύριο."):"";

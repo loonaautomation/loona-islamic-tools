@@ -344,7 +344,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"mwl",asr:2});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" следующий":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · следующий":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · следующий":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" · "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Метод: "+P.METHODS.mwl.name+" (Фаджр 18°, Иша 17°) · Аср: Ханафитский (коэффициент 2) · Местоположение: "+CITY.name+", "+CITY.country+" · Часовой пояс: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Следующий намаз через "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" в "+P.fmt12(t[nextKey])):"Все сегодняшние времена намаза в "+CITY.name+" уже прошло — далее завтрашний Фаджр."):"";

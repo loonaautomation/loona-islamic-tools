@@ -321,7 +321,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"egypt",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" neste":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · neste":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" · neste":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" · "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Metode: "+P.METHODS.egypt.name+" (Fajr 19.5°, Isha 17.5°) · Asr: Shafi (faktor 1) · Sted: "+CITY.name+", "+CITY.country+" · Tidssone: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Neste bønn om "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" kl. "+P.fmt12(t[nextKey])):"Alle dagens bønnetider i "+CITY.name+" har passert \u2014 morgendagens Fajr er neste."):"";

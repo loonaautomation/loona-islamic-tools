@@ -321,7 +321,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"karachi",asr:2});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" التالية":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 التالية":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 التالية":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" \u00B7 "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="الطريقة: "+P.METHODS.karachi.name+" (الفجر 18°، العشاء 18°) \u00B7 العصر: حنفي (العامل 2) \u00B7 الموقع: "+CITY.name+", "+CITY.country+" \u00B7 المنطقة الزمنية: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("الصلاة التالية بعد "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" في "+P.fmt12(t[nextKey])):"كل مواقيت صلاة اليوم في "+CITY.name+" مرت — فجر الغد هو التالي."):"";

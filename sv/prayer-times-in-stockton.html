@@ -344,7 +344,7 @@ function render(){
   var t=P.computeTimes({year:y,month:m,day:d,lat:CITY.lat,lng:CITY.lng,timeZone:CITY.tz,method:"isna",asr:1});
   var isToday=(v===todayIso);var nowMin=cityNowMin();var nextKey=null;
   if(isToday){for(var i=0;i<NAMES.length;i++){var k=NAMES[i][1];if(t[k+"Raw"]*60>nowMin){nextKey=k;break}}}
-  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" nästa":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 nästa":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
+  document.getElementById("cTimes").innerHTML=NAMES.map(function(n){return "<div class=\"tcell"+(n[1]===nextKey?" next":"")+"\"><div class=\"tn\">"+n[0]+(n[1]===nextKey?" \u00B7 nästa":"")+"</div><div class=\"tv\">"+t[n[1]]+"</div><div class=\"tv12\">"+P.fmt12(t[n[1]])+"</div></div>"}).join("");
   document.getElementById("cDateLine").textContent=longDate(y,m,d)+" \u00B7 "+hijriText(y,m,d);
   document.getElementById("cLine").textContent="Metod: "+P.METHODS.isna.name+" (Fajr 15°, Isha 15°) \u00B7 Asr: Shafi (faktor 1) \u00B7 Plats: "+CITY.name+", "+CITY.country+" \u00B7 Tidszon: "+CITY.tz;
   document.getElementById("cNext").textContent=isToday?(nextKey?("Nästa bön om "+CITY.name+": "+nextKey.charAt(0).toUpperCase()+nextKey.slice(1)+" kl. "+P.fmt12(t[nextKey])):"Alla dagens bönetider i "+CITY.name+" har passerat \u2014 morgondagens Fajr är nästa."):"";
