@@ -1,7 +1,7 @@
 {
   "name": "Loona Czas modlitwy według krajów",
   "short_name": "Czas modlitwy według krajów",
-  "description": "Czasy modlitw dla 867 miast na całym świecie, pogrupowanych według kraju: Fajr, wschód słońca, Dhuhr, Asr, Maghrib i Isza na dziś, rozkłady na cały miesiąc, kierunek kibla oraz rozkłady ramadanu 2027 według kraju.",
+  "description": "Czasy modlitw dla 871 miast na całym świecie, pogrupowanych według kraju: Fajr, wschód słońca, Dhuhr, Asr, Maghrib i Isza na dziś, rozkłady na cały miesiąc, kierunek kibla oraz rozkłady ramadanu 2027 według kraju.",
   "id": "/loona-islamic-tools/pl/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",

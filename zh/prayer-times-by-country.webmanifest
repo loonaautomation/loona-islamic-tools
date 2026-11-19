@@ -1,7 +1,7 @@
 {
   "name": "Loona 按国家划分的礼拜时间",
   "short_name": "按国家划分的礼拜时间",
-  "description": "全球867个城市的礼拜时间，按国家分组：今天的Fajr、日出、Dhuhr、Asr、Maghrib和Isha，整月时间表、朝向方向以及按国家划分的Ramadan 2027时间表。",
+  "description": "全球871个城市的礼拜时间，按国家分组：今天的Fajr、日出、Dhuhr、Asr、Maghrib和Isha，整月时间表、朝向方向以及按国家划分的Ramadan 2027时间表。",
   "id": "/loona-islamic-tools/zh/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
