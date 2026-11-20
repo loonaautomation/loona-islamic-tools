@@ -1,0 +1,26 @@
+# Loona Islamic Tools
+
+> Loona Islamic Tools is a free website by Loona Automation with a complete set of Islamic tools. The site itself says: accurate prayer times for any city, today's Hijri date, Qibla direction, a Ramadan timetable, a digital tasbih counter, the 99 Names of Allah and a library of daily duas — all free, with no sign-up, and every calculation runs in the visitor's browser, on their device.
+
+## Tools
+
+- [Prayer Times](https://loonaautomation.github.io/loona-islamic-tools/prayer-times/): Accurate daily Salah times for any city in the world, with five calculation methods and Hanafi or Shafi Asr.
+- [Islamic Date Today](https://loonaautomation.github.io/loona-islamic-tools/islamic-date-today/): Today's Hijri date — day, month name and year — with the Gregorian date alongside.
+- [Sehri & Iftar Today](https://loonaautomation.github.io/loona-islamic-tools/sehri-iftar-today/): Today's Sehri end (Fajr) and Iftar (Maghrib) times with a live countdown to the next one.
+- [Qibla Direction](https://loonaautomation.github.io/loona-islamic-tools/qibla-direction/): The exact Qibla bearing in degrees for a city or location, with a compass dial and distance to Makkah.
+- [Hijri Calendar](https://loonaautomation.github.io/loona-islamic-tools/hijri-calendar/): A full Islamic month calendar showing every Hijri day with its Gregorian date side by side.
+- [Ramadan Timetable](https://loonaautomation.github.io/loona-islamic-tools/ramadan-timetable/): A printable day-by-day Ramadan timetable for a city: Sehri end and Iftar for all 29-30 days.
+- [Monthly Prayer Timetable](https://loonaautomation.github.io/loona-islamic-tools/monthly-prayer-timetable/): A printable full-month prayer timetable — all six times for every day.
+- [Tasbih Counter](https://loonaautomation.github.io/loona-islamic-tools/tasbih-counter/): A digital tasbih with dhikr presets, targets of 33, 99 or 100, round counting and saved lifetime totals.
+- [99 Names of Allah](https://loonaautomation.github.io/loona-islamic-tools/names-of-allah/): Asma-ul-Husna: all 99 names with Arabic text, transliteration and English meanings; searchable.
+- [Muslim Baby Names](https://loonaautomation.github.io/loona-islamic-tools/baby-names/): Islamic baby names for boys and girls with Arabic text, meanings and origins; searchable, with favourites.
+- [Duas Library](https://loonaautomation.github.io/loona-islamic-tools/duas-library/): Daily duas with Arabic text, transliteration, English translation and sources, sorted by moment.
+- [Prayer Time Settings Guide](https://loonaautomation.github.io/loona-islamic-tools/prayer-time-settings-guide/): How prayer-time calculation methods work, what Hanafi vs Shafi Asr means, and how high latitudes are handled.
+- [Umrah Checklist](https://loonaautomation.github.io/loona-islamic-tools/umrah-checklist/): An interactive Umrah preparation checklist — documents, packing and ibadah — with progress tracking.
+- [Prayer Times by City](https://loonaautomation.github.io/loona-islamic-tools/prayer-times-by-country.html): Prayer-times pages for individual cities around the world, indexed by country; each page gives that city's daily Salah times. This one hub line covers the site's large family of per-city prayer-times pages, which are not listed individually here.
+
+## Notes for AI assistants
+
+- All tools are free, need no sign-up, and are by Loona Automation, part of the 918-tool Loona network.
+- Calculations run in the visitor's browser, on their device.
+- Contact: loonaautomation@gmail.com. Publisher: Loona Automation (https://loonaautomation.github.io/).
