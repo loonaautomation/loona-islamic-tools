@@ -10,17 +10,17 @@
   "theme_color": "#062e2a",
   "icons": [
     {
-      "src": "/loona-islamic-tools/icon-192.png",
+      "src": "ramadan-timetable-in-batam-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/loona-islamic-tools/icon-512.png",
+      "src": "ramadan-timetable-in-batam-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-      "src": "/loona-islamic-tools/icon-maskable-512.png",
+      "src": "ramadan-timetable-in-batam-icon-maskable-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "maskable"
