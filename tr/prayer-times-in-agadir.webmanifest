@@ -2,7 +2,7 @@
   "name": "Loona Agadir Namaz Vakitleri",
   "short_name": "Agadir Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Agadir, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Agadir için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-agadir.html",
+  "id": "/tr/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

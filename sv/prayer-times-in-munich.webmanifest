@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Munich",
   "short_name": "Bönetider i Munich",
   "description": "Dagens bönetider i München, Tyskland: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för München.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-munich.html",
+  "id": "/sv/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

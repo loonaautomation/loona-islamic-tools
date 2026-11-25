@@ -2,7 +2,7 @@
   "name": "Loona Kolkata の礼拝時刻",
   "short_name": "Kolkata の礼拝時刻",
   "description": "Kolkata（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Kolkata についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kolkata.html",
+  "id": "/ja/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

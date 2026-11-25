@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Indore Today",
   "short_name": "Prayer Times in Indore Today",
   "description": "Today's prayer times in Indore, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Indore.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-indore.html",
+  "id": "/en-gb/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

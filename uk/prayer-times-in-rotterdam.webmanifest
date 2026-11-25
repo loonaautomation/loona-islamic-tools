@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Rotterdam",
   "short_name": "Час намазу в Rotterdam",
   "description": "Сьогоднішній час намазу в Rotterdam, Нідерланди: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Rotterdam.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-rotterdam.html",
+  "id": "/uk/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

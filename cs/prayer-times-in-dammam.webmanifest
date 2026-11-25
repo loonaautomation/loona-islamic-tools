@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dammam",
   "short_name": "Časy modliteb v Dammam",
   "description": "Dnešní časy modliteb v Dammam, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Dammam.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dammam.html",
+  "id": "/cs/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

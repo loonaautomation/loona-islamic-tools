@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Philadelphia",
   "short_name": "مواقيت الصلاة في Philadelphia",
   "description": "مواقيت الصلاة اليوم في Philadelphia، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـPhiladelphia.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-philadelphia.html",
+  "id": "/ar/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

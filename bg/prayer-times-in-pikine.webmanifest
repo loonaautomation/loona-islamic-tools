@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pikine",
   "short_name": "Часове за намаз в Pikine",
   "description": "Днешните часове за намаз в Pikine, Сенегал: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Pikine.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pikine.html",
+  "id": "/bg/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

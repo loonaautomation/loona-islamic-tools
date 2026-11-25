@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Indianapolis",
   "short_name": "Horários de Oração em Indianapolis",
   "description": "Horários de oração de hoje em Indianapolis, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Indianapolis.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-indianapolis.html",
+  "id": "/pt-br/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

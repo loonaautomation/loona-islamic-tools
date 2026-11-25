@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ségou",
   "short_name": "เวลาละหมาดใน Ségou",
   "description": "เวลาละหมาดวันนี้ใน Ségou, Mali: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ségou",
-  "id": "/loona-islamic-tools/th/prayer-times-in-segou.html",
+  "id": "/th/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Borivli",
   "short_name": "Gebetszeiten in Borivli",
   "description": "Die heutigen Gebetszeiten in Borivli, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Borivli.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-borivli.html",
+  "id": "/de/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

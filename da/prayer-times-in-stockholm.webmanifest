@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Stockholm",
   "short_name": "Bønnetider i Stockholm",
   "description": "Dagens bønnetider i Stockholm, Sverige: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Stockholm.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-stockholm.html",
+  "id": "/da/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

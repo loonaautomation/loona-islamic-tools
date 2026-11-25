@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tawau",
   "short_name": "Heures de prière à Tawau",
   "description": "Les heures de prière d’aujourd’hui à Tawau, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Tawau.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tawau.html",
+  "id": "/fr/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

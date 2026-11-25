@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jambi City",
   "short_name": "זמני תפילה בעיר Jambi City",
   "description": "זמני התפילה של היום בעיר Jambi City, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Jambi City.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jambi-city.html",
+  "id": "/he/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

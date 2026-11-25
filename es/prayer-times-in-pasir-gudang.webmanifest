@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Pasir Gudang",
   "short_name": "Horarios de oración en Pasir Gudang",
   "description": "Horarios de oración de hoy en Pasir Gudang, Malasia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Pasir Gudang.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-pasir-gudang.html",
+  "id": "/es/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

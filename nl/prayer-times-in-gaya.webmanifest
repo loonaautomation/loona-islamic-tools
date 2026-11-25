@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Gaya",
   "short_name": "Gebedstijden in Gaya",
   "description": "De gebedstijden van vandaag in Gaya, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Gaya.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-gaya.html",
+  "id": "/nl/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

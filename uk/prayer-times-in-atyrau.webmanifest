@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Atyrau",
   "short_name": "Час намазу в Atyrau",
   "description": "Сьогоднішній час намазу в Atyrau, Казахстан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Atyrau.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-atyrau.html",
+  "id": "/uk/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

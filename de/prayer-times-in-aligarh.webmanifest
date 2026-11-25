@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Alīgarh",
   "short_name": "Gebetszeiten in Alīgarh",
   "description": "Die heutigen Gebetszeiten in Alīgarh, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Alīgarh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-aligarh.html",
+  "id": "/de/prayer-times-in-aligarh.html",
   "start_url": "./prayer-times-in-aligarh.html",
   "scope": "./prayer-times-in-aligarh.html",
   "display": "standalone",

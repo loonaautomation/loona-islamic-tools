@@ -2,7 +2,7 @@
   "name": "Loona Rohtak imaidői",
   "short_name": "Rohtak imaidői",
   "description": "A mai imaidők: Rohtak, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Rohtak számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-rohtak.html",
+  "id": "/hu/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cimahi Today",
   "short_name": "Prayer Times in Cimahi Today",
   "description": "Today's prayer times in Cimahi, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Cimahi.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-cimahi.html",
+  "id": "/en-gb/prayer-times-in-cimahi.html",
   "start_url": "./prayer-times-in-cimahi.html",
   "scope": "./prayer-times-in-cimahi.html",
   "display": "standalone",

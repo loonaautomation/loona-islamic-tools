@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Boston",
   "short_name": "Время намаза в городе Boston",
   "description": "Время намаза на сегодня: Boston, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Boston.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-boston.html",
+  "id": "/ru/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

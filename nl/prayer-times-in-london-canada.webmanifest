@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in London (Canada)",
   "short_name": "Gebedstijden in London (Canada)",
   "description": "De gebedstijden van vandaag in London, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor London.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-london-canada.html",
+  "id": "/nl/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

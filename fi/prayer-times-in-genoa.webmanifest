@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Genoa",
   "short_name": "Rukousajat: Genoa",
   "description": "Tämän päivän rukousajat paikassa Genoa, Italia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Genoa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-genoa.html",
+  "id": "/fi/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

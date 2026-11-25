@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Karaj",
   "short_name": "Gebedstijden in Karaj",
   "description": "De gebedstijden van vandaag in Karaj, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Karaj.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-karaj.html",
+  "id": "/nl/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

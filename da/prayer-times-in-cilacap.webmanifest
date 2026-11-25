@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cilacap",
   "short_name": "Bønnetider i Cilacap",
   "description": "Dagens bønnetider i Cilacap, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Cilacap.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-cilacap.html",
+  "id": "/da/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

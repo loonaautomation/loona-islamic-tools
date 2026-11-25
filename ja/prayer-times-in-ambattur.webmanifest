@@ -2,7 +2,7 @@
   "name": "Loona Ambattur の礼拝時刻",
   "short_name": "Ambattur の礼拝時刻",
   "description": "Ambattur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Ambattur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ambattur.html",
+  "id": "/ja/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

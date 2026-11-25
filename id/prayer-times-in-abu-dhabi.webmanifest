@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Abu Dhabi",
   "short_name": "Waktu Salat di Abu Dhabi",
   "description": "Waktu salat hari ini di Abu Dhabi, UEA: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Abu Dhabi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-abu-dhabi.html",
+  "id": "/id/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

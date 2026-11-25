@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Batna",
   "short_name": "Bönetider i Batna",
   "description": "Dagens bönetider i Batna, Algeriet: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Batna.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-batna.html",
+  "id": "/sv/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

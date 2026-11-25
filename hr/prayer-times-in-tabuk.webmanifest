@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tabuk",
   "short_name": "Vremena namaza u gradu Tabuk",
   "description": "Današnja vremena namaza u gradu Tabuk, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Tabuk.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tabuk.html",
+  "id": "/hr/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

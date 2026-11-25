@@ -2,7 +2,7 @@
   "name": "Loona Månedlig bønnetidsplan",
   "short_name": "Månedlig bønnetidsplan",
   "description": "Generér en udskriftsvenlig månedlig bønnetidsplan for enhver by: alle seks tider for hele måneden med din beregningsmetode og Asr-skole, gratis og privat.",
-  "id": "/loona-islamic-tools/da/monthly-prayer-timetable/",
+  "id": "/da/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

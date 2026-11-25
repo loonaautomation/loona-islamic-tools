@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Puducherry",
   "short_name": "Časy modliteb v Puducherry",
   "description": "Dnešní časy modliteb v Puducherry, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Puducherry.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-puducherry.html",
+  "id": "/cs/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

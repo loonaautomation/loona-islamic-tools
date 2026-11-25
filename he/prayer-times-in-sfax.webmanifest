@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sfax",
   "short_name": "זמני תפילה בעיר Sfax",
   "description": "זמני התפילה של היום בעיר Sfax, תוניסיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sfax.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sfax.html",
+  "id": "/he/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

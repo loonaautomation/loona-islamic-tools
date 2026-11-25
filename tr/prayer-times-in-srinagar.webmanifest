@@ -2,7 +2,7 @@
   "name": "Loona Srinagar Namaz Vakitleri",
   "short_name": "Srinagar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Srinagar, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Srinagar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-srinagar.html",
+  "id": "/tr/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Marrakesh",
   "short_name": "Vremena namaza u gradu Marrakesh",
   "description": "Današnja vremena namaza u gradu Marrakesh, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Marrakesh.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-marrakesh.html",
+  "id": "/hr/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

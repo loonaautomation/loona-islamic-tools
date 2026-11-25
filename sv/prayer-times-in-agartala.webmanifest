@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Agartala",
   "short_name": "Bönetider i Agartala",
   "description": "Dagens bönetider i Agartala, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Agartala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-agartala.html",
+  "id": "/sv/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

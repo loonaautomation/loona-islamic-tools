@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Sunshine Coast",
   "short_name": "Horários de Oração em Sunshine Coast",
   "description": "Horários de oração de hoje em Sunshine Coast, Austrália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Sunshine Coast.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-sunshine-coast.html",
+  "id": "/pt/prayer-times-in-sunshine-coast.html",
   "start_url": "./prayer-times-in-sunshine-coast.html",
   "scope": "./prayer-times-in-sunshine-coast.html",
   "display": "standalone",

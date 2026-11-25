@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Washington",
   "short_name": "Ώρες Προσευχής στο Washington",
   "description": "Οι σημερινές ώρες προσευχής στο Washington, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Washington.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-washington.html",
+  "id": "/el/prayer-times-in-washington.html",
   "start_url": "./prayer-times-in-washington.html",
   "scope": "./prayer-times-in-washington.html",
   "display": "standalone",

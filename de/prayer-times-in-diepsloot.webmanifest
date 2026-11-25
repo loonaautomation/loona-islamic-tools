@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Diepsloot",
   "short_name": "Gebetszeiten in Diepsloot",
   "description": "Die heutigen Gebetszeiten in Diepsloot, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Diepsloot.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-diepsloot.html",
+  "id": "/de/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

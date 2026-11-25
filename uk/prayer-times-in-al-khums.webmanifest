@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Al Khums",
   "short_name": "Час намазу в Al Khums",
   "description": "Сьогоднішній час намазу в Al Khums, Лівія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Al Khums.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-al-khums.html",
+  "id": "/uk/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

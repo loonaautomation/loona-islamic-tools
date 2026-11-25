@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sahāranpur",
   "short_name": "Časy modliteb v Sahāranpur",
   "description": "Dnešní časy modliteb v Sahāranpur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Sahāranpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-saharanpur.html",
+  "id": "/cs/prayer-times-in-saharanpur.html",
   "start_url": "./prayer-times-in-saharanpur.html",
   "scope": "./prayer-times-in-saharanpur.html",
   "display": "standalone",

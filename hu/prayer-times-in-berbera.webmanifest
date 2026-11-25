@@ -2,7 +2,7 @@
   "name": "Loona Berbera imaidői",
   "short_name": "Berbera imaidői",
   "description": "A mai imaidők: Berbera, Szomália: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Berbera számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-berbera.html",
+  "id": "/hu/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

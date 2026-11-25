@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Antwerp",
   "short_name": "זמני תפילה בעיר Antwerp",
   "description": "זמני התפילה של היום בעיר Antwerp, בלגיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Antwerp.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-antwerp.html",
+  "id": "/he/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

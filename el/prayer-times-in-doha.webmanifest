@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Doha",
   "short_name": "Ώρες Προσευχής στο Doha",
   "description": "Οι σημερινές ώρες προσευχής στο Doha, Κατάρ: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Doha.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-doha.html",
+  "id": "/el/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

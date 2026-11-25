@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Erbil Today",
   "short_name": "Prayer Times in Erbil Today",
   "description": "Today's prayer times in Erbil, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Erbil.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-erbil.html",
+  "id": "/en-gb/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

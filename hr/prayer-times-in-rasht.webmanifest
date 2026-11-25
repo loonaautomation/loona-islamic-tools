@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rasht",
   "short_name": "Vremena namaza u gradu Rasht",
   "description": "Današnja vremena namaza u gradu Rasht, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Rasht.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rasht.html",
+  "id": "/hr/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

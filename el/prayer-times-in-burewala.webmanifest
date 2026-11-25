@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Burewala",
   "short_name": "Ώρες Προσευχής στο Burewala",
   "description": "Οι σημερινές ώρες προσευχής στο Burewala, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Burewala.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-burewala.html",
+  "id": "/el/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

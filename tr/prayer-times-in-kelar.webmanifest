@@ -2,7 +2,7 @@
   "name": "Loona Kelar Namaz Vakitleri",
   "short_name": "Kelar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kelar, Irak: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kelar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kelar.html",
+  "id": "/tr/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

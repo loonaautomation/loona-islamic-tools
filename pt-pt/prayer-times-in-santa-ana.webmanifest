@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Santa Ana",
   "short_name": "Horários de Oração em Santa Ana",
   "description": "Horários de oração de hoje em Santa Ana, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Santa Ana.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-santa-ana.html",
+  "id": "/pt-pt/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

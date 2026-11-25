@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Şabyā",
   "short_name": "Время намаза в городе Şabyā",
   "description": "Время намаза на сегодня: Şabyā, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Şabyā.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sabya.html",
+  "id": "/ru/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

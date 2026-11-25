@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Petropavl",
   "short_name": "Gebedstijden in Petropavl",
   "description": "De gebedstijden van vandaag in Petropavl, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Petropavl.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-petropavl.html",
+  "id": "/nl/prayer-times-in-petropavl.html",
   "start_url": "./prayer-times-in-petropavl.html",
   "scope": "./prayer-times-in-petropavl.html",
   "display": "standalone",

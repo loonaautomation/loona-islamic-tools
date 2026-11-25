@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Virār",
   "short_name": "Ώρες Προσευχής στο Virār",
   "description": "Οι σημερινές ώρες προσευχής στο Virār, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Virār.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-virar.html",
+  "id": "/el/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

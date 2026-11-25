@@ -2,7 +2,7 @@
   "name": "Loona Dadu imaidői",
   "short_name": "Dadu imaidői",
   "description": "A mai imaidők: Dadu, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Dadu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dadu.html",
+  "id": "/hu/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

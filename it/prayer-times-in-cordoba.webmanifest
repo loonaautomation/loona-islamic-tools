@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Córdoba",
   "short_name": "Orari di preghiera a Córdoba",
   "description": "Orari di preghiera di oggi a Córdoba, Spagna: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Córdoba.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-cordoba.html",
+  "id": "/it/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

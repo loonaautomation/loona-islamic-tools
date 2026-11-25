@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Johannesburg",
   "short_name": "Heures de prière à Johannesburg",
   "description": "Les heures de prière d’aujourd’hui à Johannesburg, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Johannesburg.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-johannesburg.html",
+  "id": "/fr/prayer-times-in-johannesburg.html",
   "start_url": "./prayer-times-in-johannesburg.html",
   "scope": "./prayer-times-in-johannesburg.html",
   "display": "standalone",

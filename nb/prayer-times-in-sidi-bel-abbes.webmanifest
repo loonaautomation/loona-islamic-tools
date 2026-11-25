@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sidi Bel Abbes",
   "short_name": "Bønnetider i Sidi Bel Abbes",
   "description": "Dagens bønnetider i Sidi Bel Abbes, Algerie: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/nb/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

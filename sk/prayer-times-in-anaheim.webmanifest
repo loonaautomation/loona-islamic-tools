@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Anaheim",
   "short_name": "Časy modlitieb v Anaheim",
   "description": "Dnešné časy modlitieb v Anaheim, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Anaheim.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-anaheim.html",
+  "id": "/sk/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

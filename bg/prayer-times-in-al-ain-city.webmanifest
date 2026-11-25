@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Ain City",
   "short_name": "Часове за намаз в Al Ain City",
   "description": "Днешните часове за намаз в Al Ain City, Обединени арабски емирства: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Al Ain City.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-ain-city.html",
+  "id": "/bg/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

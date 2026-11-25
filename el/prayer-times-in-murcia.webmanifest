@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Murcia",
   "short_name": "Ώρες Προσευχής στο Murcia",
   "description": "Οι σημερινές ώρες προσευχής στο Murcia, Ισπανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Murcia.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-murcia.html",
+  "id": "/el/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

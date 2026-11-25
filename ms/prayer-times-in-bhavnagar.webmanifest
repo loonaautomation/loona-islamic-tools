@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bhavnagar",
   "short_name": "Waktu Solat di Bhavnagar",
   "description": "Waktu solat hari ini di Bhavnagar, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bhavnagar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bhavnagar.html",
+  "id": "/ms/prayer-times-in-bhavnagar.html",
   "start_url": "./prayer-times-in-bhavnagar.html",
   "scope": "./prayer-times-in-bhavnagar.html",
   "display": "standalone",

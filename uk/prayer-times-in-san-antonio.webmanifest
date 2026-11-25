@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в San Antonio",
   "short_name": "Час намазу в San Antonio",
   "description": "Сьогоднішній час намазу в San Antonio, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для San Antonio.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-san-antonio.html",
+  "id": "/uk/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

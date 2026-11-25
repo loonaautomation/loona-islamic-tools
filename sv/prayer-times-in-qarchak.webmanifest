@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Qarchak",
   "short_name": "Bönetider i Qarchak",
   "description": "Dagens bönetider i Qarchak, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Qarchak.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-qarchak.html",
+  "id": "/sv/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

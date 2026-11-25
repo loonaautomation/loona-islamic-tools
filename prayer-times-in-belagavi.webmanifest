@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Belagavi",
   "short_name": "Prayer Times in Belagavi",
   "description": "Today's prayer times in Belagavi, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Belagavi.",
-  "id": "/loona-islamic-tools/prayer-times-in-belagavi.html",
+  "id": "/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Batikent imaidői",
   "short_name": "Batikent imaidői",
   "description": "A mai imaidők: Batikent, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Batikent számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-batikent.html",
+  "id": "/hu/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

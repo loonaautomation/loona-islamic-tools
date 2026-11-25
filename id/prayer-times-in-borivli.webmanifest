@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Borivli",
   "short_name": "Waktu Salat di Borivli",
   "description": "Waktu salat hari ini di Borivli, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Borivli.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-borivli.html",
+  "id": "/id/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

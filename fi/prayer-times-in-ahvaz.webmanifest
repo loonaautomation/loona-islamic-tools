@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ahvaz",
   "short_name": "Rukousajat: Ahvaz",
   "description": "Tämän päivän rukousajat paikassa Ahvaz, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ahvaz.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ahvaz.html",
+  "id": "/fi/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

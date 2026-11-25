@@ -2,7 +2,7 @@
   "name": "Loona Cairo imaidői",
   "short_name": "Cairo imaidői",
   "description": "A mai imaidők: Cairo, Egyiptom: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Cairo számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-cairo.html",
+  "id": "/hu/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Adelaide",
   "short_name": "Bönetider i Adelaide",
   "description": "Dagens bönetider i Adelaide, Australien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Adelaide.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-adelaide.html",
+  "id": "/sv/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

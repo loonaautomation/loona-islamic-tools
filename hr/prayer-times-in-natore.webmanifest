@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Natore",
   "short_name": "Vremena namaza u gradu Natore",
   "description": "Današnja vremena namaza u gradu Natore, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Natore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-natore.html",
+  "id": "/hr/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

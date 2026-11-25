@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gaya",
   "short_name": "مواقيت الصلاة في Gaya",
   "description": "مواقيت الصلاة اليوم في Gaya، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـGaya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gaya.html",
+  "id": "/ar/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

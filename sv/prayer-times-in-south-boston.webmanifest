@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i South Boston",
   "short_name": "Bönetider i South Boston",
   "description": "Dagens bönetider i South Boston, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för South Boston.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-south-boston.html",
+  "id": "/sv/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

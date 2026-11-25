@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Comilla",
   "short_name": "Gebetszeiten in Comilla",
   "description": "Die heutigen Gebetszeiten in Comilla, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Comilla.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-comilla.html",
+  "id": "/de/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

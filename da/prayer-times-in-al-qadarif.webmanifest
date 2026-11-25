@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Qadarif",
   "short_name": "Bønnetider i Al Qadarif",
   "description": "Dagens bønnetider i Al Qadarif, Sudan: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Al Qadarif.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-al-qadarif.html",
+  "id": "/da/prayer-times-in-al-qadarif.html",
   "start_url": "./prayer-times-in-al-qadarif.html",
   "scope": "./prayer-times-in-al-qadarif.html",
   "display": "standalone",

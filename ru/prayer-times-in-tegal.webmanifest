@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Tegal",
   "short_name": "Время намаза в городе Tegal",
   "description": "Время намаза на сегодня: Tegal, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Tegal.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-tegal.html",
+  "id": "/ru/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

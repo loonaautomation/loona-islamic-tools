@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Mashhad",
   "short_name": "Horarios de oración en Mashhad",
   "description": "Horarios de oración de hoy en Mashhad, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Mashhad.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-mashhad.html",
+  "id": "/es/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

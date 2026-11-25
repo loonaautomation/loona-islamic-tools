@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ipoh",
   "short_name": "Bönetider i Ipoh",
   "description": "Dagens bönetider i Ipoh, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ipoh.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ipoh.html",
+  "id": "/sv/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Virginia Beach",
   "short_name": "Horarios de oración en Virginia Beach",
   "description": "Horarios de oración de hoy en Virginia Beach, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Virginia Beach.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-virginia-beach.html",
+  "id": "/es/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Montréal",
   "short_name": "Czasy modlitw w miejscowości Montréal",
   "description": "Dzisiejsze czasy modlitw w miejscowości Montréal, kraj Kanada: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Montréal.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-montreal.html",
+  "id": "/pl/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

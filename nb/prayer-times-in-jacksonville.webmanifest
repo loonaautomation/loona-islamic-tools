@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jacksonville",
   "short_name": "Bønnetider i Jacksonville",
   "description": "Dagens bønnetider i Jacksonville, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Jacksonville.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jacksonville.html",
+  "id": "/nb/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

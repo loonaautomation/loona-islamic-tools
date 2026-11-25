@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Madrid",
   "short_name": "Час намазу в Madrid",
   "description": "Сьогоднішній час намазу в Madrid, Іспанія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Madrid.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-madrid.html",
+  "id": "/uk/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

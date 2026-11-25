@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Winnipeg",
   "short_name": "Gebetszeiten in Winnipeg",
   "description": "Die heutigen Gebetszeiten in Winnipeg, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Winnipeg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-winnipeg.html",
+  "id": "/de/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

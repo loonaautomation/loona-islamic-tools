@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Córdoba",
   "short_name": "Časy modlitieb v Córdoba",
   "description": "Dnešné časy modlitieb v Córdoba, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Córdoba.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cordoba.html",
+  "id": "/sk/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

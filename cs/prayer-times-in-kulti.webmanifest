@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kulti",
   "short_name": "Časy modliteb v Kulti",
   "description": "Dnešní časy modliteb v Kulti, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kulti.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kulti.html",
+  "id": "/cs/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

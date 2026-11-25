@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Arifwala",
   "short_name": "Časy modliteb v Arifwala",
   "description": "Dnešní časy modliteb v Arifwala, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Arifwala.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-arifwala.html",
+  "id": "/cs/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

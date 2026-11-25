@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in El Fasher",
   "short_name": "Gebetszeiten in El Fasher",
   "description": "Die heutigen Gebetszeiten in El Fasher, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für El Fasher.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-el-fasher.html",
+  "id": "/de/prayer-times-in-el-fasher.html",
   "start_url": "./prayer-times-in-el-fasher.html",
   "scope": "./prayer-times-in-el-fasher.html",
   "display": "standalone",

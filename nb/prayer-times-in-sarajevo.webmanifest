@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sarajevo",
   "short_name": "Bønnetider i Sarajevo",
   "description": "Dagens bønnetider i Sarajevo, Bosnia-Hercegovina: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sarajevo.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sarajevo.html",
+  "id": "/nb/prayer-times-in-sarajevo.html",
   "start_url": "./prayer-times-in-sarajevo.html",
   "scope": "./prayer-times-in-sarajevo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v New Orleans",
   "short_name": "Časy modlitieb v New Orleans",
   "description": "Dnešné časy modlitieb v New Orleans, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre New Orleans.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-new-orleans.html",
+  "id": "/sk/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

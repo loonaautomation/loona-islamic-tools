@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kyzylorda",
   "short_name": "Waktu Solat di Kyzylorda",
   "description": "Waktu solat hari ini di Kyzylorda, Kazakhstan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kyzylorda.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kyzylorda.html",
+  "id": "/ms/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

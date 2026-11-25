@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Yunusobod",
   "short_name": "Orari di preghiera a Yunusobod",
   "description": "Orari di preghiera di oggi a Yunusobod, Uzbekistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Yunusobod.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-yunusobod.html",
+  "id": "/it/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

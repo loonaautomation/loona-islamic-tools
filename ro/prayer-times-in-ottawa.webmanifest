@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ottawa",
   "short_name": "Ore de rugăciune în Ottawa",
   "description": "Orele de rugăciune de azi în Ottawa, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Ottawa.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-ottawa.html",
+  "id": "/ro/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

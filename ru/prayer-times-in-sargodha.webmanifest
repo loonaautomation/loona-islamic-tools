@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sargodha",
   "short_name": "Время намаза в городе Sargodha",
   "description": "Время намаза на сегодня: Sargodha, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Sargodha.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sargodha.html",
+  "id": "/ru/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tulsa",
   "short_name": "Bönetider i Tulsa",
   "description": "Dagens bönetider i Tulsa, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Tulsa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tulsa.html",
+  "id": "/sv/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

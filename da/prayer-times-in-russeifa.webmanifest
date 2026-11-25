@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Russeifa",
   "short_name": "Bønnetider i Russeifa",
   "description": "Dagens bønnetider i Russeifa, Jordan: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Russeifa.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-russeifa.html",
+  "id": "/da/prayer-times-in-russeifa.html",
   "start_url": "./prayer-times-in-russeifa.html",
   "scope": "./prayer-times-in-russeifa.html",
   "display": "standalone",

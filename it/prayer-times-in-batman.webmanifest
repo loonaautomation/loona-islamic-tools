@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Batman",
   "short_name": "Orari di preghiera a Batman",
   "description": "Orari di preghiera di oggi a Batman, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Batman.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-batman.html",
+  "id": "/it/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

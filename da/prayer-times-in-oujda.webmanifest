@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Oujda",
   "short_name": "Bønnetider i Oujda",
   "description": "Dagens bønnetider i Oujda, Marokko: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Oujda.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-oujda.html",
+  "id": "/da/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

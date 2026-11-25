@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sungai Petani",
   "short_name": "Gebetszeiten in Sungai Petani",
   "description": "Die heutigen Gebetszeiten in Sungai Petani, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sungai Petani.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sungai-petani.html",
+  "id": "/de/prayer-times-in-sungai-petani.html",
   "start_url": "./prayer-times-in-sungai-petani.html",
   "scope": "./prayer-times-in-sungai-petani.html",
   "display": "standalone",

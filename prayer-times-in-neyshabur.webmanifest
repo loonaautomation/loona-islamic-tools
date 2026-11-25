@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Neyshābūr",
   "short_name": "Prayer Times in Neyshābūr",
   "description": "Today's prayer times in Neyshābūr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Neyshābūr.",
-  "id": "/loona-islamic-tools/prayer-times-in-neyshabur.html",
+  "id": "/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

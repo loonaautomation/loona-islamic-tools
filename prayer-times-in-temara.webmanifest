@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Temara",
   "short_name": "Prayer Times in Temara",
   "description": "Today's prayer times in Temara, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Temara.",
-  "id": "/loona-islamic-tools/prayer-times-in-temara.html",
+  "id": "/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

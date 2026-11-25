@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Бельгия, 2027 (1448)",
   "short_name": "Расписание Рамадана: Бельгия, 2027 (1448)",
   "description": "Расписание Рамадана 2027 года для страны Бельгия: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для города Brussels. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-belgium.html",
+  "id": "/ru/ramadan-timetable-in-belgium.html",
   "start_url": "./ramadan-timetable-in-belgium.html",
   "scope": "./ramadan-timetable-in-belgium.html",
   "display": "standalone",

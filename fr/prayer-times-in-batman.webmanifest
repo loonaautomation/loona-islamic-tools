@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Batman",
   "short_name": "Heures de prière à Batman",
   "description": "Les heures de prière d’aujourd’hui à Batman, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Batman.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-batman.html",
+  "id": "/fr/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

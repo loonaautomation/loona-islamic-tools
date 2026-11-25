@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Istaravshan Today",
   "short_name": "Prayer Times in Istaravshan Today",
   "description": "Today's prayer times in Istaravshan, Tajikistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Istaravshan.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-istaravshan.html",
+  "id": "/en-us/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Corpus Christi",
   "short_name": "Orari di preghiera a Corpus Christi",
   "description": "Orari di preghiera di oggi a Corpus Christi, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Corpus Christi.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-corpus-christi.html",
+  "id": "/it/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

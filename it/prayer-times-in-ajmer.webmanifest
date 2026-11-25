@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ajmer",
   "short_name": "Orari di preghiera a Ajmer",
   "description": "Orari di preghiera di oggi a Ajmer, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Ajmer.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ajmer.html",
+  "id": "/it/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

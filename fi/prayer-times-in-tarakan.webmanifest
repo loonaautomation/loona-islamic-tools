@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tarakan",
   "short_name": "Rukousajat: Tarakan",
   "description": "Tämän päivän rukousajat paikassa Tarakan, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tarakan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tarakan.html",
+  "id": "/fi/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Wichita",
   "short_name": "Ώρες Προσευχής στο Wichita",
   "description": "Οι σημερινές ώρες προσευχής στο Wichita, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Wichita.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-wichita.html",
+  "id": "/el/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

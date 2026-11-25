@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Varanasi",
   "short_name": "เวลาละหมาดใน Varanasi",
   "description": "เวลาละหมาดวันนี้ใน Varanasi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Varanasi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-varanasi.html",
+  "id": "/th/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Borūjerd",
   "short_name": "Orari di preghiera a Borūjerd",
   "description": "Orari di preghiera di oggi a Borūjerd, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Borūjerd.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-borujerd.html",
+  "id": "/it/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Amsterdam imaidői",
   "short_name": "Amsterdam imaidői",
   "description": "A mai imaidők: Amsterdam, Hollandia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Amsterdam számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-amsterdam.html",
+  "id": "/hu/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

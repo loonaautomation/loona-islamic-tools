@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Cirebon",
   "short_name": "Часове за намаз в Cirebon",
   "description": "Днешните часове за намаз в Cirebon, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Cirebon.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-cirebon.html",
+  "id": "/bg/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

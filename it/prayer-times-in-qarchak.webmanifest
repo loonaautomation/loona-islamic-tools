@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Qarchak",
   "short_name": "Orari di preghiera a Qarchak",
   "description": "Orari di preghiera di oggi a Qarchak, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Qarchak.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-qarchak.html",
+  "id": "/it/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

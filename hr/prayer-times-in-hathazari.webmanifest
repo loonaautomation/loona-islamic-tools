@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Hāthazāri",
   "short_name": "Vremena namaza u gradu Hāthazāri",
   "description": "Današnja vremena namaza u gradu Hāthazāri, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Hāthazāri.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-hathazari.html",
+  "id": "/hr/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

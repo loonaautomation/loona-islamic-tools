@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ujjain",
   "short_name": "Bønnetider i Ujjain",
   "description": "Dagens bønnetider i Ujjain, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Ujjain.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ujjain.html",
+  "id": "/nb/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

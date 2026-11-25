@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Los Angeles",
   "short_name": "Bønnetider i Los Angeles",
   "description": "Dagens bønnetider i Los Angeles, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Los Angeles.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-los-angeles.html",
+  "id": "/da/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Stuttgart",
   "short_name": "Časy modliteb v Stuttgart",
   "description": "Dnešní časy modliteb v Stuttgart, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Stuttgart.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-stuttgart.html",
+  "id": "/cs/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Belfast의 기도 시간",
   "short_name": "Belfast의 기도 시간",
   "description": "오늘의 기도 시간 — Belfast, 영국: Fajr, 일출, Dhuhr, Asr (Shafi), Maghrib, Isha, 그리고 키블라 방향과 오늘의 히즈리 날짜예요. Muslim World League 방식, Belfast 기준으로 기기에서 실시간 계산해요.",
-  "id": "/loona-islamic-tools/ko/prayer-times-in-belfast.html",
+  "id": "/ko/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

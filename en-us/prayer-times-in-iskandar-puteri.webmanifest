@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Iskandar Puteri Today",
   "short_name": "Prayer Times in Iskandar Puteri Today",
   "description": "Today's prayer times in Iskandar Puteri, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Iskandar Puteri.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-iskandar-puteri.html",
+  "id": "/en-us/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

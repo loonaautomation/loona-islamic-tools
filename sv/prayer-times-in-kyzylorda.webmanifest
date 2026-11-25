@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kyzylorda",
   "short_name": "Bönetider i Kyzylorda",
   "description": "Dagens bönetider i Kyzylorda, Kazakstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kyzylorda.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kyzylorda.html",
+  "id": "/sv/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

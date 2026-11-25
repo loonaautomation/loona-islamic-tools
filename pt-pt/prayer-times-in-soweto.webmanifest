@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Soweto",
   "short_name": "Horários de Oração em Soweto",
   "description": "Horários de oração de hoje em Soweto, África do Sul: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Soweto.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-soweto.html",
+  "id": "/pt-pt/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

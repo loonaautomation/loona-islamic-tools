@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sabzevar",
   "short_name": "مواقيت الصلاة في Sabzevar",
   "description": "مواقيت الصلاة اليوم في Sabzevar، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSabzevar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sabzevar.html",
+  "id": "/ar/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

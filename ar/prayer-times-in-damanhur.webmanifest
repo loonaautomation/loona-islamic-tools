@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Damanhur",
   "short_name": "مواقيت الصلاة في Damanhur",
   "description": "مواقيت الصلاة اليوم في Damanhur، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـDamanhur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-damanhur.html",
+  "id": "/ar/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

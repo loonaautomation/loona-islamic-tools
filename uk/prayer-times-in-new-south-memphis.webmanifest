@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в New South Memphis",
   "short_name": "Час намазу в New South Memphis",
   "description": "Сьогоднішній час намазу в New South Memphis, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для New South Memphis.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-new-south-memphis.html",
+  "id": "/uk/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

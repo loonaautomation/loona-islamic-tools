@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Samsun",
   "short_name": "Gebetszeiten in Samsun",
   "description": "Die heutigen Gebetszeiten in Samsun, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Samsun.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-samsun.html",
+  "id": "/de/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

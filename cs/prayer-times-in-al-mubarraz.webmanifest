@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Al Mubarraz",
   "short_name": "Časy modliteb v Al Mubarraz",
   "description": "Dnešní časy modliteb v Al Mubarraz, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Al Mubarraz.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-al-mubarraz.html",
+  "id": "/cs/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

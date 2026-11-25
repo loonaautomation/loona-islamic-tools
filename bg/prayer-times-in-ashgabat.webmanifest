@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ashgabat",
   "short_name": "Часове за намаз в Ashgabat",
   "description": "Днешните часове за намаз в Ashgabat, Туркменистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ashgabat.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ashgabat.html",
+  "id": "/bg/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

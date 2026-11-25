@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Chattogram",
   "short_name": "זמני תפילה בעיר Chattogram",
   "description": "זמני התפילה של היום בעיר Chattogram, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Chattogram.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-chattogram.html",
+  "id": "/he/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

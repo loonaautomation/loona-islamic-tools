@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Erzurum",
   "short_name": "เวลาละหมาดใน Erzurum",
   "description": "เวลาละหมาดวันนี้ใน Erzurum, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Erzurum",
-  "id": "/loona-islamic-tools/th/prayer-times-in-erzurum.html",
+  "id": "/th/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

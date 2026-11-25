@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mysuru",
   "short_name": "זמני תפילה בעיר Mysuru",
   "description": "זמני התפילה של היום בעיר Mysuru, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Mysuru.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mysuru.html",
+  "id": "/he/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

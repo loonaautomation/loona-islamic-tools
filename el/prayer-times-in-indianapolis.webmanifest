@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Indianapolis",
   "short_name": "Ώρες Προσευχής στο Indianapolis",
   "description": "Οι σημερινές ώρες προσευχής στο Indianapolis, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Indianapolis.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-indianapolis.html",
+  "id": "/el/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Oslo",
   "short_name": "Časy modliteb v Oslo",
   "description": "Dnešní časy modliteb v Oslo, Norsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Oslo.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-oslo.html",
+  "id": "/cs/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Agadir",
   "short_name": "Bönetider i Agadir",
   "description": "Dagens bönetider i Agadir, Marocko: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Agadir.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-agadir.html",
+  "id": "/sv/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

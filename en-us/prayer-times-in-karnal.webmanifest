@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Karnāl Today",
   "short_name": "Prayer Times in Karnāl Today",
   "description": "Today's prayer times in Karnāl, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Karnāl.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-karnal.html",
+  "id": "/en-us/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

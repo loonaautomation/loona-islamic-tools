@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Mersin",
   "short_name": "Waktu Solat di Mersin",
   "description": "Waktu solat hari ini di Mersin, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Mersin.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-mersin.html",
+  "id": "/ms/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Osmaniye",
   "short_name": "Waktu Solat di Osmaniye",
   "description": "Waktu solat hari ini di Osmaniye, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Osmaniye.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-osmaniye.html",
+  "id": "/ms/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Teni",
   "short_name": "Waktu Salat di Teni",
   "description": "Waktu salat hari ini di Teni, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Teni.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-teni.html",
+  "id": "/id/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

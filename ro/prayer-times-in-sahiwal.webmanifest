@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Sahiwal",
   "short_name": "Ore de rugăciune în Sahiwal",
   "description": "Orele de rugăciune de azi în Sahiwal, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Sahiwal.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sahiwal.html",
+  "id": "/ro/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

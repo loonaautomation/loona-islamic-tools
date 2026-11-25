@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Islamabad",
   "short_name": "Časy modlitieb v Islamabad",
   "description": "Dnešné časy modlitieb v Islamabad, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Islamabad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-islamabad.html",
+  "id": "/sk/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

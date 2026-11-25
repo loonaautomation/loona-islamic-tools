@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Banjarbaru",
   "short_name": "Heures de prière à Banjarbaru",
   "description": "Les heures de prière d’aujourd’hui à Banjarbaru, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Banjarbaru.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-banjarbaru.html",
+  "id": "/fr/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mogadishu",
   "short_name": "Časy modliteb v Mogadishu",
   "description": "Dnešní časy modliteb v Mogadishu, Somálsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mogadishu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mogadishu.html",
+  "id": "/cs/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

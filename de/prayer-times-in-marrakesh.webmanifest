@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Marrakesh",
   "short_name": "Gebetszeiten in Marrakesh",
   "description": "Die heutigen Gebetszeiten in Marrakesh, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Marrakesh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-marrakesh.html",
+  "id": "/de/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

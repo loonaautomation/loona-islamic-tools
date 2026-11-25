@@ -2,7 +2,7 @@
   "name": "Loona Jājmau imaidői",
   "short_name": "Jājmau imaidői",
   "description": "A mai imaidők: Jājmau, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Jājmau számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-jajmau.html",
+  "id": "/hu/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

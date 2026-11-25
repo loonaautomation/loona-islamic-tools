@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Detroit",
   "short_name": "Gebetszeiten in Detroit",
   "description": "Die heutigen Gebetszeiten in Detroit, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Detroit.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-detroit.html",
+  "id": "/de/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

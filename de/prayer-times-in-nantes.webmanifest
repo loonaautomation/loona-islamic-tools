@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nantes",
   "short_name": "Gebetszeiten in Nantes",
   "description": "Die heutigen Gebetszeiten in Nantes, Frankreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nantes.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nantes.html",
+  "id": "/de/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

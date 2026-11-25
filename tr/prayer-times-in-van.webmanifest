@@ -2,7 +2,7 @@
   "name": "Loona Van Namaz Vakitleri",
   "short_name": "Van Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Van, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Van için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-van.html",
+  "id": "/tr/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

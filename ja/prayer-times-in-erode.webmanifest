@@ -2,7 +2,7 @@
   "name": "Loona Erode の礼拝時刻",
   "short_name": "Erode の礼拝時刻",
   "description": "Erode（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Erode についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-erode.html",
+  "id": "/ja/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in San Jose Today",
   "short_name": "Prayer Times in San Jose Today",
   "description": "Today's prayer times in San Jose, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for San Jose.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-san-jose.html",
+  "id": "/en-gb/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Qibla-suunta",
   "short_name": "Qibla-suunta",
   "description": "Löydä Qibla-suunta asteina mistä tahansa kaupungista tai tarkasta sijainnistasi, livekompassilla ja etäisyydellä Makkahiin. Ilmainen, tarkka ja yksityinen.",
-  "id": "/loona-islamic-tools/fi/qibla-direction/",
+  "id": "/fi/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

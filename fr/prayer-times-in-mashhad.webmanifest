@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Mashhad",
   "short_name": "Heures de prière à Mashhad",
   "description": "Les heures de prière d’aujourd’hui à Mashhad, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Mashhad.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-mashhad.html",
+  "id": "/fr/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

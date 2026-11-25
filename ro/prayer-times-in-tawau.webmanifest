@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Tawau",
   "short_name": "Ore de rugăciune în Tawau",
   "description": "Orele de rugăciune de azi în Tawau, Malaezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Tawau.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-tawau.html",
+  "id": "/ro/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

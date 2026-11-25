@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tirunelveli",
   "short_name": "Prayer Times in Tirunelveli",
   "description": "Today's prayer times in Tirunelveli, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Tirunelveli.",
-  "id": "/loona-islamic-tools/prayer-times-in-tirunelveli.html",
+  "id": "/prayer-times-in-tirunelveli.html",
   "start_url": "./prayer-times-in-tirunelveli.html",
   "scope": "./prayer-times-in-tirunelveli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Shivamogga Today",
   "short_name": "Prayer Times in Shivamogga Today",
   "description": "Today's prayer times in Shivamogga, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Shivamogga.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-shivamogga.html",
+  "id": "/en-us/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

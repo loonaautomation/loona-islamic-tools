@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sialkot",
   "short_name": "Časy modlitieb v Sialkot",
   "description": "Dnešné časy modlitieb v Sialkot, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Sialkot.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sialkot.html",
+  "id": "/sk/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

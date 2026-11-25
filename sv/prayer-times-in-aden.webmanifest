@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Aden",
   "short_name": "Bönetider i Aden",
   "description": "Dagens bönetider i Aden, Jemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Aden.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-aden.html",
+  "id": "/sv/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

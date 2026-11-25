@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Istanbul",
   "short_name": "Часове за намаз в Istanbul",
   "description": "Днешните часове за намаз в Istanbul, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислен на живо на вашето устройство за Istanbul.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-istanbul.html",
+  "id": "/bg/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

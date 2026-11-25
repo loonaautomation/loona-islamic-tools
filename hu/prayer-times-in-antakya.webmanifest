@@ -2,7 +2,7 @@
   "name": "Loona Antakya imaidői",
   "short_name": "Antakya imaidői",
   "description": "A mai imaidők: Antakya, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Antakya számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-antakya.html",
+  "id": "/hu/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

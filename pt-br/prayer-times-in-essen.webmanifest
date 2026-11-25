@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Essen",
   "short_name": "Horários de Oração em Essen",
   "description": "Horários de oração de hoje em Essen, Alemanha: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Essen.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-essen.html",
+  "id": "/pt-br/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

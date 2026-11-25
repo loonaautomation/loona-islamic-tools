@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh ramadánu v Itálie 2027 (1448)",
   "short_name": "Rozvrh ramadánu v Itálie 2027 (1448)",
   "description": "Rozvrh ramadánu 2027 pro Itálie: časy konce Sehri (Fadžr) a Iftaru (Maghrib) na každý den ramadánu 1448, vypočítané pro Rome. Očekáváno od 8 února do 8 března 2027, v závislosti na pozorování měsíce.",
-  "id": "/loona-islamic-tools/cs/ramadan-timetable-in-italy.html",
+  "id": "/cs/ramadan-timetable-in-italy.html",
   "start_url": "./ramadan-timetable-in-italy.html",
   "scope": "./ramadan-timetable-in-italy.html",
   "display": "standalone",

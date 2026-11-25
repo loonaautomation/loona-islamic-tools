@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο San Diego",
   "short_name": "Ώρες Προσευχής στο San Diego",
   "description": "Οι σημερινές ώρες προσευχής στο San Diego, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το San Diego.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-san-diego.html",
+  "id": "/el/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

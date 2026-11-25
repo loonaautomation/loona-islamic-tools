@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pimpri",
   "short_name": "مواقيت الصلاة في Pimpri",
   "description": "مواقيت الصلاة اليوم في Pimpri، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPimpri.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pimpri.html",
+  "id": "/ar/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sumgayit",
   "short_name": "זמני תפילה בעיר Sumgayit",
   "description": "זמני התפילה של היום בעיר Sumgayit, אזרבייג'ן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sumgayit.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sumgayit.html",
+  "id": "/he/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

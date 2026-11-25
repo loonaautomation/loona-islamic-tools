@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bhātpāra",
   "short_name": "Waktu Solat di Bhātpāra",
   "description": "Waktu solat hari ini di Bhātpāra, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bhātpāra.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bhatpara.html",
+  "id": "/ms/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

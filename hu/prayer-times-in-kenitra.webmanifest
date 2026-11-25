@@ -2,7 +2,7 @@
   "name": "Loona Kenitra imaidői",
   "short_name": "Kenitra imaidői",
   "description": "A mai imaidők: Kenitra, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kenitra számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kenitra.html",
+  "id": "/hu/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

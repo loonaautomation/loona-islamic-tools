@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Az-Zuhūr",
   "short_name": "Heures de prière à Az-Zuhūr",
   "description": "Les heures de prière d’aujourd’hui à Az-Zuhūr, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Az-Zuhūr.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-az-zuhur.html",
+  "id": "/fr/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

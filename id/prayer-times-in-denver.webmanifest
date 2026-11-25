@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Denver",
   "short_name": "Waktu Salat di Denver",
   "description": "Waktu salat hari ini di Denver, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Denver.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-denver.html",
+  "id": "/id/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

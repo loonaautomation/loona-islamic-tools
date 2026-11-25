@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Salem",
   "short_name": "Ώρες Προσευχής στο Salem",
   "description": "Οι σημερινές ώρες προσευχής στο Salem, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Salem.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-salem.html",
+  "id": "/el/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

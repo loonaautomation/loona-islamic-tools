@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Brisbane",
   "short_name": "Час намазу в Brisbane",
   "description": "Сьогоднішній час намазу в Brisbane, Австралія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Brisbane.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-brisbane.html",
+  "id": "/uk/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

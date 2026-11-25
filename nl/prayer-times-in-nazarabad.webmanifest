@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Naz̧arābād",
   "short_name": "Gebedstijden in Naz̧arābād",
   "description": "De gebedstijden van vandaag in Naz̧arābād, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Naz̧arābād.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nazarabad.html",
+  "id": "/nl/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

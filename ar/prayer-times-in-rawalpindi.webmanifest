@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rawalpindi",
   "short_name": "مواقيت الصلاة في Rawalpindi",
   "description": "مواقيت الصلاة اليوم في Rawalpindi، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRawalpindi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rawalpindi.html",
+  "id": "/ar/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

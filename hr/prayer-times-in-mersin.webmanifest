@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mersin",
   "short_name": "Vremena namaza u gradu Mersin",
   "description": "Današnja vremena namaza u gradu Mersin, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Mersin.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mersin.html",
+  "id": "/hr/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

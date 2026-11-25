@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Damascus",
   "short_name": "مواقيت الصلاة في Damascus",
   "description": "مواقيت الصلاة اليوم في Damascus، سوريا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDamascus.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-damascus.html",
+  "id": "/ar/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

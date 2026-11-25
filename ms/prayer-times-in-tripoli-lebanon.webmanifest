@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tripoli (Lubnan)",
   "short_name": "Waktu Solat di Tripoli (Lubnan)",
   "description": "Waktu solat hari ini di Tripoli, Lubnan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Tripoli.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tripoli-lebanon.html",
+  "id": "/ms/prayer-times-in-tripoli-lebanon.html",
   "start_url": "./prayer-times-in-tripoli-lebanon.html",
   "scope": "./prayer-times-in-tripoli-lebanon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kuching imaidői",
   "short_name": "Kuching imaidői",
   "description": "A mai imaidők: Kuching, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kuching számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kuching.html",
+  "id": "/hu/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

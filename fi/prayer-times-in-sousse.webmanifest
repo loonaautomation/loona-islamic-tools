@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sousse",
   "short_name": "Rukousajat: Sousse",
   "description": "Tämän päivän rukousajat paikassa Sousse, Tunisia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sousse.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sousse.html",
+  "id": "/fi/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

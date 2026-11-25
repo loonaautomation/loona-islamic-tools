@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sétif",
   "short_name": "เวลาละหมาดใน Sétif",
   "description": "เวลาละหมาดวันนี้ใน Sétif, Algeria: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sétif",
-  "id": "/loona-islamic-tools/th/prayer-times-in-setif.html",
+  "id": "/th/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

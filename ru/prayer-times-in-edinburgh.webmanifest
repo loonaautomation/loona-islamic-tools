@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Edinburgh",
   "short_name": "Время намаза в городе Edinburgh",
   "description": "Время намаза на сегодня: Edinburgh, Великобритания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Edinburgh.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-edinburgh.html",
+  "id": "/ru/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

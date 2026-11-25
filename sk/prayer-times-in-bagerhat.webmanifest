@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bagerhat",
   "short_name": "Časy modlitieb v Bagerhat",
   "description": "Dnešné časy modlitieb v Bagerhat, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bagerhat.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bagerhat.html",
+  "id": "/sk/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

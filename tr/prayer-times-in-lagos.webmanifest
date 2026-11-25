@@ -2,7 +2,7 @@
   "name": "Loona Lagos Namaz Vakitleri",
   "short_name": "Lagos Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Lagos, Nijerya: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Lagos için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-lagos.html",
+  "id": "/tr/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

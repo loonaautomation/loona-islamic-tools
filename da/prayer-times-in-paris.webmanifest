@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Paris",
   "short_name": "Bønnetider i Paris",
   "description": "Dagens bønnetider i Paris, Frankrig: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Paris.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-paris.html",
+  "id": "/da/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

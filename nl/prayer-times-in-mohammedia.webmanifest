@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mohammedia",
   "short_name": "Gebedstijden in Mohammedia",
   "description": "De gebedstijden van vandaag in Mohammedia, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Mohammedia.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mohammedia.html",
+  "id": "/nl/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

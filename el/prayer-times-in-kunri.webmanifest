@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kunri",
   "short_name": "Ώρες Προσευχής στο Kunri",
   "description": "Οι σημερινές ώρες προσευχής στο Kunri, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kunri.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kunri.html",
+  "id": "/el/prayer-times-in-kunri.html",
   "start_url": "./prayer-times-in-kunri.html",
   "scope": "./prayer-times-in-kunri.html",
   "display": "standalone",

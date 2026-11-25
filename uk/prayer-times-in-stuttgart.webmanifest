@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Stuttgart",
   "short_name": "Час намазу в Stuttgart",
   "description": "Сьогоднішній час намазу в Stuttgart, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Stuttgart.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-stuttgart.html",
+  "id": "/uk/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

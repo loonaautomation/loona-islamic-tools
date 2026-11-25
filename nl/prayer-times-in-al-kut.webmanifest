@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al-Kut",
   "short_name": "Gebedstijden in Al-Kut",
   "description": "De gebedstijden van vandaag in Al-Kut, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al-Kut.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-kut.html",
+  "id": "/nl/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

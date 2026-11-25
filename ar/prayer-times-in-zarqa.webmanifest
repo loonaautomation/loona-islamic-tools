@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Zarqa",
   "short_name": "مواقيت الصلاة في Zarqa",
   "description": "مواقيت الصلاة اليوم في Zarqa، الأردن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـZarqa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-zarqa.html",
+  "id": "/ar/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

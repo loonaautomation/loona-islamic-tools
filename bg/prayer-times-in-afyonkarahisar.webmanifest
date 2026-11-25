@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Afyonkarahisar",
   "short_name": "Часове за намаз в Afyonkarahisar",
   "description": "Днешните часове за намаз в Afyonkarahisar, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Afyonkarahisar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-afyonkarahisar.html",
+  "id": "/bg/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

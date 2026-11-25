@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in New South Memphis",
   "short_name": "Gebedstijden in New South Memphis",
   "description": "De gebedstijden van vandaag in New South Memphis, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor New South Memphis.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-new-south-memphis.html",
+  "id": "/nl/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

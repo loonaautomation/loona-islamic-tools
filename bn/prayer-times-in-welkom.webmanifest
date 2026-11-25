@@ -2,7 +2,7 @@
   "name": "Loona Welkom-এ নামাজের সময়",
   "short_name": "Welkom-এ নামাজের সময়",
   "description": "Welkom, দক্ষিণ আফ্রিকা-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Muslim World League পদ্ধতি, আপনার ডিভাইসে Welkom-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-welkom.html",
+  "id": "/bn/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

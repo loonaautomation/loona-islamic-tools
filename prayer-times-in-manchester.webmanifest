@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Manchester",
   "short_name": "Prayer Times in Manchester",
   "description": "Today's prayer times in Manchester, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Manchester.",
-  "id": "/loona-islamic-tools/prayer-times-in-manchester.html",
+  "id": "/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

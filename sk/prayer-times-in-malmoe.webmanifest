@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Malmö",
   "short_name": "Časy modlitieb v Malmö",
   "description": "Dnešné časy modlitieb v Malmö, Švédsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Malmö.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-malmoe.html",
+  "id": "/sk/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

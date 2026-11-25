@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Beirut",
   "short_name": "مواقيت الصلاة في Beirut",
   "description": "مواقيت الصلاة اليوم في Beirut، لبنان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBeirut.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-beirut.html",
+  "id": "/ar/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

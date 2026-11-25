@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Orlando",
   "short_name": "Gebedstijden in Orlando",
   "description": "De gebedstijden van vandaag in Orlando, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Orlando.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-orlando.html",
+  "id": "/nl/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

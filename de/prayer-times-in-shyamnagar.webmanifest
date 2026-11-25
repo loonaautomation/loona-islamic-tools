@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Shyamnagar",
   "short_name": "Gebetszeiten in Shyamnagar",
   "description": "Die heutigen Gebetszeiten in Shyamnagar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Shyamnagar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-shyamnagar.html",
+  "id": "/de/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

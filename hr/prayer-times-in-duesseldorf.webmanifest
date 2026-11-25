@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Düsseldorf",
   "short_name": "Vremena namaza u gradu Düsseldorf",
   "description": "Današnja vremena namaza u gradu Düsseldorf, Njemačka: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Düsseldorf.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-duesseldorf.html",
+  "id": "/hr/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

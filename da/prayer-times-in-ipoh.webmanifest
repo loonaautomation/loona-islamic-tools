@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ipoh",
   "short_name": "Bønnetider i Ipoh",
   "description": "Dagens bønnetider i Ipoh, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Ipoh.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-ipoh.html",
+  "id": "/da/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

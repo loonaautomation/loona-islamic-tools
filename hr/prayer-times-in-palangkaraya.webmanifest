@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Palangkaraya",
   "short_name": "Vremena namaza u gradu Palangkaraya",
   "description": "Današnja vremena namaza u gradu Palangkaraya, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Palangkaraya.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-palangkaraya.html",
+  "id": "/hr/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

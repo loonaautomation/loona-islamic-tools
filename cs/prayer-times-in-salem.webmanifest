@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Salem",
   "short_name": "Časy modliteb v Salem",
   "description": "Dnešní časy modliteb v Salem, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Salem.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-salem.html",
+  "id": "/cs/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

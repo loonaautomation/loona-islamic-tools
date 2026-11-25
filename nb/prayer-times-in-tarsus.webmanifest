@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tarsus",
   "short_name": "Bønnetider i Tarsus",
   "description": "Dagens bønnetider i Tarsus, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Tarsus.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tarsus.html",
+  "id": "/nb/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

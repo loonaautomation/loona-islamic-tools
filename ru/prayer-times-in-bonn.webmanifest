@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bonn",
   "short_name": "Время намаза в городе Bonn",
   "description": "Время намаза на сегодня: Bonn, Германия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Bonn.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bonn.html",
+  "id": "/ru/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

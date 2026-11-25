@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sholapur",
   "short_name": "Bønnetider i Sholapur",
   "description": "Dagens bønnetider i Sholapur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Sholapur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-sholapur.html",
+  "id": "/da/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

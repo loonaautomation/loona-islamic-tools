@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Pimpri-Chinchwad",
   "short_name": "Время намаза в городе Pimpri-Chinchwad",
   "description": "Время намаза на сегодня: Pimpri-Chinchwad, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Pimpri-Chinchwad.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-pimpri-chinchwad.html",
+  "id": "/ru/prayer-times-in-pimpri-chinchwad.html",
   "start_url": "./prayer-times-in-pimpri-chinchwad.html",
   "scope": "./prayer-times-in-pimpri-chinchwad.html",
   "display": "standalone",

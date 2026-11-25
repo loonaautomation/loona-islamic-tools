@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bandung",
   "short_name": "Bönetider i Bandung",
   "description": "Dagens bönetider i Bandung, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bandung.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bandung.html",
+  "id": "/sv/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

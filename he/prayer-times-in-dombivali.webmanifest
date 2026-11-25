@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dombivali",
   "short_name": "זמני תפילה בעיר Dombivali",
   "description": "זמני התפילה של היום בעיר Dombivali, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dombivali.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dombivali.html",
+  "id": "/he/prayer-times-in-dombivali.html",
   "start_url": "./prayer-times-in-dombivali.html",
   "scope": "./prayer-times-in-dombivali.html",
   "display": "standalone",

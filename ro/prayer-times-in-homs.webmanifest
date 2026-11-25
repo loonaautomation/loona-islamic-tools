@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Homs",
   "short_name": "Ore de rugăciune în Homs",
   "description": "Orele de rugăciune de azi în Homs, Siria: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Homs.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-homs.html",
+  "id": "/ro/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

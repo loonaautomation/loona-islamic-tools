@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Batu",
   "short_name": "Bönetider i Batu",
   "description": "Dagens bönetider i Batu, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Batu.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-batu.html",
+  "id": "/sv/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

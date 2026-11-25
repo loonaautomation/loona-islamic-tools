@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tabriz",
   "short_name": "Waktu Salat di Tabriz",
   "description": "Waktu salat hari ini di Tabriz, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tabriz.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tabriz.html",
+  "id": "/id/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ḩayy Khildā",
   "short_name": "مواقيت الصلاة في Ḩayy Khildā",
   "description": "مواقيت الصلاة اليوم في Ḩayy Khildā، الأردن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـḨayy Khildā.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hayy-khilda.html",
+  "id": "/ar/prayer-times-in-hayy-khilda.html",
   "start_url": "./prayer-times-in-hayy-khilda.html",
   "scope": "./prayer-times-in-hayy-khilda.html",
   "display": "standalone",

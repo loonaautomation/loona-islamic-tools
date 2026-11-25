@@ -2,7 +2,7 @@
   "name": "Loona Ora Sehri și Iftar astăzi",
   "short_name": "Ora Sehri și Iftar astăzi",
   "description": "Orele de încheiere Sehri (Fajr) și de Iftar (Maghrib) de astăzi pentru orașul tău, cu o numărătoare inversă live până la următoarea. Metoda Karachi, Asr Hanafi implicit, reglabil.",
-  "id": "/loona-islamic-tools/ro/sehri-iftar-today/",
+  "id": "/ro/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Arāk",
   "short_name": "Waktu Solat di Arāk",
   "description": "Waktu solat hari ini di Arāk, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Arāk.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-arak.html",
+  "id": "/ms/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

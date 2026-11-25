@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bologna",
   "short_name": "Gebetszeiten in Bologna",
   "description": "Die heutigen Gebetszeiten in Bologna, Italien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bologna.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bologna.html",
+  "id": "/de/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

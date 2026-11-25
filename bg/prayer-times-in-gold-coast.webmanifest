@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gold Coast",
   "short_name": "Часове за намаз в Gold Coast",
   "description": "Днешните часове за намаз в Gold Coast, Австралия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gold Coast.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gold-coast.html",
+  "id": "/bg/prayer-times-in-gold-coast.html",
   "start_url": "./prayer-times-in-gold-coast.html",
   "scope": "./prayer-times-in-gold-coast.html",
   "display": "standalone",

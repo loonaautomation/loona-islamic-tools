@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-Zähler",
   "short_name": "Tasbih-Zähler",
   "description": "Ein digitaler Tasbih-Zähler: SubhanAllah, Alhamdulillah und weitere Voreinstellungen, Ziele von 33/99/100, Rundenverfolgung, Vibration und auf Ihrem Gerät gespeicherte Gesamtzahlen auf Lebenszeit.",
-  "id": "/loona-islamic-tools/de/tasbih-counter/",
+  "id": "/de/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

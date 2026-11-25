@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Malang",
   "short_name": "مواقيت الصلاة في Malang",
   "description": "مواقيت الصلاة اليوم في Malang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMalang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-malang.html",
+  "id": "/ar/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

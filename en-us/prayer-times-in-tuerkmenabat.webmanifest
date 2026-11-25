@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Türkmenabat Today",
   "short_name": "Prayer Times in Türkmenabat Today",
   "description": "Today's prayer times in Türkmenabat, Turkmenistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Türkmenabat.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-tuerkmenabat.html",
+  "id": "/en-us/prayer-times-in-tuerkmenabat.html",
   "start_url": "./prayer-times-in-tuerkmenabat.html",
   "scope": "./prayer-times-in-tuerkmenabat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kansas City",
   "short_name": "Gebetszeiten in Kansas City",
   "description": "Die heutigen Gebetszeiten in Kansas City, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Kansas City.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kansas-city.html",
+  "id": "/de/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

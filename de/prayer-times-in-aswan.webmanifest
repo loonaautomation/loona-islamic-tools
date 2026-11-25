@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Aswān",
   "short_name": "Gebetszeiten in Aswān",
   "description": "Die heutigen Gebetszeiten in Aswān, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Aswān.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-aswan.html",
+  "id": "/de/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

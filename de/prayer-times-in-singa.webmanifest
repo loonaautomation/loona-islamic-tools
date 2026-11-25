@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Singa",
   "short_name": "Gebetszeiten in Singa",
   "description": "Die heutigen Gebetszeiten in Singa, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Singa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-singa.html",
+  "id": "/de/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

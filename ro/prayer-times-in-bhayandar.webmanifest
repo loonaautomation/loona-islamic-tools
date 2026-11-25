@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bhayandar",
   "short_name": "Ore de rugăciune în Bhayandar",
   "description": "Orele de rugăciune de azi în Bhayandar, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Bhayandar.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bhayandar.html",
+  "id": "/ro/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

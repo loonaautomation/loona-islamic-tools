@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Khuzdar",
   "short_name": "Časy modlitieb v Khuzdar",
   "description": "Dnešné časy modlitieb v Khuzdar, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Khuzdar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-khuzdar.html",
+  "id": "/sk/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

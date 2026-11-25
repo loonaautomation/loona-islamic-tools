@@ -2,7 +2,7 @@
   "name": "Loona Arāk Namaz Vakitleri",
   "short_name": "Arāk Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Arāk, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Arāk için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-arak.html",
+  "id": "/tr/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

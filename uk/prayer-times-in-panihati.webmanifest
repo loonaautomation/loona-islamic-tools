@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Pānihāti",
   "short_name": "Час намазу в Pānihāti",
   "description": "Сьогоднішній час намазу в Pānihāti, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Pānihāti.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-panihati.html",
+  "id": "/uk/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

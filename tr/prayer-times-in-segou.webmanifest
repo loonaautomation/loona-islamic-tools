@@ -2,7 +2,7 @@
   "name": "Loona Ségou Namaz Vakitleri",
   "short_name": "Ségou Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ségou, Mali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Ségou için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-segou.html",
+  "id": "/tr/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Merkezefendi",
   "short_name": "Bønnetider i Merkezefendi",
   "description": "Dagens bønnetider i Merkezefendi, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Merkezefendi.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-merkezefendi.html",
+  "id": "/da/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

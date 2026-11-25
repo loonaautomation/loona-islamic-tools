@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Taiping",
   "short_name": "Časy modliteb v Taiping",
   "description": "Dnešní časy modliteb v Taiping, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Taiping.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-taiping.html",
+  "id": "/cs/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

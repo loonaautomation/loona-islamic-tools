@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Emalahleni",
   "short_name": "Bönetider i Emalahleni",
   "description": "Dagens bönetider i Emalahleni, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Emalahleni.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-emalahleni.html",
+  "id": "/sv/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

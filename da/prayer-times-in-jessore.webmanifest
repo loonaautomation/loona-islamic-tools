@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jessore",
   "short_name": "Bønnetider i Jessore",
   "description": "Dagens bønnetider i Jessore, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jessore.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jessore.html",
+  "id": "/da/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

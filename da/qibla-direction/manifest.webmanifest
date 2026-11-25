@@ -2,7 +2,7 @@
   "name": "Loona Qibla-retning",
   "short_name": "Qibla-retning",
   "description": "Find Qibla-retningen i grader fra enhver by eller din nøjagtige placering med en live kompasskive og afstanden til Makkah. Gratis, præcis og privat.",
-  "id": "/loona-islamic-tools/da/qibla-direction/",
+  "id": "/da/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

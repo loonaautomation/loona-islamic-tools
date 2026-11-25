@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Visakhapatnam",
   "short_name": "Heures de prière à Visakhapatnam",
   "description": "Les heures de prière d’aujourd’hui à Visakhapatnam, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Visakhapatnam.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-visakhapatnam.html",
+  "id": "/fr/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

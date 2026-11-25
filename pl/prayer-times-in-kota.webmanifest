@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kota",
   "short_name": "Czasy modlitw w miejscowości Kota",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kota, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kota.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kota.html",
+  "id": "/pl/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

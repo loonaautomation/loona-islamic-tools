@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Maheshtala",
   "short_name": "Waktu Salat di Maheshtala",
   "description": "Waktu salat hari ini di Maheshtala, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Maheshtala.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-maheshtala.html",
+  "id": "/id/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

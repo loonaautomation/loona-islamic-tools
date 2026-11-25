@@ -2,7 +2,7 @@
   "name": "Loona Al Hufūf Namaz Vakitleri",
   "short_name": "Al Hufūf Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Al Hufūf, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Al Hufūf için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-al-hufuf.html",
+  "id": "/tr/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

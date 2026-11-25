@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Stockton",
   "short_name": "Časy modliteb v Stockton",
   "description": "Dnešní časy modliteb v Stockton, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Stockton.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-stockton.html",
+  "id": "/cs/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

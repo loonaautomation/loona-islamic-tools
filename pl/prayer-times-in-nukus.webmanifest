@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Nukus",
   "short_name": "Czasy modlitw w miejscowości Nukus",
   "description": "Dzisiejsze czasy modlitw w miejscowości Nukus, kraj Uzbekistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Nukus.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-nukus.html",
+  "id": "/pl/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

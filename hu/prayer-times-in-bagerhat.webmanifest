@@ -2,7 +2,7 @@
   "name": "Loona Bagerhat imaidői",
   "short_name": "Bagerhat imaidői",
   "description": "A mai imaidők: Bagerhat, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Bagerhat számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bagerhat.html",
+  "id": "/hu/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

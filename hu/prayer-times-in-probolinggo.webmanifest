@@ -2,7 +2,7 @@
   "name": "Loona Probolinggo imaidői",
   "short_name": "Probolinggo imaidői",
   "description": "A mai imaidők: Probolinggo, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Probolinggo számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-probolinggo.html",
+  "id": "/hu/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

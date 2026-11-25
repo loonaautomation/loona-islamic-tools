@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bagerhat",
   "short_name": "Bønnetider i Bagerhat",
   "description": "Dagens bønnetider i Bagerhat, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Bagerhat.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bagerhat.html",
+  "id": "/da/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

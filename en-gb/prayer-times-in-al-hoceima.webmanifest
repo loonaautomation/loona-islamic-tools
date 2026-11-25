@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Al Hoceïma Today",
   "short_name": "Prayer Times in Al Hoceïma Today",
   "description": "Today's prayer times in Al Hoceïma, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Al Hoceïma.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-al-hoceima.html",
+  "id": "/en-gb/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

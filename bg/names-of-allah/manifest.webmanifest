@@ -2,7 +2,7 @@
   "name": "Loona 99 имена на Аллах",
   "short_name": "99 имена на Аллах",
   "description": "Всички 99 имена на Аллах с арабски текст, транслитерация и значения на български на една страница с търсене. Научете и запомнете Asma-ul-Husna безплатно, на всяко устройство.",
-  "id": "/loona-islamic-tools/bg/names-of-allah/",
+  "id": "/bg/names-of-allah/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

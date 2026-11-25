@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dombivali",
   "short_name": "Bønnetider i Dombivali",
   "description": "Dagens bønnetider i Dombivali, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Dombivali.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dombivali.html",
+  "id": "/nb/prayer-times-in-dombivali.html",
   "start_url": "./prayer-times-in-dombivali.html",
   "scope": "./prayer-times-in-dombivali.html",
   "display": "standalone",

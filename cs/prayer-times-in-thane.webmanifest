@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Thāne",
   "short_name": "Časy modliteb v Thāne",
   "description": "Dnešní časy modliteb v Thāne, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Thāne.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-thane.html",
+  "id": "/cs/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

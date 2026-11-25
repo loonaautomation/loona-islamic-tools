@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sumedang",
   "short_name": "Časy modlitieb v Sumedang",
   "description": "Dnešné časy modlitieb v Sumedang, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sumedang.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sumedang.html",
+  "id": "/sk/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

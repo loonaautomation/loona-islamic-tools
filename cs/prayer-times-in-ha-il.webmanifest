@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ha'il",
   "short_name": "Časy modliteb v Ha'il",
   "description": "Dnešní časy modliteb v Ha'il, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Ha'il.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ha-il.html",
+  "id": "/cs/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

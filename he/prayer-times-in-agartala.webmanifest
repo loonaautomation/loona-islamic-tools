@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Agartala",
   "short_name": "זמני תפילה בעיר Agartala",
   "description": "זמני התפילה של היום בעיר Agartala, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Agartala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-agartala.html",
+  "id": "/he/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

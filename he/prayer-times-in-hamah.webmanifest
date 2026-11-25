@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ḩamāh",
   "short_name": "זמני תפילה בעיר Ḩamāh",
   "description": "זמני התפילה של היום בעיר Ḩamāh, סוריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ḩamāh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hamah.html",
+  "id": "/he/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

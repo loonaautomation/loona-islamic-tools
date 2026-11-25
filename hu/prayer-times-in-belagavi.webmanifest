@@ -2,7 +2,7 @@
   "name": "Loona Belagavi imaidői",
   "short_name": "Belagavi imaidői",
   "description": "A mai imaidők: Belagavi, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Belagavi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-belagavi.html",
+  "id": "/hu/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

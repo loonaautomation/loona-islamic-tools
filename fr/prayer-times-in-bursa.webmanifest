@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bursa",
   "short_name": "Heures de prière à Bursa",
   "description": "Les heures de prière d’aujourd’hui à Bursa, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Bursa.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bursa.html",
+  "id": "/fr/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

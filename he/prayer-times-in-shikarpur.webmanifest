@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Shikarpur",
   "short_name": "זמני תפילה בעיר Shikarpur",
   "description": "זמני התפילה של היום בעיר Shikarpur, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Shikarpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-shikarpur.html",
+  "id": "/he/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

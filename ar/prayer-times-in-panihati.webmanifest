@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pānihāti",
   "short_name": "مواقيت الصلاة في Pānihāti",
   "description": "مواقيت الصلاة اليوم في Pānihāti، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPānihāti.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-panihati.html",
+  "id": "/ar/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

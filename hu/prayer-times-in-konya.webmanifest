@@ -2,7 +2,7 @@
   "name": "Loona Konya imaidői",
   "short_name": "Konya imaidői",
   "description": "A mai imaidők: Konya, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Konya számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-konya.html",
+  "id": "/hu/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

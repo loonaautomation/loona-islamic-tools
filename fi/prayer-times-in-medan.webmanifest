@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Medan",
   "short_name": "Rukousajat: Medan",
   "description": "Tämän päivän rukousajat paikassa Medan, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Medan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-medan.html",
+  "id": "/fi/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bradford",
   "short_name": "Gebetszeiten in Bradford",
   "description": "Die heutigen Gebetszeiten in Bradford, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bradford.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bradford.html",
+  "id": "/de/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

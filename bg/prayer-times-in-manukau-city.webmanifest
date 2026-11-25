@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Manukau City",
   "short_name": "Часове за намаз в Manukau City",
   "description": "Днешните часове за намаз в Manukau City, Нова Зеландия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Manukau City.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-manukau-city.html",
+  "id": "/bg/prayer-times-in-manukau-city.html",
   "start_url": "./prayer-times-in-manukau-city.html",
   "scope": "./prayer-times-in-manukau-city.html",
   "display": "standalone",

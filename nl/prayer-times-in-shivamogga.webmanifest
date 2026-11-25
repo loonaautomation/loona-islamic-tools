@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Shivamogga",
   "short_name": "Gebedstijden in Shivamogga",
   "description": "De gebedstijden van vandaag in Shivamogga, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Shivamogga.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-shivamogga.html",
+  "id": "/nl/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

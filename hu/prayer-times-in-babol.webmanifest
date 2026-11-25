@@ -2,7 +2,7 @@
   "name": "Loona Bābol imaidői",
   "short_name": "Bābol imaidői",
   "description": "A mai imaidők: Bābol, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bābol számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-babol.html",
+  "id": "/hu/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

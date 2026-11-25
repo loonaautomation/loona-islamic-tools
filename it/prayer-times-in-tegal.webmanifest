@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Tegal",
   "short_name": "Orari di preghiera a Tegal",
   "description": "Orari di preghiera di oggi a Tegal, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Tegal.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-tegal.html",
+  "id": "/it/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

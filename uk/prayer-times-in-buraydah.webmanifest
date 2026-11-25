@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Buraydah",
   "short_name": "Час намазу в Buraydah",
   "description": "Сьогоднішній час намазу в Buraydah, Саудівська Аравія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Умм аль-Кура, розраховано наживо на вашому пристрої для Buraydah.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-buraydah.html",
+  "id": "/uk/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

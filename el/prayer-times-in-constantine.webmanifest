@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Constantine",
   "short_name": "Ώρες Προσευχής στο Constantine",
   "description": "Οι σημερινές ώρες προσευχής στο Constantine, Αλγερία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Constantine.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-constantine.html",
+  "id": "/el/prayer-times-in-constantine.html",
   "start_url": "./prayer-times-in-constantine.html",
   "scope": "./prayer-times-in-constantine.html",
   "display": "standalone",

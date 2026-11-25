@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Lagos",
   "short_name": "เวลาละหมาดใน Lagos",
   "description": "เวลาละหมาดวันนี้ใน Lagos, Nigeria: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Lagos",
-  "id": "/loona-islamic-tools/th/prayer-times-in-lagos.html",
+  "id": "/th/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

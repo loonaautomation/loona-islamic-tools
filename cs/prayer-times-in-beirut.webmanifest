@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Beirut",
   "short_name": "Časy modliteb v Beirut",
   "description": "Dnešní časy modliteb v Beirut, Libanon: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Beirut.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-beirut.html",
+  "id": "/cs/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

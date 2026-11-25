@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Saint Paul",
   "short_name": "Časy modliteb v Saint Paul",
   "description": "Dnešní časy modliteb v Saint Paul, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Saint Paul.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-saint-paul.html",
+  "id": "/cs/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhubaneswar",
   "short_name": "Gebetszeiten in Bhubaneswar",
   "description": "Die heutigen Gebetszeiten in Bhubaneswar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhubaneswar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhubaneswar.html",
+  "id": "/de/prayer-times-in-bhubaneswar.html",
   "start_url": "./prayer-times-in-bhubaneswar.html",
   "scope": "./prayer-times-in-bhubaneswar.html",
   "display": "standalone",

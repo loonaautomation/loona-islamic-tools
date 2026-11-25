@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Swansea",
   "short_name": "Časy modliteb v Swansea",
   "description": "Dnešní časy modliteb v Swansea, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Swansea.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-swansea.html",
+  "id": "/cs/prayer-times-in-swansea.html",
   "start_url": "./prayer-times-in-swansea.html",
   "scope": "./prayer-times-in-swansea.html",
   "display": "standalone",

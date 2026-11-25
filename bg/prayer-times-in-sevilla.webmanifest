@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sevilla",
   "short_name": "Часове за намаз в Sevilla",
   "description": "Днешните часове за намаз в Sevilla, Испания: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sevilla.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sevilla.html",
+  "id": "/bg/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

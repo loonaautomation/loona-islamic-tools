@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Padangsidempuan",
   "short_name": "זמני תפילה בעיר Padangsidempuan",
   "description": "זמני התפילה של היום בעיר Padangsidempuan, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Padangsidempuan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-padangsidempuan.html",
+  "id": "/he/prayer-times-in-padangsidempuan.html",
   "start_url": "./prayer-times-in-padangsidempuan.html",
   "scope": "./prayer-times-in-padangsidempuan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Minya",
   "short_name": "Bønnetider i Minya",
   "description": "Dagens bønnetider i Minya, Egypt: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Egyptian General Authority, beregnet direkte på enheten din for Minya.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-minya.html",
+  "id": "/nb/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Muratpaşa",
   "short_name": "Horarios de oración en Muratpaşa",
   "description": "Horarios de oración de hoy en Muratpaşa, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Muratpaşa.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-muratpasa.html",
+  "id": "/es/prayer-times-in-muratpasa.html",
   "start_url": "./prayer-times-in-muratpasa.html",
   "scope": "./prayer-times-in-muratpasa.html",
   "display": "standalone",

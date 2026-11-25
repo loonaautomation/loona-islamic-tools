@@ -2,7 +2,7 @@
   "name": "Loona Bornova Namaz Vakitleri",
   "short_name": "Bornova Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bornova, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bornova için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bornova.html",
+  "id": "/tr/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

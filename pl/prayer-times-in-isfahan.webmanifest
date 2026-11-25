@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Isfahan",
   "short_name": "Czasy modlitw w miejscowości Isfahan",
   "description": "Dzisiejsze czasy modlitw w miejscowości Isfahan, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Isfahan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-isfahan.html",
+  "id": "/pl/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Nowrangapur",
   "short_name": "Время намаза в городе Nowrangapur",
   "description": "Время намаза на сегодня: Nowrangapur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Nowrangapur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-nowrangapur.html",
+  "id": "/ru/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

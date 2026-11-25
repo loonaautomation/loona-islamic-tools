@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cilacap",
   "short_name": "Gebetszeiten in Cilacap",
   "description": "Die heutigen Gebetszeiten in Cilacap, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Cilacap.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cilacap.html",
+  "id": "/de/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

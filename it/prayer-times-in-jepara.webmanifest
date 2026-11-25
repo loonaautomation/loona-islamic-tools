@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Jepara",
   "short_name": "Orari di preghiera a Jepara",
   "description": "Orari di preghiera di oggi a Jepara, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Jepara.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-jepara.html",
+  "id": "/it/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

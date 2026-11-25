@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jessore",
   "short_name": "Waktu Solat di Jessore",
   "description": "Waktu solat hari ini di Jessore, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Jessore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jessore.html",
+  "id": "/ms/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

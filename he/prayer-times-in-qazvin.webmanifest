@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Qazvin",
   "short_name": "זמני תפילה בעיר Qazvin",
   "description": "זמני התפילה של היום בעיר Qazvin, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Qazvin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-qazvin.html",
+  "id": "/he/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

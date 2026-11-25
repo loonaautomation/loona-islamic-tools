@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Agadir",
   "short_name": "เวลาละหมาดใน Agadir",
   "description": "เวลาละหมาดวันนี้ใน Agadir, Morocco: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Agadir",
-  "id": "/loona-islamic-tools/th/prayer-times-in-agadir.html",
+  "id": "/th/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

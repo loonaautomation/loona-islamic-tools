@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Genoa",
   "short_name": "Časy modlitieb v Genoa",
   "description": "Dnešné časy modlitieb v Genoa, Taliansko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Genoa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-genoa.html",
+  "id": "/sk/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

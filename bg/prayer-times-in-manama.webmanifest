@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Manama",
   "short_name": "Часове за намаз в Manama",
   "description": "Днешните часове за намаз в Manama, Бахрейн: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Manama.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-manama.html",
+  "id": "/bg/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

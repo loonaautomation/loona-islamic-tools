@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Medan",
   "short_name": "Час намазу в Medan",
   "description": "Сьогоднішній час намазу в Medan, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Medan.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-medan.html",
+  "id": "/uk/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

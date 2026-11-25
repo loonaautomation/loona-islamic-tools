@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Beirut",
   "short_name": "Czasy modlitw w miejscowości Beirut",
   "description": "Dzisiejsze czasy modlitw w miejscowości Beirut, kraj Liban: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Beirut.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-beirut.html",
+  "id": "/pl/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

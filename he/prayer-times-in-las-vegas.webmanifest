@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Las Vegas",
   "short_name": "זמני תפילה בעיר Las Vegas",
   "description": "זמני התפילה של היום בעיר Las Vegas, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Las Vegas.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-las-vegas.html",
+  "id": "/he/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dadu",
   "short_name": "Bønnetider i Dadu",
   "description": "Dagens bønnetider i Dadu, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Dadu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dadu.html",
+  "id": "/nb/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

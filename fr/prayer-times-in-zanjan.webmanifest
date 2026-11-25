@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Zanjan",
   "short_name": "Heures de prière à Zanjan",
   "description": "Les heures de prière d’aujourd’hui à Zanjan, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Zanjan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-zanjan.html",
+  "id": "/fr/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

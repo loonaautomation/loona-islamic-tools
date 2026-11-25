@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Quetta",
   "short_name": "Время намаза в городе Quetta",
   "description": "Время намаза на сегодня: Quetta, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Quetta.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-quetta.html",
+  "id": "/ru/prayer-times-in-quetta.html",
   "start_url": "./prayer-times-in-quetta.html",
   "scope": "./prayer-times-in-quetta.html",
   "display": "standalone",

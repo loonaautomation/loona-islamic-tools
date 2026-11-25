@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Binjai",
   "short_name": "זמני תפילה בעיר Binjai",
   "description": "זמני התפילה של היום בעיר Binjai, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Binjai.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-binjai.html",
+  "id": "/he/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

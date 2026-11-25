@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ahmedabad",
   "short_name": "Часове за намаз в Ahmedabad",
   "description": "Днешните часове за намаз в Ahmedabad, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Ahmedabad.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ahmedabad.html",
+  "id": "/bg/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Vereeniging",
   "short_name": "Bönetider i Vereeniging",
   "description": "Dagens bönetider i Vereeniging, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Vereeniging.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-vereeniging.html",
+  "id": "/sv/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

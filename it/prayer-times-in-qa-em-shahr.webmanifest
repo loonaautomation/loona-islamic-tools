@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Qā’em Shahr",
   "short_name": "Orari di preghiera a Qā’em Shahr",
   "description": "Orari di preghiera di oggi a Qā’em Shahr, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Qā’em Shahr.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-qa-em-shahr.html",
+  "id": "/it/prayer-times-in-qa-em-shahr.html",
   "start_url": "./prayer-times-in-qa-em-shahr.html",
   "scope": "./prayer-times-in-qa-em-shahr.html",
   "display": "standalone",

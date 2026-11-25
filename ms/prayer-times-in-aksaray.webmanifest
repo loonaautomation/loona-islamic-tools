@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Aksaray",
   "short_name": "Waktu Solat di Aksaray",
   "description": "Waktu solat hari ini di Aksaray, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Aksaray.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-aksaray.html",
+  "id": "/ms/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

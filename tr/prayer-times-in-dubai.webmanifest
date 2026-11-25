@@ -2,7 +2,7 @@
   "name": "Loona Dubai Namaz Vakitleri",
   "short_name": "Dubai Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dubai, BAE: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dubai için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dubai.html",
+  "id": "/tr/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Hamburg",
   "short_name": "Czasy modlitw w miejscowości Hamburg",
   "description": "Dzisiejsze czasy modlitw w miejscowości Hamburg, kraj Niemcy: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Hamburg.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-hamburg.html",
+  "id": "/pl/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

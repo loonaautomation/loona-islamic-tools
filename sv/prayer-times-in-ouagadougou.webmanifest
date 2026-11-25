@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ouagadougou",
   "short_name": "Bönetider i Ouagadougou",
   "description": "Dagens bönetider i Ouagadougou, Burkina Faso: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Ouagadougou.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ouagadougou.html",
+  "id": "/sv/prayer-times-in-ouagadougou.html",
   "start_url": "./prayer-times-in-ouagadougou.html",
   "scope": "./prayer-times-in-ouagadougou.html",
   "display": "standalone",

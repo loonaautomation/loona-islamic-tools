@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kenitra",
   "short_name": "זמני תפילה בעיר Kenitra",
   "description": "זמני התפילה של היום בעיר Kenitra, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kenitra.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kenitra.html",
+  "id": "/he/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

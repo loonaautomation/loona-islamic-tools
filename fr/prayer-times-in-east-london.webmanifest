@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à East London",
   "short_name": "Heures de prière à East London",
   "description": "Les heures de prière d’aujourd’hui à East London, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour East London.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-east-london.html",
+  "id": "/fr/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

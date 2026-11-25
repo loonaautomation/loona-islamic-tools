@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Columbus",
   "short_name": "Ore de rugăciune în Columbus",
   "description": "Orele de rugăciune de azi în Columbus, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Columbus.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-columbus.html",
+  "id": "/ro/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

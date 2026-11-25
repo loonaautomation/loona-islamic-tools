@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Johannesburg",
   "short_name": "זמני תפילה בעיר Johannesburg",
   "description": "זמני התפילה של היום בעיר Johannesburg, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Johannesburg.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-johannesburg.html",
+  "id": "/he/prayer-times-in-johannesburg.html",
   "start_url": "./prayer-times-in-johannesburg.html",
   "scope": "./prayer-times-in-johannesburg.html",
   "display": "standalone",

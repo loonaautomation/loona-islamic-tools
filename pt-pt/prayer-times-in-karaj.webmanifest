@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Karaj",
   "short_name": "Horários de Oração em Karaj",
   "description": "Horários de oração de hoje em Karaj, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Karaj.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-karaj.html",
+  "id": "/pt-pt/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

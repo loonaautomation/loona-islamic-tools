@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Prayagraj",
   "short_name": "Gebedstijden in Prayagraj",
   "description": "De gebedstijden van vandaag in Prayagraj, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Prayagraj.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-prayagraj.html",
+  "id": "/nl/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

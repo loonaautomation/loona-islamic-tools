@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Andijon Today",
   "short_name": "Prayer Times in Andijon Today",
   "description": "Today's prayer times in Andijon, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Andijon.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-andijon.html",
+  "id": "/en-us/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

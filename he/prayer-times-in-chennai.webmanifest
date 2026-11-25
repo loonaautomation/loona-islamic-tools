@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Chennai",
   "short_name": "זמני תפילה בעיר Chennai",
   "description": "זמני התפילה של היום בעיר Chennai, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Chennai.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-chennai.html",
+  "id": "/he/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

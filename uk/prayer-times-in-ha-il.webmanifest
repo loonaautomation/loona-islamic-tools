@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ha'il",
   "short_name": "Час намазу в Ha'il",
   "description": "Сьогоднішній час намазу в Ha'il, Саудівська Аравія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Умм аль-Кура, розраховано наживо на вашому пристрої для Ha'il.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ha-il.html",
+  "id": "/uk/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

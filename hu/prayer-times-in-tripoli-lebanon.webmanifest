@@ -2,7 +2,7 @@
   "name": "Loona Imaidők Tripoliban (Libanon)",
   "short_name": "Imaidők Tripoliban (Libanon)",
   "description": "A mai imaidők Tripoliban, Libanon: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tripoli számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tripoli-lebanon.html",
+  "id": "/hu/prayer-times-in-tripoli-lebanon.html",
   "start_url": "./prayer-times-in-tripoli-lebanon.html",
   "scope": "./prayer-times-in-tripoli-lebanon.html",
   "display": "standalone",

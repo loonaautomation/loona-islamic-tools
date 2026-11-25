@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Zürich",
   "short_name": "זמני תפילה בעיר Zürich",
   "description": "זמני התפילה של היום בעיר Zürich, שווייץ: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Zürich.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-zuerich.html",
+  "id": "/he/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

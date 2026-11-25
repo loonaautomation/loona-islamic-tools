@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Punāsa",
   "short_name": "זמני תפילה בעיר Punāsa",
   "description": "זמני התפילה של היום בעיר Punāsa, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Punāsa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-punasa.html",
+  "id": "/he/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

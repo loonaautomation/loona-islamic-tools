@@ -2,7 +2,7 @@
   "name": "Loona Godziny sehri i iftaru",
   "short_name": "Godziny sehri i iftaru",
   "description": "Dzisiejszy koniec sehri (Fajr) i iftar (Maghrib) dla Twojego miasta z odliczaniem na żywo do następnego z nich. Metoda Karachi, domyślnie hanaficki Asr, z możliwością zmiany.",
-  "id": "/loona-islamic-tools/pl/sehri-iftar-today/",
+  "id": "/pl/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

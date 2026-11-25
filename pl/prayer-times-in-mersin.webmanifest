@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mersin",
   "short_name": "Czasy modlitw w miejscowości Mersin",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mersin, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Mersin.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mersin.html",
+  "id": "/pl/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

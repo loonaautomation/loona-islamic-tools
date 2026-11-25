@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nawābganj",
   "short_name": "Časy modliteb v Nawābganj",
   "description": "Dnešní časy modliteb v Nawābganj, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Nawābganj.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nawabganj.html",
+  "id": "/cs/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

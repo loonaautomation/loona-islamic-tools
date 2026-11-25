@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Reading",
   "short_name": "Heures de prière à Reading",
   "description": "Les heures de prière d’aujourd’hui à Reading, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Reading.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-reading.html",
+  "id": "/fr/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

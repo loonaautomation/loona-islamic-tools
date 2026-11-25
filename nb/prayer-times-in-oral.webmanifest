@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Oral",
   "short_name": "Bønnetider i Oral",
   "description": "Dagens bønnetider i Oral, Kasakhstan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Oral.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-oral.html",
+  "id": "/nb/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

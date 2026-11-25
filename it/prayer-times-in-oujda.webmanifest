@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Oujda",
   "short_name": "Orari di preghiera a Oujda",
   "description": "Orari di preghiera di oggi a Oujda, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Oujda.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-oujda.html",
+  "id": "/it/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

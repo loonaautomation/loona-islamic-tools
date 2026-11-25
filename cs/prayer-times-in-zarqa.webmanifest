@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Zarqa",
   "short_name": "Časy modliteb v Zarqa",
   "description": "Dnešní časy modliteb v Zarqa, Jordánsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Zarqa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-zarqa.html",
+  "id": "/cs/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Touba",
   "short_name": "Prayer Times in Touba",
   "description": "Today's prayer times in Touba, Senegal: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Touba.",
-  "id": "/loona-islamic-tools/prayer-times-in-touba.html",
+  "id": "/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

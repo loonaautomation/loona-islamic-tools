@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Arāk",
   "short_name": "זמני תפילה בעיר Arāk",
   "description": "זמני התפילה של היום בעיר Arāk, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Arāk.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-arak.html",
+  "id": "/he/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

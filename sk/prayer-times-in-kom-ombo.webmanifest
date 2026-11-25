@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kom Ombo",
   "short_name": "Časy modlitieb v Kom Ombo",
   "description": "Dnešné časy modlitieb v Kom Ombo, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Kom Ombo.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kom-ombo.html",
+  "id": "/sk/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

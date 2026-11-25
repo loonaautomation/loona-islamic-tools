@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Sāveh",
   "short_name": "Horarios de oración en Sāveh",
   "description": "Horarios de oración de hoy en Sāveh, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Sāveh.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-saveh.html",
+  "id": "/es/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

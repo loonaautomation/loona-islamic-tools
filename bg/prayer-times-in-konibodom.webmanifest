@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Konibodom",
   "short_name": "Часове за намаз в Konibodom",
   "description": "Днешните часове за намаз в Konibodom, Таджикистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Konibodom.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-konibodom.html",
+  "id": "/bg/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

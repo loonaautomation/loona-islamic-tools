@@ -2,7 +2,7 @@
   "name": "Loona Cuttack の礼拝時刻",
   "short_name": "Cuttack の礼拝時刻",
   "description": "Cuttack（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Cuttack についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-cuttack.html",
+  "id": "/ja/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Singa",
   "short_name": "Horarios de oración en Singa",
   "description": "Horarios de oración de hoy en Singa, Sudán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Singa.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-singa.html",
+  "id": "/es/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

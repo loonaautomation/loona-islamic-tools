@@ -2,7 +2,7 @@
   "name": "Loona Honolulu-এ নামাজের সময়",
   "short_name": "Honolulu-এ নামাজের সময়",
   "description": "Honolulu, যুক্তরাষ্ট্র-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Honolulu-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-honolulu.html",
+  "id": "/bn/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

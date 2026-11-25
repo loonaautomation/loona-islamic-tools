@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Thoothukudi",
   "short_name": "Bønnetider i Thoothukudi",
   "description": "Dagens bønnetider i Thoothukudi, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Thoothukudi.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-thoothukudi.html",
+  "id": "/da/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

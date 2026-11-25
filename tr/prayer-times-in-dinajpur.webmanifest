@@ -2,7 +2,7 @@
   "name": "Loona Dinajpur Namaz Vakitleri",
   "short_name": "Dinajpur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dinajpur, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dinajpur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dinajpur.html",
+  "id": "/tr/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

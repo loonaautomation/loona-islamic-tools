@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Amravati",
   "short_name": "Waktu Solat di Amravati",
   "description": "Waktu solat hari ini di Amravati, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Amravati.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-amravati.html",
+  "id": "/ms/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

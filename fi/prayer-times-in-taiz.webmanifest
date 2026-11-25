@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Taiz",
   "short_name": "Rukousajat: Taiz",
   "description": "Tämän päivän rukousajat paikassa Taiz, Jemen: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Taiz.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-taiz.html",
+  "id": "/fi/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

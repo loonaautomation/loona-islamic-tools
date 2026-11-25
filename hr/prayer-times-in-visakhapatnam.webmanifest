@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Visakhapatnam",
   "short_name": "Vremena namaza u gradu Visakhapatnam",
   "description": "Današnja vremena namaza u gradu Visakhapatnam, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Visakhapatnam.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-visakhapatnam.html",
+  "id": "/hr/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

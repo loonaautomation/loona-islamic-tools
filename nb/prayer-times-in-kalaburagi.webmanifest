@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kalaburagi",
   "short_name": "Bønnetider i Kalaburagi",
   "description": "Dagens bønnetider i Kalaburagi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kalaburagi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kalaburagi.html",
+  "id": "/nb/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

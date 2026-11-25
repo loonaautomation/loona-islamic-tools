@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Karbala",
   "short_name": "Heures de prière à Karbala",
   "description": "Les heures de prière d’aujourd’hui à Karbala, Irak : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Karbala.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-karbala.html",
+  "id": "/fr/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

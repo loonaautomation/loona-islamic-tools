@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Thoothukudi",
   "short_name": "Gebedstijden in Thoothukudi",
   "description": "De gebedstijden van vandaag in Thoothukudi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Thoothukudi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-thoothukudi.html",
+  "id": "/nl/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

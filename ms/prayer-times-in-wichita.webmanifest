@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Wichita",
   "short_name": "Waktu Solat di Wichita",
   "description": "Waktu solat hari ini di Wichita, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Wichita.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-wichita.html",
+  "id": "/ms/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Detroit",
   "short_name": "Orari di preghiera a Detroit",
   "description": "Orari di preghiera di oggi a Detroit, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Detroit.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-detroit.html",
+  "id": "/it/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

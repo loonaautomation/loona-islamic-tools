@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Hamburg-Mitte",
   "short_name": "Часове за намаз в Hamburg-Mitte",
   "description": "Днешните часове за намаз в Hamburg-Mitte, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-hamburg-mitte.html",
+  "id": "/bg/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

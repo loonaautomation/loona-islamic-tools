@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Madinah",
   "short_name": "Waktu Salat di Madinah",
   "description": "Waktu salat hari ini di Madinah, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Madinah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-madinah.html",
+  "id": "/id/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

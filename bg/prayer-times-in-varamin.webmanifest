@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Varāmīn",
   "short_name": "Часове за намаз в Varāmīn",
   "description": "Днешните часове за намаз в Varāmīn, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Varāmīn.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-varamin.html",
+  "id": "/bg/prayer-times-in-varamin.html",
   "start_url": "./prayer-times-in-varamin.html",
   "scope": "./prayer-times-in-varamin.html",
   "display": "standalone",

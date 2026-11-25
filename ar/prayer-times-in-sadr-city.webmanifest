@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sadr City",
   "short_name": "مواقيت الصلاة في Sadr City",
   "description": "مواقيت الصلاة اليوم في Sadr City، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSadr City.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sadr-city.html",
+  "id": "/ar/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

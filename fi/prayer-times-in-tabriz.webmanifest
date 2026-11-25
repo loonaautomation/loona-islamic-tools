@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tabriz",
   "short_name": "Rukousajat: Tabriz",
   "description": "Tämän päivän rukousajat paikassa Tabriz, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tabriz.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tabriz.html",
+  "id": "/fi/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

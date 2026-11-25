@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Banda Aceh",
   "short_name": "זמני תפילה בעיר Banda Aceh",
   "description": "זמני התפילה של היום בעיר Banda Aceh, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Banda Aceh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-banda-aceh.html",
+  "id": "/he/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

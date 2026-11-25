@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Khorramshahr",
   "short_name": "مواقيت الصلاة في Khorramshahr",
   "description": "مواقيت الصلاة اليوم في Khorramshahr، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKhorramshahr.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-khorramshahr.html",
+  "id": "/ar/prayer-times-in-khorramshahr.html",
   "start_url": "./prayer-times-in-khorramshahr.html",
   "scope": "./prayer-times-in-khorramshahr.html",
   "display": "standalone",

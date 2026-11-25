@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Zliten",
   "short_name": "Gebedstijden in Zliten",
   "description": "De gebedstijden van vandaag in Zliten, Libië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Zliten.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-zliten.html",
+  "id": "/nl/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

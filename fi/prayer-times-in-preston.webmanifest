@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Preston",
   "short_name": "Rukousajat: Preston",
   "description": "Tämän päivän rukousajat paikassa Preston, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Preston.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-preston.html",
+  "id": "/fi/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

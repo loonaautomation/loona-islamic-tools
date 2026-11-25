@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sāveh",
   "short_name": "Bønnetider i Sāveh",
   "description": "Dagens bønnetider i Sāveh, Iran: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sāveh.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-saveh.html",
+  "id": "/nb/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kingston upon Hull",
   "short_name": "Orari di preghiera a Kingston upon Hull",
   "description": "Orari di preghiera di oggi a Kingston upon Hull, Regno Unito: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kingston upon Hull.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kingston-upon-hull.html",
+  "id": "/it/prayer-times-in-kingston-upon-hull.html",
   "start_url": "./prayer-times-in-kingston-upon-hull.html",
   "scope": "./prayer-times-in-kingston-upon-hull.html",
   "display": "standalone",

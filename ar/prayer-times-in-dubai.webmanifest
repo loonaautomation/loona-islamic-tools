@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dubai",
   "short_name": "مواقيت الصلاة في Dubai",
   "description": "مواقيت الصلاة اليوم في Dubai، الإمارات: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDubai.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dubai.html",
+  "id": "/ar/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

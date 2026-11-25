@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Ankara",
   "short_name": "Horários de Oração em Ankara",
   "description": "Horários de oração de hoje em Ankara, Turquia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Ankara.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-ankara.html",
+  "id": "/pt-pt/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

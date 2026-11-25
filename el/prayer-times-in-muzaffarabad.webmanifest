@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Muzaffarābād",
   "short_name": "Ώρες Προσευχής στο Muzaffarābād",
   "description": "Οι σημερινές ώρες προσευχής στο Muzaffarābād, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Muzaffarābād.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-muzaffarabad.html",
+  "id": "/el/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

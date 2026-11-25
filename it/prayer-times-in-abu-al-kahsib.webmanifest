@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Abū al-Kahṣīb",
   "short_name": "Orari di preghiera a Abū al-Kahṣīb",
   "description": "Orari di preghiera di oggi a Abū al-Kahṣīb, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Abū al-Kahṣīb.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-abu-al-kahsib.html",
+  "id": "/it/prayer-times-in-abu-al-kahsib.html",
   "start_url": "./prayer-times-in-abu-al-kahsib.html",
   "scope": "./prayer-times-in-abu-al-kahsib.html",
   "display": "standalone",

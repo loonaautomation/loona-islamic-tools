@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Okara",
   "short_name": "Gebetszeiten in Okara",
   "description": "Die heutigen Gebetszeiten in Okara, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Okara.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-okara.html",
+  "id": "/de/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

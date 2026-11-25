@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Brāhmanbāria",
   "short_name": "Часове за намаз в Brāhmanbāria",
   "description": "Днешните часове за намаз в Brāhmanbāria, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Brāhmanbāria.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-brahmanbaria.html",
+  "id": "/bg/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

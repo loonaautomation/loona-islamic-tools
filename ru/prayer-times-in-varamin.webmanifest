@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Varāmīn",
   "short_name": "Время намаза в городе Varāmīn",
   "description": "Время намаза на сегодня: Varāmīn, Иран: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Varāmīn.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-varamin.html",
+  "id": "/ru/prayer-times-in-varamin.html",
   "start_url": "./prayer-times-in-varamin.html",
   "scope": "./prayer-times-in-varamin.html",
   "display": "standalone",

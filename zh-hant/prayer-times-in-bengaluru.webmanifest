@@ -2,7 +2,7 @@
   "name": "Loona Bengaluru的禮拜時間",
   "short_name": "Bengaluru的禮拜時間",
   "description": "Bengaluru（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Bengaluru實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-bengaluru.html",
+  "id": "/zh-hant/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

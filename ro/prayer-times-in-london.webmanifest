@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în London",
   "short_name": "Ore de rugăciune în London",
   "description": "Orele de rugăciune de azi în London, Regatul Unit: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru London.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-london.html",
+  "id": "/ro/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

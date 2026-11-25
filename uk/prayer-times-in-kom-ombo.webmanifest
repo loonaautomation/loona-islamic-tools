@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kom Ombo",
   "short_name": "Час намазу в Kom Ombo",
   "description": "Сьогоднішній час намазу в Kom Ombo, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Kom Ombo.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kom-ombo.html",
+  "id": "/uk/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

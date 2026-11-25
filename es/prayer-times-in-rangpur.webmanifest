@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rangpur",
   "short_name": "Horarios de oración en Rangpur",
   "description": "Horarios de oración de hoy en Rangpur, Bangladés: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rangpur.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rangpur.html",
+  "id": "/es/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

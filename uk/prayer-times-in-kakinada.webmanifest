@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kākināda",
   "short_name": "Час намазу в Kākināda",
   "description": "Сьогоднішній час намазу в Kākināda, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kākināda.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kakinada.html",
+  "id": "/uk/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

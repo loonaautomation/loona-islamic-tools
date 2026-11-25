@@ -2,7 +2,7 @@
   "name": "Loona Esna Namaz Vakitleri",
   "short_name": "Esna Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Esna, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Esna için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-esna.html",
+  "id": "/tr/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

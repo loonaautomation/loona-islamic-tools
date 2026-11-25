@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Stockholm",
   "short_name": "Rukousajat: Stockholm",
   "description": "Tämän päivän rukousajat paikassa Stockholm, Ruotsi: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Stockholm.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-stockholm.html",
+  "id": "/fi/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

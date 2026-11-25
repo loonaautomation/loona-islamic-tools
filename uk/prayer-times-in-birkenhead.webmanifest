@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Birkenhead",
   "short_name": "Час намазу в Birkenhead",
   "description": "Сьогоднішній час намазу в Birkenhead, Сполучене Королівство: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Birkenhead.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-birkenhead.html",
+  "id": "/uk/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

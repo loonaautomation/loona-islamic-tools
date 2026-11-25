@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ranchi",
   "short_name": "Ώρες Προσευχής στο Ranchi",
   "description": "Οι σημερινές ώρες προσευχής στο Ranchi, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Ranchi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ranchi.html",
+  "id": "/el/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

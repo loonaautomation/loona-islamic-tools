@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bahawalnagar",
   "short_name": "Rukousajat: Bahawalnagar",
   "description": "Tämän päivän rukousajat paikassa Bahawalnagar, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Bahawalnagar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bahawalnagar.html",
+  "id": "/fi/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

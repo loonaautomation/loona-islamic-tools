@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Marka",
   "short_name": "Bönetider i Marka",
   "description": "Dagens bönetider i Marka, Somalia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Marka.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-marka.html",
+  "id": "/sv/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

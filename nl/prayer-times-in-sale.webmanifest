@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Salé",
   "short_name": "Gebedstijden in Salé",
   "description": "De gebedstijden van vandaag in Salé, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Salé.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sale.html",
+  "id": "/nl/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

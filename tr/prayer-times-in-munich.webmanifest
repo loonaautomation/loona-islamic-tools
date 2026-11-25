@@ -2,7 +2,7 @@
   "name": "Loona Munich Namaz Vakitleri",
   "short_name": "Munich Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Munich, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Munich için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-munich.html",
+  "id": "/tr/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

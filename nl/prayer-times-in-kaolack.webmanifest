@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kaolack",
   "short_name": "Gebedstijden in Kaolack",
   "description": "De gebedstijden van vandaag in Kaolack, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Kaolack.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kaolack.html",
+  "id": "/nl/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

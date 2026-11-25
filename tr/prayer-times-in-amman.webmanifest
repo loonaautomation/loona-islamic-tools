@@ -2,7 +2,7 @@
   "name": "Loona Amman Namaz Vakitleri",
   "short_name": "Amman Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Amman, Ürdün: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Amman için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-amman.html",
+  "id": "/tr/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

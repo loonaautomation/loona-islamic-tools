@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Hafizabad",
   "short_name": "Czasy modlitw w miejscowości Hafizabad",
   "description": "Dzisiejsze czasy modlitw w miejscowości Hafizabad, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Hafizabad.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-hafizabad.html",
+  "id": "/pl/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dhaka Today",
   "short_name": "Prayer Times in Dhaka Today",
   "description": "Today's prayer times in Dhaka, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Dhaka.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-dhaka.html",
+  "id": "/en-gb/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

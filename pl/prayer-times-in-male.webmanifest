@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Male",
   "short_name": "Czasy modlitw w miejscowości Male",
   "description": "Dzisiejsze czasy modlitw w miejscowości Male, kraj Malediwy: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Male.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-male.html",
+  "id": "/pl/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

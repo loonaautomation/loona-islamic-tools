@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Ḩasakah",
   "short_name": "Bönetider i Al Ḩasakah",
   "description": "Dagens bönetider i Al Ḩasakah, Syrien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Al Ḩasakah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-hasakah.html",
+  "id": "/sv/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

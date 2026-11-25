@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nagpur",
   "short_name": "Časy modliteb v Nagpur",
   "description": "Dnešní časy modliteb v Nagpur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Nagpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nagpur.html",
+  "id": "/cs/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

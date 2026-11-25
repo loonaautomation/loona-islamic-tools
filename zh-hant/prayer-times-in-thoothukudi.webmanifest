@@ -2,7 +2,7 @@
   "name": "Loona Thoothukudi的禮拜時間",
   "short_name": "Thoothukudi的禮拜時間",
   "description": "Thoothukudi（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Thoothukudi實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-thoothukudi.html",
+  "id": "/zh-hant/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

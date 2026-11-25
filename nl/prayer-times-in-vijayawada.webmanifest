@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Vijayawada",
   "short_name": "Gebedstijden in Vijayawada",
   "description": "De gebedstijden van vandaag in Vijayawada, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Vijayawada.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-vijayawada.html",
+  "id": "/nl/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

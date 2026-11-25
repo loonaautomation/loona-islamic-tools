@@ -2,7 +2,7 @@
   "name": "Loona Muzaffarnagar的禮拜時間",
   "short_name": "Muzaffarnagar的禮拜時間",
   "description": "Muzaffarnagar（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Muzaffarnagar實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-muzaffarnagar.html",
+  "id": "/zh-hant/prayer-times-in-muzaffarnagar.html",
   "start_url": "./prayer-times-in-muzaffarnagar.html",
   "scope": "./prayer-times-in-muzaffarnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Thāne",
   "short_name": "Prayer Times in Thāne",
   "description": "Today's prayer times in Thāne, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Thāne.",
-  "id": "/loona-islamic-tools/prayer-times-in-thane.html",
+  "id": "/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

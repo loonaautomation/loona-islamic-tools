@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Vienna",
   "short_name": "เวลาละหมาดใน Vienna",
   "description": "เวลาละหมาดวันนี้ใน Vienna, Austria: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Vienna",
-  "id": "/loona-islamic-tools/th/prayer-times-in-vienna.html",
+  "id": "/th/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

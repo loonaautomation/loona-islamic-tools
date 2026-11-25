@@ -2,7 +2,7 @@
   "name": "Loona Nice Namaz Vakitleri",
   "short_name": "Nice Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nice, Fransa: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Nice için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nice.html",
+  "id": "/tr/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

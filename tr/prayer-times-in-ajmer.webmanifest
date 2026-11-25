@@ -2,7 +2,7 @@
   "name": "Loona Ajmer Namaz Vakitleri",
   "short_name": "Ajmer Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ajmer, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Ajmer için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ajmer.html",
+  "id": "/tr/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

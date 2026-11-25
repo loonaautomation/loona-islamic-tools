@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Vadodara",
   "short_name": "Ώρες Προσευχής στο Vadodara",
   "description": "Οι σημερινές ώρες προσευχής στο Vadodara, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Vadodara.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-vadodara.html",
+  "id": "/el/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Banjul imaidői",
   "short_name": "Banjul imaidői",
   "description": "A mai imaidők: Banjul, Gambia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Banjul számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-banjul.html",
+  "id": "/hu/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

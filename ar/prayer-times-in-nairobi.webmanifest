@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nairobi",
   "short_name": "مواقيت الصلاة في Nairobi",
   "description": "مواقيت الصلاة اليوم في Nairobi، كينيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNairobi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nairobi.html",
+  "id": "/ar/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

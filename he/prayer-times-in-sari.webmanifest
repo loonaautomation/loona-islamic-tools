@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sari",
   "short_name": "זמני תפילה בעיר Sari",
   "description": "זמני התפילה של היום בעיר Sari, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sari.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sari.html",
+  "id": "/he/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

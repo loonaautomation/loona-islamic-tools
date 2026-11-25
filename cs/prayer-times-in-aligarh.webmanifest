@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Alīgarh",
   "short_name": "Časy modliteb v Alīgarh",
   "description": "Dnešní časy modliteb v Alīgarh, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Alīgarh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-aligarh.html",
+  "id": "/cs/prayer-times-in-aligarh.html",
   "start_url": "./prayer-times-in-aligarh.html",
   "scope": "./prayer-times-in-aligarh.html",
   "display": "standalone",

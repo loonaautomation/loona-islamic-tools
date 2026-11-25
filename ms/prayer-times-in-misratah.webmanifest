@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Misratah",
   "short_name": "Waktu Solat di Misratah",
   "description": "Waktu solat hari ini di Misratah, Libya: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Misratah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-misratah.html",
+  "id": "/ms/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

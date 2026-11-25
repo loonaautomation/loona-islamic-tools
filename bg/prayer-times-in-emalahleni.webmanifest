@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Emalahleni",
   "short_name": "Часове за намаз в Emalahleni",
   "description": "Днешните часове за намаз в Emalahleni, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Emalahleni.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-emalahleni.html",
+  "id": "/bg/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

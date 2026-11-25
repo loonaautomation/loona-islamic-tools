@@ -2,7 +2,7 @@
   "name": "Loona Şabyā imaidői",
   "short_name": "Şabyā imaidői",
   "description": "A mai imaidők: Şabyā, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Şabyā számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sabya.html",
+  "id": "/hu/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

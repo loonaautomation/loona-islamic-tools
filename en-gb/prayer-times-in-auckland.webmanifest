@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Auckland Today",
   "short_name": "Prayer Times in Auckland Today",
   "description": "Today's prayer times in Auckland, New Zealand: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Auckland.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-auckland.html",
+  "id": "/en-gb/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

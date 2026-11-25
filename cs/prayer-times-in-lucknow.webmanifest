@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Lucknow",
   "short_name": "Časy modliteb v Lucknow",
   "description": "Dnešní časy modliteb v Lucknow, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Lucknow.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-lucknow.html",
+  "id": "/cs/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

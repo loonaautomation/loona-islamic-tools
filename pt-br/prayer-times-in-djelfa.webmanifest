@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Djelfa",
   "short_name": "Horários de Oração em Djelfa",
   "description": "Horários de oração de hoje em Djelfa, Argélia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Djelfa.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-djelfa.html",
+  "id": "/pt-br/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

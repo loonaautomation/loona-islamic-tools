@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Córdoba",
   "short_name": "זמני תפילה בעיר Córdoba",
   "description": "זמני התפילה של היום בעיר Córdoba, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Córdoba.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cordoba.html",
+  "id": "/he/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

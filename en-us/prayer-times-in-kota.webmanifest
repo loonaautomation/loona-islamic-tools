@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kota Today",
   "short_name": "Prayer Times in Kota Today",
   "description": "Today's prayer times in Kota, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kota.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-kota.html",
+  "id": "/en-us/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

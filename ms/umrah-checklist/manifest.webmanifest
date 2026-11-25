@@ -2,7 +2,7 @@
   "name": "Loona Senarai Semak Umrah",
   "short_name": "Senarai Semak Umrah",
   "description": "Senarai semak Umrah interaktif: dokumen, tempahan, barang keperluan, kesihatan dan persediaan ibadah, dengan bar kemajuan, pilihan cetak dan kemajuan yang disimpan pada peranti anda.",
-  "id": "/loona-islamic-tools/ms/umrah-checklist/",
+  "id": "/ms/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

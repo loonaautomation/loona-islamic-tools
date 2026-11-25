@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в El Paso",
   "short_name": "Час намазу в El Paso",
   "description": "Сьогоднішній час намазу в El Paso, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для El Paso.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-el-paso.html",
+  "id": "/uk/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

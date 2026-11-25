@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Batikent",
   "short_name": "Časy modlitieb v Batikent",
   "description": "Dnešné časy modlitieb v Batikent, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Batikent.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-batikent.html",
+  "id": "/sk/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

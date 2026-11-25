@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mukalla",
   "short_name": "Часове за намаз в Mukalla",
   "description": "Днешните часове за намаз в Mukalla, Йемен: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Mukalla.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mukalla.html",
+  "id": "/bg/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

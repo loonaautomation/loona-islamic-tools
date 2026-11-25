@@ -2,7 +2,7 @@
   "name": "Loona Kabul Namaz Vakitleri",
   "short_name": "Kabul Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kabul, Afganistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Kabul için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kabul.html",
+  "id": "/tr/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

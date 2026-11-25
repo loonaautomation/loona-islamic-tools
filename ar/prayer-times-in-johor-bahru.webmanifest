@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Johor Bahru",
   "short_name": "مواقيت الصلاة في Johor Bahru",
   "description": "مواقيت الصلاة اليوم في Johor Bahru، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـJohor Bahru.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-johor-bahru.html",
+  "id": "/ar/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

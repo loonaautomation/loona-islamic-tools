@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Nottingham",
   "short_name": "Horarios de oración en Nottingham",
   "description": "Horarios de oración de hoy en Nottingham, Reino Unido: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Nottingham.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-nottingham.html",
+  "id": "/es/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

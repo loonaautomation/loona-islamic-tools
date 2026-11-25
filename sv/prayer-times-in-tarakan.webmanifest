@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tarakan",
   "short_name": "Bönetider i Tarakan",
   "description": "Dagens bönetider i Tarakan, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Tarakan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tarakan.html",
+  "id": "/sv/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

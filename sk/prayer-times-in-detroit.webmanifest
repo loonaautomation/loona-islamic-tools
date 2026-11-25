@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Detroit",
   "short_name": "Časy modlitieb v Detroit",
   "description": "Dnešné časy modlitieb v Detroit, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Detroit.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-detroit.html",
+  "id": "/sk/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

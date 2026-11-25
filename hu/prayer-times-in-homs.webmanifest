@@ -2,7 +2,7 @@
   "name": "Loona Homs imaidői",
   "short_name": "Homs imaidői",
   "description": "A mai imaidők: Homs, Szíria: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Homs számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-homs.html",
+  "id": "/hu/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

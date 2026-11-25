@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pekanbaru",
   "short_name": "مواقيت الصلاة في Pekanbaru",
   "description": "مواقيت الصلاة اليوم في Pekanbaru، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPekanbaru.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pekanbaru.html",
+  "id": "/ar/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

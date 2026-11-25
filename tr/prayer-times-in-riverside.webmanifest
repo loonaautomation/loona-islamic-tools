@@ -2,7 +2,7 @@
   "name": "Loona Riverside Namaz Vakitleri",
   "short_name": "Riverside Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Riverside, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Riverside için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-riverside.html",
+  "id": "/tr/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Howrah",
   "short_name": "זמני תפילה בעיר Howrah",
   "description": "זמני התפילה של היום בעיר Howrah, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Howrah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-howrah.html",
+  "id": "/he/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

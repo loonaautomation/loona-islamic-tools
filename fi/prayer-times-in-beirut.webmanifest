@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Beirut",
   "short_name": "Rukousajat: Beirut",
   "description": "Tämän päivän rukousajat paikassa Beirut, Libanon: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Beirut.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-beirut.html",
+  "id": "/fi/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

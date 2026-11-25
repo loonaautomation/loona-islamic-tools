@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Hubballi",
   "short_name": "Časy modlitieb v Hubballi",
   "description": "Dnešné časy modlitieb v Hubballi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Hubballi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-hubballi.html",
+  "id": "/sk/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

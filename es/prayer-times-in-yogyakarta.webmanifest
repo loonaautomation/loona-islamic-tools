@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Yogyakarta",
   "short_name": "Horarios de oración en Yogyakarta",
   "description": "Horarios de oración de hoy en Yogyakarta, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Yogyakarta.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-yogyakarta.html",
+  "id": "/es/prayer-times-in-yogyakarta.html",
   "start_url": "./prayer-times-in-yogyakarta.html",
   "scope": "./prayer-times-in-yogyakarta.html",
   "display": "standalone",

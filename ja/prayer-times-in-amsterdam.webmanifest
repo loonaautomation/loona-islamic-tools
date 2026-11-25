@@ -2,7 +2,7 @@
   "name": "Loona Amsterdam の礼拝時刻",
   "short_name": "Amsterdam の礼拝時刻",
   "description": "Amsterdam（オランダ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Amsterdam についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-amsterdam.html",
+  "id": "/ja/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

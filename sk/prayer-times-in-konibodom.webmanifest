@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Konibodom",
   "short_name": "Časy modlitieb v Konibodom",
   "description": "Dnešné časy modlitieb v Konibodom, Tadžikistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Konibodom.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-konibodom.html",
+  "id": "/sk/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

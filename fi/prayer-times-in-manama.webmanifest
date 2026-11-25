@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Manama",
   "short_name": "Rukousajat: Manama",
   "description": "Tämän päivän rukousajat paikassa Manama, Bahrain: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Umm al-Qura -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Manama.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-manama.html",
+  "id": "/fi/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

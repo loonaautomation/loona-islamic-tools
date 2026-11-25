@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Qina",
   "short_name": "مواقيت الصلاة في Qina",
   "description": "مواقيت الصلاة اليوم في Qina، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـQina.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-qina.html",
+  "id": "/ar/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

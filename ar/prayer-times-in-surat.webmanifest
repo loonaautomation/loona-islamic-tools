@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Surat",
   "short_name": "مواقيت الصلاة في Surat",
   "description": "مواقيت الصلاة اليوم في Surat، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSurat.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-surat.html",
+  "id": "/ar/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

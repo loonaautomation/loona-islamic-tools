@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in East London",
   "short_name": "Gebetszeiten in East London",
   "description": "Die heutigen Gebetszeiten in East London, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für East London.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-east-london.html",
+  "id": "/de/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Abu Dhabi",
   "short_name": "เวลาละหมาดใน Abu Dhabi",
   "description": "เวลาละหมาดวันนี้ใน Abu Dhabi, UAE: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Abu Dhabi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-abu-dhabi.html",
+  "id": "/th/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Tunis",
   "short_name": "Horarios de oración en Tunis",
   "description": "Horarios de oración de hoy en Tunis, Túnez: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Tunis.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-tunis.html",
+  "id": "/es/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

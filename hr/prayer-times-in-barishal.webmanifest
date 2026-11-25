@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Barishal",
   "short_name": "Vremena namaza u gradu Barishal",
   "description": "Današnja vremena namaza u gradu Barishal, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Barishal.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-barishal.html",
+  "id": "/hr/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

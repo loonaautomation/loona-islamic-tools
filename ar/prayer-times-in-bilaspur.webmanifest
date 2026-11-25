@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bilāspur",
   "short_name": "مواقيت الصلاة في Bilāspur",
   "description": "مواقيت الصلاة اليوم في Bilāspur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBilāspur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bilaspur.html",
+  "id": "/ar/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

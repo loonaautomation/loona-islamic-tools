@@ -2,7 +2,7 @@
   "name": "Loona Taiz imaidői",
   "short_name": "Taiz imaidői",
   "description": "A mai imaidők: Taiz, Jemen: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Taiz számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-taiz.html",
+  "id": "/hu/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

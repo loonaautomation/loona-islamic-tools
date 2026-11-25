@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Zarqa",
   "short_name": "Gebedstijden in Zarqa",
   "description": "De gebedstijden van vandaag in Zarqa, Jordanië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Zarqa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-zarqa.html",
+  "id": "/nl/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

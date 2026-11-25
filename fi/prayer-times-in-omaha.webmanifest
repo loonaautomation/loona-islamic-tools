@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Omaha",
   "short_name": "Rukousajat: Omaha",
   "description": "Tämän päivän rukousajat paikassa Omaha, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Omaha.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-omaha.html",
+  "id": "/fi/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Barishal",
   "short_name": "Czasy modlitw w miejscowości Barishal",
   "description": "Dzisiejsze czasy modlitw w miejscowości Barishal, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Barishal.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-barishal.html",
+  "id": "/pl/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

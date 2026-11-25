@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kabul",
   "short_name": "Časy modlitieb v Kabul",
   "description": "Dnešné časy modlitieb v Kabul, Afganistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kabul.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kabul.html",
+  "id": "/sk/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

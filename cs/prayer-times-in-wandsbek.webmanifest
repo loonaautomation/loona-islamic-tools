@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Wandsbek",
   "short_name": "Časy modliteb v Wandsbek",
   "description": "Dnešní časy modliteb v Wandsbek, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Wandsbek.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-wandsbek.html",
+  "id": "/cs/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

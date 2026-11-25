@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kadapa",
   "short_name": "Часове за намаз в Kadapa",
   "description": "Днешните часове за намаз в Kadapa, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kadapa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kadapa.html",
+  "id": "/bg/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

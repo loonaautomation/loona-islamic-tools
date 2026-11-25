@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bengkulu",
   "short_name": "Часове за намаз в Bengkulu",
   "description": "Днешните часове за намаз в Bengkulu, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bengkulu.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bengkulu.html",
+  "id": "/bg/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

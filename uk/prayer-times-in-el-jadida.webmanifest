@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в El Jadida",
   "short_name": "Час намазу в El Jadida",
   "description": "Сьогоднішній час намазу в El Jadida, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для El Jadida.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-el-jadida.html",
+  "id": "/uk/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

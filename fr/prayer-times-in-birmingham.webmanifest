@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Birmingham",
   "short_name": "Heures de prière à Birmingham",
   "description": "Les heures de prière d’aujourd’hui à Birmingham, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Birmingham.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-birmingham.html",
+  "id": "/fr/prayer-times-in-birmingham.html",
   "start_url": "./prayer-times-in-birmingham.html",
   "scope": "./prayer-times-in-birmingham.html",
   "display": "standalone",

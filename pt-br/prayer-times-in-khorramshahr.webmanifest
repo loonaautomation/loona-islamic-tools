@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Khorramshahr",
   "short_name": "Horários de Oração em Khorramshahr",
   "description": "Horários de oração de hoje em Khorramshahr, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Khorramshahr.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-khorramshahr.html",
+  "id": "/pt-br/prayer-times-in-khorramshahr.html",
   "start_url": "./prayer-times-in-khorramshahr.html",
   "scope": "./prayer-times-in-khorramshahr.html",
   "display": "standalone",

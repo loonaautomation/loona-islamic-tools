@@ -2,7 +2,7 @@
   "name": "Loona Lahore imaidői",
   "short_name": "Lahore imaidői",
   "description": "A mai imaidők: Lahore, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Lahore számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-lahore.html",
+  "id": "/hu/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dehradun",
   "short_name": "Часове за намаз в Dehradun",
   "description": "Днешните часове за намаз в Dehradun, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Dehradun.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dehradun.html",
+  "id": "/bg/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

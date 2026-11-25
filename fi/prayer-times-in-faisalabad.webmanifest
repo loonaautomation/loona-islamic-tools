@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Faisalabad",
   "short_name": "Rukousajat: Faisalabad",
   "description": "Tämän päivän rukousajat paikassa Faisalabad, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Faisalabad.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-faisalabad.html",
+  "id": "/fi/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

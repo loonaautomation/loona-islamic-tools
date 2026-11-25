@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sholapur",
   "short_name": "Waktu Salat di Sholapur",
   "description": "Waktu salat hari ini di Sholapur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Sholapur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sholapur.html",
+  "id": "/id/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

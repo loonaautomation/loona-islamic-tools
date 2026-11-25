@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Fīrozābād",
   "short_name": "Horários de Oração em Fīrozābād",
   "description": "Horários de oração de hoje em Fīrozābād, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Fīrozābād.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-firozabad.html",
+  "id": "/pt/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

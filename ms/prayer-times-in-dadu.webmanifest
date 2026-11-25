@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dadu",
   "short_name": "Waktu Solat di Dadu",
   "description": "Waktu solat hari ini di Dadu, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Dadu.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dadu.html",
+  "id": "/ms/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

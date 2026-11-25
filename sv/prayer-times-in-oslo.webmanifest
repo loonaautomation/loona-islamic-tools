@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Oslo",
   "short_name": "Bönetider i Oslo",
   "description": "Dagens bönetider i Oslo, Norge: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Oslo.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-oslo.html",
+  "id": "/sv/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

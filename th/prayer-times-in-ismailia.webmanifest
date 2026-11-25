@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ismailia",
   "short_name": "เวลาละหมาดใน Ismailia",
   "description": "เวลาละหมาดวันนี้ใน Ismailia, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ismailia",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ismailia.html",
+  "id": "/th/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

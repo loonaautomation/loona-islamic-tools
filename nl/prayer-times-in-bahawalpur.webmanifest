@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bahawalpur",
   "short_name": "Gebedstijden in Bahawalpur",
   "description": "De gebedstijden van vandaag in Bahawalpur, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Bahawalpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bahawalpur.html",
+  "id": "/nl/prayer-times-in-bahawalpur.html",
   "start_url": "./prayer-times-in-bahawalpur.html",
   "scope": "./prayer-times-in-bahawalpur.html",
   "display": "standalone",

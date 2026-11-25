@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Hillah",
   "short_name": "Bønnetider i Al Hillah",
   "description": "Dagens bønnetider i Al Hillah, Irak: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Al Hillah.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-al-hillah.html",
+  "id": "/da/prayer-times-in-al-hillah.html",
   "start_url": "./prayer-times-in-al-hillah.html",
   "scope": "./prayer-times-in-al-hillah.html",
   "display": "standalone",

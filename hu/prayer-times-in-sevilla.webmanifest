@@ -2,7 +2,7 @@
   "name": "Loona Sevilla imaidői",
   "short_name": "Sevilla imaidői",
   "description": "A mai imaidők: Sevilla, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sevilla számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sevilla.html",
+  "id": "/hu/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

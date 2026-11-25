@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kāmārhāti",
   "short_name": "Bønnetider i Kāmārhāti",
   "description": "Dagens bønnetider i Kāmārhāti, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kāmārhāti.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kamarhati.html",
+  "id": "/nb/prayer-times-in-kamarhati.html",
   "start_url": "./prayer-times-in-kamarhati.html",
   "scope": "./prayer-times-in-kamarhati.html",
   "display": "standalone",

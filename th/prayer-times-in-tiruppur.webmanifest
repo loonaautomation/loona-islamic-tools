@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tiruppur",
   "short_name": "เวลาละหมาดใน Tiruppur",
   "description": "เวลาละหมาดวันนี้ใน Tiruppur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tiruppur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tiruppur.html",
+  "id": "/th/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

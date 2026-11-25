@@ -2,7 +2,7 @@
   "name": "Loona Ţarţūs imaidői",
   "short_name": "Ţarţūs imaidői",
   "description": "A mai imaidők: Ţarţūs, Szíria: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Ţarţūs számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tartus.html",
+  "id": "/hu/prayer-times-in-tartus.html",
   "start_url": "./prayer-times-in-tartus.html",
   "scope": "./prayer-times-in-tartus.html",
   "display": "standalone",

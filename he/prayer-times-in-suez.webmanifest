@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Suez",
   "short_name": "זמני תפילה בעיר Suez",
   "description": "זמני התפילה של היום בעיר Suez, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Suez.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-suez.html",
+  "id": "/he/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

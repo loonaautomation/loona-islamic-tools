@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Amman Today",
   "short_name": "Prayer Times in Amman Today",
   "description": "Today's prayer times in Amman, Jordan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Amman.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-amman.html",
+  "id": "/en-us/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

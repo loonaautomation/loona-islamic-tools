@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Reading",
   "short_name": "Bønnetider i Reading",
   "description": "Dagens bønnetider i Reading, Storbritannien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Reading.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-reading.html",
+  "id": "/da/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

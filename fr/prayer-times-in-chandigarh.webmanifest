@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Chandigarh",
   "short_name": "Heures de prière à Chandigarh",
   "description": "Les heures de prière d’aujourd’hui à Chandigarh, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Chandigarh.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-chandigarh.html",
+  "id": "/fr/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

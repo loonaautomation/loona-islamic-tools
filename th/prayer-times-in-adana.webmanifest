@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Adana",
   "short_name": "เวลาละหมาดใน Adana",
   "description": "เวลาละหมาดวันนี้ใน Adana, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Adana",
-  "id": "/loona-islamic-tools/th/prayer-times-in-adana.html",
+  "id": "/th/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

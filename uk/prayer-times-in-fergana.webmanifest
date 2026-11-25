@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Fergana",
   "short_name": "Час намазу в Fergana",
   "description": "Сьогоднішній час намазу в Fergana, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Fergana.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-fergana.html",
+  "id": "/uk/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

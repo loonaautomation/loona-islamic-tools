@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cirebon",
   "short_name": "Gebedstijden in Cirebon",
   "description": "De gebedstijden van vandaag in Cirebon, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Cirebon.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cirebon.html",
+  "id": "/nl/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

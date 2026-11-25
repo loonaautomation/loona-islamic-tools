@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Québec",
   "short_name": "Heures de prière à Québec",
   "description": "Les heures de prière d’aujourd’hui à Québec, Canada : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Québec.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-quebec.html",
+  "id": "/fr/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

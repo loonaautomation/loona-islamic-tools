@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Naples",
   "short_name": "Gebedstijden in Naples",
   "description": "De gebedstijden van vandaag in Naples, Italië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Naples.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-naples.html",
+  "id": "/nl/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

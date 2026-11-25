@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Valladolid",
   "short_name": "Časy modliteb v Valladolid",
   "description": "Dnešní časy modliteb v Valladolid, Španělsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Valladolid.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-valladolid.html",
+  "id": "/cs/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

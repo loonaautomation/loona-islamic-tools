@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Visakhapatnam",
   "short_name": "Bønnetider i Visakhapatnam",
   "description": "Dagens bønnetider i Visakhapatnam, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Visakhapatnam.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-visakhapatnam.html",
+  "id": "/nb/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

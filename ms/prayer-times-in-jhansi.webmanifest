@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jhānsi",
   "short_name": "Waktu Solat di Jhānsi",
   "description": "Waktu solat hari ini di Jhānsi, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Jhānsi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jhansi.html",
+  "id": "/ms/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

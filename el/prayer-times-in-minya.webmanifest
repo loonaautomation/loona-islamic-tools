@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Minya",
   "short_name": "Ώρες Προσευχής στο Minya",
   "description": "Οι σημερινές ώρες προσευχής στο Minya, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Minya.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-minya.html",
+  "id": "/el/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

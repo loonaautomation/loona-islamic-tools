@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mazār-e Sharīf",
   "short_name": "זמני תפילה בעיר Mazār-e Sharīf",
   "description": "זמני התפילה של היום בעיר Mazār-e Sharīf, אפגניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mazar-e-sharif.html",
+  "id": "/he/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

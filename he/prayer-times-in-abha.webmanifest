@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Abha",
   "short_name": "זמני תפילה בעיר Abha",
   "description": "זמני התפילה של היום בעיר Abha, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Abha.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-abha.html",
+  "id": "/he/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

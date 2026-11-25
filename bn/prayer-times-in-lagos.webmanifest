@@ -2,7 +2,7 @@
   "name": "Loona Lagos-এ নামাজের সময়",
   "short_name": "Lagos-এ নামাজের সময়",
   "description": "Lagos, নাইজেরিয়া-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Karachi পদ্ধতি, আপনার ডিভাইসে Lagos-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-lagos.html",
+  "id": "/bn/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

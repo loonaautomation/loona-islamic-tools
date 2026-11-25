@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Latur",
   "short_name": "Orari di preghiera a Latur",
   "description": "Orari di preghiera di oggi a Latur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Latur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-latur.html",
+  "id": "/it/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

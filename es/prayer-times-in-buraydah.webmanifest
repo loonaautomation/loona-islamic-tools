@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Buraydah",
   "short_name": "Horarios de oración en Buraydah",
   "description": "Horarios de oración de hoy en Buraydah, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Buraydah.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-buraydah.html",
+  "id": "/es/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

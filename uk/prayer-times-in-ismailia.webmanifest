@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ismailia",
   "short_name": "Час намазу в Ismailia",
   "description": "Сьогоднішній час намазу в Ismailia, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Ismailia.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ismailia.html",
+  "id": "/uk/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

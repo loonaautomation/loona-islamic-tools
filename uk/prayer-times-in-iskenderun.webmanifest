@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в İskenderun",
   "short_name": "Час намазу в İskenderun",
   "description": "Сьогоднішній час намазу в İskenderun, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для İskenderun.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-iskenderun.html",
+  "id": "/uk/prayer-times-in-iskenderun.html",
   "start_url": "./prayer-times-in-iskenderun.html",
   "scope": "./prayer-times-in-iskenderun.html",
   "display": "standalone",

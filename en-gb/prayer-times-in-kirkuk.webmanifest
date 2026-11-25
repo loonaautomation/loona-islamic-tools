@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kirkuk Today",
   "short_name": "Prayer Times in Kirkuk Today",
   "description": "Today's prayer times in Kirkuk, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kirkuk.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-kirkuk.html",
+  "id": "/en-gb/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

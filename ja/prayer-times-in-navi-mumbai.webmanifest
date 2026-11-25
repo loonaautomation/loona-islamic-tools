@@ -2,7 +2,7 @@
   "name": "Loona Navi Mumbai の礼拝時刻",
   "short_name": "Navi Mumbai の礼拝時刻",
   "description": "Navi Mumbai（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Navi Mumbai についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-navi-mumbai.html",
+  "id": "/ja/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Fort Worth",
   "short_name": "Ώρες Προσευχής στο Fort Worth",
   "description": "Οι σημερινές ώρες προσευχής στο Fort Worth, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Fort Worth.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-fort-worth.html",
+  "id": "/el/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

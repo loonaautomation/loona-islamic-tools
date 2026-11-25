@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nantes",
   "short_name": "Rukousajat: Nantes",
   "description": "Tämän päivän rukousajat paikassa Nantes, Ranska: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Nantes.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nantes.html",
+  "id": "/fi/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

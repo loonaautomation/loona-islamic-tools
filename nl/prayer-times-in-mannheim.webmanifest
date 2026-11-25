@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mannheim",
   "short_name": "Gebedstijden in Mannheim",
   "description": "De gebedstijden van vandaag in Mannheim, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Mannheim.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mannheim.html",
+  "id": "/nl/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

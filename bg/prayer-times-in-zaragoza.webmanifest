@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Zaragoza",
   "short_name": "Часове за намаз в Zaragoza",
   "description": "Днешните часове за намаз в Zaragoza, Испания: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Zaragoza.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-zaragoza.html",
+  "id": "/bg/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

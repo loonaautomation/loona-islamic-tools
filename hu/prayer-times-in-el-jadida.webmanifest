@@ -2,7 +2,7 @@
   "name": "Loona El Jadida imaidői",
   "short_name": "El Jadida imaidői",
   "description": "A mai imaidők: El Jadida, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén El Jadida számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-el-jadida.html",
+  "id": "/hu/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Khamis Mushait",
   "short_name": "Gebetszeiten in Khamis Mushait",
   "description": "Die heutigen Gebetszeiten in Khamis Mushait, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Khamis Mushait.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-khamis-mushait.html",
+  "id": "/de/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

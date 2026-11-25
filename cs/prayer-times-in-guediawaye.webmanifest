@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Guédiawaye",
   "short_name": "Časy modliteb v Guédiawaye",
   "description": "Dnešní časy modliteb v Guédiawaye, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Guédiawaye.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-guediawaye.html",
+  "id": "/cs/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

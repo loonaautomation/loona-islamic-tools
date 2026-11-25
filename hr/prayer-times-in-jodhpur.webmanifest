@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jodhpur",
   "short_name": "Vremena namaza u gradu Jodhpur",
   "description": "Današnja vremena namaza u gradu Jodhpur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jodhpur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jodhpur.html",
+  "id": "/hr/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

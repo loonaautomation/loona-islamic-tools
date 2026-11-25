@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Arlington",
   "short_name": "Horarios de oración en Arlington",
   "description": "Horarios de oración de hoy en Arlington, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Arlington.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-arlington.html",
+  "id": "/es/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

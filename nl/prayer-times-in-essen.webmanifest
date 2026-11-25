@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Essen",
   "short_name": "Gebedstijden in Essen",
   "description": "De gebedstijden van vandaag in Essen, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Essen.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-essen.html",
+  "id": "/nl/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

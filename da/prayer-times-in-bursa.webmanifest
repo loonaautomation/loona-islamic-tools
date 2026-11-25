@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bursa",
   "short_name": "Bønnetider i Bursa",
   "description": "Dagens bønnetider i Bursa, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Bursa.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bursa.html",
+  "id": "/da/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

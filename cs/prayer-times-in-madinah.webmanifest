@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Madinah",
   "short_name": "Časy modliteb v Madinah",
   "description": "Dnešní časy modliteb v Madinah, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Madinah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-madinah.html",
+  "id": "/cs/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

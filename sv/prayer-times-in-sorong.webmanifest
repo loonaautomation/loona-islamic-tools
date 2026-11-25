@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sorong",
   "short_name": "Bönetider i Sorong",
   "description": "Dagens bönetider i Sorong, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sorong.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sorong.html",
+  "id": "/sv/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

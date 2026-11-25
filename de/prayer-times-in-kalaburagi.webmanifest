@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kalaburagi",
   "short_name": "Gebetszeiten in Kalaburagi",
   "description": "Die heutigen Gebetszeiten in Kalaburagi, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kalaburagi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kalaburagi.html",
+  "id": "/de/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

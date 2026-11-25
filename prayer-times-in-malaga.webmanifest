@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Málaga",
   "short_name": "Prayer Times in Málaga",
   "description": "Today's prayer times in Málaga, Spain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Málaga.",
-  "id": "/loona-islamic-tools/prayer-times-in-malaga.html",
+  "id": "/prayer-times-in-malaga.html",
   "start_url": "./prayer-times-in-malaga.html",
   "scope": "./prayer-times-in-malaga.html",
   "display": "standalone",

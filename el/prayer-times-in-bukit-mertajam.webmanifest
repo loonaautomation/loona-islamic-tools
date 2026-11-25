@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bukit Mertajam",
   "short_name": "Ώρες Προσευχής στο Bukit Mertajam",
   "description": "Οι σημερινές ώρες προσευχής στο Bukit Mertajam, Μαλαισία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Bukit Mertajam.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bukit-mertajam.html",
+  "id": "/el/prayer-times-in-bukit-mertajam.html",
   "start_url": "./prayer-times-in-bukit-mertajam.html",
   "scope": "./prayer-times-in-bukit-mertajam.html",
   "display": "standalone",

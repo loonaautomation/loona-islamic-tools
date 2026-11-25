@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Aksaray",
   "short_name": "Часове за намаз в Aksaray",
   "description": "Днешните часове за намаз в Aksaray, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Aksaray.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-aksaray.html",
+  "id": "/bg/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

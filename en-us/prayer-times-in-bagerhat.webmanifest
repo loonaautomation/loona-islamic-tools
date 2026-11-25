@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bagerhat Today",
   "short_name": "Prayer Times in Bagerhat Today",
   "description": "Today's prayer times in Bagerhat, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Bagerhat.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-bagerhat.html",
+  "id": "/en-us/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

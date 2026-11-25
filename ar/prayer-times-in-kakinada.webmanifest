@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kākināda",
   "short_name": "مواقيت الصلاة في Kākināda",
   "description": "مواقيت الصلاة اليوم في Kākināda، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKākināda.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kakinada.html",
+  "id": "/ar/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

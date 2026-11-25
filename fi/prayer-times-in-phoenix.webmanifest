@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Phoenix",
   "short_name": "Rukousajat: Phoenix",
   "description": "Tämän päivän rukousajat paikassa Phoenix, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Phoenix.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-phoenix.html",
+  "id": "/fi/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

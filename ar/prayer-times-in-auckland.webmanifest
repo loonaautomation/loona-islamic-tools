@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Auckland",
   "short_name": "مواقيت الصلاة في Auckland",
   "description": "مواقيت الصلاة اليوم في Auckland، نيوزيلندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAuckland.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-auckland.html",
+  "id": "/ar/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

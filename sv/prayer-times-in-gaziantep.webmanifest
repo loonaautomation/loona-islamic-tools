@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gaziantep",
   "short_name": "Bönetider i Gaziantep",
   "description": "Dagens bönetider i Gaziantep, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Gaziantep.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gaziantep.html",
+  "id": "/sv/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

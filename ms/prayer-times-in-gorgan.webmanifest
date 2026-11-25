@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Gorgān",
   "short_name": "Waktu Solat di Gorgān",
   "description": "Waktu solat hari ini di Gorgān, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Gorgān.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-gorgan.html",
+  "id": "/ms/prayer-times-in-gorgan.html",
   "start_url": "./prayer-times-in-gorgan.html",
   "scope": "./prayer-times-in-gorgan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ardabīl",
   "short_name": "Waktu Solat di Ardabīl",
   "description": "Waktu solat hari ini di Ardabīl, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Ardabīl.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ardabil.html",
+  "id": "/ms/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

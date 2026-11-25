@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Erode",
   "short_name": "Rukousajat: Erode",
   "description": "Tämän päivän rukousajat paikassa Erode, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Erode.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-erode.html",
+  "id": "/fi/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

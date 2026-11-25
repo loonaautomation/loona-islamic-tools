@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Temara",
   "short_name": "Czasy modlitw w miejscowości Temara",
   "description": "Dzisiejsze czasy modlitw w miejscowości Temara, kraj Maroko: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Temara.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-temara.html",
+  "id": "/pl/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Brāhmanbāria",
   "short_name": "Ώρες Προσευχής στο Brāhmanbāria",
   "description": "Οι σημερινές ώρες προσευχής στο Brāhmanbāria, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Brāhmanbāria.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-brahmanbaria.html",
+  "id": "/el/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mbour",
   "short_name": "Часове за намаз в Mbour",
   "description": "Днешните часове за намаз в Mbour, Сенегал: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Mbour.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mbour.html",
+  "id": "/bg/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

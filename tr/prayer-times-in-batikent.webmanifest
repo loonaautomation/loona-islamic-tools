@@ -2,7 +2,7 @@
   "name": "Loona Batikent Namaz Vakitleri",
   "short_name": "Batikent Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Batikent, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Batikent için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-batikent.html",
+  "id": "/tr/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

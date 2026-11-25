@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Balıkesir",
   "short_name": "Gebedstijden in Balıkesir",
   "description": "De gebedstijden van vandaag in Balıkesir, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Balıkesir.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-balikesir.html",
+  "id": "/nl/prayer-times-in-balikesir.html",
   "start_url": "./prayer-times-in-balikesir.html",
   "scope": "./prayer-times-in-balikesir.html",
   "display": "standalone",

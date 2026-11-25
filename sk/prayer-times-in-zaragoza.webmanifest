@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Zaragoza",
   "short_name": "Časy modlitieb v Zaragoza",
   "description": "Dnešné časy modlitieb v Zaragoza, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Zaragoza.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-zaragoza.html",
+  "id": "/sk/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

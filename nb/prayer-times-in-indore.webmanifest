@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Indore",
   "short_name": "Bønnetider i Indore",
   "description": "Dagens bønnetider i Indore, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Indore.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-indore.html",
+  "id": "/nb/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

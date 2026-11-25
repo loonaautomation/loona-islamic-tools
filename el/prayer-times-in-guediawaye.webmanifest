@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Guédiawaye",
   "short_name": "Ώρες Προσευχής στο Guédiawaye",
   "description": "Οι σημερινές ώρες προσευχής στο Guédiawaye, Σενεγάλη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Guédiawaye.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-guediawaye.html",
+  "id": "/el/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

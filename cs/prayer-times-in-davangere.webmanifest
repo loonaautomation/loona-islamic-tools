@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Davangere",
   "short_name": "Časy modliteb v Davangere",
   "description": "Dnešní časy modliteb v Davangere, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Davangere.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-davangere.html",
+  "id": "/cs/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

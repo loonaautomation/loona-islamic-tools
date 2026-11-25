@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ḩayy Khildā",
   "short_name": "Час намазу в Ḩayy Khildā",
   "description": "Сьогоднішній час намазу в Ḩayy Khildā, Йорданія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ḩayy Khildā.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hayy-khilda.html",
+  "id": "/uk/prayer-times-in-hayy-khilda.html",
   "start_url": "./prayer-times-in-hayy-khilda.html",
   "scope": "./prayer-times-in-hayy-khilda.html",
   "display": "standalone",

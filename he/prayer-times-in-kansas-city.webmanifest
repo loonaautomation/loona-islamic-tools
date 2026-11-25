@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kansas City",
   "short_name": "זמני תפילה בעיר Kansas City",
   "description": "זמני התפילה של היום בעיר Kansas City, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Kansas City.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kansas-city.html",
+  "id": "/he/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

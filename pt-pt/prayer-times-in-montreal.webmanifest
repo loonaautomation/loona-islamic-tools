@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Montréal",
   "short_name": "Horários de Oração em Montréal",
   "description": "Horários de oração de hoje em Montréal, Canadá: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Montréal.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-montreal.html",
+  "id": "/pt-pt/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

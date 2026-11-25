@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sanaa",
   "short_name": "Časy modliteb v Sanaa",
   "description": "Dnešní časy modliteb v Sanaa, Jemen: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sanaa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sanaa.html",
+  "id": "/cs/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rajshahi",
   "short_name": "Gebetszeiten in Rajshahi",
   "description": "Die heutigen Gebetszeiten in Rajshahi, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rajshahi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rajshahi.html",
+  "id": "/de/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

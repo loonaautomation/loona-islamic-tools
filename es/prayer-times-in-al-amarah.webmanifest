@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Al ‘Amārah",
   "short_name": "Horarios de oración en Al ‘Amārah",
   "description": "Horarios de oración de hoy en Al ‘Amārah, Irak: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Al ‘Amārah.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-al-amarah.html",
+  "id": "/es/prayer-times-in-al-amarah.html",
   "start_url": "./prayer-times-in-al-amarah.html",
   "scope": "./prayer-times-in-al-amarah.html",
   "display": "standalone",

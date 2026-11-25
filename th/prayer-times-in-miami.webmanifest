@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Miami",
   "short_name": "เวลาละหมาดใน Miami",
   "description": "เวลาละหมาดวันนี้ใน Miami, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Miami",
-  "id": "/loona-islamic-tools/th/prayer-times-in-miami.html",
+  "id": "/th/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

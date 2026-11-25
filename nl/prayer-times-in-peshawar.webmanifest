@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Peshawar",
   "short_name": "Gebedstijden in Peshawar",
   "description": "De gebedstijden van vandaag in Peshawar, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Peshawar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-peshawar.html",
+  "id": "/nl/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

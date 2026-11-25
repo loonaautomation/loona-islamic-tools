@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе El Daein",
   "short_name": "Время намаза в городе El Daein",
   "description": "Время намаза на сегодня: El Daein, Судан: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города El Daein.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-el-daein.html",
+  "id": "/ru/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

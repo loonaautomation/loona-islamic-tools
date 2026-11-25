@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Homs",
   "short_name": "Bönetider i Homs",
   "description": "Dagens bönetider i Homs, Syrien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Homs.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-homs.html",
+  "id": "/sv/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

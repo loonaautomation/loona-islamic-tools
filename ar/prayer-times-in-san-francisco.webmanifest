@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في San Francisco",
   "short_name": "مواقيت الصلاة في San Francisco",
   "description": "مواقيت الصلاة اليوم في San Francisco، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـSan Francisco.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-san-francisco.html",
+  "id": "/ar/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

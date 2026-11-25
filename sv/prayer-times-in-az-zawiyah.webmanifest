@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Az Zāwīyah",
   "short_name": "Bönetider i Az Zāwīyah",
   "description": "Dagens bönetider i Az Zāwīyah, Libyen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Az Zāwīyah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-az-zawiyah.html",
+  "id": "/sv/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

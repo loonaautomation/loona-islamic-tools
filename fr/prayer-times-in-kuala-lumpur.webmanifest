@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kuala Lumpur",
   "short_name": "Heures de prière à Kuala Lumpur",
   "description": "Les heures de prière d’aujourd’hui à Kuala Lumpur, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Kuala Lumpur.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kuala-lumpur.html",
+  "id": "/fr/prayer-times-in-kuala-lumpur.html",
   "start_url": "./prayer-times-in-kuala-lumpur.html",
   "scope": "./prayer-times-in-kuala-lumpur.html",
   "display": "standalone",

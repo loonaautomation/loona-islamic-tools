@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Irbid",
   "short_name": "Bönetider i Irbid",
   "description": "Dagens bönetider i Irbid, Jordanien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Irbid.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-irbid.html",
+  "id": "/sv/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

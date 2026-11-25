@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Isfahan",
   "short_name": "זמני תפילה בעיר Isfahan",
   "description": "זמני התפילה של היום בעיר Isfahan, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Isfahan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-isfahan.html",
+  "id": "/he/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

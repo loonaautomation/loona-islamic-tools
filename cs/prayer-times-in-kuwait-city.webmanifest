@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kuwait City",
   "short_name": "Časy modliteb v Kuwait City",
   "description": "Dnešní časy modliteb v Kuvajt City, Kuvajt: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kuvajt City.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kuwait-city.html",
+  "id": "/cs/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

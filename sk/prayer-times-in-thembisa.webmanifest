@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Thembisa",
   "short_name": "Časy modlitieb v Thembisa",
   "description": "Dnešné časy modlitieb v Thembisa, Juhoafrická republika: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Thembisa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-thembisa.html",
+  "id": "/sk/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

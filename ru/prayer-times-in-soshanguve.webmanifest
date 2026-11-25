@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Soshanguve",
   "short_name": "Время намаза в городе Soshanguve",
   "description": "Время намаза на сегодня: Soshanguve, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Soshanguve.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-soshanguve.html",
+  "id": "/ru/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

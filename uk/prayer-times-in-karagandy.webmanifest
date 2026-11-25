@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Karagandy",
   "short_name": "Час намазу в Karagandy",
   "description": "Сьогоднішній час намазу в Karagandy, Казахстан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Karagandy.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-karagandy.html",
+  "id": "/uk/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

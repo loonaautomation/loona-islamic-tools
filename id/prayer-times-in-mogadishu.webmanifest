@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mogadishu",
   "short_name": "Waktu Salat di Mogadishu",
   "description": "Waktu salat hari ini di Mogadishu, Somalia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Mogadishu.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mogadishu.html",
+  "id": "/id/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

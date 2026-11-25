@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v London",
   "short_name": "Časy modlitieb v London",
   "description": "Dnešné časy modlitieb v London, Spojené kráľovstvo: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre London.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-london.html",
+  "id": "/sk/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

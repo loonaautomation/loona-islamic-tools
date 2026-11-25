@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pematangsiantar",
   "short_name": "Heures de prière à Pematangsiantar",
   "description": "Les heures de prière d’aujourd’hui à Pematangsiantar, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Pematangsiantar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pematangsiantar.html",
+  "id": "/fr/prayer-times-in-pematangsiantar.html",
   "start_url": "./prayer-times-in-pematangsiantar.html",
   "scope": "./prayer-times-in-pematangsiantar.html",
   "display": "standalone",

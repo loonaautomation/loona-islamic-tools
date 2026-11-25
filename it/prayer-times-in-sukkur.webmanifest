@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sukkur",
   "short_name": "Orari di preghiera a Sukkur",
   "description": "Orari di preghiera di oggi a Sukkur, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Sukkur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sukkur.html",
+  "id": "/it/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

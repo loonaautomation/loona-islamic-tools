@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Elazığ",
   "short_name": "Gebetszeiten in Elazığ",
   "description": "Die heutigen Gebetszeiten in Elazığ, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Elazığ.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-elazig.html",
+  "id": "/de/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

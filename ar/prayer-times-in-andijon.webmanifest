@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Andijon",
   "short_name": "مواقيت الصلاة في Andijon",
   "description": "مواقيت الصلاة اليوم في Andijon، أوزبكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAndijon.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-andijon.html",
+  "id": "/ar/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

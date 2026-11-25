@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Navi Mumbai",
   "short_name": "Waktu Solat di Navi Mumbai",
   "description": "Waktu solat hari ini di Navi Mumbai, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Navi Mumbai.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-navi-mumbai.html",
+  "id": "/ms/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

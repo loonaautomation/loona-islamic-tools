@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Ra’s Bayrūt",
   "short_name": "Horários de Oração em Ra’s Bayrūt",
   "description": "Horários de oração de hoje em Ra’s Bayrūt, Líbano: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Ra’s Bayrūt.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-ra-s-bayrut.html",
+  "id": "/pt/prayer-times-in-ra-s-bayrut.html",
   "start_url": "./prayer-times-in-ra-s-bayrut.html",
   "scope": "./prayer-times-in-ra-s-bayrut.html",
   "display": "standalone",

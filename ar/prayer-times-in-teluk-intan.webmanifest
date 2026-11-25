@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Teluk Intan",
   "short_name": "مواقيت الصلاة في Teluk Intan",
   "description": "مواقيت الصلاة اليوم في Teluk Intan، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTeluk Intan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-teluk-intan.html",
+  "id": "/ar/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

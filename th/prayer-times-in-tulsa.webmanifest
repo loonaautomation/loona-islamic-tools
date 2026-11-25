@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tulsa",
   "short_name": "เวลาละหมาดใน Tulsa",
   "description": "เวลาละหมาดวันนี้ใน Tulsa, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tulsa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tulsa.html",
+  "id": "/th/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

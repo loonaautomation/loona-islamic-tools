@@ -2,7 +2,7 @@
   "name": "Loona Alor Setar的礼拜时间",
   "short_name": "Alor Setar的礼拜时间",
   "description": "Alor Setar（马来西亚）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Alor Setar实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-alor-setar.html",
+  "id": "/zh/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

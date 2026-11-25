@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Thuqbah Today",
   "short_name": "Prayer Times in Thuqbah Today",
   "description": "Today's prayer times in Thuqbah, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Umm al-Qura method, calculated live on your device for Thuqbah.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-thuqbah.html",
+  "id": "/en-gb/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

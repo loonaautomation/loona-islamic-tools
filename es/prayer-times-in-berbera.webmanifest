@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Berbera",
   "short_name": "Horarios de oración en Berbera",
   "description": "Horarios de oración de hoy en Berbera, Somalia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Berbera.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-berbera.html",
+  "id": "/es/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

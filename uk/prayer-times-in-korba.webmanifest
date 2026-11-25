@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Korba",
   "short_name": "Час намазу в Korba",
   "description": "Сьогоднішній час намазу в Korba, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Korba.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-korba.html",
+  "id": "/uk/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

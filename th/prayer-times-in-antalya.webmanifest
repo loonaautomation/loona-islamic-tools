@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Antalya",
   "short_name": "เวลาละหมาดใน Antalya",
   "description": "เวลาละหมาดวันนี้ใน Antalya, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Antalya",
-  "id": "/loona-islamic-tools/th/prayer-times-in-antalya.html",
+  "id": "/th/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

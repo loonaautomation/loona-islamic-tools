@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kozhikode",
   "short_name": "Waktu Solat di Kozhikode",
   "description": "Waktu solat hari ini di Kozhikode, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Kozhikode.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kozhikode.html",
+  "id": "/ms/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

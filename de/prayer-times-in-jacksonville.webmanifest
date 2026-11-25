@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jacksonville",
   "short_name": "Gebetszeiten in Jacksonville",
   "description": "Die heutigen Gebetszeiten in Jacksonville, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Jacksonville.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jacksonville.html",
+  "id": "/de/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

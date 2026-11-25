@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bahawalnagar",
   "short_name": "مواقيت الصلاة في Bahawalnagar",
   "description": "مواقيت الصلاة اليوم في Bahawalnagar، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBahawalnagar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bahawalnagar.html",
+  "id": "/ar/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

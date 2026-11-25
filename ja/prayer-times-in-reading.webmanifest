@@ -2,7 +2,7 @@
   "name": "Loona Reading の礼拝時刻",
   "short_name": "Reading の礼拝時刻",
   "description": "Reading（イギリス）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Reading についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-reading.html",
+  "id": "/ja/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

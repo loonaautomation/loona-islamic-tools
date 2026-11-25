@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Wandsbek",
   "short_name": "Gebetszeiten in Wandsbek",
   "description": "Die heutigen Gebetszeiten in Wandsbek, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Wandsbek.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-wandsbek.html",
+  "id": "/de/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

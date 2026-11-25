@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Prayagraj",
   "short_name": "Waktu Solat di Prayagraj",
   "description": "Waktu solat hari ini di Prayagraj, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Prayagraj.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-prayagraj.html",
+  "id": "/ms/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

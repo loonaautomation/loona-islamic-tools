@@ -2,7 +2,7 @@
   "name": "Loona Çorlu Namaz Vakitleri",
   "short_name": "Çorlu Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Çorlu, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Çorlu için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-corlu.html",
+  "id": "/tr/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

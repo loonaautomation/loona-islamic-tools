@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Borama",
   "short_name": "Gebedstijden in Borama",
   "description": "De gebedstijden van vandaag in Borama, Somalië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Borama.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-borama.html",
+  "id": "/nl/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

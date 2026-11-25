@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kalyān",
   "short_name": "Časy modlitieb v Kalyān",
   "description": "Dnešné časy modlitieb v Kalyān, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kalyān.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kalyan.html",
+  "id": "/sk/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

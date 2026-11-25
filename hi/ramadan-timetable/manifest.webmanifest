@@ -2,7 +2,7 @@
   "name": "Loona रमज़ान समय-सारणी",
   "short_name": "रमज़ान समय-सारणी",
   "description": "किसी भी शहर और हिजरी वर्ष के लिए पूरी रमज़ान समय-सारणी: रमज़ान के हर दिन के लिए सेहरी समाप्ति और इफ़्तार समय, ग्रेगोरियन तारीख़ों और रोज़े की अवधि के साथ। मुफ़्त, छपाई-योग्य।",
-  "id": "/loona-islamic-tools/hi/ramadan-timetable/",
+  "id": "/hi/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

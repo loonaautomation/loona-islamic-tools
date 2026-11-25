@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Qo‘qon",
   "short_name": "Bønnetider i Qo‘qon",
   "description": "Dagens bønnetider i Qo‘qon, Usbekistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Qo‘qon.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-qo-qon.html",
+  "id": "/da/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

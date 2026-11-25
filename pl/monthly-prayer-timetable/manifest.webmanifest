@@ -2,7 +2,7 @@
   "name": "Loona Miesięczny harmonogram modlitw",
   "short_name": "Miesięczny harmonogram modlitw",
   "description": "Wygeneruj miesięczny harmonogram modlitw do wydruku dla dowolnego miasta: wszystkie sześć godzin na cały miesiąc, z Twoją metodą obliczeń i szkołą Asr, za darmo i prywatnie.",
-  "id": "/loona-islamic-tools/pl/monthly-prayer-timetable/",
+  "id": "/pl/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hafar Al-Batin imaidői",
   "short_name": "Hafar Al-Batin imaidői",
   "description": "A mai imaidők: Hafar Al-Batin, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Hafar Al-Batin számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-hafar-al-batin.html",
+  "id": "/hu/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

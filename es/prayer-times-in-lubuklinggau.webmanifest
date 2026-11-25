@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Lubuklinggau",
   "short_name": "Horarios de oración en Lubuklinggau",
   "description": "Horarios de oración de hoy en Lubuklinggau, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Lubuklinggau.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-lubuklinggau.html",
+  "id": "/es/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

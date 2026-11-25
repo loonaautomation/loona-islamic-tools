@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Brāhmanbāria",
   "short_name": "Gebedstijden in Brāhmanbāria",
   "description": "De gebedstijden van vandaag in Brāhmanbāria, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Brāhmanbāria.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-brahmanbaria.html",
+  "id": "/nl/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

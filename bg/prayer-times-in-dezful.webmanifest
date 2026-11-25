@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dezful",
   "short_name": "Часове за намаз в Dezful",
   "description": "Днешните часове за намаз в Dezful, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Dezful.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dezful.html",
+  "id": "/bg/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

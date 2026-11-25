@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Muscat",
   "short_name": "Czasy modlitw w miejscowości Muscat",
   "description": "Dzisiejsze czasy modlitw w miejscowości Muscat, kraj Oman: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Muscat.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-muscat.html",
+  "id": "/pl/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Okara imaidői",
   "short_name": "Okara imaidői",
   "description": "A mai imaidők: Okara, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Okara számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-okara.html",
+  "id": "/hu/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

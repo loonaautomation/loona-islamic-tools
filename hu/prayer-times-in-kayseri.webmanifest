@@ -2,7 +2,7 @@
   "name": "Loona Kayseri imaidői",
   "short_name": "Kayseri imaidői",
   "description": "A mai imaidők: Kayseri, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kayseri számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kayseri.html",
+  "id": "/hu/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

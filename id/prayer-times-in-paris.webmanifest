@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Paris",
   "short_name": "Waktu Salat di Paris",
   "description": "Waktu salat hari ini di Paris, Prancis: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Paris.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-paris.html",
+  "id": "/id/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

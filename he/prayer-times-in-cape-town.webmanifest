@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cape Town",
   "short_name": "זמני תפילה בעיר Cape Town",
   "description": "זמני התפילה של היום בעיר Cape Town, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Cape Town.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cape-town.html",
+  "id": "/he/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

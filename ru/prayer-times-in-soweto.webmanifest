@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Soweto",
   "short_name": "Время намаза в городе Soweto",
   "description": "Время намаза на сегодня: Soweto, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Soweto.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-soweto.html",
+  "id": "/ru/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

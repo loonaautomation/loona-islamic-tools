@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bhilai",
   "short_name": "Час намазу в Bhilai",
   "description": "Сьогоднішній час намазу в Bhilai, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Bhilai.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bhilai.html",
+  "id": "/uk/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

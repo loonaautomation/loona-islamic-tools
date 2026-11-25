@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Isfara",
   "short_name": "Heures de prière à Isfara",
   "description": "Les heures de prière d’aujourd’hui à Isfara, Tadjikistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Isfara.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-isfara.html",
+  "id": "/fr/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

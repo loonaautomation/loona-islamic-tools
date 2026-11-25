@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dera Ghazi Khan",
   "short_name": "Gebedstijden in Dera Ghazi Khan",
   "description": "De gebedstijden van vandaag in Dera Ghazi Khan, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Dera Ghazi Khan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dera-ghazi-khan.html",
+  "id": "/nl/prayer-times-in-dera-ghazi-khan.html",
   "start_url": "./prayer-times-in-dera-ghazi-khan.html",
   "scope": "./prayer-times-in-dera-ghazi-khan.html",
   "display": "standalone",

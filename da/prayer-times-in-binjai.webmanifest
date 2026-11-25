@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Binjai",
   "short_name": "Bønnetider i Binjai",
   "description": "Dagens bønnetider i Binjai, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Binjai.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-binjai.html",
+  "id": "/da/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

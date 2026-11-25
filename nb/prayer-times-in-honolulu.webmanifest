@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Honolulu",
   "short_name": "Bønnetider i Honolulu",
   "description": "Dagens bønnetider i Honolulu, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Honolulu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-honolulu.html",
+  "id": "/nb/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Laval",
   "short_name": "Orari di preghiera a Laval",
   "description": "Orari di preghiera di oggi a Laval, Canada: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Laval.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-laval.html",
+  "id": "/it/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

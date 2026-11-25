@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Atyrau",
   "short_name": "Czasy modlitw w miejscowości Atyrau",
   "description": "Dzisiejsze czasy modlitw w miejscowości Atyrau, kraj Kazachstan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Atyrau.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-atyrau.html",
+  "id": "/pl/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

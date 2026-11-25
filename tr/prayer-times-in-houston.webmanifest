@@ -2,7 +2,7 @@
   "name": "Loona Houston Namaz Vakitleri",
   "short_name": "Houston Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Houston, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Houston için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-houston.html",
+  "id": "/tr/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

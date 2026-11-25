@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Durban",
   "short_name": "Prayer Times in Durban",
   "description": "Today's prayer times in Durban, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Durban.",
-  "id": "/loona-islamic-tools/prayer-times-in-durban.html",
+  "id": "/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

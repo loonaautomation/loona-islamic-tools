@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Brisbane",
   "short_name": "Bønnetider i Brisbane",
   "description": "Dagens bønnetider i Brisbane, Australia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Brisbane.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-brisbane.html",
+  "id": "/nb/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

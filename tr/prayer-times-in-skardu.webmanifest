@@ -2,7 +2,7 @@
   "name": "Loona Skardu Namaz Vakitleri",
   "short_name": "Skardu Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Skardu, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Skardu için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-skardu.html",
+  "id": "/tr/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

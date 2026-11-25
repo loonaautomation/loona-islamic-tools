@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Chandigarh Today",
   "short_name": "Prayer Times in Chandigarh Today",
   "description": "Today's prayer times in Chandigarh, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Chandigarh.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-chandigarh.html",
+  "id": "/en-gb/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

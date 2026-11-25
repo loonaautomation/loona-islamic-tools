@@ -2,7 +2,7 @@
   "name": "Loona Kulti imaidői",
   "short_name": "Kulti imaidői",
   "description": "A mai imaidők: Kulti, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kulti számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kulti.html",
+  "id": "/hu/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

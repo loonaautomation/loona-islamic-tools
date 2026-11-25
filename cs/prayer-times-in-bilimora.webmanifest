@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bilimora",
   "short_name": "Časy modliteb v Bilimora",
   "description": "Dnešní časy modliteb v Bilimora, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bilimora.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bilimora.html",
+  "id": "/cs/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

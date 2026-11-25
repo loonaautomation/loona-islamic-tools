@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Aurangabad",
   "short_name": "Waktu Salat di Aurangabad",
   "description": "Waktu salat hari ini di Aurangabad, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Aurangabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-aurangabad.html",
+  "id": "/id/prayer-times-in-aurangabad.html",
   "start_url": "./prayer-times-in-aurangabad.html",
   "scope": "./prayer-times-in-aurangabad.html",
   "display": "standalone",

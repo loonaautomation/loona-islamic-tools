@@ -2,7 +2,7 @@
   "name": "Loona Qibla-riktning",
   "short_name": "Qibla-riktning",
   "description": "Hitta Qibla-riktningen i grader från vilken stad som helst eller från din exakta plats, med en levande kompass och avståndet till Mecka. Gratis, exakt och privat.",
-  "id": "/loona-islamic-tools/sv/qibla-direction/",
+  "id": "/sv/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

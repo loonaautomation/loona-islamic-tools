@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Batu",
   "short_name": "Horários de Oração em Batu",
   "description": "Horários de oração de hoje em Batu, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Batu.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-batu.html",
+  "id": "/pt-pt/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

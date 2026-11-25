@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Istanbul",
   "short_name": "Vremena namaza u gradu Istanbul",
   "description": "Današnja vremena namaza u gradu Istanbul, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Istanbul.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-istanbul.html",
+  "id": "/hr/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

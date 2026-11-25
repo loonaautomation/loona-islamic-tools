@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mersin",
   "short_name": "Prayer Times in Mersin",
   "description": "Today's prayer times in Mersin, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Mersin.",
-  "id": "/loona-islamic-tools/prayer-times-in-mersin.html",
+  "id": "/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

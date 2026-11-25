@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Chicago",
   "short_name": "Giờ cầu nguyện tại Chicago",
   "description": "Giờ cầu nguyện hôm nay tại Chicago, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Chicago.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-chicago.html",
+  "id": "/vi/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

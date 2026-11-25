@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nzérékoré",
   "short_name": "Часове за намаз в Nzérékoré",
   "description": "Днешните часове за намаз в Nzérékoré, Гвинея: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Nzérékoré.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nzerekore.html",
+  "id": "/bg/prayer-times-in-nzerekore.html",
   "start_url": "./prayer-times-in-nzerekore.html",
   "scope": "./prayer-times-in-nzerekore.html",
   "display": "standalone",

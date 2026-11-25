@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Fort Worth",
   "short_name": "Časy modliteb v Fort Worth",
   "description": "Dnešní časy modliteb v Fort Worth, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Fort Worth.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-fort-worth.html",
+  "id": "/cs/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

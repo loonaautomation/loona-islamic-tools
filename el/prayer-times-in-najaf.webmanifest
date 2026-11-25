@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Najaf",
   "short_name": "Ώρες Προσευχής στο Najaf",
   "description": "Οι σημερινές ώρες προσευχής στο Najaf, Ιράκ: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Najaf.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-najaf.html",
+  "id": "/el/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

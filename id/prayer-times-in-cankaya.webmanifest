@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Çankaya",
   "short_name": "Waktu Salat di Çankaya",
   "description": "Waktu salat hari ini di Çankaya, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Çankaya.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-cankaya.html",
+  "id": "/id/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jhānsi",
   "short_name": "เวลาละหมาดใน Jhānsi",
   "description": "เวลาละหมาดวันนี้ใน Jhānsi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jhānsi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jhansi.html",
+  "id": "/th/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

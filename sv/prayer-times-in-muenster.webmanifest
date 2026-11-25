@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Münster",
   "short_name": "Bönetider i Münster",
   "description": "Dagens bönetider i Münster, Tyskland: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Münster.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-muenster.html",
+  "id": "/sv/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

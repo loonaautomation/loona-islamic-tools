@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Lahore",
   "short_name": "זמני תפילה בעיר Lahore",
   "description": "זמני התפילה של היום בעיר Lahore, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Lahore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-lahore.html",
+  "id": "/he/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

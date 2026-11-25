@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mogadishu",
   "short_name": "Gebetszeiten in Mogadishu",
   "description": "Die heutigen Gebetszeiten in Mogadishu, Somalia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Mogadishu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mogadishu.html",
+  "id": "/de/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

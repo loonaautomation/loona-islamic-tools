@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Chilanzar",
   "short_name": "Gebedstijden in Chilanzar",
   "description": "De gebedstijden van vandaag in Chilanzar, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Chilanzar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-chilanzar.html",
+  "id": "/nl/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

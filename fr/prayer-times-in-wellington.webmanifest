@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Wellington",
   "short_name": "Heures de prière à Wellington",
   "description": "Les heures de prière d’aujourd’hui à Wellington, Nouvelle-Zélande : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Wellington.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-wellington.html",
+  "id": "/fr/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

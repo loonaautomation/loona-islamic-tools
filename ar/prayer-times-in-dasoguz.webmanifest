@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Daşoguz",
   "short_name": "مواقيت الصلاة في Daşoguz",
   "description": "مواقيت الصلاة اليوم في Daşoguz، تركمانستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDaşoguz.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dasoguz.html",
+  "id": "/ar/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

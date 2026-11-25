@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mesa",
   "short_name": "Rukousajat: Mesa",
   "description": "Tämän päivän rukousajat paikassa Mesa, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Mesa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mesa.html",
+  "id": "/fi/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

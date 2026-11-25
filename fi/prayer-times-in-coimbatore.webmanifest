@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Coimbatore",
   "short_name": "Rukousajat: Coimbatore",
   "description": "Tämän päivän rukousajat paikassa Coimbatore, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Coimbatore.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-coimbatore.html",
+  "id": "/fi/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

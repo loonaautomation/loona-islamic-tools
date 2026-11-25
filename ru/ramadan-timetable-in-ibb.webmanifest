@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Ibb 2027 (1448)",
   "short_name": "Расписание Рамадана: Ibb 2027 (1448)",
   "description": "Расписание Рамадана 2027 года для города Ibb, Йемен: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-ibb.html",
+  "id": "/ru/ramadan-timetable-in-ibb.html",
   "start_url": "./ramadan-timetable-in-ibb.html",
   "scope": "./ramadan-timetable-in-ibb.html",
   "display": "standalone",

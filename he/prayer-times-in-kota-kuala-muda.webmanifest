@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kota Kuala Muda",
   "short_name": "זמני תפילה בעיר Kota Kuala Muda",
   "description": "זמני התפילה של היום בעיר Kota Kuala Muda, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kota-kuala-muda.html",
+  "id": "/he/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gaya",
   "short_name": "זמני תפילה בעיר Gaya",
   "description": "זמני התפילה של היום בעיר Gaya, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Gaya.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gaya.html",
+  "id": "/he/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

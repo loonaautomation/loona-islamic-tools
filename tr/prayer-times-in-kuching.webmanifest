@@ -2,7 +2,7 @@
   "name": "Loona Kuching Namaz Vakitleri",
   "short_name": "Kuching Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kuching, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kuching için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kuching.html",
+  "id": "/tr/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Detroit",
   "short_name": "Rukousajat: Detroit",
   "description": "Tämän päivän rukousajat paikassa Detroit, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Detroit.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-detroit.html",
+  "id": "/fi/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

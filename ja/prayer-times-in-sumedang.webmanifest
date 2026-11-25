@@ -2,7 +2,7 @@
   "name": "Loona Sumedang の礼拝時刻",
   "short_name": "Sumedang の礼拝時刻",
   "description": "Sumedang（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Sumedang についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sumedang.html",
+  "id": "/ja/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

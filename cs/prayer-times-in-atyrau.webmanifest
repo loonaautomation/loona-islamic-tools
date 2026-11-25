@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Atyrau",
   "short_name": "Časy modliteb v Atyrau",
   "description": "Dnešní časy modliteb v Atyrau, Kazachstán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Atyrau.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-atyrau.html",
+  "id": "/cs/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

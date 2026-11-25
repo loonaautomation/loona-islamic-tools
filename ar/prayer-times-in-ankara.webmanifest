@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ankara",
   "short_name": "مواقيت الصلاة في Ankara",
   "description": "مواقيت الصلاة اليوم في Ankara، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAnkara.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ankara.html",
+  "id": "/ar/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

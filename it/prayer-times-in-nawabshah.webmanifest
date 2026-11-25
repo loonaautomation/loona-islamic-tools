@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Nawabshah",
   "short_name": "Orari di preghiera a Nawabshah",
   "description": "Orari di preghiera di oggi a Nawabshah, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Nawabshah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-nawabshah.html",
+  "id": "/it/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

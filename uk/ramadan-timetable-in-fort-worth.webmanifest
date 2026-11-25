@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Fort Worth 2027 (1448)",
   "short_name": "Розклад Рамадану в Fort Worth 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Fort Worth, Сполучені Штати: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-fort-worth.html",
+  "id": "/uk/ramadan-timetable-in-fort-worth.html",
   "start_url": "./ramadan-timetable-in-fort-worth.html",
   "scope": "./ramadan-timetable-in-fort-worth.html",
   "display": "standalone",

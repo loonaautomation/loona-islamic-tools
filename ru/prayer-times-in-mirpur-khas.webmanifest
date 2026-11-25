@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mirpur Khas",
   "short_name": "Время намаза в городе Mirpur Khas",
   "description": "Время намаза на сегодня: Mirpur Khas, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Mirpur Khas.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mirpur-khas.html",
+  "id": "/ru/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

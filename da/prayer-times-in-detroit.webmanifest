@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Detroit",
   "short_name": "Bønnetider i Detroit",
   "description": "Dagens bønnetider i Detroit, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Detroit.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-detroit.html",
+  "id": "/da/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

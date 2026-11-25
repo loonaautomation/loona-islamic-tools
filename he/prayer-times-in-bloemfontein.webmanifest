@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bloemfontein",
   "short_name": "זמני תפילה בעיר Bloemfontein",
   "description": "זמני התפילה של היום בעיר Bloemfontein, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bloemfontein.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bloemfontein.html",
+  "id": "/he/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

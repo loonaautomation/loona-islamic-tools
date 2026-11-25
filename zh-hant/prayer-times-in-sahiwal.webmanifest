@@ -2,7 +2,7 @@
   "name": "Loona Sahiwal的禮拜時間",
   "short_name": "Sahiwal的禮拜時間",
   "description": "Sahiwal（巴基斯坦）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Sahiwal實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-sahiwal.html",
+  "id": "/zh-hant/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

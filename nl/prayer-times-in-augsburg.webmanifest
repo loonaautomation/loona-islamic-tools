@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Augsburg",
   "short_name": "Gebedstijden in Augsburg",
   "description": "De gebedstijden van vandaag in Augsburg, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Augsburg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-augsburg.html",
+  "id": "/nl/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Dhārāvi",
   "short_name": "Heures de prière à Dhārāvi",
   "description": "Les heures de prière d’aujourd’hui à Dhārāvi, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Dhārāvi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-dharavi.html",
+  "id": "/fr/prayer-times-in-dharavi.html",
   "start_url": "./prayer-times-in-dharavi.html",
   "scope": "./prayer-times-in-dharavi.html",
   "display": "standalone",

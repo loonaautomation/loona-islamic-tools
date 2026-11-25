@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bukit Mertajam",
   "short_name": "זמני תפילה בעיר Bukit Mertajam",
   "description": "זמני התפילה של היום בעיר Bukit Mertajam, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bukit Mertajam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bukit-mertajam.html",
+  "id": "/he/prayer-times-in-bukit-mertajam.html",
   "start_url": "./prayer-times-in-bukit-mertajam.html",
   "scope": "./prayer-times-in-bukit-mertajam.html",
   "display": "standalone",

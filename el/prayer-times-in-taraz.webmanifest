@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Taraz",
   "short_name": "Ώρες Προσευχής στο Taraz",
   "description": "Οι σημερινές ώρες προσευχής στο Taraz, Καζακστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Taraz.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-taraz.html",
+  "id": "/el/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

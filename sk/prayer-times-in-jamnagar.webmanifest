@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jamnagar",
   "short_name": "Časy modlitieb v Jamnagar",
   "description": "Dnešné časy modlitieb v Jamnagar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jamnagar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-jamnagar.html",
+  "id": "/sk/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Malegaon",
   "short_name": "Bønnetider i Malegaon",
   "description": "Dagens bønnetider i Malegaon, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Malegaon.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-malegaon.html",
+  "id": "/nb/prayer-times-in-malegaon.html",
   "start_url": "./prayer-times-in-malegaon.html",
   "scope": "./prayer-times-in-malegaon.html",
   "display": "standalone",

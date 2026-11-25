@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hurghada",
   "short_name": "Gebetszeiten in Hurghada",
   "description": "Die heutigen Gebetszeiten in Hurghada, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Hurghada.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hurghada.html",
+  "id": "/de/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

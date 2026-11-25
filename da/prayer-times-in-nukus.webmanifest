@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nukus",
   "short_name": "Bønnetider i Nukus",
   "description": "Dagens bønnetider i Nukus, Usbekistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Nukus.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-nukus.html",
+  "id": "/da/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

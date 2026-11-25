@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bokāro",
   "short_name": "Vremena namaza u gradu Bokāro",
   "description": "Današnja vremena namaza u gradu Bokāro, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bokāro.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bokaro.html",
+  "id": "/hr/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ulhasnagar",
   "short_name": "Время намаза в городе Ulhasnagar",
   "description": "Время намаза на сегодня: Ulhasnagar, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Ulhasnagar.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ulhasnagar.html",
+  "id": "/ru/prayer-times-in-ulhasnagar.html",
   "start_url": "./prayer-times-in-ulhasnagar.html",
   "scope": "./prayer-times-in-ulhasnagar.html",
   "display": "standalone",

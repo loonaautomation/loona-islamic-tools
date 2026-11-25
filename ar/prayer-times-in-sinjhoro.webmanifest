@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sinjhoro",
   "short_name": "مواقيت الصلاة في Sinjhoro",
   "description": "مواقيت الصلاة اليوم في Sinjhoro، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSinjhoro.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sinjhoro.html",
+  "id": "/ar/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

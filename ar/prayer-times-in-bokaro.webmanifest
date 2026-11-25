@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bokāro",
   "short_name": "مواقيت الصلاة في Bokāro",
   "description": "مواقيت الصلاة اليوم في Bokāro، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBokāro.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bokaro.html",
+  "id": "/ar/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

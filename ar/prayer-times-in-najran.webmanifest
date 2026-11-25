@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Najrān",
   "short_name": "مواقيت الصلاة في Najrān",
   "description": "مواقيت الصلاة اليوم في Najrān، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـNajrān.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-najran.html",
+  "id": "/ar/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

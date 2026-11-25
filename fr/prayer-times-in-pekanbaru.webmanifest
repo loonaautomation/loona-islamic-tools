@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pekanbaru",
   "short_name": "Heures de prière à Pekanbaru",
   "description": "Les heures de prière d’aujourd’hui à Pekanbaru, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Pekanbaru.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pekanbaru.html",
+  "id": "/fr/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

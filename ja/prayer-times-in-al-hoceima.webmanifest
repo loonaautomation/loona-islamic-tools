@@ -2,7 +2,7 @@
   "name": "Loona Al Hoceïma の礼拝時刻",
   "short_name": "Al Hoceïma の礼拝時刻",
   "description": "Al Hoceïma（モロッコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Al Hoceïma についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-al-hoceima.html",
+  "id": "/ja/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kalyān",
   "short_name": "Vremena namaza u gradu Kalyān",
   "description": "Današnja vremena namaza u gradu Kalyān, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kalyān.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kalyan.html",
+  "id": "/hr/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

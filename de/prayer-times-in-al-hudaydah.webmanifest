@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Al Ḩudaydah",
   "short_name": "Gebetszeiten in Al Ḩudaydah",
   "description": "Die heutigen Gebetszeiten in Al Ḩudaydah, Jemen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Al Ḩudaydah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-al-hudaydah.html",
+  "id": "/de/prayer-times-in-al-hudaydah.html",
   "start_url": "./prayer-times-in-al-hudaydah.html",
   "scope": "./prayer-times-in-al-hudaydah.html",
   "display": "standalone",

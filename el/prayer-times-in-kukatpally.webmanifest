@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kukatpally",
   "short_name": "Ώρες Προσευχής στο Kukatpally",
   "description": "Οι σημερινές ώρες προσευχής στο Kukatpally, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kukatpally.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kukatpally.html",
+  "id": "/el/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

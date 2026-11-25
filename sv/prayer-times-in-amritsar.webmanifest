@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Amritsar",
   "short_name": "Bönetider i Amritsar",
   "description": "Dagens bönetider i Amritsar, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Amritsar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-amritsar.html",
+  "id": "/sv/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

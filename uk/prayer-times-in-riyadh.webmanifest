@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Riyadh",
   "short_name": "Час намазу в Riyadh",
   "description": "Сьогоднішній час намазу в Riyadh, Саудівська Аравія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Riyadh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-riyadh.html",
+  "id": "/uk/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

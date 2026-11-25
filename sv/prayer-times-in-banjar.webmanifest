@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Banjar",
   "short_name": "Bönetider i Banjar",
   "description": "Dagens bönetider i Banjar, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Banjar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-banjar.html",
+  "id": "/sv/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

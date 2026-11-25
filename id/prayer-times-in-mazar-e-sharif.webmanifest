@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mazār-e Sharīf",
   "short_name": "Waktu Salat di Mazār-e Sharīf",
   "description": "Waktu salat hari ini di Mazār-e Sharīf, Afganistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mazar-e-sharif.html",
+  "id": "/id/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

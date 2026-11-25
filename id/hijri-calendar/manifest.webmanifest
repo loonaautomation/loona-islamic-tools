@@ -2,7 +2,7 @@
   "name": "Loona Kalender Hijriah",
   "short_name": "Kalender Hijriah",
   "description": "Jelajahi bulan dan tahun Hijriah mana pun dalam kalender Islam yang bersih di mana setiap hari juga menampilkan tanggal Masehinya. Kalender Umm al-Qura, gratis dan selalu terkini.",
-  "id": "/loona-islamic-tools/id/hijri-calendar/",
+  "id": "/id/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

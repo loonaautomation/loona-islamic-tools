@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Guntur",
   "short_name": "Vremena namaza u gradu Guntur",
   "description": "Današnja vremena namaza u gradu Guntur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Guntur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-guntur.html",
+  "id": "/hr/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

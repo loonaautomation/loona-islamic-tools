@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Hafizabad",
   "short_name": "Časy modlitieb v Hafizabad",
   "description": "Dnešné časy modlitieb v Hafizabad, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Hafizabad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-hafizabad.html",
+  "id": "/sk/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

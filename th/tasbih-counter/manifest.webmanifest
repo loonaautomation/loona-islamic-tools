@@ -2,7 +2,7 @@
   "name": "Loona เครื่องนับตัสบีฮ์",
   "short_name": "เครื่องนับตัสบีฮ์",
   "description": "เครื่องนับตัสเบี๊ยะฮ์ดิจิทัล: ค่าที่ตั้งไว้ล่วงหน้า SubhanAllah, Alhamdulillah และอีกมากมาย เป้าหมาย 33/99/100 การนับรอบ การสั่น และยอดสะสมตลอดอายุการใช้งานที่บันทึกไว้ในอุปกรณ์ของคุณ",
-  "id": "/loona-islamic-tools/th/tasbih-counter/",
+  "id": "/th/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

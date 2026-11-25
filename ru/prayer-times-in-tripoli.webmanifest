@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Tripoli (Ливия)",
   "short_name": "Время намаза в городе Tripoli (Ливия)",
   "description": "Время намаза на сегодня: Tripoli, Ливия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Tripoli.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-tripoli.html",
+  "id": "/ru/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

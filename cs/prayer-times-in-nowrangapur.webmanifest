@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nowrangapur",
   "short_name": "Časy modliteb v Nowrangapur",
   "description": "Dnešní časy modliteb v Nowrangapur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Nowrangapur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nowrangapur.html",
+  "id": "/cs/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jadual Waktu Ramadan",
   "short_name": "Jadual Waktu Ramadan",
   "description": "Jadual waktu Ramadan penuh untuk mana-mana bandar dan tahun Hijri: waktu tamat Sahur dan Berbuka bagi setiap hari Ramadan dengan tarikh Masihi dan tempoh puasa. Percuma, boleh dicetak.",
-  "id": "/loona-islamic-tools/ms/ramadan-timetable/",
+  "id": "/ms/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

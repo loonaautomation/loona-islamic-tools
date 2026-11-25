@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Meknes",
   "short_name": "Часове за намаз в Meknes",
   "description": "Днешните часове за намаз в Meknes, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Meknes.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-meknes.html",
+  "id": "/bg/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ahilyanagar",
   "short_name": "مواقيت الصلاة في Ahilyanagar",
   "description": "مواقيت الصلاة اليوم في Ahilyanagar، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAhilyanagar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ahilyanagar.html",
+  "id": "/ar/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

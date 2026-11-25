@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Preston",
   "short_name": "Waktu Salat di Preston",
   "description": "Waktu salat hari ini di Preston, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Preston.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-preston.html",
+  "id": "/id/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

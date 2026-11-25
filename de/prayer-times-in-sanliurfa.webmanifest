@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Şanlıurfa",
   "short_name": "Gebetszeiten in Şanlıurfa",
   "description": "Die heutigen Gebetszeiten in Şanlıurfa, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Şanlıurfa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sanliurfa.html",
+  "id": "/de/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

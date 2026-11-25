@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ahmedabad",
   "short_name": "Waktu Salat di Ahmedabad",
   "description": "Waktu salat hari ini di Ahmedabad, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Ahmedabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ahmedabad.html",
+  "id": "/id/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

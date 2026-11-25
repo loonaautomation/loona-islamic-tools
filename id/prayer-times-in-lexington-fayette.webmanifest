@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Lexington-Fayette",
   "short_name": "Waktu Salat di Lexington-Fayette",
   "description": "Waktu salat hari ini di Lexington-Fayette, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Lexington-Fayette.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-lexington-fayette.html",
+  "id": "/id/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

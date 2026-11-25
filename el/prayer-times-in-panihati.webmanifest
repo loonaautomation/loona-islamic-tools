@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pānihāti",
   "short_name": "Ώρες Προσευχής στο Pānihāti",
   "description": "Οι σημερινές ώρες προσευχής στο Pānihāti, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Pānihāti.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-panihati.html",
+  "id": "/el/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

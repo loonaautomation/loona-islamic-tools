@@ -2,7 +2,7 @@
   "name": "Loona Muslimivauvojen nimet",
   "short_name": "Muslimivauvojen nimet",
   "description": "Selaa 1197 muslimivauvan nimeä pojille ja tytöille arabiankielisellä tekstillä, translitteraatiolla, merkityksellä ja alkuperällä. Hae, suodata kirjaimen mukaan, tallenna suosikkeja ja löydä Päivän nimi — ilmaiseksi, ilman rekisteröitymistä.",
-  "id": "/loona-islamic-tools/fi/baby-names/",
+  "id": "/fi/baby-names/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

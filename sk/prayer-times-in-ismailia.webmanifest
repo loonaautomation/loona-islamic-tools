@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ismailia",
   "short_name": "Časy modlitieb v Ismailia",
   "description": "Dnešné časy modlitieb v Ismailia, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Ismailia.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ismailia.html",
+  "id": "/sk/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

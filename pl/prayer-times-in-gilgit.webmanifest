@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Gilgit",
   "short_name": "Czasy modlitw w miejscowości Gilgit",
   "description": "Dzisiejsze czasy modlitw w miejscowości Gilgit, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Gilgit.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-gilgit.html",
+  "id": "/pl/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

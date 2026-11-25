@@ -2,7 +2,7 @@
   "name": "Loona Al-Kut の礼拝時刻",
   "short_name": "Al-Kut の礼拝時刻",
   "description": "Al-Kut（イラク）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Al-Kut についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-al-kut.html",
+  "id": "/ja/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

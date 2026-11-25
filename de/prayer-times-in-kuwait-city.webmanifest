@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kuwait City",
   "short_name": "Gebetszeiten in Kuwait City",
   "description": "Die heutigen Gebetszeiten in Kuwait City, Kuwait: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kuwait City.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kuwait-city.html",
+  "id": "/de/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

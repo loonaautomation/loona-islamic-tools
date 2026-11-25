@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Natore",
   "short_name": "זמני תפילה בעיר Natore",
   "description": "זמני התפילה של היום בעיר Natore, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Natore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-natore.html",
+  "id": "/he/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Koutiala",
   "short_name": "Ώρες Προσευχής στο Koutiala",
   "description": "Οι σημερινές ώρες προσευχής στο Koutiala, Μάλι: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Koutiala.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-koutiala.html",
+  "id": "/el/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Āmol",
   "short_name": "Rukousajat: Āmol",
   "description": "Tämän päivän rukousajat paikassa Āmol, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Āmol.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-amol.html",
+  "id": "/fi/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

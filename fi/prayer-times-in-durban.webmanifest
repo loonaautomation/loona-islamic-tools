@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Durban",
   "short_name": "Rukousajat: Durban",
   "description": "Tämän päivän rukousajat paikassa Durban, Etelä-Afrikka: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Durban.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-durban.html",
+  "id": "/fi/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

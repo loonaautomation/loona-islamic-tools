@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ha'il",
   "short_name": "Bönetider i Ha'il",
   "description": "Dagens bönetider i Ha'il, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Ha'il.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ha-il.html",
+  "id": "/sv/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

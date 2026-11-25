@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tumkūr",
   "short_name": "เวลาละหมาดใน Tumkūr",
   "description": "เวลาละหมาดวันนี้ใน Tumkūr, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tumkūr",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tumkur.html",
+  "id": "/th/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

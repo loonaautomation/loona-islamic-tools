@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jamshedpur",
   "short_name": "Gebetszeiten in Jamshedpur",
   "description": "Die heutigen Gebetszeiten in Jamshedpur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jamshedpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jamshedpur.html",
+  "id": "/de/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

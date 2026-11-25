@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Salem",
   "short_name": "Czasy modlitw w miejscowości Salem",
   "description": "Dzisiejsze czasy modlitw w miejscowości Salem, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Salem.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-salem.html",
+  "id": "/pl/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Chattogram",
   "short_name": "مواقيت الصلاة في Chattogram",
   "description": "مواقيت الصلاة اليوم في Chattogram، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـChattogram.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-chattogram.html",
+  "id": "/ar/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Charlotte",
   "short_name": "Ore de rugăciune în Charlotte",
   "description": "Orele de rugăciune de azi în Charlotte, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Charlotte.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-charlotte.html",
+  "id": "/ro/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

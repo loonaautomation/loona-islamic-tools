@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kallakurichi",
   "short_name": "Bönetider i Kallakurichi",
   "description": "Dagens bönetider i Kallakurichi, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Kallakurichi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kallakurichi.html",
+  "id": "/sv/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

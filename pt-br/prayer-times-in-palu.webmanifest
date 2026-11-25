@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Palu",
   "short_name": "Horários de Oração em Palu",
   "description": "Horários de oração de hoje em Palu, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Palu.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-palu.html",
+  "id": "/pt-br/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

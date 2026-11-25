@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Philadelphia",
   "short_name": "Waktu Solat di Philadelphia",
   "description": "Waktu solat hari ini di Philadelphia, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Philadelphia.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-philadelphia.html",
+  "id": "/ms/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

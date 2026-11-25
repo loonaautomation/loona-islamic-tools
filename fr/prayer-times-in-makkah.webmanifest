@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Makkah",
   "short_name": "Heures de prière à Makkah",
   "description": "Les heures de prière d’aujourd’hui à Makkah, Arabie saoudite : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Makkah.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-makkah.html",
+  "id": "/fr/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

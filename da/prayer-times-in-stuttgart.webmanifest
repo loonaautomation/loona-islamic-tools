@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Stuttgart",
   "short_name": "Bønnetider i Stuttgart",
   "description": "Dagens bønnetider i Stuttgart, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Stuttgart.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-stuttgart.html",
+  "id": "/da/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

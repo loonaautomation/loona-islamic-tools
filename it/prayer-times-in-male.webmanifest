@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Male",
   "short_name": "Orari di preghiera a Male",
   "description": "Orari di preghiera di oggi a Male, Maldive: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Male.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-male.html",
+  "id": "/it/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

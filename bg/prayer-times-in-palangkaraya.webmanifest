@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Palangkaraya",
   "short_name": "Часове за намаз в Palangkaraya",
   "description": "Днешните часове за намаз в Palangkaraya, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Palangkaraya.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-palangkaraya.html",
+  "id": "/bg/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Safi",
   "short_name": "Gebedstijden in Safi",
   "description": "De gebedstijden van vandaag in Safi, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Safi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-safi.html",
+  "id": "/nl/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

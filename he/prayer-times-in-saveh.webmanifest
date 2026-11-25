@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sāveh",
   "short_name": "זמני תפילה בעיר Sāveh",
   "description": "זמני התפילה של היום בעיר Sāveh, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sāveh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-saveh.html",
+  "id": "/he/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

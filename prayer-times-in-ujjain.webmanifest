@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ujjain",
   "short_name": "Prayer Times in Ujjain",
   "description": "Today's prayer times in Ujjain, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Ujjain.",
-  "id": "/loona-islamic-tools/prayer-times-in-ujjain.html",
+  "id": "/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

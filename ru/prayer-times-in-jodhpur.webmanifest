@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jodhpur",
   "short_name": "Время намаза в городе Jodhpur",
   "description": "Время намаза на сегодня: Jodhpur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jodhpur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jodhpur.html",
+  "id": "/ru/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

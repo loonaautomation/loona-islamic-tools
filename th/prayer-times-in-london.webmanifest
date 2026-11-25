@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน London",
   "short_name": "เวลาละหมาดใน London",
   "description": "เวลาละหมาดวันนี้ใน London, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ London",
-  "id": "/loona-islamic-tools/th/prayer-times-in-london.html",
+  "id": "/th/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

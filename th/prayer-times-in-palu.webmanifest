@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Palu",
   "short_name": "เวลาละหมาดใน Palu",
   "description": "เวลาละหมาดวันนี้ใน Palu, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Palu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-palu.html",
+  "id": "/th/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

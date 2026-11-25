@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Brakpan",
   "short_name": "Gebetszeiten in Brakpan",
   "description": "Die heutigen Gebetszeiten in Brakpan, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Brakpan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-brakpan.html",
+  "id": "/de/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

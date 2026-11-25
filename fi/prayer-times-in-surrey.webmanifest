@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Surrey",
   "short_name": "Rukousajat: Surrey",
   "description": "Tämän päivän rukousajat paikassa Surrey, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Surrey.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-surrey.html",
+  "id": "/fi/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

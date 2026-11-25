@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mallawī",
   "short_name": "Часове за намаз в Mallawī",
   "description": "Днешните часове за намаз в Mallawī, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Mallawī.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mallawi.html",
+  "id": "/bg/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

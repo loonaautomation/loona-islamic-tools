@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhātpāra",
   "short_name": "זמני תפילה בעיר Bhātpāra",
   "description": "זמני התפילה של היום בעיר Bhātpāra, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhātpāra.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhatpara.html",
+  "id": "/he/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Nawabshah",
   "short_name": "Время намаза в городе Nawabshah",
   "description": "Время намаза на сегодня: Nawabshah, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Nawabshah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-nawabshah.html",
+  "id": "/ru/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

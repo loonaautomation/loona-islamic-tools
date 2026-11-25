@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Saint Paul",
   "short_name": "Rukousajat: Saint Paul",
   "description": "Tämän päivän rukousajat paikassa Saint Paul, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Saint Paul.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-saint-paul.html",
+  "id": "/fi/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

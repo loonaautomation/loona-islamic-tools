@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Pākdasht",
   "short_name": "Časy modliteb v Pākdasht",
   "description": "Dnešní časy modliteb v Pākdasht, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Pākdasht.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-pakdasht.html",
+  "id": "/cs/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

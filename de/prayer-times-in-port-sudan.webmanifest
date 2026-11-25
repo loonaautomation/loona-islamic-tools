@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Port Sudan",
   "short_name": "Gebetszeiten in Port Sudan",
   "description": "Die heutigen Gebetszeiten in Port Sudan, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode der Muslim World League, live auf Ihrem Gerät berechnet für Port Sudan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-port-sudan.html",
+  "id": "/de/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

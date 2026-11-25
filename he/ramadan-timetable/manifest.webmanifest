@@ -2,7 +2,7 @@
   "name": "Loona לוח Ramadan",
   "short_name": "לוח Ramadan",
   "description": "לוח Ramadan מלא לכל עיר ושנה היג'רית: זמני סיום Sehri ו-Iftar לכל יום של Ramadan עם תאריכים גרגוריאניים ומשך הצום. חינמי, ניתן להדפסה.",
-  "id": "/loona-islamic-tools/he/ramadan-timetable/",
+  "id": "/he/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

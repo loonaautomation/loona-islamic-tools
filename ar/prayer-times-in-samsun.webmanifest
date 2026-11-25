@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Samsun",
   "short_name": "مواقيت الصلاة في Samsun",
   "description": "مواقيت الصلاة اليوم في Samsun، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSamsun.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-samsun.html",
+  "id": "/ar/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

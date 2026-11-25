@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dadu",
   "short_name": "เวลาละหมาดใน Dadu",
   "description": "เวลาละหมาดวันนี้ใน Dadu, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dadu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dadu.html",
+  "id": "/th/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

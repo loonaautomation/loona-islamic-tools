@@ -2,7 +2,7 @@
   "name": "Loona جدول رمضان",
   "short_name": "جدول رمضان",
   "description": "جدول رمضان كامل لأي مدينة وسنة هجرية: مواقيت انتهاء السحور والإفطار لكل يوم من رمضان مع التواريخ الميلادية ومدة الصيام. مجاني وقابل للطباعة.",
-  "id": "/loona-islamic-tools/ar/ramadan-timetable/",
+  "id": "/ar/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

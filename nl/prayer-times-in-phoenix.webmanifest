@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Phoenix",
   "short_name": "Gebedstijden in Phoenix",
   "description": "De gebedstijden van vandaag in Phoenix, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Phoenix.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-phoenix.html",
+  "id": "/nl/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

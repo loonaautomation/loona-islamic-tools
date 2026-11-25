@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kota",
   "short_name": "مواقيت الصلاة في Kota",
   "description": "مواقيت الصلاة اليوم في Kota، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKota.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kota.html",
+  "id": "/ar/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

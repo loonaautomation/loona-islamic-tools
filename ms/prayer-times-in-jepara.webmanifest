@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jepara",
   "short_name": "Waktu Solat di Jepara",
   "description": "Waktu solat hari ini di Jepara, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Jepara.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jepara.html",
+  "id": "/ms/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

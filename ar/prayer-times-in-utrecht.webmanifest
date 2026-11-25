@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Utrecht",
   "short_name": "مواقيت الصلاة في Utrecht",
   "description": "مواقيت الصلاة اليوم في Utrecht، هولندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـUtrecht.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-utrecht.html",
+  "id": "/ar/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

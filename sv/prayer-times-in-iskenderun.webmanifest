@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i İskenderun",
   "short_name": "Bönetider i İskenderun",
   "description": "Dagens bönetider i İskenderun, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för İskenderun.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-iskenderun.html",
+  "id": "/sv/prayer-times-in-iskenderun.html",
   "start_url": "./prayer-times-in-iskenderun.html",
   "scope": "./prayer-times-in-iskenderun.html",
   "display": "standalone",

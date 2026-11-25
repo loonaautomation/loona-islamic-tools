@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Çorum",
   "short_name": "זמני תפילה בעיר Çorum",
   "description": "זמני התפילה של היום בעיר Çorum, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Çorum.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-corum.html",
+  "id": "/he/prayer-times-in-corum.html",
   "start_url": "./prayer-times-in-corum.html",
   "scope": "./prayer-times-in-corum.html",
   "display": "standalone",

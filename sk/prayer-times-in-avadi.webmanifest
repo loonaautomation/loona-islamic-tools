@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Avadi",
   "short_name": "Časy modlitieb v Avadi",
   "description": "Dnešné časy modlitieb v Avadi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Avadi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-avadi.html",
+  "id": "/sk/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

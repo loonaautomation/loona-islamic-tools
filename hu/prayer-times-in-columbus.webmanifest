@@ -2,7 +2,7 @@
   "name": "Loona Columbus imaidői",
   "short_name": "Columbus imaidői",
   "description": "A mai imaidők: Columbus, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Columbus számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-columbus.html",
+  "id": "/hu/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

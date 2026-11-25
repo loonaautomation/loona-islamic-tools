@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bhayandar",
   "short_name": "Časy modlitieb v Bhayandar",
   "description": "Dnešné časy modlitieb v Bhayandar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bhayandar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bhayandar.html",
+  "id": "/sk/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

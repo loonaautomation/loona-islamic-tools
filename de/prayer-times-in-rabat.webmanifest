@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rabat",
   "short_name": "Gebetszeiten in Rabat",
   "description": "Die heutigen Gebetszeiten in Rabat, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Rabat.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rabat.html",
+  "id": "/de/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

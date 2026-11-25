@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Salem",
   "short_name": "Bønnetider i Salem",
   "description": "Dagens bønnetider i Salem, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Salem.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-salem.html",
+  "id": "/nb/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

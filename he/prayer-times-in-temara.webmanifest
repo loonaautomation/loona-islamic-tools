@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Temara",
   "short_name": "זמני תפילה בעיר Temara",
   "description": "זמני התפילה של היום בעיר Temara, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Temara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-temara.html",
+  "id": "/he/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

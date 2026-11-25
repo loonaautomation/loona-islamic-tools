@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Aden",
   "short_name": "เวลาละหมาดใน Aden",
   "description": "เวลาละหมาดวันนี้ใน Aden, Yemen: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Aden",
-  "id": "/loona-islamic-tools/th/prayer-times-in-aden.html",
+  "id": "/th/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

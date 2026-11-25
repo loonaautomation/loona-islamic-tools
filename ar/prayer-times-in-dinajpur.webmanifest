@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dinajpur",
   "short_name": "مواقيت الصلاة في Dinajpur",
   "description": "مواقيت الصلاة اليوم في Dinajpur، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDinajpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dinajpur.html",
+  "id": "/ar/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

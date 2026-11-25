@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Makkah",
   "short_name": "Ώρες Προσευχής στο Makkah",
   "description": "Οι σημερινές ώρες προσευχής στο Makkah, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Makkah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-makkah.html",
+  "id": "/el/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pittsburgh",
   "short_name": "Ώρες Προσευχής στο Pittsburgh",
   "description": "Οι σημερινές ώρες προσευχής στο Pittsburgh, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Pittsburgh.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pittsburgh.html",
+  "id": "/el/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

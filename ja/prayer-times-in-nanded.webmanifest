@@ -2,7 +2,7 @@
   "name": "Loona Nanded の礼拝時刻",
   "short_name": "Nanded の礼拝時刻",
   "description": "Nanded（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Nanded についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-nanded.html",
+  "id": "/ja/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

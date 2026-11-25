@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Indore",
   "short_name": "Час намазу в Indore",
   "description": "Сьогоднішній час намазу в Indore, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Indore.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-indore.html",
+  "id": "/uk/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

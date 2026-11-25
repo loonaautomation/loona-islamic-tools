@@ -2,7 +2,7 @@
   "name": "Loona New Orleans-এ নামাজের সময়",
   "short_name": "New Orleans-এ নামাজের সময়",
   "description": "New Orleans, যুক্তরাষ্ট্র-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে New Orleans-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-new-orleans.html",
+  "id": "/bn/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

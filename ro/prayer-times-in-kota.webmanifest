@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kota",
   "short_name": "Ore de rugăciune în Kota",
   "description": "Orele de rugăciune de azi în Kota, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Kota.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kota.html",
+  "id": "/ro/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

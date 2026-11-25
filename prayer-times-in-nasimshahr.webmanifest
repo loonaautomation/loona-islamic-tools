@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nasimshahr",
   "short_name": "Prayer Times in Nasimshahr",
   "description": "Today's prayer times in Nasimshahr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nasimshahr.",
-  "id": "/loona-islamic-tools/prayer-times-in-nasimshahr.html",
+  "id": "/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

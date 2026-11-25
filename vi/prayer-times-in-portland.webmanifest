@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Portland",
   "short_name": "Giờ cầu nguyện tại Portland",
   "description": "Giờ cầu nguyện hôm nay tại Portland, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Portland.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-portland.html",
+  "id": "/vi/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

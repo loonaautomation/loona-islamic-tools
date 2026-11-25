@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Phoenix",
   "short_name": "Час намазу в Phoenix",
   "description": "Сьогоднішній час намазу в Phoenix, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Phoenix.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-phoenix.html",
+  "id": "/uk/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

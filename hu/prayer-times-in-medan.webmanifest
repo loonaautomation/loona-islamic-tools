@@ -2,7 +2,7 @@
   "name": "Loona Medan imaidői",
   "short_name": "Medan imaidői",
   "description": "A mai imaidők: Medan, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Medan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-medan.html",
+  "id": "/hu/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

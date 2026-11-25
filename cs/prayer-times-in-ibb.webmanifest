@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ibb",
   "short_name": "Časy modliteb v Ibb",
   "description": "Dnešní časy modliteb v Ibb, Jemen: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ibb.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ibb.html",
+  "id": "/cs/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ujjain",
   "short_name": "مواقيت الصلاة في Ujjain",
   "description": "مواقيت الصلاة اليوم في Ujjain، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـUjjain.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ujjain.html",
+  "id": "/ar/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

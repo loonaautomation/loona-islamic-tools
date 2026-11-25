@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Az-Zuhūr",
   "short_name": "Bönetider i Az-Zuhūr",
   "description": "Dagens bönetider i Az-Zuhūr, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Az-Zuhūr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-az-zuhur.html",
+  "id": "/sv/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

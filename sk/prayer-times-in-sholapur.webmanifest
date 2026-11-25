@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sholapur",
   "short_name": "Časy modlitieb v Sholapur",
   "description": "Dnešné časy modlitieb v Sholapur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Sholapur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sholapur.html",
+  "id": "/sk/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

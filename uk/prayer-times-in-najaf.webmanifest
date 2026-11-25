@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Najaf",
   "short_name": "Час намазу в Najaf",
   "description": "Сьогоднішній час намазу в Najaf, Ірак: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Najaf.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-najaf.html",
+  "id": "/uk/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Québec",
   "short_name": "Czasy modlitw w miejscowości Québec",
   "description": "Dzisiejsze czasy modlitw w miejscowości Québec, kraj Kanada: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Québec.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-quebec.html",
+  "id": "/pl/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

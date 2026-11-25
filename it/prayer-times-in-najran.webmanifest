@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Najrān",
   "short_name": "Orari di preghiera a Najrān",
   "description": "Orari di preghiera di oggi a Najrān, Arabia Saudita: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Najrān.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-najran.html",
+  "id": "/it/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

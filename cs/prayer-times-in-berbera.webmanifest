@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Berbera",
   "short_name": "Časy modliteb v Berbera",
   "description": "Dnešní časy modliteb v Berbera, Somálsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Berbera.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-berbera.html",
+  "id": "/cs/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

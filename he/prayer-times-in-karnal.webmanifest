@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Karnāl",
   "short_name": "זמני תפילה בעיר Karnāl",
   "description": "זמני התפילה של היום בעיר Karnāl, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Karnāl.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-karnal.html",
+  "id": "/he/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Irbid",
   "short_name": "Час намазу в Irbid",
   "description": "Сьогоднішній час намазу в Irbid, Йорданія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Irbid.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-irbid.html",
+  "id": "/uk/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

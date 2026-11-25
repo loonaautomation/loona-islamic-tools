@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tarakan",
   "short_name": "Heures de prière à Tarakan",
   "description": "Les heures de prière d’aujourd’hui à Tarakan, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Tarakan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tarakan.html",
+  "id": "/fr/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

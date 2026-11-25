@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Varanasi",
   "short_name": "Vremena namaza u gradu Varanasi",
   "description": "Današnja vremena namaza u gradu Varanasi, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Varanasi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-varanasi.html",
+  "id": "/hr/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

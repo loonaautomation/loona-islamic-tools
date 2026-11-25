@@ -2,7 +2,7 @@
   "name": "Loona Ujjain の礼拝時刻",
   "short_name": "Ujjain の礼拝時刻",
   "description": "Ujjain（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Ujjain についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ujjain.html",
+  "id": "/ja/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

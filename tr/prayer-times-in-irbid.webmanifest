@@ -2,7 +2,7 @@
   "name": "Loona Irbid Namaz Vakitleri",
   "short_name": "Irbid Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Irbid, Ürdün: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Irbid için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-irbid.html",
+  "id": "/tr/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

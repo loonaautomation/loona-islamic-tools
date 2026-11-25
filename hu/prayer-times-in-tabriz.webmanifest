@@ -2,7 +2,7 @@
   "name": "Loona Tabriz imaidői",
   "short_name": "Tabriz imaidői",
   "description": "A mai imaidők: Tabriz, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tabriz számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tabriz.html",
+  "id": "/hu/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

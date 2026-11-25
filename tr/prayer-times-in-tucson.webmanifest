@@ -2,7 +2,7 @@
   "name": "Loona Tucson Namaz Vakitleri",
   "short_name": "Tucson Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tucson, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Tucson için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tucson.html",
+  "id": "/tr/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

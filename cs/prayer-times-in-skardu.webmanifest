@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Skardu",
   "short_name": "Časy modliteb v Skardu",
   "description": "Dnešní časy modliteb v Skardu, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Skardu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-skardu.html",
+  "id": "/cs/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

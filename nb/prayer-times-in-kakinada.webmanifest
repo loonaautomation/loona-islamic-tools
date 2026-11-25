@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kākināda",
   "short_name": "Bønnetider i Kākināda",
   "description": "Dagens bønnetider i Kākināda, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kākināda.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kakinada.html",
+  "id": "/nb/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

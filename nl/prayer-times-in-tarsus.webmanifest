@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tarsus",
   "short_name": "Gebedstijden in Tarsus",
   "description": "De gebedstijden van vandaag in Tarsus, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tarsus.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tarsus.html",
+  "id": "/nl/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

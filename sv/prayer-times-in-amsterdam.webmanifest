@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Amsterdam",
   "short_name": "Bönetider i Amsterdam",
   "description": "Dagens bönetider i Amsterdam, Nederländerna: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Amsterdam.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-amsterdam.html",
+  "id": "/sv/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Surat",
   "short_name": "เวลาละหมาดใน Surat",
   "description": "เวลาละหมาดวันนี้ใน Surat, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Surat",
-  "id": "/loona-islamic-tools/th/prayer-times-in-surat.html",
+  "id": "/th/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

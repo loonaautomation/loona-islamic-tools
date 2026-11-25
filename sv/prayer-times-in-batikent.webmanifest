@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Batikent",
   "short_name": "Bönetider i Batikent",
   "description": "Dagens bönetider i Batikent, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Batikent.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-batikent.html",
+  "id": "/sv/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

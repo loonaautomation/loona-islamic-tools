@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Abha",
   "short_name": "Prayer Times in Abha",
   "description": "Today's prayer times in Abha, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Umm al-Qura method, calculated live on your device for Abha.",
-  "id": "/loona-islamic-tools/prayer-times-in-abha.html",
+  "id": "/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

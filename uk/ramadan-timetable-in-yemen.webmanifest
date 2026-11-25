@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в країні Ємен 2027 (1448)",
   "short_name": "Розклад Рамадану в країні Ємен 2027 (1448)",
   "description": "Розклад Рамадану 2027 для країни Ємен: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448, розраховані для Sanaa. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-yemen.html",
+  "id": "/uk/ramadan-timetable-in-yemen.html",
   "start_url": "./ramadan-timetable-in-yemen.html",
   "scope": "./ramadan-timetable-in-yemen.html",
   "display": "standalone",

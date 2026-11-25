@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Astana Today",
   "short_name": "Prayer Times in Astana Today",
   "description": "Today's prayer times in Astana, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Astana.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-astana.html",
+  "id": "/en-gb/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

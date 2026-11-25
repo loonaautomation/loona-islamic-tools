@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jalgaon",
   "short_name": "Gebetszeiten in Jalgaon",
   "description": "Die heutigen Gebetszeiten in Jalgaon, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jalgaon.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jalgaon.html",
+  "id": "/de/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

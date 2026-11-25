@@ -2,7 +2,7 @@
   "name": "Loona Jhang Sadr imaidői",
   "short_name": "Jhang Sadr imaidői",
   "description": "A mai imaidők: Jhang Sadr, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Jhang Sadr számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-jhang-sadr.html",
+  "id": "/hu/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

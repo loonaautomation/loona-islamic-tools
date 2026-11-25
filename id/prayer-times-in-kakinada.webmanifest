@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kākināda",
   "short_name": "Waktu Salat di Kākināda",
   "description": "Waktu salat hari ini di Kākināda, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kākināda.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kakinada.html",
+  "id": "/id/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

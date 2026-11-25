@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tasikmalaya",
   "short_name": "Časy modliteb v Tasikmalaya",
   "description": "Dnešní časy modliteb v Tasikmalaya, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tasikmalaya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tasikmalaya.html",
+  "id": "/cs/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

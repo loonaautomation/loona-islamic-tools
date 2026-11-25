@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Djelfa",
   "short_name": "זמני תפילה בעיר Djelfa",
   "description": "זמני התפילה של היום בעיר Djelfa, אלג'יריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Djelfa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-djelfa.html",
+  "id": "/he/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

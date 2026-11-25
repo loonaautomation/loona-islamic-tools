@@ -2,7 +2,7 @@
   "name": "Loona Calendrier du Ramadan",
   "short_name": "Calendrier du Ramadan",
   "description": "Calendrier complet du Ramadan pour n’importe quelle ville et n’importe quelle année hégirienne : les heures de fin de Sehri et d’Iftar pour chaque jour du Ramadan avec les dates grégoriennes et la durée du jeûne. Gratuit, imprimable.",
-  "id": "/loona-islamic-tools/fr/ramadan-timetable/",
+  "id": "/fr/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

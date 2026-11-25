@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Karnaphuli Today",
   "short_name": "Prayer Times in Karnaphuli Today",
   "description": "Today's prayer times in Karnaphuli, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Karnaphuli.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-karnaphuli.html",
+  "id": "/en-us/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

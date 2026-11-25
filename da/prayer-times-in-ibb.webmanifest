@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ibb",
   "short_name": "Bønnetider i Ibb",
   "description": "Dagens bønnetider i Ibb, Yemen: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Ibb.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-ibb.html",
+  "id": "/da/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kassala",
   "short_name": "Vremena namaza u gradu Kassala",
   "description": "Današnja vremena namaza u gradu Kassala, Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kassala.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kassala.html",
+  "id": "/hr/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

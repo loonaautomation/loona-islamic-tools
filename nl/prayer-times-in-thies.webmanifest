@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Thiès",
   "short_name": "Gebedstijden in Thiès",
   "description": "De gebedstijden van vandaag in Thiès, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Thiès.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-thies.html",
+  "id": "/nl/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

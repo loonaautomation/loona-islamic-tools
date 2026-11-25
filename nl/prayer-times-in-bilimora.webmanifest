@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bilimora",
   "short_name": "Gebedstijden in Bilimora",
   "description": "De gebedstijden van vandaag in Bilimora, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Bilimora.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bilimora.html",
+  "id": "/nl/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

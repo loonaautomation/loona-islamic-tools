@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kukatpally",
   "short_name": "Horarios de oración en Kukatpally",
   "description": "Horarios de oración de hoy en Kukatpally, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kukatpally.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kukatpally.html",
+  "id": "/es/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

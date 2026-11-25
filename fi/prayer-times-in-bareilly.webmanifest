@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bareilly",
   "short_name": "Rukousajat: Bareilly",
   "description": "Tämän päivän rukousajat paikassa Bareilly, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Bareilly.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bareilly.html",
+  "id": "/fi/prayer-times-in-bareilly.html",
   "start_url": "./prayer-times-in-bareilly.html",
   "scope": "./prayer-times-in-bareilly.html",
   "display": "standalone",

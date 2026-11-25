@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mingora",
   "short_name": "Rukousajat: Mingora",
   "description": "Tämän päivän rukousajat paikassa Mingora, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Mingora.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mingora.html",
+  "id": "/fi/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tabuk",
   "short_name": "זמני תפילה בעיר Tabuk",
   "description": "זמני התפילה של היום בעיר Tabuk, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Tabuk.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tabuk.html",
+  "id": "/he/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

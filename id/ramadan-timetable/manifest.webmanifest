@@ -2,7 +2,7 @@
   "name": "Loona Jadwal Ramadan",
   "short_name": "Jadwal Ramadan",
   "description": "Jadwal Ramadan lengkap untuk kota mana pun dan tahun Hijriah mana pun: waktu akhir Sahur dan Buka Puasa untuk setiap hari Ramadan dengan tanggal Masehi dan lama puasa. Gratis, dapat dicetak.",
-  "id": "/loona-islamic-tools/id/ramadan-timetable/",
+  "id": "/id/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

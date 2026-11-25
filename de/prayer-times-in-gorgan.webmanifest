@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Gorgān",
   "short_name": "Gebetszeiten in Gorgān",
   "description": "Die heutigen Gebetszeiten in Gorgān, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Gorgān.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-gorgan.html",
+  "id": "/de/prayer-times-in-gorgan.html",
   "start_url": "./prayer-times-in-gorgan.html",
   "scope": "./prayer-times-in-gorgan.html",
   "display": "standalone",

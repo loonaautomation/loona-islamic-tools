@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Yazd",
   "short_name": "เวลาละหมาดใน Yazd",
   "description": "เวลาละหมาดวันนี้ใน Yazd, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Yazd",
-  "id": "/loona-islamic-tools/th/prayer-times-in-yazd.html",
+  "id": "/th/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

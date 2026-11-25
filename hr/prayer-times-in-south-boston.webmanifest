@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu South Boston",
   "short_name": "Vremena namaza u gradu South Boston",
   "description": "Današnja vremena namaza u gradu South Boston, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad South Boston.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-south-boston.html",
+  "id": "/hr/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

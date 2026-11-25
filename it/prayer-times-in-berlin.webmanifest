@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Berlin",
   "short_name": "Orari di preghiera a Berlin",
   "description": "Orari di preghiera di oggi a Berlin, Germania: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Berlin.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-berlin.html",
+  "id": "/it/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

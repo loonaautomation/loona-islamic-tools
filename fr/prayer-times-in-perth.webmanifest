@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Perth",
   "short_name": "Heures de prière à Perth",
   "description": "Les heures de prière d’aujourd’hui à Perth, Australie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Perth.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-perth.html",
+  "id": "/fr/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

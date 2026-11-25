@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cairo",
   "short_name": "Bønnetider i Cairo",
   "description": "Dagens bønnetider i Cairo, Egypt: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Cairo.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-cairo.html",
+  "id": "/nb/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

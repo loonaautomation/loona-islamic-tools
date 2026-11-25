@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jambi City",
   "short_name": "Bönetider i Jambi City",
   "description": "Dagens bönetider i Jambi City, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Jambi City.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jambi-city.html",
+  "id": "/sv/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

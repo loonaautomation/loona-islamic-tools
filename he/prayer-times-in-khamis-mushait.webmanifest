@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Khamis Mushait",
   "short_name": "זמני תפילה בעיר Khamis Mushait",
   "description": "זמני התפילה של היום בעיר Khamis Mushait, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Khamis Mushait.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-khamis-mushait.html",
+  "id": "/he/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

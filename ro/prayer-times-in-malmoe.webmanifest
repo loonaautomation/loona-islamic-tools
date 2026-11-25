@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Malmö",
   "short_name": "Ore de rugăciune în Malmö",
   "description": "Orele de rugăciune de azi în Malmö, Suedia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Malmö.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-malmoe.html",
+  "id": "/ro/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

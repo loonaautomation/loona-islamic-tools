@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Shymkent",
   "short_name": "เวลาละหมาดใน Shymkent",
   "description": "เวลาละหมาดวันนี้ใน Shymkent, Kazakhstan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Shymkent",
-  "id": "/loona-islamic-tools/th/prayer-times-in-shymkent.html",
+  "id": "/th/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 키블라 방향",
   "short_name": "키블라 방향",
   "description": "어떤 도시나 정확한 위치에서든 키블라 방향을 각도로 찾고, 실시간 나침반 다이얼과 막카까지의 거리도 확인하세요. 무료, 정확, 프라이빗해요.",
-  "id": "/loona-islamic-tools/ko/qibla-direction/",
+  "id": "/ko/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

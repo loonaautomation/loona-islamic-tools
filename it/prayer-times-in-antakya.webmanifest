@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Antakya",
   "short_name": "Orari di preghiera a Antakya",
   "description": "Orari di preghiera di oggi a Antakya, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Antakya.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-antakya.html",
+  "id": "/it/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

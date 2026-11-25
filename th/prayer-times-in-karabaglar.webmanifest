@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Karabağlar",
   "short_name": "เวลาละหมาดใน Karabağlar",
   "description": "เวลาละหมาดวันนี้ใน Karabağlar, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Karabağlar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-karabaglar.html",
+  "id": "/th/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

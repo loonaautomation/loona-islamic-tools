@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kuching",
   "short_name": "Gebetszeiten in Kuching",
   "description": "Die heutigen Gebetszeiten in Kuching, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kuching.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kuching.html",
+  "id": "/de/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

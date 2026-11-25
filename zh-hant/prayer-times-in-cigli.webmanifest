@@ -2,7 +2,7 @@
   "name": "Loona Çiğli的禮拜時間",
   "short_name": "Çiğli的禮拜時間",
   "description": "Çiğli（土耳其）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Çiğli實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-cigli.html",
+  "id": "/zh-hant/prayer-times-in-cigli.html",
   "start_url": "./prayer-times-in-cigli.html",
   "scope": "./prayer-times-in-cigli.html",
   "display": "standalone",

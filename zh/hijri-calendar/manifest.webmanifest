@@ -2,7 +2,7 @@
   "name": "Loona 伊斯兰历",
   "short_name": "伊斯兰历",
   "description": "浏览任何伊斯兰历月份和年份，简洁的伊斯兰日历中每一天都同时显示其公历日期。Umm al-Qura日历，免费且始终保持最新。",
-  "id": "/loona-islamic-tools/zh/hijri-calendar/",
+  "id": "/zh/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

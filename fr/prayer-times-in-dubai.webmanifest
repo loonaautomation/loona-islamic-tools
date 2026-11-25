@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Dubai",
   "short_name": "Heures de prière à Dubai",
   "description": "Les heures de prière d’aujourd’hui à Dubai, UAE : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Dubai.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-dubai.html",
+  "id": "/fr/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Charlotte的礼拜时间",
   "short_name": "Charlotte的礼拜时间",
   "description": "Charlotte（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Charlotte实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-charlotte.html",
+  "id": "/zh/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

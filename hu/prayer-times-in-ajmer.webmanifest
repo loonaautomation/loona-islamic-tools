@@ -2,7 +2,7 @@
   "name": "Loona Ajmer imaidői",
   "short_name": "Ajmer imaidői",
   "description": "A mai imaidők: Ajmer, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Ajmer számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ajmer.html",
+  "id": "/hu/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

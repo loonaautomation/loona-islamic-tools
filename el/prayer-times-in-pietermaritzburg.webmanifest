@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pietermaritzburg",
   "short_name": "Ώρες Προσευχής στο Pietermaritzburg",
   "description": "Οι σημερινές ώρες προσευχής στο Pietermaritzburg, Νότια Αφρική: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Pietermaritzburg.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pietermaritzburg.html",
+  "id": "/el/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

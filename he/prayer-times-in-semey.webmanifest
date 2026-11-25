@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Semey",
   "short_name": "זמני תפילה בעיר Semey",
   "description": "זמני התפילה של היום בעיר Semey, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Semey.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-semey.html",
+  "id": "/he/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

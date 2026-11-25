@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bitung",
   "short_name": "Gebetszeiten in Bitung",
   "description": "Die heutigen Gebetszeiten in Bitung, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bitung.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bitung.html",
+  "id": "/de/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

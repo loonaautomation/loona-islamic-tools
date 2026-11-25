@@ -2,7 +2,7 @@
   "name": "Loona Місячний розклад намазів",
   "short_name": "Місячний розклад намазів",
   "description": "Створіть місячний розклад намазів для друку для будь-якого міста: усі шість часів на весь місяць, з вашим методом розрахунку та школою Асру, безкоштовно й приватно.",
-  "id": "/loona-islamic-tools/uk/monthly-prayer-timetable/",
+  "id": "/uk/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Shyamnagar",
   "short_name": "مواقيت الصلاة في Shyamnagar",
   "description": "مواقيت الصلاة اليوم في Shyamnagar، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـShyamnagar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-shyamnagar.html",
+  "id": "/ar/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

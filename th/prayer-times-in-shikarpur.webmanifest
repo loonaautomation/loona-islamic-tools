@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Shikarpur",
   "short_name": "เวลาละหมาดใน Shikarpur",
   "description": "เวลาละหมาดวันนี้ใน Shikarpur, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Shikarpur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-shikarpur.html",
+  "id": "/th/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

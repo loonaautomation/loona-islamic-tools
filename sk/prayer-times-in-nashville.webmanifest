@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Nashville",
   "short_name": "Časy modlitieb v Nashville",
   "description": "Dnešné časy modlitieb v Nashville, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Nashville.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-nashville.html",
+  "id": "/sk/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Melbourne",
   "short_name": "Czasy modlitw w miejscowości Melbourne",
   "description": "Dzisiejsze czasy modlitw w miejscowości Melbourne, kraj Australia: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Melbourne.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-melbourne.html",
+  "id": "/pl/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

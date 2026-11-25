@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في The Hague",
   "short_name": "مواقيت الصلاة في The Hague",
   "description": "مواقيت الصلاة اليوم في The Hague، هولندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـThe Hague.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-the-hague.html",
+  "id": "/ar/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

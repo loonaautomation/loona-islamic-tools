@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Misratah",
   "short_name": "Bønnetider i Misratah",
   "description": "Dagens bønnetider i Misratah, Libya: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Misratah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-misratah.html",
+  "id": "/nb/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

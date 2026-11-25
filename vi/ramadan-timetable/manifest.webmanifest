@@ -2,7 +2,7 @@
   "name": "Loona Bảng giờ Ramadan",
   "short_name": "Bảng giờ Ramadan",
   "description": "Bảng giờ Ramadan đầy đủ cho bất kỳ thành phố và năm Hijri nào: giờ kết thúc Sehri và giờ Iftar cho mỗi ngày của Ramadan kèm ngày Dương lịch và thời lượng nhịn ăn. Miễn phí, có thể in.",
-  "id": "/loona-islamic-tools/vi/ramadan-timetable/",
+  "id": "/vi/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

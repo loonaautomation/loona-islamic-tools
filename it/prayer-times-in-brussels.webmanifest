@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Brussels",
   "short_name": "Orari di preghiera a Brussels",
   "description": "Orari di preghiera di oggi a Brussels, Belgio: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Brussels.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-brussels.html",
+  "id": "/it/prayer-times-in-brussels.html",
   "start_url": "./prayer-times-in-brussels.html",
   "scope": "./prayer-times-in-brussels.html",
   "display": "standalone",

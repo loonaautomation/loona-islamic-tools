@@ -2,7 +2,7 @@
   "name": "Loona Algiers の礼拝時刻",
   "short_name": "Algiers の礼拝時刻",
   "description": "Algiers（アルジェリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Algiers についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-algiers.html",
+  "id": "/ja/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

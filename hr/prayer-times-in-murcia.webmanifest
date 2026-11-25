@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Murcia",
   "short_name": "Vremena namaza u gradu Murcia",
   "description": "Današnja vremena namaza u gradu Murcia, Španjolska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Murcia.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-murcia.html",
+  "id": "/hr/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

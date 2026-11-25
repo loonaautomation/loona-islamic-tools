@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tarsus",
   "short_name": "Gebetszeiten in Tarsus",
   "description": "Die heutigen Gebetszeiten in Tarsus, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tarsus.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tarsus.html",
+  "id": "/de/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

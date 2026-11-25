@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sari",
   "short_name": "Orari di preghiera a Sari",
   "description": "Orari di preghiera di oggi a Sari, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sari.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sari.html",
+  "id": "/it/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

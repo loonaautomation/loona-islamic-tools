@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sahiwal",
   "short_name": "Час намазу в Sahiwal",
   "description": "Сьогоднішній час намазу в Sahiwal, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Sahiwal.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sahiwal.html",
+  "id": "/uk/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

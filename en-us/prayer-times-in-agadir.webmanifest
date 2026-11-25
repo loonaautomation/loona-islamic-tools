@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Agadir Today",
   "short_name": "Prayer Times in Agadir Today",
   "description": "Today's prayer times in Agadir, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Agadir.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-agadir.html",
+  "id": "/en-us/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Yanbu",
   "short_name": "Ώρες Προσευχής στο Yanbu",
   "description": "Οι σημερινές ώρες προσευχής στο Yanbu, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Yanbu.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-yanbu.html",
+  "id": "/el/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

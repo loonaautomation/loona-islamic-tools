@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nawabshah",
   "short_name": "Gebedstijden in Nawabshah",
   "description": "De gebedstijden van vandaag in Nawabshah, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Nawabshah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nawabshah.html",
+  "id": "/nl/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Dombivali",
   "short_name": "Heures de prière à Dombivali",
   "description": "Les heures de prière d’aujourd’hui à Dombivali, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Dombivali.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-dombivali.html",
+  "id": "/fr/prayer-times-in-dombivali.html",
   "start_url": "./prayer-times-in-dombivali.html",
   "scope": "./prayer-times-in-dombivali.html",
   "display": "standalone",

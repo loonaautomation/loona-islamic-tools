@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tiruchirappalli",
   "short_name": "Gebetszeiten in Tiruchirappalli",
   "description": "Die heutigen Gebetszeiten in Tiruchirappalli, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Tiruchirappalli.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tiruchirappalli.html",
+  "id": "/de/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

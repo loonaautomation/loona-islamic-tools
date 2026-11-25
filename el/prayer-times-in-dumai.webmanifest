@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dumai",
   "short_name": "Ώρες Προσευχής στο Dumai",
   "description": "Οι σημερινές ώρες προσευχής στο Dumai, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Dumai.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dumai.html",
+  "id": "/el/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pikine",
   "short_name": "זמני תפילה בעיר Pikine",
   "description": "זמני התפילה של היום בעיר Pikine, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pikine.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pikine.html",
+  "id": "/he/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

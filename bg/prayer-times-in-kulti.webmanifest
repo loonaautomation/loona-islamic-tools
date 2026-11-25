@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kulti",
   "short_name": "Часове за намаз в Kulti",
   "description": "Днешните часове за намаз в Kulti, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kulti.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kulti.html",
+  "id": "/bg/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

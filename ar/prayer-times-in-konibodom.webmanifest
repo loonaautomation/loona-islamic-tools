@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Konibodom",
   "short_name": "مواقيت الصلاة في Konibodom",
   "description": "مواقيت الصلاة اليوم في Konibodom، طاجيكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKonibodom.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-konibodom.html",
+  "id": "/ar/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

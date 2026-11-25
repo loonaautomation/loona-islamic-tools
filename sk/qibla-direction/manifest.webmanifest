@@ -2,7 +2,7 @@
   "name": "Loona Smer Kibly",
   "short_name": "Smer Kibly",
   "description": "Nájdite smer Kibly v stupňoch z ktoréhokoľvek mesta alebo zo svojej presnej polohy, so živým číselníkom kompasu a vzdialenosťou do Mekky. Zadarmo, presne a súkromne.",
-  "id": "/loona-islamic-tools/sk/qibla-direction/",
+  "id": "/sk/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Gqeberha",
   "short_name": "Orari di preghiera a Gqeberha",
   "description": "Orari di preghiera di oggi a Gqeberha, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Gqeberha.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-gqeberha.html",
+  "id": "/it/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

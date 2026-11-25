@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Basrah",
   "short_name": "Gebedstijden in Basrah",
   "description": "De gebedstijden van vandaag in Basrah, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Basrah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-basrah.html",
+  "id": "/nl/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

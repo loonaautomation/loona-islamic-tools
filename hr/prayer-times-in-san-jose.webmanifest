@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu San Jose",
   "short_name": "Vremena namaza u gradu San Jose",
   "description": "Današnja vremena namaza u gradu San Jose, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad San Jose.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-san-jose.html",
+  "id": "/hr/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kukatpally",
   "short_name": "Bønnetider i Kukatpally",
   "description": "Dagens bønnetider i Kukatpally, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kukatpally.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kukatpally.html",
+  "id": "/nb/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

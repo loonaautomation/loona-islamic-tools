@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Jeddah",
   "short_name": "Rukousajat: Jeddah",
   "description": "Tämän päivän rukousajat paikassa Jeddah, Saudi-Arabia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Umm al-Qura -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Jeddah.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-jeddah.html",
+  "id": "/fi/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

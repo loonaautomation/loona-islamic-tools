@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Zürich",
   "short_name": "Vremena namaza u gradu Zürich",
   "description": "Današnja vremena namaza u gradu Zürich, Švicarska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Zürich.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-zuerich.html",
+  "id": "/hr/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

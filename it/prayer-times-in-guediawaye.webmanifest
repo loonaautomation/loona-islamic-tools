@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Guédiawaye",
   "short_name": "Orari di preghiera a Guédiawaye",
   "description": "Orari di preghiera di oggi a Guédiawaye, Senegal: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Guédiawaye.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-guediawaye.html",
+  "id": "/it/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

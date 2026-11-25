@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sandakan",
   "short_name": "Waktu Salat di Sandakan",
   "description": "Waktu salat hari ini di Sandakan, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Sandakan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sandakan.html",
+  "id": "/id/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

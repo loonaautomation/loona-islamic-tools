@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Christchurch",
   "short_name": "Gebedstijden in Christchurch",
   "description": "De gebedstijden van vandaag in Christchurch, Nieuw-Zeeland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Christchurch.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-christchurch.html",
+  "id": "/nl/prayer-times-in-christchurch.html",
   "start_url": "./prayer-times-in-christchurch.html",
   "scope": "./prayer-times-in-christchurch.html",
   "display": "standalone",

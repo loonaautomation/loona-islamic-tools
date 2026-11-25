@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kota",
   "short_name": "เวลาละหมาดใน Kota",
   "description": "เวลาละหมาดวันนี้ใน Kota, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kota",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kota.html",
+  "id": "/th/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

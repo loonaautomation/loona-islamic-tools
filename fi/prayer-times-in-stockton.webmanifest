@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Stockton",
   "short_name": "Rukousajat: Stockton",
   "description": "Tämän päivän rukousajat paikassa Stockton, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Stockton.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-stockton.html",
+  "id": "/fi/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

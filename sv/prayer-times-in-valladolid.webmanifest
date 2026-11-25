@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Valladolid",
   "short_name": "Bönetider i Valladolid",
   "description": "Dagens bönetider i Valladolid, Spanien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Valladolid.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-valladolid.html",
+  "id": "/sv/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

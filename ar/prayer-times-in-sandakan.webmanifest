@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sandakan",
   "short_name": "مواقيت الصلاة في Sandakan",
   "description": "مواقيت الصلاة اليوم في Sandakan، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSandakan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sandakan.html",
+  "id": "/ar/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

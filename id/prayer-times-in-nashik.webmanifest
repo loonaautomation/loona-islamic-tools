@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Nashik",
   "short_name": "Waktu Salat di Nashik",
   "description": "Waktu salat hari ini di Nashik, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Nashik.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-nashik.html",
+  "id": "/id/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

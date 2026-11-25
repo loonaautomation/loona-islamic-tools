@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i London",
   "short_name": "Bønnetider i London",
   "description": "Dagens bønnetider i London, Storbritannien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for London.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-london.html",
+  "id": "/da/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

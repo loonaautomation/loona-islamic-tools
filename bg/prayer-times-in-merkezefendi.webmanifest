@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Merkezefendi",
   "short_name": "Часове за намаз в Merkezefendi",
   "description": "Днешните часове за намаз в Merkezefendi, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Merkezefendi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-merkezefendi.html",
+  "id": "/bg/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

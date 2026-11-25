@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Situbondo",
   "short_name": "Prayer Times in Situbondo",
   "description": "Today's prayer times in Situbondo, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Situbondo.",
-  "id": "/loona-islamic-tools/prayer-times-in-situbondo.html",
+  "id": "/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

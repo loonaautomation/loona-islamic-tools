@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bursa",
   "short_name": "זמני תפילה בעיר Bursa",
   "description": "זמני התפילה של היום בעיר Bursa, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bursa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bursa.html",
+  "id": "/he/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Damietta",
   "short_name": "Часове за намаз в Damietta",
   "description": "Днешните часове за намаз в Damietta, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Damietta.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-damietta.html",
+  "id": "/bg/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

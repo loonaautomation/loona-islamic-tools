@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Surabaya Today",
   "short_name": "Prayer Times in Surabaya Today",
   "description": "Today's prayer times in Surabaya, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Surabaya.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-surabaya.html",
+  "id": "/en-us/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

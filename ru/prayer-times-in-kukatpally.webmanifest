@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kukatpally",
   "short_name": "Время намаза в городе Kukatpally",
   "description": "Время намаза на сегодня: Kukatpally, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Kukatpally.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kukatpally.html",
+  "id": "/ru/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

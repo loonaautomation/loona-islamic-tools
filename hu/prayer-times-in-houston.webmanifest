@@ -2,7 +2,7 @@
   "name": "Loona Houston imaidői",
   "short_name": "Houston imaidői",
   "description": "A mai imaidők: Houston, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Houston számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-houston.html",
+  "id": "/hu/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

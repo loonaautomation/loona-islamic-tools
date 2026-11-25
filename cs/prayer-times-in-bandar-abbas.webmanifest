@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bandar Abbas",
   "short_name": "Časy modliteb v Bandar Abbas",
   "description": "Dnešní časy modliteb v Bandar Abbas, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bandar Abbas.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bandar-abbas.html",
+  "id": "/cs/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

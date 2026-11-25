@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bandar Abbas",
   "short_name": "Часове за намаз в Bandar Abbas",
   "description": "Днешните часове за намаз в Bandar Abbas, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bandar Abbas.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bandar-abbas.html",
+  "id": "/bg/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

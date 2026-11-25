@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Stuttgart",
   "short_name": "Rukousajat: Stuttgart",
   "description": "Tämän päivän rukousajat paikassa Stuttgart, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Stuttgart.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-stuttgart.html",
+  "id": "/fi/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

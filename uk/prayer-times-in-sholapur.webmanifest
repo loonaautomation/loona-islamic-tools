@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sholapur",
   "short_name": "Час намазу в Sholapur",
   "description": "Сьогоднішній час намазу в Sholapur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Sholapur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sholapur.html",
+  "id": "/uk/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

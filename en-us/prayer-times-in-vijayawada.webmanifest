@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Vijayawada Today",
   "short_name": "Prayer Times in Vijayawada Today",
   "description": "Today's prayer times in Vijayawada, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Vijayawada.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-vijayawada.html",
+  "id": "/en-us/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

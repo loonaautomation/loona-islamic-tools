@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Baku",
   "short_name": "Waktu Solat di Baku",
   "description": "Waktu solat hari ini di Baku, Azerbaijan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Baku.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-baku.html",
+  "id": "/ms/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

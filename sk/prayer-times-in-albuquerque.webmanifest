@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Albuquerque",
   "short_name": "Časy modlitieb v Albuquerque",
   "description": "Dnešné časy modlitieb v Albuquerque, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Albuquerque.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-albuquerque.html",
+  "id": "/sk/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

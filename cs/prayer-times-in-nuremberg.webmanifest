@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nuremberg",
   "short_name": "Časy modliteb v Nuremberg",
   "description": "Dnešní časy modliteb v Nuremberg, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Nuremberg.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nuremberg.html",
+  "id": "/cs/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

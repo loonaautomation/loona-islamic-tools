@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kollam",
   "short_name": "Час намазу в Kollam",
   "description": "Сьогоднішній час намазу в Kollam, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kollam.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kollam.html",
+  "id": "/uk/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

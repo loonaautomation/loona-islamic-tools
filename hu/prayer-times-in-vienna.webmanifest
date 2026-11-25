@@ -2,7 +2,7 @@
   "name": "Loona Vienna imaidői",
   "short_name": "Vienna imaidői",
   "description": "A mai imaidők: Vienna, Ausztria: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Vienna számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-vienna.html",
+  "id": "/hu/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

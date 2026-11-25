@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Rāmgundam",
   "short_name": "Waktu Solat di Rāmgundam",
   "description": "Waktu solat hari ini di Rāmgundam, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Rāmgundam.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ramgundam.html",
+  "id": "/ms/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

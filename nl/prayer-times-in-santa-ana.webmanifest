@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Santa Ana",
   "short_name": "Gebedstijden in Santa Ana",
   "description": "De gebedstijden van vandaag in Santa Ana, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Santa Ana.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-santa-ana.html",
+  "id": "/nl/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

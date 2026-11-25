@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Russeifa",
   "short_name": "Gebetszeiten in Russeifa",
   "description": "Die heutigen Gebetszeiten in Russeifa, Jordanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Russeifa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-russeifa.html",
+  "id": "/de/prayer-times-in-russeifa.html",
   "start_url": "./prayer-times-in-russeifa.html",
   "scope": "./prayer-times-in-russeifa.html",
   "display": "standalone",

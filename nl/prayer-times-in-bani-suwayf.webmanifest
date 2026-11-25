@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Banī Suwayf",
   "short_name": "Gebedstijden in Banī Suwayf",
   "description": "De gebedstijden van vandaag in Banī Suwayf, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Egyptian General Authority, live berekend op je apparaat voor Banī Suwayf.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bani-suwayf.html",
+  "id": "/nl/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

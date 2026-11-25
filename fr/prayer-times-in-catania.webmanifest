@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Catania",
   "short_name": "Heures de prière à Catania",
   "description": "Les heures de prière d’aujourd’hui à Catania, Italie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Catania.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-catania.html",
+  "id": "/fr/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

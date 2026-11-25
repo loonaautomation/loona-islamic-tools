@@ -2,7 +2,7 @@
   "name": "Loona Reading Namaz Vakitleri",
   "short_name": "Reading Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Reading, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Reading için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-reading.html",
+  "id": "/tr/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

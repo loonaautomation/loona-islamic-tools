@@ -2,7 +2,7 @@
   "name": "Loona Tétouan Namaz Vakitleri",
   "short_name": "Tétouan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tétouan, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tétouan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tetouan.html",
+  "id": "/tr/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Dushanbe",
   "short_name": "Heures de prière à Dushanbe",
   "description": "Les heures de prière d’aujourd’hui à Dushanbe, Tadjikistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Dushanbe.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-dushanbe.html",
+  "id": "/fr/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

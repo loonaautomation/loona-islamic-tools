@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Edinburgh",
   "short_name": "Czasy modlitw w miejscowości Edinburgh",
   "description": "Dzisiejsze czasy modlitw w miejscowości Edinburgh, kraj Wielka Brytania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Edinburgh.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-edinburgh.html",
+  "id": "/pl/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

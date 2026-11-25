@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Barddhamān",
   "short_name": "Ώρες Προσευχής στο Barddhamān",
   "description": "Οι σημερινές ώρες προσευχής στο Barddhamān, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Barddhamān.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-barddhaman.html",
+  "id": "/el/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kanpur",
   "short_name": "Prayer Times in Kanpur",
   "description": "Today's prayer times in Kanpur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kanpur.",
-  "id": "/loona-islamic-tools/prayer-times-in-kanpur.html",
+  "id": "/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

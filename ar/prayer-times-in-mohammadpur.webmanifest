@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mohammadpur",
   "short_name": "مواقيت الصلاة في Mohammadpur",
   "description": "مواقيت الصلاة اليوم في Mohammadpur، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMohammadpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mohammadpur.html",
+  "id": "/ar/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mosul Namaz Vakitleri",
   "short_name": "Mosul Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mosul, Irak: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Mosul için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mosul.html",
+  "id": "/tr/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

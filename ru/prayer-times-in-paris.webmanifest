@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Paris",
   "short_name": "Время намаза в городе Paris",
   "description": "Время намаза на сегодня: Paris, Франция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Paris.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-paris.html",
+  "id": "/ru/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

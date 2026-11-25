@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bandung",
   "short_name": "Časy modlitieb v Bandung",
   "description": "Dnešné časy modlitieb v Bandung, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Bandung.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bandung.html",
+  "id": "/sk/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

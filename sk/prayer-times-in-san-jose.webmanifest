@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v San Jose",
   "short_name": "Časy modlitieb v San Jose",
   "description": "Dnešné časy modlitieb v San Jose, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre San Jose.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-san-jose.html",
+  "id": "/sk/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

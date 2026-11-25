@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Durgapur",
   "short_name": "זמני תפילה בעיר Durgapur",
   "description": "זמני התפילה של היום בעיר Durgapur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Durgapur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-durgapur.html",
+  "id": "/he/prayer-times-in-durgapur.html",
   "start_url": "./prayer-times-in-durgapur.html",
   "scope": "./prayer-times-in-durgapur.html",
   "display": "standalone",

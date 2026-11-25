@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dezful",
   "short_name": "Prayer Times in Dezful",
   "description": "Today's prayer times in Dezful, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dezful.",
-  "id": "/loona-islamic-tools/prayer-times-in-dezful.html",
+  "id": "/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

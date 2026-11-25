@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nanded",
   "short_name": "Rukousajat: Nanded",
   "description": "Tämän päivän rukousajat paikassa Nanded, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Nanded.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nanded.html",
+  "id": "/fi/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

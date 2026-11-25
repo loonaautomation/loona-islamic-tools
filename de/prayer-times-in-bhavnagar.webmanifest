@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhavnagar",
   "short_name": "Gebetszeiten in Bhavnagar",
   "description": "Die heutigen Gebetszeiten in Bhavnagar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhavnagar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhavnagar.html",
+  "id": "/de/prayer-times-in-bhavnagar.html",
   "start_url": "./prayer-times-in-bhavnagar.html",
   "scope": "./prayer-times-in-bhavnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mosul",
   "short_name": "Vremena namaza u gradu Mosul",
   "description": "Današnja vremena namaza u gradu Mosul, Irak: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Mosul.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mosul.html",
+  "id": "/hr/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bhāgalpur",
   "short_name": "Bönetider i Bhāgalpur",
   "description": "Dagens bönetider i Bhāgalpur, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bhāgalpur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bhagalpur.html",
+  "id": "/sv/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

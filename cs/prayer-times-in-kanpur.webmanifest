@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kanpur",
   "short_name": "Časy modliteb v Kanpur",
   "description": "Dnešní časy modliteb v Kanpur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kanpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kanpur.html",
+  "id": "/cs/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Saddiqabad",
   "short_name": "Waktu Salat di Saddiqabad",
   "description": "Waktu salat hari ini di Saddiqabad, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Saddiqabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-saddiqabad.html",
+  "id": "/id/prayer-times-in-saddiqabad.html",
   "start_url": "./prayer-times-in-saddiqabad.html",
   "scope": "./prayer-times-in-saddiqabad.html",
   "display": "standalone",

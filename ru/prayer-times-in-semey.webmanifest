@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Semey",
   "short_name": "Время намаза в городе Semey",
   "description": "Время намаза на сегодня: Semey, Казахстан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Semey.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-semey.html",
+  "id": "/ru/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kadapa",
   "short_name": "זמני תפילה בעיר Kadapa",
   "description": "זמני התפילה של היום בעיר Kadapa, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kadapa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kadapa.html",
+  "id": "/he/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

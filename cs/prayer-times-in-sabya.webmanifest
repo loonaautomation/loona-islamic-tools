@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Şabyā",
   "short_name": "Časy modliteb v Şabyā",
   "description": "Dnešní časy modliteb v Şabyā, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Şabyā.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sabya.html",
+  "id": "/cs/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

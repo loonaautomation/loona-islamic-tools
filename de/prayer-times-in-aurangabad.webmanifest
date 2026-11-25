@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Aurangabad",
   "short_name": "Gebetszeiten in Aurangabad",
   "description": "Die heutigen Gebetszeiten in Aurangabad, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Aurangabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-aurangabad.html",
+  "id": "/de/prayer-times-in-aurangabad.html",
   "start_url": "./prayer-times-in-aurangabad.html",
   "scope": "./prayer-times-in-aurangabad.html",
   "display": "standalone",

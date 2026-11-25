@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dammam",
   "short_name": "Vremena namaza u gradu Dammam",
   "description": "Današnja vremena namaza u gradu Dammam, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Dammam.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dammam.html",
+  "id": "/hr/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

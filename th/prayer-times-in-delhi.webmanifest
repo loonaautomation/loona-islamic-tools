@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Delhi",
   "short_name": "เวลาละหมาดใน Delhi",
   "description": "เวลาละหมาดวันนี้ใน Delhi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Delhi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-delhi.html",
+  "id": "/th/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

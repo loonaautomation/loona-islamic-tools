@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Qo‘qon",
   "short_name": "Waktu Salat di Qo‘qon",
   "description": "Waktu salat hari ini di Qo‘qon, Uzbekistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Qo‘qon.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-qo-qon.html",
+  "id": "/id/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

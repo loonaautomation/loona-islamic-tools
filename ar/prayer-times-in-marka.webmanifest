@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Marka",
   "short_name": "مواقيت الصلاة في Marka",
   "description": "مواقيت الصلاة اليوم في Marka، الصومال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMarka.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-marka.html",
+  "id": "/ar/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sarajevo の礼拝時刻",
   "short_name": "Sarajevo の礼拝時刻",
   "description": "Sarajevo（ボスニア・ヘルツェゴビナ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Sarajevo についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sarajevo.html",
+  "id": "/ja/prayer-times-in-sarajevo.html",
   "start_url": "./prayer-times-in-sarajevo.html",
   "scope": "./prayer-times-in-sarajevo.html",
   "display": "standalone",

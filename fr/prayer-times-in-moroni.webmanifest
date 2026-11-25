@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Moroni",
   "short_name": "Heures de prière à Moroni",
   "description": "Les heures de prière d’aujourd’hui à Moroni, Comores : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Moroni.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-moroni.html",
+  "id": "/fr/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Soweto imaidői",
   "short_name": "Soweto imaidői",
   "description": "A mai imaidők: Soweto, Dél-afrikai Köztársaság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Soweto számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-soweto.html",
+  "id": "/hu/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

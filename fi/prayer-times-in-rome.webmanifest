@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rome",
   "short_name": "Rukousajat: Rome",
   "description": "Tämän päivän rukousajat paikassa Rome, Italia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rome.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rome.html",
+  "id": "/fi/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

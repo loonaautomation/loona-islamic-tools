@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Damanhur",
   "short_name": "Horários de Oração em Damanhur",
   "description": "Horários de oração de hoje em Damanhur, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Damanhur.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-damanhur.html",
+  "id": "/pt/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

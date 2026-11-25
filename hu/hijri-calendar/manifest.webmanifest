@@ -2,7 +2,7 @@
   "name": "Loona Hidzsri naptár",
   "short_name": "Hidzsri naptár",
   "description": "Böngésszen bármely hidzsri hónapot és évet egy letisztult iszlám naptárban, ahol minden nap a gregorián dátumát is mutatja. Umm al-Qura naptár, ingyenesen és mindig naprakészen.",
-  "id": "/loona-islamic-tools/hu/hijri-calendar/",
+  "id": "/hu/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

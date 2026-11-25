@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Vancouver",
   "short_name": "Gebetszeiten in Vancouver",
   "description": "Die heutigen Gebetszeiten in Vancouver, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Vancouver.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-vancouver.html",
+  "id": "/de/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

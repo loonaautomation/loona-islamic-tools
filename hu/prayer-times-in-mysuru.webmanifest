@@ -2,7 +2,7 @@
   "name": "Loona Mysuru imaidői",
   "short_name": "Mysuru imaidői",
   "description": "A mai imaidők: Mysuru, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Mysuru számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mysuru.html",
+  "id": "/hu/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

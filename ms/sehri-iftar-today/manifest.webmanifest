@@ -2,7 +2,7 @@
   "name": "Loona Waktu Sahur & Berbuka Hari Ini",
   "short_name": "Waktu Sahur & Berbuka Hari Ini",
   "description": "Waktu tamat Sahur (Subuh) dan Berbuka (Maghrib) hari ini untuk bandar anda dengan kiraan detik langsung ke waktu berikutnya. Kaedah Karachi, Asar Hanafi secara lalai, boleh dilaraskan.",
-  "id": "/loona-islamic-tools/ms/sehri-iftar-today/",
+  "id": "/ms/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

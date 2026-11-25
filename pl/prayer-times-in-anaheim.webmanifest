@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Anaheim",
   "short_name": "Czasy modlitw w miejscowości Anaheim",
   "description": "Dzisiejsze czasy modlitw w miejscowości Anaheim, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Anaheim.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-anaheim.html",
+  "id": "/pl/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

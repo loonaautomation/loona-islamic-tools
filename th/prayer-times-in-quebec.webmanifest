@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Québec",
   "short_name": "เวลาละหมาดใน Québec",
   "description": "เวลาละหมาดวันนี้ใน Québec, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Québec",
-  "id": "/loona-islamic-tools/th/prayer-times-in-quebec.html",
+  "id": "/th/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

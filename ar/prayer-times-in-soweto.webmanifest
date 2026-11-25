@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Soweto",
   "short_name": "مواقيت الصلاة في Soweto",
   "description": "مواقيت الصلاة اليوم في Soweto، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSoweto.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-soweto.html",
+  "id": "/ar/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

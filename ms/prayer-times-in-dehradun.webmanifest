@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dehradun",
   "short_name": "Waktu Solat di Dehradun",
   "description": "Waktu solat hari ini di Dehradun, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Dehradun.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dehradun.html",
+  "id": "/ms/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

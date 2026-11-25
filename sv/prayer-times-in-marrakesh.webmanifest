@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Marrakesh",
   "short_name": "Bönetider i Marrakesh",
   "description": "Dagens bönetider i Marrakech, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Marrakech.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-marrakesh.html",
+  "id": "/sv/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

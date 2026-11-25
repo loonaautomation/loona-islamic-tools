@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Pasir Mas",
   "short_name": "เวลาละหมาดใน Pasir Mas",
   "description": "เวลาละหมาดวันนี้ใน Pasir Mas, Malaysia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Pasir Mas",
-  "id": "/loona-islamic-tools/th/prayer-times-in-pasir-mas.html",
+  "id": "/th/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

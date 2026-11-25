@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Düsseldorf",
   "short_name": "Waktu Salat di Düsseldorf",
   "description": "Waktu salat hari ini di Düsseldorf, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Düsseldorf.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-duesseldorf.html",
+  "id": "/id/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

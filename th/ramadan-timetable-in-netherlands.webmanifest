@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Netherlands 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Netherlands 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Netherlands: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Amsterdam. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-netherlands.html",
+  "id": "/th/ramadan-timetable-in-netherlands.html",
   "start_url": "./ramadan-timetable-in-netherlands.html",
   "scope": "./ramadan-timetable-in-netherlands.html",
   "display": "standalone",

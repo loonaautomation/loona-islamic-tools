@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Alor Setar",
   "short_name": "Časy modliteb v Alor Setar",
   "description": "Dnešní časy modliteb v Alor Setar, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Alor Setar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-alor-setar.html",
+  "id": "/cs/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

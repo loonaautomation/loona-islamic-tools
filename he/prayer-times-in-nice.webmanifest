@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nice",
   "short_name": "זמני תפילה בעיר Nice",
   "description": "זמני התפילה של היום בעיר Nice, צרפת: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Nice.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nice.html",
+  "id": "/he/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

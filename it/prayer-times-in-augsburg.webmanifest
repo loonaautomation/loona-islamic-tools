@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Augsburg",
   "short_name": "Orari di preghiera a Augsburg",
   "description": "Orari di preghiera di oggi a Augsburg, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Augsburg.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-augsburg.html",
+  "id": "/it/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

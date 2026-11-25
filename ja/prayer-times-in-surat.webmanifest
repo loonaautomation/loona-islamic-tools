@@ -2,7 +2,7 @@
   "name": "Loona Surat の礼拝時刻",
   "short_name": "Surat の礼拝時刻",
   "description": "Surat（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Surat についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-surat.html",
+  "id": "/ja/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

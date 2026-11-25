@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Natore",
   "short_name": "Bønnetider i Natore",
   "description": "Dagens bønnetider i Natore, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Natore.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-natore.html",
+  "id": "/nb/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

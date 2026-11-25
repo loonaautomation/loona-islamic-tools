@@ -2,7 +2,7 @@
   "name": "Loona Sholapur の礼拝時刻",
   "short_name": "Sholapur の礼拝時刻",
   "description": "Sholapur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Sholapur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sholapur.html",
+  "id": "/ja/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

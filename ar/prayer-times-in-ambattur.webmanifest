@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ambattur",
   "short_name": "مواقيت الصلاة في Ambattur",
   "description": "مواقيت الصلاة اليوم في Ambattur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAmbattur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ambattur.html",
+  "id": "/ar/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

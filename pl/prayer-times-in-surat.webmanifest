@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Surat",
   "short_name": "Czasy modlitw w miejscowości Surat",
   "description": "Dzisiejsze czasy modlitw w miejscowości Surat, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Surat.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-surat.html",
+  "id": "/pl/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

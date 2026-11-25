@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hamadān",
   "short_name": "Gebetszeiten in Hamadān",
   "description": "Die heutigen Gebetszeiten in Hamadān, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Hamadān.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hamadan.html",
+  "id": "/de/prayer-times-in-hamadan.html",
   "start_url": "./prayer-times-in-hamadan.html",
   "scope": "./prayer-times-in-hamadan.html",
   "display": "standalone",

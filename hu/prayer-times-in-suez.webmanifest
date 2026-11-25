@@ -2,7 +2,7 @@
   "name": "Loona Suez imaidői",
   "short_name": "Suez imaidői",
   "description": "A mai imaidők: Suez, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Suez számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-suez.html",
+  "id": "/hu/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

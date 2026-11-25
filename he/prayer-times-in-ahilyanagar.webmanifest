@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ahilyanagar",
   "short_name": "זמני תפילה בעיר Ahilyanagar",
   "description": "זמני התפילה של היום בעיר Ahilyanagar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Ahilyanagar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ahilyanagar.html",
+  "id": "/he/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

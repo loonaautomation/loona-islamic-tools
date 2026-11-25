@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Karşıyaka",
   "short_name": "Waktu Solat di Karşıyaka",
   "description": "Waktu solat hari ini di Karşıyaka, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Karşıyaka.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-karsiyaka.html",
+  "id": "/ms/prayer-times-in-karsiyaka.html",
   "start_url": "./prayer-times-in-karsiyaka.html",
   "scope": "./prayer-times-in-karsiyaka.html",
   "display": "standalone",

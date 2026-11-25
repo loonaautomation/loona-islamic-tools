@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rotterdam",
   "short_name": "זמני תפילה בעיר Rotterdam",
   "description": "זמני התפילה של היום בעיר Rotterdam, הולנד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Rotterdam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rotterdam.html",
+  "id": "/he/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sumgayit",
   "short_name": "مواقيت الصلاة في Sumgayit",
   "description": "مواقيت الصلاة اليوم في Sumgayit، أذربيجان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSumgayit.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sumgayit.html",
+  "id": "/ar/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

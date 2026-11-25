@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Augsburg",
   "short_name": "Bönetider i Augsburg",
   "description": "Dagens bönetider i Augsburg, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Augsburg.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-augsburg.html",
+  "id": "/sv/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

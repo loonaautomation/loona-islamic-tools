@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ahvaz",
   "short_name": "Ώρες Προσευχής στο Ahvaz",
   "description": "Οι σημερινές ώρες προσευχής στο Ahvaz, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Ahvaz.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ahvaz.html",
+  "id": "/el/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jacobabad",
   "short_name": "Časy modlitieb v Jacobabad",
   "description": "Dnešné časy modlitieb v Jacobabad, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jacobabad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-jacobabad.html",
+  "id": "/sk/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

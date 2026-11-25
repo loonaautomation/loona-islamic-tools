@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-rooster",
   "short_name": "Ramadan-rooster",
   "description": "Volledig Ramadan-rooster voor elke stad en elk Hijri-jaar: Sehri-einde en Iftar-tijden voor elke dag van de Ramadan met gregoriaanse datums en vastduur. Gratis, printbaar.",
-  "id": "/loona-islamic-tools/nl/ramadan-timetable/",
+  "id": "/nl/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

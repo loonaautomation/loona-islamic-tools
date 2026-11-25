@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sari",
   "short_name": "Часове за намаз в Sari",
   "description": "Днешните часове за намаз в Sari, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sari.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sari.html",
+  "id": "/bg/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

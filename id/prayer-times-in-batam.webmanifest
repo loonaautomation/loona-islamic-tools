@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Batam",
   "short_name": "Waktu Salat di Batam",
   "description": "Waktu salat hari ini di Batam, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Batam.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-batam.html",
+  "id": "/id/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Karabağlar",
   "short_name": "Bönetider i Karabağlar",
   "description": "Dagens bönetider i Karabağlar, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Karabağlar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-karabaglar.html",
+  "id": "/sv/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

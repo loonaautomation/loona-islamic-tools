@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Austin",
   "short_name": "Ore de rugăciune în Austin",
   "description": "Orele de rugăciune de azi în Austin, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Austin.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-austin.html",
+  "id": "/ro/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

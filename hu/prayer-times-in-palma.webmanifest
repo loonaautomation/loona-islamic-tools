@@ -2,7 +2,7 @@
   "name": "Loona Palma imaidői",
   "short_name": "Palma imaidői",
   "description": "A mai imaidők: Palma, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Palma számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-palma.html",
+  "id": "/hu/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

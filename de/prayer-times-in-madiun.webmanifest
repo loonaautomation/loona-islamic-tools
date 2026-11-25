@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Madiun",
   "short_name": "Gebetszeiten in Madiun",
   "description": "Die heutigen Gebetszeiten in Madiun, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Madiun.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-madiun.html",
+  "id": "/de/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

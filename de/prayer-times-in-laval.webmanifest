@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Laval",
   "short_name": "Gebetszeiten in Laval",
   "description": "Die heutigen Gebetszeiten in Laval, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Laval.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-laval.html",
+  "id": "/de/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

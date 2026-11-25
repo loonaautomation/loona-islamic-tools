@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Edmonton",
   "short_name": "Prayer Times in Edmonton",
   "description": "Today's prayer times in Edmonton, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Edmonton.",
-  "id": "/loona-islamic-tools/prayer-times-in-edmonton.html",
+  "id": "/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Johor Bahru",
   "short_name": "Heures de prière à Johor Bahru",
   "description": "Les heures de prière d’aujourd’hui à Johor Bahru, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Johor Bahru.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-johor-bahru.html",
+  "id": "/fr/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

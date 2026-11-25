@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rangpur",
   "short_name": "Bønnetider i Rangpur",
   "description": "Dagens bønnetider i Rangpur, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Rangpur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-rangpur.html",
+  "id": "/da/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

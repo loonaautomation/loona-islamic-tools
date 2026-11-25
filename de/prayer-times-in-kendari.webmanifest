@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kendari",
   "short_name": "Gebetszeiten in Kendari",
   "description": "Die heutigen Gebetszeiten in Kendari, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kendari.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kendari.html",
+  "id": "/de/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

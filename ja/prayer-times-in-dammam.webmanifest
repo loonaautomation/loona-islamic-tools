@@ -2,7 +2,7 @@
   "name": "Loona Dammam の礼拝時刻",
   "short_name": "Dammam の礼拝時刻",
   "description": "Dammam、サウジアラビア の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Dammam についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dammam.html",
+  "id": "/ja/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

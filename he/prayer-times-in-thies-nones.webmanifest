@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thiès Nones",
   "short_name": "זמני תפילה בעיר Thiès Nones",
   "description": "זמני התפילה של היום בעיר Thiès Nones, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Thiès Nones.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thies-nones.html",
+  "id": "/he/prayer-times-in-thies-nones.html",
   "start_url": "./prayer-times-in-thies-nones.html",
   "scope": "./prayer-times-in-thies-nones.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Larkana",
   "short_name": "مواقيت الصلاة في Larkana",
   "description": "مواقيت الصلاة اليوم في Larkana، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـLarkana.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-larkana.html",
+  "id": "/ar/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Thrissur的礼拜时间",
   "short_name": "Thrissur的礼拜时间",
   "description": "Thrissur（印度）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Thrissur实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-thrissur.html",
+  "id": "/zh/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

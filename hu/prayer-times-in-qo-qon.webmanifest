@@ -2,7 +2,7 @@
   "name": "Loona Qo‘qon imaidői",
   "short_name": "Qo‘qon imaidői",
   "description": "A mai imaidők: Qo‘qon, Üzbegisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Qo‘qon számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-qo-qon.html",
+  "id": "/hu/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bogura imaidői",
   "short_name": "Bogura imaidői",
   "description": "A mai imaidők: Bogura, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Bogura számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bogura.html",
+  "id": "/hu/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

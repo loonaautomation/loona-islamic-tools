@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Konak",
   "short_name": "Waktu Salat di Konak",
   "description": "Waktu salat hari ini di Konak, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Konak.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-konak.html",
+  "id": "/id/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

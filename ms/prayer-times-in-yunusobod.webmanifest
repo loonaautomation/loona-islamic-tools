@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Yunusobod",
   "short_name": "Waktu Solat di Yunusobod",
   "description": "Waktu solat hari ini di Yunusobod, Uzbekistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Yunusobod.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-yunusobod.html",
+  "id": "/ms/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

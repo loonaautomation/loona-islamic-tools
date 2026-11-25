@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Taraz",
   "short_name": "Gebetszeiten in Taraz",
   "description": "Die heutigen Gebetszeiten in Taraz, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Taraz.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-taraz.html",
+  "id": "/de/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

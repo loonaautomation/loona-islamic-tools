@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Batman",
   "short_name": "Waktu Salat di Batman",
   "description": "Waktu salat hari ini di Batman, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Batman.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-batman.html",
+  "id": "/id/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

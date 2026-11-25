@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jamnagar",
   "short_name": "Ώρες Προσευχής στο Jamnagar",
   "description": "Οι σημερινές ώρες προσευχής στο Jamnagar, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Jamnagar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jamnagar.html",
+  "id": "/el/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

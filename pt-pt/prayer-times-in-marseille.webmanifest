@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Marseille",
   "short_name": "Horários de Oração em Marseille",
   "description": "Horários de oração de hoje em Marseille, França: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Marseille.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-marseille.html",
+  "id": "/pt-pt/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

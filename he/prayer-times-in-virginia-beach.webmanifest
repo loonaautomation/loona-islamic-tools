@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Virginia Beach",
   "short_name": "זמני תפילה בעיר Virginia Beach",
   "description": "זמני התפילה של היום בעיר Virginia Beach, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Virginia Beach.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-virginia-beach.html",
+  "id": "/he/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona San Diego imaidői",
   "short_name": "San Diego imaidői",
   "description": "A mai imaidők: San Diego, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén San Diego számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-san-diego.html",
+  "id": "/hu/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

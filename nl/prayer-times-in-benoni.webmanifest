@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Benoni",
   "short_name": "Gebedstijden in Benoni",
   "description": "De gebedstijden van vandaag in Benoni, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Benoni.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-benoni.html",
+  "id": "/nl/prayer-times-in-benoni.html",
   "start_url": "./prayer-times-in-benoni.html",
   "scope": "./prayer-times-in-benoni.html",
   "display": "standalone",

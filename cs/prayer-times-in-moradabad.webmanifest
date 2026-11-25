@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Morādābād",
   "short_name": "Časy modliteb v Morādābād",
   "description": "Dnešní časy modliteb v Morādābād, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Morādābād.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-moradabad.html",
+  "id": "/cs/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

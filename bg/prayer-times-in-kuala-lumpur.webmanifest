@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kuala Lumpur",
   "short_name": "Часове за намаз в Kuala Lumpur",
   "description": "Днешните часове за намаз в Kuala Lumpur, Малайзия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kuala Lumpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kuala-lumpur.html",
+  "id": "/bg/prayer-times-in-kuala-lumpur.html",
   "start_url": "./prayer-times-in-kuala-lumpur.html",
   "scope": "./prayer-times-in-kuala-lumpur.html",
   "display": "standalone",

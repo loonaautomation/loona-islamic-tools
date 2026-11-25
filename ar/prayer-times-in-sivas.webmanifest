@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sivas",
   "short_name": "مواقيت الصلاة في Sivas",
   "description": "مواقيت الصلاة اليوم في Sivas، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSivas.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sivas.html",
+  "id": "/ar/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

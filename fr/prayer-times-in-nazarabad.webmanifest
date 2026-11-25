@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Naz̧arābād",
   "short_name": "Heures de prière à Naz̧arābād",
   "description": "Les heures de prière d’aujourd’hui à Naz̧arābād, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Naz̧arābād.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-nazarabad.html",
+  "id": "/fr/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

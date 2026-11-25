@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Oral",
   "short_name": "Vremena namaza u gradu Oral",
   "description": "Današnja vremena namaza u gradu Oral, Kazahstan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Oral.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-oral.html",
+  "id": "/hr/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

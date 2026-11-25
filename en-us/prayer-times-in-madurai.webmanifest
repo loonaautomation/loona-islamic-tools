@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Madurai Today",
   "short_name": "Prayer Times in Madurai Today",
   "description": "Today's prayer times in Madurai, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Madurai.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-madurai.html",
+  "id": "/en-us/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

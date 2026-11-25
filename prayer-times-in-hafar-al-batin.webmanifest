@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Hafar Al-Batin",
   "short_name": "Prayer Times in Hafar Al-Batin",
   "description": "Today's prayer times in Hafar Al-Batin, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Umm al-Qura method, calculated live on your device for Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/prayer-times-in-hafar-al-batin.html",
+  "id": "/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Madinah",
   "short_name": "Bønnetider i Madinah",
   "description": "Dagens bønnetider i Madinah, Saudi-Arabia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Madinah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-madinah.html",
+  "id": "/nb/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

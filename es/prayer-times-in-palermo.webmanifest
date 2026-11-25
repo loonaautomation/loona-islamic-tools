@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Palermo",
   "short_name": "Horarios de oración en Palermo",
   "description": "Horarios de oración de hoy en Palermo, Italia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Palermo.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-palermo.html",
+  "id": "/es/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

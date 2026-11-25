@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Davangere",
   "short_name": "Bønnetider i Davangere",
   "description": "Dagens bønnetider i Davangere, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Davangere.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-davangere.html",
+  "id": "/nb/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

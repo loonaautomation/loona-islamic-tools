@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Jaipur",
   "short_name": "Horários de Oração em Jaipur",
   "description": "Horários de oração de hoje em Jaipur, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Jaipur.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-jaipur.html",
+  "id": "/pt-pt/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

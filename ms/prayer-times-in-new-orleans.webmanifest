@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di New Orleans",
   "short_name": "Waktu Solat di New Orleans",
   "description": "Waktu solat hari ini di New Orleans, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk New Orleans.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-new-orleans.html",
+  "id": "/ms/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

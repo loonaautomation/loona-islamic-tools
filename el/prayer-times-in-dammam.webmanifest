@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dammam",
   "short_name": "Ώρες Προσευχής στο Dammam",
   "description": "Οι σημερινές ώρες προσευχής στο Dammam, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Dammam.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dammam.html",
+  "id": "/el/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mukim Pulai",
   "short_name": "Waktu Salat di Mukim Pulai",
   "description": "Waktu salat hari ini di Mukim Pulai, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Mukim Pulai.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mukim-pulai.html",
+  "id": "/id/prayer-times-in-mukim-pulai.html",
   "start_url": "./prayer-times-in-mukim-pulai.html",
   "scope": "./prayer-times-in-mukim-pulai.html",
   "display": "standalone",

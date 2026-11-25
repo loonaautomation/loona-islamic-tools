@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sinjhoro",
   "short_name": "Vremena namaza u gradu Sinjhoro",
   "description": "Današnja vremena namaza u gradu Sinjhoro, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Sinjhoro.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sinjhoro.html",
+  "id": "/hr/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

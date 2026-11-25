@@ -2,7 +2,7 @@
   "name": "Loona San Francisco Namaz Vakitleri",
   "short_name": "San Francisco Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — San Francisco, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, San Francisco için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-san-francisco.html",
+  "id": "/tr/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

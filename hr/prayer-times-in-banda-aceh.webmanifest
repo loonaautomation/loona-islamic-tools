@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Banda Aceh",
   "short_name": "Vremena namaza u gradu Banda Aceh",
   "description": "Današnja vremena namaza u gradu Banda Aceh, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Banda Aceh.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-banda-aceh.html",
+  "id": "/hr/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

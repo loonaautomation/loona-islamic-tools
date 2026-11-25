@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Miri",
   "short_name": "Gebetszeiten in Miri",
   "description": "Die heutigen Gebetszeiten in Miri, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Miri.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-miri.html",
+  "id": "/de/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Phoenix",
   "short_name": "Časy modlitieb v Phoenix",
   "description": "Dnešné časy modlitieb v Phoenix, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Phoenix.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-phoenix.html",
+  "id": "/sk/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

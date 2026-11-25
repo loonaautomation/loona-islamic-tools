@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ouagadougou",
   "short_name": "Gebetszeiten in Ouagadougou",
   "description": "Die heutigen Gebetszeiten in Ouagadougou, Burkina Faso: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ouagadougou.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ouagadougou.html",
+  "id": "/de/prayer-times-in-ouagadougou.html",
   "start_url": "./prayer-times-in-ouagadougou.html",
   "scope": "./prayer-times-in-ouagadougou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại London",
   "short_name": "Giờ cầu nguyện tại London",
   "description": "Giờ cầu nguyện hôm nay tại London, Vương quốc Anh: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho London.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-london.html",
+  "id": "/vi/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

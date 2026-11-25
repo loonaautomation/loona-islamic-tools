@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Barishal",
   "short_name": "Waktu Solat di Barishal",
   "description": "Waktu solat hari ini di Barishal, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Barishal.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-barishal.html",
+  "id": "/ms/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

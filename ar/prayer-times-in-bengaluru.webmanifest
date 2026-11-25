@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bengaluru",
   "short_name": "مواقيت الصلاة في Bengaluru",
   "description": "مواقيت الصلاة اليوم في Bengaluru، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBengaluru.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bengaluru.html",
+  "id": "/ar/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

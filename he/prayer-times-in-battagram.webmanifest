@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Battagram",
   "short_name": "זמני תפילה בעיר Battagram",
   "description": "זמני התפילה של היום בעיר Battagram, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Battagram.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-battagram.html",
+  "id": "/he/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

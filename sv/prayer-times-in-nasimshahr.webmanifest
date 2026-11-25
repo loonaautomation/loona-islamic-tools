@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nasimshahr",
   "short_name": "Bönetider i Nasimshahr",
   "description": "Dagens bönetider i Nasimshahr, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nasimshahr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nasimshahr.html",
+  "id": "/sv/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

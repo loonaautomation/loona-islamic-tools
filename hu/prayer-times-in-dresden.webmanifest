@@ -2,7 +2,7 @@
   "name": "Loona Dresden imaidői",
   "short_name": "Dresden imaidői",
   "description": "A mai imaidők: Dresden, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Dresden számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dresden.html",
+  "id": "/hu/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

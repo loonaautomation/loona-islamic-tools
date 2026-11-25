@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Soshanguve",
   "short_name": "مواقيت الصلاة في Soshanguve",
   "description": "مواقيت الصلاة اليوم في Soshanguve، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSoshanguve.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-soshanguve.html",
+  "id": "/ar/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

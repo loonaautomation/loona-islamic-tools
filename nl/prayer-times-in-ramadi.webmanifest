@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ramadi",
   "short_name": "Gebedstijden in Ramadi",
   "description": "De gebedstijden van vandaag in Ramadi, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ramadi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ramadi.html",
+  "id": "/nl/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

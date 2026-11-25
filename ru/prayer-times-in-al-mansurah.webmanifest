@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Al Mansurah",
   "short_name": "Время намаза в городе Al Mansurah",
   "description": "Время намаза на сегодня: Al Mansurah, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Al Mansurah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-al-mansurah.html",
+  "id": "/ru/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

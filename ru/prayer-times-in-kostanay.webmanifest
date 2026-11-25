@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kostanay",
   "short_name": "Время намаза в городе Kostanay",
   "description": "Время намаза на сегодня: Kostanay, Казахстан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Kostanay.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kostanay.html",
+  "id": "/ru/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

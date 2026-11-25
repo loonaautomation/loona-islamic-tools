@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mallawī",
   "short_name": "Ώρες Προσευχής στο Mallawī",
   "description": "Οι σημερινές ώρες προσευχής στο Mallawī, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Mallawī.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mallawi.html",
+  "id": "/el/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

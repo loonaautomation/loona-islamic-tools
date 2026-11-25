@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rasapūdipalem",
   "short_name": "Horarios de oración en Rasapūdipalem",
   "description": "Horarios de oración de hoy en Rasapūdipalem, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rasapūdipalem.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rasapudipalem.html",
+  "id": "/es/prayer-times-in-rasapudipalem.html",
   "start_url": "./prayer-times-in-rasapudipalem.html",
   "scope": "./prayer-times-in-rasapudipalem.html",
   "display": "standalone",

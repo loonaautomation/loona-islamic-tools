@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Raipur",
   "short_name": "เวลาละหมาดใน Raipur",
   "description": "เวลาละหมาดวันนี้ใน Raipur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Raipur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-raipur.html",
+  "id": "/th/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

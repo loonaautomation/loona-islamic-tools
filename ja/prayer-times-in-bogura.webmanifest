@@ -2,7 +2,7 @@
   "name": "Loona Bogura の礼拝時刻",
   "short_name": "Bogura の礼拝時刻",
   "description": "Bogura（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bogura についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bogura.html",
+  "id": "/ja/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

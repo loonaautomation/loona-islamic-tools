@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Portland",
   "short_name": "Waktu Salat di Portland",
   "description": "Waktu salat hari ini di Portland, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Portland.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-portland.html",
+  "id": "/id/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mazār-e Sharīf",
   "short_name": "Časy modliteb v Mazār-e Sharīf",
   "description": "Dnešní časy modliteb v Mazār-e Sharīf, Afghánistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mazar-e-sharif.html",
+  "id": "/cs/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

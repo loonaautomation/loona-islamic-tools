@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Madurai",
   "short_name": "Czasy modlitw w miejscowości Madurai",
   "description": "Dzisiejsze czasy modlitw w miejscowości Madurai, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Madurai.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-madurai.html",
+  "id": "/pl/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

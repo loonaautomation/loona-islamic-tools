@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Muzaffarpur",
   "short_name": "Bønnetider i Muzaffarpur",
   "description": "Dagens bønnetider i Muzaffarpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Muzaffarpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-muzaffarpur.html",
+  "id": "/nb/prayer-times-in-muzaffarpur.html",
   "start_url": "./prayer-times-in-muzaffarpur.html",
   "scope": "./prayer-times-in-muzaffarpur.html",
   "display": "standalone",

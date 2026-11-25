@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jeddah",
   "short_name": "זמני תפילה בעיר Jeddah",
   "description": "זמני התפילה של היום בעיר Jeddah, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Jeddah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jeddah.html",
+  "id": "/he/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

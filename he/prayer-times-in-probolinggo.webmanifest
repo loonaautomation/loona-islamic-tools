@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Probolinggo",
   "short_name": "זמני תפילה בעיר Probolinggo",
   "description": "זמני התפילה של היום בעיר Probolinggo, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Probolinggo.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-probolinggo.html",
+  "id": "/he/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

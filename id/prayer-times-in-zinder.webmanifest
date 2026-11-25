@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Zinder",
   "short_name": "Waktu Salat di Zinder",
   "description": "Waktu salat hari ini di Zinder, Niger: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Zinder.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-zinder.html",
+  "id": "/id/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

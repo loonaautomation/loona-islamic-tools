@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Alanya",
   "short_name": "Waktu Salat di Alanya",
   "description": "Waktu salat hari ini di Alanya, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Alanya.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-alanya.html",
+  "id": "/id/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

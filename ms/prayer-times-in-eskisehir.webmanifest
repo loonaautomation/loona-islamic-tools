@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Eskişehir",
   "short_name": "Waktu Solat di Eskişehir",
   "description": "Waktu solat hari ini di Eskişehir, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Eskişehir.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-eskisehir.html",
+  "id": "/ms/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

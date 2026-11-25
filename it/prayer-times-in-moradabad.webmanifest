@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Morādābād",
   "short_name": "Orari di preghiera a Morādābād",
   "description": "Orari di preghiera di oggi a Morādābād, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Morādābād.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-moradabad.html",
+  "id": "/it/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Hafar Al-Batin",
   "short_name": "Gebedstijden in Hafar Al-Batin",
   "description": "De gebedstijden van vandaag in Hafar Al-Batin, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-hafar-al-batin.html",
+  "id": "/nl/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

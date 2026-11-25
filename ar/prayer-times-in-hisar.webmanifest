@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Hisar",
   "short_name": "مواقيت الصلاة في Hisar",
   "description": "مواقيت الصلاة اليوم في Hisar، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـHisar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hisar.html",
+  "id": "/ar/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

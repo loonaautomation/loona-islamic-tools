@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Baghdad",
   "short_name": "Bönetider i Baghdad",
   "description": "Dagens bönetider i Baghdad, Irak: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Baghdad.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-baghdad.html",
+  "id": "/sv/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

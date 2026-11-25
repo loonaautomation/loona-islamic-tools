@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Halifax",
   "short_name": "Ώρες Προσευχής στο Halifax",
   "description": "Οι σημερινές ώρες προσευχής στο Halifax, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Halifax.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-halifax.html",
+  "id": "/el/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

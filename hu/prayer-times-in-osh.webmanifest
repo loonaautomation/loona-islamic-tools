@@ -2,7 +2,7 @@
   "name": "Loona Osh imaidői",
   "short_name": "Osh imaidői",
   "description": "A mai imaidők: Osh, Kirgizisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Osh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-osh.html",
+  "id": "/hu/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

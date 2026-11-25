@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Istaravshan",
   "short_name": "Heures de prière à Istaravshan",
   "description": "Les heures de prière d’aujourd’hui à Istaravshan, Tadjikistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Istaravshan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-istaravshan.html",
+  "id": "/fr/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

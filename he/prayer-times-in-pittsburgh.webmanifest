@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pittsburgh",
   "short_name": "זמני תפילה בעיר Pittsburgh",
   "description": "זמני התפילה של היום בעיר Pittsburgh, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Pittsburgh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pittsburgh.html",
+  "id": "/he/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

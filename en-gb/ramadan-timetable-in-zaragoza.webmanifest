@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable in Zaragoza 2027",
   "short_name": "Ramadan Timetable in Zaragoza 2027",
   "description": "Ramadan 2027 timetable for Zaragoza, Spain: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/en-gb/ramadan-timetable-in-zaragoza.html",
+  "id": "/en-gb/ramadan-timetable-in-zaragoza.html",
   "start_url": "./ramadan-timetable-in-zaragoza.html",
   "scope": "./ramadan-timetable-in-zaragoza.html",
   "display": "standalone",

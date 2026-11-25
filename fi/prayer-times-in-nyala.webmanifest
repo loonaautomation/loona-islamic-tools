@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nyala",
   "short_name": "Rukousajat: Nyala",
   "description": "Tämän päivän rukousajat paikassa Nyala, Sudan: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Nyala.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nyala.html",
+  "id": "/fi/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

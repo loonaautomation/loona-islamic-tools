@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ahmedabad",
   "short_name": "Bønnetider i Ahmedabad",
   "description": "Dagens bønnetider i Ahmedabad, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Ahmedabad.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ahmedabad.html",
+  "id": "/nb/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kano",
   "short_name": "Ore de rugăciune în Kano",
   "description": "Orele de rugăciune de azi în Kano, Nigeria: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Kano.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kano.html",
+  "id": "/ro/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

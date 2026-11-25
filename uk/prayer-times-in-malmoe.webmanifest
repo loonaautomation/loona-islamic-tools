@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Malmö",
   "short_name": "Час намазу в Malmö",
   "description": "Сьогоднішній час намазу в Malmö, Швеція: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Malmö.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-malmoe.html",
+  "id": "/uk/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

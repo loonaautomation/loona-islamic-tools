@@ -2,7 +2,7 @@
   "name": "Loona Malacca Namaz Vakitleri",
   "short_name": "Malacca Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Malacca, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Malacca için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-malacca.html",
+  "id": "/tr/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

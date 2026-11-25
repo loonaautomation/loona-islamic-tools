@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Luxor",
   "short_name": "Gebedstijden in Luxor",
   "description": "De gebedstijden van vandaag in Luxor, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Egyptian General Authority, live berekend op je apparaat voor Luxor.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-luxor.html",
+  "id": "/nl/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

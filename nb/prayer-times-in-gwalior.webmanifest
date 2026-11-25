@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gwalior",
   "short_name": "Bønnetider i Gwalior",
   "description": "Dagens bønnetider i Gwalior, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Gwalior.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-gwalior.html",
+  "id": "/nb/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

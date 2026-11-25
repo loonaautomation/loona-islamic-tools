@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pelentong Today",
   "short_name": "Prayer Times in Pelentong Today",
   "description": "Today's prayer times in Pelentong, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pelentong.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-pelentong.html",
+  "id": "/en-us/prayer-times-in-pelentong.html",
   "start_url": "./prayer-times-in-pelentong.html",
   "scope": "./prayer-times-in-pelentong.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dhaka",
   "short_name": "זמני תפילה בעיר Dhaka",
   "description": "זמני התפילה של היום בעיר Dhaka, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dhaka.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dhaka.html",
+  "id": "/he/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Malatya",
   "short_name": "Waktu Solat di Malatya",
   "description": "Waktu solat hari ini di Malatya, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Malatya.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-malatya.html",
+  "id": "/ms/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

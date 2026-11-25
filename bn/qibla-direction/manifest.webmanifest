@@ -2,7 +2,7 @@
   "name": "Loona কিবলার দিক",
   "short_name": "কিবলার দিক",
   "description": "যেকোনো শহর বা আপনার সঠিক অবস্থান থেকে ডিগ্রিতে কিবলার দিক খুঁজুন, একটি লাইভ কম্পাস ডায়াল ও মক্কার দূরত্বসহ। ফ্রি, নির্ভুল ও ব্যক্তিগত।",
-  "id": "/loona-islamic-tools/bn/qibla-direction/",
+  "id": "/bn/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Palembang の礼拝時刻",
   "short_name": "Palembang の礼拝時刻",
   "description": "Palembang（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Palembang についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-palembang.html",
+  "id": "/ja/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

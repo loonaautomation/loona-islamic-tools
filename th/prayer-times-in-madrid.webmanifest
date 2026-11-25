@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Madrid",
   "short_name": "เวลาละหมาดใน Madrid",
   "description": "เวลาละหมาดวันนี้ใน Madrid, Spain: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Madrid",
-  "id": "/loona-islamic-tools/th/prayer-times-in-madrid.html",
+  "id": "/th/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

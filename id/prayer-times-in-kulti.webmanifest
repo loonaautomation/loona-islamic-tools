@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kulti",
   "short_name": "Waktu Salat di Kulti",
   "description": "Waktu salat hari ini di Kulti, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kulti.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kulti.html",
+  "id": "/id/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kano",
   "short_name": "זמני תפילה בעיר Kano",
   "description": "זמני התפילה של היום בעיר Kano, ניגריה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kano.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kano.html",
+  "id": "/he/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

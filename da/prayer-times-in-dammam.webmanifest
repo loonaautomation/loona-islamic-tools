@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dammam",
   "short_name": "Bønnetider i Dammam",
   "description": "Dagens bønnetider i Dammam, Saudi-Arabien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet live på din enhed for Dammam.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-dammam.html",
+  "id": "/da/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

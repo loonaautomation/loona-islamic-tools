@@ -2,7 +2,7 @@
   "name": "Loona Madinah Namaz Vakitleri",
   "short_name": "Madinah Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Madinah, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Madinah için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-madinah.html",
+  "id": "/tr/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

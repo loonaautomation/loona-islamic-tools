@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jeddah",
   "short_name": "เวลาละหมาดใน Jeddah",
   "description": "เวลาละหมาดวันนี้ใน Jeddah, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Umm al-Qura คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jeddah",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jeddah.html",
+  "id": "/th/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Najaf",
   "short_name": "Prayer Times in Najaf",
   "description": "Today's prayer times in Najaf, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Najaf.",
-  "id": "/loona-islamic-tools/prayer-times-in-najaf.html",
+  "id": "/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Esna imaidői",
   "short_name": "Esna imaidői",
   "description": "A mai imaidők: Esna, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Esna számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-esna.html",
+  "id": "/hu/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

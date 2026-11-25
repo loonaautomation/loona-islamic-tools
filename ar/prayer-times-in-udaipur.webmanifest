@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Udaipur",
   "short_name": "مواقيت الصلاة في Udaipur",
   "description": "مواقيت الصلاة اليوم في Udaipur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـUdaipur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-udaipur.html",
+  "id": "/ar/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

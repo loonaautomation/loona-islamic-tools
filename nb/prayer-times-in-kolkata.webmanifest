@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kolkata",
   "short_name": "Bønnetider i Kolkata",
   "description": "Dagens bønnetider i Kolkata, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kolkata.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kolkata.html",
+  "id": "/nb/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

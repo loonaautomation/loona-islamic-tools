@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tirana",
   "short_name": "Časy modliteb v Tirana",
   "description": "Dnešní časy modliteb v Tirana, Albánie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tirana.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tirana.html",
+  "id": "/cs/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

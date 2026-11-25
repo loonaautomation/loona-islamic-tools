@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Karnāl",
   "short_name": "Bønnetider i Karnāl",
   "description": "Dagens bønnetider i Karnāl, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Karnāl.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-karnal.html",
+  "id": "/nb/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

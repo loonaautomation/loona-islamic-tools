@@ -2,7 +2,7 @@
   "name": "Loona Diepsloot imaidői",
   "short_name": "Diepsloot imaidői",
   "description": "A mai imaidők: Diepsloot, Dél-afrikai Köztársaság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Diepsloot számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-diepsloot.html",
+  "id": "/hu/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

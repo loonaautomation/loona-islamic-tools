@@ -2,7 +2,7 @@
   "name": "Loona Salé Namaz Vakitleri",
   "short_name": "Salé Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Salé, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Salé için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sale.html",
+  "id": "/tr/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

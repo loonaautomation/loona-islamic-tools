@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bari",
   "short_name": "Heures de prière à Bari",
   "description": "Les heures de prière d’aujourd’hui à Bari, Italie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Bari.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bari.html",
+  "id": "/fr/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

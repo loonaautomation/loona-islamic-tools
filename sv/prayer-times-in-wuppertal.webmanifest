@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Wuppertal",
   "short_name": "Bönetider i Wuppertal",
   "description": "Dagens bönetider i Wuppertal, Tyskland: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Wuppertal.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-wuppertal.html",
+  "id": "/sv/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

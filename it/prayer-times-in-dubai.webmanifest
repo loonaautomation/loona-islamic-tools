@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dubai",
   "short_name": "Orari di preghiera a Dubai",
   "description": "Orari di preghiera di oggi a Dubai, Emirati Arabi Uniti: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Dubai.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dubai.html",
+  "id": "/it/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

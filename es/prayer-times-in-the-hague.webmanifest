@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en The Hague",
   "short_name": "Horarios de oración en The Hague",
   "description": "Horarios de oración de hoy en The Hague, Países Bajos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para The Hague.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-the-hague.html",
+  "id": "/es/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

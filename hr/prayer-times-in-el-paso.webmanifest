@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu El Paso",
   "short_name": "Vremena namaza u gradu El Paso",
   "description": "Današnja vremena namaza u gradu El Paso, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad El Paso.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-el-paso.html",
+  "id": "/hr/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

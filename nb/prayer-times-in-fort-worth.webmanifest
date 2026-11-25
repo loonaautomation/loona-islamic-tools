@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Fort Worth",
   "short_name": "Bønnetider i Fort Worth",
   "description": "Dagens bønnetider i Fort Worth, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Fort Worth.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-fort-worth.html",
+  "id": "/nb/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

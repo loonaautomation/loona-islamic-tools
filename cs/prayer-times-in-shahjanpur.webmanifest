@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Shāhjānpur",
   "short_name": "Časy modliteb v Shāhjānpur",
   "description": "Dnešní časy modliteb v Shāhjānpur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Shāhjānpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-shahjanpur.html",
+  "id": "/cs/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

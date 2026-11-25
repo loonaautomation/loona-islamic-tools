@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Glasgow",
   "short_name": "Bønnetider i Glasgow",
   "description": "Dagens bønnetider i Glasgow, Storbritannien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Glasgow.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-glasgow.html",
+  "id": "/da/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

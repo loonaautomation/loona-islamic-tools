@@ -2,7 +2,7 @@
   "name": "Loona Knižnica dua",
   "short_name": "Knižnica dua",
   "description": "Knižnica autentických dua pre každú chvíľu — ráno, jedlo, cestovanie, domov, úzkosť, odpustenie — každé s arabským textom, prepisom, prekladom a zdrojom.",
-  "id": "/loona-islamic-tools/sk/duas-library/",
+  "id": "/sk/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

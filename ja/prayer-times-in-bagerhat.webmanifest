@@ -2,7 +2,7 @@
   "name": "Loona Bagerhat の礼拝時刻",
   "short_name": "Bagerhat の礼拝時刻",
   "description": "Bagerhat（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bagerhat についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bagerhat.html",
+  "id": "/ja/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Lucknow",
   "short_name": "זמני תפילה בעיר Lucknow",
   "description": "זמני התפילה של היום בעיר Lucknow, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Lucknow.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-lucknow.html",
+  "id": "/he/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

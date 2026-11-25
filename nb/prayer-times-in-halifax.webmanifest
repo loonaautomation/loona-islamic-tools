@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Halifax",
   "short_name": "Bønnetider i Halifax",
   "description": "Dagens bønnetider i Halifax, Canada: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Halifax.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-halifax.html",
+  "id": "/nb/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

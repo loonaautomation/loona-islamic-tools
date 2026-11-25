@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Trabzon",
   "short_name": "Časy modliteb v Trabzon",
   "description": "Dnešní časy modliteb v Trabzon, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Trabzon.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-trabzon.html",
+  "id": "/cs/prayer-times-in-trabzon.html",
   "start_url": "./prayer-times-in-trabzon.html",
   "scope": "./prayer-times-in-trabzon.html",
   "display": "standalone",

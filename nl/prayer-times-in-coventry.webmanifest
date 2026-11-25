@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Coventry",
   "short_name": "Gebedstijden in Coventry",
   "description": "De gebedstijden van vandaag in Coventry, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Coventry.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-coventry.html",
+  "id": "/nl/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

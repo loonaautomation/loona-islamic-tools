@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Howrah",
   "short_name": "Waktu Salat di Howrah",
   "description": "Waktu salat hari ini di Howrah, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Howrah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-howrah.html",
+  "id": "/id/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

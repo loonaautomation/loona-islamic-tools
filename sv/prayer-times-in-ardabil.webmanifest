@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ardabīl",
   "short_name": "Bönetider i Ardabīl",
   "description": "Dagens bönetider i Ardabīl, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ardabīl.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ardabil.html",
+  "id": "/sv/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

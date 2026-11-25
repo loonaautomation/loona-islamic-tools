@@ -2,7 +2,7 @@
   "name": "Loona Al ‘Amārah imaidői",
   "short_name": "Al ‘Amārah imaidői",
   "description": "A mai imaidők: Al ‘Amārah, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Al ‘Amārah számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-amarah.html",
+  "id": "/hu/prayer-times-in-al-amarah.html",
   "start_url": "./prayer-times-in-al-amarah.html",
   "scope": "./prayer-times-in-al-amarah.html",
   "display": "standalone",

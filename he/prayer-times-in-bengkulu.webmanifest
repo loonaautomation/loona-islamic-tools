@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bengkulu",
   "short_name": "זמני תפילה בעיר Bengkulu",
   "description": "זמני התפילה של היום בעיר Bengkulu, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bengkulu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bengkulu.html",
+  "id": "/he/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

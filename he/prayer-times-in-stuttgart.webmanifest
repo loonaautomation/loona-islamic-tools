@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Stuttgart",
   "short_name": "זמני תפילה בעיר Stuttgart",
   "description": "זמני התפילה של היום בעיר Stuttgart, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Stuttgart.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-stuttgart.html",
+  "id": "/he/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

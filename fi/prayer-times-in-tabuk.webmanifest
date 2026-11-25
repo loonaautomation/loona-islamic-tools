@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tabuk",
   "short_name": "Rukousajat: Tabuk",
   "description": "Tämän päivän rukousajat paikassa Tabuk, Saudi-Arabia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Umm al-Qura -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tabuk.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tabuk.html",
+  "id": "/fi/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

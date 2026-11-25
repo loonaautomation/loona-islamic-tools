@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a San Antonio",
   "short_name": "Orari di preghiera a San Antonio",
   "description": "Orari di preghiera di oggi a San Antonio, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per San Antonio.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-san-antonio.html",
+  "id": "/it/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

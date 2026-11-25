@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Surakarta",
   "short_name": "זמני תפילה בעיר Surakarta",
   "description": "זמני התפילה של היום בעיר Surakarta, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Surakarta.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-surakarta.html",
+  "id": "/he/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

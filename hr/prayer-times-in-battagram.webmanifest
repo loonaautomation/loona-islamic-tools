@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Battagram",
   "short_name": "Vremena namaza u gradu Battagram",
   "description": "Današnja vremena namaza u gradu Battagram, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Battagram.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-battagram.html",
+  "id": "/hr/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Howrah",
   "short_name": "Час намазу в Howrah",
   "description": "Сьогоднішній час намазу в Howrah, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Howrah.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-howrah.html",
+  "id": "/uk/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

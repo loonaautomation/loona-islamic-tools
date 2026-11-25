@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Vancouver",
   "short_name": "Vremena namaza u gradu Vancouver",
   "description": "Današnja vremena namaza u gradu Vancouver, Kanada: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Vancouver.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-vancouver.html",
+  "id": "/hr/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

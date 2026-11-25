@@ -2,7 +2,7 @@
   "name": "Loona Contador de Tasbih",
   "short_name": "Contador de Tasbih",
   "description": "Un contador digital de tasbih: SubhanAllah, Alhamdulillah y más preajustes, objetivos de 33/99/100, seguimiento de vueltas, vibración y totales de por vida guardados en tu dispositivo.",
-  "id": "/loona-islamic-tools/es/tasbih-counter/",
+  "id": "/es/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Rabat",
   "short_name": "Часове за намаз в Rabat",
   "description": "Днешните часове за намаз в Rabat, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Rabat.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-rabat.html",
+  "id": "/bg/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

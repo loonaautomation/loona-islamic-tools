@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ramadi",
   "short_name": "Prayer Times in Ramadi",
   "description": "Today's prayer times in Ramadi, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ramadi.",
-  "id": "/loona-islamic-tools/prayer-times-in-ramadi.html",
+  "id": "/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

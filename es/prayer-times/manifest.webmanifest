@@ -2,7 +2,7 @@
   "name": "Loona Horarios de Oración Hoy",
   "short_name": "Horarios de Oración Hoy",
   "description": "Obtén los horarios de oración de hoy de Fajr, Dhuhr, Asr, Maghrib e Isha para cualquier ciudad: Karachi, ISNA, MWL y más métodos, Asr Hanafi o Shafi, coordenadas exactas admitidas.",
-  "id": "/loona-islamic-tools/es/prayer-times/",
+  "id": "/es/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

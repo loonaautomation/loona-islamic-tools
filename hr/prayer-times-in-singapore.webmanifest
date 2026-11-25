@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Singapore",
   "short_name": "Vremena namaza u gradu Singapore",
   "description": "Današnja vremena namaza u gradu Singapore, Singapur: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Singapore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-singapore.html",
+  "id": "/hr/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

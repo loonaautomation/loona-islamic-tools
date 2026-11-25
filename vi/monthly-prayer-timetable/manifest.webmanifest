@@ -2,7 +2,7 @@
   "name": "Loona Bảng giờ cầu nguyện hàng tháng",
   "short_name": "Bảng giờ cầu nguyện hàng tháng",
   "description": "Tạo bảng giờ cầu nguyện hàng tháng có thể in cho bất kỳ thành phố nào: đủ sáu giờ cho cả tháng, với phương pháp tính và trường phái Asr của bạn, miễn phí và riêng tư.",
-  "id": "/loona-islamic-tools/vi/monthly-prayer-timetable/",
+  "id": "/vi/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

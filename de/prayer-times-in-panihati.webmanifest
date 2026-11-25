@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pānihāti",
   "short_name": "Gebetszeiten in Pānihāti",
   "description": "Die heutigen Gebetszeiten in Pānihāti, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Pānihāti.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-panihati.html",
+  "id": "/de/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nanded",
   "short_name": "Часове за намаз в Nanded",
   "description": "Днешните часове за намаз в Nanded, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Nanded.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nanded.html",
+  "id": "/bg/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

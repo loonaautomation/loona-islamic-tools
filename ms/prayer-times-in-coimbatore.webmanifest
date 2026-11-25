@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Coimbatore",
   "short_name": "Waktu Solat di Coimbatore",
   "description": "Waktu solat hari ini di Coimbatore, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Coimbatore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-coimbatore.html",
+  "id": "/ms/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

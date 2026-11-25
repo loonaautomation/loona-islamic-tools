@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in İzmir",
   "short_name": "Gebetszeiten in İzmir",
   "description": "Die heutigen Gebetszeiten in İzmir, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für İzmir.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-izmir.html",
+  "id": "/de/prayer-times-in-izmir.html",
   "start_url": "./prayer-times-in-izmir.html",
   "scope": "./prayer-times-in-izmir.html",
   "display": "standalone",

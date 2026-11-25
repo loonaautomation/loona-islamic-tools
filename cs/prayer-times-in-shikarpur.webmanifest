@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Shikarpur",
   "short_name": "Časy modliteb v Shikarpur",
   "description": "Dnešní časy modliteb v Shikarpur, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Shikarpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-shikarpur.html",
+  "id": "/cs/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

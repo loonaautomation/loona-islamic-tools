@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Thrissur",
   "short_name": "Rukousajat: Thrissur",
   "description": "Tämän päivän rukousajat paikassa Thrissur, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Thrissur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-thrissur.html",
+  "id": "/fi/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

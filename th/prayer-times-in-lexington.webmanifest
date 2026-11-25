@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Lexington",
   "short_name": "เวลาละหมาดใน Lexington",
   "description": "เวลาละหมาดวันนี้ใน Lexington, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Lexington",
-  "id": "/loona-islamic-tools/th/prayer-times-in-lexington.html",
+  "id": "/th/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

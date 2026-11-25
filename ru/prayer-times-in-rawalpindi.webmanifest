@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Rawalpindi",
   "short_name": "Время намаза в городе Rawalpindi",
   "description": "Время намаза на сегодня: Rawalpindi, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Rawalpindi.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-rawalpindi.html",
+  "id": "/ru/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

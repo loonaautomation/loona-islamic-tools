@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di San Francisco",
   "short_name": "Waktu Salat di San Francisco",
   "description": "Waktu salat hari ini di San Francisco, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk San Francisco.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-san-francisco.html",
+  "id": "/id/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

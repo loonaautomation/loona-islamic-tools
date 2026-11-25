@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Ahmedabad",
   "short_name": "Horarios de oración en Ahmedabad",
   "description": "Horarios de oración de hoy en Ahmedabad, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Ahmedabad.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-ahmedabad.html",
+  "id": "/es/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

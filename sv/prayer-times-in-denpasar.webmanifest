@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Denpasar",
   "short_name": "Bönetider i Denpasar",
   "description": "Dagens bönetider i Denpasar, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Denpasar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-denpasar.html",
+  "id": "/sv/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

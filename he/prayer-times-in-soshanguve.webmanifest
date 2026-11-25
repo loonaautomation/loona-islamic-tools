@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Soshanguve",
   "short_name": "זמני תפילה בעיר Soshanguve",
   "description": "זמני התפילה של היום בעיר Soshanguve, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Soshanguve.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-soshanguve.html",
+  "id": "/he/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Birmingham imaidői",
   "short_name": "Birmingham imaidői",
   "description": "A mai imaidők: Birmingham, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Birmingham számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-birmingham.html",
+  "id": "/hu/prayer-times-in-birmingham.html",
   "start_url": "./prayer-times-in-birmingham.html",
   "scope": "./prayer-times-in-birmingham.html",
   "display": "standalone",

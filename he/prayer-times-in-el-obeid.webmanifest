@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר El Obeid",
   "short_name": "זמני תפילה בעיר El Obeid",
   "description": "זמני התפילה של היום בעיר El Obeid, סודאן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור El Obeid.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-el-obeid.html",
+  "id": "/he/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

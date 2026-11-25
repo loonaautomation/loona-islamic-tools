@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Atyrau",
   "short_name": "Rukousajat: Atyrau",
   "description": "Tämän päivän rukousajat paikassa Atyrau, Kazakstan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Atyrau.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-atyrau.html",
+  "id": "/fi/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

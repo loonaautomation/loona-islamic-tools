@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Yanbu",
   "short_name": "Bönetider i Yanbu",
   "description": "Dagens bönetider i Yanbu, Saudiarabien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Umm al-Qura-metoden, beräknad live på din enhet för Yanbu.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-yanbu.html",
+  "id": "/sv/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

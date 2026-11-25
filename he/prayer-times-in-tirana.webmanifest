@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tirana",
   "short_name": "זמני תפילה בעיר Tirana",
   "description": "זמני התפילה של היום בעיר Tirana, אלבניה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tirana.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tirana.html",
+  "id": "/he/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

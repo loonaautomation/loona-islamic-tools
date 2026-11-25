@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mohammadpur",
   "short_name": "זמני תפילה בעיר Mohammadpur",
   "description": "זמני התפילה של היום בעיר Mohammadpur, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Mohammadpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mohammadpur.html",
+  "id": "/he/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

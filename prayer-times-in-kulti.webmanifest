@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kulti",
   "short_name": "Prayer Times in Kulti",
   "description": "Today's prayer times in Kulti, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kulti.",
-  "id": "/loona-islamic-tools/prayer-times-in-kulti.html",
+  "id": "/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

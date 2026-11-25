@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ludhiana",
   "short_name": "Prayer Times in Ludhiana",
   "description": "Today's prayer times in Ludhiana, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Ludhiana.",
-  "id": "/loona-islamic-tools/prayer-times-in-ludhiana.html",
+  "id": "/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

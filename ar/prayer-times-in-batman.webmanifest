@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Batman",
   "short_name": "مواقيت الصلاة في Batman",
   "description": "مواقيت الصلاة اليوم في Batman، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBatman.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-batman.html",
+  "id": "/ar/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

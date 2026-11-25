@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Al Kharj",
   "short_name": "Vremena namaza u gradu Al Kharj",
   "description": "Današnja vremena namaza u gradu Al Kharj, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Al Kharj.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-al-kharj.html",
+  "id": "/hr/prayer-times-in-al-kharj.html",
   "start_url": "./prayer-times-in-al-kharj.html",
   "scope": "./prayer-times-in-al-kharj.html",
   "display": "standalone",

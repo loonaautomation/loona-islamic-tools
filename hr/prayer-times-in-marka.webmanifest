@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Marka",
   "short_name": "Vremena namaza u gradu Marka",
   "description": "Današnja vremena namaza u gradu Marka, Somalija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Marka.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-marka.html",
+  "id": "/hr/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

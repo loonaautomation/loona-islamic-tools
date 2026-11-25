@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Houston",
   "short_name": "זמני תפילה בעיר Houston",
   "description": "זמני התפילה של היום בעיר Houston, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Houston.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-houston.html",
+  "id": "/he/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pangkalpinang",
   "short_name": "Gebetszeiten in Pangkalpinang",
   "description": "Die heutigen Gebetszeiten in Pangkalpinang, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pangkalpinang.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pangkalpinang.html",
+  "id": "/de/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

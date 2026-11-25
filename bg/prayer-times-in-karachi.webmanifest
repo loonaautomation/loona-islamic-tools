@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Karachi",
   "short_name": "Часове за намаз в Karachi",
   "description": "Днешните часове за намаз в Karachi, Пакистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Karachi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-karachi.html",
+  "id": "/bg/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

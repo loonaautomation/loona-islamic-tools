@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Amman",
   "short_name": "זמני תפילה בעיר Amman",
   "description": "זמני התפילה של היום בעיר Amman, ירדן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Amman.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-amman.html",
+  "id": "/he/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

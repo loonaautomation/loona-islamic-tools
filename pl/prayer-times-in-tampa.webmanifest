@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Tampa",
   "short_name": "Czasy modlitw w miejscowości Tampa",
   "description": "Dzisiejsze czasy modlitw w miejscowości Tampa, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Tampa.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-tampa.html",
+  "id": "/pl/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

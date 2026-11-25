@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Erzurum",
   "short_name": "Heures de prière à Erzurum",
   "description": "Les heures de prière d’aujourd’hui à Erzurum, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Erzurum.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-erzurum.html",
+  "id": "/fr/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

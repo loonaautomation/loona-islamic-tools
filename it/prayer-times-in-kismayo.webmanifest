@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kismayo",
   "short_name": "Orari di preghiera a Kismayo",
   "description": "Orari di preghiera di oggi a Kismayo, Somalia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kismayo.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kismayo.html",
+  "id": "/it/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

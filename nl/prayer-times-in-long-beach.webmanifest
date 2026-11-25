@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Long Beach",
   "short_name": "Gebedstijden in Long Beach",
   "description": "De gebedstijden van vandaag in Long Beach, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Long Beach.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-long-beach.html",
+  "id": "/nl/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hamadān",
   "short_name": "זמני תפילה בעיר Hamadān",
   "description": "זמני התפילה של היום בעיר Hamadān, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Hamadān.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hamadan.html",
+  "id": "/he/prayer-times-in-hamadan.html",
   "start_url": "./prayer-times-in-hamadan.html",
   "scope": "./prayer-times-in-hamadan.html",
   "display": "standalone",

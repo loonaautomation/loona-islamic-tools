@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Hurghada",
   "short_name": "Czasy modlitw w miejscowości Hurghada",
   "description": "Dzisiejsze czasy modlitw w miejscowości Hurghada, kraj Egipt: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Egyptian General Authority, obliczane na żywo na Twoim urządzeniu dla miejscowości Hurghada.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-hurghada.html",
+  "id": "/pl/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

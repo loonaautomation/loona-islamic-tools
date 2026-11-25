@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nouakchott",
   "short_name": "Gebedstijden in Nouakchott",
   "description": "De gebedstijden van vandaag in Nouakchott, Mauritanië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nouakchott.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nouakchott.html",
+  "id": "/nl/prayer-times-in-nouakchott.html",
   "start_url": "./prayer-times-in-nouakchott.html",
   "scope": "./prayer-times-in-nouakchott.html",
   "display": "standalone",

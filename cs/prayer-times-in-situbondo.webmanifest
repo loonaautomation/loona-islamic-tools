@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Situbondo",
   "short_name": "Časy modliteb v Situbondo",
   "description": "Dnešní časy modliteb v Situbondo, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Situbondo.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-situbondo.html",
+  "id": "/cs/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

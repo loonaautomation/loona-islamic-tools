@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Homs",
   "short_name": "Horários de Oração em Homs",
   "description": "Horários de oração de hoje em Homs, Síria: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Homs.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-homs.html",
+  "id": "/pt-br/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

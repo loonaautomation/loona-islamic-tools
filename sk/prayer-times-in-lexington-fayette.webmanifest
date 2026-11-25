@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Lexington-Fayette",
   "short_name": "Časy modlitieb v Lexington-Fayette",
   "description": "Dnešné časy modlitieb v Lexington-Fayette, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Lexington-Fayette.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-lexington-fayette.html",
+  "id": "/sk/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

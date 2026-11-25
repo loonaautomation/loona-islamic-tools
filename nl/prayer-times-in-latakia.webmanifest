@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Latakia",
   "short_name": "Gebedstijden in Latakia",
   "description": "De gebedstijden van vandaag in Latakia, Syrië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Latakia.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-latakia.html",
+  "id": "/nl/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

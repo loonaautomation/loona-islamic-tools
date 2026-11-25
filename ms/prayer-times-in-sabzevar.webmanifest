@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sabzevar",
   "short_name": "Waktu Solat di Sabzevar",
   "description": "Waktu solat hari ini di Sabzevar, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sabzevar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sabzevar.html",
+  "id": "/ms/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Jubayl",
   "short_name": "مواقيت الصلاة في Al Jubayl",
   "description": "مواقيت الصلاة اليوم في Al Jubayl، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـAl Jubayl.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-jubayl.html",
+  "id": "/ar/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

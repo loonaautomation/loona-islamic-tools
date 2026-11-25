@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Singa",
   "short_name": "Часове за намаз в Singa",
   "description": "Днешните часове за намаз в Singa, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Singa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-singa.html",
+  "id": "/bg/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

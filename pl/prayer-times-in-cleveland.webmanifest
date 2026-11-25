@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Cleveland",
   "short_name": "Czasy modlitw w miejscowości Cleveland",
   "description": "Dzisiejsze czasy modlitw w miejscowości Cleveland, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Cleveland.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-cleveland.html",
+  "id": "/pl/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

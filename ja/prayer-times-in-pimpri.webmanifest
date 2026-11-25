@@ -2,7 +2,7 @@
   "name": "Loona Pimpri の礼拝時刻",
   "short_name": "Pimpri の礼拝時刻",
   "description": "Pimpri（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Pimpri についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-pimpri.html",
+  "id": "/ja/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

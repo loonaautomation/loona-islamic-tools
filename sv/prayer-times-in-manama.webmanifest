@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Manama",
   "short_name": "Bönetider i Manama",
   "description": "Dagens bönetider i Manama, Bahrain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Manama.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-manama.html",
+  "id": "/sv/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

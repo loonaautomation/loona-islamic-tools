@@ -2,7 +2,7 @@
   "name": "Loona Bhilai Namaz Vakitleri",
   "short_name": "Bhilai Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bhilai, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Bhilai için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bhilai.html",
+  "id": "/tr/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

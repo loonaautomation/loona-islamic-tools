@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i London (Canada)",
   "short_name": "Bönetider i London (Canada)",
   "description": "Dagens bönetider i London, Kanada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för London.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-london-canada.html",
+  "id": "/sv/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

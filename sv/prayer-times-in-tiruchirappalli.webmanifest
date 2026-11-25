@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tiruchirappalli",
   "short_name": "Bönetider i Tiruchirappalli",
   "description": "Dagens bönetider i Tiruchirappalli, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Tiruchirappalli.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tiruchirappalli.html",
+  "id": "/sv/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

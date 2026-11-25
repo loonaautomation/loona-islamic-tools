@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thoothukudi",
   "short_name": "זמני תפילה בעיר Thoothukudi",
   "description": "זמני התפילה של היום בעיר Thoothukudi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Thoothukudi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thoothukudi.html",
+  "id": "/he/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

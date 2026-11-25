@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Delhi",
   "short_name": "Час намазу в Delhi",
   "description": "Сьогоднішній час намазу в Delhi, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Delhi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-delhi.html",
+  "id": "/uk/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

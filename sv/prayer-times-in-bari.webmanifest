@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bari",
   "short_name": "Bönetider i Bari",
   "description": "Dagens bönetider i Bari, Italien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bari.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bari.html",
+  "id": "/sv/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

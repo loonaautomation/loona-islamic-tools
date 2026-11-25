@@ -2,7 +2,7 @@
   "name": "Loona Welkom imaidői",
   "short_name": "Welkom imaidői",
   "description": "A mai imaidők: Welkom, Dél-afrikai Köztársaság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Welkom számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-welkom.html",
+  "id": "/hu/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

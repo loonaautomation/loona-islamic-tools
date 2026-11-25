@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tashkent",
   "short_name": "Часове за намаз в Tashkent",
   "description": "Днешните часове за намаз в Tashkent, Узбекистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Tashkent.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tashkent.html",
+  "id": "/bg/prayer-times-in-tashkent.html",
   "start_url": "./prayer-times-in-tashkent.html",
   "scope": "./prayer-times-in-tashkent.html",
   "display": "standalone",

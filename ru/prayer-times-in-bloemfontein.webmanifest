@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bloemfontein",
   "short_name": "Время намаза в городе Bloemfontein",
   "description": "Время намаза на сегодня: Bloemfontein, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Bloemfontein.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bloemfontein.html",
+  "id": "/ru/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

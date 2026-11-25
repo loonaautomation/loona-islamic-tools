@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Belfast",
   "short_name": "Ore de rugăciune în Belfast",
   "description": "Orele de rugăciune de azi în Belfast, Regatul Unit: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Belfast.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-belfast.html",
+  "id": "/ro/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

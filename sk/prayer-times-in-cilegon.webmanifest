@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Cilegon",
   "short_name": "Časy modlitieb v Cilegon",
   "description": "Dnešné časy modlitieb v Cilegon, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Cilegon.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cilegon.html",
+  "id": "/sk/prayer-times-in-cilegon.html",
   "start_url": "./prayer-times-in-cilegon.html",
   "scope": "./prayer-times-in-cilegon.html",
   "display": "standalone",

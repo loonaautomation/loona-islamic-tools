@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Roodepoort",
   "short_name": "זמני תפילה בעיר Roodepoort",
   "description": "זמני התפילה של היום בעיר Roodepoort, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Roodepoort.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-roodepoort.html",
+  "id": "/he/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

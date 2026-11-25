@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tegal",
   "short_name": "Gebetszeiten in Tegal",
   "description": "Die heutigen Gebetszeiten in Tegal, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tegal.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tegal.html",
+  "id": "/de/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

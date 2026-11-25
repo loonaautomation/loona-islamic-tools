@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v El Paso",
   "short_name": "Časy modlitieb v El Paso",
   "description": "Dnešné časy modlitieb v El Paso, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre El Paso.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-el-paso.html",
+  "id": "/sk/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

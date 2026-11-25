@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sialkot",
   "short_name": "Gebedstijden in Sialkot",
   "description": "De gebedstijden van vandaag in Sialkot, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sialkot.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sialkot.html",
+  "id": "/nl/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pavlodar",
   "short_name": "זמני תפילה בעיר Pavlodar",
   "description": "זמני התפילה של היום בעיר Pavlodar, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pavlodar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pavlodar.html",
+  "id": "/he/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

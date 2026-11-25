@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в New Orleans",
   "short_name": "Часове за намаз в New Orleans",
   "description": "Днешните часове за намаз в New Orleans, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за New Orleans.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-new-orleans.html",
+  "id": "/bg/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

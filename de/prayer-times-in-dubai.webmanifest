@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dubai",
   "short_name": "Gebetszeiten in Dubai",
   "description": "Die heutigen Gebetszeiten in Dubai, UAE: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Dubai.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dubai.html",
+  "id": "/de/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

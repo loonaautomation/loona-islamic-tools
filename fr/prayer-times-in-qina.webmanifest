@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Qina",
   "short_name": "Heures de prière à Qina",
   "description": "Les heures de prière d’aujourd’hui à Qina, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Qina.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-qina.html",
+  "id": "/fr/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

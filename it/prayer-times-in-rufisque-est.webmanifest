@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Rufisque est",
   "short_name": "Orari di preghiera a Rufisque est",
   "description": "Orari di preghiera di oggi a Rufisque est, Senegal: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Rufisque est.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-rufisque-est.html",
+  "id": "/it/prayer-times-in-rufisque-est.html",
   "start_url": "./prayer-times-in-rufisque-est.html",
   "scope": "./prayer-times-in-rufisque-est.html",
   "display": "standalone",

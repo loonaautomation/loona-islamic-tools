@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nowrangapur",
   "short_name": "Gebedstijden in Nowrangapur",
   "description": "De gebedstijden van vandaag in Nowrangapur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Nowrangapur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nowrangapur.html",
+  "id": "/nl/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

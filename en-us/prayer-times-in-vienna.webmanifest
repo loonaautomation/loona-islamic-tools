@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Vienna Today",
   "short_name": "Prayer Times in Vienna Today",
   "description": "Today's prayer times in Vienna, Austria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Vienna.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-vienna.html",
+  "id": "/en-us/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

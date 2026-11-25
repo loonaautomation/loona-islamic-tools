@@ -2,7 +2,7 @@
   "name": "Loona Yunusobod imaidői",
   "short_name": "Yunusobod imaidői",
   "description": "A mai imaidők: Yunusobod, Üzbegisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Yunusobod számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-yunusobod.html",
+  "id": "/hu/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

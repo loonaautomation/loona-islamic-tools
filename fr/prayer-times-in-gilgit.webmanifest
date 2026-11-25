@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Gilgit",
   "short_name": "Heures de prière à Gilgit",
   "description": "Les heures de prière d’aujourd’hui à Gilgit, Pakistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Gilgit.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-gilgit.html",
+  "id": "/fr/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

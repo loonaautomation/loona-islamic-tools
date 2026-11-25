@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Gold Coast",
   "short_name": "Gebetszeiten in Gold Coast",
   "description": "Die heutigen Gebetszeiten in Gold Coast, Australien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Gold Coast.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-gold-coast.html",
+  "id": "/de/prayer-times-in-gold-coast.html",
   "start_url": "./prayer-times-in-gold-coast.html",
   "scope": "./prayer-times-in-gold-coast.html",
   "display": "standalone",

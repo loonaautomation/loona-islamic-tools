@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ludhiana",
   "short_name": "Gebedstijden in Ludhiana",
   "description": "De gebedstijden van vandaag in Ludhiana, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Ludhiana.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ludhiana.html",
+  "id": "/nl/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

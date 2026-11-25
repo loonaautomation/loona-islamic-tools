@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jammu",
   "short_name": "Час намазу в Jammu",
   "description": "Сьогоднішній час намазу в Jammu, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jammu.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jammu.html",
+  "id": "/uk/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

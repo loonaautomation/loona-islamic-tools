@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Burewala",
   "short_name": "Vremena namaza u gradu Burewala",
   "description": "Današnja vremena namaza u gradu Burewala, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Burewala.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-burewala.html",
+  "id": "/hr/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

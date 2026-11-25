@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Rosetta",
   "short_name": "Waktu Salat di Rosetta",
   "description": "Waktu salat hari ini di Rosetta, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Rosetta.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-rosetta.html",
+  "id": "/id/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Almaty",
   "short_name": "Bönetider i Almaty",
   "description": "Dagens bönetider i Almaty, Kazakstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Almaty.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-almaty.html",
+  "id": "/sv/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

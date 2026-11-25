@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Leicester Today",
   "short_name": "Prayer Times in Leicester Today",
   "description": "Today's prayer times in Leicester, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Leicester.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-leicester.html",
+  "id": "/en-gb/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Situbondo",
   "short_name": "مواقيت الصلاة في Situbondo",
   "description": "مواقيت الصلاة اليوم في Situbondo، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSitubondo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-situbondo.html",
+  "id": "/ar/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

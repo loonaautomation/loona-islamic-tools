@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bhiwandi",
   "short_name": "Waktu Salat di Bhiwandi",
   "description": "Waktu salat hari ini di Bhiwandi, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bhiwandi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bhiwandi.html",
+  "id": "/id/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

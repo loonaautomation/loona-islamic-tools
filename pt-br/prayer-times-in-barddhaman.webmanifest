@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Barddhamān",
   "short_name": "Horários de Oração em Barddhamān",
   "description": "Horários de oração de hoje em Barddhamān, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Barddhamān.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-barddhaman.html",
+  "id": "/pt-br/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

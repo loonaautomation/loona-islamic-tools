@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jessore",
   "short_name": "Vremena namaza u gradu Jessore",
   "description": "Današnja vremena namaza u gradu Jessore, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jessore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jessore.html",
+  "id": "/hr/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

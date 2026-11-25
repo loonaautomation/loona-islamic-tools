@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kermanshah",
   "short_name": "Часове за намаз в Kermanshah",
   "description": "Днешните часове за намаз в Kermanshah, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kermanshah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kermanshah.html",
+  "id": "/bg/prayer-times-in-kermanshah.html",
   "start_url": "./prayer-times-in-kermanshah.html",
   "scope": "./prayer-times-in-kermanshah.html",
   "display": "standalone",

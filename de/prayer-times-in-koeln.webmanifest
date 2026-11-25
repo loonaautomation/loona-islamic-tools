@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Köln",
   "short_name": "Gebetszeiten in Köln",
   "description": "Die heutigen Gebetszeiten in Köln, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Köln.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-koeln.html",
+  "id": "/de/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

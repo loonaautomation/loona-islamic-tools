@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Meknes",
   "short_name": "Ore de rugăciune în Meknes",
   "description": "Orele de rugăciune de azi în Meknes, Maroc: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Meknes.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-meknes.html",
+  "id": "/ro/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

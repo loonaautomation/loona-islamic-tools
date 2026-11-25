@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kŭlob",
   "short_name": "Heures de prière à Kŭlob",
   "description": "Les heures de prière d’aujourd’hui à Kŭlob, Tadjikistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kŭlob.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kulob.html",
+  "id": "/fr/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Fort Worth",
   "short_name": "זמני תפילה בעיר Fort Worth",
   "description": "זמני התפילה של היום בעיר Fort Worth, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Fort Worth.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-fort-worth.html",
+  "id": "/he/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

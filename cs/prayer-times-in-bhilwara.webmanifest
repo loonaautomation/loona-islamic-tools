@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bhilwara",
   "short_name": "Časy modliteb v Bhilwara",
   "description": "Dnešní časy modliteb v Bhilwara, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bhilwara.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bhilwara.html",
+  "id": "/cs/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

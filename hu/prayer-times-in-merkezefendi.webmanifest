@@ -2,7 +2,7 @@
   "name": "Loona Merkezefendi imaidői",
   "short_name": "Merkezefendi imaidői",
   "description": "A mai imaidők: Merkezefendi, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Merkezefendi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-merkezefendi.html",
+  "id": "/hu/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

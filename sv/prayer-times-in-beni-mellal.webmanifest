@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Beni Mellal",
   "short_name": "Bönetider i Beni Mellal",
   "description": "Dagens bönetider i Beni Mellal, Marocko: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Beni Mellal.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-beni-mellal.html",
+  "id": "/sv/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

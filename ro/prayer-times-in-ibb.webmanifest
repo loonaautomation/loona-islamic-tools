@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ibb",
   "short_name": "Ore de rugăciune în Ibb",
   "description": "Orele de rugăciune de azi în Ibb, Yemen: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Ibb.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-ibb.html",
+  "id": "/ro/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Makkah",
   "short_name": "Časy modlitieb v Makkah",
   "description": "Dnešné časy modlitieb v Makkah, Saudská Arábia: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Makkah.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-makkah.html",
+  "id": "/sk/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

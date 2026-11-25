@@ -2,7 +2,7 @@
   "name": "Loona Florence的礼拜时间",
   "short_name": "Florence的礼拜时间",
   "description": "Florence（意大利）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Florence实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-florence.html",
+  "id": "/zh/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

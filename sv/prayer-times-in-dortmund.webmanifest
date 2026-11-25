@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dortmund",
   "short_name": "Bönetider i Dortmund",
   "description": "Dagens bönetider i Dortmund, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Dortmund.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dortmund.html",
+  "id": "/sv/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

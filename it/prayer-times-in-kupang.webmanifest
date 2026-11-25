@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kupang",
   "short_name": "Orari di preghiera a Kupang",
   "description": "Orari di preghiera di oggi a Kupang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kupang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kupang.html",
+  "id": "/it/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

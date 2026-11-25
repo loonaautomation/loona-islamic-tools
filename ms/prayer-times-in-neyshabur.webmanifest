@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Neyshābūr",
   "short_name": "Waktu Solat di Neyshābūr",
   "description": "Waktu solat hari ini di Neyshābūr, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Neyshābūr.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-neyshabur.html",
+  "id": "/ms/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

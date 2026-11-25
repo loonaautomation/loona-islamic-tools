@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Philadelphia",
   "short_name": "Gebetszeiten in Philadelphia",
   "description": "Die heutigen Gebetszeiten in Philadelphia, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Philadelphia.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-philadelphia.html",
+  "id": "/de/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

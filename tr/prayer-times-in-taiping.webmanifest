@@ -2,7 +2,7 @@
   "name": "Loona Taiping Namaz Vakitleri",
   "short_name": "Taiping Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Taiping, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Taiping için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-taiping.html",
+  "id": "/tr/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

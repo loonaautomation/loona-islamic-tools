@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nasimshahr",
   "short_name": "Waktu Solat di Nasimshahr",
   "description": "Waktu solat hari ini di Nasimshahr, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Nasimshahr.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nasimshahr.html",
+  "id": "/ms/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

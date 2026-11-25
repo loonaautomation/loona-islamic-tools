@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Muzaffarābād",
   "short_name": "זמני תפילה בעיר Muzaffarābād",
   "description": "זמני התפילה של היום בעיר Muzaffarābād, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Muzaffarābād.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-muzaffarabad.html",
+  "id": "/he/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

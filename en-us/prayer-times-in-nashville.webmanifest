@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nashville Today",
   "short_name": "Prayer Times in Nashville Today",
   "description": "Today's prayer times in Nashville, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Nashville.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-nashville.html",
+  "id": "/en-us/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

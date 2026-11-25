@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Coimbatore",
   "short_name": "Vremena namaza u gradu Coimbatore",
   "description": "Današnja vremena namaza u gradu Coimbatore, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Coimbatore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-coimbatore.html",
+  "id": "/hr/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

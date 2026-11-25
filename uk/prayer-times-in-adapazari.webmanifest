@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Adapazarı",
   "short_name": "Час намазу в Adapazarı",
   "description": "Сьогоднішній час намазу в Adapazarı, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Adapazarı.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-adapazari.html",
+  "id": "/uk/prayer-times-in-adapazari.html",
   "start_url": "./prayer-times-in-adapazari.html",
   "scope": "./prayer-times-in-adapazari.html",
   "display": "standalone",

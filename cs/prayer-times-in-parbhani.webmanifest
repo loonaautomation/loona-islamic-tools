@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Parbhani",
   "short_name": "Časy modliteb v Parbhani",
   "description": "Dnešní časy modliteb v Parbhani, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Parbhani.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-parbhani.html",
+  "id": "/cs/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

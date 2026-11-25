@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ottawa",
   "short_name": "Rukousajat: Ottawa",
   "description": "Tämän päivän rukousajat paikassa Ottawa, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ottawa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ottawa.html",
+  "id": "/fi/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona East Jerusalem Namaz Vakitleri",
   "short_name": "East Jerusalem Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — East Jerusalem, Filistin: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, East Jerusalem için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-east-jerusalem.html",
+  "id": "/tr/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

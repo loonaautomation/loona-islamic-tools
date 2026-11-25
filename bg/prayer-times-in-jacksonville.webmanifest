@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jacksonville",
   "short_name": "Часове за намаз в Jacksonville",
   "description": "Днешните часове за намаз в Jacksonville, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Jacksonville.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jacksonville.html",
+  "id": "/bg/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

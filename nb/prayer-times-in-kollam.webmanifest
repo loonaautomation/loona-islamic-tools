@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kollam",
   "short_name": "Bønnetider i Kollam",
   "description": "Dagens bønnetider i Kollam, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kollam.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kollam.html",
+  "id": "/nb/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

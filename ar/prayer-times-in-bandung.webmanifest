@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bandung",
   "short_name": "مواقيت الصلاة في Bandung",
   "description": "مواقيت الصلاة اليوم في Bandung، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBandung.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bandung.html",
+  "id": "/ar/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

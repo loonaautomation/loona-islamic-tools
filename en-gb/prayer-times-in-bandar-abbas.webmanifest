@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bandar Abbas Today",
   "short_name": "Prayer Times in Bandar Abbas Today",
   "description": "Today's prayer times in Bandar Abbas, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bandar Abbas.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-bandar-abbas.html",
+  "id": "/en-gb/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

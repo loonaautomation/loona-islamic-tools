@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Padang",
   "short_name": "Bönetider i Padang",
   "description": "Dagens bönetider i Padang, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Padang.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-padang.html",
+  "id": "/sv/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

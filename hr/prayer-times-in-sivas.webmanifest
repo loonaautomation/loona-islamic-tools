@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sivas",
   "short_name": "Vremena namaza u gradu Sivas",
   "description": "Današnja vremena namaza u gradu Sivas, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Sivas.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sivas.html",
+  "id": "/hr/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

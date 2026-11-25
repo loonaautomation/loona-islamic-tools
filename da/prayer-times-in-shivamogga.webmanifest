@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Shivamogga",
   "short_name": "Bønnetider i Shivamogga",
   "description": "Dagens bønnetider i Shivamogga, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Shivamogga.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-shivamogga.html",
+  "id": "/da/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

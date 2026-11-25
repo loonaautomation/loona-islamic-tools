@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dera Ismail Khan",
   "short_name": "Gebedstijden in Dera Ismail Khan",
   "description": "De gebedstijden van vandaag in Dera Ismail Khan, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dera-ismail-khan.html",
+  "id": "/nl/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

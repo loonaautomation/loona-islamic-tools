@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Siliguri",
   "short_name": "Часове за намаз в Siliguri",
   "description": "Днешните часове за намаз в Siliguri, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Siliguri.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-siliguri.html",
+  "id": "/bg/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

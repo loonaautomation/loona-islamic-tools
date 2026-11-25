@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mallawī",
   "short_name": "זמני תפילה בעיר Mallawī",
   "description": "זמני התפילה של היום בעיר Mallawī, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Mallawī.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mallawi.html",
+  "id": "/he/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

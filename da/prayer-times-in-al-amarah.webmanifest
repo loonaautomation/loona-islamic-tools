@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al ‘Amārah",
   "short_name": "Bønnetider i Al ‘Amārah",
   "description": "Dagens bønnetider i Al ‘Amārah, Irak: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Al ‘Amārah.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-al-amarah.html",
+  "id": "/da/prayer-times-in-al-amarah.html",
   "start_url": "./prayer-times-in-al-amarah.html",
   "scope": "./prayer-times-in-al-amarah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Shymkent",
   "short_name": "Časy modliteb v Shymkent",
   "description": "Dnešní časy modliteb v Shymkent, Kazachstán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Shymkent.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-shymkent.html",
+  "id": "/cs/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

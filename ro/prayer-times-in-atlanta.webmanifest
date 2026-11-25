@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Atlanta",
   "short_name": "Ore de rugăciune în Atlanta",
   "description": "Orele de rugăciune de azi în Atlanta, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Atlanta.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-atlanta.html",
+  "id": "/ro/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

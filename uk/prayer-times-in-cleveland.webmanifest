@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Cleveland",
   "short_name": "Час намазу в Cleveland",
   "description": "Сьогоднішній час намазу в Cleveland, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Cleveland.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-cleveland.html",
+  "id": "/uk/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nukus",
   "short_name": "Gebetszeiten in Nukus",
   "description": "Die heutigen Gebetszeiten in Nukus, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nukus.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nukus.html",
+  "id": "/de/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

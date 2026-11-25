@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Skardu",
   "short_name": "مواقيت الصلاة في Skardu",
   "description": "مواقيت الصلاة اليوم في Skardu، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSkardu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-skardu.html",
+  "id": "/ar/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

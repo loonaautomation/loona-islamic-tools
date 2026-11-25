@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Klungkung",
   "short_name": "Время намаза в городе Klungkung",
   "description": "Время намаза на сегодня: Klungkung, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Klungkung.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-klungkung.html",
+  "id": "/ru/prayer-times-in-klungkung.html",
   "start_url": "./prayer-times-in-klungkung.html",
   "scope": "./prayer-times-in-klungkung.html",
   "display": "standalone",

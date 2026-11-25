@@ -2,7 +2,7 @@
   "name": "Loona Diepsloot の礼拝時刻",
   "short_name": "Diepsloot の礼拝時刻",
   "description": "Diepsloot（南アフリカ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Diepsloot についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-diepsloot.html",
+  "id": "/ja/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

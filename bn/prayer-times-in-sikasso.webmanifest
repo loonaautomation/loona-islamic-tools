@@ -2,7 +2,7 @@
   "name": "Loona Sikasso-এ নামাজের সময়",
   "short_name": "Sikasso-এ নামাজের সময়",
   "description": "Sikasso, মালি-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Muslim World League পদ্ধতি, আপনার ডিভাইসে Sikasso-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-sikasso.html",
+  "id": "/bn/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

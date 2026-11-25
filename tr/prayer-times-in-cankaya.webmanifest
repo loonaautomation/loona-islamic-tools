@@ -2,7 +2,7 @@
   "name": "Loona Çankaya Namaz Vakitleri",
   "short_name": "Çankaya Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Çankaya, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Çankaya için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-cankaya.html",
+  "id": "/tr/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

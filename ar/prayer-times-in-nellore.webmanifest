@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nellore",
   "short_name": "مواقيت الصلاة في Nellore",
   "description": "مواقيت الصلاة اليوم في Nellore، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNellore.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nellore.html",
+  "id": "/ar/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Cilacap",
   "short_name": "Časy modliteb v Cilacap",
   "description": "Dnešní časy modliteb v Cilacap, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Cilacap.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-cilacap.html",
+  "id": "/cs/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

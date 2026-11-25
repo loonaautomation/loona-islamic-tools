@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Palermo",
   "short_name": "مواقيت الصلاة في Palermo",
   "description": "مواقيت الصلاة اليوم في Palermo، إيطاليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPalermo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-palermo.html",
+  "id": "/ar/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

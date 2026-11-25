@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Batman",
   "short_name": "זמני תפילה בעיר Batman",
   "description": "זמני התפילה של היום בעיר Batman, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Batman.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-batman.html",
+  "id": "/he/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

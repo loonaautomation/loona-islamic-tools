@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Jember",
   "short_name": "Heures de prière à Jember",
   "description": "Les heures de prière d’aujourd’hui à Jember, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Jember.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-jember.html",
+  "id": "/fr/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ardabīl",
   "short_name": "Vremena namaza u gradu Ardabīl",
   "description": "Današnja vremena namaza u gradu Ardabīl, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Ardabīl.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ardabil.html",
+  "id": "/hr/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

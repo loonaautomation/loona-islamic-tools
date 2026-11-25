@@ -2,7 +2,7 @@
   "name": "Loona Jacobabad の礼拝時刻",
   "short_name": "Jacobabad の礼拝時刻",
   "description": "Jacobabad（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Jacobabad についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-jacobabad.html",
+  "id": "/ja/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

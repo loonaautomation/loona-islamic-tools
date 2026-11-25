@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ambattur",
   "short_name": "Gebetszeiten in Ambattur",
   "description": "Die heutigen Gebetszeiten in Ambattur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Ambattur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ambattur.html",
+  "id": "/de/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

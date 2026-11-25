@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pimpri",
   "short_name": "Waktu Salat di Pimpri",
   "description": "Waktu salat hari ini di Pimpri, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Pimpri.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pimpri.html",
+  "id": "/id/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

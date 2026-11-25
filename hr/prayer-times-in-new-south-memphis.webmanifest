@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu New South Memphis",
   "short_name": "Vremena namaza u gradu New South Memphis",
   "description": "Današnja vremena namaza u gradu New South Memphis, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad New South Memphis.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-new-south-memphis.html",
+  "id": "/hr/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

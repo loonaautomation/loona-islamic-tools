@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Los Angeles",
   "short_name": "Время намаза в городе Los Angeles",
   "description": "Время намаза на сегодня: Los Angeles, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Los Angeles.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-los-angeles.html",
+  "id": "/ru/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

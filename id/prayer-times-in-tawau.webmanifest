@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tawau",
   "short_name": "Waktu Salat di Tawau",
   "description": "Waktu salat hari ini di Tawau, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tawau.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tawau.html",
+  "id": "/id/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

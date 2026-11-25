@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Qina",
   "short_name": "Bönetider i Qina",
   "description": "Dagens bönetider i Qina, Egypten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Egyptian General Authority-metoden, beräknad live på din enhet för Qina.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-qina.html",
+  "id": "/sv/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Cincinnati",
   "short_name": "เวลาละหมาดใน Cincinnati",
   "description": "เวลาละหมาดวันนี้ใน Cincinnati, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Cincinnati",
-  "id": "/loona-islamic-tools/th/prayer-times-in-cincinnati.html",
+  "id": "/th/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

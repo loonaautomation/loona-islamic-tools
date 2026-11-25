@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Samarkand",
   "short_name": "Bönetider i Samarkand",
   "description": "Dagens bönetider i Samarkand, Uzbekistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Samarkand.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-samarkand.html",
+  "id": "/sv/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

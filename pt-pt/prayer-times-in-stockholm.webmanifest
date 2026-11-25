@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Stockholm",
   "short_name": "Horários de Oração em Stockholm",
   "description": "Horários de oração de hoje em Stockholm, Suécia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Stockholm.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-stockholm.html",
+  "id": "/pt-pt/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

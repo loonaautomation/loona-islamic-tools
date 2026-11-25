@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Shymkent",
   "short_name": "Waktu Salat di Shymkent",
   "description": "Waktu salat hari ini di Shymkent, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Shymkent.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-shymkent.html",
+  "id": "/id/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

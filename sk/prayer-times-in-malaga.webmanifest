@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Málaga",
   "short_name": "Časy modlitieb v Málaga",
   "description": "Dnešné časy modlitieb v Málaga, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Málaga.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-malaga.html",
+  "id": "/sk/prayer-times-in-malaga.html",
   "start_url": "./prayer-times-in-malaga.html",
   "scope": "./prayer-times-in-malaga.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jhang Sadr",
   "short_name": "זמני תפילה בעיר Jhang Sadr",
   "description": "זמני התפילה של היום בעיר Jhang Sadr, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jhang Sadr.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jhang-sadr.html",
+  "id": "/he/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

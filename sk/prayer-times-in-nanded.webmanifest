@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Nanded",
   "short_name": "Časy modlitieb v Nanded",
   "description": "Dnešné časy modlitieb v Nanded, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Nanded.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-nanded.html",
+  "id": "/sk/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

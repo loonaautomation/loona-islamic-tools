@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Palma",
   "short_name": "Gebedstijden in Palma",
   "description": "De gebedstijden van vandaag in Palma, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Palma.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-palma.html",
+  "id": "/nl/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

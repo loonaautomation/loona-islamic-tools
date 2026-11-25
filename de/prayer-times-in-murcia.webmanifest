@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Murcia",
   "short_name": "Gebetszeiten in Murcia",
   "description": "Die heutigen Gebetszeiten in Murcia, Spanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Murcia.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-murcia.html",
+  "id": "/de/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

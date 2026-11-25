@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Az-Zuhūr",
   "short_name": "Časy modlitieb v Az-Zuhūr",
   "description": "Dnešné časy modlitieb v Az-Zuhūr, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Az-Zuhūr.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-az-zuhur.html",
+  "id": "/sk/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

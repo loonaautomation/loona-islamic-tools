@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Chānda",
   "short_name": "Время намаза в городе Chānda",
   "description": "Время намаза на сегодня: Chānda, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Chānda.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-chanda.html",
+  "id": "/ru/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

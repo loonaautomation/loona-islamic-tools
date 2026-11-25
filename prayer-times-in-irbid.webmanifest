@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Irbid",
   "short_name": "Prayer Times in Irbid",
   "description": "Today's prayer times in Irbid, Jordan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Irbid.",
-  "id": "/loona-islamic-tools/prayer-times-in-irbid.html",
+  "id": "/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Portland",
   "short_name": "Časy modlitieb v Portland",
   "description": "Dnešné časy modlitieb v Portland, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Portland.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-portland.html",
+  "id": "/sk/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

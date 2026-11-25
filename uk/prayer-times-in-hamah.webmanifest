@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ḩamāh",
   "short_name": "Час намазу в Ḩamāh",
   "description": "Сьогоднішній час намазу в Ḩamāh, Сирія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ḩamāh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hamah.html",
+  "id": "/uk/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

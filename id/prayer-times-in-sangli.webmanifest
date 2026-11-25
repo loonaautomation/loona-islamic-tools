@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sāngli",
   "short_name": "Waktu Salat di Sāngli",
   "description": "Waktu salat hari ini di Sāngli, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Sāngli.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sangli.html",
+  "id": "/id/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Christchurch",
   "short_name": "Gebetszeiten in Christchurch",
   "description": "Die heutigen Gebetszeiten in Christchurch, Neuseeland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Christchurch.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-christchurch.html",
+  "id": "/de/prayer-times-in-christchurch.html",
   "start_url": "./prayer-times-in-christchurch.html",
   "scope": "./prayer-times-in-christchurch.html",
   "display": "standalone",

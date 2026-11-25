@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pangkalpinang",
   "short_name": "Bønnetider i Pangkalpinang",
   "description": "Dagens bønnetider i Pangkalpinang, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Pangkalpinang.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pangkalpinang.html",
+  "id": "/nb/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

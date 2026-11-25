@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Laval",
   "short_name": "Waktu Salat di Laval",
   "description": "Waktu salat hari ini di Laval, Kanada: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Laval.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-laval.html",
+  "id": "/id/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

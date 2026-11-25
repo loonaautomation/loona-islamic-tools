@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bikaner",
   "short_name": "Gebedstijden in Bikaner",
   "description": "De gebedstijden van vandaag in Bikaner, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Bikaner.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bikaner.html",
+  "id": "/nl/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dihok",
   "short_name": "Časy modliteb v Dihok",
   "description": "Dnešní časy modliteb v Dihok, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dihok.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dihok.html",
+  "id": "/cs/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

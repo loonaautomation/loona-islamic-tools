@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Turkistan",
   "short_name": "Prayer Times in Turkistan",
   "description": "Today's prayer times in Turkistan, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Turkistan.",
-  "id": "/loona-islamic-tools/prayer-times-in-turkistan.html",
+  "id": "/prayer-times-in-turkistan.html",
   "start_url": "./prayer-times-in-turkistan.html",
   "scope": "./prayer-times-in-turkistan.html",
   "display": "standalone",

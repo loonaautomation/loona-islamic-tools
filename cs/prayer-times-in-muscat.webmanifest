@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Muscat",
   "short_name": "Časy modliteb v Muscat",
   "description": "Dnešní časy modliteb v Muscat, Omán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Muscat.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-muscat.html",
+  "id": "/cs/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

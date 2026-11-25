@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jodhpur",
   "short_name": "זמני תפילה בעיר Jodhpur",
   "description": "זמני התפילה של היום בעיר Jodhpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jodhpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jodhpur.html",
+  "id": "/he/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

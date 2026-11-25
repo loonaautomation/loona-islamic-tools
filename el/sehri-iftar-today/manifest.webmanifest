@@ -2,7 +2,7 @@
   "name": "Loona Ώρα Σεχρί & Ιφτάρ Σήμερα",
   "short_name": "Ώρα Σεχρί & Ιφτάρ Σήμερα",
   "description": "Οι σημερινές ώρες τέλους Σεχρί (Φατζρ) και Ιφτάρ (Μαγκρίμπ) για την πόλη σας με ζωντανή αντίστροφη μέτρηση μέχρι την επόμενη. Μέθοδος Karachi, Ασρ Hanafi από προεπιλογή, ρυθμιζόμενη.",
-  "id": "/loona-islamic-tools/el/sehri-iftar-today/",
+  "id": "/el/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

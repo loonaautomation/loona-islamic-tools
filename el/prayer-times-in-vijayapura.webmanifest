@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Vijayapura",
   "short_name": "Ώρες Προσευχής στο Vijayapura",
   "description": "Οι σημερινές ώρες προσευχής στο Vijayapura, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Vijayapura.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-vijayapura.html",
+  "id": "/el/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

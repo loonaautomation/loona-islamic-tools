@@ -2,7 +2,7 @@
   "name": "Loona Jabalpur的禮拜時間",
   "short_name": "Jabalpur的禮拜時間",
   "description": "Jabalpur（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Jabalpur實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-jabalpur.html",
+  "id": "/zh-hant/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i İzmir",
   "short_name": "Bönetider i İzmir",
   "description": "Dagens bönetider i İzmir, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för İzmir.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-izmir.html",
+  "id": "/sv/prayer-times-in-izmir.html",
   "start_url": "./prayer-times-in-izmir.html",
   "scope": "./prayer-times-in-izmir.html",
   "display": "standalone",

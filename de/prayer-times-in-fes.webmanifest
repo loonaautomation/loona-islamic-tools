@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Fes",
   "short_name": "Gebetszeiten in Fes",
   "description": "Die heutigen Gebetszeiten in Fes, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Fes.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-fes.html",
+  "id": "/de/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

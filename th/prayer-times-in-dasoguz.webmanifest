@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Daşoguz",
   "short_name": "เวลาละหมาดใน Daşoguz",
   "description": "เวลาละหมาดวันนี้ใน Daşoguz, Turkmenistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Daşoguz",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dasoguz.html",
+  "id": "/th/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

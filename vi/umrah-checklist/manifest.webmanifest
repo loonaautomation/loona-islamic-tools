@@ -2,7 +2,7 @@
   "name": "Loona Danh sách kiểm tra Umrah",
   "short_name": "Danh sách kiểm tra Umrah",
   "description": "Một danh sách kiểm tra Umrah tương tác: giấy tờ, đặt chỗ, hành lý, sức khỏe và chuẩn bị ibadah, với thanh tiến độ, tùy chọn in và tiến độ được lưu trên thiết bị của bạn.",
-  "id": "/loona-islamic-tools/vi/umrah-checklist/",
+  "id": "/vi/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

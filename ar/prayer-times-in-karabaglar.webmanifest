@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Karabağlar",
   "short_name": "مواقيت الصلاة في Karabağlar",
   "description": "مواقيت الصلاة اليوم في Karabağlar، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKarabağlar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-karabaglar.html",
+  "id": "/ar/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

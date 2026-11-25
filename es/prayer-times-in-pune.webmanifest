@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Pune",
   "short_name": "Horarios de oración en Pune",
   "description": "Horarios de oración de hoy en Pune, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Pune.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-pune.html",
+  "id": "/es/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

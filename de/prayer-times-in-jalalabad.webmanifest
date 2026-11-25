@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jalālābād",
   "short_name": "Gebetszeiten in Jalālābād",
   "description": "Die heutigen Gebetszeiten in Jalālābād, Afghanistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jalālābād.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jalalabad.html",
+  "id": "/de/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

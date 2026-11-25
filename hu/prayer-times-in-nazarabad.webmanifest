@@ -2,7 +2,7 @@
   "name": "Loona Naz̧arābād imaidői",
   "short_name": "Naz̧arābād imaidői",
   "description": "A mai imaidők: Naz̧arābād, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Naz̧arābād számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-nazarabad.html",
+  "id": "/hu/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Malmö Namaz Vakitleri",
   "short_name": "Malmö Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Malmö, İsveç: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Malmö için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-malmoe.html",
+  "id": "/tr/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

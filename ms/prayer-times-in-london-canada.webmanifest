@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di London (Kanada)",
   "short_name": "Waktu Solat di London (Kanada)",
   "description": "Waktu solat hari ini di London, Kanada: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk London.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-london-canada.html",
+  "id": "/ms/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

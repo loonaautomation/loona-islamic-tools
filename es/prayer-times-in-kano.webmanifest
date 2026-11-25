@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kano",
   "short_name": "Horarios de oración en Kano",
   "description": "Horarios de oración de hoy en Kano, Nigeria: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kano.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kano.html",
+  "id": "/es/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

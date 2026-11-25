@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Thuqbah",
   "short_name": "Gebetszeiten in Thuqbah",
   "description": "Die heutigen Gebetszeiten in Thuqbah, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Thuqbah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-thuqbah.html",
+  "id": "/de/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Atyrau Namaz Vakitleri",
   "short_name": "Atyrau Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Atyrau, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Atyrau için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-atyrau.html",
+  "id": "/tr/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

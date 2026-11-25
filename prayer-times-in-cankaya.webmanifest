@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Çankaya",
   "short_name": "Prayer Times in Çankaya",
   "description": "Today's prayer times in Çankaya, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Çankaya.",
-  "id": "/loona-islamic-tools/prayer-times-in-cankaya.html",
+  "id": "/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

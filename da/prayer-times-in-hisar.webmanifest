@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hisar",
   "short_name": "Bønnetider i Hisar",
   "description": "Dagens bønnetider i Hisar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Hisar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-hisar.html",
+  "id": "/da/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

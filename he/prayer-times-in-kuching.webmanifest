@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kuching",
   "short_name": "זמני תפילה בעיר Kuching",
   "description": "זמני התפילה של היום בעיר Kuching, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kuching.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kuching.html",
+  "id": "/he/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

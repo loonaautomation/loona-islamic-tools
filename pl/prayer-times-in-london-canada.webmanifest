@@ -2,7 +2,7 @@
   "name": "Loona Czas modlitwy: London (Kanada)",
   "short_name": "Czas modlitwy: London (Kanada)",
   "description": "Dzisiejsze czasy modlitw w miejscowości London, kraj Kanada: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości London.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-london-canada.html",
+  "id": "/pl/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

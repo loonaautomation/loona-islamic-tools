@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tarsus",
   "short_name": "Час намазу в Tarsus",
   "description": "Сьогоднішній час намазу в Tarsus, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Tarsus.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tarsus.html",
+  "id": "/uk/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

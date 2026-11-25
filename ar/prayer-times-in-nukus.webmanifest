@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nukus",
   "short_name": "مواقيت الصلاة في Nukus",
   "description": "مواقيت الصلاة اليوم في Nukus، أوزبكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNukus.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nukus.html",
+  "id": "/ar/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

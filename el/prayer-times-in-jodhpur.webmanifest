@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jodhpur",
   "short_name": "Ώρες Προσευχής στο Jodhpur",
   "description": "Οι σημερινές ώρες προσευχής στο Jodhpur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Jodhpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jodhpur.html",
+  "id": "/el/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

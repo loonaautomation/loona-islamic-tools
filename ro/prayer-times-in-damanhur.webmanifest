@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Damanhur",
   "short_name": "Ore de rugăciune în Damanhur",
   "description": "Orele de rugăciune de azi în Damanhur, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Damanhur.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-damanhur.html",
+  "id": "/ro/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

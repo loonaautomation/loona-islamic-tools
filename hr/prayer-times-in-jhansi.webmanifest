@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jhānsi",
   "short_name": "Vremena namaza u gradu Jhānsi",
   "description": "Današnja vremena namaza u gradu Jhānsi, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jhānsi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jhansi.html",
+  "id": "/hr/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

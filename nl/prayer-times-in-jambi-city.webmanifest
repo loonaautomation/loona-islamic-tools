@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jambi City",
   "short_name": "Gebedstijden in Jambi City",
   "description": "De gebedstijden van vandaag in Jambi City, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Jambi City.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jambi-city.html",
+  "id": "/nl/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

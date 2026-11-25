@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Saint-Louis",
   "short_name": "זמני תפילה בעיר Saint-Louis",
   "description": "זמני התפילה של היום בעיר Saint-Louis, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Saint-Louis.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-saint-louis.html",
+  "id": "/he/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

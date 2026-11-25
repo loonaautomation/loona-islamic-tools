@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Virginia Beach",
   "short_name": "Час намазу в Virginia Beach",
   "description": "Сьогоднішній час намазу в Virginia Beach, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Virginia Beach.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-virginia-beach.html",
+  "id": "/uk/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

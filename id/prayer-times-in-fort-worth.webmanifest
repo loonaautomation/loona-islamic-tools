@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Fort Worth",
   "short_name": "Waktu Salat di Fort Worth",
   "description": "Waktu salat hari ini di Fort Worth, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Fort Worth.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-fort-worth.html",
+  "id": "/id/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

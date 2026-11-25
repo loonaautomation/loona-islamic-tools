@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Milan",
   "short_name": "זמני תפילה בעיר Milan",
   "description": "זמני התפילה של היום בעיר Milan, איטליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Milan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-milan.html",
+  "id": "/he/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

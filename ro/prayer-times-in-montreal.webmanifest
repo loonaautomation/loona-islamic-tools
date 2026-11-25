@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Montréal",
   "short_name": "Ore de rugăciune în Montréal",
   "description": "Orele de rugăciune de azi în Montréal, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Montréal.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-montreal.html",
+  "id": "/ro/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

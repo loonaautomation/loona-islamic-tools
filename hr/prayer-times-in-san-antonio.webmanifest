@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu San Antonio",
   "short_name": "Vremena namaza u gradu San Antonio",
   "description": "Današnja vremena namaza u gradu San Antonio, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad San Antonio.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-san-antonio.html",
+  "id": "/hr/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

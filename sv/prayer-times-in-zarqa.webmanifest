@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Zarqa",
   "short_name": "Bönetider i Zarqa",
   "description": "Dagens bönetider i Zarqa, Jordanien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Zarqa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-zarqa.html",
+  "id": "/sv/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

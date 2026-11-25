@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Preston",
   "short_name": "זמני תפילה בעיר Preston",
   "description": "זמני התפילה של היום בעיר Preston, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Preston.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-preston.html",
+  "id": "/he/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

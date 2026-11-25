@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Riverside",
   "short_name": "Czasy modlitw w miejscowości Riverside",
   "description": "Dzisiejsze czasy modlitw w miejscowości Riverside, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Riverside.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-riverside.html",
+  "id": "/pl/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

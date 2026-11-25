@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Benoni",
   "short_name": "Prayer Times in Benoni",
   "description": "Today's prayer times in Benoni, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Benoni.",
-  "id": "/loona-islamic-tools/prayer-times-in-benoni.html",
+  "id": "/prayer-times-in-benoni.html",
   "start_url": "./prayer-times-in-benoni.html",
   "scope": "./prayer-times-in-benoni.html",
   "display": "standalone",

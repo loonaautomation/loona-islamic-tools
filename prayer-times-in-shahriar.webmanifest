@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Shahrīār",
   "short_name": "Prayer Times in Shahrīār",
   "description": "Today's prayer times in Shahrīār, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Shahrīār.",
-  "id": "/loona-islamic-tools/prayer-times-in-shahriar.html",
+  "id": "/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

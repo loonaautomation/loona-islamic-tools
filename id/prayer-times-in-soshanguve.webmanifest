@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Soshanguve",
   "short_name": "Waktu Salat di Soshanguve",
   "description": "Waktu salat hari ini di Soshanguve, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Soshanguve.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-soshanguve.html",
+  "id": "/id/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Osh",
   "short_name": "Waktu Solat di Osh",
   "description": "Waktu solat hari ini di Osh, Kyrgyzstan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Osh.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-osh.html",
+  "id": "/ms/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Shivaji Nagar",
   "short_name": "Время намаза в городе Shivaji Nagar",
   "description": "Время намаза на сегодня: Shivaji Nagar, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Shivaji Nagar.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-shivaji-nagar.html",
+  "id": "/ru/prayer-times-in-shivaji-nagar.html",
   "start_url": "./prayer-times-in-shivaji-nagar.html",
   "scope": "./prayer-times-in-shivaji-nagar.html",
   "display": "standalone",

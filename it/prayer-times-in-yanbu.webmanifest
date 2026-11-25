@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Yanbu",
   "short_name": "Orari di preghiera a Yanbu",
   "description": "Orari di preghiera di oggi a Yanbu, Arabia Saudita: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Yanbu.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-yanbu.html",
+  "id": "/it/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

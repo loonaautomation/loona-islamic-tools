@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Soweto",
   "short_name": "Ώρες Προσευχής στο Soweto",
   "description": "Οι σημερινές ώρες προσευχής στο Soweto, Νότια Αφρική: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Soweto.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-soweto.html",
+  "id": "/el/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

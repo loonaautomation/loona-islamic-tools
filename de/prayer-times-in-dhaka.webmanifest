@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dhaka",
   "short_name": "Gebetszeiten in Dhaka",
   "description": "Die heutigen Gebetszeiten in Dhaka, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Dhaka.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dhaka.html",
+  "id": "/de/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

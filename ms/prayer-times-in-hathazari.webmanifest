@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Hāthazāri",
   "short_name": "Waktu Solat di Hāthazāri",
   "description": "Waktu solat hari ini di Hāthazāri, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Hāthazāri.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-hathazari.html",
+  "id": "/ms/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

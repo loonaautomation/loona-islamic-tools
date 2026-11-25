@@ -2,7 +2,7 @@
   "name": "Loona Semey的礼拜时间",
   "short_name": "Semey的礼拜时间",
   "description": "Semey（哈萨克斯坦）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Semey实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-semey.html",
+  "id": "/zh/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

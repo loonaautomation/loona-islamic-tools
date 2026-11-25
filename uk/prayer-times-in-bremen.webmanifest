@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bremen",
   "short_name": "Час намазу в Bremen",
   "description": "Сьогоднішній час намазу в Bremen, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bremen.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bremen.html",
+  "id": "/uk/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tunis",
   "short_name": "Vremena namaza u gradu Tunis",
   "description": "Današnja vremena namaza u gradu Tunis, Tunis: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tunis.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tunis.html",
+  "id": "/hr/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

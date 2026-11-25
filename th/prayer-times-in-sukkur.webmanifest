@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sukkur",
   "short_name": "เวลาละหมาดใน Sukkur",
   "description": "เวลาละหมาดวันนี้ใน Sukkur, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sukkur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sukkur.html",
+  "id": "/th/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

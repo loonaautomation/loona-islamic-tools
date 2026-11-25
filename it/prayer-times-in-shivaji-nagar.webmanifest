@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Shivaji Nagar",
   "short_name": "Orari di preghiera a Shivaji Nagar",
   "description": "Orari di preghiera di oggi a Shivaji Nagar, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Shivaji Nagar.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-shivaji-nagar.html",
+  "id": "/it/prayer-times-in-shivaji-nagar.html",
   "start_url": "./prayer-times-in-shivaji-nagar.html",
   "scope": "./prayer-times-in-shivaji-nagar.html",
   "display": "standalone",

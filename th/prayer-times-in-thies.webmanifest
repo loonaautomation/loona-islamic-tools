@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Thiès",
   "short_name": "เวลาละหมาดใน Thiès",
   "description": "เวลาละหมาดวันนี้ใน Thiès, Senegal: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Thiès",
-  "id": "/loona-islamic-tools/th/prayer-times-in-thies.html",
+  "id": "/th/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

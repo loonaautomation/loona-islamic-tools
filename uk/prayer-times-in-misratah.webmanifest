@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Misratah",
   "short_name": "Час намазу в Misratah",
   "description": "Сьогоднішній час намазу в Misratah, Лівія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Misratah.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-misratah.html",
+  "id": "/uk/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

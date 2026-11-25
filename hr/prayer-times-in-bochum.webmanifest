@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bochum",
   "short_name": "Vremena namaza u gradu Bochum",
   "description": "Današnja vremena namaza u gradu Bochum, Njemačka: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bochum.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bochum.html",
+  "id": "/hr/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

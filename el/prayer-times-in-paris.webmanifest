@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Paris",
   "short_name": "Ώρες Προσευχής στο Paris",
   "description": "Οι σημερινές ώρες προσευχής στο Paris, Γαλλία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Paris.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-paris.html",
+  "id": "/el/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

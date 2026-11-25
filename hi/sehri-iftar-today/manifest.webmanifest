@@ -2,7 +2,7 @@
   "name": "Loona आज का सेहरी और इफ़्तार समय",
   "short_name": "आज का सेहरी और इफ़्तार समय",
   "description": "आपके शहर के लिए आज के सेहरी समाप्ति (फ़ज्र) और इफ़्तार (मग़रिब) समय, अगले तक लाइव उलटी गिनती के साथ। Karachi विधि, डिफ़ॉल्ट रूप से हनफ़ी अस्र, समायोज्य।",
-  "id": "/loona-islamic-tools/hi/sehri-iftar-today/",
+  "id": "/hi/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

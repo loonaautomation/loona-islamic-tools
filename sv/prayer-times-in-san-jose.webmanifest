@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i San Jose",
   "short_name": "Bönetider i San Jose",
   "description": "Dagens bönetider i San Jose, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för San Jose.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-san-jose.html",
+  "id": "/sv/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

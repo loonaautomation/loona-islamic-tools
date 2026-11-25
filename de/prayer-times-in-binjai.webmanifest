@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Binjai",
   "short_name": "Gebetszeiten in Binjai",
   "description": "Die heutigen Gebetszeiten in Binjai, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Binjai.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-binjai.html",
+  "id": "/de/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

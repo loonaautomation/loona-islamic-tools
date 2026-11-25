@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gorgān",
   "short_name": "Часове за намаз в Gorgān",
   "description": "Днешните часове за намаз в Gorgān, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gorgān.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gorgan.html",
+  "id": "/bg/prayer-times-in-gorgan.html",
   "start_url": "./prayer-times-in-gorgan.html",
   "scope": "./prayer-times-in-gorgan.html",
   "display": "standalone",

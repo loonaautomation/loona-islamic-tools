@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mbour",
   "short_name": "Časy modliteb v Mbour",
   "description": "Dnešní časy modliteb v Mbour, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mbour.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mbour.html",
+  "id": "/cs/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

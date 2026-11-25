@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dhule",
   "short_name": "Časy modliteb v Dhule",
   "description": "Dnešní časy modliteb v Dhule, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Dhule.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dhule.html",
+  "id": "/cs/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

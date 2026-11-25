@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Munich",
   "short_name": "Waktu Salat di Munich",
   "description": "Waktu salat hari ini di Munich, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Munich.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-munich.html",
+  "id": "/id/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jabalpur",
   "short_name": "Gebetszeiten in Jabalpur",
   "description": "Die heutigen Gebetszeiten in Jabalpur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jabalpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jabalpur.html",
+  "id": "/de/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mazār-e Sharīf",
   "short_name": "Bønnetider i Mazār-e Sharīf",
   "description": "Dagens bønnetider i Mazār-e Sharīf, Afghanistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mazar-e-sharif.html",
+  "id": "/nb/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sahāranpur",
   "short_name": "Gebedstijden in Sahāranpur",
   "description": "De gebedstijden van vandaag in Sahāranpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sahāranpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-saharanpur.html",
+  "id": "/nl/prayer-times-in-saharanpur.html",
   "start_url": "./prayer-times-in-saharanpur.html",
   "scope": "./prayer-times-in-saharanpur.html",
   "display": "standalone",

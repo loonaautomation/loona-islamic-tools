@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bengaluru",
   "short_name": "Bønnetider i Bengaluru",
   "description": "Dagens bønnetider i Bengaluru, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bengaluru.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bengaluru.html",
+  "id": "/nb/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

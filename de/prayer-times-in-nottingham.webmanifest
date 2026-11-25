@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nottingham",
   "short_name": "Gebetszeiten in Nottingham",
   "description": "Die heutigen Gebetszeiten in Nottingham, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nottingham.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nottingham.html",
+  "id": "/de/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

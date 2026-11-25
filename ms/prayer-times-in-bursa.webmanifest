@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bursa",
   "short_name": "Waktu Solat di Bursa",
   "description": "Waktu solat hari ini di Bursa, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Bursa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bursa.html",
+  "id": "/ms/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

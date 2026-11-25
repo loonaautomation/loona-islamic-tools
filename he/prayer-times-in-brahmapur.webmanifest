@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Brahmapur",
   "short_name": "זמני תפילה בעיר Brahmapur",
   "description": "זמני התפילה של היום בעיר Brahmapur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Brahmapur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-brahmapur.html",
+  "id": "/he/prayer-times-in-brahmapur.html",
   "start_url": "./prayer-times-in-brahmapur.html",
   "scope": "./prayer-times-in-brahmapur.html",
   "display": "standalone",

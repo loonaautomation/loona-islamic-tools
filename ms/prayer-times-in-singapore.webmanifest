@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Singapore",
   "short_name": "Waktu Solat di Singapore",
   "description": "Waktu solat hari ini di Singapore, Singapura: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Singapore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-singapore.html",
+  "id": "/ms/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

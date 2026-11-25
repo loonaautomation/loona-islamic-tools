@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bhāgalpur",
   "short_name": "Vremena namaza u gradu Bhāgalpur",
   "description": "Današnja vremena namaza u gradu Bhāgalpur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bhāgalpur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bhagalpur.html",
+  "id": "/hr/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

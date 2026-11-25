@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pānihāti",
   "short_name": "Vremena namaza u gradu Pānihāti",
   "description": "Današnja vremena namaza u gradu Pānihāti, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Pānihāti.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-panihati.html",
+  "id": "/hr/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

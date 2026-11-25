@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Tucson",
   "short_name": "Czasy modlitw w miejscowości Tucson",
   "description": "Dzisiejsze czasy modlitw w miejscowości Tucson, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Tucson.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-tucson.html",
+  "id": "/pl/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Shāhjānpur",
   "short_name": "Waktu Solat di Shāhjānpur",
   "description": "Waktu solat hari ini di Shāhjānpur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Shāhjānpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-shahjanpur.html",
+  "id": "/ms/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

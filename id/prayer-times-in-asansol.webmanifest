@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Āsansol",
   "short_name": "Waktu Salat di Āsansol",
   "description": "Waktu salat hari ini di Āsansol, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Āsansol.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-asansol.html",
+  "id": "/id/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

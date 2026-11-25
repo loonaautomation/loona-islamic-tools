@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Lucknow",
   "short_name": "Gebetszeiten in Lucknow",
   "description": "Die heutigen Gebetszeiten in Lucknow, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Lucknow.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-lucknow.html",
+  "id": "/de/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

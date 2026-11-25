@@ -2,7 +2,7 @@
   "name": "Loona وقت السحور والإفطار اليوم",
   "short_name": "وقت السحور والإفطار اليوم",
   "description": "مواقيت انتهاء السحور (الفجر) والإفطار (المغرب) لليوم لمدينتك مع عدّاد تنازلي مباشر للتالي. طريقة كراتشي، العصر حنفي افتراضيًا، قابل للتعديل.",
-  "id": "/loona-islamic-tools/ar/sehri-iftar-today/",
+  "id": "/ar/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

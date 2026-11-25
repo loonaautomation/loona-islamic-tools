@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sfax",
   "short_name": "Час намазу в Sfax",
   "description": "Сьогоднішній час намазу в Sfax, Туніс: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Sfax.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sfax.html",
+  "id": "/uk/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

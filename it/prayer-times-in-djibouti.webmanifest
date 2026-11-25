@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Djibouti",
   "short_name": "Orari di preghiera a Djibouti",
   "description": "Orari di preghiera di oggi a Gibuti, Gibuti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Gibuti.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-djibouti.html",
+  "id": "/it/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

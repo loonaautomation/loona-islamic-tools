@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Botshabelo",
   "short_name": "Часове за намаз в Botshabelo",
   "description": "Днешните часове за намаз в Botshabelo, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Botshabelo.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-botshabelo.html",
+  "id": "/bg/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

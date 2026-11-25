@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Orūmīyeh",
   "short_name": "זמני תפילה בעיר Orūmīyeh",
   "description": "זמני התפילה של היום בעיר Orūmīyeh, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Orūmīyeh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-orumiyeh.html",
+  "id": "/he/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

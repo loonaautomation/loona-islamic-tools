@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mymensingh",
   "short_name": "Gebetszeiten in Mymensingh",
   "description": "Die heutigen Gebetszeiten in Mymensingh, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Mymensingh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mymensingh.html",
+  "id": "/de/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

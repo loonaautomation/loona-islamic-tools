@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Paya Terubong",
   "short_name": "Час намазу в Paya Terubong",
   "description": "Сьогоднішній час намазу в Paya Terubong, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Paya Terubong.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-paya-terubong.html",
+  "id": "/uk/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

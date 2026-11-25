@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Khamis Mushait",
   "short_name": "Horarios de oración en Khamis Mushait",
   "description": "Horarios de oración de hoy en Khamis Mushait, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Khamis Mushait.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-khamis-mushait.html",
+  "id": "/es/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

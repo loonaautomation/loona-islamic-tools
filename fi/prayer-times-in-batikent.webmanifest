@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Batikent",
   "short_name": "Rukousajat: Batikent",
   "description": "Tämän päivän rukousajat paikassa Batikent, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Batikent.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-batikent.html",
+  "id": "/fi/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

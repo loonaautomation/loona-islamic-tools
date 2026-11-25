@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Berlin",
   "short_name": "مواقيت الصلاة في Berlin",
   "description": "مواقيت الصلاة اليوم في Berlin، ألمانيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBerlin.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-berlin.html",
+  "id": "/ar/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Abha",
   "short_name": "Bønnetider i Abha",
   "description": "Dagens bønnetider i Abha, Saudi-Arabia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet direkte på enheten din for Abha.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-abha.html",
+  "id": "/nb/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

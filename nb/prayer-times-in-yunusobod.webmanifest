@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Yunusobod",
   "short_name": "Bønnetider i Yunusobod",
   "description": "Dagens bønnetider i Yunusobod, Usbekistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Yunusobod.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-yunusobod.html",
+  "id": "/nb/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Abū Ghurayb",
   "short_name": "Orari di preghiera a Abū Ghurayb",
   "description": "Orari di preghiera di oggi a Abū Ghurayb, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Abū Ghurayb.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-abu-ghurayb.html",
+  "id": "/it/prayer-times-in-abu-ghurayb.html",
   "start_url": "./prayer-times-in-abu-ghurayb.html",
   "scope": "./prayer-times-in-abu-ghurayb.html",
   "display": "standalone",

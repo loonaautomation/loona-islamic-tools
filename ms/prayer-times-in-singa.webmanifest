@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Singa",
   "short_name": "Waktu Solat di Singa",
   "description": "Waktu solat hari ini di Singa, Sudan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Singa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-singa.html",
+  "id": "/ms/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

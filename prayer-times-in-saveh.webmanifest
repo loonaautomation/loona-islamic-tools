@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sāveh",
   "short_name": "Prayer Times in Sāveh",
   "description": "Today's prayer times in Sāveh, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sāveh.",
-  "id": "/loona-islamic-tools/prayer-times-in-saveh.html",
+  "id": "/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sacramento",
   "short_name": "Ώρες Προσευχής στο Sacramento",
   "description": "Οι σημερινές ώρες προσευχής στο Sacramento, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Sacramento.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sacramento.html",
+  "id": "/el/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dallas",
   "short_name": "זמני תפילה בעיר Dallas",
   "description": "זמני התפילה של היום בעיר Dallas, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Dallas.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dallas.html",
+  "id": "/he/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

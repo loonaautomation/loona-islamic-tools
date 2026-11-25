@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bitung",
   "short_name": "Bönetider i Bitung",
   "description": "Dagens bönetider i Bitung, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bitung.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bitung.html",
+  "id": "/sv/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

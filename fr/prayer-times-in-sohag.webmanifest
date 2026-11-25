@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Sohag",
   "short_name": "Heures de prière à Sohag",
   "description": "Les heures de prière d’aujourd’hui à Sohag, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Sohag.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-sohag.html",
+  "id": "/fr/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

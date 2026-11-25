@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Tiruppur",
   "short_name": "Časy modlitieb v Tiruppur",
   "description": "Dnešné časy modlitieb v Tiruppur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Tiruppur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-tiruppur.html",
+  "id": "/sk/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

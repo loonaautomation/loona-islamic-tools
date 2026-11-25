@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Touba",
   "short_name": "Waktu Salat di Touba",
   "description": "Waktu salat hari ini di Touba, Senegal: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Touba.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-touba.html",
+  "id": "/id/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

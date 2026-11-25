@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Catania",
   "short_name": "Ώρες Προσευχής στο Catania",
   "description": "Οι σημερινές ώρες προσευχής στο Catania, Ιταλία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Catania.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-catania.html",
+  "id": "/el/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

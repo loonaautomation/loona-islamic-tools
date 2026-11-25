@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Al Fayyum",
   "short_name": "Ώρες Προσευχής στο Al Fayyum",
   "description": "Οι σημερινές ώρες προσευχής στο Al Fayyum, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Al Fayyum.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-al-fayyum.html",
+  "id": "/el/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

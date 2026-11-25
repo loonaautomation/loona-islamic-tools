@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Karagandy",
   "short_name": "Waktu Salat di Karagandy",
   "description": "Waktu salat hari ini di Karagandy, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Karagandy.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-karagandy.html",
+  "id": "/id/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gilgit",
   "short_name": "זמני תפילה בעיר Gilgit",
   "description": "זמני התפילה של היום בעיר Gilgit, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Gilgit.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gilgit.html",
+  "id": "/he/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

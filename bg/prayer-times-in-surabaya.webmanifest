@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Surabaya",
   "short_name": "Часове за намаз в Surabaya",
   "description": "Днешните часове за намаз в Surabaya, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Surabaya.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-surabaya.html",
+  "id": "/bg/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

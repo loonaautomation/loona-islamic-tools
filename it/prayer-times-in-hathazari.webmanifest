@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Hāthazāri",
   "short_name": "Orari di preghiera a Hāthazāri",
   "description": "Orari di preghiera di oggi a Hāthazāri, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Hāthazāri.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-hathazari.html",
+  "id": "/it/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

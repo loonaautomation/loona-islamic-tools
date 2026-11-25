@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sāngli",
   "short_name": "Bønnetider i Sāngli",
   "description": "Dagens bønnetider i Sāngli, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Sāngli.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-sangli.html",
+  "id": "/da/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

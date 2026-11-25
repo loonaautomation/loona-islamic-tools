@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Zürich",
   "short_name": "Heures de prière à Zürich",
   "description": "Les heures de prière d’aujourd’hui à Zürich, Suisse : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Zürich.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-zuerich.html",
+  "id": "/fr/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

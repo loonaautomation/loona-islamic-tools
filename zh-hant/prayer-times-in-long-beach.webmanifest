@@ -2,7 +2,7 @@
   "name": "Loona Long Beach的禮拜時間",
   "short_name": "Long Beach的禮拜時間",
   "description": "Long Beach（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Long Beach實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-long-beach.html",
+  "id": "/zh-hant/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

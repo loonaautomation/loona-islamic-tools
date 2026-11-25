@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Jayapura",
   "short_name": "Rukousajat: Jayapura",
   "description": "Tämän päivän rukousajat paikassa Jayapura, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Jayapura.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-jayapura.html",
+  "id": "/fi/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

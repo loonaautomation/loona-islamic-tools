@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Assiut",
   "short_name": "Ore de rugăciune în Assiut",
   "description": "Orele de rugăciune de azi în Assiut, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Assiut.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-assiut.html",
+  "id": "/ro/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

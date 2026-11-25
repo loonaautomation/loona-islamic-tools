@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ternate",
   "short_name": "مواقيت الصلاة في Ternate",
   "description": "مواقيت الصلاة اليوم في Ternate، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTernate.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ternate.html",
+  "id": "/ar/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

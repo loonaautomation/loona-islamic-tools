@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Zaragoza",
   "short_name": "Gebedstijden in Zaragoza",
   "description": "De gebedstijden van vandaag in Zaragoza, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Zaragoza.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-zaragoza.html",
+  "id": "/nl/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

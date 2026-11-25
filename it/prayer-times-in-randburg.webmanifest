@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Randburg",
   "short_name": "Orari di preghiera a Randburg",
   "description": "Orari di preghiera di oggi a Randburg, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Randburg.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-randburg.html",
+  "id": "/it/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

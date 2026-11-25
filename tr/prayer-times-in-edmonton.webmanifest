@@ -2,7 +2,7 @@
   "name": "Loona Edmonton Namaz Vakitleri",
   "short_name": "Edmonton Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Edmonton, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Edmonton için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-edmonton.html",
+  "id": "/tr/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

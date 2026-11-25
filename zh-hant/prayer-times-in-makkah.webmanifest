@@ -2,7 +2,7 @@
   "name": "Loona Makkah的禮拜時間",
   "short_name": "Makkah的禮拜時間",
   "description": "Makkah（沙烏地阿拉伯）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Makkah實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-makkah.html",
+  "id": "/zh-hant/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

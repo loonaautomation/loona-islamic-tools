@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Surrey",
   "short_name": "Waktu Salat di Surrey",
   "description": "Waktu salat hari ini di Surrey, Kanada: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Surrey.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-surrey.html",
+  "id": "/id/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

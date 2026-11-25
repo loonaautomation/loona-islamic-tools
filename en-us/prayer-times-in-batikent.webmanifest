@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Batikent Today",
   "short_name": "Prayer Times in Batikent Today",
   "description": "Today's prayer times in Batikent, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Batikent.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-batikent.html",
+  "id": "/en-us/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

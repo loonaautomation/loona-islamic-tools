@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Singa",
   "short_name": "Heures de prière à Singa",
   "description": "Les heures de prière d’aujourd’hui à Singa, Soudan : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Singa.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-singa.html",
+  "id": "/fr/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

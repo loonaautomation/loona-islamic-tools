@@ -2,7 +2,7 @@
   "name": "Loona Bonn の礼拝時刻",
   "short_name": "Bonn の礼拝時刻",
   "description": "Bonn（ドイツ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Bonn についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bonn.html",
+  "id": "/ja/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

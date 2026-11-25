@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kanayannur",
   "short_name": "Часове за намаз в Kanayannur",
   "description": "Днешните часове за намаз в Kanayannur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kanayannur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kanayannur.html",
+  "id": "/bg/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bogura Namaz Vakitleri",
   "short_name": "Bogura Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bogura, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Bogura için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bogura.html",
+  "id": "/tr/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

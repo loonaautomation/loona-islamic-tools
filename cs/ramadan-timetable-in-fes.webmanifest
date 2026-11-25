@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh ramadánu v Fes 2027 (1448)",
   "short_name": "Rozvrh ramadánu v Fes 2027 (1448)",
   "description": "Rozvrh ramadánu 2027 pro Fes, Maroko: časy konce Sehri (Fadžr) a Iftaru (Maghrib) na každý den ramadánu 1448. Očekáváno od 8 února do 8 března 2027, v závislosti na pozorování měsíce.",
-  "id": "/loona-islamic-tools/cs/ramadan-timetable-in-fes.html",
+  "id": "/cs/ramadan-timetable-in-fes.html",
   "start_url": "./ramadan-timetable-in-fes.html",
   "scope": "./ramadan-timetable-in-fes.html",
   "display": "standalone",

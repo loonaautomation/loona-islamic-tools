@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Albuquerque",
   "short_name": "Rukousajat: Albuquerque",
   "description": "Tämän päivän rukousajat paikassa Albuquerque, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Albuquerque.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-albuquerque.html",
+  "id": "/fi/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

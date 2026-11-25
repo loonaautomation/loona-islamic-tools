@@ -2,7 +2,7 @@
   "name": "Loona Tasikmalaya imaidői",
   "short_name": "Tasikmalaya imaidői",
   "description": "A mai imaidők: Tasikmalaya, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tasikmalaya számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tasikmalaya.html",
+  "id": "/hu/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

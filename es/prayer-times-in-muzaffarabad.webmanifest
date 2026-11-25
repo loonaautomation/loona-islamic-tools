@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Muzaffarābād",
   "short_name": "Horarios de oración en Muzaffarābād",
   "description": "Horarios de oración de hoy en Muzaffarābād, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Muzaffarābād.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-muzaffarabad.html",
+  "id": "/es/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

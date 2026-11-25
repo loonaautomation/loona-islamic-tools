@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sungai Petani",
   "short_name": "Часове за намаз в Sungai Petani",
   "description": "Днешните часове за намаз в Sungai Petani, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sungai Petani.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sungai-petani.html",
+  "id": "/bg/prayer-times-in-sungai-petani.html",
   "start_url": "./prayer-times-in-sungai-petani.html",
   "scope": "./prayer-times-in-sungai-petani.html",
   "display": "standalone",

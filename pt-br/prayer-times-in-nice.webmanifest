@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Nice",
   "short_name": "Horários de Oração em Nice",
   "description": "Horários de oração de hoje em Nice, França: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Nice.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-nice.html",
+  "id": "/pt-br/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

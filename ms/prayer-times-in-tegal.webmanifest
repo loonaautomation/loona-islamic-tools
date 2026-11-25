@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tegal",
   "short_name": "Waktu Solat di Tegal",
   "description": "Waktu solat hari ini di Tegal, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Tegal.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tegal.html",
+  "id": "/ms/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

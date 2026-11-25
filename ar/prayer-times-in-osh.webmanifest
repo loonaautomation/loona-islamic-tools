@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Osh",
   "short_name": "مواقيت الصلاة في Osh",
   "description": "مواقيت الصلاة اليوم في Osh، قيرغيزستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOsh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-osh.html",
+  "id": "/ar/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

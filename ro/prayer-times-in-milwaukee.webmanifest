@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Milwaukee",
   "short_name": "Ore de rugăciune în Milwaukee",
   "description": "Orele de rugăciune de azi în Milwaukee, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Milwaukee.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-milwaukee.html",
+  "id": "/ro/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Comilla",
   "short_name": "Час намазу в Comilla",
   "description": "Сьогоднішній час намазу в Comilla, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Comilla.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-comilla.html",
+  "id": "/uk/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kirkuk imaidői",
   "short_name": "Kirkuk imaidői",
   "description": "A mai imaidők: Kirkuk, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kirkuk számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kirkuk.html",
+  "id": "/hu/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Hāthazāri",
   "short_name": "Время намаза в городе Hāthazāri",
   "description": "Время намаза на сегодня: Hāthazāri, Бангладеш: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Hāthazāri.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-hathazari.html",
+  "id": "/ru/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

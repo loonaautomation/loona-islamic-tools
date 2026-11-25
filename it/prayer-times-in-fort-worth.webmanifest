@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Fort Worth",
   "short_name": "Orari di preghiera a Fort Worth",
   "description": "Orari di preghiera di oggi a Fort Worth, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Fort Worth.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-fort-worth.html",
+  "id": "/it/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

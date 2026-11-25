@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Gatineau",
   "short_name": "Ore de rugăciune în Gatineau",
   "description": "Orele de rugăciune de azi în Gatineau, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Gatineau.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-gatineau.html",
+  "id": "/ro/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

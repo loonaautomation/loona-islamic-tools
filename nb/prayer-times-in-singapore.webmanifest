@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Singapore",
   "short_name": "Bønnetider i Singapore",
   "description": "Dagens bønnetider i Singapore, Singapore: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Singapore.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-singapore.html",
+  "id": "/nb/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

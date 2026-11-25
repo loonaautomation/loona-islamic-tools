@@ -2,7 +2,7 @@
   "name": "Loona Pimpri的禮拜時間",
   "short_name": "Pimpri的禮拜時間",
   "description": "Pimpri（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Pimpri實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-pimpri.html",
+  "id": "/zh-hant/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

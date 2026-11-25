@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kuantan",
   "short_name": "Časy modlitieb v Kuantan",
   "description": "Dnešné časy modlitieb v Kuantan, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Kuantan.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kuantan.html",
+  "id": "/sk/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

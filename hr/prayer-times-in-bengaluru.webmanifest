@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bengaluru",
   "short_name": "Vremena namaza u gradu Bengaluru",
   "description": "Današnja vremena namaza u gradu Bengaluru, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bengaluru.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bengaluru.html",
+  "id": "/hr/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

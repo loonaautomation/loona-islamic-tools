@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Amritsar",
   "short_name": "Vremena namaza u gradu Amritsar",
   "description": "Današnja vremena namaza u gradu Amritsar, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Amritsar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-amritsar.html",
+  "id": "/hr/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

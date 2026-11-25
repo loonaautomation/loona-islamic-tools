@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Omaha",
   "short_name": "זמני תפילה בעיר Omaha",
   "description": "זמני התפילה של היום בעיר Omaha, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Omaha.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-omaha.html",
+  "id": "/he/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

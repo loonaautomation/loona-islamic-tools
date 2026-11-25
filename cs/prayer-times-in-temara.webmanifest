@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Temara",
   "short_name": "Časy modliteb v Temara",
   "description": "Dnešní časy modliteb v Temara, Maroko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Temara.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-temara.html",
+  "id": "/cs/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

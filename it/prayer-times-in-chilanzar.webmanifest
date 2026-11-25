@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Chilanzar",
   "short_name": "Orari di preghiera a Chilanzar",
   "description": "Orari di preghiera di oggi a Chilanzar, Uzbekistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Chilanzar.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-chilanzar.html",
+  "id": "/it/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

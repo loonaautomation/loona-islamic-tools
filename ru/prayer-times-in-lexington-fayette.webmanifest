@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Lexington-Fayette",
   "short_name": "Время намаза в городе Lexington-Fayette",
   "description": "Время намаза на сегодня: Lexington-Fayette, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Lexington-Fayette.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-lexington-fayette.html",
+  "id": "/ru/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

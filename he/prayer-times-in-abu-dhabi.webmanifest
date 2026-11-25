@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Abu Dhabi",
   "short_name": "זמני תפילה בעיר Abu Dhabi",
   "description": "זמני התפילה של היום בעיר Abu Dhabi, UAE: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Abu Dhabi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-abu-dhabi.html",
+  "id": "/he/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

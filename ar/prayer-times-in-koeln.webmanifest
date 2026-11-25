@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Köln",
   "short_name": "مواقيت الصلاة في Köln",
   "description": "مواقيت الصلاة اليوم في Köln، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKöln.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-koeln.html",
+  "id": "/ar/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

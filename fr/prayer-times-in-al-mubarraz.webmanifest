@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Al Mubarraz",
   "short_name": "Heures de prière à Al Mubarraz",
   "description": "Les heures de prière d’aujourd’hui à Al Mubarraz, Arabie saoudite : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Umm al-Qura, calculées en direct sur votre appareil pour Al Mubarraz.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-al-mubarraz.html",
+  "id": "/fr/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

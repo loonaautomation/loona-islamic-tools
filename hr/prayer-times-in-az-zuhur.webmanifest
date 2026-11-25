@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Az-Zuhūr",
   "short_name": "Vremena namaza u gradu Az-Zuhūr",
   "description": "Današnja vremena namaza u gradu Az-Zuhūr, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Az-Zuhūr.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-az-zuhur.html",
+  "id": "/hr/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

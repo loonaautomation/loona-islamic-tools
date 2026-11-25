@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bobo-Dioulasso",
   "short_name": "Horários de Oração em Bobo-Dioulasso",
   "description": "Horários de oração de hoje em Bobo-Dioulasso, Burquina Faso: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Bobo-Dioulasso.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-bobo-dioulasso.html",
+  "id": "/pt-pt/prayer-times-in-bobo-dioulasso.html",
   "start_url": "./prayer-times-in-bobo-dioulasso.html",
   "scope": "./prayer-times-in-bobo-dioulasso.html",
   "display": "standalone",

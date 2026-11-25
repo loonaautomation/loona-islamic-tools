@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Seattle",
   "short_name": "Giờ cầu nguyện tại Seattle",
   "description": "Giờ cầu nguyện hôm nay tại Seattle, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Seattle.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-seattle.html",
+  "id": "/vi/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

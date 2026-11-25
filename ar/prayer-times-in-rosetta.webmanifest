@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rosetta",
   "short_name": "مواقيت الصلاة في Rosetta",
   "description": "مواقيت الصلاة اليوم في Rosetta، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـRosetta.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rosetta.html",
+  "id": "/ar/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

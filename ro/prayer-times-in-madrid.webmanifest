@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Madrid",
   "short_name": "Ore de rugăciune în Madrid",
   "description": "Orele de rugăciune de azi în Madrid, Spania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Madrid.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-madrid.html",
+  "id": "/ro/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

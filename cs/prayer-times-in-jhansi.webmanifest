@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jhānsi",
   "short_name": "Časy modliteb v Jhānsi",
   "description": "Dnešní časy modliteb v Jhānsi, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jhānsi.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jhansi.html",
+  "id": "/cs/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

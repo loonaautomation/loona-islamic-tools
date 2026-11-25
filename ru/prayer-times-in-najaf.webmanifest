@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Najaf",
   "short_name": "Время намаза в городе Najaf",
   "description": "Время намаза на сегодня: Najaf, Ирак: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Najaf.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-najaf.html",
+  "id": "/ru/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

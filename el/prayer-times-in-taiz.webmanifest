@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Taiz",
   "short_name": "Ώρες Προσευχής στο Taiz",
   "description": "Οι σημερινές ώρες προσευχής στο Taiz, Υεμένη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Taiz.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-taiz.html",
+  "id": "/el/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

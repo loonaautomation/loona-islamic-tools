@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dortmund",
   "short_name": "Prayer Times in Dortmund",
   "description": "Today's prayer times in Dortmund, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dortmund.",
-  "id": "/loona-islamic-tools/prayer-times-in-dortmund.html",
+  "id": "/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

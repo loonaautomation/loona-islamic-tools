@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kanpur",
   "short_name": "Bønnetider i Kanpur",
   "description": "Dagens bønnetider i Kanpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kanpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kanpur.html",
+  "id": "/nb/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Almaty",
   "short_name": "مواقيت الصلاة في Almaty",
   "description": "مواقيت الصلاة اليوم في Almaty، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAlmaty.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-almaty.html",
+  "id": "/ar/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

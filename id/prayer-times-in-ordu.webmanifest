@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ordu",
   "short_name": "Waktu Salat di Ordu",
   "description": "Waktu salat hari ini di Ordu, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ordu.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ordu.html",
+  "id": "/id/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

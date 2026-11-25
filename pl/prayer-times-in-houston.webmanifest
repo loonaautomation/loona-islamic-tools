@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Houston",
   "short_name": "Czasy modlitw w miejscowości Houston",
   "description": "Dzisiejsze czasy modlitw w miejscowości Houston, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Houston.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-houston.html",
+  "id": "/pl/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

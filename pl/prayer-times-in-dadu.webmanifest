@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dadu",
   "short_name": "Czasy modlitw w miejscowości Dadu",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dadu, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Dadu.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dadu.html",
+  "id": "/pl/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

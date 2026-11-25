@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Qā’em Shahr",
   "short_name": "Heures de prière à Qā’em Shahr",
   "description": "Les heures de prière d’aujourd’hui à Qā’em Shahr, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Qā’em Shahr.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-qa-em-shahr.html",
+  "id": "/fr/prayer-times-in-qa-em-shahr.html",
   "start_url": "./prayer-times-in-qa-em-shahr.html",
   "scope": "./prayer-times-in-qa-em-shahr.html",
   "display": "standalone",

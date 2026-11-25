@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dakar",
   "short_name": "Rukousajat: Dakar",
   "description": "Tämän päivän rukousajat paikassa Dakar, Senegal: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Dakar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dakar.html",
+  "id": "/fi/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

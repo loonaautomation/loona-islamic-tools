@@ -2,7 +2,7 @@
   "name": "Loona Jalgaon的禮拜時間",
   "short_name": "Jalgaon的禮拜時間",
   "description": "Jalgaon（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Jalgaon實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-jalgaon.html",
+  "id": "/zh-hant/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

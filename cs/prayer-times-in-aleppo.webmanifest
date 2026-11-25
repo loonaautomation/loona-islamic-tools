@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Aleppo",
   "short_name": "Časy modliteb v Aleppo",
   "description": "Dnešní časy modliteb v Aleppo, Sýrie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Aleppo.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-aleppo.html",
+  "id": "/cs/prayer-times-in-aleppo.html",
   "start_url": "./prayer-times-in-aleppo.html",
   "scope": "./prayer-times-in-aleppo.html",
   "display": "standalone",

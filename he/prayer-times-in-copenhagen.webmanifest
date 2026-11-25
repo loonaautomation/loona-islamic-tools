@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Copenhagen",
   "short_name": "זמני תפילה בעיר Copenhagen",
   "description": "זמני התפילה של היום בעיר Copenhagen, דנמרק: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Copenhagen.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-copenhagen.html",
+  "id": "/he/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

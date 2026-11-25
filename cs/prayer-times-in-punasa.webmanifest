@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Punāsa",
   "short_name": "Časy modliteb v Punāsa",
   "description": "Dnešní časy modliteb v Punāsa, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Punāsa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-punasa.html",
+  "id": "/cs/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

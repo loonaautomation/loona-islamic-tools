@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Guwahati",
   "short_name": "Waktu Solat di Guwahati",
   "description": "Waktu solat hari ini di Guwahati, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Guwahati.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-guwahati.html",
+  "id": "/ms/prayer-times-in-guwahati.html",
   "start_url": "./prayer-times-in-guwahati.html",
   "scope": "./prayer-times-in-guwahati.html",
   "display": "standalone",

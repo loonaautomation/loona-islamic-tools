@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Oslo",
   "short_name": "Waktu Salat di Oslo",
   "description": "Waktu salat hari ini di Oslo, Norwegia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Oslo.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-oslo.html",
+  "id": "/id/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

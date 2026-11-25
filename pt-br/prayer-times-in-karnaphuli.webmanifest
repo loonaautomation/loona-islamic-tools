@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Karnaphuli",
   "short_name": "Horários de Oração em Karnaphuli",
   "description": "Horários de oração de hoje em Karnaphuli, Bangladexe: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Karnaphuli.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-karnaphuli.html",
+  "id": "/pt-br/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Mohammadpur",
   "short_name": "Waktu Solat di Mohammadpur",
   "description": "Waktu solat hari ini di Mohammadpur, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Mohammadpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-mohammadpur.html",
+  "id": "/ms/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

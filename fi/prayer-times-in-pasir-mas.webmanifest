@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Pasir Mas",
   "short_name": "Rukousajat: Pasir Mas",
   "description": "Tämän päivän rukousajat paikassa Pasir Mas, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Pasir Mas.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-pasir-mas.html",
+  "id": "/fi/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

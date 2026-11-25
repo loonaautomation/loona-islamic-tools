@@ -2,7 +2,7 @@
   "name": "Loona Raipur の礼拝時刻",
   "short_name": "Raipur の礼拝時刻",
   "description": "Raipur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Raipur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-raipur.html",
+  "id": "/ja/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

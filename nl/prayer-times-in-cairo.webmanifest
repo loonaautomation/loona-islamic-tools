@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cairo",
   "short_name": "Gebedstijden in Cairo",
   "description": "De gebedstijden van vandaag in Cairo, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Cairo.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cairo.html",
+  "id": "/nl/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

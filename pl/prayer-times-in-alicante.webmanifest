@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Alicante",
   "short_name": "Czasy modlitw w miejscowości Alicante",
   "description": "Dzisiejsze czasy modlitw w miejscowości Alicante, kraj Hiszpania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Alicante.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-alicante.html",
+  "id": "/pl/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

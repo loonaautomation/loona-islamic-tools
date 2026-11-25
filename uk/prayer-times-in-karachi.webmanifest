@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Karachi",
   "short_name": "Час намазу в Karachi",
   "description": "Сьогоднішній час намазу в Karachi, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Karachi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-karachi.html",
+  "id": "/uk/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

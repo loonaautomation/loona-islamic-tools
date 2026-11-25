@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tanjung Pinang",
   "short_name": "مواقيت الصلاة في Tanjung Pinang",
   "description": "مواقيت الصلاة اليوم في Tanjung Pinang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTanjung Pinang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tanjung-pinang.html",
+  "id": "/ar/prayer-times-in-tanjung-pinang.html",
   "start_url": "./prayer-times-in-tanjung-pinang.html",
   "scope": "./prayer-times-in-tanjung-pinang.html",
   "display": "standalone",

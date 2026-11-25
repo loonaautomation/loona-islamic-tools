@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Lagos",
   "short_name": "Rukousajat: Lagos",
   "description": "Tämän päivän rukousajat paikassa Lagos, Nigeria: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Lagos.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-lagos.html",
+  "id": "/fi/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

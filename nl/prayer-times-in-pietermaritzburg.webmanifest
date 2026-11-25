@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pietermaritzburg",
   "short_name": "Gebedstijden in Pietermaritzburg",
   "description": "De gebedstijden van vandaag in Pietermaritzburg, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pietermaritzburg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pietermaritzburg.html",
+  "id": "/nl/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Alwar",
   "short_name": "Час намазу в Alwar",
   "description": "Сьогоднішній час намазу в Alwar, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Alwar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-alwar.html",
+  "id": "/uk/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

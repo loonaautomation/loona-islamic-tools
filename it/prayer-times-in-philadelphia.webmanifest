@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Philadelphia",
   "short_name": "Orari di preghiera a Philadelphia",
   "description": "Orari di preghiera di oggi a Philadelphia, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Philadelphia.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-philadelphia.html",
+  "id": "/it/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

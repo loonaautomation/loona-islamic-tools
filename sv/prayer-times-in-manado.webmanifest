@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Manado",
   "short_name": "Bönetider i Manado",
   "description": "Dagens bönetider i Manado, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Manado.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-manado.html",
+  "id": "/sv/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

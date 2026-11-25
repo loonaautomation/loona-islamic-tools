@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Casablanca",
   "short_name": "Horários de Oração em Casablanca",
   "description": "Horários de oração de hoje em Casablanca, Marrocos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Casablanca.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-casablanca.html",
+  "id": "/pt-br/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

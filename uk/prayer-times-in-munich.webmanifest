@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Munich",
   "short_name": "Час намазу в Munich",
   "description": "Сьогоднішній час намазу в Munich, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Munich.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-munich.html",
+  "id": "/uk/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

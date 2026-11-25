@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ballari",
   "short_name": "Waktu Salat di Ballari",
   "description": "Waktu salat hari ini di Ballari, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Ballari.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ballari.html",
+  "id": "/id/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

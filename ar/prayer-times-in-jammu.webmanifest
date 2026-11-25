@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jammu",
   "short_name": "مواقيت الصلاة في Jammu",
   "description": "مواقيت الصلاة اليوم في Jammu، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJammu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jammu.html",
+  "id": "/ar/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

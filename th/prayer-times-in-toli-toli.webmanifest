@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Toli-Toli",
   "short_name": "เวลาละหมาดใน Toli-Toli",
   "description": "เวลาละหมาดวันนี้ใน Toli-Toli, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Toli-Toli",
-  "id": "/loona-islamic-tools/th/prayer-times-in-toli-toli.html",
+  "id": "/th/prayer-times-in-toli-toli.html",
   "start_url": "./prayer-times-in-toli-toli.html",
   "scope": "./prayer-times-in-toli-toli.html",
   "display": "standalone",

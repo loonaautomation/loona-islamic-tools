@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kota Bharu",
   "short_name": "זמני תפילה בעיר Kota Bharu",
   "description": "זמני התפילה של היום בעיר Kota Bharu, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kota Bharu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kota-bharu.html",
+  "id": "/he/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

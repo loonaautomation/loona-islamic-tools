@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Assiut",
   "short_name": "Prayer Times in Assiut",
   "description": "Today's prayer times in Assiut, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Assiut.",
-  "id": "/loona-islamic-tools/prayer-times-in-assiut.html",
+  "id": "/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

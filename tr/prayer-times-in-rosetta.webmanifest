@@ -2,7 +2,7 @@
   "name": "Loona Rosetta Namaz Vakitleri",
   "short_name": "Rosetta Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rosetta, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Rosetta için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rosetta.html",
+  "id": "/tr/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

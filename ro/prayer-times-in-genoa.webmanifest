@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Genoa",
   "short_name": "Ore de rugăciune în Genoa",
   "description": "Orele de rugăciune de azi în Genoa, Italia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Genoa.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-genoa.html",
+  "id": "/ro/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

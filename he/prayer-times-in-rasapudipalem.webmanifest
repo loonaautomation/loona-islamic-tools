@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rasapūdipalem",
   "short_name": "זמני תפילה בעיר Rasapūdipalem",
   "description": "זמני התפילה של היום בעיר Rasapūdipalem, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rasapūdipalem.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rasapudipalem.html",
+  "id": "/he/prayer-times-in-rasapudipalem.html",
   "start_url": "./prayer-times-in-rasapudipalem.html",
   "scope": "./prayer-times-in-rasapudipalem.html",
   "display": "standalone",

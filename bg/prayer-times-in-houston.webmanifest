@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Houston",
   "short_name": "Часове за намаз в Houston",
   "description": "Днешните часове за намаз в Houston, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Houston.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-houston.html",
+  "id": "/bg/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

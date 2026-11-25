@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Muzaffarnagar",
   "short_name": "Gebetszeiten in Muzaffarnagar",
   "description": "Die heutigen Gebetszeiten in Muzaffarnagar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Muzaffarnagar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-muzaffarnagar.html",
+  "id": "/de/prayer-times-in-muzaffarnagar.html",
   "start_url": "./prayer-times-in-muzaffarnagar.html",
   "scope": "./prayer-times-in-muzaffarnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sāngli",
   "short_name": "Časy modliteb v Sāngli",
   "description": "Dnešní časy modliteb v Sāngli, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Sāngli.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sangli.html",
+  "id": "/cs/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

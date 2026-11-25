@@ -2,7 +2,7 @@
   "name": "Loona Kozhikode的禮拜時間",
   "short_name": "Kozhikode的禮拜時間",
   "description": "Kozhikode（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Kozhikode實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-kozhikode.html",
+  "id": "/zh-hant/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

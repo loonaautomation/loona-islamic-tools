@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Vadodara",
   "short_name": "เวลาละหมาดใน Vadodara",
   "description": "เวลาละหมาดวันนี้ใน Vadodara, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Vadodara",
-  "id": "/loona-islamic-tools/th/prayer-times-in-vadodara.html",
+  "id": "/th/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

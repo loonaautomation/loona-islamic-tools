@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Aswān",
   "short_name": "זמני תפילה בעיר Aswān",
   "description": "זמני התפילה של היום בעיר Aswān, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Aswān.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-aswan.html",
+  "id": "/he/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

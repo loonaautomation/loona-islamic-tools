@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Santa Ana",
   "short_name": "Časy modlitieb v Santa Ana",
   "description": "Dnešné časy modlitieb v Santa Ana, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Santa Ana.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-santa-ana.html",
+  "id": "/sk/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Batam",
   "short_name": "Ώρες Προσευχής στο Batam",
   "description": "Οι σημερινές ώρες προσευχής στο Batam, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Batam.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-batam.html",
+  "id": "/el/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Cardiff",
   "short_name": "Heures de prière à Cardiff",
   "description": "Les heures de prière d’aujourd’hui à Cardiff, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Cardiff.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-cardiff.html",
+  "id": "/fr/prayer-times-in-cardiff.html",
   "start_url": "./prayer-times-in-cardiff.html",
   "scope": "./prayer-times-in-cardiff.html",
   "display": "standalone",

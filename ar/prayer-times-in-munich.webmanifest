@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Munich",
   "short_name": "مواقيت الصلاة في Munich",
   "description": "مواقيت الصلاة اليوم في Munich، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMunich.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-munich.html",
+  "id": "/ar/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

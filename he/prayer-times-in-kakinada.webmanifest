@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kākināda",
   "short_name": "זמני תפילה בעיר Kākināda",
   "description": "זמני התפילה של היום בעיר Kākināda, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kākināda.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kakinada.html",
+  "id": "/he/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

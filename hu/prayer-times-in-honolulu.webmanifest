@@ -2,7 +2,7 @@
   "name": "Loona Honolulu imaidői",
   "short_name": "Honolulu imaidői",
   "description": "A mai imaidők: Honolulu, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Honolulu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-honolulu.html",
+  "id": "/hu/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

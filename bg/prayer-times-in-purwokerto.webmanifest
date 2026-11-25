@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Purwokerto",
   "short_name": "Часове за намаз в Purwokerto",
   "description": "Днешните часове за намаз в Purwokerto, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Purwokerto.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-purwokerto.html",
+  "id": "/bg/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

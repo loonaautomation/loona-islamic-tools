@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pretoria",
   "short_name": "זמני תפילה בעיר Pretoria",
   "description": "זמני התפילה של היום בעיר Pretoria, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pretoria.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pretoria.html",
+  "id": "/he/prayer-times-in-pretoria.html",
   "start_url": "./prayer-times-in-pretoria.html",
   "scope": "./prayer-times-in-pretoria.html",
   "display": "standalone",

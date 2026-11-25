@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Shāhjānpur",
   "short_name": "Orari di preghiera a Shāhjānpur",
   "description": "Orari di preghiera di oggi a Shāhjānpur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Shāhjānpur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-shahjanpur.html",
+  "id": "/it/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

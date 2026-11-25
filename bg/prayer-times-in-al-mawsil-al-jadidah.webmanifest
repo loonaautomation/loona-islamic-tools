@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Mawşil al Jadīdah",
   "short_name": "Часове за намаз в Al Mawşil al Jadīdah",
   "description": "Днешните часове за намаз в Al Mawşil al Jadīdah, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Al Mawşil al Jadīdah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-mawsil-al-jadidah.html",
+  "id": "/bg/prayer-times-in-al-mawsil-al-jadidah.html",
   "start_url": "./prayer-times-in-al-mawsil-al-jadidah.html",
   "scope": "./prayer-times-in-al-mawsil-al-jadidah.html",
   "display": "standalone",

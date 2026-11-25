@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Qods",
   "short_name": "Часове за намаз в Qods",
   "description": "Днешните часове за намаз в Qods, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Qods.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-qods.html",
+  "id": "/bg/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

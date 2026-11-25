@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Cincinnati",
   "short_name": "Ώρες Προσευχής στο Cincinnati",
   "description": "Οι σημερινές ώρες προσευχής στο Cincinnati, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Cincinnati.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-cincinnati.html",
+  "id": "/el/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Pittsburgh",
   "short_name": "Czasy modlitw w miejscowości Pittsburgh",
   "description": "Dzisiejsze czasy modlitw w miejscowości Pittsburgh, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Pittsburgh.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-pittsburgh.html",
+  "id": "/pl/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

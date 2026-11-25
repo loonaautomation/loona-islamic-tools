@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ternate",
   "short_name": "Waktu Solat di Ternate",
   "description": "Waktu solat hari ini di Ternate, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Ternate.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ternate.html",
+  "id": "/ms/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

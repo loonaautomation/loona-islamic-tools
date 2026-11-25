@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Safi",
   "short_name": "مواقيت الصلاة في Safi",
   "description": "مواقيت الصلاة اليوم في Safi، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSafi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-safi.html",
+  "id": "/ar/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

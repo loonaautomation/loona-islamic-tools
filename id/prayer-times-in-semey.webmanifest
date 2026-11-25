@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Semey",
   "short_name": "Waktu Salat di Semey",
   "description": "Waktu salat hari ini di Semey, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Semey.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-semey.html",
+  "id": "/id/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Fīrozābād",
   "short_name": "Časy modlitieb v Fīrozābād",
   "description": "Dnešné časy modlitieb v Fīrozābād, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Fīrozābād.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-firozabad.html",
+  "id": "/sk/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

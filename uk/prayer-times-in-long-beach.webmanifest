@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Long Beach",
   "short_name": "Час намазу в Long Beach",
   "description": "Сьогоднішній час намазу в Long Beach, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Long Beach.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-long-beach.html",
+  "id": "/uk/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

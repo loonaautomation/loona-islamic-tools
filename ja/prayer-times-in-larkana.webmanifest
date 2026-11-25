@@ -2,7 +2,7 @@
   "name": "Loona Larkana の礼拝時刻",
   "short_name": "Larkana の礼拝時刻",
   "description": "Larkana（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Larkana についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-larkana.html",
+  "id": "/ja/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

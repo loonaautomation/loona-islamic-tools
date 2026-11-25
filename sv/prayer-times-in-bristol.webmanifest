@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bristol",
   "short_name": "Bönetider i Bristol",
   "description": "Dagens bönetider i Bristol, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bristol.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bristol.html",
+  "id": "/sv/prayer-times-in-bristol.html",
   "start_url": "./prayer-times-in-bristol.html",
   "scope": "./prayer-times-in-bristol.html",
   "display": "standalone",

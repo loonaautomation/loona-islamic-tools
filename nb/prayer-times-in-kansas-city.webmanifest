@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kansas City",
   "short_name": "Bønnetider i Kansas City",
   "description": "Dagens bønnetider i Kansas City, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Kansas City.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kansas-city.html",
+  "id": "/nb/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

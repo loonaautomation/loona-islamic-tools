@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sabzevar Today",
   "short_name": "Prayer Times in Sabzevar Today",
   "description": "Today's prayer times in Sabzevar, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sabzevar.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-sabzevar.html",
+  "id": "/en-us/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

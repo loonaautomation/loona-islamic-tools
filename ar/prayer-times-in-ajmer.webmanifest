@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ajmer",
   "short_name": "مواقيت الصلاة في Ajmer",
   "description": "مواقيت الصلاة اليوم في Ajmer، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAjmer.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ajmer.html",
+  "id": "/ar/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

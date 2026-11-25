@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Rustenburg",
   "short_name": "Časy modliteb v Rustenburg",
   "description": "Dnešní časy modliteb v Rustenburg, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Rustenburg.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-rustenburg.html",
+  "id": "/cs/prayer-times-in-rustenburg.html",
   "start_url": "./prayer-times-in-rustenburg.html",
   "scope": "./prayer-times-in-rustenburg.html",
   "display": "standalone",

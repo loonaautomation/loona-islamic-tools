@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pasir Gudang",
   "short_name": "Gebetszeiten in Pasir Gudang",
   "description": "Die heutigen Gebetszeiten in Pasir Gudang, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pasir Gudang.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pasir-gudang.html",
+  "id": "/de/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

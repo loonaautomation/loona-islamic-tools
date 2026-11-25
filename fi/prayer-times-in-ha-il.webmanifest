@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ha'il",
   "short_name": "Rukousajat: Ha'il",
   "description": "Tämän päivän rukousajat paikassa Ha'il, Saudi-Arabia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Umm al-Qura -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ha'il.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ha-il.html",
+  "id": "/fi/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

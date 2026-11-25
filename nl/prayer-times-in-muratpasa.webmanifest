@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Muratpaşa",
   "short_name": "Gebedstijden in Muratpaşa",
   "description": "De gebedstijden van vandaag in Muratpaşa, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Muratpaşa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-muratpasa.html",
+  "id": "/nl/prayer-times-in-muratpasa.html",
   "start_url": "./prayer-times-in-muratpasa.html",
   "scope": "./prayer-times-in-muratpasa.html",
   "display": "standalone",

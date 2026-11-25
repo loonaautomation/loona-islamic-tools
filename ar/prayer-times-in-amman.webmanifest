@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Amman",
   "short_name": "مواقيت الصلاة في Amman",
   "description": "مواقيت الصلاة اليوم في Amman، الأردن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAmman.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-amman.html",
+  "id": "/ar/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

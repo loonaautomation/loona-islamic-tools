@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rasht",
   "short_name": "Horarios de oración en Rasht",
   "description": "Horarios de oración de hoy en Rasht, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Rasht.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rasht.html",
+  "id": "/es/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Današnje vrijeme sehura i iftara",
   "short_name": "Današnje vrijeme sehura i iftara",
   "description": "Današnja vremena završetka sehura (Fadžr) i iftara (Maghrib) za vaš grad s odbrojavanjem uživo do sljedećeg. Metoda Karachi, hanefijski Asr prema zadanim postavkama, prilagodljivo.",
-  "id": "/loona-islamic-tools/hr/sehri-iftar-today/",
+  "id": "/hr/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

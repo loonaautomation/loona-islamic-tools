@@ -2,7 +2,7 @@
   "name": "Loona 副朝清單",
   "short_name": "副朝清單",
   "description": "一份互動式副朝清單：證件、預訂、行李打包、健康與功修準備，帶有進度條、列印選項，進度儲存在您的裝置上。",
-  "id": "/loona-islamic-tools/zh-hant/umrah-checklist/",
+  "id": "/zh-hant/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

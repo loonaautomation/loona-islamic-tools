@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Riyadh",
   "short_name": "Časy modliteb v Riyadh",
   "description": "Dnešní časy modliteb v Riyadh, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Riyadh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-riyadh.html",
+  "id": "/cs/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

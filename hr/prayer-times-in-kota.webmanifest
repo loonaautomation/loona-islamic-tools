@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kota",
   "short_name": "Vremena namaza u gradu Kota",
   "description": "Današnja vremena namaza u gradu Kota, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kota.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kota.html",
+  "id": "/hr/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Istanbul",
   "short_name": "Prayer Times in Istanbul",
   "description": "Today's prayer times in Istanbul, Türkiye: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Istanbul.",
-  "id": "/loona-islamic-tools/prayer-times-in-istanbul.html",
+  "id": "/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

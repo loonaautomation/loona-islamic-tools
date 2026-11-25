@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tarakan",
   "short_name": "Časy modliteb v Tarakan",
   "description": "Dnešní časy modliteb v Tarakan, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tarakan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tarakan.html",
+  "id": "/cs/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Guédiawaye",
   "short_name": "مواقيت الصلاة في Guédiawaye",
   "description": "مواقيت الصلاة اليوم في Guédiawaye، السنغال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـGuédiawaye.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-guediawaye.html",
+  "id": "/ar/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

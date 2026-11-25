@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Welkom",
   "short_name": "Bønnetider i Welkom",
   "description": "Dagens bønnetider i Welkom, Sydafrika: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Welkom.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-welkom.html",
+  "id": "/da/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

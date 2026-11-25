@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pākdasht",
   "short_name": "Часове за намаз в Pākdasht",
   "description": "Днешните часове за намаз в Pākdasht, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Pākdasht.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pakdasht.html",
+  "id": "/bg/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

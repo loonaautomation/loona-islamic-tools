@@ -2,7 +2,7 @@
   "name": "Loona Mohammedia imaidői",
   "short_name": "Mohammedia imaidői",
   "description": "A mai imaidők: Mohammedia, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mohammedia számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mohammedia.html",
+  "id": "/hu/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Niamey",
   "short_name": "Waktu Solat di Niamey",
   "description": "Waktu solat hari ini di Niamey, Niger: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Niamey.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-niamey.html",
+  "id": "/ms/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

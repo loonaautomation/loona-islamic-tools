@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Toulouse",
   "short_name": "Orari di preghiera a Toulouse",
   "description": "Orari di preghiera di oggi a Toulouse, Francia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Toulouse.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-toulouse.html",
+  "id": "/it/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

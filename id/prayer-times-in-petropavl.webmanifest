@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Petropavl",
   "short_name": "Waktu Salat di Petropavl",
   "description": "Waktu salat hari ini di Petropavl, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Petropavl.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-petropavl.html",
+  "id": "/id/prayer-times-in-petropavl.html",
   "start_url": "./prayer-times-in-petropavl.html",
   "scope": "./prayer-times-in-petropavl.html",
   "display": "standalone",

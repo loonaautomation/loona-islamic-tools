@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Denpasar",
   "short_name": "זמני תפילה בעיר Denpasar",
   "description": "זמני התפילה של היום בעיר Denpasar, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Denpasar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-denpasar.html",
+  "id": "/he/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

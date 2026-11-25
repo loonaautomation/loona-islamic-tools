@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tangier",
   "short_name": "Bönetider i Tangier",
   "description": "Dagens bönetider i Tanger, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Tanger.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tangier.html",
+  "id": "/sv/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bhopal",
   "short_name": "Waktu Salat di Bhopal",
   "description": "Waktu salat hari ini di Bhopal, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bhopal.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bhopal.html",
+  "id": "/id/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

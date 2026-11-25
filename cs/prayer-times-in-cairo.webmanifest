@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Cairo",
   "short_name": "Časy modliteb v Cairo",
   "description": "Dnešní časy modliteb v Cairo, Egypt: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Cairo.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-cairo.html",
+  "id": "/cs/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

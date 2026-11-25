@@ -2,7 +2,7 @@
   "name": "Loona Almaty Namaz Vakitleri",
   "short_name": "Almaty Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Almaty, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Almaty için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-almaty.html",
+  "id": "/tr/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

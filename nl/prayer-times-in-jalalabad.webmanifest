@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jalālābād",
   "short_name": "Gebedstijden in Jalālābād",
   "description": "De gebedstijden van vandaag in Jalālābād, Afghanistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jalālābād.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jalalabad.html",
+  "id": "/nl/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

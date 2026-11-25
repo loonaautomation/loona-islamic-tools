@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Riverside",
   "short_name": "Orari di preghiera a Riverside",
   "description": "Orari di preghiera di oggi a Riverside, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Riverside.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-riverside.html",
+  "id": "/it/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

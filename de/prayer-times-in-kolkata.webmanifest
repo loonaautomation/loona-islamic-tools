@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kolkata",
   "short_name": "Gebetszeiten in Kolkata",
   "description": "Die heutigen Gebetszeiten in Kolkata, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kolkata.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kolkata.html",
+  "id": "/de/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

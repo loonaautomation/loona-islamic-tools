@@ -2,7 +2,7 @@
   "name": "Loona Sāveh imaidői",
   "short_name": "Sāveh imaidői",
   "description": "A mai imaidők: Sāveh, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sāveh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-saveh.html",
+  "id": "/hu/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

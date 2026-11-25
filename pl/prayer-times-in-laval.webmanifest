@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Laval",
   "short_name": "Czasy modlitw w miejscowości Laval",
   "description": "Dzisiejsze czasy modlitw w miejscowości Laval, kraj Kanada: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Laval.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-laval.html",
+  "id": "/pl/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

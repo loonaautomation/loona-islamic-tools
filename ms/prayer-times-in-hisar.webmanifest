@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Hisar",
   "short_name": "Waktu Solat di Hisar",
   "description": "Waktu solat hari ini di Hisar, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Hisar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-hisar.html",
+  "id": "/ms/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

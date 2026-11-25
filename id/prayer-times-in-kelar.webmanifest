@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kelar",
   "short_name": "Waktu Salat di Kelar",
   "description": "Waktu salat hari ini di Kelar, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kelar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kelar.html",
+  "id": "/id/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jaipur",
   "short_name": "Gebetszeiten in Jaipur",
   "description": "Die heutigen Gebetszeiten in Jaipur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jaipur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jaipur.html",
+  "id": "/de/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

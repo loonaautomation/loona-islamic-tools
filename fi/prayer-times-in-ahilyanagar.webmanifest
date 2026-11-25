@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ahilyanagar",
   "short_name": "Rukousajat: Ahilyanagar",
   "description": "Tämän päivän rukousajat paikassa Ahilyanagar, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Ahilyanagar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ahilyanagar.html",
+  "id": "/fi/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

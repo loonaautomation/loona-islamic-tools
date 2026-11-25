@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tabriz",
   "short_name": "Heures de prière à Tabriz",
   "description": "Les heures de prière d’aujourd’hui à Tabriz, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Tabriz.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tabriz.html",
+  "id": "/fr/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

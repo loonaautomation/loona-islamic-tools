@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Korba",
   "short_name": "Rukousajat: Korba",
   "description": "Tämän päivän rukousajat paikassa Korba, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Korba.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-korba.html",
+  "id": "/fi/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

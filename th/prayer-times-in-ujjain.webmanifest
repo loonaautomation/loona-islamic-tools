@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ujjain",
   "short_name": "เวลาละหมาดใน Ujjain",
   "description": "เวลาละหมาดวันนี้ใน Ujjain, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ujjain",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ujjain.html",
+  "id": "/th/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

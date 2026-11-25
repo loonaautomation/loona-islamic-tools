@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bielefeld",
   "short_name": "Bönetider i Bielefeld",
   "description": "Dagens bönetider i Bielefeld, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bielefeld.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bielefeld.html",
+  "id": "/sv/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nyala",
   "short_name": "مواقيت الصلاة في Nyala",
   "description": "مواقيت الصلاة اليوم في Nyala، السودان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNyala.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nyala.html",
+  "id": "/ar/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

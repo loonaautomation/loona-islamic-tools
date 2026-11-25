@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Lexington",
   "short_name": "Gebetszeiten in Lexington",
   "description": "Die heutigen Gebetszeiten in Lexington, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Lexington.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-lexington.html",
+  "id": "/de/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

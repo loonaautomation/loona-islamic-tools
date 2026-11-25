@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dihok",
   "short_name": "مواقيت الصلاة في Dihok",
   "description": "مواقيت الصلاة اليوم في Dihok، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDihok.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dihok.html",
+  "id": "/ar/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

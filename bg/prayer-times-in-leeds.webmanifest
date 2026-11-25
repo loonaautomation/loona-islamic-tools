@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Leeds",
   "short_name": "Часове за намаз в Leeds",
   "description": "Днешните часове за намаз в Leeds, Обединено кралство: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Leeds.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-leeds.html",
+  "id": "/bg/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

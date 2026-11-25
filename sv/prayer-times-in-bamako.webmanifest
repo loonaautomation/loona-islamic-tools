@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bamako",
   "short_name": "Bönetider i Bamako",
   "description": "Dagens bönetider i Bamako, Mali: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bamako.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bamako.html",
+  "id": "/sv/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Hoceïma",
   "short_name": "مواقيت الصلاة في Al Hoceïma",
   "description": "مواقيت الصلاة اليوم في Al Hoceïma، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAl Hoceïma.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-hoceima.html",
+  "id": "/ar/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

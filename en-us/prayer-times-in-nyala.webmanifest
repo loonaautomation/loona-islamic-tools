@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nyala Today",
   "short_name": "Prayer Times in Nyala Today",
   "description": "Today's prayer times in Nyala, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nyala.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-nyala.html",
+  "id": "/en-us/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

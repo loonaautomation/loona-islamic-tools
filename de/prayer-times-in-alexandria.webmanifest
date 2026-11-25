@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Alexandria",
   "short_name": "Gebetszeiten in Alexandria",
   "description": "Die heutigen Gebetszeiten in Alexandria, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Alexandria.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-alexandria.html",
+  "id": "/de/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Riverside的禮拜時間",
   "short_name": "Riverside的禮拜時間",
   "description": "Riverside（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Riverside實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-riverside.html",
+  "id": "/zh-hant/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

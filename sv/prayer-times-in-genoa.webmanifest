@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Genoa",
   "short_name": "Bönetider i Genoa",
   "description": "Dagens bönetider i Genoa, Italien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Genoa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-genoa.html",
+  "id": "/sv/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

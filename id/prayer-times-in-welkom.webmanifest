@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Welkom",
   "short_name": "Waktu Salat di Welkom",
   "description": "Waktu salat hari ini di Welkom, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Welkom.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-welkom.html",
+  "id": "/id/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

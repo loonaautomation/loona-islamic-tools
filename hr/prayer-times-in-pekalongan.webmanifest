@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pekalongan",
   "short_name": "Vremena namaza u gradu Pekalongan",
   "description": "Današnja vremena namaza u gradu Pekalongan, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pekalongan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pekalongan.html",
+  "id": "/hr/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

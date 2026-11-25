@@ -2,7 +2,7 @@
   "name": "Loona Kismayo Namaz Vakitleri",
   "short_name": "Kismayo Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kismayo, Somali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kismayo için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kismayo.html",
+  "id": "/tr/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

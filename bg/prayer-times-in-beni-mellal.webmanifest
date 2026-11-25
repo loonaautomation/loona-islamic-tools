@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Beni Mellal",
   "short_name": "Часове за намаз в Beni Mellal",
   "description": "Днешните часове за намаз в Beni Mellal, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Beni Mellal.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-beni-mellal.html",
+  "id": "/bg/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

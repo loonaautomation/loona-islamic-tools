@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dumai",
   "short_name": "Časy modliteb v Dumai",
   "description": "Dnešní časy modliteb v Dumai, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dumai.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dumai.html",
+  "id": "/cs/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

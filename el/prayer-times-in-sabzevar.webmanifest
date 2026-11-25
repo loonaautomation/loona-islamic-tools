@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sabzevar",
   "short_name": "Ώρες Προσευχής στο Sabzevar",
   "description": "Οι σημερινές ώρες προσευχής στο Sabzevar, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Sabzevar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sabzevar.html",
+  "id": "/el/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

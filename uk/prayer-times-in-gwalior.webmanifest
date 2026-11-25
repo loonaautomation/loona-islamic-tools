@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gwalior",
   "short_name": "Час намазу в Gwalior",
   "description": "Сьогоднішній час намазу в Gwalior, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Gwalior.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gwalior.html",
+  "id": "/uk/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

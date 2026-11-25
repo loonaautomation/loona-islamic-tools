@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Boston",
   "short_name": "Czasy modlitw w miejscowości Boston",
   "description": "Dzisiejsze czasy modlitw w miejscowości Boston, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Boston.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-boston.html",
+  "id": "/pl/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

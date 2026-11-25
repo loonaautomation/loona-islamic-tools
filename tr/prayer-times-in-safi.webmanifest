@@ -2,7 +2,7 @@
   "name": "Loona Safi Namaz Vakitleri",
   "short_name": "Safi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Safi, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Safi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-safi.html",
+  "id": "/tr/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

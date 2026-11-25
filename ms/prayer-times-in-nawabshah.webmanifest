@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nawabshah",
   "short_name": "Waktu Solat di Nawabshah",
   "description": "Waktu solat hari ini di Nawabshah, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Nawabshah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nawabshah.html",
+  "id": "/ms/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

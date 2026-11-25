@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ludhiana",
   "short_name": "Час намазу в Ludhiana",
   "description": "Сьогоднішній час намазу в Ludhiana, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Ludhiana.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ludhiana.html",
+  "id": "/uk/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

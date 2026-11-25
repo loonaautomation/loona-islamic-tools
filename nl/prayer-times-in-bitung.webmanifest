@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bitung",
   "short_name": "Gebedstijden in Bitung",
   "description": "De gebedstijden van vandaag in Bitung, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bitung.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bitung.html",
+  "id": "/nl/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

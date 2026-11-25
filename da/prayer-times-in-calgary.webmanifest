@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Calgary",
   "short_name": "Bønnetider i Calgary",
   "description": "Dagens bønnetider i Calgary, Canada: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Calgary.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-calgary.html",
+  "id": "/da/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

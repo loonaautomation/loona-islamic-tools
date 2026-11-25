@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Shivamogga",
   "short_name": "เวลาละหมาดใน Shivamogga",
   "description": "เวลาละหมาดวันนี้ใน Shivamogga, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Shivamogga",
-  "id": "/loona-islamic-tools/th/prayer-times-in-shivamogga.html",
+  "id": "/th/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

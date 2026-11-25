@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Thembisa",
   "short_name": "مواقيت الصلاة في Thembisa",
   "description": "مواقيت الصلاة اليوم في Thembisa، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـThembisa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-thembisa.html",
+  "id": "/ar/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Toli-Toli の礼拝時刻",
   "short_name": "Toli-Toli の礼拝時刻",
   "description": "Toli-Toli（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Toli-Toli についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-toli-toli.html",
+  "id": "/ja/prayer-times-in-toli-toli.html",
   "start_url": "./prayer-times-in-toli-toli.html",
   "scope": "./prayer-times-in-toli-toli.html",
   "display": "standalone",

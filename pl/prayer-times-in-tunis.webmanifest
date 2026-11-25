@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Tunis",
   "short_name": "Czasy modlitw w miejscowości Tunis",
   "description": "Dzisiejsze czasy modlitw w miejscowości Tunis, kraj Tunezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Tunis.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-tunis.html",
+  "id": "/pl/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Buraydah",
   "short_name": "Vremena namaza u gradu Buraydah",
   "description": "Današnja vremena namaza u gradu Buraydah, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Buraydah.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-buraydah.html",
+  "id": "/hr/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tirana",
   "short_name": "Часове за намаз в Tirana",
   "description": "Днешните часове за намаз в Tirana, Албания: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Tirana.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tirana.html",
+  "id": "/bg/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Palma",
   "short_name": "Horarios de oración en Palma",
   "description": "Horarios de oración de hoy en Palma, España: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Palma.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-palma.html",
+  "id": "/es/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

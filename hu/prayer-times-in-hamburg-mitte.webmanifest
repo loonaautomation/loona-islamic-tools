@@ -2,7 +2,7 @@
   "name": "Loona Hamburg-Mitte imaidői",
   "short_name": "Hamburg-Mitte imaidői",
   "description": "A mai imaidők: Hamburg-Mitte, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Hamburg-Mitte számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-hamburg-mitte.html",
+  "id": "/hu/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

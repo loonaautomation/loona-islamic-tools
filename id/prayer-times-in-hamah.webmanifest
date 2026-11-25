@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ḩamāh",
   "short_name": "Waktu Salat di Ḩamāh",
   "description": "Waktu salat hari ini di Ḩamāh, Suriah: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ḩamāh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-hamah.html",
+  "id": "/id/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

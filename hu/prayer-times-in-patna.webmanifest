@@ -2,7 +2,7 @@
   "name": "Loona Patna imaidői",
   "short_name": "Patna imaidői",
   "description": "A mai imaidők: Patna, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Patna számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-patna.html",
+  "id": "/hu/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

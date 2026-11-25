@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Genoa",
   "short_name": "Waktu Salat di Genoa",
   "description": "Waktu salat hari ini di Genoa, Italia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Genoa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-genoa.html",
+  "id": "/id/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

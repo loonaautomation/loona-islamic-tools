@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Srinagar",
   "short_name": "Gebedstijden in Srinagar",
   "description": "De gebedstijden van vandaag in Srinagar, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Srinagar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-srinagar.html",
+  "id": "/nl/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

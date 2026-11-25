@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Howrah",
   "short_name": "Časy modlitieb v Howrah",
   "description": "Dnešné časy modlitieb v Howrah, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Howrah.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-howrah.html",
+  "id": "/sk/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

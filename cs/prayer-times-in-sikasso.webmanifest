@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sikasso",
   "short_name": "Časy modliteb v Sikasso",
   "description": "Dnešní časy modliteb v Sikasso, Mali: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sikasso.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sikasso.html",
+  "id": "/cs/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

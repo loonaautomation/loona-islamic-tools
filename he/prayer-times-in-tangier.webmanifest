@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tangier",
   "short_name": "זמני תפילה בעיר Tangier",
   "description": "זמני התפילה של היום בעיר Tangier, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tangier.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tangier.html",
+  "id": "/he/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

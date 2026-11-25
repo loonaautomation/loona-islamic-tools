@@ -2,7 +2,7 @@
   "name": "Loona Calendario de la Hégira",
   "short_name": "Calendario de la Hégira",
   "description": "Explora cualquier mes y año de la hégira en un calendario islámico limpio donde cada día también muestra su fecha gregoriana. Calendario Umm al-Qura, gratuito y siempre actualizado.",
-  "id": "/loona-islamic-tools/es/hijri-calendar/",
+  "id": "/es/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

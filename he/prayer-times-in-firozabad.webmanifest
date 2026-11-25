@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Fīrozābād",
   "short_name": "זמני תפילה בעיר Fīrozābād",
   "description": "זמני התפילה של היום בעיר Fīrozābād, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Fīrozābād.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-firozabad.html",
+  "id": "/he/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bhilai",
   "short_name": "Vremena namaza u gradu Bhilai",
   "description": "Današnja vremena namaza u gradu Bhilai, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bhilai.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bhilai.html",
+  "id": "/hr/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

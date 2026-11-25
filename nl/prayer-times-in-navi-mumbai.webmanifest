@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Navi Mumbai",
   "short_name": "Gebedstijden in Navi Mumbai",
   "description": "De gebedstijden van vandaag in Navi Mumbai, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Navi Mumbai.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-navi-mumbai.html",
+  "id": "/nl/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

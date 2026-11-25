@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Graz",
   "short_name": "Orari di preghiera a Graz",
   "description": "Orari di preghiera di oggi a Graz, Austria: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Graz.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-graz.html",
+  "id": "/it/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

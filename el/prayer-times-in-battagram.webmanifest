@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Battagram",
   "short_name": "Ώρες Προσευχής στο Battagram",
   "description": "Οι σημερινές ώρες προσευχής στο Battagram, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Battagram.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-battagram.html",
+  "id": "/el/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Erode",
   "short_name": "Waktu Solat di Erode",
   "description": "Waktu solat hari ini di Erode, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Erode.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-erode.html",
+  "id": "/ms/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

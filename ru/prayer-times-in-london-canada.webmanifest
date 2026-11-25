@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе London (Канада)",
   "short_name": "Время намаза в городе London (Канада)",
   "description": "Время намаза на сегодня: London, Канада: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города London.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-london-canada.html",
+  "id": "/ru/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

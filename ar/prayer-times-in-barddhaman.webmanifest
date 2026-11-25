@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Barddhamān",
   "short_name": "مواقيت الصلاة في Barddhamān",
   "description": "مواقيت الصلاة اليوم في Barddhamān، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBarddhamān.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-barddhaman.html",
+  "id": "/ar/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

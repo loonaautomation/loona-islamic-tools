@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ahmedabad",
   "short_name": "Время намаза в городе Ahmedabad",
   "description": "Время намаза на сегодня: Ahmedabad, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Ahmedabad.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ahmedabad.html",
+  "id": "/ru/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

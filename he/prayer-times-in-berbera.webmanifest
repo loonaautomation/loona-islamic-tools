@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Berbera",
   "short_name": "זמני תפילה בעיר Berbera",
   "description": "זמני התפילה של היום בעיר Berbera, סומליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Berbera.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-berbera.html",
+  "id": "/he/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Patiāla",
   "short_name": "Časy modlitieb v Patiāla",
   "description": "Dnešné časy modlitieb v Patiāla, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Patiāla.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-patiala.html",
+  "id": "/sk/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

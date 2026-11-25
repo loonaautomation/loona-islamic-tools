@@ -2,7 +2,7 @@
   "name": "Loona Skardu imaidői",
   "short_name": "Skardu imaidői",
   "description": "A mai imaidők: Skardu, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Skardu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-skardu.html",
+  "id": "/hu/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

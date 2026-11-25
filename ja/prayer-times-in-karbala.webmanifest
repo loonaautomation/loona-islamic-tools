@@ -2,7 +2,7 @@
   "name": "Loona Karbala の礼拝時刻",
   "short_name": "Karbala の礼拝時刻",
   "description": "Karbala（イラク）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Karbala についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-karbala.html",
+  "id": "/ja/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

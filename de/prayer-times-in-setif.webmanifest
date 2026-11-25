@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sétif",
   "short_name": "Gebetszeiten in Sétif",
   "description": "Die heutigen Gebetszeiten in Sétif, Algerien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sétif.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-setif.html",
+  "id": "/de/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

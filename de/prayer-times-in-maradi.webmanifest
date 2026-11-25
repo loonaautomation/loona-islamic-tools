@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Maradi",
   "short_name": "Gebetszeiten in Maradi",
   "description": "Die heutigen Gebetszeiten in Maradi, Niger: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Maradi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-maradi.html",
+  "id": "/de/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

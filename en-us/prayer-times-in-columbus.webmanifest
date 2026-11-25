@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Columbus Today",
   "short_name": "Prayer Times in Columbus Today",
   "description": "Today's prayer times in Columbus, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Columbus.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-columbus.html",
+  "id": "/en-us/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

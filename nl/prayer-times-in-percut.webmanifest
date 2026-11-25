@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Percut",
   "short_name": "Gebedstijden in Percut",
   "description": "De gebedstijden van vandaag in Percut, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Percut.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-percut.html",
+  "id": "/nl/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sikasso",
   "short_name": "Gebetszeiten in Sikasso",
   "description": "Die heutigen Gebetszeiten in Sikasso, Mali: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sikasso.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sikasso.html",
+  "id": "/de/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

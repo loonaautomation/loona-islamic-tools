@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Birkenhead",
   "short_name": "Waktu Salat di Birkenhead",
   "description": "Waktu salat hari ini di Birkenhead, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Birkenhead.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-birkenhead.html",
+  "id": "/id/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

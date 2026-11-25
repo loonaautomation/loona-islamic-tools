@@ -2,7 +2,7 @@
   "name": "Loona Montréal imaidői",
   "short_name": "Montréal imaidői",
   "description": "A mai imaidők: Montréal, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Montréal számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-montreal.html",
+  "id": "/hu/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

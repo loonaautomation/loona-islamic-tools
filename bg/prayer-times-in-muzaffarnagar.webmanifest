@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Muzaffarnagar",
   "short_name": "Часове за намаз в Muzaffarnagar",
   "description": "Днешните часове за намаз в Muzaffarnagar, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Muzaffarnagar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-muzaffarnagar.html",
+  "id": "/bg/prayer-times-in-muzaffarnagar.html",
   "start_url": "./prayer-times-in-muzaffarnagar.html",
   "scope": "./prayer-times-in-muzaffarnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Padang Namaz Vakitleri",
   "short_name": "Padang Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Padang, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Padang için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-padang.html",
+  "id": "/tr/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

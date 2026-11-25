@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Comilla",
   "short_name": "Rukousajat: Comilla",
   "description": "Tämän päivän rukousajat paikassa Comilla, Bangladesh: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Comilla.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-comilla.html",
+  "id": "/fi/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

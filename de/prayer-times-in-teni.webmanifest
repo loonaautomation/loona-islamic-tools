@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Teni",
   "short_name": "Gebetszeiten in Teni",
   "description": "Die heutigen Gebetszeiten in Teni, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Teni.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-teni.html",
+  "id": "/de/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

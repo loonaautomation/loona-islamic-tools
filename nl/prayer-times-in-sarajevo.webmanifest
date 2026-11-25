@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sarajevo",
   "short_name": "Gebedstijden in Sarajevo",
   "description": "De gebedstijden van vandaag in Sarajevo, Bosnië en Herzegovina: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sarajevo.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sarajevo.html",
+  "id": "/nl/prayer-times-in-sarajevo.html",
   "start_url": "./prayer-times-in-sarajevo.html",
   "scope": "./prayer-times-in-sarajevo.html",
   "display": "standalone",

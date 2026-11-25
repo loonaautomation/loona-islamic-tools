@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Thrissur",
   "short_name": "Horarios de oración en Thrissur",
   "description": "Horarios de oración de hoy en Thrissur, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Thrissur.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-thrissur.html",
+  "id": "/es/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

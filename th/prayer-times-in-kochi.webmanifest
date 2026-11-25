@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kochi",
   "short_name": "เวลาละหมาดใน Kochi",
   "description": "เวลาละหมาดวันนี้ใน Kochi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kochi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kochi.html",
+  "id": "/th/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

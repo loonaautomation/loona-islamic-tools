@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ra’s Bayrūt",
   "short_name": "Час намазу в Ra’s Bayrūt",
   "description": "Сьогоднішній час намазу в Ra’s Bayrūt, Ліван: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ra’s Bayrūt.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ra-s-bayrut.html",
+  "id": "/uk/prayer-times-in-ra-s-bayrut.html",
   "start_url": "./prayer-times-in-ra-s-bayrut.html",
   "scope": "./prayer-times-in-ra-s-bayrut.html",
   "display": "standalone",

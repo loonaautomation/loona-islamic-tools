@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Akola",
   "short_name": "Prayer Times in Akola",
   "description": "Today's prayer times in Akola, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Akola.",
-  "id": "/loona-islamic-tools/prayer-times-in-akola.html",
+  "id": "/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

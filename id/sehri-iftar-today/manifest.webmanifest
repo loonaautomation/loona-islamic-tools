@@ -2,7 +2,7 @@
   "name": "Loona Waktu Sahur & Buka Puasa Hari Ini",
   "short_name": "Waktu Sahur & Buka Puasa Hari Ini",
   "description": "Waktu akhir Sahur (Subuh) dan Buka Puasa (Magrib) hari ini untuk kota Anda dengan hitung mundur langsung ke waktu berikutnya. Metode Karachi, Asar Hanafi secara bawaan, dapat disesuaikan.",
-  "id": "/loona-islamic-tools/id/sehri-iftar-today/",
+  "id": "/id/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

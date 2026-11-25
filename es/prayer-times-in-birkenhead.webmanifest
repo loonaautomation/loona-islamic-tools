@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Birkenhead",
   "short_name": "Horarios de oración en Birkenhead",
   "description": "Horarios de oración de hoy en Birkenhead, Reino Unido: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Birkenhead.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-birkenhead.html",
+  "id": "/es/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

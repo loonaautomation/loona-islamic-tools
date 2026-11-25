@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Benoni",
   "short_name": "Bönetider i Benoni",
   "description": "Dagens bönetider i Benoni, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Benoni.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-benoni.html",
+  "id": "/sv/prayer-times-in-benoni.html",
   "start_url": "./prayer-times-in-benoni.html",
   "scope": "./prayer-times-in-benoni.html",
   "display": "standalone",

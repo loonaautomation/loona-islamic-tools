@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gothenburg",
   "short_name": "Bønnetider i Gothenburg",
   "description": "Dagens bønnetider i Gothenburg, Sverige: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Gothenburg.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-gothenburg.html",
+  "id": "/nb/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

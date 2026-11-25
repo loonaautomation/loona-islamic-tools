@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banjul",
   "short_name": "مواقيت الصلاة في Banjul",
   "description": "مواقيت الصلاة اليوم في Banjul، غامبيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBanjul.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-banjul.html",
+  "id": "/ar/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Coimbatore",
   "short_name": "مواقيت الصلاة في Coimbatore",
   "description": "مواقيت الصلاة اليوم في Coimbatore، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـCoimbatore.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-coimbatore.html",
+  "id": "/ar/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

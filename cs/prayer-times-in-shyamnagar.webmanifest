@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Shyamnagar",
   "short_name": "Časy modliteb v Shyamnagar",
   "description": "Dnešní časy modliteb v Shyamnagar, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Shyamnagar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-shyamnagar.html",
+  "id": "/cs/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

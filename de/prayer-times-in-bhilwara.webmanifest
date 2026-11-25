@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhilwara",
   "short_name": "Gebetszeiten in Bhilwara",
   "description": "Die heutigen Gebetszeiten in Bhilwara, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhilwara.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhilwara.html",
+  "id": "/de/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

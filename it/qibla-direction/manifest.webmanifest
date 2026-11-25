@@ -2,7 +2,7 @@
   "name": "Loona Direzione della Qibla",
   "short_name": "Direzione della Qibla",
   "description": "Trova la direzione della Qibla in gradi da qualsiasi città o dalla tua posizione esatta, con un quadrante di bussola live e la distanza da La Mecca. Gratuito, accurato e privato.",
-  "id": "/loona-islamic-tools/it/qibla-direction/",
+  "id": "/it/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

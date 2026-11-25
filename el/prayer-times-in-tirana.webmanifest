@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tirana",
   "short_name": "Ώρες Προσευχής στο Tirana",
   "description": "Οι σημερινές ώρες προσευχής στο Tirana, Αλβανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Tirana.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tirana.html",
+  "id": "/el/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Constantine",
   "short_name": "Bönetider i Constantine",
   "description": "Dagens bönetider i Constantine, Algeriet: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Constantine.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-constantine.html",
+  "id": "/sv/prayer-times-in-constantine.html",
   "start_url": "./prayer-times-in-constantine.html",
   "scope": "./prayer-times-in-constantine.html",
   "display": "standalone",

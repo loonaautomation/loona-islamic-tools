@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Beirut",
   "short_name": "Bönetider i Beirut",
   "description": "Dagens bönetider i Beirut, Libanon: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Beirut.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-beirut.html",
+  "id": "/sv/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

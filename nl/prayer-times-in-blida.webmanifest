@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Blida",
   "short_name": "Gebedstijden in Blida",
   "description": "De gebedstijden van vandaag in Blida, Algerije: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Blida.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-blida.html",
+  "id": "/nl/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

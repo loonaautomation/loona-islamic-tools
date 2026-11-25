@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Boston",
   "short_name": "Ore de rugăciune în Boston",
   "description": "Orele de rugăciune de azi în Boston, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Boston.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-boston.html",
+  "id": "/ro/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Oujda",
   "short_name": "Horarios de oración en Oujda",
   "description": "Horarios de oración de hoy en Oujda, Marruecos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Oujda.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-oujda.html",
+  "id": "/es/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

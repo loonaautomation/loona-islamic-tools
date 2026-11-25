@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in El Dibir Today",
   "short_name": "Prayer Times in El Dibir Today",
   "description": "Today's prayer times in El Dibir, Somalia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for El Dibir.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-el-dibir.html",
+  "id": "/en-gb/prayer-times-in-el-dibir.html",
   "start_url": "./prayer-times-in-el-dibir.html",
   "scope": "./prayer-times-in-el-dibir.html",
   "display": "standalone",

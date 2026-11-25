@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Gwalior",
   "short_name": "Prayer Times in Gwalior",
   "description": "Today's prayer times in Gwalior, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Gwalior.",
-  "id": "/loona-islamic-tools/prayer-times-in-gwalior.html",
+  "id": "/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

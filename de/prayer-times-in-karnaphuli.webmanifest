@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karnaphuli",
   "short_name": "Gebetszeiten in Karnaphuli",
   "description": "Die heutigen Gebetszeiten in Karnaphuli, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Karnaphuli.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karnaphuli.html",
+  "id": "/de/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

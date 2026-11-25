@@ -2,7 +2,7 @@
   "name": "Loona Canberra imaidői",
   "short_name": "Canberra imaidői",
   "description": "A mai imaidők: Canberra, Ausztrália: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Canberra számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-canberra.html",
+  "id": "/hu/prayer-times-in-canberra.html",
   "start_url": "./prayer-times-in-canberra.html",
   "scope": "./prayer-times-in-canberra.html",
   "display": "standalone",

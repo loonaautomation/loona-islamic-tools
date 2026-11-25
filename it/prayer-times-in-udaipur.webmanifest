@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Udaipur",
   "short_name": "Orari di preghiera a Udaipur",
   "description": "Orari di preghiera di oggi a Udaipur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Udaipur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-udaipur.html",
+  "id": "/it/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

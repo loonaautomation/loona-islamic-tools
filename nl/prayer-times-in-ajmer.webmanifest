@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ajmer",
   "short_name": "Gebedstijden in Ajmer",
   "description": "De gebedstijden van vandaag in Ajmer, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Ajmer.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ajmer.html",
+  "id": "/nl/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

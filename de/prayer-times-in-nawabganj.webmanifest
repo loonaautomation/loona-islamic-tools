@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nawābganj",
   "short_name": "Gebetszeiten in Nawābganj",
   "description": "Die heutigen Gebetszeiten in Nawābganj, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Nawābganj.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nawabganj.html",
+  "id": "/de/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

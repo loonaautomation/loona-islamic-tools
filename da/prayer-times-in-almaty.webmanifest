@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Almaty",
   "short_name": "Bønnetider i Almaty",
   "description": "Dagens bønnetider i Almaty, Kasakhstan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Almaty.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-almaty.html",
+  "id": "/da/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pākdasht",
   "short_name": "Bönetider i Pākdasht",
   "description": "Dagens bönetider i Pākdasht, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pākdasht.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pakdasht.html",
+  "id": "/sv/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

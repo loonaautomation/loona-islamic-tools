@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mallawī",
   "short_name": "Waktu Salat di Mallawī",
   "description": "Waktu salat hari ini di Mallawī, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Mallawī.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mallawi.html",
+  "id": "/id/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

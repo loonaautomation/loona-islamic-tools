@@ -2,7 +2,7 @@
   "name": "Loona Jeddah-এ নামাজের সময়",
   "short_name": "Jeddah-এ নামাজের সময়",
   "description": "Jeddah, সৌদি আরব-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। উম্ম আল-কুরা পদ্ধতি, আপনার ডিভাইসে Jeddah-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-jeddah.html",
+  "id": "/bn/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

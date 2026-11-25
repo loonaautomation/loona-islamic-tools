@@ -2,7 +2,7 @@
   "name": "Loona Al Mubarraz的禮拜時間",
   "short_name": "Al Mubarraz的禮拜時間",
   "description": "Al Mubarraz（沙烏地阿拉伯）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Umm al-Qura方法，在您的裝置上為Al Mubarraz實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-al-mubarraz.html",
+  "id": "/zh-hant/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

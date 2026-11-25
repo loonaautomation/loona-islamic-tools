@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Andijon",
   "short_name": "Час намазу в Andijon",
   "description": "Сьогоднішній час намазу в Andijon, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Andijon.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-andijon.html",
+  "id": "/uk/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

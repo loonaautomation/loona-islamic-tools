@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mersin",
   "short_name": "Časy modliteb v Mersin",
   "description": "Dnešní časy modliteb v Mersin, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mersin.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mersin.html",
+  "id": "/cs/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

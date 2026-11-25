@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Saint-Louis",
   "short_name": "Časy modliteb v Saint-Louis",
   "description": "Dnešní časy modliteb v Saint-Louis, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Saint-Louis.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-saint-louis.html",
+  "id": "/cs/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

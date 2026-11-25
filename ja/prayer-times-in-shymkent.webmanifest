@@ -2,7 +2,7 @@
   "name": "Loona Shymkent の礼拝時刻",
   "short_name": "Shymkent の礼拝時刻",
   "description": "Shymkent（カザフスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Shymkent についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-shymkent.html",
+  "id": "/ja/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

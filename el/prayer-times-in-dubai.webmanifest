@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dubai",
   "short_name": "Ώρες Προσευχής στο Dubai",
   "description": "Οι σημερινές ώρες προσευχής στο Dubai, UAE: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογισμένες ζωντανά στη συσκευή σας για το Dubai.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dubai.html",
+  "id": "/el/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

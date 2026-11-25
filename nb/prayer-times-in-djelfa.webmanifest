@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Djelfa",
   "short_name": "Bønnetider i Djelfa",
   "description": "Dagens bønnetider i Djelfa, Algerie: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Djelfa.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-djelfa.html",
+  "id": "/nb/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

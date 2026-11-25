@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Visakhapatnam",
   "short_name": "Waktu Salat di Visakhapatnam",
   "description": "Waktu salat hari ini di Visakhapatnam, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Visakhapatnam.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-visakhapatnam.html",
+  "id": "/id/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

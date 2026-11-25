@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sholapur",
   "short_name": "Gebedstijden in Sholapur",
   "description": "De gebedstijden van vandaag in Sholapur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sholapur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sholapur.html",
+  "id": "/nl/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

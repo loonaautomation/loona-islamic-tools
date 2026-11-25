@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Saint-Louis",
   "short_name": "مواقيت الصلاة في Saint-Louis",
   "description": "مواقيت الصلاة اليوم في Saint-Louis، السنغال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSaint-Louis.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-saint-louis.html",
+  "id": "/ar/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

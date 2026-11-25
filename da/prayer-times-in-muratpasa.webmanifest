@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Muratpaşa",
   "short_name": "Bønnetider i Muratpaşa",
   "description": "Dagens bønnetider i Muratpaşa, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Muratpaşa.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-muratpasa.html",
+  "id": "/da/prayer-times-in-muratpasa.html",
   "start_url": "./prayer-times-in-muratpasa.html",
   "scope": "./prayer-times-in-muratpasa.html",
   "display": "standalone",

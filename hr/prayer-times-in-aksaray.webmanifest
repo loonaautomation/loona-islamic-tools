@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Aksaray",
   "short_name": "Vremena namaza u gradu Aksaray",
   "description": "Današnja vremena namaza u gradu Aksaray, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Aksaray.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-aksaray.html",
+  "id": "/hr/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

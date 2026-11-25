@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Balbala",
   "short_name": "Gebetszeiten in Balbala",
   "description": "Die heutigen Gebetszeiten in Balbala, Dschibuti: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Balbala.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-balbala.html",
+  "id": "/de/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

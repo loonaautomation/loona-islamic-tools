@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kayseri",
   "short_name": "Час намазу в Kayseri",
   "description": "Сьогоднішній час намазу в Kayseri, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kayseri.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kayseri.html",
+  "id": "/uk/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

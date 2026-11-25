@@ -2,7 +2,7 @@
   "name": "Loona Digri の礼拝時刻",
   "short_name": "Digri の礼拝時刻",
   "description": "Digri（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Digri についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-digri.html",
+  "id": "/ja/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

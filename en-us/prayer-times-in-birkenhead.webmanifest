@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Birkenhead Today",
   "short_name": "Prayer Times in Birkenhead Today",
   "description": "Today's prayer times in Birkenhead, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Birkenhead.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-birkenhead.html",
+  "id": "/en-us/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

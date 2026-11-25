@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bogura",
   "short_name": "Bønnetider i Bogura",
   "description": "Dagens bønnetider i Bogura, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bogura.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bogura.html",
+  "id": "/nb/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

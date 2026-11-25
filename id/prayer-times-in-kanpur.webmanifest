@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kanpur",
   "short_name": "Waktu Salat di Kanpur",
   "description": "Waktu salat hari ini di Kanpur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kanpur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kanpur.html",
+  "id": "/id/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

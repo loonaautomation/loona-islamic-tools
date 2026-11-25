@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Fresno",
   "short_name": "Vremena namaza u gradu Fresno",
   "description": "Današnja vremena namaza u gradu Fresno, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Fresno.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-fresno.html",
+  "id": "/hr/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

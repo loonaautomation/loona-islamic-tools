@@ -2,7 +2,7 @@
   "name": "Loona Qarchak imaidői",
   "short_name": "Qarchak imaidői",
   "description": "A mai imaidők: Qarchak, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Qarchak számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-qarchak.html",
+  "id": "/hu/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Teluk Intan",
   "short_name": "Bønnetider i Teluk Intan",
   "description": "Dagens bønnetider i Teluk Intan, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Teluk Intan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-teluk-intan.html",
+  "id": "/da/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

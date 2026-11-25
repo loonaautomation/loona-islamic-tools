@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Palembang",
   "short_name": "Время намаза в городе Palembang",
   "description": "Время намаза на сегодня: Palembang, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Palembang.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-palembang.html",
+  "id": "/ru/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

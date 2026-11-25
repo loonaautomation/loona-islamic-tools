@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Karnaphuli",
   "short_name": "Час намазу в Karnaphuli",
   "description": "Сьогоднішній час намазу в Karnaphuli, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Karnaphuli.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-karnaphuli.html",
+  "id": "/uk/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

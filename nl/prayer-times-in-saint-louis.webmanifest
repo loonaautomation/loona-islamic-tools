@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Saint-Louis",
   "short_name": "Gebedstijden in Saint-Louis",
   "description": "De gebedstijden van vandaag in Saint-Louis, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Saint-Louis.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-saint-louis.html",
+  "id": "/nl/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Khorramabad Today",
   "short_name": "Prayer Times in Khorramabad Today",
   "description": "Today's prayer times in Khorramabad, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Khorramabad.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-khorramabad.html",
+  "id": "/en-us/prayer-times-in-khorramabad.html",
   "start_url": "./prayer-times-in-khorramabad.html",
   "scope": "./prayer-times-in-khorramabad.html",
   "display": "standalone",

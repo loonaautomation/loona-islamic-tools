@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bornova",
   "short_name": "Ore de rugăciune în Bornova",
   "description": "Orele de rugăciune de azi în Bornova, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Bornova.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bornova.html",
+  "id": "/ro/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

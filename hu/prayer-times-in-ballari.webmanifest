@@ -2,7 +2,7 @@
   "name": "Loona Ballari imaidői",
   "short_name": "Ballari imaidői",
   "description": "A mai imaidők: Ballari, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Ballari számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ballari.html",
+  "id": "/hu/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Pietermaritzburg",
   "short_name": "Horarios de oración en Pietermaritzburg",
   "description": "Horarios de oración de hoy en Pietermaritzburg, Sudáfrica: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Pietermaritzburg.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-pietermaritzburg.html",
+  "id": "/es/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

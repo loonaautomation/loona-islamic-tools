@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Arlington",
   "short_name": "Ore de rugăciune în Arlington",
   "description": "Orele de rugăciune de azi în Arlington, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Arlington.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-arlington.html",
+  "id": "/ro/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

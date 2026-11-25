@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Semarang",
   "short_name": "Orari di preghiera a Semarang",
   "description": "Orari di preghiera di oggi a Semarang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Semarang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-semarang.html",
+  "id": "/it/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Najaf",
   "short_name": "Waktu Salat di Najaf",
   "description": "Waktu salat hari ini di Najaf, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Najaf.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-najaf.html",
+  "id": "/id/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

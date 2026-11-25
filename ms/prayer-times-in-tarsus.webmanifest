@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tarsus",
   "short_name": "Waktu Solat di Tarsus",
   "description": "Waktu solat hari ini di Tarsus, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Tarsus.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tarsus.html",
+  "id": "/ms/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Vancouver",
   "short_name": "Ώρες Προσευχής στο Vancouver",
   "description": "Οι σημερινές ώρες προσευχής στο Vancouver, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Vancouver.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-vancouver.html",
+  "id": "/el/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

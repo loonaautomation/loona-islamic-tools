@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kyzylorda",
   "short_name": "Gebetszeiten in Kyzylorda",
   "description": "Die heutigen Gebetszeiten in Kyzylorda, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kyzylorda.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kyzylorda.html",
+  "id": "/de/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

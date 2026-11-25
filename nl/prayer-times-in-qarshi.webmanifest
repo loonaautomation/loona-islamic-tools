@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Qarshi",
   "short_name": "Gebedstijden in Qarshi",
   "description": "De gebedstijden van vandaag in Qarshi, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Qarshi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-qarshi.html",
+  "id": "/nl/prayer-times-in-qarshi.html",
   "start_url": "./prayer-times-in-qarshi.html",
   "scope": "./prayer-times-in-qarshi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kom Ombo",
   "short_name": "Ώρες Προσευχής στο Kom Ombo",
   "description": "Οι σημερινές ώρες προσευχής στο Kom Ombo, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Kom Ombo.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kom-ombo.html",
+  "id": "/el/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Gatineau",
   "short_name": "Časy modlitieb v Gatineau",
   "description": "Dnešné časy modlitieb v Gatineau, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Gatineau.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-gatineau.html",
+  "id": "/sk/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

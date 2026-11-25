@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rustenburg",
   "short_name": "Rukousajat: Rustenburg",
   "description": "Tämän päivän rukousajat paikassa Rustenburg, Etelä-Afrikka: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rustenburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rustenburg.html",
+  "id": "/fi/prayer-times-in-rustenburg.html",
   "start_url": "./prayer-times-in-rustenburg.html",
   "scope": "./prayer-times-in-rustenburg.html",
   "display": "standalone",

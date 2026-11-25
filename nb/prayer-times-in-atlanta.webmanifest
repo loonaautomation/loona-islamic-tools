@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Atlanta",
   "short_name": "Bønnetider i Atlanta",
   "description": "Dagens bønnetider i Atlanta, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Atlanta.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-atlanta.html",
+  "id": "/nb/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

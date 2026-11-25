@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sari",
   "short_name": "Prayer Times in Sari",
   "description": "Today's prayer times in Sari, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sari.",
-  "id": "/loona-islamic-tools/prayer-times-in-sari.html",
+  "id": "/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

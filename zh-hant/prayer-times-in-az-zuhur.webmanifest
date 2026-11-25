@@ -2,7 +2,7 @@
   "name": "Loona Az-Zuhūr的禮拜時間",
   "short_name": "Az-Zuhūr的禮拜時間",
   "description": "Az-Zuhūr（埃及）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。埃及測量總署方法，在您的裝置上為Az-Zuhūr實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-az-zuhur.html",
+  "id": "/zh-hant/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Oran",
   "short_name": "Czasy modlitw w miejscowości Oran",
   "description": "Dzisiejsze czasy modlitw w miejscowości Oran, kraj Algieria: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Oran.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-oran.html",
+  "id": "/pl/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

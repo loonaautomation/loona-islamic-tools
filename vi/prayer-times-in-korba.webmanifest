@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Korba",
   "short_name": "Giờ cầu nguyện tại Korba",
   "description": "Giờ cầu nguyện hôm nay tại Korba, Ấn Độ: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Korba.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-korba.html",
+  "id": "/vi/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

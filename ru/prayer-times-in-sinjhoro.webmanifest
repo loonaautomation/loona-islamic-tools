@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sinjhoro",
   "short_name": "Время намаза в городе Sinjhoro",
   "description": "Время намаза на сегодня: Sinjhoro, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Sinjhoro.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sinjhoro.html",
+  "id": "/ru/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Udaipur",
   "short_name": "Gebetszeiten in Udaipur",
   "description": "Die heutigen Gebetszeiten in Udaipur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Udaipur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-udaipur.html",
+  "id": "/de/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

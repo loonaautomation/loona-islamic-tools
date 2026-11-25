@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе East London",
   "short_name": "Время намаза в городе East London",
   "description": "Время намаза на сегодня: East London, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города East London.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-east-london.html",
+  "id": "/ru/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

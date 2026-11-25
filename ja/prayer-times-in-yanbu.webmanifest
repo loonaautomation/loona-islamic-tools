@@ -2,7 +2,7 @@
   "name": "Loona Yanbu の礼拝時刻",
   "short_name": "Yanbu の礼拝時刻",
   "description": "Yanbu、サウジアラビア の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Yanbu についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-yanbu.html",
+  "id": "/ja/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

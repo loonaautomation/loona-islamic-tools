@@ -2,7 +2,7 @@
   "name": "Loona Abadan Namaz Vakitleri",
   "short_name": "Abadan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Abadan, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Abadan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-abadan.html",
+  "id": "/tr/prayer-times-in-abadan.html",
   "start_url": "./prayer-times-in-abadan.html",
   "scope": "./prayer-times-in-abadan.html",
   "display": "standalone",

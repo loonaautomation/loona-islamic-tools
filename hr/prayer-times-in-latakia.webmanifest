@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Latakia",
   "short_name": "Vremena namaza u gradu Latakia",
   "description": "Današnja vremena namaza u gradu Latakia, Sirija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Latakia.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-latakia.html",
+  "id": "/hr/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

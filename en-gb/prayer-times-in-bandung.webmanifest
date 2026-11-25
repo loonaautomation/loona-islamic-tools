@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bandung Today",
   "short_name": "Prayer Times in Bandung Today",
   "description": "Today's prayer times in Bandung, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bandung.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-bandung.html",
+  "id": "/en-gb/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

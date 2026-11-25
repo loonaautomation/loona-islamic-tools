@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cairo",
   "short_name": "مواقيت الصلاة في Cairo",
   "description": "مواقيت الصلاة اليوم في Cairo، مصر: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـCairo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cairo.html",
+  "id": "/ar/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

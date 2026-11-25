@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Shibganj Today",
   "short_name": "Prayer Times in Shibganj Today",
   "description": "Today's prayer times in Shibganj, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Shibganj.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-shibganj.html",
+  "id": "/en-us/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

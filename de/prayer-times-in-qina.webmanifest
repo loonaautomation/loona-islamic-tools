@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qina",
   "short_name": "Gebetszeiten in Qina",
   "description": "Die heutigen Gebetszeiten in Qina, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Qina.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qina.html",
+  "id": "/de/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Copenhagen",
   "short_name": "Waktu Solat di Copenhagen",
   "description": "Waktu solat hari ini di Copenhagen, Denmark: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Copenhagen.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-copenhagen.html",
+  "id": "/ms/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

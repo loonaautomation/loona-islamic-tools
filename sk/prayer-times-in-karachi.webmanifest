@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Karachi",
   "short_name": "Časy modlitieb v Karachi",
   "description": "Dnešné časy modlitieb v Karachi, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Karachi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-karachi.html",
+  "id": "/sk/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

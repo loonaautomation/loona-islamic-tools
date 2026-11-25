@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Paris",
   "short_name": "Časy modlitieb v Paris",
   "description": "Dnešné časy modlitieb v Paris, Francúzsko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Paris.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-paris.html",
+  "id": "/sk/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Portland の礼拝時刻",
   "short_name": "Portland の礼拝時刻",
   "description": "Portland（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Portland についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-portland.html",
+  "id": "/ja/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

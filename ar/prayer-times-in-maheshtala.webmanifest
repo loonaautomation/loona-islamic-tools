@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Maheshtala",
   "short_name": "مواقيت الصلاة في Maheshtala",
   "description": "مواقيت الصلاة اليوم في Maheshtala، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMaheshtala.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-maheshtala.html",
+  "id": "/ar/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Mesa",
   "short_name": "Časy modlitieb v Mesa",
   "description": "Dnešné časy modlitieb v Mesa, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Mesa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-mesa.html",
+  "id": "/sk/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

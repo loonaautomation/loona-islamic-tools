@@ -2,7 +2,7 @@
   "name": "Loona San Jose Namaz Vakitleri",
   "short_name": "San Jose Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — San Jose, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, San Jose için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-san-jose.html",
+  "id": "/tr/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

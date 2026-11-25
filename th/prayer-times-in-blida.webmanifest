@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Blida",
   "short_name": "เวลาละหมาดใน Blida",
   "description": "เวลาละหมาดวันนี้ใน Blida, Algeria: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Blida",
-  "id": "/loona-islamic-tools/th/prayer-times-in-blida.html",
+  "id": "/th/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

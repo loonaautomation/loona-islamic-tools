@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Irbid",
   "short_name": "Horários de Oração em Irbid",
   "description": "Horários de oração de hoje em Irbid, Jordânia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Irbid.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-irbid.html",
+  "id": "/pt/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

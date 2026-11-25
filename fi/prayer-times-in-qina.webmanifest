@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Qina",
   "short_name": "Rukousajat: Qina",
   "description": "Tämän päivän rukousajat paikassa Qina, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Qina.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-qina.html",
+  "id": "/fi/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

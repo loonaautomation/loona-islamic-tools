@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Erbil",
   "short_name": "Bønnetider i Erbil",
   "description": "Dagens bønnetider i Erbil, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Erbil.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-erbil.html",
+  "id": "/nb/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

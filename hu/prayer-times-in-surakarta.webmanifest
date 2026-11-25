@@ -2,7 +2,7 @@
   "name": "Loona Surakarta imaidői",
   "short_name": "Surakarta imaidői",
   "description": "A mai imaidők: Surakarta, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Surakarta számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-surakarta.html",
+  "id": "/hu/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

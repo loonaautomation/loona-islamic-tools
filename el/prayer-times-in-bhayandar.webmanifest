@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bhayandar",
   "short_name": "Ώρες Προσευχής στο Bhayandar",
   "description": "Οι σημερινές ώρες προσευχής στο Bhayandar, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Bhayandar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bhayandar.html",
+  "id": "/el/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

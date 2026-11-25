@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Toronto",
   "short_name": "Prayer Times in Toronto",
   "description": "Today's prayer times in Toronto, Canada: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Toronto.",
-  "id": "/loona-islamic-tools/prayer-times-in-toronto.html",
+  "id": "/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

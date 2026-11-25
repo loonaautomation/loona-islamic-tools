@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Misratah",
   "short_name": "Gebetszeiten in Misratah",
   "description": "Die heutigen Gebetszeiten in Misratah, Libyen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Misratah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-misratah.html",
+  "id": "/de/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

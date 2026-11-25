@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Diyarbakır",
   "short_name": "זמני תפילה בעיר Diyarbakır",
   "description": "זמני התפילה של היום בעיר Diyarbakır, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Diyarbakır.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-diyarbakir.html",
+  "id": "/he/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

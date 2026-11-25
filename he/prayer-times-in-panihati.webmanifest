@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pānihāti",
   "short_name": "זמני תפילה בעיר Pānihāti",
   "description": "זמני התפילה של היום בעיר Pānihāti, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Pānihāti.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-panihati.html",
+  "id": "/he/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

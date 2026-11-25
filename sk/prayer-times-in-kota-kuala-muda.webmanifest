@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kota Kuala Muda",
   "short_name": "Časy modlitieb v Kota Kuala Muda",
   "description": "Dnešné časy modlitieb v Kota Kuala Muda, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kota-kuala-muda.html",
+  "id": "/sk/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

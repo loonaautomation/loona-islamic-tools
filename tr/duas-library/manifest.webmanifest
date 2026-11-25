@@ -2,7 +2,7 @@
   "name": "Loona Dualar Kütüphanesi",
   "short_name": "Dualar Kütüphanesi",
   "description": "Her an için sahih dualardan oluşan bir kütüphane — sabah, yemek, yolculuk, ev, kaygı, bağışlanma — her biri Arapça, transliterasyon, çeviri ve kaynak ile.",
-  "id": "/loona-islamic-tools/tr/duas-library/",
+  "id": "/tr/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

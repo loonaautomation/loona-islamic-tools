@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Riverside",
   "short_name": "เวลาละหมาดใน Riverside",
   "description": "เวลาละหมาดวันนี้ใน Riverside, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Riverside",
-  "id": "/loona-islamic-tools/th/prayer-times-in-riverside.html",
+  "id": "/th/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

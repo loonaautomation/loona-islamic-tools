@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Chattogram",
   "short_name": "Rukousajat: Chattogram",
   "description": "Tämän päivän rukousajat paikassa Chattogram, Bangladesh: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Chattogram.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-chattogram.html",
+  "id": "/fi/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

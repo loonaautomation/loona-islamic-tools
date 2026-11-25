@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kuantan",
   "short_name": "เวลาละหมาดใน Kuantan",
   "description": "เวลาละหมาดวันนี้ใน Kuantan, Malaysia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kuantan",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kuantan.html",
+  "id": "/th/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

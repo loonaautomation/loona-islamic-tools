@@ -2,7 +2,7 @@
   "name": "Loona Khulna の礼拝時刻",
   "short_name": "Khulna の礼拝時刻",
   "description": "Khulna（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Khulna についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-khulna.html",
+  "id": "/ja/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

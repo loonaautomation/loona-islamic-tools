@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Niamey",
   "short_name": "זמני תפילה בעיר Niamey",
   "description": "זמני התפילה של היום בעיר Niamey, ניז'ר: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Niamey.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-niamey.html",
+  "id": "/he/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

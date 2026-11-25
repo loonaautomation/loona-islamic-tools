@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Liverpool",
   "short_name": "Vremena namaza u gradu Liverpool",
   "description": "Današnja vremena namaza u gradu Liverpool, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Liverpool.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-liverpool.html",
+  "id": "/hr/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

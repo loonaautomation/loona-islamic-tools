@@ -2,7 +2,7 @@
   "name": "Loona Tabella di Ramadan",
   "short_name": "Tabella di Ramadan",
   "description": "Tabella completa di Ramadan per qualsiasi città e anno dell'egira: orari di fine Sehri e Iftar per ogni giorno di Ramadan con date gregoriane e durata del digiuno. Gratuita, stampabile.",
-  "id": "/loona-islamic-tools/it/ramadan-timetable/",
+  "id": "/it/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

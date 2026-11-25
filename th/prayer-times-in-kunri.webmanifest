@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kunri",
   "short_name": "เวลาละหมาดใน Kunri",
   "description": "เวลาละหมาดวันนี้ใน Kunri, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kunri",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kunri.html",
+  "id": "/th/prayer-times-in-kunri.html",
   "start_url": "./prayer-times-in-kunri.html",
   "scope": "./prayer-times-in-kunri.html",
   "display": "standalone",

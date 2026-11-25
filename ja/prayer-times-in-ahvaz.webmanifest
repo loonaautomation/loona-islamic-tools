@@ -2,7 +2,7 @@
   "name": "Loona Ahvaz の礼拝時刻",
   "short_name": "Ahvaz の礼拝時刻",
   "description": "Ahvaz（イラン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Ahvaz についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ahvaz.html",
+  "id": "/ja/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

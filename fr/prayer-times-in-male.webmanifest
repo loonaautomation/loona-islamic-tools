@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Male",
   "short_name": "Heures de prière à Male",
   "description": "Les heures de prière d’aujourd’hui à Male, Maldives : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Male.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-male.html",
+  "id": "/fr/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

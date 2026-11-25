@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Brahmapur",
   "short_name": "Heures de prière à Brahmapur",
   "description": "Les heures de prière d’aujourd’hui à Brahmapur, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Brahmapur.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-brahmapur.html",
+  "id": "/fr/prayer-times-in-brahmapur.html",
   "start_url": "./prayer-times-in-brahmapur.html",
   "scope": "./prayer-times-in-brahmapur.html",
   "display": "standalone",

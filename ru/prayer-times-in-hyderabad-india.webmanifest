@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Hyderabad (Индия)",
   "short_name": "Время намаза в городе Hyderabad (Индия)",
   "description": "Время намаза на сегодня: Hyderabad, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Hyderabad.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-hyderabad-india.html",
+  "id": "/ru/prayer-times-in-hyderabad-india.html",
   "start_url": "./prayer-times-in-hyderabad-india.html",
   "scope": "./prayer-times-in-hyderabad-india.html",
   "display": "standalone",

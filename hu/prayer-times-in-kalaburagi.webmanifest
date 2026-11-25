@@ -2,7 +2,7 @@
   "name": "Loona Kalaburagi imaidői",
   "short_name": "Kalaburagi imaidői",
   "description": "A mai imaidők: Kalaburagi, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kalaburagi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kalaburagi.html",
+  "id": "/hu/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

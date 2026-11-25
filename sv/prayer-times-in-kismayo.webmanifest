@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kismayo",
   "short_name": "Bönetider i Kismayo",
   "description": "Dagens bönetider i Kismayo, Somalia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kismayo.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kismayo.html",
+  "id": "/sv/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

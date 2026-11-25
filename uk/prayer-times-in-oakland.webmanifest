@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Oakland",
   "short_name": "Час намазу в Oakland",
   "description": "Сьогоднішній час намазу в Oakland, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Oakland.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-oakland.html",
+  "id": "/uk/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

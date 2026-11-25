@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Stockton Today",
   "short_name": "Prayer Times in Stockton Today",
   "description": "Today's prayer times in Stockton, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Stockton.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-stockton.html",
+  "id": "/en-us/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

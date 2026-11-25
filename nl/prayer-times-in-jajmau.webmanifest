@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jājmau",
   "short_name": "Gebedstijden in Jājmau",
   "description": "De gebedstijden van vandaag in Jājmau, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jājmau.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jajmau.html",
+  "id": "/nl/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ashgabat",
   "short_name": "Waktu Salat di Ashgabat",
   "description": "Waktu salat hari ini di Ashgabat, Turkmenistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ashgabat.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ashgabat.html",
+  "id": "/id/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

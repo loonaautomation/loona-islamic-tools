@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nzérékoré",
   "short_name": "Prayer Times in Nzérékoré",
   "description": "Today's prayer times in Nzérékoré, Guinea: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nzérékoré.",
-  "id": "/loona-islamic-tools/prayer-times-in-nzerekore.html",
+  "id": "/prayer-times-in-nzerekore.html",
   "start_url": "./prayer-times-in-nzerekore.html",
   "scope": "./prayer-times-in-nzerekore.html",
   "display": "standalone",

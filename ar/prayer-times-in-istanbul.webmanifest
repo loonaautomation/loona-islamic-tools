@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Istanbul",
   "short_name": "مواقيت الصلاة في Istanbul",
   "description": "مواقيت الصلاة اليوم في Istanbul، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـIstanbul.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-istanbul.html",
+  "id": "/ar/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

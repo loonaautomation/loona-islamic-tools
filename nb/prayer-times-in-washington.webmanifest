@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Washington",
   "short_name": "Bønnetider i Washington",
   "description": "Dagens bønnetider i Washington, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Washington.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-washington.html",
+  "id": "/nb/prayer-times-in-washington.html",
   "start_url": "./prayer-times-in-washington.html",
   "scope": "./prayer-times-in-washington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Paya Terubong",
   "short_name": "Horarios de oración en Paya Terubong",
   "description": "Horarios de oración de hoy en Paya Terubong, Malasia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Paya Terubong.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-paya-terubong.html",
+  "id": "/es/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

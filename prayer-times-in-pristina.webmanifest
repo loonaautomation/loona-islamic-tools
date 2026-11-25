@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pristina",
   "short_name": "Prayer Times in Pristina",
   "description": "Today's prayer times in Pristina, Kosovo: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pristina.",
-  "id": "/loona-islamic-tools/prayer-times-in-pristina.html",
+  "id": "/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Siliguri",
   "short_name": "Časy modlitieb v Siliguri",
   "description": "Dnešné časy modlitieb v Siliguri, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Siliguri.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-siliguri.html",
+  "id": "/sk/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

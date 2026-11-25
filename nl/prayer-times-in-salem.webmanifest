@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Salem",
   "short_name": "Gebedstijden in Salem",
   "description": "De gebedstijden van vandaag in Salem, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Salem.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-salem.html",
+  "id": "/nl/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Blida",
   "short_name": "Bønnetider i Blida",
   "description": "Dagens bønnetider i Blida, Algerie: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Blida.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-blida.html",
+  "id": "/nb/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

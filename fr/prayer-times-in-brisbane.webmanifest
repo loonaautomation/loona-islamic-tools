@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Brisbane",
   "short_name": "Heures de prière à Brisbane",
   "description": "Les heures de prière d’aujourd’hui à Brisbane, Australie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Brisbane.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-brisbane.html",
+  "id": "/fr/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

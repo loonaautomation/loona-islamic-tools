@@ -2,7 +2,7 @@
   "name": "Loona Metody obliczania czasu modlitwy",
   "short_name": "Metody obliczania czasu modlitwy",
   "description": "Przewodnik po obliczaniu czasów modlitw napisany prostym językiem: kąty zmierzchu dla Fadżru i Iszy, pięć głównych metod, hanaficki i szaficki Asr oraz zasady dla wysokich szerokości geograficznych.",
-  "id": "/loona-islamic-tools/pl/prayer-time-settings-guide/",
+  "id": "/pl/prayer-time-settings-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jaipur",
   "short_name": "Время намаза в городе Jaipur",
   "description": "Время намаза на сегодня: Jaipur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jaipur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jaipur.html",
+  "id": "/ru/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

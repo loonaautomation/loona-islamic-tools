@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pekalongan",
   "short_name": "Bønnetider i Pekalongan",
   "description": "Dagens bønnetider i Pekalongan, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Pekalongan.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pekalongan.html",
+  "id": "/nb/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

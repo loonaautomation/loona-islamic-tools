@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Purwokerto",
   "short_name": "Gebetszeiten in Purwokerto",
   "description": "Die heutigen Gebetszeiten in Purwokerto, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Purwokerto.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-purwokerto.html",
+  "id": "/de/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

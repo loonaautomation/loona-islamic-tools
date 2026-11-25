@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dammam",
   "short_name": "זמני תפילה בעיר Dammam",
   "description": "זמני התפילה של היום בעיר Dammam, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Dammam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dammam.html",
+  "id": "/he/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في مدينة الكويت",
   "short_name": "مواقيت الصلاة في مدينة الكويت",
   "description": "مواقيت الصلاة اليوم في مدينة الكويت، الكويت: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لمدينة الكويت.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kuwait-city.html",
+  "id": "/ar/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

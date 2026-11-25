@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ziguinchor",
   "short_name": "Waktu Salat di Ziguinchor",
   "description": "Waktu salat hari ini di Ziguinchor, Senegal: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ziguinchor.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ziguinchor.html",
+  "id": "/id/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

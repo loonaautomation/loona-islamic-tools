@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Burewala",
   "short_name": "זמני תפילה בעיר Burewala",
   "description": "זמני התפילה של היום בעיר Burewala, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Burewala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-burewala.html",
+  "id": "/he/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

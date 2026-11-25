@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Raipur",
   "short_name": "זמני תפילה בעיר Raipur",
   "description": "זמני התפילה של היום בעיר Raipur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Raipur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-raipur.html",
+  "id": "/he/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

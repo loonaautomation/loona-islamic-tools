@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Nukus",
   "short_name": "เวลาละหมาดใน Nukus",
   "description": "เวลาละหมาดวันนี้ใน Nukus, Uzbekistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Nukus",
-  "id": "/loona-islamic-tools/th/prayer-times-in-nukus.html",
+  "id": "/th/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

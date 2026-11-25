@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Oakland",
   "short_name": "Waktu Salat di Oakland",
   "description": "Waktu salat hari ini di Oakland, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Oakland.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-oakland.html",
+  "id": "/id/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

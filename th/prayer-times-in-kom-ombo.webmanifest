@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kom Ombo",
   "short_name": "เวลาละหมาดใน Kom Ombo",
   "description": "เวลาละหมาดวันนี้ใน Kom Ombo, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kom Ombo",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kom-ombo.html",
+  "id": "/th/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

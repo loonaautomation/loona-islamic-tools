@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Gorontalo",
   "short_name": "Ώρες Προσευχής στο Gorontalo",
   "description": "Οι σημερινές ώρες προσευχής στο Gorontalo, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Gorontalo.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-gorontalo.html",
+  "id": "/el/prayer-times-in-gorontalo.html",
   "start_url": "./prayer-times-in-gorontalo.html",
   "scope": "./prayer-times-in-gorontalo.html",
   "display": "standalone",

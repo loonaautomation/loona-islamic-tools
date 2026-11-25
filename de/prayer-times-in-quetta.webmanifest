@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Quetta",
   "short_name": "Gebetszeiten in Quetta",
   "description": "Die heutigen Gebetszeiten in Quetta, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Quetta.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-quetta.html",
+  "id": "/de/prayer-times-in-quetta.html",
   "start_url": "./prayer-times-in-quetta.html",
   "scope": "./prayer-times-in-quetta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Natore",
   "short_name": "Czasy modlitw w miejscowości Natore",
   "description": "Dzisiejsze czasy modlitw w miejscowości Natore, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Natore.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-natore.html",
+  "id": "/pl/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

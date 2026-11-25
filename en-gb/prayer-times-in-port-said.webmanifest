@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Port Said Today",
   "short_name": "Prayer Times in Port Said Today",
   "description": "Today's prayer times in Port Said, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Port Said.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-port-said.html",
+  "id": "/en-gb/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

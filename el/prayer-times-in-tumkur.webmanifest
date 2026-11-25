@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tumkūr",
   "short_name": "Ώρες Προσευχής στο Tumkūr",
   "description": "Οι σημερινές ώρες προσευχής στο Tumkūr, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Tumkūr.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tumkur.html",
+  "id": "/el/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

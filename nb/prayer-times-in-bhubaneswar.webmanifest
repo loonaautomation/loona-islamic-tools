@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bhubaneswar",
   "short_name": "Bønnetider i Bhubaneswar",
   "description": "Dagens bønnetider i Bhubaneswar, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bhubaneswar.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bhubaneswar.html",
+  "id": "/nb/prayer-times-in-bhubaneswar.html",
   "start_url": "./prayer-times-in-bhubaneswar.html",
   "scope": "./prayer-times-in-bhubaneswar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Khorramabad",
   "short_name": "Ώρες Προσευχής στο Khorramabad",
   "description": "Οι σημερινές ώρες προσευχής στο Khorramabad, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Khorramabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-khorramabad.html",
+  "id": "/el/prayer-times-in-khorramabad.html",
   "start_url": "./prayer-times-in-khorramabad.html",
   "scope": "./prayer-times-in-khorramabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Deir ez-Zor",
   "short_name": "זמני תפילה בעיר Deir ez-Zor",
   "description": "זמני התפילה של היום בעיר Deir ez-Zor, סוריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Deir ez-Zor.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-deir-ez-zor.html",
+  "id": "/he/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

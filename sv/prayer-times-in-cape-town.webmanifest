@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Cape Town",
   "short_name": "Bönetider i Cape Town",
   "description": "Dagens bönetider i Cape Town, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Cape Town.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cape-town.html",
+  "id": "/sv/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

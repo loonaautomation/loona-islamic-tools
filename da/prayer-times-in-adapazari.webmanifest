@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Adapazarı",
   "short_name": "Bønnetider i Adapazarı",
   "description": "Dagens bønnetider i Adapazarı, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Adapazarı.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-adapazari.html",
+  "id": "/da/prayer-times-in-adapazari.html",
   "start_url": "./prayer-times-in-adapazari.html",
   "scope": "./prayer-times-in-adapazari.html",
   "display": "standalone",

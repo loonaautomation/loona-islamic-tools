@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gauriganj",
   "short_name": "Час намазу в Gauriganj",
   "description": "Сьогоднішній час намазу в Gauriganj, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Gauriganj.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gauriganj.html",
+  "id": "/uk/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bremen",
   "short_name": "Heures de prière à Bremen",
   "description": "Les heures de prière d’aujourd’hui à Bremen, Allemagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Bremen.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bremen.html",
+  "id": "/fr/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

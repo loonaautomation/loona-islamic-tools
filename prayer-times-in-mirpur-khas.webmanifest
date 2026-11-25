@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mirpur Khas",
   "short_name": "Prayer Times in Mirpur Khas",
   "description": "Today's prayer times in Mirpur Khas, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Mirpur Khas.",
-  "id": "/loona-islamic-tools/prayer-times-in-mirpur-khas.html",
+  "id": "/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

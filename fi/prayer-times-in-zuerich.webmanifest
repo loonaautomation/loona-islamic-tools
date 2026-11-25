@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Zürich",
   "short_name": "Rukousajat: Zürich",
   "description": "Tämän päivän rukousajat paikassa Zürich, Sveitsi: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Zürich.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-zuerich.html",
+  "id": "/fi/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

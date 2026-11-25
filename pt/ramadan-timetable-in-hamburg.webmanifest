@@ -2,7 +2,7 @@
   "name": "Loona Tabela do Ramadã em Hamburg 2027 (1448)",
   "short_name": "Tabela do Ramadã em Hamburg 2027 (1448)",
   "description": "Tabela do Ramadã 2027 para Hamburg, Alemanha: horários do fim do Sehri (Fajr) e do Iftar (Maghrib) para cada dia do Ramadã 1448. Esperado de 8 de fevereiro a 8 de março de 2027, sujeito a observação da lua.",
-  "id": "/loona-islamic-tools/pt/ramadan-timetable-in-hamburg.html",
+  "id": "/pt/ramadan-timetable-in-hamburg.html",
   "start_url": "./ramadan-timetable-in-hamburg.html",
   "scope": "./ramadan-timetable-in-hamburg.html",
   "display": "standalone",

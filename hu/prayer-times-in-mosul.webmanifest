@@ -2,7 +2,7 @@
   "name": "Loona Mosul imaidői",
   "short_name": "Mosul imaidői",
   "description": "A mai imaidők: Mosul, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mosul számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mosul.html",
+  "id": "/hu/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

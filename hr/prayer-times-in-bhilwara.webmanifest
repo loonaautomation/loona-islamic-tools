@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bhilwara",
   "short_name": "Vremena namaza u gradu Bhilwara",
   "description": "Današnja vremena namaza u gradu Bhilwara, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bhilwara.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bhilwara.html",
+  "id": "/hr/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

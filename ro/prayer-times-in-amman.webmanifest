@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Amman",
   "short_name": "Ore de rugăciune în Amman",
   "description": "Orele de rugăciune de azi în Amman, Iordania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Amman.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-amman.html",
+  "id": "/ro/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

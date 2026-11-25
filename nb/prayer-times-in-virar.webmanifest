@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Virār",
   "short_name": "Bønnetider i Virār",
   "description": "Dagens bønnetider i Virār, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Virār.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-virar.html",
+  "id": "/nb/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

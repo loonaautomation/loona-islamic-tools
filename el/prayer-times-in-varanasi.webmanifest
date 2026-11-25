@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Varanasi",
   "short_name": "Ώρες Προσευχής στο Varanasi",
   "description": "Οι σημερινές ώρες προσευχής στο Varanasi, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Varanasi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-varanasi.html",
+  "id": "/el/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

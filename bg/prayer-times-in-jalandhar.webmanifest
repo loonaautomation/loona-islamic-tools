@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jalandhar",
   "short_name": "Часове за намаз в Jalandhar",
   "description": "Днешните часове за намаз в Jalandhar, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Jalandhar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jalandhar.html",
+  "id": "/bg/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

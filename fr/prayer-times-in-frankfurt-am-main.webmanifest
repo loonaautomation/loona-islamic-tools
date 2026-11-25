@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Frankfurt am Main",
   "short_name": "Heures de prière à Frankfurt am Main",
   "description": "Les heures de prière d’aujourd’hui à Frankfurt am Main, Allemagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Frankfurt am Main.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-frankfurt-am-main.html",
+  "id": "/fr/prayer-times-in-frankfurt-am-main.html",
   "start_url": "./prayer-times-in-frankfurt-am-main.html",
   "scope": "./prayer-times-in-frankfurt-am-main.html",
   "display": "standalone",

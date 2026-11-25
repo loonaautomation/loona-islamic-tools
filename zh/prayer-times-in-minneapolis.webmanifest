@@ -2,7 +2,7 @@
   "name": "Loona Minneapolis的礼拜时间",
   "short_name": "Minneapolis的礼拜时间",
   "description": "Minneapolis（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Minneapolis实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-minneapolis.html",
+  "id": "/zh/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

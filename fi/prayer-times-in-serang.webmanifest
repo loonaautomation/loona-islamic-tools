@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Serang",
   "short_name": "Rukousajat: Serang",
   "description": "Tämän päivän rukousajat paikassa Serang, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Serang.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-serang.html",
+  "id": "/fi/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

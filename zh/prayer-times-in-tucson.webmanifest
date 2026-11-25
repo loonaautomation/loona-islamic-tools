@@ -2,7 +2,7 @@
   "name": "Loona Tucson的礼拜时间",
   "short_name": "Tucson的礼拜时间",
   "description": "Tucson（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Tucson实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-tucson.html",
+  "id": "/zh/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

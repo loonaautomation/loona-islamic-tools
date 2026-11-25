@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Melbourne Today",
   "short_name": "Prayer Times in Melbourne Today",
   "description": "Today's prayer times in Melbourne, Australia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Melbourne.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-melbourne.html",
+  "id": "/en-us/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

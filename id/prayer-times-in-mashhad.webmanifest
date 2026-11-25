@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mashhad",
   "short_name": "Waktu Salat di Mashhad",
   "description": "Waktu salat hari ini di Mashhad, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Mashhad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mashhad.html",
+  "id": "/id/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

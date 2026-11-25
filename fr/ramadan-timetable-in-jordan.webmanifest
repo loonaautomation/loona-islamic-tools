@@ -2,7 +2,7 @@
   "name": "Loona Calendrier du Ramadan : Jordanie 2027 (1448)",
   "short_name": "Calendrier du Ramadan : Jordanie 2027 (1448)",
   "description": "Calendrier du Ramadan 2027 pour le pays : Jordanie : heures de fin de Sehri (Fajr) et d’Iftar (Maghrib) pour chaque jour du Ramadan 1448, calculées pour Amman. Prévu du 8 février au 8 mars 2027, sous réserve de l’observation de la lune.",
-  "id": "/loona-islamic-tools/fr/ramadan-timetable-in-jordan.html",
+  "id": "/fr/ramadan-timetable-in-jordan.html",
   "start_url": "./ramadan-timetable-in-jordan.html",
   "scope": "./ramadan-timetable-in-jordan.html",
   "display": "standalone",

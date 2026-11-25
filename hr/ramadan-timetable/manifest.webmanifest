@@ -2,7 +2,7 @@
   "name": "Loona Raspored za ramazan",
   "short_name": "Raspored za ramazan",
   "description": "Potpuni raspored za ramazan za bilo koji grad i hidžretsku godinu: vremena završetka sehura i iftara za svaki dan ramazana s gregorijanskim datumima i trajanjem posta. Besplatno, za ispis.",
-  "id": "/loona-islamic-tools/hr/ramadan-timetable/",
+  "id": "/hr/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

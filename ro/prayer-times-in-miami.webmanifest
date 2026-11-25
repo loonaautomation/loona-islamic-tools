@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Miami",
   "short_name": "Ore de rugăciune în Miami",
   "description": "Orele de rugăciune de azi în Miami, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Miami.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-miami.html",
+  "id": "/ro/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

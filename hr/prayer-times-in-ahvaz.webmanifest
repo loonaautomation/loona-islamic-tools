@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ahvaz",
   "short_name": "Vremena namaza u gradu Ahvaz",
   "description": "Današnja vremena namaza u gradu Ahvaz, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Ahvaz.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ahvaz.html",
+  "id": "/hr/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sikasso",
   "short_name": "Czasy modlitw w miejscowości Sikasso",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sikasso, kraj Mali: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Sikasso.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sikasso.html",
+  "id": "/pl/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

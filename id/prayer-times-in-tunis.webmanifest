@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tunis",
   "short_name": "Waktu Salat di Tunis",
   "description": "Waktu salat hari ini di Tunis, Tunisia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tunis.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tunis.html",
+  "id": "/id/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

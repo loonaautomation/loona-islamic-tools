@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Wuppertal",
   "short_name": "Waktu Salat di Wuppertal",
   "description": "Waktu salat hari ini di Wuppertal, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Wuppertal.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-wuppertal.html",
+  "id": "/id/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

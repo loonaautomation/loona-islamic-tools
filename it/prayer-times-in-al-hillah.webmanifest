@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Al Hillah",
   "short_name": "Orari di preghiera a Al Hillah",
   "description": "Orari di preghiera di oggi a Al Hillah, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Al Hillah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-al-hillah.html",
+  "id": "/it/prayer-times-in-al-hillah.html",
   "start_url": "./prayer-times-in-al-hillah.html",
   "scope": "./prayer-times-in-al-hillah.html",
   "display": "standalone",

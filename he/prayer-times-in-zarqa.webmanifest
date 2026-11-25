@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Zarqa",
   "short_name": "זמני תפילה בעיר Zarqa",
   "description": "זמני התפילה של היום בעיר Zarqa, ירדן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Zarqa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-zarqa.html",
+  "id": "/he/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

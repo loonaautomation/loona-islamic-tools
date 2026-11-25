@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nantes",
   "short_name": "זמני תפילה בעיר Nantes",
   "description": "זמני התפילה של היום בעיר Nantes, צרפת: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Nantes.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nantes.html",
+  "id": "/he/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

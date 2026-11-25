@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Graz",
   "short_name": "Час намазу в Graz",
   "description": "Сьогоднішній час намазу в Graz, Австрія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Graz.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-graz.html",
+  "id": "/uk/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

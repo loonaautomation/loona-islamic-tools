@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Makassar",
   "short_name": "Ore de rugăciune în Makassar",
   "description": "Orele de rugăciune de azi în Makassar, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Makassar.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-makassar.html",
+  "id": "/ro/prayer-times-in-makassar.html",
   "start_url": "./prayer-times-in-makassar.html",
   "scope": "./prayer-times-in-makassar.html",
   "display": "standalone",

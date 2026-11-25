@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ramadi",
   "short_name": "זמני תפילה בעיר Ramadi",
   "description": "זמני התפילה של היום בעיר Ramadi, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ramadi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ramadi.html",
+  "id": "/he/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

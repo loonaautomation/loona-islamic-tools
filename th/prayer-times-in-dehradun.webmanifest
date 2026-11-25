@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dehradun",
   "short_name": "เวลาละหมาดใน Dehradun",
   "description": "เวลาละหมาดวันนี้ใน Dehradun, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dehradun",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dehradun.html",
+  "id": "/th/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

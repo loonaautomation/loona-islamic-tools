@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Marka",
   "short_name": "Ore de rugăciune în Marka",
   "description": "Orele de rugăciune de azi în Marka, Somalia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Marka.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-marka.html",
+  "id": "/ro/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

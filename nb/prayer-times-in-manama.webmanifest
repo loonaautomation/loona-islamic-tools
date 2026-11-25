@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Manama",
   "short_name": "Bønnetider i Manama",
   "description": "Dagens bønnetider i Manama, Bahrain: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet direkte på enheten din for Manama.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-manama.html",
+  "id": "/nb/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

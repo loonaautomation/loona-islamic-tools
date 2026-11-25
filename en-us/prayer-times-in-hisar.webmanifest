@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Hisar Today",
   "short_name": "Prayer Times in Hisar Today",
   "description": "Today's prayer times in Hisar, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Hisar.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-hisar.html",
+  "id": "/en-us/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

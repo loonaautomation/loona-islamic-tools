@@ -2,7 +2,7 @@
   "name": "Loona Cairo的禮拜時間",
   "short_name": "Cairo的禮拜時間",
   "description": "Cairo（埃及）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Cairo實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-cairo.html",
+  "id": "/zh-hant/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

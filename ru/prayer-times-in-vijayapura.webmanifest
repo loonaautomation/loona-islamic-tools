@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Vijayapura",
   "short_name": "Время намаза в городе Vijayapura",
   "description": "Время намаза на сегодня: Vijayapura, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Vijayapura.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-vijayapura.html",
+  "id": "/ru/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

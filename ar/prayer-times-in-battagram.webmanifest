@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Battagram",
   "short_name": "مواقيت الصلاة في Battagram",
   "description": "مواقيت الصلاة اليوم في Battagram، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBattagram.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-battagram.html",
+  "id": "/ar/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

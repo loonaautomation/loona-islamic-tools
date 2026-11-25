@@ -2,7 +2,7 @@
   "name": "Loona Rotterdam imaidői",
   "short_name": "Rotterdam imaidői",
   "description": "A mai imaidők: Rotterdam, Hollandia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Rotterdam számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-rotterdam.html",
+  "id": "/hu/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

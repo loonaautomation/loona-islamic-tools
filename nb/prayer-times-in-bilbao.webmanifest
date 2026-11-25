@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bilbao",
   "short_name": "Bønnetider i Bilbao",
   "description": "Dagens bønnetider i Bilbao, Spania: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Bilbao.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bilbao.html",
+  "id": "/nb/prayer-times-in-bilbao.html",
   "start_url": "./prayer-times-in-bilbao.html",
   "scope": "./prayer-times-in-bilbao.html",
   "display": "standalone",

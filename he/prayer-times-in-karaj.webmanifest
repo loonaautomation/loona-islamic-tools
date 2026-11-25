@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Karaj",
   "short_name": "זמני תפילה בעיר Karaj",
   "description": "זמני התפילה של היום בעיר Karaj, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Karaj.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-karaj.html",
+  "id": "/he/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Semey",
   "short_name": "Bönetider i Semey",
   "description": "Dagens bönetider i Semey, Kazakstan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Semey.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-semey.html",
+  "id": "/sv/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gorakhpur",
   "short_name": "مواقيت الصلاة في Gorakhpur",
   "description": "مواقيت الصلاة اليوم في Gorakhpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـGorakhpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gorakhpur.html",
+  "id": "/ar/prayer-times-in-gorakhpur.html",
   "start_url": "./prayer-times-in-gorakhpur.html",
   "scope": "./prayer-times-in-gorakhpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sevilla",
   "short_name": "Gebedstijden in Sevilla",
   "description": "De gebedstijden van vandaag in Sevilla, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sevilla.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sevilla.html",
+  "id": "/nl/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dinajpur Today",
   "short_name": "Prayer Times in Dinajpur Today",
   "description": "Today's prayer times in Dinajpur, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Dinajpur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-dinajpur.html",
+  "id": "/en-us/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

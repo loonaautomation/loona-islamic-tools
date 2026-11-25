@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Québec",
   "short_name": "Giờ cầu nguyện tại Québec",
   "description": "Giờ cầu nguyện hôm nay tại Québec, Canada: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Québec.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-quebec.html",
+  "id": "/vi/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

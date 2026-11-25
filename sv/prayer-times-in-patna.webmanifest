@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Patna",
   "short_name": "Bönetider i Patna",
   "description": "Dagens bönetider i Patna, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Patna.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-patna.html",
+  "id": "/sv/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

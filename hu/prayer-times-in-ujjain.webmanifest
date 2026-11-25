@@ -2,7 +2,7 @@
   "name": "Loona Ujjain imaidői",
   "short_name": "Ujjain imaidői",
   "description": "A mai imaidők: Ujjain, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Ujjain számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ujjain.html",
+  "id": "/hu/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

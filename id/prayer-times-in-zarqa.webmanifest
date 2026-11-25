@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Zarqa",
   "short_name": "Waktu Salat di Zarqa",
   "description": "Waktu salat hari ini di Zarqa, Yordania: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Zarqa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-zarqa.html",
+  "id": "/id/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

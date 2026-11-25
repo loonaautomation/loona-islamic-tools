@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Thrissur",
   "short_name": "Časy modliteb v Thrissur",
   "description": "Dnešní časy modliteb v Thrissur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Thrissur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-thrissur.html",
+  "id": "/cs/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

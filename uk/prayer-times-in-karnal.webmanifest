@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Karnāl",
   "short_name": "Час намазу в Karnāl",
   "description": "Сьогоднішній час намазу в Karnāl, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Karnāl.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-karnal.html",
+  "id": "/uk/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

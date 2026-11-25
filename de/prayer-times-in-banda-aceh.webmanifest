@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Banda Aceh",
   "short_name": "Gebetszeiten in Banda Aceh",
   "description": "Die heutigen Gebetszeiten in Banda Aceh, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Banda Aceh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-banda-aceh.html",
+  "id": "/de/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

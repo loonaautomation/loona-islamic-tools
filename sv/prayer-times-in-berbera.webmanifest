@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Berbera",
   "short_name": "Bönetider i Berbera",
   "description": "Dagens bönetider i Berbera, Somalia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Berbera.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-berbera.html",
+  "id": "/sv/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

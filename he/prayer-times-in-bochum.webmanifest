@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bochum",
   "short_name": "זמני תפילה בעיר Bochum",
   "description": "זמני התפילה של היום בעיר Bochum, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bochum.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bochum.html",
+  "id": "/he/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

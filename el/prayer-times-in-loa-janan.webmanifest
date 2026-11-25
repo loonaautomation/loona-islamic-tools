@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Loa Janan",
   "short_name": "Ώρες Προσευχής στο Loa Janan",
   "description": "Οι σημερινές ώρες προσευχής στο Loa Janan, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Loa Janan.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-loa-janan.html",
+  "id": "/el/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

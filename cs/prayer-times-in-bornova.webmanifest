@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bornova",
   "short_name": "Časy modliteb v Bornova",
   "description": "Dnešní časy modliteb v Bornova, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bornova.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bornova.html",
+  "id": "/cs/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

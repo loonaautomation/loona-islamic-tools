@@ -2,7 +2,7 @@
   "name": "Loona Bielefeld Namaz Vakitleri",
   "short_name": "Bielefeld Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bielefeld, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bielefeld için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bielefeld.html",
+  "id": "/tr/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

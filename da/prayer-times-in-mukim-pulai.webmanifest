@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mukim Pulai",
   "short_name": "Bønnetider i Mukim Pulai",
   "description": "Dagens bønnetider i Mukim Pulai, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Mukim Pulai.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-mukim-pulai.html",
+  "id": "/da/prayer-times-in-mukim-pulai.html",
   "start_url": "./prayer-times-in-mukim-pulai.html",
   "scope": "./prayer-times-in-mukim-pulai.html",
   "display": "standalone",

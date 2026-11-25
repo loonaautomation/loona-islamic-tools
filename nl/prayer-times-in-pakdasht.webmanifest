@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pākdasht",
   "short_name": "Gebedstijden in Pākdasht",
   "description": "De gebedstijden van vandaag in Pākdasht, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pākdasht.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pakdasht.html",
+  "id": "/nl/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

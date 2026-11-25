@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kukatpally Today",
   "short_name": "Prayer Times in Kukatpally Today",
   "description": "Today's prayer times in Kukatpally, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kukatpally.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-kukatpally.html",
+  "id": "/en-us/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

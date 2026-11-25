@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bābol",
   "short_name": "Vremena namaza u gradu Bābol",
   "description": "Današnja vremena namaza u gradu Bābol, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bābol.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-babol.html",
+  "id": "/hr/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Arāk",
   "short_name": "Часове за намаз в Arāk",
   "description": "Днешните часове за намаз в Arāk, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Arāk.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-arak.html",
+  "id": "/bg/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

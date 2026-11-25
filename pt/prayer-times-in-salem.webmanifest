@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Salem",
   "short_name": "Horários de Oração em Salem",
   "description": "Horários de oração de hoje em Salem, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Salem.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-salem.html",
+  "id": "/pt/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

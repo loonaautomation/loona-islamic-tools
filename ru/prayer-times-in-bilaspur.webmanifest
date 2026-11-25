@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bilāspur",
   "short_name": "Время намаза в городе Bilāspur",
   "description": "Время намаза на сегодня: Bilāspur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Bilāspur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bilaspur.html",
+  "id": "/ru/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

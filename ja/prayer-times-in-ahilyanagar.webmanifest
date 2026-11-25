@@ -2,7 +2,7 @@
   "name": "Loona Ahilyanagar の礼拝時刻",
   "short_name": "Ahilyanagar の礼拝時刻",
   "description": "Ahilyanagar（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Ahilyanagar についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ahilyanagar.html",
+  "id": "/ja/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Korba",
   "short_name": "Bønnetider i Korba",
   "description": "Dagens bønnetider i Korba, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Korba.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-korba.html",
+  "id": "/da/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Liverpool imaidői",
   "short_name": "Liverpool imaidői",
   "description": "A mai imaidők: Liverpool, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Liverpool számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-liverpool.html",
+  "id": "/hu/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

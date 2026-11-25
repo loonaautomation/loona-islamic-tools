@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jājmau",
   "short_name": "Bönetider i Jājmau",
   "description": "Dagens bönetider i Jājmau, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Jājmau.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jajmau.html",
+  "id": "/sv/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

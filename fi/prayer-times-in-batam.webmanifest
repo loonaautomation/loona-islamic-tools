@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Batam",
   "short_name": "Rukousajat: Batam",
   "description": "Tämän päivän rukousajat paikassa Batam, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Batam.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-batam.html",
+  "id": "/fi/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

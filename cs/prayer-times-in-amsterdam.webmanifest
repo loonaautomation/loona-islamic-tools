@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Amsterdam",
   "short_name": "Časy modliteb v Amsterdam",
   "description": "Dnešní časy modliteb v Amsterdam, Nizozemsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Amsterdam.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-amsterdam.html",
+  "id": "/cs/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

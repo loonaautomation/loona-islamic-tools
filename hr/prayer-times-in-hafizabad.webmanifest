@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Hafizabad",
   "short_name": "Vremena namaza u gradu Hafizabad",
   "description": "Današnja vremena namaza u gradu Hafizabad, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Hafizabad.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-hafizabad.html",
+  "id": "/hr/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

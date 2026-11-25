@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Cilacap",
   "short_name": "Czasy modlitw w miejscowości Cilacap",
   "description": "Dzisiejsze czasy modlitw w miejscowości Cilacap, kraj Indonezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Cilacap.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-cilacap.html",
+  "id": "/pl/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

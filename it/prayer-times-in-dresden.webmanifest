@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dresden",
   "short_name": "Orari di preghiera a Dresden",
   "description": "Orari di preghiera di oggi a Dresden, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Dresden.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dresden.html",
+  "id": "/it/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

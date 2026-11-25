@@ -2,7 +2,7 @@
   "name": "Loona Qods Namaz Vakitleri",
   "short_name": "Qods Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qods, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Qods için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qods.html",
+  "id": "/tr/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

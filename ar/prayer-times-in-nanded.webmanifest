@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nanded",
   "short_name": "مواقيت الصلاة في Nanded",
   "description": "مواقيت الصلاة اليوم في Nanded، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNanded.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nanded.html",
+  "id": "/ar/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

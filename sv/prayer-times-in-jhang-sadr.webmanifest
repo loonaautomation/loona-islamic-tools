@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jhang Sadr",
   "short_name": "Bönetider i Jhang Sadr",
   "description": "Dagens bönetider i Jhang Sadr, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Jhang Sadr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jhang-sadr.html",
+  "id": "/sv/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

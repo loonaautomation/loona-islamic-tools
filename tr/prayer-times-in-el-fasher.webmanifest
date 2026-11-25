@@ -2,7 +2,7 @@
   "name": "Loona El Fasher Namaz Vakitleri",
   "short_name": "El Fasher Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — El Fasher, Sudan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, El Fasher için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-el-fasher.html",
+  "id": "/tr/prayer-times-in-el-fasher.html",
   "start_url": "./prayer-times-in-el-fasher.html",
   "scope": "./prayer-times-in-el-fasher.html",
   "display": "standalone",

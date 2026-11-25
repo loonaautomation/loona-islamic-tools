@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gaziantep",
   "short_name": "Часове за намаз в Gaziantep",
   "description": "Днешните часове за намаз в Gaziantep, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gaziantep.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gaziantep.html",
+  "id": "/bg/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bochum",
   "short_name": "Bönetider i Bochum",
   "description": "Dagens bönetider i Bochum, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bochum.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bochum.html",
+  "id": "/sv/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

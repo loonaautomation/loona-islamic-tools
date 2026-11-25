@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Irbid",
   "short_name": "مواقيت الصلاة في Irbid",
   "description": "مواقيت الصلاة اليوم في Irbid، الأردن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـIrbid.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-irbid.html",
+  "id": "/ar/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

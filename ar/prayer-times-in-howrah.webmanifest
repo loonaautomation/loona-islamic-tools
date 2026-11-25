@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Howrah",
   "short_name": "مواقيت الصلاة في Howrah",
   "description": "مواقيت الصلاة اليوم في Howrah، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـHowrah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-howrah.html",
+  "id": "/ar/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lexington-Fayette的礼拜时间",
   "short_name": "Lexington-Fayette的礼拜时间",
   "description": "Lexington-Fayette（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Lexington-Fayette实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-lexington-fayette.html",
+  "id": "/zh/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

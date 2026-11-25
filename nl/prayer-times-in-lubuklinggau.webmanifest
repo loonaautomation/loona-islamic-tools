@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lubuklinggau",
   "short_name": "Gebedstijden in Lubuklinggau",
   "description": "De gebedstijden van vandaag in Lubuklinggau, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Lubuklinggau.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lubuklinggau.html",
+  "id": "/nl/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

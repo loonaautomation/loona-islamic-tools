@@ -2,7 +2,7 @@
   "name": "Loona Hidschri-Kalender",
   "short_name": "Hidschri-Kalender",
   "description": "Blättern Sie durch jeden Hidschri-Monat und jedes Hidschri-Jahr in einem übersichtlichen islamischen Kalender, in dem jeder Tag auch sein gregorianisches Datum zeigt. Umm al-Qura-Kalender, kostenlos und immer aktuell.",
-  "id": "/loona-islamic-tools/de/hijri-calendar/",
+  "id": "/de/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

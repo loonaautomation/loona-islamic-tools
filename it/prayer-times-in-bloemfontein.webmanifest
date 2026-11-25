@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bloemfontein",
   "short_name": "Orari di preghiera a Bloemfontein",
   "description": "Orari di preghiera di oggi a Bloemfontein, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bloemfontein.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bloemfontein.html",
+  "id": "/it/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

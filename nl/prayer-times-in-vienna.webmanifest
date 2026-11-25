@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Vienna",
   "short_name": "Gebedstijden in Vienna",
   "description": "De gebedstijden van vandaag in Vienna, Oostenrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Vienna.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-vienna.html",
+  "id": "/nl/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

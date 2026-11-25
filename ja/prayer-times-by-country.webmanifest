@@ -2,7 +2,7 @@
   "name": "Loona 国別の礼拝時刻",
   "short_name": "国別の礼拝時刻",
   "description": "世界 871 都市の礼拝時刻。国ごとにグループ化：今日の Fajr、日の出、Dhuhr、Asr、Maghrib、Isha、一か月分の時刻表、キブラの方向、Ramadan 2027 年時刻表。",
-  "id": "/loona-islamic-tools/ja/prayer-times-by-country.html",
+  "id": "/ja/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
   "display": "standalone",

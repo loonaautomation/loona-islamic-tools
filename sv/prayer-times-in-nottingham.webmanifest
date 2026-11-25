@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nottingham",
   "short_name": "Bönetider i Nottingham",
   "description": "Dagens bönetider i Nottingham, Storbritannien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nottingham.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nottingham.html",
+  "id": "/sv/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

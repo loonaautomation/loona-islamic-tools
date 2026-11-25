@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ardabīl",
   "short_name": "Ώρες Προσευχής στο Ardabīl",
   "description": "Οι σημερινές ώρες προσευχής στο Ardabīl, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Ardabīl.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ardabil.html",
+  "id": "/el/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

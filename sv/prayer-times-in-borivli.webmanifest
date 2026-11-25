@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Borivli",
   "short_name": "Bönetider i Borivli",
   "description": "Dagens bönetider i Borivli, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Borivli.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-borivli.html",
+  "id": "/sv/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

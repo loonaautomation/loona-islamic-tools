@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Oral",
   "short_name": "Gebedstijden in Oral",
   "description": "De gebedstijden van vandaag in Oral, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Oral.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-oral.html",
+  "id": "/nl/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kendari",
   "short_name": "זמני תפילה בעיר Kendari",
   "description": "זמני התפילה של היום בעיר Kendari, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kendari.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kendari.html",
+  "id": "/he/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

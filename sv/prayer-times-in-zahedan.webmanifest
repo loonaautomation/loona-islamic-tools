@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Zahedan",
   "short_name": "Bönetider i Zahedan",
   "description": "Dagens bönetider i Zahedan, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Zahedan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-zahedan.html",
+  "id": "/sv/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Alwar",
   "short_name": "Waktu Salat di Alwar",
   "description": "Waktu salat hari ini di Alwar, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Alwar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-alwar.html",
+  "id": "/id/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

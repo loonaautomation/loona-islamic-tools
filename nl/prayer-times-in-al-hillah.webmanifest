@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Hillah",
   "short_name": "Gebedstijden in Al Hillah",
   "description": "De gebedstijden van vandaag in Al Hillah, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Hillah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-hillah.html",
+  "id": "/nl/prayer-times-in-al-hillah.html",
   "start_url": "./prayer-times-in-al-hillah.html",
   "scope": "./prayer-times-in-al-hillah.html",
   "display": "standalone",

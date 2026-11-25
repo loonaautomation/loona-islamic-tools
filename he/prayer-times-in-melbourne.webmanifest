@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Melbourne",
   "short_name": "זמני תפילה בעיר Melbourne",
   "description": "זמני התפילה של היום בעיר Melbourne, אוסטרליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Melbourne.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-melbourne.html",
+  "id": "/he/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

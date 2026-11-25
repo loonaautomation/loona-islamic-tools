@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jājmau",
   "short_name": "Prayer Times in Jājmau",
   "description": "Today's prayer times in Jājmau, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Jājmau.",
-  "id": "/loona-islamic-tools/prayer-times-in-jajmau.html",
+  "id": "/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

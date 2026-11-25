@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Indore",
   "short_name": "Ώρες Προσευχής στο Indore",
   "description": "Οι σημερινές ώρες προσευχής στο Indore, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Indore.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-indore.html",
+  "id": "/el/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

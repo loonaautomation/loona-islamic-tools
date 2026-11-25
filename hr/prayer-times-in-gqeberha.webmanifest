@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Gqeberha",
   "short_name": "Vremena namaza u gradu Gqeberha",
   "description": "Današnja vremena namaza u gradu Gqeberha, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Gqeberha.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-gqeberha.html",
+  "id": "/hr/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

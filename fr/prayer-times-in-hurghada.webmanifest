@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Hurghada",
   "short_name": "Heures de prière à Hurghada",
   "description": "Les heures de prière d’aujourd’hui à Hurghada, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Hurghada.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-hurghada.html",
+  "id": "/fr/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

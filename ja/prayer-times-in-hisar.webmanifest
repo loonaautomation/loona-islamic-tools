@@ -2,7 +2,7 @@
   "name": "Loona Hisar の礼拝時刻",
   "short_name": "Hisar の礼拝時刻",
   "description": "Hisar（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Hisar についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-hisar.html",
+  "id": "/ja/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

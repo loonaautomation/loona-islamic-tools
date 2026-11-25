@@ -2,7 +2,7 @@
   "name": "Loona 科威特城的礼拜时间",
   "short_name": "科威特城的礼拜时间",
   "description": "科威特市（科威特）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为科威特市实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-kuwait-city.html",
+  "id": "/zh/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

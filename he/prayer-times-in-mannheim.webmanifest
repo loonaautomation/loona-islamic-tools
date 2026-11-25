@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mannheim",
   "short_name": "זמני תפילה בעיר Mannheim",
   "description": "זמני התפילה של היום בעיר Mannheim, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Mannheim.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mannheim.html",
+  "id": "/he/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

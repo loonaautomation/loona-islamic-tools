@@ -2,7 +2,7 @@
   "name": "Loona Fes imaidői",
   "short_name": "Fes imaidői",
   "description": "A mai imaidők: Fes, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Fes számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-fes.html",
+  "id": "/hu/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kallakurichi",
   "short_name": "זמני תפילה בעיר Kallakurichi",
   "description": "זמני התפילה של היום בעיר Kallakurichi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kallakurichi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kallakurichi.html",
+  "id": "/he/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

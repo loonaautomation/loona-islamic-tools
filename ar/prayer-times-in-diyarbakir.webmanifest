@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Diyarbakır",
   "short_name": "مواقيت الصلاة في Diyarbakır",
   "description": "مواقيت الصلاة اليوم في Diyarbakır، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDiyarbakır.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-diyarbakir.html",
+  "id": "/ar/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

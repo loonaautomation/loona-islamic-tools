@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Ballari",
   "short_name": "Czasy modlitw w miejscowości Ballari",
   "description": "Dzisiejsze czasy modlitw w miejscowości Ballari, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Ballari.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-ballari.html",
+  "id": "/pl/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ordu",
   "short_name": "مواقيت الصلاة في Ordu",
   "description": "مواقيت الصلاة اليوم في Ordu، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOrdu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ordu.html",
+  "id": "/ar/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

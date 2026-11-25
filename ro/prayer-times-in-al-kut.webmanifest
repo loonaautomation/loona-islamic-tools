@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Al-Kut",
   "short_name": "Ore de rugăciune în Al-Kut",
   "description": "Orele de rugăciune de azi în Al-Kut, Irak: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Al-Kut.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-al-kut.html",
+  "id": "/ro/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

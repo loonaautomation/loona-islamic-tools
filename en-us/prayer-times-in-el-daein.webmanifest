@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in El Daein Today",
   "short_name": "Prayer Times in El Daein Today",
   "description": "Today's prayer times in El Daein, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for El Daein.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-el-daein.html",
+  "id": "/en-us/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

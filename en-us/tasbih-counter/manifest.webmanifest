@@ -2,7 +2,7 @@
   "name": "Loona Tasbih Counter — Digital Dhikr Counter",
   "short_name": "Tasbih Counter — Digital Dhikr Counter",
   "description": "A digital tasbih counter: SubhanAllah, Alhamdulillah and more presets, 33/99/100 targets, round tracking, vibration and lifetime totals saved on your device.",
-  "id": "/loona-islamic-tools/en-us/tasbih-counter/",
+  "id": "/en-us/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Berlin",
   "short_name": "Час намазу в Berlin",
   "description": "Сьогоднішній час намазу в Berlin, Німеччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Berlin.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-berlin.html",
+  "id": "/uk/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

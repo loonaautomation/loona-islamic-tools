@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kismayo",
   "short_name": "Vremena namaza u gradu Kismayo",
   "description": "Današnja vremena namaza u gradu Kismayo, Somalija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kismayo.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kismayo.html",
+  "id": "/hr/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

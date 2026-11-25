@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bologna",
   "short_name": "Časy modliteb v Bologna",
   "description": "Dnešní časy modliteb v Bologna, Itálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bologna.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bologna.html",
+  "id": "/cs/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

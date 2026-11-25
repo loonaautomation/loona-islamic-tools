@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Malacca",
   "short_name": "Час намазу в Malacca",
   "description": "Сьогоднішній час намазу в Malacca, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Malacca.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-malacca.html",
+  "id": "/uk/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

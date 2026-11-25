@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rufisque est",
   "short_name": "זמני תפילה בעיר Rufisque est",
   "description": "זמני התפילה של היום בעיר Rufisque est, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Rufisque est.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rufisque-est.html",
+  "id": "/he/prayer-times-in-rufisque-est.html",
   "start_url": "./prayer-times-in-rufisque-est.html",
   "scope": "./prayer-times-in-rufisque-est.html",
   "display": "standalone",

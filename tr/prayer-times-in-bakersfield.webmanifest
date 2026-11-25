@@ -2,7 +2,7 @@
   "name": "Loona Bakersfield Namaz Vakitleri",
   "short_name": "Bakersfield Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bakersfield, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Bakersfield için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bakersfield.html",
+  "id": "/tr/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

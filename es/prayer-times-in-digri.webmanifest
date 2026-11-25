@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Digri",
   "short_name": "Horarios de oración en Digri",
   "description": "Horarios de oración de hoy en Digri, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Digri.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-digri.html",
+  "id": "/es/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

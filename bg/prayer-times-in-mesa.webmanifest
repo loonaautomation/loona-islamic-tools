@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mesa",
   "short_name": "Часове за намаз в Mesa",
   "description": "Днешните часове за намаз в Mesa, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Mesa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mesa.html",
+  "id": "/bg/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Calgary",
   "short_name": "مواقيت الصلاة في Calgary",
   "description": "مواقيت الصلاة اليوم في Calgary، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـCalgary.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-calgary.html",
+  "id": "/ar/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Suez",
   "short_name": "Waktu Solat di Suez",
   "description": "Waktu solat hari ini di Suez, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Suez.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-suez.html",
+  "id": "/ms/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

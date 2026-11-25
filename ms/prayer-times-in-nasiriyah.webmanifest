@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nasiriyah",
   "short_name": "Waktu Solat di Nasiriyah",
   "description": "Waktu solat hari ini di Nasiriyah, Iraq: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Nasiriyah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nasiriyah.html",
+  "id": "/ms/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

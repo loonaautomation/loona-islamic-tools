@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Karagandy",
   "short_name": "Bönetider i Karagandy",
   "description": "Dagens bönetider i Karagandy, Kazakstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Karagandy.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-karagandy.html",
+  "id": "/sv/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

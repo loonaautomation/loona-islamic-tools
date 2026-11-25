@@ -2,7 +2,7 @@
   "name": "Loona Baghdad の礼拝時刻",
   "short_name": "Baghdad の礼拝時刻",
   "description": "Baghdad（イラク）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Baghdad についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-baghdad.html",
+  "id": "/ja/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

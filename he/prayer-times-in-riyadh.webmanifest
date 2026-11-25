@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Riyadh",
   "short_name": "זמני תפילה בעיר Riyadh",
   "description": "זמני התפילה של היום בעיר Riyadh, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Riyadh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-riyadh.html",
+  "id": "/he/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

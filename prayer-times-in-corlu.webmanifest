@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Çorlu",
   "short_name": "Prayer Times in Çorlu",
   "description": "Today's prayer times in Çorlu, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Çorlu.",
-  "id": "/loona-islamic-tools/prayer-times-in-corlu.html",
+  "id": "/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

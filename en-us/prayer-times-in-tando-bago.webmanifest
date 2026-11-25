@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tando Bago Today",
   "short_name": "Prayer Times in Tando Bago Today",
   "description": "Today's prayer times in Tando Bago, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Tando Bago.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-tando-bago.html",
+  "id": "/en-us/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

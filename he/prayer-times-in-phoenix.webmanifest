@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Phoenix",
   "short_name": "זמני תפילה בעיר Phoenix",
   "description": "זמני התפילה של היום בעיר Phoenix, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Phoenix.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-phoenix.html",
+  "id": "/he/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

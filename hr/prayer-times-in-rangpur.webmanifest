@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rangpur",
   "short_name": "Vremena namaza u gradu Rangpur",
   "description": "Današnja vremena namaza u gradu Rangpur, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Rangpur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rangpur.html",
+  "id": "/hr/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

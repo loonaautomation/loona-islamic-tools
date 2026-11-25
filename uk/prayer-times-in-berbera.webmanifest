@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Berbera",
   "short_name": "Час намазу в Berbera",
   "description": "Сьогоднішній час намазу в Berbera, Сомалі: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Berbera.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-berbera.html",
+  "id": "/uk/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

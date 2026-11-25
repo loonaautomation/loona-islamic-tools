@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jalālābād",
   "short_name": "Časy modliteb v Jalālābād",
   "description": "Dnešní časy modliteb v Jalālābād, Afghánistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jalālābād.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jalalabad.html",
+  "id": "/cs/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

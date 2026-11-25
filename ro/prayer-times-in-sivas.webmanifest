@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Sivas",
   "short_name": "Ore de rugăciune în Sivas",
   "description": "Orele de rugăciune de azi în Sivas, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Sivas.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sivas.html",
+  "id": "/ro/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

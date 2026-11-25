@@ -2,7 +2,7 @@
   "name": "Loona Kelar-এ নামাজের সময়",
   "short_name": "Kelar-এ নামাজের সময়",
   "description": "Kelar, ইরাক-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Muslim World League পদ্ধতি, আপনার ডিভাইসে Kelar-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-kelar.html",
+  "id": "/bn/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

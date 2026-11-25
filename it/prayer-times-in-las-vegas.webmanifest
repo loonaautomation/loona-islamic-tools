@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Las Vegas",
   "short_name": "Orari di preghiera a Las Vegas",
   "description": "Orari di preghiera di oggi a Las Vegas, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Las Vegas.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-las-vegas.html",
+  "id": "/it/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

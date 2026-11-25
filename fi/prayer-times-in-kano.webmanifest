@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kano",
   "short_name": "Rukousajat: Kano",
   "description": "Tämän päivän rukousajat paikassa Kano, Nigeria: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Kano.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kano.html",
+  "id": "/fi/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Delhi",
   "short_name": "Časy modlitieb v Delhi",
   "description": "Dnešné časy modlitieb v Delhi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Delhi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-delhi.html",
+  "id": "/sk/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

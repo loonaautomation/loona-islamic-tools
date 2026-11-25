@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Abu Dhabi",
   "short_name": "Prayer Times in Abu Dhabi",
   "description": "Today's prayer times in Abu Dhabi, UAE: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Abu Dhabi.",
-  "id": "/loona-islamic-tools/prayer-times-in-abu-dhabi.html",
+  "id": "/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

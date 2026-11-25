@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dallas",
   "short_name": "Bönetider i Dallas",
   "description": "Dagens bönetider i Dallas, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Dallas.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dallas.html",
+  "id": "/sv/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dushanbe",
   "short_name": "Orari di preghiera a Dushanbe",
   "description": "Orari di preghiera di oggi a Dushanbe, Tagikistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Dushanbe.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dushanbe.html",
+  "id": "/it/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

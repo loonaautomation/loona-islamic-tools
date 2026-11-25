@@ -2,7 +2,7 @@
   "name": "Loona Konak Namaz Vakitleri",
   "short_name": "Konak Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Konak, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Konak için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-konak.html",
+  "id": "/tr/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

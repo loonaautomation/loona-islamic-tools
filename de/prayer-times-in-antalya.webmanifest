@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Antalya",
   "short_name": "Gebetszeiten in Antalya",
   "description": "Die heutigen Gebetszeiten in Antalya, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Antalya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-antalya.html",
+  "id": "/de/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

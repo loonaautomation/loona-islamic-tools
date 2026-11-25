@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Naples",
   "short_name": "זמני תפילה בעיר Naples",
   "description": "זמני התפילה של היום בעיר Naples, איטליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Naples.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-naples.html",
+  "id": "/he/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

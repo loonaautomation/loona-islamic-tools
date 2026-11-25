@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kostanay",
   "short_name": "Heures de prière à Kostanay",
   "description": "Les heures de prière d’aujourd’hui à Kostanay, Kazakhstan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kostanay.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kostanay.html",
+  "id": "/fr/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

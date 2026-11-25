@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Oslo",
   "short_name": "Horários de Oração em Oslo",
   "description": "Horários de oração de hoje em Oslo, Noruega: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Oslo.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-oslo.html",
+  "id": "/pt-br/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

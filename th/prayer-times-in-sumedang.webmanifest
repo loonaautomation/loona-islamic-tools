@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sumedang",
   "short_name": "เวลาละหมาดใน Sumedang",
   "description": "เวลาละหมาดวันนี้ใน Sumedang, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sumedang",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sumedang.html",
+  "id": "/th/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

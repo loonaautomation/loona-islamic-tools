@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Anaheim",
   "short_name": "Rukousajat: Anaheim",
   "description": "Tämän päivän rukousajat paikassa Anaheim, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Anaheim.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-anaheim.html",
+  "id": "/fi/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

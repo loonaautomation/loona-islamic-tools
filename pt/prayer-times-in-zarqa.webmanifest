@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Zarqa",
   "short_name": "Horários de Oração em Zarqa",
   "description": "Horários de oração de hoje em Zarqa, Jordânia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Zarqa.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-zarqa.html",
+  "id": "/pt/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

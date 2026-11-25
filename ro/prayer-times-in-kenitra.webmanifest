@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kenitra",
   "short_name": "Ore de rugăciune în Kenitra",
   "description": "Orele de rugăciune de azi în Kenitra, Maroc: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Kenitra.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kenitra.html",
+  "id": "/ro/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

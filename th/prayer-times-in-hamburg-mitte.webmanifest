@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Hamburg-Mitte",
   "short_name": "เวลาละหมาดใน Hamburg-Mitte",
   "description": "เวลาละหมาดวันนี้ใน Hamburg-Mitte, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Hamburg-Mitte",
-  "id": "/loona-islamic-tools/th/prayer-times-in-hamburg-mitte.html",
+  "id": "/th/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

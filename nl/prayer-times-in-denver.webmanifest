@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Denver",
   "short_name": "Gebedstijden in Denver",
   "description": "De gebedstijden van vandaag in Denver, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Denver.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-denver.html",
+  "id": "/nl/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану",
   "short_name": "Розклад Рамадану",
   "description": "Повний розклад Рамадану для будь-якого міста й року за хіджрою: час закінчення сухуру та іфтару на кожен день Рамадану з григоріанськими датами й тривалістю посту. Безкоштовно, для друку.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable/",
+  "id": "/uk/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

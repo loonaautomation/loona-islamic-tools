@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Meknes",
   "short_name": "Bønnetider i Meknes",
   "description": "Dagens bønnetider i Meknes, Marokko: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Meknes.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-meknes.html",
+  "id": "/da/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

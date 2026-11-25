@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Surrey",
   "short_name": "Orari di preghiera a Surrey",
   "description": "Orari di preghiera di oggi a Surrey, Canada: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Surrey.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-surrey.html",
+  "id": "/it/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Adıyaman",
   "short_name": "Время намаза в городе Adıyaman",
   "description": "Время намаза на сегодня: Adıyaman, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Adıyaman.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-adiyaman.html",
+  "id": "/ru/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

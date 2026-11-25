@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Prayagraj",
   "short_name": "Время намаза в городе Prayagraj",
   "description": "Время намаза на сегодня: Prayagraj, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Prayagraj.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-prayagraj.html",
+  "id": "/ru/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

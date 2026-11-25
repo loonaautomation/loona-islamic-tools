@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Sorong",
   "short_name": "Heures de prière à Sorong",
   "description": "Les heures de prière d’aujourd’hui à Sorong, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Sorong.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-sorong.html",
+  "id": "/fr/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

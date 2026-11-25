@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Charlotte",
   "short_name": "Час намазу в Charlotte",
   "description": "Сьогоднішній час намазу в Charlotte, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Charlotte.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-charlotte.html",
+  "id": "/uk/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mataram",
   "short_name": "Gebedstijden in Mataram",
   "description": "De gebedstijden van vandaag in Mataram, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Mataram.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mataram.html",
+  "id": "/nl/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

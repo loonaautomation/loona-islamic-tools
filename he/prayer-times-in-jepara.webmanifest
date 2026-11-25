@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jepara",
   "short_name": "זמני תפילה בעיר Jepara",
   "description": "זמני התפילה של היום בעיר Jepara, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Jepara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jepara.html",
+  "id": "/he/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

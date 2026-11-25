@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kirkuk",
   "short_name": "Bönetider i Kirkuk",
   "description": "Dagens bönetider i Kirkuk, Irak: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kirkuk.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kirkuk.html",
+  "id": "/sv/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

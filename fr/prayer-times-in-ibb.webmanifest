@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Ibb",
   "short_name": "Heures de prière à Ibb",
   "description": "Les heures de prière d’aujourd’hui à Ibb, Yémen : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Ibb.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-ibb.html",
+  "id": "/fr/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

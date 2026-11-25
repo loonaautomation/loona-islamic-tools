@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Shivaji Nagar",
   "short_name": "Gebetszeiten in Shivaji Nagar",
   "description": "Die heutigen Gebetszeiten in Shivaji Nagar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Shivaji Nagar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-shivaji-nagar.html",
+  "id": "/de/prayer-times-in-shivaji-nagar.html",
   "start_url": "./prayer-times-in-shivaji-nagar.html",
   "scope": "./prayer-times-in-shivaji-nagar.html",
   "display": "standalone",

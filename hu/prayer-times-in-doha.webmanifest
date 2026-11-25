@@ -2,7 +2,7 @@
   "name": "Loona Doha imaidői",
   "short_name": "Doha imaidői",
   "description": "A mai imaidők: Doha, Katar: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Doha számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-doha.html",
+  "id": "/hu/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

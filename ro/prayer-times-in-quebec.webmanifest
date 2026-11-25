@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Québec",
   "short_name": "Ore de rugăciune în Québec",
   "description": "Orele de rugăciune de azi în Québec, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Québec.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-quebec.html",
+  "id": "/ro/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

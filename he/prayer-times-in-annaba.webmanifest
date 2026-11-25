@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Annaba",
   "short_name": "זמני תפילה בעיר Annaba",
   "description": "זמני התפילה של היום בעיר Annaba, אלג'יריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Annaba.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-annaba.html",
+  "id": "/he/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

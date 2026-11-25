@@ -2,7 +2,7 @@
   "name": "Loona Manchester imaidői",
   "short_name": "Manchester imaidői",
   "description": "A mai imaidők: Manchester, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Manchester számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-manchester.html",
+  "id": "/hu/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

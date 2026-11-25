@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kano",
   "short_name": "Waktu Solat di Kano",
   "description": "Waktu solat hari ini di Kano, Nigeria: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Kano.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kano.html",
+  "id": "/ms/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

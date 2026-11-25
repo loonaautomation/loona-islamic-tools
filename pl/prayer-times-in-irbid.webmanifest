@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Irbid",
   "short_name": "Czasy modlitw w miejscowości Irbid",
   "description": "Dzisiejsze czasy modlitw w miejscowości Irbid, kraj Jordania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Irbid.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-irbid.html",
+  "id": "/pl/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

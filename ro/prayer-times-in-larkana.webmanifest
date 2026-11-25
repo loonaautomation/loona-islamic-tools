@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Larkana",
   "short_name": "Ore de rugăciune în Larkana",
   "description": "Orele de rugăciune de azi în Larkana, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Larkana.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-larkana.html",
+  "id": "/ro/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

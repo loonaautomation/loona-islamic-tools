@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Alwar",
   "short_name": "זמני תפילה בעיר Alwar",
   "description": "זמני התפילה של היום בעיר Alwar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Alwar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-alwar.html",
+  "id": "/he/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

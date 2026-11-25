@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kadapa",
   "short_name": "Czasy modlitw w miejscowości Kadapa",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kadapa, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kadapa.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kadapa.html",
+  "id": "/pl/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

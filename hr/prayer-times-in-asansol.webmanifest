@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Āsansol",
   "short_name": "Vremena namaza u gradu Āsansol",
   "description": "Današnja vremena namaza u gradu Āsansol, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Āsansol.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-asansol.html",
+  "id": "/hr/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

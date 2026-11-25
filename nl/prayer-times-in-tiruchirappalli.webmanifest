@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tiruchirappalli",
   "short_name": "Gebedstijden in Tiruchirappalli",
   "description": "De gebedstijden van vandaag in Tiruchirappalli, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Tiruchirappalli.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tiruchirappalli.html",
+  "id": "/nl/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Semey",
   "short_name": "Gebetszeiten in Semey",
   "description": "Die heutigen Gebetszeiten in Semey, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Semey.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-semey.html",
+  "id": "/de/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

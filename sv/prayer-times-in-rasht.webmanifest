@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rasht",
   "short_name": "Bönetider i Rasht",
   "description": "Dagens bönetider i Rasht, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Rasht.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rasht.html",
+  "id": "/sv/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Elazığ",
   "short_name": "Ore de rugăciune în Elazığ",
   "description": "Orele de rugăciune de azi în Elazığ, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Elazığ.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-elazig.html",
+  "id": "/ro/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

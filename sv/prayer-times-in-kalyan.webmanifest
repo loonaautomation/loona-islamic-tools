@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kalyān",
   "short_name": "Bönetider i Kalyān",
   "description": "Dagens bönetider i Kalyān, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Kalyān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kalyan.html",
+  "id": "/sv/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

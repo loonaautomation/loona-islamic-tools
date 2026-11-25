@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Nawābganj",
   "short_name": "Horários de Oração em Nawābganj",
   "description": "Horários de oração de hoje em Nawābganj, Bangladexe: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Nawābganj.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-nawabganj.html",
+  "id": "/pt/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

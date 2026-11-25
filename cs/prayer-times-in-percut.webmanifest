@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Percut",
   "short_name": "Časy modliteb v Percut",
   "description": "Dnešní časy modliteb v Percut, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Percut.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-percut.html",
+  "id": "/cs/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

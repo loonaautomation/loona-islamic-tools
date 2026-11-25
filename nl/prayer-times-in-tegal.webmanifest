@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tegal",
   "short_name": "Gebedstijden in Tegal",
   "description": "De gebedstijden van vandaag in Tegal, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tegal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tegal.html",
+  "id": "/nl/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

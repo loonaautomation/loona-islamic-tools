@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Nairobi",
   "short_name": "Horários de Oração em Nairobi",
   "description": "Horários de oração de hoje em Nairobi, Quénia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Nairobi.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-nairobi.html",
+  "id": "/pt-pt/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Alanya",
   "short_name": "Ore de rugăciune în Alanya",
   "description": "Orele de rugăciune de azi în Alanya, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Alanya.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-alanya.html",
+  "id": "/ro/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

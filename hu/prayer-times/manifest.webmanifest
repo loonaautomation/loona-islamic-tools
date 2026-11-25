@@ -2,7 +2,7 @@
   "name": "Loona Mai imaidők",
   "short_name": "Mai imaidők",
   "description": "Nézze meg a mai Fajr, Dhuhr, Asr, Maghrib és Isha imaidőket bármely városhoz: Karachi, ISNA, MWL és további módszerek, hanafi vagy sáfi Asr, pontos koordináták támogatottak.",
-  "id": "/loona-islamic-tools/hu/prayer-times/",
+  "id": "/hu/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sarajevo",
   "short_name": "Prayer Times in Sarajevo",
   "description": "Today's prayer times in Sarajevo, Bosnia and Herzegovina: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sarajevo.",
-  "id": "/loona-islamic-tools/prayer-times-in-sarajevo.html",
+  "id": "/prayer-times-in-sarajevo.html",
   "start_url": "./prayer-times-in-sarajevo.html",
   "scope": "./prayer-times-in-sarajevo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Thuqbah",
   "short_name": "مواقيت الصلاة في Thuqbah",
   "description": "مواقيت الصلاة اليوم في Thuqbah، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـThuqbah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-thuqbah.html",
+  "id": "/ar/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

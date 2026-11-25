@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sholapur",
   "short_name": "Rukousajat: Sholapur",
   "description": "Tämän päivän rukousajat paikassa Sholapur, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Sholapur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sholapur.html",
+  "id": "/fi/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Reading Today",
   "short_name": "Prayer Times in Reading Today",
   "description": "Today's prayer times in Reading, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Reading.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-reading.html",
+  "id": "/en-gb/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

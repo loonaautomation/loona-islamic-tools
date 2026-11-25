@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Gqeberha",
   "short_name": "Gebetszeiten in Gqeberha",
   "description": "Die heutigen Gebetszeiten in Gqeberha, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Gqeberha.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-gqeberha.html",
+  "id": "/de/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

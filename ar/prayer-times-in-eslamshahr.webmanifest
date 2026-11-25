@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Eslamshahr",
   "short_name": "مواقيت الصلاة في Eslamshahr",
   "description": "مواقيت الصلاة اليوم في Eslamshahr، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـEslamshahr.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-eslamshahr.html",
+  "id": "/ar/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

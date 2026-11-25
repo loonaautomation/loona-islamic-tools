@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Casablanca",
   "short_name": "זמני תפילה בעיר Casablanca",
   "description": "זמני התפילה של היום בעיר Casablanca, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Casablanca.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-casablanca.html",
+  "id": "/he/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

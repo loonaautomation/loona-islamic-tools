@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Singkawang",
   "short_name": "Часове за намаз в Singkawang",
   "description": "Днешните часове за намаз в Singkawang, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Singkawang.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-singkawang.html",
+  "id": "/bg/prayer-times-in-singkawang.html",
   "start_url": "./prayer-times-in-singkawang.html",
   "scope": "./prayer-times-in-singkawang.html",
   "display": "standalone",

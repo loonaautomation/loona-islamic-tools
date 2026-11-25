@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Erzurum",
   "short_name": "Gebetszeiten in Erzurum",
   "description": "Die heutigen Gebetszeiten in Erzurum, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Erzurum.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-erzurum.html",
+  "id": "/de/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sāngli",
   "short_name": "Gebedstijden in Sāngli",
   "description": "De gebedstijden van vandaag in Sāngli, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sāngli.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sangli.html",
+  "id": "/nl/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

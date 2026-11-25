@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Gorakhpur",
   "short_name": "Waktu Solat di Gorakhpur",
   "description": "Waktu solat hari ini di Gorakhpur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Gorakhpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-gorakhpur.html",
+  "id": "/ms/prayer-times-in-gorakhpur.html",
   "start_url": "./prayer-times-in-gorakhpur.html",
   "scope": "./prayer-times-in-gorakhpur.html",
   "display": "standalone",

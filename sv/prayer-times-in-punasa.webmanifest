@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Punāsa",
   "short_name": "Bönetider i Punāsa",
   "description": "Dagens bönetider i Punāsa, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Punāsa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-punasa.html",
+  "id": "/sv/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

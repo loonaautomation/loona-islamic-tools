@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Batman",
   "short_name": "Ώρες Προσευχής στο Batman",
   "description": "Οι σημερινές ώρες προσευχής στο Batman, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Batman.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-batman.html",
+  "id": "/el/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

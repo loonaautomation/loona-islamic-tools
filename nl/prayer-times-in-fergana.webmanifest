@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Fergana",
   "short_name": "Gebedstijden in Fergana",
   "description": "De gebedstijden van vandaag in Fergana, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Fergana.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-fergana.html",
+  "id": "/nl/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

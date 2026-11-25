@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Oran",
   "short_name": "Horários de Oração em Oran",
   "description": "Horários de oração de hoje em Oran, Argélia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Oran.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-oran.html",
+  "id": "/pt-pt/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

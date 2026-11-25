@@ -2,7 +2,7 @@
   "name": "Loona Kyzylorda的禮拜時間",
   "short_name": "Kyzylorda的禮拜時間",
   "description": "Kyzylorda（哈薩克）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Kyzylorda實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-kyzylorda.html",
+  "id": "/zh-hant/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

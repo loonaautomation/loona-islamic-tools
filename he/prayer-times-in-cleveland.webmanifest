@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cleveland",
   "short_name": "זמני תפילה בעיר Cleveland",
   "description": "זמני התפילה של היום בעיר Cleveland, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Cleveland.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cleveland.html",
+  "id": "/he/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

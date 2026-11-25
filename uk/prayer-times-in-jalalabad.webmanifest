@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jalālābād",
   "short_name": "Час намазу в Jalālābād",
   "description": "Сьогоднішній час намазу в Jalālābād, Афганістан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jalālābād.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jalalabad.html",
+  "id": "/uk/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ballari",
   "short_name": "เวลาละหมาดใน Ballari",
   "description": "เวลาละหมาดวันนี้ใน Ballari, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ballari",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ballari.html",
+  "id": "/th/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

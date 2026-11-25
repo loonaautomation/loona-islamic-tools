@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ballari",
   "short_name": "Время намаза в городе Ballari",
   "description": "Время намаза на сегодня: Ballari, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Ballari.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ballari.html",
+  "id": "/ru/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

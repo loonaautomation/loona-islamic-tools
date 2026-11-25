@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kerman",
   "short_name": "Bönetider i Kerman",
   "description": "Dagens bönetider i Kerman, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kerman.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kerman.html",
+  "id": "/sv/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

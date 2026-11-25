@@ -2,7 +2,7 @@
   "name": "Loona Pasir Mas Namaz Vakitleri",
   "short_name": "Pasir Mas Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pasir Mas, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Pasir Mas için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pasir-mas.html",
+  "id": "/tr/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

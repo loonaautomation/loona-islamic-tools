@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Palma",
   "short_name": "مواقيت الصلاة في Palma",
   "description": "مواقيت الصلاة اليوم في Palma، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPalma.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-palma.html",
+  "id": "/ar/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

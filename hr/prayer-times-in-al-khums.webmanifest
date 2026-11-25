@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Al Khums",
   "short_name": "Vremena namaza u gradu Al Khums",
   "description": "Današnja vremena namaza u gradu Al Khums, Libija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Al Khums.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-al-khums.html",
+  "id": "/hr/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

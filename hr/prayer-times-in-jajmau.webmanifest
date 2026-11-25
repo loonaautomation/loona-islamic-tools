@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jājmau",
   "short_name": "Vremena namaza u gradu Jājmau",
   "description": "Današnja vremena namaza u gradu Jājmau, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jājmau.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jajmau.html",
+  "id": "/hr/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

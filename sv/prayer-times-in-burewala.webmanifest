@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Burewala",
   "short_name": "Bönetider i Burewala",
   "description": "Dagens bönetider i Burewala, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Burewala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-burewala.html",
+  "id": "/sv/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

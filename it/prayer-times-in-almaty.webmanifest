@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Almaty",
   "short_name": "Orari di preghiera a Almaty",
   "description": "Orari di preghiera di oggi a Almaty, Kazakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Almaty.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-almaty.html",
+  "id": "/it/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

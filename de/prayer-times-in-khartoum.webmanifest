@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Khartoum",
   "short_name": "Gebetszeiten in Khartoum",
   "description": "Die heutigen Gebetszeiten in Khartoum, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Khartoum.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-khartoum.html",
+  "id": "/de/prayer-times-in-khartoum.html",
   "start_url": "./prayer-times-in-khartoum.html",
   "scope": "./prayer-times-in-khartoum.html",
   "display": "standalone",

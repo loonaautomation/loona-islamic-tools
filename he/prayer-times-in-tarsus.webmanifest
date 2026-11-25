@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tarsus",
   "short_name": "זמני תפילה בעיר Tarsus",
   "description": "זמני התפילה של היום בעיר Tarsus, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tarsus.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tarsus.html",
+  "id": "/he/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ardabīl",
   "short_name": "Gebedstijden in Ardabīl",
   "description": "De gebedstijden van vandaag in Ardabīl, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ardabīl.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ardabil.html",
+  "id": "/nl/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kolhāpur",
   "short_name": "Vremena namaza u gradu Kolhāpur",
   "description": "Današnja vremena namaza u gradu Kolhāpur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kolhāpur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kolhapur.html",
+  "id": "/hr/prayer-times-in-kolhapur.html",
   "start_url": "./prayer-times-in-kolhapur.html",
   "scope": "./prayer-times-in-kolhapur.html",
   "display": "standalone",

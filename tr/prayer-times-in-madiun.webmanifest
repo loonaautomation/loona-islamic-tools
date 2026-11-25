@@ -2,7 +2,7 @@
   "name": "Loona Madiun Namaz Vakitleri",
   "short_name": "Madiun Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Madiun, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Madiun için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-madiun.html",
+  "id": "/tr/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

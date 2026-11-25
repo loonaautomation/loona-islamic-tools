@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cuttack",
   "short_name": "Gebedstijden in Cuttack",
   "description": "De gebedstijden van vandaag in Cuttack, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Cuttack.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cuttack.html",
+  "id": "/nl/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

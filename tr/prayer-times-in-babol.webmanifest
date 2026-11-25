@@ -2,7 +2,7 @@
   "name": "Loona Bābol Namaz Vakitleri",
   "short_name": "Bābol Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bābol, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bābol için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-babol.html",
+  "id": "/tr/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Wandsbek",
   "short_name": "Bønnetider i Wandsbek",
   "description": "Dagens bønnetider i Wandsbek, Tyskland: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Wandsbek.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-wandsbek.html",
+  "id": "/nb/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

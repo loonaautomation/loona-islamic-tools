@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jacobabad",
   "short_name": "Waktu Salat di Jacobabad",
   "description": "Waktu salat hari ini di Jacobabad, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Jacobabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jacobabad.html",
+  "id": "/id/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

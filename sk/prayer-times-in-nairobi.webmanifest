@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Nairobi",
   "short_name": "Časy modlitieb v Nairobi",
   "description": "Dnešné časy modlitieb v Nairobi, Keňa: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Nairobi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-nairobi.html",
+  "id": "/sk/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

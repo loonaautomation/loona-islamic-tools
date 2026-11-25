@@ -2,7 +2,7 @@
   "name": "Loona Dnešní islámské datum",
   "short_name": "Dnešní islámské datum",
   "description": "Jaké je dnešní islámské datum? Prohlédněte si dnešní datum hidžry — den, měsíc a rok (Umm al-Qura) — s gregoriánským datem, aktualizované živě ve vašem zařízení. Zdarma.",
-  "id": "/loona-islamic-tools/cs/islamic-date-today/",
+  "id": "/cs/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

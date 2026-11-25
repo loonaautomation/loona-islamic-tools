@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Yanbu",
   "short_name": "Gebetszeiten in Yanbu",
   "description": "Die heutigen Gebetszeiten in Yanbu, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Yanbu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-yanbu.html",
+  "id": "/de/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

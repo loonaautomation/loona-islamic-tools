@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ganja",
   "short_name": "Gebedstijden in Ganja",
   "description": "De gebedstijden van vandaag in Ganja, Azerbeidzjan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ganja.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ganja.html",
+  "id": "/nl/prayer-times-in-ganja.html",
   "start_url": "./prayer-times-in-ganja.html",
   "scope": "./prayer-times-in-ganja.html",
   "display": "standalone",

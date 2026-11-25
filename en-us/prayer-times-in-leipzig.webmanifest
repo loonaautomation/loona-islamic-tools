@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Leipzig Today",
   "short_name": "Prayer Times in Leipzig Today",
   "description": "Today's prayer times in Leipzig, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Leipzig.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-leipzig.html",
+  "id": "/en-us/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

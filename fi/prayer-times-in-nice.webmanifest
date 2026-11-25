@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nice",
   "short_name": "Rukousajat: Nice",
   "description": "Tämän päivän rukousajat paikassa Nice, Ranska: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Nice.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nice.html",
+  "id": "/fi/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

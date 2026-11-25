@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Rājkot",
   "short_name": "Ώρες Προσευχής στο Rājkot",
   "description": "Οι σημερινές ώρες προσευχής στο Rājkot, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Rājkot.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-rajkot.html",
+  "id": "/el/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

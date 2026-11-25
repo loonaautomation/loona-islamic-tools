@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Wandsbek",
   "short_name": "Vremena namaza u gradu Wandsbek",
   "description": "Današnja vremena namaza u gradu Wandsbek, Njemačka: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Wandsbek.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-wandsbek.html",
+  "id": "/hr/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

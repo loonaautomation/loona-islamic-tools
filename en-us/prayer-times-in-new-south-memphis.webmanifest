@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in New South Memphis Today",
   "short_name": "Prayer Times in New South Memphis Today",
   "description": "Today's prayer times in New South Memphis, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for New South Memphis.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-new-south-memphis.html",
+  "id": "/en-us/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

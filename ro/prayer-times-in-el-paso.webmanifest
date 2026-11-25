@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în El Paso",
   "short_name": "Ore de rugăciune în El Paso",
   "description": "Orele de rugăciune de azi în El Paso, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru El Paso.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-el-paso.html",
+  "id": "/ro/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

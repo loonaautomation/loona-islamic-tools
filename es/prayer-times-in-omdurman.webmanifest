@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Omdurman",
   "short_name": "Horarios de oración en Omdurman",
   "description": "Horarios de oración de hoy en Omdurman, Sudán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Omdurman.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-omdurman.html",
+  "id": "/es/prayer-times-in-omdurman.html",
   "start_url": "./prayer-times-in-omdurman.html",
   "scope": "./prayer-times-in-omdurman.html",
   "display": "standalone",

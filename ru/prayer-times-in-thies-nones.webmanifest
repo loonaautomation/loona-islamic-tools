@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Thiès Nones",
   "short_name": "Время намаза в городе Thiès Nones",
   "description": "Время намаза на сегодня: Thiès Nones, Сенегал: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Thiès Nones.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-thies-nones.html",
+  "id": "/ru/prayer-times-in-thies-nones.html",
   "start_url": "./prayer-times-in-thies-nones.html",
   "scope": "./prayer-times-in-thies-nones.html",
   "display": "standalone",

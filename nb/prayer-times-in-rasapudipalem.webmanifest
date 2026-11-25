@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rasapūdipalem",
   "short_name": "Bønnetider i Rasapūdipalem",
   "description": "Dagens bønnetider i Rasapūdipalem, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Rasapūdipalem.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-rasapudipalem.html",
+  "id": "/nb/prayer-times-in-rasapudipalem.html",
   "start_url": "./prayer-times-in-rasapudipalem.html",
   "scope": "./prayer-times-in-rasapudipalem.html",
   "display": "standalone",

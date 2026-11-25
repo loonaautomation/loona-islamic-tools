@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tanjung Pinang",
   "short_name": "Час намазу в Tanjung Pinang",
   "description": "Сьогоднішній час намазу в Tanjung Pinang, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Tanjung Pinang.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tanjung-pinang.html",
+  "id": "/uk/prayer-times-in-tanjung-pinang.html",
   "start_url": "./prayer-times-in-tanjung-pinang.html",
   "scope": "./prayer-times-in-tanjung-pinang.html",
   "display": "standalone",

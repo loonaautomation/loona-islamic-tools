@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ségou",
   "short_name": "Rukousajat: Ségou",
   "description": "Tämän päivän rukousajat paikassa Ségou, Mali: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ségou.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-segou.html",
+  "id": "/fi/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

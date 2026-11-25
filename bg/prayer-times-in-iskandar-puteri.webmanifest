@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Iskandar Puteri",
   "short_name": "Часове за намаз в Iskandar Puteri",
   "description": "Днешните часове за намаз в Iskandar Puteri, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Iskandar Puteri.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-iskandar-puteri.html",
+  "id": "/bg/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

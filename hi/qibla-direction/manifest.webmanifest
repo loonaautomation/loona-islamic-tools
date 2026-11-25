@@ -2,7 +2,7 @@
   "name": "Loona क़िबला दिशा",
   "short_name": "क़िबला दिशा",
   "description": "किसी भी शहर या अपने सटीक स्थान से डिग्री में क़िबला दिशा ढूँढें, लाइव कंपास डायल और Makkah तक की दूरी के साथ। मुफ़्त, सटीक और निजी।",
-  "id": "/loona-islamic-tools/hi/qibla-direction/",
+  "id": "/hi/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

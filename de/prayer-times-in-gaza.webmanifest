@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Gaza",
   "short_name": "Gebetszeiten in Gaza",
   "description": "Die heutigen Gebetszeiten in Gaza, Palästina: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Gaza.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-gaza.html",
+  "id": "/de/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

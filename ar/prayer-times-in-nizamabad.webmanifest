@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nizāmābād",
   "short_name": "مواقيت الصلاة في Nizāmābād",
   "description": "مواقيت الصلاة اليوم في Nizāmābād، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNizāmābād.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nizamabad.html",
+  "id": "/ar/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

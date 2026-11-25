@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Atyrau",
   "short_name": "Gebedstijden in Atyrau",
   "description": "De gebedstijden van vandaag in Atyrau, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Atyrau.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-atyrau.html",
+  "id": "/nl/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

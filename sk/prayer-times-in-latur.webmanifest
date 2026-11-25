@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Latur",
   "short_name": "Časy modlitieb v Latur",
   "description": "Dnešné časy modlitieb v Latur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Latur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-latur.html",
+  "id": "/sk/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

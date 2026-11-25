@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ibb",
   "short_name": "Gebedstijden in Ibb",
   "description": "De gebedstijden van vandaag in Ibb, Jemen: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ibb.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ibb.html",
+  "id": "/nl/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

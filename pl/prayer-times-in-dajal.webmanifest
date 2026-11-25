@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dajal",
   "short_name": "Czasy modlitw w miejscowości Dajal",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dajal, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Dajal.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dajal.html",
+  "id": "/pl/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

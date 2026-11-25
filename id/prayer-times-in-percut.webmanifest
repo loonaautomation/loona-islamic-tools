@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Percut",
   "short_name": "Waktu Salat di Percut",
   "description": "Waktu salat hari ini di Percut, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Percut.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-percut.html",
+  "id": "/id/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

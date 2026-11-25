@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cleveland",
   "short_name": "Bønnetider i Cleveland",
   "description": "Dagens bønnetider i Cleveland, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Cleveland.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-cleveland.html",
+  "id": "/nb/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

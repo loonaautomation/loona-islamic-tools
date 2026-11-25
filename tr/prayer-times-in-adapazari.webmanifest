@@ -2,7 +2,7 @@
   "name": "Loona Adapazarı Namaz Vakitleri",
   "short_name": "Adapazarı Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Adapazarı, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Adapazarı için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-adapazari.html",
+  "id": "/tr/prayer-times-in-adapazari.html",
   "start_url": "./prayer-times-in-adapazari.html",
   "scope": "./prayer-times-in-adapazari.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Long Beach",
   "short_name": "Bönetider i Long Beach",
   "description": "Dagens bönetider i Long Beach, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Long Beach.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-long-beach.html",
+  "id": "/sv/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

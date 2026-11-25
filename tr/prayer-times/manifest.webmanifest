@@ -2,7 +2,7 @@
   "name": "Loona Bugünün Namaz Vakitleri",
   "short_name": "Bugünün Namaz Vakitleri",
   "description": "Herhangi bir şehir için bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı namaz vakitlerini alın: Karachi, ISNA, MWL ve daha fazla yöntem, Hanefi veya Şafii İkindi, tam koordinat desteği.",
-  "id": "/loona-islamic-tools/tr/prayer-times/",
+  "id": "/tr/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Indianapolis Namaz Vakitleri",
   "short_name": "Indianapolis Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Indianapolis, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Indianapolis için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-indianapolis.html",
+  "id": "/tr/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

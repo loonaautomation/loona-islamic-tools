@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Pietermaritzburg",
   "short_name": "Час намазу в Pietermaritzburg",
   "description": "Сьогоднішній час намазу в Pietermaritzburg, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Pietermaritzburg.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-pietermaritzburg.html",
+  "id": "/uk/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

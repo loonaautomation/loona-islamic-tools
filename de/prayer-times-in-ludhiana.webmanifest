@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ludhiana",
   "short_name": "Gebetszeiten in Ludhiana",
   "description": "Die heutigen Gebetszeiten in Ludhiana, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Ludhiana.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ludhiana.html",
+  "id": "/de/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Glasgow",
   "short_name": "Czasy modlitw w miejscowości Glasgow",
   "description": "Dzisiejsze czasy modlitw w miejscowości Glasgow, kraj Wielka Brytania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Glasgow.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-glasgow.html",
+  "id": "/pl/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

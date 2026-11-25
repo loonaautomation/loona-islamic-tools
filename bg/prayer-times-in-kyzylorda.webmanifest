@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kyzylorda",
   "short_name": "Часове за намаз в Kyzylorda",
   "description": "Днешните часове за намаз в Kyzylorda, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kyzylorda.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kyzylorda.html",
+  "id": "/bg/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Banjar",
   "short_name": "Gebedstijden in Banjar",
   "description": "De gebedstijden van vandaag in Banjar, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Banjar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-banjar.html",
+  "id": "/nl/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

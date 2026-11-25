@@ -2,7 +2,7 @@
   "name": "Loona Hijri-vuosi 1450",
   "short_name": "Hijri-vuosi 1450",
   "description": "Hijri-vuosi 1450 AH: alku- ja loppupäivämäärät, kaikki 12 islamilaista kuukautta gregoriaanisine päivämäärineen, ja vuoden keskeiset päivämäärät mukaan lukien Ramadan ja molemmat Eidit, Umm al-Qura -kalenterissa.",
-  "id": "/loona-islamic-tools/fi/hijri-year-1450.html",
+  "id": "/fi/hijri-year-1450.html",
   "start_url": "./hijri-year-1450.html",
   "scope": "./hijri-year-1450.html",
   "display": "standalone",

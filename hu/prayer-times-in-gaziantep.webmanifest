@@ -2,7 +2,7 @@
   "name": "Loona Gaziantep imaidői",
   "short_name": "Gaziantep imaidői",
   "description": "A mai imaidők: Gaziantep, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Gaziantep számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-gaziantep.html",
+  "id": "/hu/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

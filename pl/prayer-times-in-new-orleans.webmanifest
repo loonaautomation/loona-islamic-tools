@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości New Orleans",
   "short_name": "Czasy modlitw w miejscowości New Orleans",
   "description": "Dzisiejsze czasy modlitw w miejscowości New Orleans, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości New Orleans.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-new-orleans.html",
+  "id": "/pl/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

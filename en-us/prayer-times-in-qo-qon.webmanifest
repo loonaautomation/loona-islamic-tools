@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Qo‘qon Today",
   "short_name": "Prayer Times in Qo‘qon Today",
   "description": "Today's prayer times in Qo‘qon, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Qo‘qon.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-qo-qon.html",
+  "id": "/en-us/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

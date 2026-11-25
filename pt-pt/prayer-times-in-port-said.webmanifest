@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Port Said",
   "short_name": "Horários de Oração em Port Said",
   "description": "Horários de oração de hoje em Port Said, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Port Said.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-port-said.html",
+  "id": "/pt-pt/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

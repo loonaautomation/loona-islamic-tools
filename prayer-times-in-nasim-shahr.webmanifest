@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nasīm Shahr",
   "short_name": "Prayer Times in Nasīm Shahr",
   "description": "Today's prayer times in Nasīm Shahr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nasīm Shahr.",
-  "id": "/loona-islamic-tools/prayer-times-in-nasim-shahr.html",
+  "id": "/prayer-times-in-nasim-shahr.html",
   "start_url": "./prayer-times-in-nasim-shahr.html",
   "scope": "./prayer-times-in-nasim-shahr.html",
   "display": "standalone",

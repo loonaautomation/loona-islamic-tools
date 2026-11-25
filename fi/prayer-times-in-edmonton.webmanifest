@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Edmonton",
   "short_name": "Rukousajat: Edmonton",
   "description": "Tämän päivän rukousajat paikassa Edmonton, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Edmonton.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-edmonton.html",
+  "id": "/fi/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

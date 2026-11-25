@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Munich",
   "short_name": "זמני תפילה בעיר Munich",
   "description": "זמני התפילה של היום בעיר Munich, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Munich.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-munich.html",
+  "id": "/he/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

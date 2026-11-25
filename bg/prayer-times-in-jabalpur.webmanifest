@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jabalpur",
   "short_name": "Часове за намаз в Jabalpur",
   "description": "Днешните часове за намаз в Jabalpur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Jabalpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jabalpur.html",
+  "id": "/bg/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

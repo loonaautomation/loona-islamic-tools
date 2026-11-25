@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Vadodara",
   "short_name": "Časy modlitieb v Vadodara",
   "description": "Dnešné časy modlitieb v Vadodara, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Vadodara.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-vadodara.html",
+  "id": "/sk/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

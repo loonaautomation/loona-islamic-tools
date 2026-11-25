@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i El Paso",
   "short_name": "Bönetider i El Paso",
   "description": "Dagens bönetider i El Paso, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för El Paso.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-el-paso.html",
+  "id": "/sv/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

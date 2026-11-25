@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Malegaon",
   "short_name": "Prayer Times in Malegaon",
   "description": "Today's prayer times in Malegaon, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Malegaon.",
-  "id": "/loona-islamic-tools/prayer-times-in-malegaon.html",
+  "id": "/prayer-times-in-malegaon.html",
   "start_url": "./prayer-times-in-malegaon.html",
   "scope": "./prayer-times-in-malegaon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Serekunda",
   "short_name": "Horários de Oração em Serekunda",
   "description": "Horários de oração de hoje em Serekunda, Gâmbia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Serekunda.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-serekunda.html",
+  "id": "/pt-pt/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tétouan",
   "short_name": "مواقيت الصلاة في Tétouan",
   "description": "مواقيت الصلاة اليوم في Tétouan، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTétouan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tetouan.html",
+  "id": "/ar/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

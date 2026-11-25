@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Shibganj",
   "short_name": "เวลาละหมาดใน Shibganj",
   "description": "เวลาละหมาดวันนี้ใน Shibganj, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Shibganj",
-  "id": "/loona-islamic-tools/th/prayer-times-in-shibganj.html",
+  "id": "/th/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jeddah",
   "short_name": "Bönetider i Jeddah",
   "description": "Dagens bönetider i Jeddah, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Jeddah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jeddah.html",
+  "id": "/sv/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

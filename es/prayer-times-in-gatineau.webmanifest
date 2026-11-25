@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Gatineau",
   "short_name": "Horarios de oración en Gatineau",
   "description": "Horarios de oración de hoy en Gatineau, Canadá: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Gatineau.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-gatineau.html",
+  "id": "/es/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

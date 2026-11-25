@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Las Palmas de Gran Canaria",
   "short_name": "זמני תפילה בעיר Las Palmas de Gran Canaria",
   "description": "זמני התפילה של היום בעיר Las Palmas de Gran Canaria, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Las Palmas de Gran Canaria.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-las-palmas-de-gran-canaria.html",
+  "id": "/he/prayer-times-in-las-palmas-de-gran-canaria.html",
   "start_url": "./prayer-times-in-las-palmas-de-gran-canaria.html",
   "scope": "./prayer-times-in-las-palmas-de-gran-canaria.html",
   "display": "standalone",

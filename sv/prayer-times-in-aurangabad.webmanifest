@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Aurangabad",
   "short_name": "Bönetider i Aurangabad",
   "description": "Dagens bönetider i Aurangabad, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Aurangabad.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-aurangabad.html",
+  "id": "/sv/prayer-times-in-aurangabad.html",
   "start_url": "./prayer-times-in-aurangabad.html",
   "scope": "./prayer-times-in-aurangabad.html",
   "display": "standalone",

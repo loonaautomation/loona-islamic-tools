@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Najrān",
   "short_name": "Časy modlitieb v Najrān",
   "description": "Dnešné časy modlitieb v Najrān, Saudská Arábia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Umm al-Qura, počítané naživo vo vašom zariadení pre Najrān.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-najran.html",
+  "id": "/sk/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

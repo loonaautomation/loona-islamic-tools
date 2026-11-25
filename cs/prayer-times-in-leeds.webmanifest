@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Leeds",
   "short_name": "Časy modliteb v Leeds",
   "description": "Dnešní časy modliteb v Leeds, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Leeds.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-leeds.html",
+  "id": "/cs/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

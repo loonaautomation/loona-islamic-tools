@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dadu",
   "short_name": "זמני תפילה בעיר Dadu",
   "description": "זמני התפילה של היום בעיר Dadu, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dadu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dadu.html",
+  "id": "/he/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في بورت سودان",
   "short_name": "مواقيت الصلاة في بورت سودان",
   "description": "مواقيت الصلاة اليوم في بورت السودان، السودان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لبورت السودان.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-port-sudan.html",
+  "id": "/ar/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

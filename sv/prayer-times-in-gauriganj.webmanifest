@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gauriganj",
   "short_name": "Bönetider i Gauriganj",
   "description": "Dagens bönetider i Gauriganj, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Gauriganj.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gauriganj.html",
+  "id": "/sv/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

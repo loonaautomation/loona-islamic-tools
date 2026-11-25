@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в San Francisco",
   "short_name": "Час намазу в San Francisco",
   "description": "Сьогоднішній час намазу в San Francisco, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для San Francisco.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-san-francisco.html",
+  "id": "/uk/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

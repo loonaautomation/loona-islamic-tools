@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Neyshābūr",
   "short_name": "Vremena namaza u gradu Neyshābūr",
   "description": "Današnja vremena namaza u gradu Neyshābūr, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Neyshābūr.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-neyshabur.html",
+  "id": "/hr/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

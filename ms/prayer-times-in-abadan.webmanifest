@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Abadan",
   "short_name": "Waktu Solat di Abadan",
   "description": "Waktu solat hari ini di Abadan, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Abadan.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-abadan.html",
+  "id": "/ms/prayer-times-in-abadan.html",
   "start_url": "./prayer-times-in-abadan.html",
   "scope": "./prayer-times-in-abadan.html",
   "display": "standalone",

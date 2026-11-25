@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Çorlu",
   "short_name": "Час намазу в Çorlu",
   "description": "Сьогоднішній час намазу в Çorlu, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Çorlu.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-corlu.html",
+  "id": "/uk/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

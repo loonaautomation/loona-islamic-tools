@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Antalya",
   "short_name": "Časy modliteb v Antalya",
   "description": "Dnešní časy modliteb v Antalya, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Antalya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-antalya.html",
+  "id": "/cs/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

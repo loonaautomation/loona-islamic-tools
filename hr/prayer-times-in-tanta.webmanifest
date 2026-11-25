@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tanta",
   "short_name": "Vremena namaza u gradu Tanta",
   "description": "Današnja vremena namaza u gradu Tanta, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Tanta.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tanta.html",
+  "id": "/hr/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

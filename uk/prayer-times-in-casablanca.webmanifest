@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Casablanca",
   "short_name": "Час намазу в Casablanca",
   "description": "Сьогоднішній час намазу в Casablanca, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Casablanca.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-casablanca.html",
+  "id": "/uk/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

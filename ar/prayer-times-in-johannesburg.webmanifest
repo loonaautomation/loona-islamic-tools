@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Johannesburg",
   "short_name": "مواقيت الصلاة في Johannesburg",
   "description": "مواقيت الصلاة اليوم في Johannesburg، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـJohannesburg.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-johannesburg.html",
+  "id": "/ar/prayer-times-in-johannesburg.html",
   "start_url": "./prayer-times-in-johannesburg.html",
   "scope": "./prayer-times-in-johannesburg.html",
   "display": "standalone",

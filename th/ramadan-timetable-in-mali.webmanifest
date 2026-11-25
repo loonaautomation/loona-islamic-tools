@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Mali 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Mali 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Mali: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Bamako. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-mali.html",
+  "id": "/th/ramadan-timetable-in-mali.html",
   "start_url": "./ramadan-timetable-in-mali.html",
   "scope": "./ramadan-timetable-in-mali.html",
   "display": "standalone",

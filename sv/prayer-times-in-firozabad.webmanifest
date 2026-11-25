@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Fīrozābād",
   "short_name": "Bönetider i Fīrozābād",
   "description": "Dagens bönetider i Fīrozābād, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Fīrozābād.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-firozabad.html",
+  "id": "/sv/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

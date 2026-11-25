@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kandahār",
   "short_name": "Waktu Salat di Kandahār",
   "description": "Waktu salat hari ini di Kandahār, Afganistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kandahār.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kandahar.html",
+  "id": "/id/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

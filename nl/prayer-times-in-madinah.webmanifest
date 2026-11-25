@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Madinah",
   "short_name": "Gebedstijden in Madinah",
   "description": "De gebedstijden van vandaag in Madinah, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Madinah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-madinah.html",
+  "id": "/nl/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

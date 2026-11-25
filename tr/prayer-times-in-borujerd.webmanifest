@@ -2,7 +2,7 @@
   "name": "Loona Borūjerd Namaz Vakitleri",
   "short_name": "Borūjerd Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Borūjerd, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Borūjerd için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-borujerd.html",
+  "id": "/tr/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

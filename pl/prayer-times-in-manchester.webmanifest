@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Manchester",
   "short_name": "Czasy modlitw w miejscowości Manchester",
   "description": "Dzisiejsze czasy modlitw w miejscowości Manchester, kraj Wielka Brytania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Manchester.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-manchester.html",
+  "id": "/pl/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

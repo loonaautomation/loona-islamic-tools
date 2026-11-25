@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Dera Ismail Khan",
   "short_name": "Время намаза в городе Dera Ismail Khan",
   "description": "Время намаза на сегодня: Dera Ismail Khan, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-dera-ismail-khan.html",
+  "id": "/ru/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

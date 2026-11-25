@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kota Kinabalu",
   "short_name": "Czasy modlitw w miejscowości Kota Kinabalu",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kota Kinabalu, kraj Malezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kota Kinabalu.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kota-kinabalu.html",
+  "id": "/pl/prayer-times-in-kota-kinabalu.html",
   "start_url": "./prayer-times-in-kota-kinabalu.html",
   "scope": "./prayer-times-in-kota-kinabalu.html",
   "display": "standalone",

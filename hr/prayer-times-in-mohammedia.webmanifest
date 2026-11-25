@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mohammedia",
   "short_name": "Vremena namaza u gradu Mohammedia",
   "description": "Današnja vremena namaza u gradu Mohammedia, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Mohammedia.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mohammedia.html",
+  "id": "/hr/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

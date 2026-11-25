@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Graz",
   "short_name": "Rukousajat: Graz",
   "description": "Tämän päivän rukousajat paikassa Graz, Itävalta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Graz.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-graz.html",
+  "id": "/fi/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

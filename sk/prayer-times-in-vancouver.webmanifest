@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Vancouver",
   "short_name": "Časy modlitieb v Vancouver",
   "description": "Dnešné časy modlitieb v Vancouver, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Vancouver.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-vancouver.html",
+  "id": "/sk/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

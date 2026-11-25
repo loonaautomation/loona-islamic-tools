@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Randburg",
   "short_name": "Часове за намаз в Randburg",
   "description": "Днешните часове за намаз в Randburg, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Randburg.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-randburg.html",
+  "id": "/bg/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

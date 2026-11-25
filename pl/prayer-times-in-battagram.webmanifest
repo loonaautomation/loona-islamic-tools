@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Battagram",
   "short_name": "Czasy modlitw w miejscowości Battagram",
   "description": "Dzisiejsze czasy modlitw w miejscowości Battagram, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Battagram.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-battagram.html",
+  "id": "/pl/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Zanjan",
   "short_name": "זמני תפילה בעיר Zanjan",
   "description": "זמני התפילה של היום בעיר Zanjan, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Zanjan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-zanjan.html",
+  "id": "/he/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Doha",
   "short_name": "เวลาละหมาดใน Doha",
   "description": "เวลาละหมาดวันนี้ใน Doha, Qatar: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Doha",
-  "id": "/loona-islamic-tools/th/prayer-times-in-doha.html",
+  "id": "/th/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

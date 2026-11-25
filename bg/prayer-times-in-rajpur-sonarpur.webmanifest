@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Rajpur Sonarpur",
   "short_name": "Часове за намаз в Rajpur Sonarpur",
   "description": "Днешните часове за намаз в Rajpur Sonarpur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Rajpur Sonarpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-rajpur-sonarpur.html",
+  "id": "/bg/prayer-times-in-rajpur-sonarpur.html",
   "start_url": "./prayer-times-in-rajpur-sonarpur.html",
   "scope": "./prayer-times-in-rajpur-sonarpur.html",
   "display": "standalone",

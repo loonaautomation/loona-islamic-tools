@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Beirut Today",
   "short_name": "Prayer Times in Beirut Today",
   "description": "Today's prayer times in Beirut, Lebanon: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Beirut.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-beirut.html",
+  "id": "/en-us/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

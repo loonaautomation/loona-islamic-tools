@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jammu",
   "short_name": "เวลาละหมาดใน Jammu",
   "description": "เวลาละหมาดวันนี้ใน Jammu, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jammu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jammu.html",
+  "id": "/th/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

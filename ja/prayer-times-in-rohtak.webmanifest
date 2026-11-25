@@ -2,7 +2,7 @@
   "name": "Loona Rohtak の礼拝時刻",
   "short_name": "Rohtak の礼拝時刻",
   "description": "Rohtak（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Rohtak についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-rohtak.html",
+  "id": "/ja/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

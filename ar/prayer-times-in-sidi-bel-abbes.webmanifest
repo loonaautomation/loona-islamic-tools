@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sidi Bel Abbes",
   "short_name": "مواقيت الصلاة في Sidi Bel Abbes",
   "description": "مواقيت الصلاة اليوم في Sidi Bel Abbes، الجزائر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSidi Bel Abbes.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/ar/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

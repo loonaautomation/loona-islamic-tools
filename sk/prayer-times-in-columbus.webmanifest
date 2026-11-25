@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Columbus",
   "short_name": "Časy modlitieb v Columbus",
   "description": "Dnešné časy modlitieb v Columbus, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Columbus.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-columbus.html",
+  "id": "/sk/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

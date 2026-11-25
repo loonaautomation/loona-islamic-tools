@@ -2,7 +2,7 @@
   "name": "Loona Skardu の礼拝時刻",
   "short_name": "Skardu の礼拝時刻",
   "description": "Skardu（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Skardu についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-skardu.html",
+  "id": "/ja/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sandakan",
   "short_name": "Gebedstijden in Sandakan",
   "description": "De gebedstijden van vandaag in Sandakan, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sandakan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sandakan.html",
+  "id": "/nl/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

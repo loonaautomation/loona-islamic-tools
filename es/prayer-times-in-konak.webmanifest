@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Konak",
   "short_name": "Horarios de oración en Konak",
   "description": "Horarios de oración de hoy en Konak, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Konak.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-konak.html",
+  "id": "/es/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

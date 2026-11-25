@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sylhet",
   "short_name": "Rukousajat: Sylhet",
   "description": "Tämän päivän rukousajat paikassa Sylhet, Bangladesh: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Sylhet.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sylhet.html",
+  "id": "/fi/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

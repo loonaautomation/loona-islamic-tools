@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gilgit",
   "short_name": "Bönetider i Gilgit",
   "description": "Dagens bönetider i Gilgit, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Gilgit.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gilgit.html",
+  "id": "/sv/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

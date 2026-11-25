@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Agra",
   "short_name": "Waktu Salat di Agra",
   "description": "Waktu salat hari ini di Agra, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Agra.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-agra.html",
+  "id": "/id/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

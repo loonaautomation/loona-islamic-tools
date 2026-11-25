@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pittsburgh",
   "short_name": "Prayer Times in Pittsburgh",
   "description": "Today's prayer times in Pittsburgh, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Pittsburgh.",
-  "id": "/loona-islamic-tools/prayer-times-in-pittsburgh.html",
+  "id": "/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

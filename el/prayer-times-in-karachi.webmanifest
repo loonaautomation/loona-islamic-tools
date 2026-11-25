@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Karachi",
   "short_name": "Ώρες Προσευχής στο Karachi",
   "description": "Οι σημερινές ώρες προσευχής στο Karachi, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Karachi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-karachi.html",
+  "id": "/el/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

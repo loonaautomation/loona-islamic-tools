@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Colorado Springs",
   "short_name": "Gebedstijden in Colorado Springs",
   "description": "De gebedstijden van vandaag in Colorado Springs, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Colorado Springs.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-colorado-springs.html",
+  "id": "/nl/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

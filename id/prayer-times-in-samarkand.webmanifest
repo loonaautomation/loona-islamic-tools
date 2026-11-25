@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Samarkand",
   "short_name": "Waktu Salat di Samarkand",
   "description": "Waktu salat hari ini di Samarkand, Uzbekistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Samarkand.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-samarkand.html",
+  "id": "/id/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

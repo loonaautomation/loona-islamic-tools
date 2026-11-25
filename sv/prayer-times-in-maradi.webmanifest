@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Maradi",
   "short_name": "Bönetider i Maradi",
   "description": "Dagens bönetider i Maradi, Niger: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Maradi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-maradi.html",
+  "id": "/sv/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

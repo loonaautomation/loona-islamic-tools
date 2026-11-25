@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Manama",
   "short_name": "Orari di preghiera a Manama",
   "description": "Orari di preghiera di oggi a Manama, Bahrein: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Manama.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-manama.html",
+  "id": "/it/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

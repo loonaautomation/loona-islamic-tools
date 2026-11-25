@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Şanlıurfa",
   "short_name": "Gebedstijden in Şanlıurfa",
   "description": "De gebedstijden van vandaag in Şanlıurfa, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Şanlıurfa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sanliurfa.html",
+  "id": "/nl/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

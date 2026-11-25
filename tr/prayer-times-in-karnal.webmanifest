@@ -2,7 +2,7 @@
   "name": "Loona Karnāl Namaz Vakitleri",
   "short_name": "Karnāl Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Karnāl, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Karnāl için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-karnal.html",
+  "id": "/tr/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

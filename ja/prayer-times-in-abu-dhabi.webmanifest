@@ -2,7 +2,7 @@
   "name": "Loona Abu Dhabi の礼拝時刻",
   "short_name": "Abu Dhabi の礼拝時刻",
   "description": "Abu Dhabi、UAE の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、Abu Dhabi についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-abu-dhabi.html",
+  "id": "/ja/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

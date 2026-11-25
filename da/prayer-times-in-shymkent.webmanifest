@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Shymkent",
   "short_name": "Bønnetider i Shymkent",
   "description": "Dagens bønnetider i Shymkent, Kasakhstan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Shymkent.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-shymkent.html",
+  "id": "/da/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Surat",
   "short_name": "Horarios de oración en Surat",
   "description": "Horarios de oración de hoy en Surat, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Surat.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-surat.html",
+  "id": "/es/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

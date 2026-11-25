@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ternate",
   "short_name": "Prayer Times in Ternate",
   "description": "Today's prayer times in Ternate, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ternate.",
-  "id": "/loona-islamic-tools/prayer-times-in-ternate.html",
+  "id": "/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

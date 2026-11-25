@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Balbala",
   "short_name": "Vremena namaza u gradu Balbala",
   "description": "Današnja vremena namaza u gradu Balbala, Džibuti: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Balbala.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-balbala.html",
+  "id": "/hr/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

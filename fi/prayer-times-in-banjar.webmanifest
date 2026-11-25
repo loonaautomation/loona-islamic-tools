@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Banjar",
   "short_name": "Rukousajat: Banjar",
   "description": "Tämän päivän rukousajat paikassa Banjar, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Banjar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-banjar.html",
+  "id": "/fi/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

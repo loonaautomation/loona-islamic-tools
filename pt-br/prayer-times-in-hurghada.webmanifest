@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Hurghada",
   "short_name": "Horários de Oração em Hurghada",
   "description": "Horários de oração de hoje em Hurghada, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Hurghada.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-hurghada.html",
+  "id": "/pt-br/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

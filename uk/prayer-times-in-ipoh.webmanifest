@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ipoh",
   "short_name": "Час намазу в Ipoh",
   "description": "Сьогоднішній час намазу в Ipoh, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ipoh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ipoh.html",
+  "id": "/uk/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

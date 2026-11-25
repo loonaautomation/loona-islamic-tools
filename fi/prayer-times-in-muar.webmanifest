@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Muar",
   "short_name": "Rukousajat: Muar",
   "description": "Tämän päivän rukousajat paikassa Muar, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Muar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-muar.html",
+  "id": "/fi/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

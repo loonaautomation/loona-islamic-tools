@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ahvaz",
   "short_name": "Gebetszeiten in Ahvaz",
   "description": "Die heutigen Gebetszeiten in Ahvaz, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ahvaz.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ahvaz.html",
+  "id": "/de/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

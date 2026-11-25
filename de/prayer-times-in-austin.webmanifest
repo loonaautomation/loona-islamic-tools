@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Austin",
   "short_name": "Gebetszeiten in Austin",
   "description": "Die heutigen Gebetszeiten in Austin, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Austin.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-austin.html",
+  "id": "/de/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

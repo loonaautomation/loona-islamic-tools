@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Yazd",
   "short_name": "Bønnetider i Yazd",
   "description": "Dagens bønnetider i Yazd, Iran: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Yazd.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-yazd.html",
+  "id": "/nb/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

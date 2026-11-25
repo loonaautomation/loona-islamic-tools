@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Indore",
   "short_name": "Czasy modlitw w miejscowości Indore",
   "description": "Dzisiejsze czasy modlitw w miejscowości Indore, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Indore.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-indore.html",
+  "id": "/pl/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

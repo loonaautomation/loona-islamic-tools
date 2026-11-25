@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mirpur Khas",
   "short_name": "Orari di preghiera a Mirpur Khas",
   "description": "Orari di preghiera di oggi a Mirpur Khas, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Mirpur Khas.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mirpur-khas.html",
+  "id": "/it/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

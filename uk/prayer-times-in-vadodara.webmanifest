@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Vadodara",
   "short_name": "Час намазу в Vadodara",
   "description": "Сьогоднішній час намазу в Vadodara, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Vadodara.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-vadodara.html",
+  "id": "/uk/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

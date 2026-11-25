@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ziguinchor",
   "short_name": "Час намазу в Ziguinchor",
   "description": "Сьогоднішній час намазу в Ziguinchor, Сенегал: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ziguinchor.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ziguinchor.html",
+  "id": "/uk/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Agra",
   "short_name": "Prayer Times in Agra",
   "description": "Today's prayer times in Agra, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Agra.",
-  "id": "/loona-islamic-tools/prayer-times-in-agra.html",
+  "id": "/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

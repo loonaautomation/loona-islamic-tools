@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kanayannur",
   "short_name": "Gebetszeiten in Kanayannur",
   "description": "Die heutigen Gebetszeiten in Kanayannur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kanayannur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kanayannur.html",
+  "id": "/de/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

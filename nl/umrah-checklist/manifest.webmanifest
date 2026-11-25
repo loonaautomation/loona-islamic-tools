@@ -2,7 +2,7 @@
   "name": "Loona Umrah-checklist",
   "short_name": "Umrah-checklist",
   "description": "Een interactieve Umrah-checklist: documenten, boekingen, inpakken, gezondheid en ibadah-voorbereiding, met voortgangsbalk, printoptie en voortgang die op je apparaat wordt bewaard.",
-  "id": "/loona-islamic-tools/nl/umrah-checklist/",
+  "id": "/nl/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

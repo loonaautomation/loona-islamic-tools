@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sacramento",
   "short_name": "Vremena namaza u gradu Sacramento",
   "description": "Današnja vremena namaza u gradu Sacramento, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Sacramento.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sacramento.html",
+  "id": "/hr/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

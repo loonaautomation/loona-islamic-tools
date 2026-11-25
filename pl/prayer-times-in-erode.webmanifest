@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Erode",
   "short_name": "Czasy modlitw w miejscowości Erode",
   "description": "Dzisiejsze czasy modlitw w miejscowości Erode, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Erode.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-erode.html",
+  "id": "/pl/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

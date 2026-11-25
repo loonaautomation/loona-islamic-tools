@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nagpur",
   "short_name": "Gebedstijden in Nagpur",
   "description": "De gebedstijden van vandaag in Nagpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Nagpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nagpur.html",
+  "id": "/nl/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

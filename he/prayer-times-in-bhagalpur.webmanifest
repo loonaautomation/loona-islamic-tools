@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhāgalpur",
   "short_name": "זמני תפילה בעיר Bhāgalpur",
   "description": "זמני התפילה של היום בעיר Bhāgalpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhāgalpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhagalpur.html",
+  "id": "/he/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

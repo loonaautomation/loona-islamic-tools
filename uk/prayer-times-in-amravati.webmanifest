@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Amravati",
   "short_name": "Час намазу в Amravati",
   "description": "Сьогоднішній час намазу в Amravati, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Amravati.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-amravati.html",
+  "id": "/uk/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

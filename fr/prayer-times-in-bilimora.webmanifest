@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bilimora",
   "short_name": "Heures de prière à Bilimora",
   "description": "Les heures de prière d’aujourd’hui à Bilimora, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Bilimora.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bilimora.html",
+  "id": "/fr/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

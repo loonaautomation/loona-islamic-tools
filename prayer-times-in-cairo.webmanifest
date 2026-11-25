@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cairo",
   "short_name": "Prayer Times in Cairo",
   "description": "Today's prayer times in Cairo, Egypt: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Cairo.",
-  "id": "/loona-islamic-tools/prayer-times-in-cairo.html",
+  "id": "/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

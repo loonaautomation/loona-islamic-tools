@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times — Accurate Salah Times for Any City",
   "short_name": "Prayer Times — Accurate Salah Times for Any City",
   "description": "Get today’s Fajr, Dhuhr, Asr, Maghrib and Isha prayer times for any city: Karachi, ISNA, MWL and more methods, Hanafi or Shafi Asr, exact coordinates supported.",
-  "id": "/loona-islamic-tools/en-us/prayer-times/",
+  "id": "/en-us/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

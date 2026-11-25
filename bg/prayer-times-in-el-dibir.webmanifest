@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в El Dibir",
   "short_name": "Часове за намаз в El Dibir",
   "description": "Днешните часове за намаз в El Dibir, Сомалия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за El Dibir.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-el-dibir.html",
+  "id": "/bg/prayer-times-in-el-dibir.html",
   "start_url": "./prayer-times-in-el-dibir.html",
   "scope": "./prayer-times-in-el-dibir.html",
   "display": "standalone",

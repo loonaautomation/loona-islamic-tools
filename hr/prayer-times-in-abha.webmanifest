@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Abha",
   "short_name": "Vremena namaza u gradu Abha",
   "description": "Današnja vremena namaza u gradu Abha, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Abha.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-abha.html",
+  "id": "/hr/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

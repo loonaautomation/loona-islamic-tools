@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Siliguri",
   "short_name": "Час намазу в Siliguri",
   "description": "Сьогоднішній час намазу в Siliguri, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Siliguri.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-siliguri.html",
+  "id": "/uk/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

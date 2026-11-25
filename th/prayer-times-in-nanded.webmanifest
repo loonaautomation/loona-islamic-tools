@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Nanded",
   "short_name": "เวลาละหมาดใน Nanded",
   "description": "เวลาละหมาดวันนี้ใน Nanded, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Nanded",
-  "id": "/loona-islamic-tools/th/prayer-times-in-nanded.html",
+  "id": "/th/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

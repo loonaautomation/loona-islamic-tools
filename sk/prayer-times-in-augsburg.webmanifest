@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Augsburg",
   "short_name": "Časy modlitieb v Augsburg",
   "description": "Dnešné časy modlitieb v Augsburg, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Augsburg.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-augsburg.html",
+  "id": "/sk/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

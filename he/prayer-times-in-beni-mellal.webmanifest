@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Beni Mellal",
   "short_name": "זמני תפילה בעיר Beni Mellal",
   "description": "זמני התפילה של היום בעיר Beni Mellal, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Beni Mellal.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-beni-mellal.html",
+  "id": "/he/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

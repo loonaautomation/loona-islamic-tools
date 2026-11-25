@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Denizli",
   "short_name": "Bönetider i Denizli",
   "description": "Dagens bönetider i Denizli, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Denizli.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-denizli.html",
+  "id": "/sv/prayer-times-in-denizli.html",
   "start_url": "./prayer-times-in-denizli.html",
   "scope": "./prayer-times-in-denizli.html",
   "display": "standalone",

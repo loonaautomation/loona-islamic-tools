@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tanta",
   "short_name": "Waktu Salat di Tanta",
   "description": "Waktu salat hari ini di Tanta, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Tanta.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tanta.html",
+  "id": "/id/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

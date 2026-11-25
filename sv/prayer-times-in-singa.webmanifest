@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Singa",
   "short_name": "Bönetider i Singa",
   "description": "Dagens bönetider i Singa, Sudan: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Singa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-singa.html",
+  "id": "/sv/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

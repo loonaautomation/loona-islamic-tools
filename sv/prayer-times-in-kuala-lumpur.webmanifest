@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kuala Lumpur",
   "short_name": "Bönetider i Kuala Lumpur",
   "description": "Dagens bönetider i Kuala Lumpur, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Kuala Lumpur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kuala-lumpur.html",
+  "id": "/sv/prayer-times-in-kuala-lumpur.html",
   "start_url": "./prayer-times-in-kuala-lumpur.html",
   "scope": "./prayer-times-in-kuala-lumpur.html",
   "display": "standalone",

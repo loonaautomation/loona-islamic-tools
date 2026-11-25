@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Munich",
   "short_name": "Horarios de oración en Munich",
   "description": "Horarios de oración de hoy en Munich, Alemania: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Munich.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-munich.html",
+  "id": "/es/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

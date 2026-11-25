@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Merkezefendi",
   "short_name": "مواقيت الصلاة في Merkezefendi",
   "description": "مواقيت الصلاة اليوم في Merkezefendi، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMerkezefendi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-merkezefendi.html",
+  "id": "/ar/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dera Ghazi Khan",
   "short_name": "Bönetider i Dera Ghazi Khan",
   "description": "Dagens bönetider i Dera Ghazi Khan, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Dera Ghazi Khan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dera-ghazi-khan.html",
+  "id": "/sv/prayer-times-in-dera-ghazi-khan.html",
   "start_url": "./prayer-times-in-dera-ghazi-khan.html",
   "scope": "./prayer-times-in-dera-ghazi-khan.html",
   "display": "standalone",

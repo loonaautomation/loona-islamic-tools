@@ -2,7 +2,7 @@
   "name": "Loona Ambattur的禮拜時間",
   "short_name": "Ambattur的禮拜時間",
   "description": "Ambattur（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Ambattur實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-ambattur.html",
+  "id": "/zh-hant/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

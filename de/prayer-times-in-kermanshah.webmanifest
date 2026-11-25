@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kermanshah",
   "short_name": "Gebetszeiten in Kermanshah",
   "description": "Die heutigen Gebetszeiten in Kermanshah, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kermanshah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kermanshah.html",
+  "id": "/de/prayer-times-in-kermanshah.html",
   "start_url": "./prayer-times-in-kermanshah.html",
   "scope": "./prayer-times-in-kermanshah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Puducherry",
   "short_name": "Prayer Times in Puducherry",
   "description": "Today's prayer times in Puducherry, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Puducherry.",
-  "id": "/loona-islamic-tools/prayer-times-in-puducherry.html",
+  "id": "/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

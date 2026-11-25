@@ -2,7 +2,7 @@
   "name": "Loona Amravati Namaz Vakitleri",
   "short_name": "Amravati Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Amravati, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Amravati için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-amravati.html",
+  "id": "/tr/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

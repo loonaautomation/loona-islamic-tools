@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Afyonkarahisar",
   "short_name": "เวลาละหมาดใน Afyonkarahisar",
   "description": "เวลาละหมาดวันนี้ใน Afyonkarahisar, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Afyonkarahisar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-afyonkarahisar.html",
+  "id": "/th/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

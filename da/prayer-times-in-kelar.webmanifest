@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kelar",
   "short_name": "Bønnetider i Kelar",
   "description": "Dagens bønnetider i Kelar, Irak: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kelar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kelar.html",
+  "id": "/da/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

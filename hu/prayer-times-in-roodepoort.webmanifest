@@ -2,7 +2,7 @@
   "name": "Loona Roodepoort imaidői",
   "short_name": "Roodepoort imaidői",
   "description": "A mai imaidők: Roodepoort, Dél-afrikai Köztársaság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Roodepoort számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-roodepoort.html",
+  "id": "/hu/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

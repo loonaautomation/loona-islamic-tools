@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Maheshtala",
   "short_name": "Час намазу в Maheshtala",
   "description": "Сьогоднішній час намазу в Maheshtala, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Maheshtala.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-maheshtala.html",
+  "id": "/uk/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

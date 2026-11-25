@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Washington",
   "short_name": "Waktu Solat di Washington",
   "description": "Waktu solat hari ini di Washington, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Washington.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-washington.html",
+  "id": "/ms/prayer-times-in-washington.html",
   "start_url": "./prayer-times-in-washington.html",
   "scope": "./prayer-times-in-washington.html",
   "display": "standalone",

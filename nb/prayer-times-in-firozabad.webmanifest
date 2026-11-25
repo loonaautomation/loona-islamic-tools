@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Fīrozābād",
   "short_name": "Bønnetider i Fīrozābād",
   "description": "Dagens bønnetider i Fīrozābād, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Fīrozābād.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-firozabad.html",
+  "id": "/nb/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

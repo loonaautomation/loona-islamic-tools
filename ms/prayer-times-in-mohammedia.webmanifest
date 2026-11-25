@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Mohammedia",
   "short_name": "Waktu Solat di Mohammedia",
   "description": "Waktu solat hari ini di Mohammedia, Maghribi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Mohammedia.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-mohammedia.html",
+  "id": "/ms/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

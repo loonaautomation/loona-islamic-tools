@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Probolinggo",
   "short_name": "Bønnetider i Probolinggo",
   "description": "Dagens bønnetider i Probolinggo, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Probolinggo.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-probolinggo.html",
+  "id": "/nb/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

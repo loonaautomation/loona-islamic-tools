@@ -2,7 +2,7 @@
   "name": "Loona Tucson imaidői",
   "short_name": "Tucson imaidői",
   "description": "A mai imaidők: Tucson, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Tucson számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tucson.html",
+  "id": "/hu/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

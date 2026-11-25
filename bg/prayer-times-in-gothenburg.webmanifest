@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gothenburg",
   "short_name": "Часове за намаз в Gothenburg",
   "description": "Днешните часове за намаз в Gothenburg, Швеция: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gothenburg.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gothenburg.html",
+  "id": "/bg/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

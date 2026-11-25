@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Serang",
   "short_name": "זמני תפילה בעיר Serang",
   "description": "זמני התפילה של היום בעיר Serang, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Serang.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-serang.html",
+  "id": "/he/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

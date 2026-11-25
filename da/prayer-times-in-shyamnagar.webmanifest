@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Shyamnagar",
   "short_name": "Bønnetider i Shyamnagar",
   "description": "Dagens bønnetider i Shyamnagar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Shyamnagar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-shyamnagar.html",
+  "id": "/da/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

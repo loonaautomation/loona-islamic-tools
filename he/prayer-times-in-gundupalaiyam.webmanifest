@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gundupālaiyam",
   "short_name": "זמני תפילה בעיר Gundupālaiyam",
   "description": "זמני התפילה של היום בעיר Gundupālaiyam, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Gundupālaiyam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gundupalaiyam.html",
+  "id": "/he/prayer-times-in-gundupalaiyam.html",
   "start_url": "./prayer-times-in-gundupalaiyam.html",
   "scope": "./prayer-times-in-gundupalaiyam.html",
   "display": "standalone",

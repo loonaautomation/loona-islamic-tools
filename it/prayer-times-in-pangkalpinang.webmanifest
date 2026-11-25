@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Pangkalpinang",
   "short_name": "Orari di preghiera a Pangkalpinang",
   "description": "Orari di preghiera di oggi a Pangkalpinang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Pangkalpinang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-pangkalpinang.html",
+  "id": "/it/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

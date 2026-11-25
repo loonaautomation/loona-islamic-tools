@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Los Angeles",
   "short_name": "Časy modlitieb v Los Angeles",
   "description": "Dnešné časy modlitieb v Los Angeles, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Los Angeles.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-los-angeles.html",
+  "id": "/sk/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

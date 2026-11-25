@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Rangpur",
   "short_name": "Ώρες Προσευχής στο Rangpur",
   "description": "Οι σημερινές ώρες προσευχής στο Rangpur, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Rangpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-rangpur.html",
+  "id": "/el/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

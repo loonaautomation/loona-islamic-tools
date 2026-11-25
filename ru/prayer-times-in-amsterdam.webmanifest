@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Amsterdam",
   "short_name": "Время намаза в городе Amsterdam",
   "description": "Время намаза на сегодня: Amsterdam, Нидерланды: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Amsterdam.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-amsterdam.html",
+  "id": "/ru/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

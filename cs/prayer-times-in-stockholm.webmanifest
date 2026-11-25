@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Stockholm",
   "short_name": "Časy modliteb v Stockholm",
   "description": "Dnešní časy modliteb v Stockholm, Švédsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Stockholm.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-stockholm.html",
+  "id": "/cs/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

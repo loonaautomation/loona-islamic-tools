@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Latakia",
   "short_name": "Časy modliteb v Latakia",
   "description": "Dnešní časy modliteb v Latakia, Sýrie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Latakia.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-latakia.html",
+  "id": "/cs/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Edinburgh",
   "short_name": "Časy modliteb v Edinburgh",
   "description": "Dnešní časy modliteb v Edinburgh, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Edinburgh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-edinburgh.html",
+  "id": "/cs/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

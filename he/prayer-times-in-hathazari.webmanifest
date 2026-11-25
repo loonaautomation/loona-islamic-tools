@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hāthazāri",
   "short_name": "זמני תפילה בעיר Hāthazāri",
   "description": "זמני התפילה של היום בעיר Hāthazāri, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Hāthazāri.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hathazari.html",
+  "id": "/he/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

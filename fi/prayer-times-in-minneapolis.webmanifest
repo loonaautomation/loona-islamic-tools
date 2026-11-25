@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Minneapolis",
   "short_name": "Rukousajat: Minneapolis",
   "description": "Tämän päivän rukousajat paikassa Minneapolis, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Minneapolis.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-minneapolis.html",
+  "id": "/fi/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

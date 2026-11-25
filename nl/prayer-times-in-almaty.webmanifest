@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Almaty",
   "short_name": "Gebedstijden in Almaty",
   "description": "De gebedstijden van vandaag in Almaty, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Almaty.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-almaty.html",
+  "id": "/nl/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

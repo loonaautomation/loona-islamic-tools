@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nasimshahr",
   "short_name": "Rukousajat: Nasimshahr",
   "description": "Tämän päivän rukousajat paikassa Nasimshahr, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Nasimshahr.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nasimshahr.html",
+  "id": "/fi/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

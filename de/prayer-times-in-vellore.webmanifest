@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Vellore",
   "short_name": "Gebetszeiten in Vellore",
   "description": "Die heutigen Gebetszeiten in Vellore, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Vellore.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-vellore.html",
+  "id": "/de/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

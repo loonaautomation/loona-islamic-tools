@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kerman",
   "short_name": "Rukousajat: Kerman",
   "description": "Tämän päivän rukousajat paikassa Kerman, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kerman.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kerman.html",
+  "id": "/fi/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

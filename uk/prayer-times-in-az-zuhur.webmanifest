@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Az-Zuhūr",
   "short_name": "Час намазу в Az-Zuhūr",
   "description": "Сьогоднішній час намазу в Az-Zuhūr, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Az-Zuhūr.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-az-zuhur.html",
+  "id": "/uk/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Uşak",
   "short_name": "Bønnetider i Uşak",
   "description": "Dagens bønnetider i Uşak, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Uşak.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-usak.html",
+  "id": "/nb/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

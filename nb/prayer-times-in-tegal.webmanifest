@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tegal",
   "short_name": "Bønnetider i Tegal",
   "description": "Dagens bønnetider i Tegal, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Tegal.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tegal.html",
+  "id": "/nb/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

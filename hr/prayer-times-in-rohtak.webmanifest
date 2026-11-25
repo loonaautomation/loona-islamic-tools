@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rohtak",
   "short_name": "Vremena namaza u gradu Rohtak",
   "description": "Današnja vremena namaza u gradu Rohtak, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Rohtak.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rohtak.html",
+  "id": "/hr/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

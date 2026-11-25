@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Thoothukudi",
   "short_name": "Waktu Solat di Thoothukudi",
   "description": "Waktu solat hari ini di Thoothukudi, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Thoothukudi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-thoothukudi.html",
+  "id": "/ms/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Karbala",
   "short_name": "Rukousajat: Karbala",
   "description": "Tämän päivän rukousajat paikassa Karbala, Irak: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Karbala.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-karbala.html",
+  "id": "/fi/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

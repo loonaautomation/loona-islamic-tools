@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Manama",
   "short_name": "Время намаза в городе Manama",
   "description": "Время намаза на сегодня: Manama, Бахрейн: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Manama.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-manama.html",
+  "id": "/ru/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

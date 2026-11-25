@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Lexington-Fayette",
   "short_name": "Час намазу в Lexington-Fayette",
   "description": "Сьогоднішній час намазу в Lexington-Fayette, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Lexington-Fayette.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-lexington-fayette.html",
+  "id": "/uk/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

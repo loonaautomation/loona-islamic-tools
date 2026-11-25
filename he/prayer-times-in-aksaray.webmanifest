@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Aksaray",
   "short_name": "זמני תפילה בעיר Aksaray",
   "description": "זמני התפילה של היום בעיר Aksaray, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Aksaray.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-aksaray.html",
+  "id": "/he/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

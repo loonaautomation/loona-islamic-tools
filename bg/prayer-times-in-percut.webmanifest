@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Percut",
   "short_name": "Часове за намаз в Percut",
   "description": "Днешните часове за намаз в Percut, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Percut.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-percut.html",
+  "id": "/bg/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

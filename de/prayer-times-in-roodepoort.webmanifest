@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Roodepoort",
   "short_name": "Gebetszeiten in Roodepoort",
   "description": "Die heutigen Gebetszeiten in Roodepoort, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Roodepoort.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-roodepoort.html",
+  "id": "/de/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jabalpur の礼拝時刻",
   "short_name": "Jabalpur の礼拝時刻",
   "description": "Jabalpur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Jabalpur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-jabalpur.html",
+  "id": "/ja/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

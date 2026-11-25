@@ -2,7 +2,7 @@
   "name": "Loona Horario de Ramadán",
   "short_name": "Horario de Ramadán",
   "description": "Horario completo de Ramadán para cualquier ciudad y año de la hégira: horarios del fin del Sehri y del Iftar para cada día de Ramadán con fechas gregorianas y duración del ayuno. Gratis e imprimible.",
-  "id": "/loona-islamic-tools/es/ramadan-timetable/",
+  "id": "/es/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

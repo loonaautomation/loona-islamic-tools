@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Orūmīyeh",
   "short_name": "Prayer Times in Orūmīyeh",
   "description": "Today's prayer times in Orūmīyeh, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Orūmīyeh.",
-  "id": "/loona-islamic-tools/prayer-times-in-orumiyeh.html",
+  "id": "/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

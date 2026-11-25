@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dubai",
   "short_name": "Bønnetider i Dubai",
   "description": "Dagens bønnetider i Dubai, UAE: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Dubai.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dubai.html",
+  "id": "/nb/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

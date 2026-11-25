@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pretoria",
   "short_name": "Bønnetider i Pretoria",
   "description": "Dagens bønnetider i Pretoria, Sør-Afrika: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Pretoria.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pretoria.html",
+  "id": "/nb/prayer-times-in-pretoria.html",
   "start_url": "./prayer-times-in-pretoria.html",
   "scope": "./prayer-times-in-pretoria.html",
   "display": "standalone",

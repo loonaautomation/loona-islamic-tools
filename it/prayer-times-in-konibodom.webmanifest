@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Konibodom",
   "short_name": "Orari di preghiera a Konibodom",
   "description": "Orari di preghiera di oggi a Konibodom, Tagikistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Konibodom.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-konibodom.html",
+  "id": "/it/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

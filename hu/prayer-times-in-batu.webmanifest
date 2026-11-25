@@ -2,7 +2,7 @@
   "name": "Loona Batu imaidői",
   "short_name": "Batu imaidői",
   "description": "A mai imaidők: Batu, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Batu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-batu.html",
+  "id": "/hu/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

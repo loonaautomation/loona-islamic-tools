@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nawābganj",
   "short_name": "זמני תפילה בעיר Nawābganj",
   "description": "זמני התפילה של היום בעיר Nawābganj, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Nawābganj.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nawabganj.html",
+  "id": "/he/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

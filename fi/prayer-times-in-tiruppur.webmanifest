@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tiruppur",
   "short_name": "Rukousajat: Tiruppur",
   "description": "Tämän päivän rukousajat paikassa Tiruppur, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Tiruppur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tiruppur.html",
+  "id": "/fi/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

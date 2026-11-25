@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Marāgheh",
   "short_name": "Час намазу в Marāgheh",
   "description": "Сьогоднішній час намазу в Marāgheh, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Marāgheh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-maragheh.html",
+  "id": "/uk/prayer-times-in-maragheh.html",
   "start_url": "./prayer-times-in-maragheh.html",
   "scope": "./prayer-times-in-maragheh.html",
   "display": "standalone",

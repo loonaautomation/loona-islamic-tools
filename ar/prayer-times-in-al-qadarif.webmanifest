@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Qadarif",
   "short_name": "مواقيت الصلاة في Al Qadarif",
   "description": "مواقيت الصلاة اليوم في Al Qadarif، السودان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAl Qadarif.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-qadarif.html",
+  "id": "/ar/prayer-times-in-al-qadarif.html",
   "start_url": "./prayer-times-in-al-qadarif.html",
   "scope": "./prayer-times-in-al-qadarif.html",
   "display": "standalone",

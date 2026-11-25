@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nuremberg",
   "short_name": "Bönetider i Nuremberg",
   "description": "Dagens bönetider i Nürnberg, Tyskland: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nürnberg.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nuremberg.html",
+  "id": "/sv/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

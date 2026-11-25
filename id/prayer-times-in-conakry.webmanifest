@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Conakry",
   "short_name": "Waktu Salat di Conakry",
   "description": "Waktu salat hari ini di Conakry, Guinea: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Conakry.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-conakry.html",
+  "id": "/id/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

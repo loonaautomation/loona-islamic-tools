@@ -2,7 +2,7 @@
   "name": "Loona Bandar Seri Alam imaidői",
   "short_name": "Bandar Seri Alam imaidői",
   "description": "A mai imaidők: Bandar Seri Alam, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bandar Seri Alam számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bandar-seri-alam.html",
+  "id": "/hu/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

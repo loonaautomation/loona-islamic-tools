@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Riverside",
   "short_name": "Bönetider i Riverside",
   "description": "Dagens bönetider i Riverside, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Riverside.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-riverside.html",
+  "id": "/sv/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

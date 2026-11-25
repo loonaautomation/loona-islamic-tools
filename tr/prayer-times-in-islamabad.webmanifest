@@ -2,7 +2,7 @@
   "name": "Loona Islamabad Namaz Vakitleri",
   "short_name": "Islamabad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Islamabad, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Islamabad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-islamabad.html",
+  "id": "/tr/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Saint-Louis",
   "short_name": "Час намазу в Saint-Louis",
   "description": "Сьогоднішній час намазу в Saint-Louis, Сенегал: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Saint-Louis.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-saint-louis.html",
+  "id": "/uk/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

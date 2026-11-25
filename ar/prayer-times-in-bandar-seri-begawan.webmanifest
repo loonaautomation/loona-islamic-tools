@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bandar Seri Begawan",
   "short_name": "مواقيت الصلاة في Bandar Seri Begawan",
   "description": "مواقيت الصلاة اليوم في Bandar Seri Begawan، بروناي: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBandar Seri Begawan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bandar-seri-begawan.html",
+  "id": "/ar/prayer-times-in-bandar-seri-begawan.html",
   "start_url": "./prayer-times-in-bandar-seri-begawan.html",
   "scope": "./prayer-times-in-bandar-seri-begawan.html",
   "display": "standalone",

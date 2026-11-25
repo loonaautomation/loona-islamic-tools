@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Digri",
   "short_name": "Bönetider i Digri",
   "description": "Dagens bönetider i Digri, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Digri.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-digri.html",
+  "id": "/sv/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

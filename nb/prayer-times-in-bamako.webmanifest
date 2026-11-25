@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bamako",
   "short_name": "Bønnetider i Bamako",
   "description": "Dagens bønnetider i Bamako, Mali: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Bamako.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bamako.html",
+  "id": "/nb/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

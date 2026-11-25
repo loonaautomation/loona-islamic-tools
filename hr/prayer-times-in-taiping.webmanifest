@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Taiping",
   "short_name": "Vremena namaza u gradu Taiping",
   "description": "Današnja vremena namaza u gradu Taiping, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Taiping.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-taiping.html",
+  "id": "/hr/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

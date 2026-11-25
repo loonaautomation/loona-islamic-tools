@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Oakland",
   "short_name": "เวลาละหมาดใน Oakland",
   "description": "เวลาละหมาดวันนี้ใน Oakland, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Oakland",
-  "id": "/loona-islamic-tools/th/prayer-times-in-oakland.html",
+  "id": "/th/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Utrecht",
   "short_name": "Час намазу в Utrecht",
   "description": "Сьогоднішній час намазу в Utrecht, Нідерланди: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Utrecht.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-utrecht.html",
+  "id": "/uk/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

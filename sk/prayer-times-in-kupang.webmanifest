@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kupang",
   "short_name": "Časy modlitieb v Kupang",
   "description": "Dnešné časy modlitieb v Kupang, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Kupang.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kupang.html",
+  "id": "/sk/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

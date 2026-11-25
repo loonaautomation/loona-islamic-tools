@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Halifax",
   "short_name": "Časy modlitieb v Halifax",
   "description": "Dnešné časy modlitieb v Halifax, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Halifax.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-halifax.html",
+  "id": "/sk/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

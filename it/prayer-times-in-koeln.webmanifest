@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Köln",
   "short_name": "Orari di preghiera a Köln",
   "description": "Orari di preghiera di oggi a Köln, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Köln.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-koeln.html",
+  "id": "/it/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

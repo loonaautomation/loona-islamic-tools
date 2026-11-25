@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cox’s Bāzār",
   "short_name": "مواقيت الصلاة في Cox’s Bāzār",
   "description": "مواقيت الصلاة اليوم في Cox’s Bāzār، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـCox’s Bāzār.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cox-s-bazar.html",
+  "id": "/ar/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

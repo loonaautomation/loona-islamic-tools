@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Louisville",
   "short_name": "Bönetider i Louisville",
   "description": "Dagens bönetider i Louisville, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Louisville.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-louisville.html",
+  "id": "/sv/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

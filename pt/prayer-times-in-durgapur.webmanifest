@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Durgapur",
   "short_name": "Horários de Oração em Durgapur",
   "description": "Horários de oração de hoje em Durgapur, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Durgapur.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-durgapur.html",
+  "id": "/pt/prayer-times-in-durgapur.html",
   "start_url": "./prayer-times-in-durgapur.html",
   "scope": "./prayer-times-in-durgapur.html",
   "display": "standalone",

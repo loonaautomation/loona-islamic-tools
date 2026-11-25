@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Tétouan",
   "short_name": "Orari di preghiera a Tétouan",
   "description": "Orari di preghiera di oggi a Tétouan, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Tétouan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-tetouan.html",
+  "id": "/it/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

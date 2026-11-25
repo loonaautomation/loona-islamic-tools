@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Karbala",
   "short_name": "Bønnetider i Karbala",
   "description": "Dagens bønnetider i Karbala, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Karbala.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-karbala.html",
+  "id": "/nb/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

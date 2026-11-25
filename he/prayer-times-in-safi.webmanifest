@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Safi",
   "short_name": "זמני תפילה בעיר Safi",
   "description": "זמני התפילה של היום בעיר Safi, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Safi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-safi.html",
+  "id": "/he/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Portland Namaz Vakitleri",
   "short_name": "Portland Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Portland, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Portland için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-portland.html",
+  "id": "/tr/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

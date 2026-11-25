@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Quetta",
   "short_name": "Horários de Oração em Quetta",
   "description": "Horários de oração de hoje em Quetta, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Quetta.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-quetta.html",
+  "id": "/pt-pt/prayer-times-in-quetta.html",
   "start_url": "./prayer-times-in-quetta.html",
   "scope": "./prayer-times-in-quetta.html",
   "display": "standalone",

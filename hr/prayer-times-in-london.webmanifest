@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu London",
   "short_name": "Vremena namaza u gradu London",
   "description": "Današnja vremena namaza u gradu London, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad London.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-london.html",
+  "id": "/hr/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

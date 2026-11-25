@@ -2,7 +2,7 @@
   "name": "Loona Buraydah imaidői",
   "short_name": "Buraydah imaidői",
   "description": "A mai imaidők: Buraydah, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Buraydah számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-buraydah.html",
+  "id": "/hu/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

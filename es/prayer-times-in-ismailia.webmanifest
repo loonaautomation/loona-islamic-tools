@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Ismailia",
   "short_name": "Horarios de oración en Ismailia",
   "description": "Horarios de oración de hoy en Ismailia, Egipto: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Egyptian General Authority, calculado en vivo en tu dispositivo para Ismailia.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-ismailia.html",
+  "id": "/es/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

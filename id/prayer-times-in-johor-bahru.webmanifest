@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Johor Bahru",
   "short_name": "Waktu Salat di Johor Bahru",
   "description": "Waktu salat hari ini di Johor Bahru, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Johor Bahru.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-johor-bahru.html",
+  "id": "/id/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

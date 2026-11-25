@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Manado",
   "short_name": "Gebetszeiten in Manado",
   "description": "Die heutigen Gebetszeiten in Manado, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Manado.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-manado.html",
+  "id": "/de/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

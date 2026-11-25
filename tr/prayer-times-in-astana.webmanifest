@@ -2,7 +2,7 @@
   "name": "Loona Astana Namaz Vakitleri",
   "short_name": "Astana Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Astana, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Astana için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-astana.html",
+  "id": "/tr/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

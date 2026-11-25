@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Gaya",
   "short_name": "Czasy modlitw w miejscowości Gaya",
   "description": "Dzisiejsze czasy modlitw w miejscowości Gaya, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Gaya.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-gaya.html",
+  "id": "/pl/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

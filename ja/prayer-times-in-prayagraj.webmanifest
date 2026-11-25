@@ -2,7 +2,7 @@
   "name": "Loona Prayagraj の礼拝時刻",
   "short_name": "Prayagraj の礼拝時刻",
   "description": "Prayagraj（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Prayagraj についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-prayagraj.html",
+  "id": "/ja/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

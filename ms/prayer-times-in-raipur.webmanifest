@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Raipur",
   "short_name": "Waktu Solat di Raipur",
   "description": "Waktu solat hari ini di Raipur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Raipur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-raipur.html",
+  "id": "/ms/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

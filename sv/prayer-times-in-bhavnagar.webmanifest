@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bhavnagar",
   "short_name": "Bönetider i Bhavnagar",
   "description": "Dagens bönetider i Bhavnagar, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bhavnagar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bhavnagar.html",
+  "id": "/sv/prayer-times-in-bhavnagar.html",
   "start_url": "./prayer-times-in-bhavnagar.html",
   "scope": "./prayer-times-in-bhavnagar.html",
   "display": "standalone",

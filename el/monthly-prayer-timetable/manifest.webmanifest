@@ -2,7 +2,7 @@
   "name": "Loona Μηνιαίο Πρόγραμμα Προσευχών",
   "short_name": "Μηνιαίο Πρόγραμμα Προσευχών",
   "description": "Δημιουργήστε ένα εκτυπώσιμο μηνιαίο πρόγραμμα προσευχών για οποιαδήποτε πόλη: και οι έξι ώρες για ολόκληρο τον μήνα, με τη μέθοδο υπολογισμού και τη σχολή Ασρ σας, δωρεάν και ιδιωτικά.",
-  "id": "/loona-islamic-tools/el/monthly-prayer-timetable/",
+  "id": "/el/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

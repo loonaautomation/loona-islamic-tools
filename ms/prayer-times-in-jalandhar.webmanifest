@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jalandhar",
   "short_name": "Waktu Solat di Jalandhar",
   "description": "Waktu solat hari ini di Jalandhar, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Jalandhar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jalandhar.html",
+  "id": "/ms/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

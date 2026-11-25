@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Malmö",
   "short_name": "Gebedstijden in Malmö",
   "description": "De gebedstijden van vandaag in Malmö, Zweden: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Malmö.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-malmoe.html",
+  "id": "/nl/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

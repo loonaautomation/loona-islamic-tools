@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bābol",
   "short_name": "Prayer Times in Bābol",
   "description": "Today's prayer times in Bābol, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bābol.",
-  "id": "/loona-islamic-tools/prayer-times-in-babol.html",
+  "id": "/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

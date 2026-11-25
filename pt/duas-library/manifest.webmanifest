@@ -2,7 +2,7 @@
   "name": "Loona Biblioteca de Duas",
   "short_name": "Biblioteca de Duas",
   "description": "Uma biblioteca de duas autênticas para cada momento — manhã, comida, viagem, casa, ansiedade, perdão — cada uma com árabe, transliteração, tradução e fonte.",
-  "id": "/loona-islamic-tools/pt/duas-library/",
+  "id": "/pt/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

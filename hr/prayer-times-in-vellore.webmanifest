@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Vellore",
   "short_name": "Vremena namaza u gradu Vellore",
   "description": "Današnja vremena namaza u gradu Vellore, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Vellore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-vellore.html",
+  "id": "/hr/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

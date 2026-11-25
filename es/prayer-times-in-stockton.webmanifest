@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Stockton",
   "short_name": "Horarios de oración en Stockton",
   "description": "Horarios de oración de hoy en Stockton, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Stockton.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-stockton.html",
+  "id": "/es/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

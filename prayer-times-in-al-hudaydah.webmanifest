@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Al Ḩudaydah",
   "short_name": "Prayer Times in Al Ḩudaydah",
   "description": "Today's prayer times in Al Ḩudaydah, Yemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Al Ḩudaydah.",
-  "id": "/loona-islamic-tools/prayer-times-in-al-hudaydah.html",
+  "id": "/prayer-times-in-al-hudaydah.html",
   "start_url": "./prayer-times-in-al-hudaydah.html",
   "scope": "./prayer-times-in-al-hudaydah.html",
   "display": "standalone",

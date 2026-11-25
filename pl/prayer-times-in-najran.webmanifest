@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Najrān",
   "short_name": "Czasy modlitw w miejscowości Najrān",
   "description": "Dzisiejsze czasy modlitw w miejscowości Najrān, kraj Arabia Saudyjska: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Umm al-Qura, obliczane na żywo na Twoim urządzeniu dla miejscowości Najrān.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-najran.html",
+  "id": "/pl/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

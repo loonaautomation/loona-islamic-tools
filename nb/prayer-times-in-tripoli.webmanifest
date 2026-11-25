@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tripoli (Libya)",
   "short_name": "Bønnetider i Tripoli (Libya)",
   "description": "Dagens bønnetider i Tripoli, Libya: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Tripoli.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tripoli.html",
+  "id": "/nb/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

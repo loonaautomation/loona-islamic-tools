@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Vancouver",
   "short_name": "Horários de Oração em Vancouver",
   "description": "Horários de oração de hoje em Vancouver, Canadá: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Vancouver.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-vancouver.html",
+  "id": "/pt/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

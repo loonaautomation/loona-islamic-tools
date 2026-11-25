@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Leicester",
   "short_name": "Vremena namaza u gradu Leicester",
   "description": "Današnja vremena namaza u gradu Leicester, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Leicester.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-leicester.html",
+  "id": "/hr/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

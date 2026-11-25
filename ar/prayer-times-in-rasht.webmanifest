@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rasht",
   "short_name": "مواقيت الصلاة في Rasht",
   "description": "مواقيت الصلاة اليوم في Rasht، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRasht.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rasht.html",
+  "id": "/ar/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

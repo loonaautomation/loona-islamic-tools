@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bukit Mertajam",
   "short_name": "Gebedstijden in Bukit Mertajam",
   "description": "De gebedstijden van vandaag in Bukit Mertajam, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bukit Mertajam.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bukit-mertajam.html",
+  "id": "/nl/prayer-times-in-bukit-mertajam.html",
   "start_url": "./prayer-times-in-bukit-mertajam.html",
   "scope": "./prayer-times-in-bukit-mertajam.html",
   "display": "standalone",

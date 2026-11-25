@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Barishal",
   "short_name": "مواقيت الصلاة في Barishal",
   "description": "مواقيت الصلاة اليوم في Barishal، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBarishal.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-barishal.html",
+  "id": "/ar/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

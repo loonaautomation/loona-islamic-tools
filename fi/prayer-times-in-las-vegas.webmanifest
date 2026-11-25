@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Las Vegas",
   "short_name": "Rukousajat: Las Vegas",
   "description": "Tämän päivän rukousajat paikassa Las Vegas, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Las Vegas.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-las-vegas.html",
+  "id": "/fi/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

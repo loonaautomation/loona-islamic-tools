@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Mansurah",
   "short_name": "Gebedstijden in Al Mansurah",
   "description": "De gebedstijden van vandaag in Al Mansurah, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Egyptian General Authority, live berekend op je apparaat voor Al Mansurah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-mansurah.html",
+  "id": "/nl/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

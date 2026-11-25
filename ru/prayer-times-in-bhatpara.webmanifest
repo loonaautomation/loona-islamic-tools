@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bhātpāra",
   "short_name": "Время намаза в городе Bhātpāra",
   "description": "Время намаза на сегодня: Bhātpāra, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Bhātpāra.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bhatpara.html",
+  "id": "/ru/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bandar Abbas",
   "short_name": "Gebetszeiten in Bandar Abbas",
   "description": "Die heutigen Gebetszeiten in Bandar Abbas, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bandar Abbas.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bandar-abbas.html",
+  "id": "/de/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

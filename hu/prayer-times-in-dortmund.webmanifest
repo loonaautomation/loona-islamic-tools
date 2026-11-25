@@ -2,7 +2,7 @@
   "name": "Loona Dortmund imaidői",
   "short_name": "Dortmund imaidői",
   "description": "A mai imaidők: Dortmund, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Dortmund számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dortmund.html",
+  "id": "/hu/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Antwerp",
   "short_name": "Ώρες Προσευχής στο Antwerp",
   "description": "Οι σημερινές ώρες προσευχής στο Antwerp, Βέλγιο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Antwerp.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-antwerp.html",
+  "id": "/el/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

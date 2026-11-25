@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Port Sudan",
   "short_name": "Horários de Oração em Port Sudan",
   "description": "Horários de oração de hoje em Port Sudão, Sudão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais o rumo da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Port Sudão.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-port-sudan.html",
+  "id": "/pt/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

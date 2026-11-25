@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Stockton",
   "short_name": "Час намазу в Stockton",
   "description": "Сьогоднішній час намазу в Stockton, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Stockton.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-stockton.html",
+  "id": "/uk/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

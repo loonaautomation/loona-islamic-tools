@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v South Boston",
   "short_name": "Časy modlitieb v South Boston",
   "description": "Dnešné časy modlitieb v South Boston, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre South Boston.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-south-boston.html",
+  "id": "/sk/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

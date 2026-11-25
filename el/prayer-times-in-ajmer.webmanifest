@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ajmer",
   "short_name": "Ώρες Προσευχής στο Ajmer",
   "description": "Οι σημερινές ώρες προσευχής στο Ajmer, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Ajmer.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ajmer.html",
+  "id": "/el/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ziguinchor",
   "short_name": "Časy modliteb v Ziguinchor",
   "description": "Dnešní časy modliteb v Ziguinchor, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ziguinchor.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ziguinchor.html",
+  "id": "/cs/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

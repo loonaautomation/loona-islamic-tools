@@ -2,7 +2,7 @@
   "name": "Loona Aurora imaidői",
   "short_name": "Aurora imaidői",
   "description": "A mai imaidők: Aurora, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Aurora számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-aurora.html",
+  "id": "/hu/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

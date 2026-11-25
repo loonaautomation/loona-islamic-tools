@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hamburg-Nord",
   "short_name": "זמני תפילה בעיר Hamburg-Nord",
   "description": "זמני התפילה של היום בעיר Hamburg-Nord, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Hamburg-Nord.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hamburg-nord.html",
+  "id": "/he/prayer-times-in-hamburg-nord.html",
   "start_url": "./prayer-times-in-hamburg-nord.html",
   "scope": "./prayer-times-in-hamburg-nord.html",
   "display": "standalone",

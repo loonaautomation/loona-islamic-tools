@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sylhet",
   "short_name": "Waktu Solat di Sylhet",
   "description": "Waktu solat hari ini di Sylhet, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Sylhet.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sylhet.html",
+  "id": "/ms/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

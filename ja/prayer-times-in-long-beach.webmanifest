@@ -2,7 +2,7 @@
   "name": "Loona Long Beach の礼拝時刻",
   "short_name": "Long Beach の礼拝時刻",
   "description": "Long Beach（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Long Beach についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-long-beach.html",
+  "id": "/ja/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

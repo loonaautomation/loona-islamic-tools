@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Rasht",
   "short_name": "Waktu Solat di Rasht",
   "description": "Waktu solat hari ini di Rasht, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Rasht.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-rasht.html",
+  "id": "/ms/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

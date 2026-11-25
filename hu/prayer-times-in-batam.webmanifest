@@ -2,7 +2,7 @@
   "name": "Loona Batam imaidői",
   "short_name": "Batam imaidői",
   "description": "A mai imaidők: Batam, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Batam számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-batam.html",
+  "id": "/hu/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

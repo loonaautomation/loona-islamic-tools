@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Shymkent",
   "short_name": "Gebetszeiten in Shymkent",
   "description": "Die heutigen Gebetszeiten in Shymkent, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Shymkent.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-shymkent.html",
+  "id": "/de/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bielefeld",
   "short_name": "Gebedstijden in Bielefeld",
   "description": "De gebedstijden van vandaag in Bielefeld, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bielefeld.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bielefeld.html",
+  "id": "/nl/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

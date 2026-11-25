@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Hamburg-Mitte",
   "short_name": "Časy modlitieb v Hamburg-Mitte",
   "description": "Dnešné časy modlitieb v Hamburg-Mitte, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-hamburg-mitte.html",
+  "id": "/sk/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

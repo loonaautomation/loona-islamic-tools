@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Turin",
   "short_name": "Waktu Salat di Turin",
   "description": "Waktu salat hari ini di Turin, Italia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Turin.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-turin.html",
+  "id": "/id/prayer-times-in-turin.html",
   "start_url": "./prayer-times-in-turin.html",
   "scope": "./prayer-times-in-turin.html",
   "display": "standalone",

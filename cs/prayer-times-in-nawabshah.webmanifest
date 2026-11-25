@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nawabshah",
   "short_name": "Časy modliteb v Nawabshah",
   "description": "Dnešní časy modliteb v Nawabshah, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Nawabshah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nawabshah.html",
+  "id": "/cs/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

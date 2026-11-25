@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Chānda",
   "short_name": "Gebetszeiten in Chānda",
   "description": "Die heutigen Gebetszeiten in Chānda, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Chānda.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-chanda.html",
+  "id": "/de/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

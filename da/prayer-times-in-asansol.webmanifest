@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Āsansol",
   "short_name": "Bønnetider i Āsansol",
   "description": "Dagens bønnetider i Āsansol, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Āsansol.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-asansol.html",
+  "id": "/da/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

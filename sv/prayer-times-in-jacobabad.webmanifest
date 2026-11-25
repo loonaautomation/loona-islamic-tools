@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jacobabad",
   "short_name": "Bönetider i Jacobabad",
   "description": "Dagens bönetider i Jacobabad, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Jacobabad.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jacobabad.html",
+  "id": "/sv/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Beni Mellal",
   "short_name": "Heures de prière à Beni Mellal",
   "description": "Les heures de prière d’aujourd’hui à Beni Mellal, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Beni Mellal.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-beni-mellal.html",
+  "id": "/fr/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

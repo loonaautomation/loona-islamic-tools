@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sialkot",
   "short_name": "Rukousajat: Sialkot",
   "description": "Tämän päivän rukousajat paikassa Sialkot, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Sialkot.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sialkot.html",
+  "id": "/fi/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

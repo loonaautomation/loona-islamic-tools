@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Long Beach",
   "short_name": "เวลาละหมาดใน Long Beach",
   "description": "เวลาละหมาดวันนี้ใน Long Beach, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Long Beach",
-  "id": "/loona-islamic-tools/th/prayer-times-in-long-beach.html",
+  "id": "/th/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

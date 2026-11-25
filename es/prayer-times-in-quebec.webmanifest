@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Québec",
   "short_name": "Horarios de oración en Québec",
   "description": "Horarios de oración de hoy en Québec, Canadá: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Québec.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-quebec.html",
+  "id": "/es/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

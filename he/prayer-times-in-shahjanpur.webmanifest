@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Shāhjānpur",
   "short_name": "זמני תפילה בעיר Shāhjānpur",
   "description": "זמני התפילה של היום בעיר Shāhjānpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Shāhjānpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-shahjanpur.html",
+  "id": "/he/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

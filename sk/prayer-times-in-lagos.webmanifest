@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Lagos",
   "short_name": "Časy modlitieb v Lagos",
   "description": "Dnešné časy modlitieb v Lagos, Nigéria: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Lagos.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-lagos.html",
+  "id": "/sk/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Duisburg",
   "short_name": "Rukousajat: Duisburg",
   "description": "Tämän päivän rukousajat paikassa Duisburg, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Duisburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-duisburg.html",
+  "id": "/fi/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ségou",
   "short_name": "Bønnetider i Ségou",
   "description": "Dagens bønnetider i Ségou, Mali: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Ségou.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-segou.html",
+  "id": "/nb/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

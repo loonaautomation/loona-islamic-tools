@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Oklahoma City",
   "short_name": "זמני תפילה בעיר Oklahoma City",
   "description": "זמני התפילה של היום בעיר Oklahoma City, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Oklahoma City.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-oklahoma-city.html",
+  "id": "/he/prayer-times-in-oklahoma-city.html",
   "start_url": "./prayer-times-in-oklahoma-city.html",
   "scope": "./prayer-times-in-oklahoma-city.html",
   "display": "standalone",

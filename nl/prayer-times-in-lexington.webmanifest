@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lexington",
   "short_name": "Gebedstijden in Lexington",
   "description": "De gebedstijden van vandaag in Lexington, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Lexington.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lexington.html",
+  "id": "/nl/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

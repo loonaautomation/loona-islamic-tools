@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Konya",
   "short_name": "Orari di preghiera a Konya",
   "description": "Orari di preghiera di oggi a Konya, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Konya.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-konya.html",
+  "id": "/it/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

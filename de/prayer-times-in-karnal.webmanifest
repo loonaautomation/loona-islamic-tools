@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karnāl",
   "short_name": "Gebetszeiten in Karnāl",
   "description": "Die heutigen Gebetszeiten in Karnāl, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Karnāl.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karnal.html",
+  "id": "/de/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

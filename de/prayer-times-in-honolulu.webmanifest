@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Honolulu",
   "short_name": "Gebetszeiten in Honolulu",
   "description": "Die heutigen Gebetszeiten in Honolulu, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Honolulu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-honolulu.html",
+  "id": "/de/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

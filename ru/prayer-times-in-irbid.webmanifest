@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Irbid",
   "short_name": "Время намаза в городе Irbid",
   "description": "Время намаза на сегодня: Irbid, Иордания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Irbid.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-irbid.html",
+  "id": "/ru/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

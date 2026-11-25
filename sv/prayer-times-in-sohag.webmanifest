@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sohag",
   "short_name": "Bönetider i Sohag",
   "description": "Dagens bönetider i Sohag, Egypten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Egyptian General Authority-metoden, beräknad live på din enhet för Sohag.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sohag.html",
+  "id": "/sv/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

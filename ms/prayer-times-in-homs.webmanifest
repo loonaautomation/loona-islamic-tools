@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Homs",
   "short_name": "Waktu Solat di Homs",
   "description": "Waktu solat hari ini di Homs, Syria: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Homs.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-homs.html",
+  "id": "/ms/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

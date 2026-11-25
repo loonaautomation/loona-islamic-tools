@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Denizli",
   "short_name": "Gebetszeiten in Denizli",
   "description": "Die heutigen Gebetszeiten in Denizli, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Denizli.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-denizli.html",
+  "id": "/de/prayer-times-in-denizli.html",
   "start_url": "./prayer-times-in-denizli.html",
   "scope": "./prayer-times-in-denizli.html",
   "display": "standalone",

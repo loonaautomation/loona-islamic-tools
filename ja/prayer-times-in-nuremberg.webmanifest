@@ -2,7 +2,7 @@
   "name": "Loona Nuremberg の礼拝時刻",
   "short_name": "Nuremberg の礼拝時刻",
   "description": "Nuremberg（ドイツ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Nuremberg についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-nuremberg.html",
+  "id": "/ja/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

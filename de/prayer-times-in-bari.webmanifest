@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bari",
   "short_name": "Gebetszeiten in Bari",
   "description": "Die heutigen Gebetszeiten in Bari, Italien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bari.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bari.html",
+  "id": "/de/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

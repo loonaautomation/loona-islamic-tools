@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Taraz",
   "short_name": "Часове за намаз в Taraz",
   "description": "Днешните часове за намаз в Taraz, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Taraz.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-taraz.html",
+  "id": "/bg/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

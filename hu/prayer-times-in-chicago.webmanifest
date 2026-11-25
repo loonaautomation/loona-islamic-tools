@@ -2,7 +2,7 @@
   "name": "Loona Chicago imaidői",
   "short_name": "Chicago imaidői",
   "description": "A mai imaidők: Chicago, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Chicago számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-chicago.html",
+  "id": "/hu/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

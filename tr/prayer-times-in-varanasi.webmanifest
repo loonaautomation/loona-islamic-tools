@@ -2,7 +2,7 @@
   "name": "Loona Varanasi Namaz Vakitleri",
   "short_name": "Varanasi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Varanasi, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Varanasi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-varanasi.html",
+  "id": "/tr/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

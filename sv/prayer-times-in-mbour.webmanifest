@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mbour",
   "short_name": "Bönetider i Mbour",
   "description": "Dagens bönetider i Mbour, Senegal: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mbour.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mbour.html",
+  "id": "/sv/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

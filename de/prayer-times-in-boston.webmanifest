@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Boston",
   "short_name": "Gebetszeiten in Boston",
   "description": "Die heutigen Gebetszeiten in Boston, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Boston.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-boston.html",
+  "id": "/de/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

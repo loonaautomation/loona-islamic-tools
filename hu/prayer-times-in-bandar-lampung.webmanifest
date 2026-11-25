@@ -2,7 +2,7 @@
   "name": "Loona Bandar Lampung imaidői",
   "short_name": "Bandar Lampung imaidői",
   "description": "A mai imaidők: Bandar Lampung, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bandar Lampung számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bandar-lampung.html",
+  "id": "/hu/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

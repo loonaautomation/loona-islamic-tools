@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Elazığ",
   "short_name": "Час намазу в Elazığ",
   "description": "Сьогоднішній час намазу в Elazığ, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Elazığ.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-elazig.html",
+  "id": "/uk/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

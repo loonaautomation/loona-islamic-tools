@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sargodha",
   "short_name": "Vremena namaza u gradu Sargodha",
   "description": "Današnja vremena namaza u gradu Sargodha, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Sargodha.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sargodha.html",
+  "id": "/hr/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

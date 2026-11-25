@@ -2,7 +2,7 @@
   "name": "Loona Ardabīl の礼拝時刻",
   "short_name": "Ardabīl の礼拝時刻",
   "description": "Ardabīl（イラン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Ardabīl についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ardabil.html",
+  "id": "/ja/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

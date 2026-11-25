@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Soweto",
   "short_name": "Vremena namaza u gradu Soweto",
   "description": "Današnja vremena namaza u gradu Soweto, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Soweto.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-soweto.html",
+  "id": "/hr/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

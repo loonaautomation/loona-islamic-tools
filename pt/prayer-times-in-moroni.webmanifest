@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Moroni",
   "short_name": "Horários de Oração em Moroni",
   "description": "Horários de oração de hoje em Moroni, Comores: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Moroni.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-moroni.html",
+  "id": "/pt/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

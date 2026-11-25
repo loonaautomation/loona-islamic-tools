@@ -2,7 +2,7 @@
   "name": "Loona 今日のイスラーム暦の日付",
   "short_name": "今日のイスラーム暦の日付",
   "description": "今日のイスラーム暦の日付は何ですか？今日のヒジュラ暦日付 — 日、月、年（Umm al-Qura） — をグレゴリオ暦日付とともに確認しましょう。あなたのデバイス上でライブ更新されます。無料です。",
-  "id": "/loona-islamic-tools/ja/islamic-date-today/",
+  "id": "/ja/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

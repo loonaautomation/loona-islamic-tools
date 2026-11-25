@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Khulna",
   "short_name": "Orari di preghiera a Khulna",
   "description": "Orari di preghiera di oggi a Khulna, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Khulna.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-khulna.html",
+  "id": "/it/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

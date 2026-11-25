@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Seattle",
   "short_name": "Bönetider i Seattle",
   "description": "Dagens bönetider i Seattle, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Seattle.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-seattle.html",
+  "id": "/sv/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

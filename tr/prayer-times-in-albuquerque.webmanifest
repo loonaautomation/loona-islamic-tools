@@ -2,7 +2,7 @@
   "name": "Loona Albuquerque Namaz Vakitleri",
   "short_name": "Albuquerque Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Albuquerque, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Albuquerque için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-albuquerque.html",
+  "id": "/tr/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

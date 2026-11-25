@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Houston",
   "short_name": "Ore de rugăciune în Houston",
   "description": "Orele de rugăciune de azi în Houston, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Houston.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-houston.html",
+  "id": "/ro/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

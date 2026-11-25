@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mohammedia",
   "short_name": "Bönetider i Mohammedia",
   "description": "Dagens bönetider i Mohammedia, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mohammedia.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mohammedia.html",
+  "id": "/sv/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

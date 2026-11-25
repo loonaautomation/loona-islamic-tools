@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Cairo",
   "short_name": "Heures de prière à Cairo",
   "description": "Les heures de prière d’aujourd’hui à Cairo, Égypte : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Cairo.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-cairo.html",
+  "id": "/fr/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

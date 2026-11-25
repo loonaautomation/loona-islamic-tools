@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Casablanca",
   "short_name": "Waktu Salat di Casablanca",
   "description": "Waktu salat hari ini di Casablanca, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Casablanca.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-casablanca.html",
+  "id": "/id/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

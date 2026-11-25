@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Omdurman",
   "short_name": "Часове за намаз в Omdurman",
   "description": "Днешните часове за намаз в Omdurman, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Omdurman.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-omdurman.html",
+  "id": "/bg/prayer-times-in-omdurman.html",
   "start_url": "./prayer-times-in-omdurman.html",
   "scope": "./prayer-times-in-omdurman.html",
   "display": "standalone",

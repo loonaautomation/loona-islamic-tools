@@ -2,7 +2,7 @@
   "name": "Loona Hijri-kalenteri",
   "short_name": "Hijri-kalenteri",
   "description": "Selaa mitä tahansa hijri-kuukautta ja -vuotta siistissä islamilaisessa kalenterissa, jossa jokainen päivä näyttää myös gregoriaanisen päivämääränsä. Umm al-Qura -kalenteri, ilmainen ja aina ajan tasalla.",
-  "id": "/loona-islamic-tools/fi/hijri-calendar/",
+  "id": "/fi/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

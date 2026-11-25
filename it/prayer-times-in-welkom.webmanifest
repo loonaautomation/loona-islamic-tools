@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Welkom",
   "short_name": "Orari di preghiera a Welkom",
   "description": "Orari di preghiera di oggi a Welkom, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Welkom.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-welkom.html",
+  "id": "/it/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Lexington",
   "short_name": "Rukousajat: Lexington",
   "description": "Tämän päivän rukousajat paikassa Lexington, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Lexington.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-lexington.html",
+  "id": "/fi/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

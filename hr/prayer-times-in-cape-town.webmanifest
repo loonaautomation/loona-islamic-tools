@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Cape Town",
   "short_name": "Vremena namaza u gradu Cape Town",
   "description": "Današnja vremena namaza u gradu Cape Town, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Cape Town.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-cape-town.html",
+  "id": "/hr/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bobo-Dioulasso",
   "short_name": "Часове за намаз в Bobo-Dioulasso",
   "description": "Днешните часове за намаз в Bobo-Dioulasso, Буркина Фасо: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bobo-Dioulasso.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bobo-dioulasso.html",
+  "id": "/bg/prayer-times-in-bobo-dioulasso.html",
   "start_url": "./prayer-times-in-bobo-dioulasso.html",
   "scope": "./prayer-times-in-bobo-dioulasso.html",
   "display": "standalone",

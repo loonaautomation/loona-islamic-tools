@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Leipzig",
   "short_name": "Časy modliteb v Leipzig",
   "description": "Dnešní časy modliteb v Leipzig, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Leipzig.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-leipzig.html",
+  "id": "/cs/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

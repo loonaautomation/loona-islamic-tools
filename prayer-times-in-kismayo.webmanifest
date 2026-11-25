@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kismayo",
   "short_name": "Prayer Times in Kismayo",
   "description": "Today's prayer times in Kismayo, Somalia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kismayo.",
-  "id": "/loona-islamic-tools/prayer-times-in-kismayo.html",
+  "id": "/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

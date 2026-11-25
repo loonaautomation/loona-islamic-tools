@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sandakan",
   "short_name": "Časy modliteb v Sandakan",
   "description": "Dnešní časy modliteb v Sandakan, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sandakan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sandakan.html",
+  "id": "/cs/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Zürich",
   "short_name": "Waktu Salat di Zürich",
   "description": "Waktu salat hari ini di Zürich, Swiss: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Zürich.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-zuerich.html",
+  "id": "/id/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

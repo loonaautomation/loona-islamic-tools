@@ -2,7 +2,7 @@
   "name": "Loona Córdoba imaidői",
   "short_name": "Córdoba imaidői",
   "description": "A mai imaidők: Córdoba, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Córdoba számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-cordoba.html",
+  "id": "/hu/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

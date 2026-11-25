@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Miami",
   "short_name": "Orari di preghiera a Miami",
   "description": "Orari di preghiera di oggi a Miami, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Miami.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-miami.html",
+  "id": "/it/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

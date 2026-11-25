@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ha'il",
   "short_name": "مواقيت الصلاة في Ha'il",
   "description": "مواقيت الصلاة اليوم في Ha'il، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـHa'il.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ha-il.html",
+  "id": "/ar/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

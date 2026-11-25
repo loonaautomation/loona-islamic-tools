@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе West Raleigh",
   "short_name": "Время намаза в городе West Raleigh",
   "description": "Время намаза на сегодня: West Raleigh, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города West Raleigh.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-west-raleigh.html",
+  "id": "/ru/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

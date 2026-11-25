@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sidi Bel Abbes",
   "short_name": "Waktu Solat di Sidi Bel Abbes",
   "description": "Waktu solat hari ini di Sidi Bel Abbes, Algeria: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/ms/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

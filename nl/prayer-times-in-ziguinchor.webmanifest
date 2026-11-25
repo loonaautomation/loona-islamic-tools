@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ziguinchor",
   "short_name": "Gebedstijden in Ziguinchor",
   "description": "De gebedstijden van vandaag in Ziguinchor, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ziguinchor.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ziguinchor.html",
+  "id": "/nl/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

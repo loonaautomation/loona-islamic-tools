@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Rāmgundam",
   "short_name": "เวลาละหมาดใน Rāmgundam",
   "description": "เวลาละหมาดวันนี้ใน Rāmgundam, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Rāmgundam",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ramgundam.html",
+  "id": "/th/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hamburg",
   "short_name": "Gebetszeiten in Hamburg",
   "description": "Die heutigen Gebetszeiten in Hamburg, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Hamburg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hamburg.html",
+  "id": "/de/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

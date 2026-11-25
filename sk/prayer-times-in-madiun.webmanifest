@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Madiun",
   "short_name": "Časy modlitieb v Madiun",
   "description": "Dnešné časy modlitieb v Madiun, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Madiun.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-madiun.html",
+  "id": "/sk/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

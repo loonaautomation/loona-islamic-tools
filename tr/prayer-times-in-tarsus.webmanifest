@@ -2,7 +2,7 @@
   "name": "Loona Tarsus Namaz Vakitleri",
   "short_name": "Tarsus Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tarsus, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tarsus için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tarsus.html",
+  "id": "/tr/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

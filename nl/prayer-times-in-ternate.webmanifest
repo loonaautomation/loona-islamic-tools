@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ternate",
   "short_name": "Gebedstijden in Ternate",
   "description": "De gebedstijden van vandaag in Ternate, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ternate.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ternate.html",
+  "id": "/nl/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

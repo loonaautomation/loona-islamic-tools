@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Vellore",
   "short_name": "Ώρες Προσευχής στο Vellore",
   "description": "Οι σημερινές ώρες προσευχής στο Vellore, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Vellore.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-vellore.html",
+  "id": "/el/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

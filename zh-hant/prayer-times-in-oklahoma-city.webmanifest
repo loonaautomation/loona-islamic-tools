@@ -2,7 +2,7 @@
   "name": "Loona Oklahoma City的禮拜時間",
   "short_name": "Oklahoma City的禮拜時間",
   "description": "Oklahoma City（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Oklahoma City實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-oklahoma-city.html",
+  "id": "/zh-hant/prayer-times-in-oklahoma-city.html",
   "start_url": "./prayer-times-in-oklahoma-city.html",
   "scope": "./prayer-times-in-oklahoma-city.html",
   "display": "standalone",

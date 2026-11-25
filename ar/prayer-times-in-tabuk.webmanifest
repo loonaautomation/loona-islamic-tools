@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tabuk",
   "short_name": "مواقيت الصلاة في Tabuk",
   "description": "مواقيت الصلاة اليوم في Tabuk، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـTabuk.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tabuk.html",
+  "id": "/ar/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

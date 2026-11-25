@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Zürich",
   "short_name": "Gebetszeiten in Zürich",
   "description": "Die heutigen Gebetszeiten in Zürich, Schweiz: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Zürich.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-zuerich.html",
+  "id": "/de/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

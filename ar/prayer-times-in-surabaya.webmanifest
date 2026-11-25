@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Surabaya",
   "short_name": "مواقيت الصلاة في Surabaya",
   "description": "مواقيت الصلاة اليوم في Surabaya، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSurabaya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-surabaya.html",
+  "id": "/ar/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

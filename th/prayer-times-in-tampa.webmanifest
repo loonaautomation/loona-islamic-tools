@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tampa",
   "short_name": "เวลาละหมาดใน Tampa",
   "description": "เวลาละหมาดวันนี้ใน Tampa, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tampa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tampa.html",
+  "id": "/th/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

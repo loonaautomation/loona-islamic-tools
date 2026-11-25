@@ -2,7 +2,7 @@
   "name": "Loona Ulhasnagar Namaz Vakitleri",
   "short_name": "Ulhasnagar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ulhasnagar, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Ulhasnagar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ulhasnagar.html",
+  "id": "/tr/prayer-times-in-ulhasnagar.html",
   "start_url": "./prayer-times-in-ulhasnagar.html",
   "scope": "./prayer-times-in-ulhasnagar.html",
   "display": "standalone",

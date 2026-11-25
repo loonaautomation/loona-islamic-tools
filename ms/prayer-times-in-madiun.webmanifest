@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Madiun",
   "short_name": "Waktu Solat di Madiun",
   "description": "Waktu solat hari ini di Madiun, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Madiun.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-madiun.html",
+  "id": "/ms/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

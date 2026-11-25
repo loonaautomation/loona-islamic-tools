@@ -2,7 +2,7 @@
   "name": "Loona Bhilwara の礼拝時刻",
   "short_name": "Bhilwara の礼拝時刻",
   "description": "Bhilwara（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bhilwara についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bhilwara.html",
+  "id": "/ja/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

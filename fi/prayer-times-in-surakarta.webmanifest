@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Surakarta",
   "short_name": "Rukousajat: Surakarta",
   "description": "Tämän päivän rukousajat paikassa Surakarta, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Surakarta.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-surakarta.html",
+  "id": "/fi/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

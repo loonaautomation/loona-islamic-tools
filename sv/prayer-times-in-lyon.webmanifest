@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Lyon",
   "short_name": "Bönetider i Lyon",
   "description": "Dagens bönetider i Lyon, Frankrike: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Lyon.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-lyon.html",
+  "id": "/sv/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

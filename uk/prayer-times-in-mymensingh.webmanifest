@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mymensingh",
   "short_name": "Час намазу в Mymensingh",
   "description": "Сьогоднішній час намазу в Mymensingh, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Mymensingh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mymensingh.html",
+  "id": "/uk/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

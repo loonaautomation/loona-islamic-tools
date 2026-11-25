@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bogura",
   "short_name": "זמני תפילה בעיר Bogura",
   "description": "זמני התפילה של היום בעיר Bogura, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bogura.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bogura.html",
+  "id": "/he/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

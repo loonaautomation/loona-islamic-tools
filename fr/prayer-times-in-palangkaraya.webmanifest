@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Palangkaraya",
   "short_name": "Heures de prière à Palangkaraya",
   "description": "Les heures de prière d’aujourd’hui à Palangkaraya, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Palangkaraya.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-palangkaraya.html",
+  "id": "/fr/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

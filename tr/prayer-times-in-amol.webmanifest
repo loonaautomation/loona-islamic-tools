@@ -2,7 +2,7 @@
   "name": "Loona Āmol Namaz Vakitleri",
   "short_name": "Āmol Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Āmol, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Āmol için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-amol.html",
+  "id": "/tr/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

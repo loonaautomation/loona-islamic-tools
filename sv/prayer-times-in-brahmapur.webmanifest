@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Brahmapur",
   "short_name": "Bönetider i Brahmapur",
   "description": "Dagens bönetider i Brahmapur, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Brahmapur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-brahmapur.html",
+  "id": "/sv/prayer-times-in-brahmapur.html",
   "start_url": "./prayer-times-in-brahmapur.html",
   "scope": "./prayer-times-in-brahmapur.html",
   "display": "standalone",

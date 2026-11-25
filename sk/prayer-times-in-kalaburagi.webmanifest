@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kalaburagi",
   "short_name": "Časy modlitieb v Kalaburagi",
   "description": "Dnešné časy modlitieb v Kalaburagi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kalaburagi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kalaburagi.html",
+  "id": "/sk/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

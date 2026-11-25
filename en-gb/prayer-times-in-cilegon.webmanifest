@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cilegon Today",
   "short_name": "Prayer Times in Cilegon Today",
   "description": "Today's prayer times in Cilegon, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Cilegon.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-cilegon.html",
+  "id": "/en-gb/prayer-times-in-cilegon.html",
   "start_url": "./prayer-times-in-cilegon.html",
   "scope": "./prayer-times-in-cilegon.html",
   "display": "standalone",

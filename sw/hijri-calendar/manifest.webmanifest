@@ -2,7 +2,7 @@
   "name": "Loona Kalenda ya Hijria",
   "short_name": "Kalenda ya Hijria",
   "description": "Vinjari mwezi wowote wa Hijria na mwaka katika kalenda safi ya Kiislamu ambapo kila siku pia huonesha tarehe yake ya Gregori. Kalenda ya Umm al-Qura, bure na ya kisasa kila wakati.",
-  "id": "/loona-islamic-tools/sw/hijri-calendar/",
+  "id": "/sw/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

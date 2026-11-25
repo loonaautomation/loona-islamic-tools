@@ -2,7 +2,7 @@
   "name": "Loona Albuquerque の礼拝時刻",
   "short_name": "Albuquerque の礼拝時刻",
   "description": "Albuquerque（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Albuquerque についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-albuquerque.html",
+  "id": "/ja/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Agartala",
   "short_name": "Ώρες Προσευχής στο Agartala",
   "description": "Οι σημερινές ώρες προσευχής στο Agartala, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Agartala.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-agartala.html",
+  "id": "/el/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Maradi",
   "short_name": "Часове за намаз в Maradi",
   "description": "Днешните часове за намаз в Maradi, Нигер: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Maradi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-maradi.html",
+  "id": "/bg/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karagandy",
   "short_name": "Gebetszeiten in Karagandy",
   "description": "Die heutigen Gebetszeiten in Karagandy, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Karagandy.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karagandy.html",
+  "id": "/de/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

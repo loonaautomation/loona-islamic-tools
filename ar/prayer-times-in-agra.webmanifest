@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Agra",
   "short_name": "مواقيت الصلاة في Agra",
   "description": "مواقيت الصلاة اليوم في Agra، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAgra.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-agra.html",
+  "id": "/ar/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

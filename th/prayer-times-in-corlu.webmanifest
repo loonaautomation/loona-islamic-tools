@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Çorlu",
   "short_name": "เวลาละหมาดใน Çorlu",
   "description": "เวลาละหมาดวันนี้ใน Çorlu, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Çorlu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-corlu.html",
+  "id": "/th/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

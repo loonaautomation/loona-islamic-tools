@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in San Francisco",
   "short_name": "Prayer Times in San Francisco",
   "description": "Today's prayer times in San Francisco, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for San Francisco.",
-  "id": "/loona-islamic-tools/prayer-times-in-san-francisco.html",
+  "id": "/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

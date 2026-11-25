@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pelentong",
   "short_name": "Bönetider i Pelentong",
   "description": "Dagens bönetider i Pelentong, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pelentong.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pelentong.html",
+  "id": "/sv/prayer-times-in-pelentong.html",
   "start_url": "./prayer-times-in-pelentong.html",
   "scope": "./prayer-times-in-pelentong.html",
   "display": "standalone",

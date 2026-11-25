@@ -2,7 +2,7 @@
   "name": "Loona Kendari Namaz Vakitleri",
   "short_name": "Kendari Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kendari, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kendari için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kendari.html",
+  "id": "/tr/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

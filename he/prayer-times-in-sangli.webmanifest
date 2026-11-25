@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sāngli",
   "short_name": "זמני תפילה בעיר Sāngli",
   "description": "זמני התפילה של היום בעיר Sāngli, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Sāngli.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sangli.html",
+  "id": "/he/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

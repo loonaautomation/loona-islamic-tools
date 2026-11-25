@@ -2,7 +2,7 @@
   "name": "Loona Zarqa Namaz Vakitleri",
   "short_name": "Zarqa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Zarqa, Ürdün: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Zarqa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-zarqa.html",
+  "id": "/tr/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

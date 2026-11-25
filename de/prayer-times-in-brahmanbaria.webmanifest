@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Brāhmanbāria",
   "short_name": "Gebetszeiten in Brāhmanbāria",
   "description": "Die heutigen Gebetszeiten in Brāhmanbāria, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Brāhmanbāria.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-brahmanbaria.html",
+  "id": "/de/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

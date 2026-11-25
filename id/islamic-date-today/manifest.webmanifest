@@ -2,7 +2,7 @@
   "name": "Loona Tanggal Islam Hari Ini",
   "short_name": "Tanggal Islam Hari Ini",
   "description": "Tanggal Islam berapa hari ini? Lihat tanggal Hijriah hari ini — hari, bulan dan tahun (Umm al-Qura) — dengan tanggal Masehi, diperbarui langsung di perangkat Anda. Gratis.",
-  "id": "/loona-islamic-tools/id/islamic-date-today/",
+  "id": "/id/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

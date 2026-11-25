@@ -2,7 +2,7 @@
   "name": "Loona Tabuk の礼拝時刻",
   "short_name": "Tabuk の礼拝時刻",
   "description": "Tabuk、サウジアラビア の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Tabuk についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-tabuk.html",
+  "id": "/ja/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

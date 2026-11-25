@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Varāmīn",
   "short_name": "Gebetszeiten in Varāmīn",
   "description": "Die heutigen Gebetszeiten in Varāmīn, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Varāmīn.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-varamin.html",
+  "id": "/de/prayer-times-in-varamin.html",
   "start_url": "./prayer-times-in-varamin.html",
   "scope": "./prayer-times-in-varamin.html",
   "display": "standalone",

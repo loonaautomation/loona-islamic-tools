@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bandar Lampung",
   "short_name": "مواقيت الصلاة في Bandar Lampung",
   "description": "مواقيت الصلاة اليوم في Bandar Lampung، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBandar Lampung.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bandar-lampung.html",
+  "id": "/ar/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

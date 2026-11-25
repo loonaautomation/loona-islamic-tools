@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Comilla",
   "short_name": "Časy modlitieb v Comilla",
   "description": "Dnešné časy modlitieb v Comilla, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Comilla.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-comilla.html",
+  "id": "/sk/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

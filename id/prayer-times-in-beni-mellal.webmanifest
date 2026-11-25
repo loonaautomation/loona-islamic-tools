@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Beni Mellal",
   "short_name": "Waktu Salat di Beni Mellal",
   "description": "Waktu salat hari ini di Beni Mellal, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Beni Mellal.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-beni-mellal.html",
+  "id": "/id/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

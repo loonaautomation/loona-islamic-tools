@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Antalya",
   "short_name": "Ore de rugăciune în Antalya",
   "description": "Orele de rugăciune de azi în Antalya, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Antalya.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-antalya.html",
+  "id": "/ro/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

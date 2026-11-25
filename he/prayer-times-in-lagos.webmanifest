@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Lagos",
   "short_name": "זמני תפילה בעיר Lagos",
   "description": "זמני התפילה של היום בעיר Lagos, ניגריה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Lagos.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-lagos.html",
+  "id": "/he/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

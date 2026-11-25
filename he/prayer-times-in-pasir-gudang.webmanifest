@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pasir Gudang",
   "short_name": "זמני תפילה בעיר Pasir Gudang",
   "description": "זמני התפילה של היום בעיר Pasir Gudang, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pasir Gudang.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pasir-gudang.html",
+  "id": "/he/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

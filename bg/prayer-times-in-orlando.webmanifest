@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Orlando",
   "short_name": "Часове за намаз в Orlando",
   "description": "Днешните часове за намаз в Orlando, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Orlando.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-orlando.html",
+  "id": "/bg/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

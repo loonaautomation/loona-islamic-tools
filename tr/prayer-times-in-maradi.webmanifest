@@ -2,7 +2,7 @@
   "name": "Loona Maradi Namaz Vakitleri",
   "short_name": "Maradi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Maradi, Nijer: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Maradi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-maradi.html",
+  "id": "/tr/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

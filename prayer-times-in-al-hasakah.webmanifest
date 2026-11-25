@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Al Ḩasakah",
   "short_name": "Prayer Times in Al Ḩasakah",
   "description": "Today's prayer times in Al Ḩasakah, Syria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Al Ḩasakah.",
-  "id": "/loona-islamic-tools/prayer-times-in-al-hasakah.html",
+  "id": "/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

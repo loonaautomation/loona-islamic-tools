@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Marāgheh",
   "short_name": "Waktu Salat di Marāgheh",
   "description": "Waktu salat hari ini di Marāgheh, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Marāgheh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-maragheh.html",
+  "id": "/id/prayer-times-in-maragheh.html",
   "start_url": "./prayer-times-in-maragheh.html",
   "scope": "./prayer-times-in-maragheh.html",
   "display": "standalone",

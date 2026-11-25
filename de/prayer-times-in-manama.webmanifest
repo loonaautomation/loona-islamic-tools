@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Manama",
   "short_name": "Gebetszeiten in Manama",
   "description": "Die heutigen Gebetszeiten in Manama, Bahrain: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Manama.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-manama.html",
+  "id": "/de/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

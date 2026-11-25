@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Palma",
   "short_name": "Vremena namaza u gradu Palma",
   "description": "Današnja vremena namaza u gradu Palma, Španjolska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Palma.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-palma.html",
+  "id": "/hr/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

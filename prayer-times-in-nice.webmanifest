@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nice",
   "short_name": "Prayer Times in Nice",
   "description": "Today's prayer times in Nice, France: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nice.",
-  "id": "/loona-islamic-tools/prayer-times-in-nice.html",
+  "id": "/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

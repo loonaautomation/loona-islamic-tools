@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר East London",
   "short_name": "זמני תפילה בעיר East London",
   "description": "זמני התפילה של היום בעיר East London, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור East London.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-east-london.html",
+  "id": "/he/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

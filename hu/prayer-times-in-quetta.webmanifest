@@ -2,7 +2,7 @@
   "name": "Loona Quetta imaidői",
   "short_name": "Quetta imaidői",
   "description": "A mai imaidők: Quetta, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Quetta számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-quetta.html",
+  "id": "/hu/prayer-times-in-quetta.html",
   "start_url": "./prayer-times-in-quetta.html",
   "scope": "./prayer-times-in-quetta.html",
   "display": "standalone",

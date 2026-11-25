@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Purwokerto",
   "short_name": "Waktu Salat di Purwokerto",
   "description": "Waktu salat hari ini di Purwokerto, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Purwokerto.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-purwokerto.html",
+  "id": "/id/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

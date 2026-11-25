@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Surat",
   "short_name": "Waktu Solat di Surat",
   "description": "Waktu solat hari ini di Surat, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Surat.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-surat.html",
+  "id": "/ms/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

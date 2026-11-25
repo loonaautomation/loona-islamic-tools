@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Augsburg",
   "short_name": "Waktu Salat di Augsburg",
   "description": "Waktu salat hari ini di Augsburg, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Augsburg.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-augsburg.html",
+  "id": "/id/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona جدول رمضان في لبنان 2027 (1448)",
   "short_name": "جدول رمضان في لبنان 2027 (1448)",
   "description": "جدول رمضان 2027 لـلبنان: مواقيت انتهاء السحور (الفجر) والإفطار (المغرب) لكل يوم من رمضان 1448، محسوبة لـBeirut. متوقع من 8 فبراير إلى 8 مارس 2027، رهنًا برؤية الهلال.",
-  "id": "/loona-islamic-tools/ar/ramadan-timetable-in-lebanon.html",
+  "id": "/ar/ramadan-timetable-in-lebanon.html",
   "start_url": "./ramadan-timetable-in-lebanon.html",
   "scope": "./ramadan-timetable-in-lebanon.html",
   "display": "standalone",

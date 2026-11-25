@@ -2,7 +2,7 @@
   "name": "Loona हिजरी कैलेंडर",
   "short_name": "हिजरी कैलेंडर",
   "description": "एक साफ़ इस्लामी कैलेंडर में कोई भी हिजरी महीना और वर्ष देखें जहाँ हर दिन अपनी ग्रेगोरियन तारीख़ भी दिखाता है। उम्म अल-क़ुरा कैलेंडर, मुफ़्त और हमेशा वर्तमान।",
-  "id": "/loona-islamic-tools/hi/hijri-calendar/",
+  "id": "/hi/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

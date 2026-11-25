@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Hyderabad",
   "short_name": "เวลาละหมาดใน Hyderabad",
   "description": "เวลาละหมาดวันนี้ใน Hyderabad, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Hyderabad",
-  "id": "/loona-islamic-tools/th/prayer-times-in-hyderabad.html",
+  "id": "/th/prayer-times-in-hyderabad.html",
   "start_url": "./prayer-times-in-hyderabad.html",
   "scope": "./prayer-times-in-hyderabad.html",
   "display": "standalone",

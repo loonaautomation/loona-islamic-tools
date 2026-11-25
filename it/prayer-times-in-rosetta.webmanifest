@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Rosetta",
   "short_name": "Orari di preghiera a Rosetta",
   "description": "Orari di preghiera di oggi a Rosetta, Egitto: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Egyptian General Authority, calcolati live sul tuo dispositivo per Rosetta.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-rosetta.html",
+  "id": "/it/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

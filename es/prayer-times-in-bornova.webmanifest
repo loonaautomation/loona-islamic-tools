@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bornova",
   "short_name": "Horarios de oración en Bornova",
   "description": "Horarios de oración de hoy en Bornova, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Bornova.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bornova.html",
+  "id": "/es/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

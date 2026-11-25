@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Yanbu",
   "short_name": "Časy modliteb v Yanbu",
   "description": "Dnešní časy modliteb v Yanbu, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Yanbu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-yanbu.html",
+  "id": "/cs/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

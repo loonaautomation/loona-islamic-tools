@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kerman",
   "short_name": "זמני תפילה בעיר Kerman",
   "description": "זמני התפילה של היום בעיר Kerman, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kerman.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kerman.html",
+  "id": "/he/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

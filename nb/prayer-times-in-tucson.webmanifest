@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tucson",
   "short_name": "Bønnetider i Tucson",
   "description": "Dagens bønnetider i Tucson, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Tucson.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tucson.html",
+  "id": "/nb/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

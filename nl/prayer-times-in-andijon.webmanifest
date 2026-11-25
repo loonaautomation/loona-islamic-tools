@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Andijon",
   "short_name": "Gebedstijden in Andijon",
   "description": "De gebedstijden van vandaag in Andijon, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Andijon.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-andijon.html",
+  "id": "/nl/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

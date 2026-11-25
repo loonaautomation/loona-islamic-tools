@@ -2,7 +2,7 @@
   "name": "Loona Dadu の礼拝時刻",
   "short_name": "Dadu の礼拝時刻",
   "description": "Dadu（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Dadu についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dadu.html",
+  "id": "/ja/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

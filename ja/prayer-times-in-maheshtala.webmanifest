@@ -2,7 +2,7 @@
   "name": "Loona Maheshtala の礼拝時刻",
   "short_name": "Maheshtala の礼拝時刻",
   "description": "Maheshtala（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Maheshtala についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-maheshtala.html",
+  "id": "/ja/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

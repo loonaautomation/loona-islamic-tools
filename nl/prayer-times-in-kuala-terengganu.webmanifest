@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kuala Terengganu",
   "short_name": "Gebedstijden in Kuala Terengganu",
   "description": "De gebedstijden van vandaag in Kuala Terengganu, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Kuala Terengganu.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kuala-terengganu.html",
+  "id": "/nl/prayer-times-in-kuala-terengganu.html",
   "start_url": "./prayer-times-in-kuala-terengganu.html",
   "scope": "./prayer-times-in-kuala-terengganu.html",
   "display": "standalone",

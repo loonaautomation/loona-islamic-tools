@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Khuzdar",
   "short_name": "Gebetszeiten in Khuzdar",
   "description": "Die heutigen Gebetszeiten in Khuzdar, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Khuzdar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-khuzdar.html",
+  "id": "/de/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

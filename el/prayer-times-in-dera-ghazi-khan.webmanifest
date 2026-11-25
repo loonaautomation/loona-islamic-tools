@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dera Ghazi Khan",
   "short_name": "Ώρες Προσευχής στο Dera Ghazi Khan",
   "description": "Οι σημερινές ώρες προσευχής στο Dera Ghazi Khan, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dera Ghazi Khan.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dera-ghazi-khan.html",
+  "id": "/el/prayer-times-in-dera-ghazi-khan.html",
   "start_url": "./prayer-times-in-dera-ghazi-khan.html",
   "scope": "./prayer-times-in-dera-ghazi-khan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Burewala",
   "short_name": "Časy modlitieb v Burewala",
   "description": "Dnešné časy modlitieb v Burewala, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Burewala.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-burewala.html",
+  "id": "/sk/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

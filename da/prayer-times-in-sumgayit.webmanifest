@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sumgayit",
   "short_name": "Bønnetider i Sumgayit",
   "description": "Dagens bønnetider i Sumgayit, Aserbajdsjan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Sumgayit.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-sumgayit.html",
+  "id": "/da/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

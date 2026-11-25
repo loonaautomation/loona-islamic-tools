@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Andijon",
   "short_name": "זמני תפילה בעיר Andijon",
   "description": "זמני התפילה של היום בעיר Andijon, אוזבקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Andijon.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-andijon.html",
+  "id": "/he/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

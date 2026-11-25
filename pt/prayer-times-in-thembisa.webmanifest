@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Thembisa",
   "short_name": "Horários de Oração em Thembisa",
   "description": "Horários de oração de hoje em Thembisa, África do Sul: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Thembisa.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-thembisa.html",
+  "id": "/pt/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

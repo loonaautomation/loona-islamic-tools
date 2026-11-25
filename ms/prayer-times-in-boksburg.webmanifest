@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Boksburg",
   "short_name": "Waktu Solat di Boksburg",
   "description": "Waktu solat hari ini di Boksburg, Afrika Selatan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Boksburg.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-boksburg.html",
+  "id": "/ms/prayer-times-in-boksburg.html",
   "start_url": "./prayer-times-in-boksburg.html",
   "scope": "./prayer-times-in-boksburg.html",
   "display": "standalone",

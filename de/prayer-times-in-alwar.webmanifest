@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Alwar",
   "short_name": "Gebetszeiten in Alwar",
   "description": "Die heutigen Gebetszeiten in Alwar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Alwar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-alwar.html",
+  "id": "/de/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

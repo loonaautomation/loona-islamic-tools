@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sfax",
   "short_name": "Rukousajat: Sfax",
   "description": "Tämän päivän rukousajat paikassa Sfax, Tunisia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sfax.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sfax.html",
+  "id": "/fi/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

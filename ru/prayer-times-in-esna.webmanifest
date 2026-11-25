@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Esna",
   "short_name": "Время намаза в городе Esna",
   "description": "Время намаза на сегодня: Esna, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Esna.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-esna.html",
+  "id": "/ru/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

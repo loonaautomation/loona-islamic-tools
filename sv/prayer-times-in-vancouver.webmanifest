@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Vancouver",
   "short_name": "Bönetider i Vancouver",
   "description": "Dagens bönetider i Vancouver, Kanada: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Vancouver.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-vancouver.html",
+  "id": "/sv/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

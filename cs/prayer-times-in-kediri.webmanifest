@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kediri",
   "short_name": "Časy modliteb v Kediri",
   "description": "Dnešní časy modliteb v Kediri, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kediri.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kediri.html",
+  "id": "/cs/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

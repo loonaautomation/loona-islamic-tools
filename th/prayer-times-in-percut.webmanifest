@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Percut",
   "short_name": "เวลาละหมาดใน Percut",
   "description": "เวลาละหมาดวันนี้ใน Percut, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Percut",
-  "id": "/loona-islamic-tools/th/prayer-times-in-percut.html",
+  "id": "/th/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

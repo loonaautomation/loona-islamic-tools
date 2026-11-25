@@ -2,7 +2,7 @@
   "name": "Loona Ibb Namaz Vakitleri",
   "short_name": "Ibb Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ibb, Yemen: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Ibb için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ibb.html",
+  "id": "/tr/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

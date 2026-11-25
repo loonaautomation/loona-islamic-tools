@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе London",
   "short_name": "Время намаза в городе London",
   "description": "Время намаза на сегодня: London, Великобритания: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города London.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-london.html",
+  "id": "/ru/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

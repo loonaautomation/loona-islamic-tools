@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Okara",
   "short_name": "זמני תפילה בעיר Okara",
   "description": "זמני התפילה של היום בעיר Okara, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Okara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-okara.html",
+  "id": "/he/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

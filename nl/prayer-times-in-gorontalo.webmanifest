@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Gorontalo",
   "short_name": "Gebedstijden in Gorontalo",
   "description": "De gebedstijden van vandaag in Gorontalo, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Gorontalo.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-gorontalo.html",
+  "id": "/nl/prayer-times-in-gorontalo.html",
   "start_url": "./prayer-times-in-gorontalo.html",
   "scope": "./prayer-times-in-gorontalo.html",
   "display": "standalone",

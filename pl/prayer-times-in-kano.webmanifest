@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kano",
   "short_name": "Czasy modlitw w miejscowości Kano",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kano, kraj Nigeria: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kano.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kano.html",
+  "id": "/pl/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

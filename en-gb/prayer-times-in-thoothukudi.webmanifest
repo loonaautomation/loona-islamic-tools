@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Thoothukudi Today",
   "short_name": "Prayer Times in Thoothukudi Today",
   "description": "Today's prayer times in Thoothukudi, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Thoothukudi.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-thoothukudi.html",
+  "id": "/en-gb/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Milwaukee",
   "short_name": "Ώρες Προσευχής στο Milwaukee",
   "description": "Οι σημερινές ώρες προσευχής στο Milwaukee, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Milwaukee.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-milwaukee.html",
+  "id": "/el/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

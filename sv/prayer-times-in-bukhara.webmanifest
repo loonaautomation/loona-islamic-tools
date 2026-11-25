@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bukhara",
   "short_name": "Bönetider i Bukhara",
   "description": "Dagens bönetider i Bukhara, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bukhara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bukhara.html",
+  "id": "/sv/prayer-times-in-bukhara.html",
   "start_url": "./prayer-times-in-bukhara.html",
   "scope": "./prayer-times-in-bukhara.html",
   "display": "standalone",

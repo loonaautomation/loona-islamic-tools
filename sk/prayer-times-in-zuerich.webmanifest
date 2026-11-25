@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Zürich",
   "short_name": "Časy modlitieb v Zürich",
   "description": "Dnešné časy modlitieb v Zürich, Švajčiarsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Zürich.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-zuerich.html",
+  "id": "/sk/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

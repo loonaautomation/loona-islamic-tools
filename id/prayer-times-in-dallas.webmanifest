@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Dallas",
   "short_name": "Waktu Salat di Dallas",
   "description": "Waktu salat hari ini di Dallas, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Dallas.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-dallas.html",
+  "id": "/id/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

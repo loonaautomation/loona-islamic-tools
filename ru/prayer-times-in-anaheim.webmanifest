@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Anaheim",
   "short_name": "Время намаза в городе Anaheim",
   "description": "Время намаза на сегодня: Anaheim, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Anaheim.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-anaheim.html",
+  "id": "/ru/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

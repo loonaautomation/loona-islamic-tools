@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Toulouse",
   "short_name": "Gebetszeiten in Toulouse",
   "description": "Die heutigen Gebetszeiten in Toulouse, Frankreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Toulouse.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-toulouse.html",
+  "id": "/de/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

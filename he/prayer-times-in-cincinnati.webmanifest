@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cincinnati",
   "short_name": "זמני תפילה בעיר Cincinnati",
   "description": "זמני התפילה של היום בעיר Cincinnati, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Cincinnati.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cincinnati.html",
+  "id": "/he/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Oral",
   "short_name": "Час намазу в Oral",
   "description": "Сьогоднішній час намазу в Oral, Казахстан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Oral.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-oral.html",
+  "id": "/uk/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Albuquerque",
   "short_name": "Bönetider i Albuquerque",
   "description": "Dagens bönetider i Albuquerque, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Albuquerque.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-albuquerque.html",
+  "id": "/sv/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

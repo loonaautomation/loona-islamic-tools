@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Graz",
   "short_name": "Bønnetider i Graz",
   "description": "Dagens bønnetider i Graz, Østrig: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Graz.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-graz.html",
+  "id": "/da/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

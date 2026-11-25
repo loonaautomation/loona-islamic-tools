@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Howrah",
   "short_name": "Horários de Oração em Howrah",
   "description": "Horários de oração de hoje em Howrah, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Howrah.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-howrah.html",
+  "id": "/pt/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

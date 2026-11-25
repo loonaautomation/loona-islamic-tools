@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nottingham",
   "short_name": "Časy modliteb v Nottingham",
   "description": "Dnešní časy modliteb v Nottingham, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Nottingham.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nottingham.html",
+  "id": "/cs/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

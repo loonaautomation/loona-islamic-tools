@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Malang",
   "short_name": "Horários de Oração em Malang",
   "description": "Horários de oração de hoje em Malang, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Malang.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-malang.html",
+  "id": "/pt-br/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

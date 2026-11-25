@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Vereeniging",
   "short_name": "Orari di preghiera a Vereeniging",
   "description": "Orari di preghiera di oggi a Vereeniging, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Vereeniging.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-vereeniging.html",
+  "id": "/it/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

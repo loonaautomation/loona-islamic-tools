@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Lagos",
   "short_name": "Waktu Solat di Lagos",
   "description": "Waktu solat hari ini di Lagos, Nigeria: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Lagos.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-lagos.html",
+  "id": "/ms/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

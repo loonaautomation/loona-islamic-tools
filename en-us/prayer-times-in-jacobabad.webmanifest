@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jacobabad Today",
   "short_name": "Prayer Times in Jacobabad Today",
   "description": "Today's prayer times in Jacobabad, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Jacobabad.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-jacobabad.html",
+  "id": "/en-us/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

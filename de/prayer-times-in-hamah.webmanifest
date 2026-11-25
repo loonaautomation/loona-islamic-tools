@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ḩamāh",
   "short_name": "Gebetszeiten in Ḩamāh",
   "description": "Die heutigen Gebetszeiten in Ḩamāh, Syrien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ḩamāh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hamah.html",
+  "id": "/de/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

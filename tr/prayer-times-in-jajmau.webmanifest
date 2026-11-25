@@ -2,7 +2,7 @@
   "name": "Loona Jājmau Namaz Vakitleri",
   "short_name": "Jājmau Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Jājmau, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Jājmau için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-jajmau.html",
+  "id": "/tr/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

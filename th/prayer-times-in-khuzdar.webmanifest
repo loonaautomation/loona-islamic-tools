@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Khuzdar",
   "short_name": "เวลาละหมาดใน Khuzdar",
   "description": "เวลาละหมาดวันนี้ใน Khuzdar, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Khuzdar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-khuzdar.html",
+  "id": "/th/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

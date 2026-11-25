@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kosti",
   "short_name": "Bönetider i Kosti",
   "description": "Dagens bönetider i Kosti, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kosti.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kosti.html",
+  "id": "/sv/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

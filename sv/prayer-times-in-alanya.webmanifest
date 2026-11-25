@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Alanya",
   "short_name": "Bönetider i Alanya",
   "description": "Dagens bönetider i Alanya, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Alanya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-alanya.html",
+  "id": "/sv/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Cirebon",
   "short_name": "Час намазу в Cirebon",
   "description": "Сьогоднішній час намазу в Cirebon, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Cirebon.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-cirebon.html",
+  "id": "/uk/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

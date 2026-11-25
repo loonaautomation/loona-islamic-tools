@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Abu Dhabi",
   "short_name": "مواقيت الصلاة في Abu Dhabi",
   "description": "مواقيت الصلاة اليوم في Abu Dhabi، الإمارات: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAbu Dhabi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-abu-dhabi.html",
+  "id": "/ar/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

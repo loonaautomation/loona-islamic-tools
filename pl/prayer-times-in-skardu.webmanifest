@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Skardu",
   "short_name": "Czasy modlitw w miejscowości Skardu",
   "description": "Dzisiejsze czasy modlitw w miejscowości Skardu, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Skardu.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-skardu.html",
+  "id": "/pl/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

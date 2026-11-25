@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dinajpur",
   "short_name": "เวลาละหมาดใน Dinajpur",
   "description": "เวลาละหมาดวันนี้ใน Dinajpur, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dinajpur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dinajpur.html",
+  "id": "/th/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

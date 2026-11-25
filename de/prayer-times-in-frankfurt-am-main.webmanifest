@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Frankfurt am Main",
   "short_name": "Gebetszeiten in Frankfurt am Main",
   "description": "Die heutigen Gebetszeiten in Frankfurt am Main, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Frankfurt am Main.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-frankfurt-am-main.html",
+  "id": "/de/prayer-times-in-frankfurt-am-main.html",
   "start_url": "./prayer-times-in-frankfurt-am-main.html",
   "scope": "./prayer-times-in-frankfurt-am-main.html",
   "display": "standalone",

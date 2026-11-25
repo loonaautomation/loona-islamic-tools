@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Merkezefendi",
   "short_name": "Waktu Salat di Merkezefendi",
   "description": "Waktu salat hari ini di Merkezefendi, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Merkezefendi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-merkezefendi.html",
+  "id": "/id/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

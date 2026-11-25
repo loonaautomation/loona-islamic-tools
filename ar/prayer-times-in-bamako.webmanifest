@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bamako",
   "short_name": "مواقيت الصلاة في Bamako",
   "description": "مواقيت الصلاة اليوم في Bamako، مالي: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBamako.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bamako.html",
+  "id": "/ar/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

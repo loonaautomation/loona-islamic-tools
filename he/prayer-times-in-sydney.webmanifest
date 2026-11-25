@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sydney",
   "short_name": "זמני תפילה בעיר Sydney",
   "description": "זמני התפילה של היום בעיר Sydney, אוסטרליה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Sydney.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sydney.html",
+  "id": "/he/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

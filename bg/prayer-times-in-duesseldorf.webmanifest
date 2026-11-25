@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Düsseldorf",
   "short_name": "Часове за намаз в Düsseldorf",
   "description": "Днешните часове за намаз в Düsseldorf, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Düsseldorf.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-duesseldorf.html",
+  "id": "/bg/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

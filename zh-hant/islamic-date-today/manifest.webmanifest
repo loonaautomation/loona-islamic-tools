@@ -2,7 +2,7 @@
   "name": "Loona 今日伊斯蘭曆日期",
   "short_name": "今日伊斯蘭曆日期",
   "description": "今天的伊斯蘭曆日期是幾號？檢視今天的Hijri日期——日期、月份和年份（Umm al-Qura）——以及公曆日期，在您的裝置上實時更新。免費。",
-  "id": "/loona-islamic-tools/zh-hant/islamic-date-today/",
+  "id": "/zh-hant/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

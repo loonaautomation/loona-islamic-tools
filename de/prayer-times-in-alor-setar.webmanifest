@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Alor Setar",
   "short_name": "Gebetszeiten in Alor Setar",
   "description": "Die heutigen Gebetszeiten in Alor Setar, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Alor Setar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-alor-setar.html",
+  "id": "/de/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

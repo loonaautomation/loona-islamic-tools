@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mirpur Khas",
   "short_name": "Časy modliteb v Mirpur Khas",
   "description": "Dnešní časy modliteb v Mirpur Khas, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Mirpur Khas.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mirpur-khas.html",
+  "id": "/cs/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

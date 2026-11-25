@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Surat",
   "short_name": "Časy modliteb v Surat",
   "description": "Dnešní časy modliteb v Surat, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Surat.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-surat.html",
+  "id": "/cs/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

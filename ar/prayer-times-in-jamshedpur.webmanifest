@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jamshedpur",
   "short_name": "مواقيت الصلاة في Jamshedpur",
   "description": "مواقيت الصلاة اليوم في Jamshedpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJamshedpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jamshedpur.html",
+  "id": "/ar/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

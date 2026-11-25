@@ -2,7 +2,7 @@
   "name": "Loona Ισλαμική Ημερομηνία Σήμερα",
   "short_name": "Ισλαμική Ημερομηνία Σήμερα",
   "description": "Ποια είναι η ισλαμική ημερομηνία σήμερα; Δείτε τη σημερινή ημερομηνία Χίτζρι — ημέρα, μήνας και έτος (Umm al-Qura) — με τη γρηγοριανή ημερομηνία, ενημερώνεται ζωντανά στη συσκευή σας. Δωρεάν.",
-  "id": "/loona-islamic-tools/el/islamic-date-today/",
+  "id": "/el/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Soshanguve的礼拜时间",
   "short_name": "Soshanguve的礼拜时间",
   "description": "Soshanguve（南非）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Soshanguve实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-soshanguve.html",
+  "id": "/zh/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

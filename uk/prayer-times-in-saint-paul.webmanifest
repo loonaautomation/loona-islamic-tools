@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Saint Paul",
   "short_name": "Час намазу в Saint Paul",
   "description": "Сьогоднішній час намазу в Saint Paul, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Saint Paul.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-saint-paul.html",
+  "id": "/uk/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

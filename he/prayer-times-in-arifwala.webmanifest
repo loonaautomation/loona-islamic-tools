@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Arifwala",
   "short_name": "זמני תפילה בעיר Arifwala",
   "description": "זמני התפילה של היום בעיר Arifwala, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Arifwala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-arifwala.html",
+  "id": "/he/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

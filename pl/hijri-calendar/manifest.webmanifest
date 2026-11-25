@@ -2,7 +2,7 @@
   "name": "Loona Kalendarz hidżry",
   "short_name": "Kalendarz hidżry",
   "description": "Przeglądaj dowolny miesiąc i rok hidżry w przejrzystym kalendarzu islamskim, w którym każdy dzień pokazuje także swoją datę gregoriańską. Kalendarz Umm al-Qura, bezpłatny i zawsze aktualny.",
-  "id": "/loona-islamic-tools/pl/hijri-calendar/",
+  "id": "/pl/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dammam",
   "short_name": "Bönetider i Dammam",
   "description": "Dagens bönetider i Dammam, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Dammam.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dammam.html",
+  "id": "/sv/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

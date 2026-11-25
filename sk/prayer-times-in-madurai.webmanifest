@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Madurai",
   "short_name": "Časy modlitieb v Madurai",
   "description": "Dnešné časy modlitieb v Madurai, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Madurai.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-madurai.html",
+  "id": "/sk/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Istanbul में नमाज़ के समय",
   "short_name": "Istanbul में नमाज़ के समय",
   "description": "Istanbul, तुर्किये में आज के नमाज़ समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (हनफ़ी), मग़रिब और इशा, साथ में क़िबला दिशा और आज की हिजरी तारीख़। Karachi विधि, आपके डिवाइस पर Istanbul के लिए लाइव गणना की गई।",
-  "id": "/loona-islamic-tools/hi/prayer-times-in-istanbul.html",
+  "id": "/hi/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

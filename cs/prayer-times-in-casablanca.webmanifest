@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Casablanca",
   "short_name": "Časy modliteb v Casablanca",
   "description": "Dnešní časy modliteb v Casablanca, Maroko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Casablanca.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-casablanca.html",
+  "id": "/cs/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

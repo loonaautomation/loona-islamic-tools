@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qods",
   "short_name": "Час намазу в Qods",
   "description": "Сьогоднішній час намазу в Qods, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Qods.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qods.html",
+  "id": "/uk/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

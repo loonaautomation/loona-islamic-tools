@@ -2,7 +2,7 @@
   "name": "Loona Marka Namaz Vakitleri",
   "short_name": "Marka Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Marka, Somali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Marka için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-marka.html",
+  "id": "/tr/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

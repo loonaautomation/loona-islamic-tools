@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dhule",
   "short_name": "זמני תפילה בעיר Dhule",
   "description": "זמני התפילה של היום בעיר Dhule, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dhule.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dhule.html",
+  "id": "/he/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

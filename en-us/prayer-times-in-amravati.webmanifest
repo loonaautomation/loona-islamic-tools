@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Amravati Today",
   "short_name": "Prayer Times in Amravati Today",
   "description": "Today's prayer times in Amravati, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Amravati.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-amravati.html",
+  "id": "/en-us/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

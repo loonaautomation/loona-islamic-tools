@@ -2,7 +2,7 @@
   "name": "Loona Karnāl imaidői",
   "short_name": "Karnāl imaidői",
   "description": "A mai imaidők: Karnāl, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Karnāl számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-karnal.html",
+  "id": "/hu/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

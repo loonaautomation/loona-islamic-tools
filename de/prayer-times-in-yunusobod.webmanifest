@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Yunusobod",
   "short_name": "Gebetszeiten in Yunusobod",
   "description": "Die heutigen Gebetszeiten in Yunusobod, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Yunusobod.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-yunusobod.html",
+  "id": "/de/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

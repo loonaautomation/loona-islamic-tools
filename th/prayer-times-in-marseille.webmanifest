@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Marseille",
   "short_name": "เวลาละหมาดใน Marseille",
   "description": "เวลาละหมาดวันนี้ใน Marseille, France: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Marseille",
-  "id": "/loona-islamic-tools/th/prayer-times-in-marseille.html",
+  "id": "/th/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

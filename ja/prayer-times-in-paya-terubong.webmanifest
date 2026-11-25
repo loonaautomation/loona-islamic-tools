@@ -2,7 +2,7 @@
   "name": "Loona Paya Terubong の礼拝時刻",
   "short_name": "Paya Terubong の礼拝時刻",
   "description": "Paya Terubong（マレーシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Paya Terubong についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-paya-terubong.html",
+  "id": "/ja/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

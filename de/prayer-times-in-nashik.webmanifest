@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nashik",
   "short_name": "Gebetszeiten in Nashik",
   "description": "Die heutigen Gebetszeiten in Nashik, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Nashik.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nashik.html",
+  "id": "/de/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

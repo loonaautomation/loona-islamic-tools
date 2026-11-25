@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sousse",
   "short_name": "مواقيت الصلاة في Sousse",
   "description": "مواقيت الصلاة اليوم في Sousse، تونس: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSousse.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sousse.html",
+  "id": "/ar/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Soshanguve",
   "short_name": "Heures de prière à Soshanguve",
   "description": "Les heures de prière d’aujourd’hui à Soshanguve, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Soshanguve.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-soshanguve.html",
+  "id": "/fr/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

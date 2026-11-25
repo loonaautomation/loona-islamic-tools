@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ankara",
   "short_name": "זמני תפילה בעיר Ankara",
   "description": "זמני התפילה של היום בעיר Ankara, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ankara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ankara.html",
+  "id": "/he/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

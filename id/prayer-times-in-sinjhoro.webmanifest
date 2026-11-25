@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sinjhoro",
   "short_name": "Waktu Salat di Sinjhoro",
   "description": "Waktu salat hari ini di Sinjhoro, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Sinjhoro.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sinjhoro.html",
+  "id": "/id/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

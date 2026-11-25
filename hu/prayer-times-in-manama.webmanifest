@@ -2,7 +2,7 @@
   "name": "Loona Manama imaidői",
   "short_name": "Manama imaidői",
   "description": "A mai imaidők: Manama, Bahrein: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Manama számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-manama.html",
+  "id": "/hu/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

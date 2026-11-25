@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nice",
   "short_name": "Bønnetider i Nice",
   "description": "Dagens bønnetider i Nice, Frankrig: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Nice.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-nice.html",
+  "id": "/da/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

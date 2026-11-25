@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Wellington",
   "short_name": "Horarios de oración en Wellington",
   "description": "Horarios de oración de hoy en Wellington, Nueva Zelanda: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Wellington.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-wellington.html",
+  "id": "/es/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Batam",
   "short_name": "Bönetider i Batam",
   "description": "Dagens bönetider i Batam, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Batam.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-batam.html",
+  "id": "/sv/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Khorramshahr",
   "short_name": "Prayer Times in Khorramshahr",
   "description": "Today's prayer times in Khorramshahr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Khorramshahr.",
-  "id": "/loona-islamic-tools/prayer-times-in-khorramshahr.html",
+  "id": "/prayer-times-in-khorramshahr.html",
   "start_url": "./prayer-times-in-khorramshahr.html",
   "scope": "./prayer-times-in-khorramshahr.html",
   "display": "standalone",

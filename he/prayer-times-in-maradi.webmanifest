@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Maradi",
   "short_name": "זמני תפילה בעיר Maradi",
   "description": "זמני התפילה של היום בעיר Maradi, ניז'ר: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Maradi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-maradi.html",
+  "id": "/he/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

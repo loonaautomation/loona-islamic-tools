@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Miri",
   "short_name": "Časy modliteb v Miri",
   "description": "Dnešní časy modliteb v Miri, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Miri.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-miri.html",
+  "id": "/cs/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

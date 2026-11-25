@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in San Jose",
   "short_name": "Gebedstijden in San Jose",
   "description": "De gebedstijden van vandaag in San Jose, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor San Jose.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-san-jose.html",
+  "id": "/nl/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

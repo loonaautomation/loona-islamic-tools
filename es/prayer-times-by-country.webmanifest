@@ -2,7 +2,7 @@
   "name": "Loona Horarios de Oración por País",
   "short_name": "Horarios de Oración por País",
   "description": "Horarios de oración para 871 ciudades de todo el mundo, agrupadas por país: Fajr, amanecer, Dhuhr, Asr, Maghrib e Isha para hoy, horarios de mes completo, dirección de la Qibla y horarios de Ramadán 2027 por país.",
-  "id": "/loona-islamic-tools/es/prayer-times-by-country.html",
+  "id": "/es/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
   "display": "standalone",

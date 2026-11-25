@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Surat",
   "short_name": "Bønnetider i Surat",
   "description": "Dagens bønnetider i Surat, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Surat.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-surat.html",
+  "id": "/da/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

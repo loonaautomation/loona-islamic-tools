@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jeddah",
   "short_name": "Vremena namaza u gradu Jeddah",
   "description": "Današnja vremena namaza u gradu Jeddah, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Jeddah.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jeddah.html",
+  "id": "/hr/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

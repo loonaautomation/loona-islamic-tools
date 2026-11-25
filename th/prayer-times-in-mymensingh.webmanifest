@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Mymensingh",
   "short_name": "เวลาละหมาดใน Mymensingh",
   "description": "เวลาละหมาดวันนี้ใน Mymensingh, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Mymensingh",
-  "id": "/loona-islamic-tools/th/prayer-times-in-mymensingh.html",
+  "id": "/th/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

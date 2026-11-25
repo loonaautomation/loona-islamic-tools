@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Johor Bahru",
   "short_name": "Часове за намаз в Johor Bahru",
   "description": "Днешните часове за намаз в Johor Bahru, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Johor Bahru.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-johor-bahru.html",
+  "id": "/bg/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

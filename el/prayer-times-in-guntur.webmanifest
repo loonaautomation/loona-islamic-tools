@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Guntur",
   "short_name": "Ώρες Προσευχής στο Guntur",
   "description": "Οι σημερινές ώρες προσευχής στο Guntur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Guntur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-guntur.html",
+  "id": "/el/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

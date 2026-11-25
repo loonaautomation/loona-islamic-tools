@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Latur",
   "short_name": "זמני תפילה בעיר Latur",
   "description": "זמני התפילה של היום בעיר Latur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Latur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-latur.html",
+  "id": "/he/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

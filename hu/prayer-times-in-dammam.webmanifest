@@ -2,7 +2,7 @@
   "name": "Loona Dammam imaidői",
   "short_name": "Dammam imaidői",
   "description": "A mai imaidők: Dammam, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Dammam számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dammam.html",
+  "id": "/hu/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

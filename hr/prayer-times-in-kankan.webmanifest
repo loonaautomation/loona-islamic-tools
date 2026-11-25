@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kankan",
   "short_name": "Vremena namaza u gradu Kankan",
   "description": "Današnja vremena namaza u gradu Kankan, Gvineja: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kankan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kankan.html",
+  "id": "/hr/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

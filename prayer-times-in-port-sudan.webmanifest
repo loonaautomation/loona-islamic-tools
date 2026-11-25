@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Port Sudan",
   "short_name": "Prayer Times in Port Sudan",
   "description": "Today's prayer times in Port Sudan, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Port Sudan.",
-  "id": "/loona-islamic-tools/prayer-times-in-port-sudan.html",
+  "id": "/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

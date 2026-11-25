@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Afyonkarahisar",
   "short_name": "Horários de Oração em Afyonkarahisar",
   "description": "Horários de oração de hoje em Afyonkarahisar, Turquia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Afyonkarahisar.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-afyonkarahisar.html",
+  "id": "/pt/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

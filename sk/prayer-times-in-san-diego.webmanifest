@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v San Diego",
   "short_name": "Časy modlitieb v San Diego",
   "description": "Dnešné časy modlitieb v San Diego, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre San Diego.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-san-diego.html",
+  "id": "/sk/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

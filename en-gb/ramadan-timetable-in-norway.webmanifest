@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable in Norway 2027",
   "short_name": "Ramadan Timetable in Norway 2027",
   "description": "Ramadan 2027 timetable for Norway: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Oslo. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/en-gb/ramadan-timetable-in-norway.html",
+  "id": "/en-gb/ramadan-timetable-in-norway.html",
   "start_url": "./ramadan-timetable-in-norway.html",
   "scope": "./ramadan-timetable-in-norway.html",
   "display": "standalone",

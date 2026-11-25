@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Khouribga",
   "short_name": "Gebedstijden in Khouribga",
   "description": "De gebedstijden van vandaag in Khouribga, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Khouribga.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-khouribga.html",
+  "id": "/nl/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

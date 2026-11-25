@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dhaka",
   "short_name": "Waktu Solat di Dhaka",
   "description": "Waktu solat hari ini di Dhaka, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Dhaka.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dhaka.html",
+  "id": "/ms/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

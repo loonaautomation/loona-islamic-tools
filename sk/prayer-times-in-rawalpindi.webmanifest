@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Rawalpindi",
   "short_name": "Časy modlitieb v Rawalpindi",
   "description": "Dnešné časy modlitieb v Rawalpindi, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Rawalpindi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-rawalpindi.html",
+  "id": "/sk/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

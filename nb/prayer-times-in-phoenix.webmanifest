@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Phoenix",
   "short_name": "Bønnetider i Phoenix",
   "description": "Dagens bønnetider i Phoenix, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Phoenix.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-phoenix.html",
+  "id": "/nb/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

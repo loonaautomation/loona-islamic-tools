@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Esna",
   "short_name": "مواقيت الصلاة في Esna",
   "description": "مواقيت الصلاة اليوم في Esna، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـEsna.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-esna.html",
+  "id": "/ar/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

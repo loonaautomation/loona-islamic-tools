@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Cincinnati",
   "short_name": "Час намазу в Cincinnati",
   "description": "Сьогоднішній час намазу в Cincinnati, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Cincinnati.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-cincinnati.html",
+  "id": "/uk/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

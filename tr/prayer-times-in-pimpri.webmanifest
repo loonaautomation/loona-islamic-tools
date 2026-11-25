@@ -2,7 +2,7 @@
   "name": "Loona Pimpri Namaz Vakitleri",
   "short_name": "Pimpri Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pimpri, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Pimpri için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pimpri.html",
+  "id": "/tr/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

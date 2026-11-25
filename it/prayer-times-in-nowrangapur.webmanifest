@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Nowrangapur",
   "short_name": "Orari di preghiera a Nowrangapur",
   "description": "Orari di preghiera di oggi a Nowrangapur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Nowrangapur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-nowrangapur.html",
+  "id": "/it/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

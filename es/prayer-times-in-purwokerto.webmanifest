@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Purwokerto",
   "short_name": "Horarios de oración en Purwokerto",
   "description": "Horarios de oración de hoy en Purwokerto, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Purwokerto.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-purwokerto.html",
+  "id": "/es/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

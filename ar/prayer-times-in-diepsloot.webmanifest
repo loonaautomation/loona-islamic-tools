@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Diepsloot",
   "short_name": "مواقيت الصلاة في Diepsloot",
   "description": "مواقيت الصلاة اليوم في Diepsloot، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDiepsloot.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-diepsloot.html",
+  "id": "/ar/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

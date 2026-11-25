@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Hamburg-Mitte",
   "short_name": "Gebedstijden in Hamburg-Mitte",
   "description": "De gebedstijden van vandaag in Hamburg-Mitte, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-hamburg-mitte.html",
+  "id": "/nl/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

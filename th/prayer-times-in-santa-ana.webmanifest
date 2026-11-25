@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Santa Ana",
   "short_name": "เวลาละหมาดใน Santa Ana",
   "description": "เวลาละหมาดวันนี้ใน Santa Ana, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Santa Ana",
-  "id": "/loona-islamic-tools/th/prayer-times-in-santa-ana.html",
+  "id": "/th/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bursa の礼拝時刻",
   "short_name": "Bursa の礼拝時刻",
   "description": "Bursa（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Bursa についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bursa.html",
+  "id": "/ja/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

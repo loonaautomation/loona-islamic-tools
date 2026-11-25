@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mymensingh",
   "short_name": "Orari di preghiera a Mymensingh",
   "description": "Orari di preghiera di oggi a Mymensingh, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Mymensingh.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mymensingh.html",
+  "id": "/it/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

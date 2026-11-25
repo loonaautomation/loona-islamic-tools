@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kluang",
   "short_name": "Часове за намаз в Kluang",
   "description": "Днешните часове за намаз в Kluang, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kluang.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kluang.html",
+  "id": "/bg/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

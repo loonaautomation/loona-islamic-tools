@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Amravati",
   "short_name": "Bønnetider i Amravati",
   "description": "Dagens bønnetider i Amravati, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Amravati.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-amravati.html",
+  "id": "/nb/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

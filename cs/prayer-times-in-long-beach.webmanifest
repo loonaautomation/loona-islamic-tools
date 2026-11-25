@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Long Beach",
   "short_name": "Časy modliteb v Long Beach",
   "description": "Dnešní časy modliteb v Long Beach, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Long Beach.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-long-beach.html",
+  "id": "/cs/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

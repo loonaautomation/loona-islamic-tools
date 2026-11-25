@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Oran",
   "short_name": "Gebedstijden in Oran",
   "description": "De gebedstijden van vandaag in Oran, Algerije: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Oran.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-oran.html",
+  "id": "/nl/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

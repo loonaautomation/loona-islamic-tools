@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Madrid",
   "short_name": "Bönetider i Madrid",
   "description": "Dagens bönetider i Madrid, Spanien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Madrid.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-madrid.html",
+  "id": "/sv/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

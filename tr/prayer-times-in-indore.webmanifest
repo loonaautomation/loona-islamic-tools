@@ -2,7 +2,7 @@
   "name": "Loona Indore Namaz Vakitleri",
   "short_name": "Indore Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Indore, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Indore için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-indore.html",
+  "id": "/tr/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

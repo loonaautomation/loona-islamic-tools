@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Binjai",
   "short_name": "Horários de Oração em Binjai",
   "description": "Horários de oração de hoje em Binjai, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Binjai.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-binjai.html",
+  "id": "/pt-pt/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

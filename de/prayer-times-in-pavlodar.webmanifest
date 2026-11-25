@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pavlodar",
   "short_name": "Gebetszeiten in Pavlodar",
   "description": "Die heutigen Gebetszeiten in Pavlodar, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pavlodar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pavlodar.html",
+  "id": "/de/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sukkur",
   "short_name": "Bønnetider i Sukkur",
   "description": "Dagens bønnetider i Sukkur, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Sukkur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sukkur.html",
+  "id": "/nb/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

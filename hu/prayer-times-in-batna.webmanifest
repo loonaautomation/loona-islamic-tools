@@ -2,7 +2,7 @@
   "name": "Loona Batna imaidői",
   "short_name": "Batna imaidői",
   "description": "A mai imaidők: Batna, Algéria: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Batna számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-batna.html",
+  "id": "/hu/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

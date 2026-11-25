@@ -2,7 +2,7 @@
   "name": "Loona Oral Namaz Vakitleri",
   "short_name": "Oral Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Oral, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Oral için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-oral.html",
+  "id": "/tr/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Herāt",
   "short_name": "Gebedstijden in Herāt",
   "description": "De gebedstijden van vandaag in Herāt, Afghanistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Herāt.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-herat.html",
+  "id": "/nl/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

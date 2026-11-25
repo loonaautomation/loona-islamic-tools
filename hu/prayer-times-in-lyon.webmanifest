@@ -2,7 +2,7 @@
   "name": "Loona Lyon imaidői",
   "short_name": "Lyon imaidői",
   "description": "A mai imaidők: Lyon, Franciaország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Lyon számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-lyon.html",
+  "id": "/hu/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

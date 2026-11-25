@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mukim Pulai",
   "short_name": "مواقيت الصلاة في Mukim Pulai",
   "description": "مواقيت الصلاة اليوم في Mukim Pulai، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMukim Pulai.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mukim-pulai.html",
+  "id": "/ar/prayer-times-in-mukim-pulai.html",
   "start_url": "./prayer-times-in-mukim-pulai.html",
   "scope": "./prayer-times-in-mukim-pulai.html",
   "display": "standalone",

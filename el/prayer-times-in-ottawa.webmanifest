@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ottawa",
   "short_name": "Ώρες Προσευχής στο Ottawa",
   "description": "Οι σημερινές ώρες προσευχής στο Ottawa, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Ottawa.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ottawa.html",
+  "id": "/el/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

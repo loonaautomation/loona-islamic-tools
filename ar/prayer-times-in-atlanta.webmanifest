@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Atlanta",
   "short_name": "مواقيت الصلاة في Atlanta",
   "description": "مواقيت الصلاة اليوم في Atlanta، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـAtlanta.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-atlanta.html",
+  "id": "/ar/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

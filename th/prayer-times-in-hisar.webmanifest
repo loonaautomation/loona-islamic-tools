@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Hisar",
   "short_name": "เวลาละหมาดใน Hisar",
   "description": "เวลาละหมาดวันนี้ใน Hisar, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Hisar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-hisar.html",
+  "id": "/th/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

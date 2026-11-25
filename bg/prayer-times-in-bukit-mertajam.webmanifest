@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bukit Mertajam",
   "short_name": "Часове за намаз в Bukit Mertajam",
   "description": "Днешните часове за намаз в Bukit Mertajam, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bukit Mertajam.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bukit-mertajam.html",
+  "id": "/bg/prayer-times-in-bukit-mertajam.html",
   "start_url": "./prayer-times-in-bukit-mertajam.html",
   "scope": "./prayer-times-in-bukit-mertajam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Essen",
   "short_name": "Часове за намаз в Essen",
   "description": "Днешните часове за намаз в Essen, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Essen.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-essen.html",
+  "id": "/bg/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

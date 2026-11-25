@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Toulouse",
   "short_name": "זמני תפילה בעיר Toulouse",
   "description": "זמני התפילה של היום בעיר Toulouse, צרפת: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Toulouse.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-toulouse.html",
+  "id": "/he/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

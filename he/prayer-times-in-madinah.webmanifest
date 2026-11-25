@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Madinah",
   "short_name": "זמני תפילה בעיר Madinah",
   "description": "זמני התפילה של היום בעיר Madinah, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Madinah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-madinah.html",
+  "id": "/he/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al-Kut",
   "short_name": "זמני תפילה בעיר Al-Kut",
   "description": "זמני התפילה של היום בעיר Al-Kut, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Al-Kut.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-kut.html",
+  "id": "/he/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

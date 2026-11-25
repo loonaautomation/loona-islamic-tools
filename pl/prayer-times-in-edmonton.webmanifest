@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Edmonton",
   "short_name": "Czasy modlitw w miejscowości Edmonton",
   "description": "Dzisiejsze czasy modlitw w miejscowości Edmonton, kraj Kanada: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Edmonton.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-edmonton.html",
+  "id": "/pl/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tabela Mensal de Horários de Oração",
   "short_name": "Tabela Mensal de Horários de Oração",
   "description": "Gere uma tabela mensal de horários de oração imprimível para qualquer cidade: os seis horários do mês inteiro, com o seu método de cálculo e escola do Asr, grátis e privado.",
-  "id": "/loona-islamic-tools/pt-pt/monthly-prayer-timetable/",
+  "id": "/pt-pt/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

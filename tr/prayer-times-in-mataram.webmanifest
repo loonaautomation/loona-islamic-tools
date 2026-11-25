@@ -2,7 +2,7 @@
   "name": "Loona Mataram Namaz Vakitleri",
   "short_name": "Mataram Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mataram, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Mataram için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mataram.html",
+  "id": "/tr/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

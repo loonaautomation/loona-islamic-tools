@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Omaha",
   "short_name": "Waktu Salat di Omaha",
   "description": "Waktu salat hari ini di Omaha, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Omaha.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-omaha.html",
+  "id": "/id/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

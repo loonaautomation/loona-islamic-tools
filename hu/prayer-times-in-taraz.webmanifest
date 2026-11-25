@@ -2,7 +2,7 @@
   "name": "Loona Taraz imaidői",
   "short_name": "Taraz imaidői",
   "description": "A mai imaidők: Taraz, Kazahsztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Taraz számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-taraz.html",
+  "id": "/hu/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

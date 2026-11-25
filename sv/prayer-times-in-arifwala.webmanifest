@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Arifwala",
   "short_name": "Bönetider i Arifwala",
   "description": "Dagens bönetider i Arifwala, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Arifwala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-arifwala.html",
+  "id": "/sv/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

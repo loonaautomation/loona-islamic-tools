@@ -2,7 +2,7 @@
   "name": "Loona Qarchak Namaz Vakitleri",
   "short_name": "Qarchak Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qarchak, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Qarchak için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qarchak.html",
+  "id": "/tr/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

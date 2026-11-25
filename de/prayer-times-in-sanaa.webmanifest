@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sanaa",
   "short_name": "Gebetszeiten in Sanaa",
   "description": "Die heutigen Gebetszeiten in Sanaa, Jemen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sanaa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sanaa.html",
+  "id": "/de/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

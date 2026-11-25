@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kahramanmaraş",
   "short_name": "Waktu Solat di Kahramanmaraş",
   "description": "Waktu solat hari ini di Kahramanmaraş, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kahramanmaraş.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kahramanmaras.html",
+  "id": "/ms/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

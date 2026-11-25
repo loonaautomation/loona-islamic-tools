@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sétif",
   "short_name": "Время намаза в городе Sétif",
   "description": "Время намаза на сегодня: Sétif, Алжир: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Sétif.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-setif.html",
+  "id": "/ru/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

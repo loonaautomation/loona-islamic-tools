@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Arlington",
   "short_name": "Vremena namaza u gradu Arlington",
   "description": "Današnja vremena namaza u gradu Arlington, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Arlington.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-arlington.html",
+  "id": "/hr/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

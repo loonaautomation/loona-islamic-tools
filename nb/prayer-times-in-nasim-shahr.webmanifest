@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nasīm Shahr",
   "short_name": "Bønnetider i Nasīm Shahr",
   "description": "Dagens bønnetider i Nasīm Shahr, Iran: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Nasīm Shahr.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-nasim-shahr.html",
+  "id": "/nb/prayer-times-in-nasim-shahr.html",
   "start_url": "./prayer-times-in-nasim-shahr.html",
   "scope": "./prayer-times-in-nasim-shahr.html",
   "display": "standalone",

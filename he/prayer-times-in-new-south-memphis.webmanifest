@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר New South Memphis",
   "short_name": "זמני תפילה בעיר New South Memphis",
   "description": "זמני התפילה של היום בעיר New South Memphis, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור New South Memphis.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-new-south-memphis.html",
+  "id": "/he/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

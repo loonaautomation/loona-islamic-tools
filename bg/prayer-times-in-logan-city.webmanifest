@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Logan City",
   "short_name": "Часове за намаз в Logan City",
   "description": "Днешните часове за намаз в Logan City, Австралия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Logan City.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-logan-city.html",
+  "id": "/bg/prayer-times-in-logan-city.html",
   "start_url": "./prayer-times-in-logan-city.html",
   "scope": "./prayer-times-in-logan-city.html",
   "display": "standalone",

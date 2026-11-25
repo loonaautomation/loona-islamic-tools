@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Az-Zuhūr Today",
   "short_name": "Prayer Times in Az-Zuhūr Today",
   "description": "Today's prayer times in Az-Zuhūr, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Az-Zuhūr.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-az-zuhur.html",
+  "id": "/en-us/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

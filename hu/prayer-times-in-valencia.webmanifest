@@ -2,7 +2,7 @@
   "name": "Loona Valencia imaidői",
   "short_name": "Valencia imaidői",
   "description": "A mai imaidők: Valencia, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Valencia számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-valencia.html",
+  "id": "/hu/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu El Obeid",
   "short_name": "Vremena namaza u gradu El Obeid",
   "description": "Današnja vremena namaza u gradu El Obeid, Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad El Obeid.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-el-obeid.html",
+  "id": "/hr/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Al Hufūf",
   "short_name": "Ώρες Προσευχής στο Al Hufūf",
   "description": "Οι σημερινές ώρες προσευχής στο Al Hufūf, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Al Hufūf.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-al-hufuf.html",
+  "id": "/el/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

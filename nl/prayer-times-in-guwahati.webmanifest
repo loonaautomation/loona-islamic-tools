@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Guwahati",
   "short_name": "Gebedstijden in Guwahati",
   "description": "De gebedstijden van vandaag in Guwahati, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Guwahati.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-guwahati.html",
+  "id": "/nl/prayer-times-in-guwahati.html",
   "start_url": "./prayer-times-in-guwahati.html",
   "scope": "./prayer-times-in-guwahati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Najaf",
   "short_name": "זמני תפילה בעיר Najaf",
   "description": "זמני התפילה של היום בעיר Najaf, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Najaf.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-najaf.html",
+  "id": "/he/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

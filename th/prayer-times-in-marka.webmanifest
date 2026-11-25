@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Marka",
   "short_name": "เวลาละหมาดใน Marka",
   "description": "เวลาละหมาดวันนี้ใน Marka, Somalia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Marka",
-  "id": "/loona-islamic-tools/th/prayer-times-in-marka.html",
+  "id": "/th/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

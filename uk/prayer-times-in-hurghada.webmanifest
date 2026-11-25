@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Hurghada",
   "short_name": "Час намазу в Hurghada",
   "description": "Сьогоднішній час намазу в Hurghada, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Hurghada.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hurghada.html",
+  "id": "/uk/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

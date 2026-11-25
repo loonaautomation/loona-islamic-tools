@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Vijayawada",
   "short_name": "Bønnetider i Vijayawada",
   "description": "Dagens bønnetider i Vijayawada, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Vijayawada.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-vijayawada.html",
+  "id": "/nb/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

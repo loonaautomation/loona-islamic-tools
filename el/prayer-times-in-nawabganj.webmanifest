@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Nawābganj",
   "short_name": "Ώρες Προσευχής στο Nawābganj",
   "description": "Οι σημερινές ώρες προσευχής στο Nawābganj, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Nawābganj.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-nawabganj.html",
+  "id": "/el/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

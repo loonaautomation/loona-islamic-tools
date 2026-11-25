@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bornova",
   "short_name": "Часове за намаз в Bornova",
   "description": "Днешните часове за намаз в Bornova, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bornova.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bornova.html",
+  "id": "/bg/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

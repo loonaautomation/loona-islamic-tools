@@ -2,7 +2,7 @@
   "name": "Loona देश के अनुसार नमाज़ समय",
   "short_name": "देश के अनुसार नमाज़ समय",
   "description": "दुनिया भर के 871 शहरों के नमाज़ समय, देश के अनुसार समूहीकृत: आज के लिए फ़ज्र, सूर्योदय, ज़ुहर, अस्र, मग़रिब और इशा, पूरे महीने की समय-सारणियाँ, क़िबला दिशा और देश के अनुसार रमज़ान 2027 समय-सारणियाँ।",
-  "id": "/loona-islamic-tools/hi/prayer-times-by-country.html",
+  "id": "/hi/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
   "display": "standalone",

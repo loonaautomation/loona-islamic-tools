@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Patna",
   "short_name": "Časy modliteb v Patna",
   "description": "Dnešní časy modliteb v Patna, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Patna.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-patna.html",
+  "id": "/cs/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

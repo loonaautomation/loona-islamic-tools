@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-teller",
   "short_name": "Tasbih-teller",
   "description": "En digital tasbih-teller: SubhanAllah, Alhamdulillah og flere forhåndsvalg, mål på 33/99/100, rundetelling, vibrasjon og levetidstotaler lagret på enheten din.",
-  "id": "/loona-islamic-tools/nb/tasbih-counter/",
+  "id": "/nb/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

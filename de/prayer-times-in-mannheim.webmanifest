@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mannheim",
   "short_name": "Gebetszeiten in Mannheim",
   "description": "Die heutigen Gebetszeiten in Mannheim, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Mannheim.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mannheim.html",
+  "id": "/de/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

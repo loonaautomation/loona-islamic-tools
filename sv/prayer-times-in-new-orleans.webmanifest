@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i New Orleans",
   "short_name": "Bönetider i New Orleans",
   "description": "Dagens bönetider i New Orleans, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för New Orleans.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-new-orleans.html",
+  "id": "/sv/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bahawalpur",
   "short_name": "Waktu Solat di Bahawalpur",
   "description": "Waktu solat hari ini di Bahawalpur, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bahawalpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bahawalpur.html",
+  "id": "/ms/prayer-times-in-bahawalpur.html",
   "start_url": "./prayer-times-in-bahawalpur.html",
   "scope": "./prayer-times-in-bahawalpur.html",
   "display": "standalone",

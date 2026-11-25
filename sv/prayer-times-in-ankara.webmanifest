@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ankara",
   "short_name": "Bönetider i Ankara",
   "description": "Dagens bönetider i Ankara, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ankara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ankara.html",
+  "id": "/sv/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

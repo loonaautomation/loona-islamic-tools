@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Banjul",
   "short_name": "Časy modlitieb v Banjul",
   "description": "Dnešné časy modlitieb v Banjul, Gambia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Banjul.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-banjul.html",
+  "id": "/sk/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

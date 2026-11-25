@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bakersfield",
   "short_name": "Prayer Times in Bakersfield",
   "description": "Today's prayer times in Bakersfield, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Bakersfield.",
-  "id": "/loona-islamic-tools/prayer-times-in-bakersfield.html",
+  "id": "/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

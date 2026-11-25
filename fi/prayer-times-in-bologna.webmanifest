@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bologna",
   "short_name": "Rukousajat: Bologna",
   "description": "Tämän päivän rukousajat paikassa Bologna, Italia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Bologna.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bologna.html",
+  "id": "/fi/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

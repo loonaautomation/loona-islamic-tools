@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Andijon",
   "short_name": "Horarios de oración en Andijon",
   "description": "Horarios de oración de hoy en Andijon, Uzbekistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Andijon.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-andijon.html",
+  "id": "/es/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

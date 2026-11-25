@@ -2,7 +2,7 @@
   "name": "Loona Ḩamāh的礼拜时间",
   "short_name": "Ḩamāh的礼拜时间",
   "description": "Ḩamāh（叙利亚）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Ḩamāh实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-hamah.html",
+  "id": "/zh/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

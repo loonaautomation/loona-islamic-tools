@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kediri",
   "short_name": "Часове за намаз в Kediri",
   "description": "Днешните часове за намаз в Kediri, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kediri.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kediri.html",
+  "id": "/bg/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

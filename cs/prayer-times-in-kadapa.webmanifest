@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kadapa",
   "short_name": "Časy modliteb v Kadapa",
   "description": "Dnešní časy modliteb v Kadapa, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kadapa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kadapa.html",
+  "id": "/cs/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

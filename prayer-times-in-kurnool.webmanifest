@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kurnool",
   "short_name": "Prayer Times in Kurnool",
   "description": "Today's prayer times in Kurnool, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kurnool.",
-  "id": "/loona-islamic-tools/prayer-times-in-kurnool.html",
+  "id": "/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

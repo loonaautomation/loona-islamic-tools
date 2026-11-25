@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-teller",
   "short_name": "Tasbih-teller",
   "description": "Een digitale tasbih-teller: SubhanAllah, Alhamdulillah en meer presets, doelen van 33/99/100, rondetracking, trilling en levenslange totalen opgeslagen op je apparaat.",
-  "id": "/loona-islamic-tools/nl/tasbih-counter/",
+  "id": "/nl/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

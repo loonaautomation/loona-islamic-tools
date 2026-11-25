@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banja Luka",
   "short_name": "مواقيت الصلاة في Banja Luka",
   "description": "مواقيت الصلاة اليوم في Banja Luka، البوسنة والهرسك: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBanja Luka.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-banja-luka.html",
+  "id": "/ar/prayer-times-in-banja-luka.html",
   "start_url": "./prayer-times-in-banja-luka.html",
   "scope": "./prayer-times-in-banja-luka.html",
   "display": "standalone",

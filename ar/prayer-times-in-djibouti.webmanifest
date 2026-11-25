@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في جيبوتي",
   "short_name": "مواقيت الصلاة في جيبوتي",
   "description": "مواقيت الصلاة اليوم في جيبوتي، جيبوتي: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـجيبوتي.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-djibouti.html",
+  "id": "/ar/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Utrecht",
   "short_name": "Gebetszeiten in Utrecht",
   "description": "Die heutigen Gebetszeiten in Utrecht, Niederlande: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Utrecht.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-utrecht.html",
+  "id": "/de/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

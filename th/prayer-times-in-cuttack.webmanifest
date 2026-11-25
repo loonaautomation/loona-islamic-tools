@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Cuttack",
   "short_name": "เวลาละหมาดใน Cuttack",
   "description": "เวลาละหมาดวันนี้ใน Cuttack, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Cuttack",
-  "id": "/loona-islamic-tools/th/prayer-times-in-cuttack.html",
+  "id": "/th/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

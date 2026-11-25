@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Uşak",
   "short_name": "Gebetszeiten in Uşak",
   "description": "Die heutigen Gebetszeiten in Uşak, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Uşak.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-usak.html",
+  "id": "/de/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

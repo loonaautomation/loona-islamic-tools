@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Faisalabad",
   "short_name": "مواقيت الصلاة في Faisalabad",
   "description": "مواقيت الصلاة اليوم في Faisalabad، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـFaisalabad.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-faisalabad.html",
+  "id": "/ar/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ţarţūs",
   "short_name": "Časy modliteb v Ţarţūs",
   "description": "Dnešní časy modliteb v Ţarţūs, Sýrie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ţarţūs.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tartus.html",
+  "id": "/cs/prayer-times-in-tartus.html",
   "start_url": "./prayer-times-in-tartus.html",
   "scope": "./prayer-times-in-tartus.html",
   "display": "standalone",

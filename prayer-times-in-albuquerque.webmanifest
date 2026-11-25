@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Albuquerque",
   "short_name": "Prayer Times in Albuquerque",
   "description": "Today's prayer times in Albuquerque, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Albuquerque.",
-  "id": "/loona-islamic-tools/prayer-times-in-albuquerque.html",
+  "id": "/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

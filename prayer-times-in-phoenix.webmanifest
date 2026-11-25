@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Phoenix",
   "short_name": "Prayer Times in Phoenix",
   "description": "Today's prayer times in Phoenix, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Phoenix.",
-  "id": "/loona-islamic-tools/prayer-times-in-phoenix.html",
+  "id": "/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

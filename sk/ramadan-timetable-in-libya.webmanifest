@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh Ramadánu v Líbya 2027 (1448)",
   "short_name": "Rozvrh Ramadánu v Líbya 2027 (1448)",
   "description": "Rozvrh Ramadánu 2027 pre Líbya: časy konca Sehri (Fadžr) a Iftaru (Magrib) na každý deň Ramadánu 1448, vypočítané pre Tripolis. Očakávané od 8 februára do 8 marca 2027, v závislosti od pozorovania mesiaca.",
-  "id": "/loona-islamic-tools/sk/ramadan-timetable-in-libya.html",
+  "id": "/sk/ramadan-timetable-in-libya.html",
   "start_url": "./ramadan-timetable-in-libya.html",
   "scope": "./ramadan-timetable-in-libya.html",
   "display": "standalone",

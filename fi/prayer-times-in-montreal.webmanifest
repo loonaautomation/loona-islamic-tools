@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Montréal",
   "short_name": "Rukousajat: Montréal",
   "description": "Tämän päivän rukousajat paikassa Montréal, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Montréal.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-montreal.html",
+  "id": "/fi/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

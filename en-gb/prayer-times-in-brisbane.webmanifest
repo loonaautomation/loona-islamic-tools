@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Brisbane Today",
   "short_name": "Prayer Times in Brisbane Today",
   "description": "Today's prayer times in Brisbane, Australia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Brisbane.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-brisbane.html",
+  "id": "/en-gb/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

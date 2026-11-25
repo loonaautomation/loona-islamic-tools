@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jhang Sadr",
   "short_name": "Horarios de oración en Jhang Sadr",
   "description": "Horarios de oración de hoy en Jhang Sadr, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Jhang Sadr.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jhang-sadr.html",
+  "id": "/es/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Belfast",
   "short_name": "Rukousajat: Belfast",
   "description": "Tämän päivän rukousajat paikassa Belfast, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Belfast.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-belfast.html",
+  "id": "/fi/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

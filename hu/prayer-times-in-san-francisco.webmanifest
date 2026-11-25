@@ -2,7 +2,7 @@
   "name": "Loona San Francisco imaidői",
   "short_name": "San Francisco imaidői",
   "description": "A mai imaidők: San Francisco, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén San Francisco számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-san-francisco.html",
+  "id": "/hu/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

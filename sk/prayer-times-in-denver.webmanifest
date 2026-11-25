@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Denver",
   "short_name": "Časy modlitieb v Denver",
   "description": "Dnešné časy modlitieb v Denver, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Denver.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-denver.html",
+  "id": "/sk/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

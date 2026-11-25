@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Najafābād",
   "short_name": "مواقيت الصلاة في Najafābād",
   "description": "مواقيت الصلاة اليوم في Najafābād، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNajafābād.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-najafabad.html",
+  "id": "/ar/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

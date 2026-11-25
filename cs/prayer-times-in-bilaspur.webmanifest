@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bilāspur",
   "short_name": "Časy modliteb v Bilāspur",
   "description": "Dnešní časy modliteb v Bilāspur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bilāspur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bilaspur.html",
+  "id": "/cs/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

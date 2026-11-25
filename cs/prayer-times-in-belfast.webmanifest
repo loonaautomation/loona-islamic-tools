@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Belfast",
   "short_name": "Časy modliteb v Belfast",
   "description": "Dnešní časy modliteb v Belfast, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Belfast.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-belfast.html",
+  "id": "/cs/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

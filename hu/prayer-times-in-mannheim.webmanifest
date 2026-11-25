@@ -2,7 +2,7 @@
   "name": "Loona Mannheim imaidői",
   "short_name": "Mannheim imaidői",
   "description": "A mai imaidők: Mannheim, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mannheim számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mannheim.html",
+  "id": "/hu/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

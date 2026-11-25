@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kenitra",
   "short_name": "Час намазу в Kenitra",
   "description": "Сьогоднішній час намазу в Kenitra, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kenitra.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kenitra.html",
+  "id": "/uk/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

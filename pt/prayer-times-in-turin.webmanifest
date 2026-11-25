@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Turin",
   "short_name": "Horários de Oração em Turin",
   "description": "Horários de oração de hoje em Turin, Itália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Turin.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-turin.html",
+  "id": "/pt/prayer-times-in-turin.html",
   "start_url": "./prayer-times-in-turin.html",
   "scope": "./prayer-times-in-turin.html",
   "display": "standalone",

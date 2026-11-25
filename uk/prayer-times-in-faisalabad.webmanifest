@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Faisalabad",
   "short_name": "Час намазу в Faisalabad",
   "description": "Сьогоднішній час намазу в Faisalabad, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Faisalabad.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-faisalabad.html",
+  "id": "/uk/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

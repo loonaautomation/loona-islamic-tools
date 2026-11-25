@@ -2,7 +2,7 @@
   "name": "Loona Larkana Namaz Vakitleri",
   "short_name": "Larkana Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Larkana, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Larkana için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-larkana.html",
+  "id": "/tr/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

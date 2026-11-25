@@ -2,7 +2,7 @@
   "name": "Loona Karaj Namaz Vakitleri",
   "short_name": "Karaj Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Karaj, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Karaj için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-karaj.html",
+  "id": "/tr/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

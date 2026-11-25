@@ -2,7 +2,7 @@
   "name": "Loona Mersin imaidői",
   "short_name": "Mersin imaidői",
   "description": "A mai imaidők: Mersin, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mersin számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mersin.html",
+  "id": "/hu/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

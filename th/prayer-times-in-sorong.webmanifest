@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sorong",
   "short_name": "เวลาละหมาดใน Sorong",
   "description": "เวลาละหมาดวันนี้ใน Sorong, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sorong",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sorong.html",
+  "id": "/th/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

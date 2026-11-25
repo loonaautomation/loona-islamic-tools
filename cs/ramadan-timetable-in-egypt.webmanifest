@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh ramadánu v Egypt 2027 (1448)",
   "short_name": "Rozvrh ramadánu v Egypt 2027 (1448)",
   "description": "Rozvrh ramadánu 2027 pro Egypt: časy konce Sehri (Fadžr) a Iftaru (Maghrib) na každý den ramadánu 1448, vypočítané pro Cairo. Očekáváno od 8 února do 8 března 2027, v závislosti na pozorování měsíce.",
-  "id": "/loona-islamic-tools/cs/ramadan-timetable-in-egypt.html",
+  "id": "/cs/ramadan-timetable-in-egypt.html",
   "start_url": "./ramadan-timetable-in-egypt.html",
   "scope": "./ramadan-timetable-in-egypt.html",
   "display": "standalone",

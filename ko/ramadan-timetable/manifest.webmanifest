@@ -2,7 +2,7 @@
   "name": "Loona 라마단 시간표",
   "short_name": "라마단 시간표",
   "description": "어떤 도시와 히즈리 연도든 전체 라마단 시간표: 그레고리력 날짜와 단식 시간과 함께 라마단 매일의 Sehri 종료와 Iftar 시간. 무료, 인쇄 가능해요.",
-  "id": "/loona-islamic-tools/ko/ramadan-timetable/",
+  "id": "/ko/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

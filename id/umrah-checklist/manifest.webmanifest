@@ -2,7 +2,7 @@
   "name": "Loona Daftar Periksa Umrah",
   "short_name": "Daftar Periksa Umrah",
   "description": "Daftar periksa Umrah interaktif: dokumen, pemesanan, perlengkapan, kesehatan dan persiapan ibadah, dengan bilah kemajuan, opsi cetak dan kemajuan yang tersimpan di perangkat Anda.",
-  "id": "/loona-islamic-tools/id/umrah-checklist/",
+  "id": "/id/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

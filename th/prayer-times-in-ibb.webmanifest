@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ibb",
   "short_name": "เวลาละหมาดใน Ibb",
   "description": "เวลาละหมาดวันนี้ใน Ibb, Yemen: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ibb",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ibb.html",
+  "id": "/th/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

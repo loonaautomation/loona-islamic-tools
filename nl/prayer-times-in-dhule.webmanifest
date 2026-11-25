@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dhule",
   "short_name": "Gebedstijden in Dhule",
   "description": "De gebedstijden van vandaag in Dhule, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Dhule.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dhule.html",
+  "id": "/nl/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

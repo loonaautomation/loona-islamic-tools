@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Wichita",
   "short_name": "Bønnetider i Wichita",
   "description": "Dagens bønnetider i Wichita, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Wichita.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-wichita.html",
+  "id": "/nb/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Batna",
   "short_name": "Heures de prière à Batna",
   "description": "Les heures de prière d’aujourd’hui à Batna, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Batna.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-batna.html",
+  "id": "/fr/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Stockholm",
   "short_name": "Часове за намаз в Stockholm",
   "description": "Днешните часове за намаз в Stockholm, Швеция: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Stockholm.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-stockholm.html",
+  "id": "/bg/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

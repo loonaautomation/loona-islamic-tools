@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kota",
   "short_name": "זמני תפילה בעיר Kota",
   "description": "זמני התפילה של היום בעיר Kota, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kota.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kota.html",
+  "id": "/he/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

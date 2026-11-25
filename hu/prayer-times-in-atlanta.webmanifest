@@ -2,7 +2,7 @@
   "name": "Loona Atlanta imaidői",
   "short_name": "Atlanta imaidői",
   "description": "A mai imaidők: Atlanta, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Atlanta számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-atlanta.html",
+  "id": "/hu/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

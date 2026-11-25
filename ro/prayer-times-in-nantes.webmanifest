@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Nantes",
   "short_name": "Ore de rugăciune în Nantes",
   "description": "Orele de rugăciune de azi în Nantes, Franța: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Nantes.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-nantes.html",
+  "id": "/ro/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

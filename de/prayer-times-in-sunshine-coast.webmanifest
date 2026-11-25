@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sunshine Coast",
   "short_name": "Gebetszeiten in Sunshine Coast",
   "description": "Die heutigen Gebetszeiten in Sunshine Coast, Australien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sunshine Coast.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sunshine-coast.html",
+  "id": "/de/prayer-times-in-sunshine-coast.html",
   "start_url": "./prayer-times-in-sunshine-coast.html",
   "scope": "./prayer-times-in-sunshine-coast.html",
   "display": "standalone",

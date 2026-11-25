@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Atyrau",
   "short_name": "Gebetszeiten in Atyrau",
   "description": "Die heutigen Gebetszeiten in Atyrau, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Atyrau.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-atyrau.html",
+  "id": "/de/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

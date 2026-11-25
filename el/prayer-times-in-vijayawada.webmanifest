@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Vijayawada",
   "short_name": "Ώρες Προσευχής στο Vijayawada",
   "description": "Οι σημερινές ώρες προσευχής στο Vijayawada, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Vijayawada.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-vijayawada.html",
+  "id": "/el/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

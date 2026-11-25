@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Agartala",
   "short_name": "Časy modliteb v Agartala",
   "description": "Dnešní časy modliteb v Agartala, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Agartala.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-agartala.html",
+  "id": "/cs/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

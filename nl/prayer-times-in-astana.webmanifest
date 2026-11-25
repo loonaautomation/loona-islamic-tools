@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Astana",
   "short_name": "Gebedstijden in Astana",
   "description": "De gebedstijden van vandaag in Astana, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Astana.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-astana.html",
+  "id": "/nl/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

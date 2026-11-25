@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Miri",
   "short_name": "Czasy modlitw w miejscowości Miri",
   "description": "Dzisiejsze czasy modlitw w miejscowości Miri, kraj Malezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Miri.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-miri.html",
+  "id": "/pl/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

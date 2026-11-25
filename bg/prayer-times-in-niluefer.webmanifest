@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nilüfer",
   "short_name": "Часове за намаз в Nilüfer",
   "description": "Днешните часове за намаз в Nilüfer, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Nilüfer.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-niluefer.html",
+  "id": "/bg/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

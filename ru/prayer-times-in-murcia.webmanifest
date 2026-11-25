@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Murcia",
   "short_name": "Время намаза в городе Murcia",
   "description": "Время намаза на сегодня: Murcia, Испания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Murcia.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-murcia.html",
+  "id": "/ru/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

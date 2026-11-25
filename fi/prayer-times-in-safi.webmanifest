@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Safi",
   "short_name": "Rukousajat: Safi",
   "description": "Tämän päivän rukousajat paikassa Safi, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Safi.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-safi.html",
+  "id": "/fi/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

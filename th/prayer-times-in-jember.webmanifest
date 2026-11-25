@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jember",
   "short_name": "เวลาละหมาดใน Jember",
   "description": "เวลาละหมาดวันนี้ใน Jember, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jember",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jember.html",
+  "id": "/th/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

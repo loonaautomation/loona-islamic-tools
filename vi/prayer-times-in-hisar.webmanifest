@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Hisar",
   "short_name": "Giờ cầu nguyện tại Hisar",
   "description": "Giờ cầu nguyện hôm nay tại Hisar, Ấn Độ: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Hisar.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-hisar.html",
+  "id": "/vi/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

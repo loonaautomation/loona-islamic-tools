@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Niamey",
   "short_name": "Время намаза в городе Niamey",
   "description": "Время намаза на сегодня: Niamey, Нигер: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Niamey.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-niamey.html",
+  "id": "/ru/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

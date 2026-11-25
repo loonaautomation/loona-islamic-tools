@@ -2,7 +2,7 @@
   "name": "Loona Bhiwandi の礼拝時刻",
   "short_name": "Bhiwandi の礼拝時刻",
   "description": "Bhiwandi（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bhiwandi についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bhiwandi.html",
+  "id": "/ja/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Touba",
   "short_name": "Bönetider i Touba",
   "description": "Dagens bönetider i Touba, Senegal: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Touba.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-touba.html",
+  "id": "/sv/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

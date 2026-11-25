@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Osh",
   "short_name": "Gebetszeiten in Osh",
   "description": "Die heutigen Gebetszeiten in Osh, Kirgisistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Osh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-osh.html",
+  "id": "/de/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

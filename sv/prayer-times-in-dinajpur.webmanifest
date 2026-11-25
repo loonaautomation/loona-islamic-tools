@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dinajpur",
   "short_name": "Bönetider i Dinajpur",
   "description": "Dagens bönetider i Dinajpur, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Dinajpur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dinajpur.html",
+  "id": "/sv/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

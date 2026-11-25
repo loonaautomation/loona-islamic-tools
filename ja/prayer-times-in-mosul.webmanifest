@@ -2,7 +2,7 @@
   "name": "Loona Mosul の礼拝時刻",
   "short_name": "Mosul の礼拝時刻",
   "description": "Mosul（イラク）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Mosul についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-mosul.html",
+  "id": "/ja/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

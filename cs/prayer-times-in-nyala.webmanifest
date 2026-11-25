@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nyala",
   "short_name": "Časy modliteb v Nyala",
   "description": "Dnešní časy modliteb v Nyala, Súdán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Nyala.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nyala.html",
+  "id": "/cs/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

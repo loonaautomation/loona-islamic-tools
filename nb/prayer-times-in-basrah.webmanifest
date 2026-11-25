@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Basrah",
   "short_name": "Bønnetider i Basrah",
   "description": "Dagens bønnetider i Basrah, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Basrah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-basrah.html",
+  "id": "/nb/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

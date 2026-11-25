@@ -2,7 +2,7 @@
   "name": "Loona Mymensingh Namaz Vakitleri",
   "short_name": "Mymensingh Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mymensingh, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Mymensingh için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mymensingh.html",
+  "id": "/tr/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

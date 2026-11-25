@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Lexington-Fayette",
   "short_name": "Orari di preghiera a Lexington-Fayette",
   "description": "Orari di preghiera di oggi a Lexington-Fayette, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Lexington-Fayette.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-lexington-fayette.html",
+  "id": "/it/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

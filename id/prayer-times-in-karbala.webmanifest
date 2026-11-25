@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Karbala",
   "short_name": "Waktu Salat di Karbala",
   "description": "Waktu salat hari ini di Karbala, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Karbala.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-karbala.html",
+  "id": "/id/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

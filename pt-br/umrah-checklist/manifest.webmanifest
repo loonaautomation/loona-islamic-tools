@@ -2,7 +2,7 @@
   "name": "Loona Lista de Verificação da Umrah",
   "short_name": "Lista de Verificação da Umrah",
   "description": "Uma lista de verificação interativa da Umrah: documentos, reservas, bagagem, saúde e preparação de ibadah, com barra de progresso, opção de impressão e progresso salvo no seu dispositivo.",
-  "id": "/loona-islamic-tools/pt-br/umrah-checklist/",
+  "id": "/pt-br/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

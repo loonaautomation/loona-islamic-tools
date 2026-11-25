@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ajmer",
   "short_name": "Vremena namaza u gradu Ajmer",
   "description": "Današnja vremena namaza u gradu Ajmer, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Ajmer.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ajmer.html",
+  "id": "/hr/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

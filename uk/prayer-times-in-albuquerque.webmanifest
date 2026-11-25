@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Albuquerque",
   "short_name": "Час намазу в Albuquerque",
   "description": "Сьогоднішній час намазу в Albuquerque, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Albuquerque.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-albuquerque.html",
+  "id": "/uk/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

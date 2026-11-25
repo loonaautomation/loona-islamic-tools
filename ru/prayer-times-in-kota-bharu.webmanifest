@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kota Bharu",
   "short_name": "Время намаза в городе Kota Bharu",
   "description": "Время намаза на сегодня: Kota Bharu, Малайзия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Kota Bharu.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kota-bharu.html",
+  "id": "/ru/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

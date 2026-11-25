@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Fes",
   "short_name": "Час намазу в Fes",
   "description": "Сьогоднішній час намазу в Fes, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Fes.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-fes.html",
+  "id": "/uk/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

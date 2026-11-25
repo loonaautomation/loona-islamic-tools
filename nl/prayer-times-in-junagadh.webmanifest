@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jūnāgadh",
   "short_name": "Gebedstijden in Jūnāgadh",
   "description": "De gebedstijden van vandaag in Jūnāgadh, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jūnāgadh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-junagadh.html",
+  "id": "/nl/prayer-times-in-junagadh.html",
   "start_url": "./prayer-times-in-junagadh.html",
   "scope": "./prayer-times-in-junagadh.html",
   "display": "standalone",

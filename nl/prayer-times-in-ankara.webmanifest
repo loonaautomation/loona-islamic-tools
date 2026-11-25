@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ankara",
   "short_name": "Gebedstijden in Ankara",
   "description": "De gebedstijden van vandaag in Ankara, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ankara.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ankara.html",
+  "id": "/nl/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

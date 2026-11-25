@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Florence",
   "short_name": "זמני תפילה בעיר Florence",
   "description": "זמני התפילה של היום בעיר Florence, איטליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Florence.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-florence.html",
+  "id": "/he/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

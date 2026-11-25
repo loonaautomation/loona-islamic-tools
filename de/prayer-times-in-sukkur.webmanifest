@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sukkur",
   "short_name": "Gebetszeiten in Sukkur",
   "description": "Die heutigen Gebetszeiten in Sukkur, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Sukkur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sukkur.html",
+  "id": "/de/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

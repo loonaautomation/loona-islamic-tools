@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Denpasar",
   "short_name": "Vremena namaza u gradu Denpasar",
   "description": "Današnja vremena namaza u gradu Denpasar, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Denpasar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-denpasar.html",
+  "id": "/hr/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

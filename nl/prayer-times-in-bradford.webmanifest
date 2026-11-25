@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bradford",
   "short_name": "Gebedstijden in Bradford",
   "description": "De gebedstijden van vandaag in Bradford, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bradford.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bradford.html",
+  "id": "/nl/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

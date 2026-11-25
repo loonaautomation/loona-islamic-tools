@@ -2,7 +2,7 @@
   "name": "Loona Al-Kut imaidői",
   "short_name": "Al-Kut imaidői",
   "description": "A mai imaidők: Al-Kut, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Al-Kut számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-kut.html",
+  "id": "/hu/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

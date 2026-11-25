@@ -2,7 +2,7 @@
   "name": "Loona วันที่อิสลามวันนี้",
   "short_name": "วันที่อิสลามวันนี้",
   "description": "วันที่อิสลามของวันนี้คือวันที่เท่าใด? ดูวันที่ฮิจเราะห์ของวันนี้ — วัน เดือน และปี (อุมมุลกุรอ) — พร้อมวันที่เกรกอเรียน อัปเดตสดบนอุปกรณ์ของคุณ ฟรี",
-  "id": "/loona-islamic-tools/th/islamic-date-today/",
+  "id": "/th/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

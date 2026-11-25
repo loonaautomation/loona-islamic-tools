@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rufisque",
   "short_name": "Bönetider i Rufisque",
   "description": "Dagens bönetider i Rufisque, Senegal: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Rufisque.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rufisque.html",
+  "id": "/sv/prayer-times-in-rufisque.html",
   "start_url": "./prayer-times-in-rufisque.html",
   "scope": "./prayer-times-in-rufisque.html",
   "display": "standalone",

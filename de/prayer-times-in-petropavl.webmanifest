@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Petropavl",
   "short_name": "Gebetszeiten in Petropavl",
   "description": "Die heutigen Gebetszeiten in Petropavl, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Petropavl.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-petropavl.html",
+  "id": "/de/prayer-times-in-petropavl.html",
   "start_url": "./prayer-times-in-petropavl.html",
   "scope": "./prayer-times-in-petropavl.html",
   "display": "standalone",

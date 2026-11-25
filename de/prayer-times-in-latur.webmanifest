@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Latur",
   "short_name": "Gebetszeiten in Latur",
   "description": "Die heutigen Gebetszeiten in Latur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Latur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-latur.html",
+  "id": "/de/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

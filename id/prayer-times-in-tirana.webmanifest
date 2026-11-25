@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tirana",
   "short_name": "Waktu Salat di Tirana",
   "description": "Waktu salat hari ini di Tirana, Albania: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tirana.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tirana.html",
+  "id": "/id/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

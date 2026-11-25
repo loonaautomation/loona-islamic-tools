@@ -2,7 +2,7 @@
   "name": "Loona The Hague Namaz Vakitleri",
   "short_name": "The Hague Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — The Hague, Hollanda: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, The Hague için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-the-hague.html",
+  "id": "/tr/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

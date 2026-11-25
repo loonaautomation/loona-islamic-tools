@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Al Madīnah",
   "short_name": "Waktu Solat di Al Madīnah",
   "description": "Waktu solat hari ini di Al Madīnah, Iraq: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Al Madīnah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-al-madinah.html",
+  "id": "/ms/prayer-times-in-al-madinah.html",
   "start_url": "./prayer-times-in-al-madinah.html",
   "scope": "./prayer-times-in-al-madinah.html",
   "display": "standalone",

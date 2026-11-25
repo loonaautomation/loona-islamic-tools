@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tunis",
   "short_name": "Bönetider i Tunis",
   "description": "Dagens bönetider i Tunis, Tunisien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Tunis.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tunis.html",
+  "id": "/sv/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

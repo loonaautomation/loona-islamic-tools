@@ -2,7 +2,7 @@
   "name": "Loona Dua-bibliotek",
   "short_name": "Dua-bibliotek",
   "description": "Et bibliotek med autentiske duaer til ethvert øjeblik — morgen, mad, rejse, hjem, angst, tilgivelse — hver med arabisk tekst, translitteration, oversættelse og kilde.",
-  "id": "/loona-islamic-tools/da/duas-library/",
+  "id": "/da/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

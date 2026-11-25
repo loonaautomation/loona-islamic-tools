@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in London (Kanada)",
   "short_name": "Gebetszeiten in London (Kanada)",
   "description": "Die heutigen Gebetszeiten in London, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für London.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-london-canada.html",
+  "id": "/de/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

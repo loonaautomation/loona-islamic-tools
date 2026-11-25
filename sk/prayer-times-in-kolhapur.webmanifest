@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kolhāpur",
   "short_name": "Časy modlitieb v Kolhāpur",
   "description": "Dnešné časy modlitieb v Kolhāpur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kolhāpur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kolhapur.html",
+  "id": "/sk/prayer-times-in-kolhapur.html",
   "start_url": "./prayer-times-in-kolhapur.html",
   "scope": "./prayer-times-in-kolhapur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Deir ez-Zor",
   "short_name": "Ώρες Προσευχής στο Deir ez-Zor",
   "description": "Οι σημερινές ώρες προσευχής στο Deir ez-Zor, Συρία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Deir ez-Zor.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-deir-ez-zor.html",
+  "id": "/el/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Oujda",
   "short_name": "Časy modlitieb v Oujda",
   "description": "Dnešné časy modlitieb v Oujda, Maroko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Oujda.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-oujda.html",
+  "id": "/sk/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

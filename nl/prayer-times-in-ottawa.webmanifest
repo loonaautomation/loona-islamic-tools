@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ottawa",
   "short_name": "Gebedstijden in Ottawa",
   "description": "De gebedstijden van vandaag in Ottawa, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Ottawa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ottawa.html",
+  "id": "/nl/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

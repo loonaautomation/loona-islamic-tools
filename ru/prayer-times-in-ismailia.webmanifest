@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ismailia",
   "short_name": "Время намаза в городе Ismailia",
   "description": "Время намаза на сегодня: Ismailia, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Ismailia.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ismailia.html",
+  "id": "/ru/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

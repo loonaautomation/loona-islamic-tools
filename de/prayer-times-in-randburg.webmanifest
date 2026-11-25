@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Randburg",
   "short_name": "Gebetszeiten in Randburg",
   "description": "Die heutigen Gebetszeiten in Randburg, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Randburg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-randburg.html",
+  "id": "/de/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

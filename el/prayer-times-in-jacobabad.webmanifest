@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jacobabad",
   "short_name": "Ώρες Προσευχής στο Jacobabad",
   "description": "Οι σημερινές ώρες προσευχής στο Jacobabad, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Jacobabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jacobabad.html",
+  "id": "/el/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

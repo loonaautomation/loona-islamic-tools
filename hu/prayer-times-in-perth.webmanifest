@@ -2,7 +2,7 @@
   "name": "Loona Perth imaidői",
   "short_name": "Perth imaidői",
   "description": "A mai imaidők: Perth, Ausztrália: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Perth számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-perth.html",
+  "id": "/hu/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

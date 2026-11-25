@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dresden",
   "short_name": "เวลาละหมาดใน Dresden",
   "description": "เวลาละหมาดวันนี้ใน Dresden, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dresden",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dresden.html",
+  "id": "/th/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

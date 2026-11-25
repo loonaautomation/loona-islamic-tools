@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Thembisa",
   "short_name": "Heures de prière à Thembisa",
   "description": "Les heures de prière d’aujourd’hui à Thembisa, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Thembisa.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-thembisa.html",
+  "id": "/fr/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

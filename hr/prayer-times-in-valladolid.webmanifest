@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Valladolid",
   "short_name": "Vremena namaza u gradu Valladolid",
   "description": "Današnja vremena namaza u gradu Valladolid, Španjolska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Valladolid.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-valladolid.html",
+  "id": "/hr/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

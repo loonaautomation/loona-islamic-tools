@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Khartoum North",
   "short_name": "Gebedstijden in Khartoum North",
   "description": "De gebedstijden van vandaag in Khartoum North, Soedan: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Khartoum North.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-khartoum-north.html",
+  "id": "/nl/prayer-times-in-khartoum-north.html",
   "start_url": "./prayer-times-in-khartoum-north.html",
   "scope": "./prayer-times-in-khartoum-north.html",
   "display": "standalone",

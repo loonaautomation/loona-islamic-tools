@@ -2,7 +2,7 @@
   "name": "Loona Erbil imaidői",
   "short_name": "Erbil imaidői",
   "description": "A mai imaidők: Erbil, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Erbil számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-erbil.html",
+  "id": "/hu/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Los Angeles",
   "short_name": "เวลาละหมาดใน Los Angeles",
   "description": "เวลาละหมาดวันนี้ใน Los Angeles, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Los Angeles",
-  "id": "/loona-islamic-tools/th/prayer-times-in-los-angeles.html",
+  "id": "/th/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

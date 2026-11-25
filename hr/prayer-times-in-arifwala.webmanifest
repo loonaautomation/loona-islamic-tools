@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Arifwala",
   "short_name": "Vremena namaza u gradu Arifwala",
   "description": "Današnja vremena namaza u gradu Arifwala, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Arifwala.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-arifwala.html",
+  "id": "/hr/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

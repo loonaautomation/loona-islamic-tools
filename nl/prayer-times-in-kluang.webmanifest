@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kluang",
   "short_name": "Gebedstijden in Kluang",
   "description": "De gebedstijden van vandaag in Kluang, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Kluang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kluang.html",
+  "id": "/nl/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

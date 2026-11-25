@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Valencia",
   "short_name": "Prayer Times in Valencia",
   "description": "Today's prayer times in Valencia, Spain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Valencia.",
-  "id": "/loona-islamic-tools/prayer-times-in-valencia.html",
+  "id": "/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

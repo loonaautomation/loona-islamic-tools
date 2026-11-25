@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pasir Gudang",
   "short_name": "Bönetider i Pasir Gudang",
   "description": "Dagens bönetider i Pasir Gudang, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pasir Gudang.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pasir-gudang.html",
+  "id": "/sv/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Koleksi Doa",
   "short_name": "Koleksi Doa",
   "description": "Koleksi doa yang sahih untuk setiap saat — pagi, makanan, perjalanan, rumah, keresahan, keampunan — setiap satunya dengan teks Arab, transliterasi, terjemahan dan sumber.",
-  "id": "/loona-islamic-tools/ms/duas-library/",
+  "id": "/ms/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

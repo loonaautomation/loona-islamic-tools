@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Leipzig",
   "short_name": "Время намаза в городе Leipzig",
   "description": "Время намаза на сегодня: Leipzig, Германия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Leipzig.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-leipzig.html",
+  "id": "/ru/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

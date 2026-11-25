@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rahim Yar Khan",
   "short_name": "Bønnetider i Rahim Yar Khan",
   "description": "Dagens bønnetider i Rahim Yar Khan, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Rahim Yar Khan.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-rahim-yar-khan.html",
+  "id": "/nb/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

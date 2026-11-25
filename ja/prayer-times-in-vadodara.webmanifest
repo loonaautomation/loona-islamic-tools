@@ -2,7 +2,7 @@
   "name": "Loona Vadodara の礼拝時刻",
   "short_name": "Vadodara の礼拝時刻",
   "description": "Vadodara（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Vadodara についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-vadodara.html",
+  "id": "/ja/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

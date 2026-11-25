@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Québec",
   "short_name": "Gebetszeiten in Québec",
   "description": "Die heutigen Gebetszeiten in Québec, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Québec.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-quebec.html",
+  "id": "/de/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

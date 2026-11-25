@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Milwaukee",
   "short_name": "Waktu Salat di Milwaukee",
   "description": "Waktu salat hari ini di Milwaukee, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Milwaukee.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-milwaukee.html",
+  "id": "/id/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

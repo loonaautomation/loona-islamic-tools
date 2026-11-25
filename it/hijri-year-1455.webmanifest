@@ -2,7 +2,7 @@
   "name": "Loona Anno dell'egira 1455",
   "short_name": "Anno dell'egira 1455",
   "description": "L'anno dell'egira 1455 AH: date di inizio e fine, tutti i 12 mesi islamici con le loro date gregoriane, e le date chiave dell'anno inclusi Ramadan ed entrambi gli Eid, nel calendario Umm al-Qura.",
-  "id": "/loona-islamic-tools/it/hijri-year-1455.html",
+  "id": "/it/hijri-year-1455.html",
   "start_url": "./hijri-year-1455.html",
   "scope": "./hijri-year-1455.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר London",
   "short_name": "זמני תפילה בעיר London",
   "description": "זמני התפילה של היום בעיר London, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור London.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-london.html",
+  "id": "/he/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Multan",
   "short_name": "Časy modliteb v Multan",
   "description": "Dnešní časy modliteb v Multan, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Multan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-multan.html",
+  "id": "/cs/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

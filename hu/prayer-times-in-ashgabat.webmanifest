@@ -2,7 +2,7 @@
   "name": "Loona Ashgabat imaidői",
   "short_name": "Ashgabat imaidői",
   "description": "A mai imaidők: Ashgabat, Türkmenisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Ashgabat számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ashgabat.html",
+  "id": "/hu/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

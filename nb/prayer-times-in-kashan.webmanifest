@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kashan",
   "short_name": "Bønnetider i Kashan",
   "description": "Dagens bønnetider i Kashan, Iran: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kashan.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kashan.html",
+  "id": "/nb/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

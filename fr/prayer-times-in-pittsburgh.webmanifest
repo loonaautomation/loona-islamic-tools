@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pittsburgh",
   "short_name": "Heures de prière à Pittsburgh",
   "description": "Les heures de prière d’aujourd’hui à Pittsburgh, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Pittsburgh.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pittsburgh.html",
+  "id": "/fr/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ipoh",
   "short_name": "Waktu Salat di Ipoh",
   "description": "Waktu salat hari ini di Ipoh, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ipoh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ipoh.html",
+  "id": "/id/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Shivamogga",
   "short_name": "Časy modlitieb v Shivamogga",
   "description": "Dnešné časy modlitieb v Shivamogga, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Shivamogga.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-shivamogga.html",
+  "id": "/sk/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

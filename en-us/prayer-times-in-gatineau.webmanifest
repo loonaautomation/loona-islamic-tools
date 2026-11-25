@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Gatineau Today",
   "short_name": "Prayer Times in Gatineau Today",
   "description": "Today's prayer times in Gatineau, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Gatineau.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-gatineau.html",
+  "id": "/en-us/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

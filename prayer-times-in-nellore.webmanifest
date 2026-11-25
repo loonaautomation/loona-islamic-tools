@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nellore",
   "short_name": "Prayer Times in Nellore",
   "description": "Today's prayer times in Nellore, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Nellore.",
-  "id": "/loona-islamic-tools/prayer-times-in-nellore.html",
+  "id": "/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

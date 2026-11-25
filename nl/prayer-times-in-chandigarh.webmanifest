@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Chandigarh",
   "short_name": "Gebedstijden in Chandigarh",
   "description": "De gebedstijden van vandaag in Chandigarh, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Chandigarh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-chandigarh.html",
+  "id": "/nl/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

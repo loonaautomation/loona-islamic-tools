@@ -2,7 +2,7 @@
   "name": "Loona Ислямската дата днес",
   "short_name": "Ислямската дата днес",
   "description": "Каква е ислямската дата днес? Вижте днешната дата по Хиджра — ден, месец и година (Umm al-Qura) — с григорианската дата, актуализирана на живо на вашето устройство. Безплатно.",
-  "id": "/loona-islamic-tools/bg/islamic-date-today/",
+  "id": "/bg/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Srinagar",
   "short_name": "Waktu Salat di Srinagar",
   "description": "Waktu salat hari ini di Srinagar, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Srinagar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-srinagar.html",
+  "id": "/id/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

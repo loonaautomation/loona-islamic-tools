@@ -2,7 +2,7 @@
   "name": "Loona Antalya imaidői",
   "short_name": "Antalya imaidői",
   "description": "A mai imaidők: Antalya, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Antalya számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-antalya.html",
+  "id": "/hu/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

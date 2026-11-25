@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Larkana",
   "short_name": "Waktu Solat di Larkana",
   "description": "Waktu solat hari ini di Larkana, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Larkana.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-larkana.html",
+  "id": "/ms/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

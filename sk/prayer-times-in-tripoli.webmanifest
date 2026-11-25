@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Tripoli (Líbya)",
   "short_name": "Časy modlitieb v Tripoli (Líbya)",
   "description": "Dnešné časy modlitieb v Tripoli, Líbya: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítaná naživo vo vašom zariadení pre Tripoli.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-tripoli.html",
+  "id": "/sk/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

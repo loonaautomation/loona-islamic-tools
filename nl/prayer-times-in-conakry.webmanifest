@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Conakry",
   "short_name": "Gebedstijden in Conakry",
   "description": "De gebedstijden van vandaag in Conakry, Guinee: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Conakry.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-conakry.html",
+  "id": "/nl/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

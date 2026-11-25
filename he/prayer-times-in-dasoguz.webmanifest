@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Daşoguz",
   "short_name": "זמני תפילה בעיר Daşoguz",
   "description": "זמני התפילה של היום בעיר Daşoguz, טורקמניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Daşoguz.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dasoguz.html",
+  "id": "/he/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

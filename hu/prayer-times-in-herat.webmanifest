@@ -2,7 +2,7 @@
   "name": "Loona Herāt imaidői",
   "short_name": "Herāt imaidői",
   "description": "A mai imaidők: Herāt, Afganisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Herāt számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-herat.html",
+  "id": "/hu/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Esna",
   "short_name": "Bønnetider i Esna",
   "description": "Dagens bønnetider i Esna, Egypten: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Egyptian General Authority-metoden, beregnet live på din enhed for Esna.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-esna.html",
+  "id": "/da/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

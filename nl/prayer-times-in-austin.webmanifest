@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Austin",
   "short_name": "Gebedstijden in Austin",
   "description": "De gebedstijden van vandaag in Austin, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Austin.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-austin.html",
+  "id": "/nl/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Delhi",
   "short_name": "Gebedstijden in Delhi",
   "description": "De gebedstijden van vandaag in Delhi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Delhi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-delhi.html",
+  "id": "/nl/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

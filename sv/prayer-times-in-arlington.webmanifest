@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Arlington",
   "short_name": "Bönetider i Arlington",
   "description": "Dagens bönetider i Arlington, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Arlington.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-arlington.html",
+  "id": "/sv/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Honolulu の礼拝時刻",
   "short_name": "Honolulu の礼拝時刻",
   "description": "Honolulu（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Honolulu についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-honolulu.html",
+  "id": "/ja/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

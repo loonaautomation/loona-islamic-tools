@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Manchester",
   "short_name": "Час намазу в Manchester",
   "description": "Сьогоднішній час намазу в Manchester, Сполучене Королівство: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Manchester.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-manchester.html",
+  "id": "/uk/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

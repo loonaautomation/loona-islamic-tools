@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kosti",
   "short_name": "Waktu Solat di Kosti",
   "description": "Waktu solat hari ini di Kosti, Sudan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kosti.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kosti.html",
+  "id": "/ms/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

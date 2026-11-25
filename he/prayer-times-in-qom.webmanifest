@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Qom",
   "short_name": "זמני תפילה בעיר Qom",
   "description": "זמני התפילה של היום בעיר Qom, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Qom.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-qom.html",
+  "id": "/he/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

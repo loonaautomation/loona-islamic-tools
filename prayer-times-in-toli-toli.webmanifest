@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Toli-Toli",
   "short_name": "Prayer Times in Toli-Toli",
   "description": "Today's prayer times in Toli-Toli, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Toli-Toli.",
-  "id": "/loona-islamic-tools/prayer-times-in-toli-toli.html",
+  "id": "/prayer-times-in-toli-toli.html",
   "start_url": "./prayer-times-in-toli-toli.html",
   "scope": "./prayer-times-in-toli-toli.html",
   "display": "standalone",

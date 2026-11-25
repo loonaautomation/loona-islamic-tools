@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Koutiala",
   "short_name": "Horarios de oración en Koutiala",
   "description": "Horarios de oración de hoy en Koutiala, Malí: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Koutiala.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-koutiala.html",
+  "id": "/es/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

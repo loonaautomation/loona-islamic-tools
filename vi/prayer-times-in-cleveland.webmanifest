@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Cleveland",
   "short_name": "Giờ cầu nguyện tại Cleveland",
   "description": "Giờ cầu nguyện hôm nay tại Cleveland, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Cleveland.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-cleveland.html",
+  "id": "/vi/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

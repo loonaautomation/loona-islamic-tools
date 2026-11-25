@@ -2,7 +2,7 @@
   "name": "Loona Qina imaidői",
   "short_name": "Qina imaidői",
   "description": "A mai imaidők: Qina, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Qina számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-qina.html",
+  "id": "/hu/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

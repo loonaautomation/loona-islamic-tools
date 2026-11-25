@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Thembisa",
   "short_name": "Gebedstijden in Thembisa",
   "description": "De gebedstijden van vandaag in Thembisa, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Thembisa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-thembisa.html",
+  "id": "/nl/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

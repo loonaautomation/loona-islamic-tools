@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Şabyā",
   "short_name": "Vremena namaza u gradu Şabyā",
   "description": "Današnja vremena namaza u gradu Şabyā, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Şabyā.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sabya.html",
+  "id": "/hr/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

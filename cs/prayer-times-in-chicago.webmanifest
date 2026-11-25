@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Chicago",
   "short_name": "Časy modliteb v Chicago",
   "description": "Dnešní časy modliteb v Chicago, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Chicago.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-chicago.html",
+  "id": "/cs/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

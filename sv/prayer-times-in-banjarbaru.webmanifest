@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Banjarbaru",
   "short_name": "Bönetider i Banjarbaru",
   "description": "Dagens bönetider i Banjarbaru, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Banjarbaru.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-banjarbaru.html",
+  "id": "/sv/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

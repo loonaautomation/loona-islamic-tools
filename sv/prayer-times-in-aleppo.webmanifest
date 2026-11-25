@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Aleppo",
   "short_name": "Bönetider i Aleppo",
   "description": "Dagens bönetider i Aleppo, Syrien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Aleppo.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-aleppo.html",
+  "id": "/sv/prayer-times-in-aleppo.html",
   "start_url": "./prayer-times-in-aleppo.html",
   "scope": "./prayer-times-in-aleppo.html",
   "display": "standalone",

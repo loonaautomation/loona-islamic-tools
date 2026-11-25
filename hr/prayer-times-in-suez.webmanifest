@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Suez",
   "short_name": "Vremena namaza u gradu Suez",
   "description": "Današnja vremena namaza u gradu Suez, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Suez.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-suez.html",
+  "id": "/hr/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

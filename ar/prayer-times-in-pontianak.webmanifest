@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pontianak",
   "short_name": "مواقيت الصلاة في Pontianak",
   "description": "مواقيت الصلاة اليوم في Pontianak، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPontianak.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pontianak.html",
+  "id": "/ar/prayer-times-in-pontianak.html",
   "start_url": "./prayer-times-in-pontianak.html",
   "scope": "./prayer-times-in-pontianak.html",
   "display": "standalone",

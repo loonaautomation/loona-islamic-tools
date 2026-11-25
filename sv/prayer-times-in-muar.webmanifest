@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Muar",
   "short_name": "Bönetider i Muar",
   "description": "Dagens bönetider i Muar, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Muar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-muar.html",
+  "id": "/sv/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

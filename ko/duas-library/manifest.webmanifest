@@ -2,7 +2,7 @@
   "name": "Loona 두아 도서관",
   "short_name": "두아 도서관",
   "description": "아침, 음식, 여행, 집, 불안, 용서 등 모든 순간을 위한 정통 두아 모음집 — 각 두아마다 아랍어, 음역, 번역, 출처가 있어요.",
-  "id": "/loona-islamic-tools/ko/duas-library/",
+  "id": "/ko/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

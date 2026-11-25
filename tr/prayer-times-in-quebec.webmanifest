@@ -2,7 +2,7 @@
   "name": "Loona Québec Namaz Vakitleri",
   "short_name": "Québec Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Québec, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Québec için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-quebec.html",
+  "id": "/tr/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

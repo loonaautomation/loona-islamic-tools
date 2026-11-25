@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bari",
   "short_name": "مواقيت الصلاة في Bari",
   "description": "مواقيت الصلاة اليوم في Bari، إيطاليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBari.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bari.html",
+  "id": "/ar/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

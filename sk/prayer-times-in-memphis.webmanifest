@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Memphis",
   "short_name": "Časy modlitieb v Memphis",
   "description": "Dnešné časy modlitieb v Memphis, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Memphis.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-memphis.html",
+  "id": "/sk/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

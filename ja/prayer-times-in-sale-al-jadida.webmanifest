@@ -2,7 +2,7 @@
   "name": "Loona Salé Al Jadida の礼拝時刻",
   "short_name": "Salé Al Jadida の礼拝時刻",
   "description": "Salé Al Jadida（モロッコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Salé Al Jadida についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sale-al-jadida.html",
+  "id": "/ja/prayer-times-in-sale-al-jadida.html",
   "start_url": "./prayer-times-in-sale-al-jadida.html",
   "scope": "./prayer-times-in-sale-al-jadida.html",
   "display": "standalone",

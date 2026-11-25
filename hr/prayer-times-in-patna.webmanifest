@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Patna",
   "short_name": "Vremena namaza u gradu Patna",
   "description": "Današnja vremena namaza u gradu Patna, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Patna.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-patna.html",
+  "id": "/hr/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

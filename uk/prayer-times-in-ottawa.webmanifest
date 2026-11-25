@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ottawa",
   "short_name": "Час намазу в Ottawa",
   "description": "Сьогоднішній час намазу в Ottawa, Канада: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Ottawa.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ottawa.html",
+  "id": "/uk/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

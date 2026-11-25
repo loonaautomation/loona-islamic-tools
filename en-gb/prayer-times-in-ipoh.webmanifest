@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ipoh Today",
   "short_name": "Prayer Times in Ipoh Today",
   "description": "Today's prayer times in Ipoh, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ipoh.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-ipoh.html",
+  "id": "/en-gb/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

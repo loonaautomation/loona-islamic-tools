@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bahawalpur",
   "short_name": "Bønnetider i Bahawalpur",
   "description": "Dagens bønnetider i Bahawalpur, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bahawalpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bahawalpur.html",
+  "id": "/nb/prayer-times-in-bahawalpur.html",
   "start_url": "./prayer-times-in-bahawalpur.html",
   "scope": "./prayer-times-in-bahawalpur.html",
   "display": "standalone",

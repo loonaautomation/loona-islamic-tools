@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bandar Abbas",
   "short_name": "Vremena namaza u gradu Bandar Abbas",
   "description": "Današnja vremena namaza u gradu Bandar Abbas, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bandar Abbas.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bandar-abbas.html",
+  "id": "/hr/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Madiun",
   "short_name": "Ore de rugăciune în Madiun",
   "description": "Orele de rugăciune de azi în Madiun, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Madiun.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-madiun.html",
+  "id": "/ro/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

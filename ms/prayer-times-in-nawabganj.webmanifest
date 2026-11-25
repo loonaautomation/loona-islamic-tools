@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nawābganj",
   "short_name": "Waktu Solat di Nawābganj",
   "description": "Waktu solat hari ini di Nawābganj, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Nawābganj.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nawabganj.html",
+  "id": "/ms/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

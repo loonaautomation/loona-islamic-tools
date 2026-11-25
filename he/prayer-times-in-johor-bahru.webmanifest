@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Johor Bahru",
   "short_name": "זמני תפילה בעיר Johor Bahru",
   "description": "זמני התפילה של היום בעיר Johor Bahru, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Johor Bahru.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-johor-bahru.html",
+  "id": "/he/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

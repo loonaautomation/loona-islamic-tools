@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Hubballi",
   "short_name": "Ώρες Προσευχής στο Hubballi",
   "description": "Οι σημερινές ώρες προσευχής στο Hubballi, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Hubballi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-hubballi.html",
+  "id": "/el/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

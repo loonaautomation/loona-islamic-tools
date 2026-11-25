@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mukalla",
   "short_name": "Czasy modlitw w miejscowości Mukalla",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mukalla, kraj Jemen: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Mukalla.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mukalla.html",
+  "id": "/pl/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

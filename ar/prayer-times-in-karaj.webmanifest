@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Karaj",
   "short_name": "مواقيت الصلاة في Karaj",
   "description": "مواقيت الصلاة اليوم في Karaj، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKaraj.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-karaj.html",
+  "id": "/ar/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

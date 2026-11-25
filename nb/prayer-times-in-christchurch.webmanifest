@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Christchurch",
   "short_name": "Bønnetider i Christchurch",
   "description": "Dagens bønnetider i Christchurch, New Zealand: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Christchurch.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-christchurch.html",
+  "id": "/nb/prayer-times-in-christchurch.html",
   "start_url": "./prayer-times-in-christchurch.html",
   "scope": "./prayer-times-in-christchurch.html",
   "display": "standalone",

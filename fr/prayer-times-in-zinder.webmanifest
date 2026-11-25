@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Zinder",
   "short_name": "Heures de prière à Zinder",
   "description": "Les heures de prière d’aujourd’hui à Zinder, Niger : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Zinder.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-zinder.html",
+  "id": "/fr/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

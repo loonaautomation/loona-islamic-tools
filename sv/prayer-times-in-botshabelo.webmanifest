@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Botshabelo",
   "short_name": "Bönetider i Botshabelo",
   "description": "Dagens bönetider i Botshabelo, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Botshabelo.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-botshabelo.html",
+  "id": "/sv/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mesa",
   "short_name": "Время намаза в городе Mesa",
   "description": "Время намаза на сегодня: Mesa, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Mesa.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mesa.html",
+  "id": "/ru/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

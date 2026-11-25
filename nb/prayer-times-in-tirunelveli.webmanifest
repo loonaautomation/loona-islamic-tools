@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tirunelveli",
   "short_name": "Bønnetider i Tirunelveli",
   "description": "Dagens bønnetider i Tirunelveli, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Tirunelveli.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tirunelveli.html",
+  "id": "/nb/prayer-times-in-tirunelveli.html",
   "start_url": "./prayer-times-in-tirunelveli.html",
   "scope": "./prayer-times-in-tirunelveli.html",
   "display": "standalone",

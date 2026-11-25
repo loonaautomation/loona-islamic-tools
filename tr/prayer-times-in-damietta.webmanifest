@@ -2,7 +2,7 @@
   "name": "Loona Damietta Namaz Vakitleri",
   "short_name": "Damietta Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Damietta, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Damietta için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-damietta.html",
+  "id": "/tr/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

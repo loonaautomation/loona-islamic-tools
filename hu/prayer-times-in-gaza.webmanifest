@@ -2,7 +2,7 @@
   "name": "Loona Gaza imaidői",
   "short_name": "Gaza imaidői",
   "description": "A mai imaidők: Gaza, Palesztina: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Gaza számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-gaza.html",
+  "id": "/hu/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

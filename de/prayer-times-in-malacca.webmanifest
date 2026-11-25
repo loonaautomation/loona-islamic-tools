@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Malacca",
   "short_name": "Gebetszeiten in Malacca",
   "description": "Die heutigen Gebetszeiten in Malacca, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Malacca.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-malacca.html",
+  "id": "/de/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

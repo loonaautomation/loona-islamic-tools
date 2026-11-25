@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Wad Medani",
   "short_name": "Часове за намаз в Wad Medani",
   "description": "Днешните часове за намаз в Wad Medani, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Wad Medani.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-wad-medani.html",
+  "id": "/bg/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

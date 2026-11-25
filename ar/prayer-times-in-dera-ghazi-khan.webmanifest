@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dera Ghazi Khan",
   "short_name": "مواقيت الصلاة في Dera Ghazi Khan",
   "description": "مواقيت الصلاة اليوم في Dera Ghazi Khan، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDera Ghazi Khan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dera-ghazi-khan.html",
+  "id": "/ar/prayer-times-in-dera-ghazi-khan.html",
   "start_url": "./prayer-times-in-dera-ghazi-khan.html",
   "scope": "./prayer-times-in-dera-ghazi-khan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kuching",
   "short_name": "Časy modliteb v Kuching",
   "description": "Dnešní časy modliteb v Kuching, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kuching.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kuching.html",
+  "id": "/cs/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

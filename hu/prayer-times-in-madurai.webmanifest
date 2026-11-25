@@ -2,7 +2,7 @@
   "name": "Loona Madurai imaidői",
   "short_name": "Madurai imaidői",
   "description": "A mai imaidők: Madurai, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Madurai számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-madurai.html",
+  "id": "/hu/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

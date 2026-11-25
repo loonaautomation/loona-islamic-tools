@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Seattle",
   "short_name": "Časy modliteb v Seattle",
   "description": "Dnešní časy modliteb v Seattle, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Seattle.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-seattle.html",
+  "id": "/cs/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

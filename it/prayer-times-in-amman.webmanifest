@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Amman",
   "short_name": "Orari di preghiera a Amman",
   "description": "Orari di preghiera di oggi a Amman, Giordania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Amman.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-amman.html",
+  "id": "/it/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hafizabad Namaz Vakitleri",
   "short_name": "Hafizabad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Hafizabad, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Hafizabad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-hafizabad.html",
+  "id": "/tr/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

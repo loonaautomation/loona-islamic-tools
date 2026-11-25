@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Botshabelo",
   "short_name": "Gebedstijden in Botshabelo",
   "description": "De gebedstijden van vandaag in Botshabelo, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Botshabelo.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-botshabelo.html",
+  "id": "/nl/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

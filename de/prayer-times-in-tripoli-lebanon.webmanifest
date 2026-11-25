@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tripoli (Libanon)",
   "short_name": "Gebetszeiten in Tripoli (Libanon)",
   "description": "Die heutigen Gebetszeiten in Tripoli, Libanon: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tripoli.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tripoli-lebanon.html",
+  "id": "/de/prayer-times-in-tripoli-lebanon.html",
   "start_url": "./prayer-times-in-tripoli-lebanon.html",
   "scope": "./prayer-times-in-tripoli-lebanon.html",
   "display": "standalone",

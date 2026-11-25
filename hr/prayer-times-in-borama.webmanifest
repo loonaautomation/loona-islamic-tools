@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Borama",
   "short_name": "Vremena namaza u gradu Borama",
   "description": "Današnja vremena namaza u gradu Borama, Somalija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Borama.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-borama.html",
+  "id": "/hr/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

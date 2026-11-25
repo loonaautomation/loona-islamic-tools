@@ -2,7 +2,7 @@
   "name": "Loona Bandung imaidői",
   "short_name": "Bandung imaidői",
   "description": "A mai imaidők: Bandung, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bandung számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bandung.html",
+  "id": "/hu/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

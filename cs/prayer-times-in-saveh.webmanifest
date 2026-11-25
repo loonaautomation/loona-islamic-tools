@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sāveh",
   "short_name": "Časy modliteb v Sāveh",
   "description": "Dnešní časy modliteb v Sāveh, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sāveh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-saveh.html",
+  "id": "/cs/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

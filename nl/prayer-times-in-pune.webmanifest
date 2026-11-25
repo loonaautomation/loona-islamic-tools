@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pune",
   "short_name": "Gebedstijden in Pune",
   "description": "De gebedstijden van vandaag in Pune, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Pune.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pune.html",
+  "id": "/nl/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mohammedia",
   "short_name": "Время намаза в городе Mohammedia",
   "description": "Время намаза на сегодня: Mohammedia, Марокко: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Mohammedia.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mohammedia.html",
+  "id": "/ru/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

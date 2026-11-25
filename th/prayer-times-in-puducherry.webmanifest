@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Puducherry",
   "short_name": "เวลาละหมาดใน Puducherry",
   "description": "เวลาละหมาดวันนี้ใน Puducherry, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Puducherry",
-  "id": "/loona-islamic-tools/th/prayer-times-in-puducherry.html",
+  "id": "/th/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Omaha",
   "short_name": "Часове за намаз в Omaha",
   "description": "Днешните часове за намаз в Omaha, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Omaha.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-omaha.html",
+  "id": "/bg/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

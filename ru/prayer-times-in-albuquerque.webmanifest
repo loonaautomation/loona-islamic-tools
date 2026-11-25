@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Albuquerque",
   "short_name": "Время намаза в городе Albuquerque",
   "description": "Время намаза на сегодня: Albuquerque, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Albuquerque.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-albuquerque.html",
+  "id": "/ru/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

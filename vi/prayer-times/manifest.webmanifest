@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện hôm nay",
   "short_name": "Giờ cầu nguyện hôm nay",
   "description": "Lấy giờ cầu nguyện Fajr, Dhuhr, Asr, Maghrib và Isha hôm nay cho bất kỳ thành phố nào: các phương pháp Karachi, ISNA, MWL và nhiều phương pháp khác, Asr theo Hanafi hoặc Shafi, hỗ trợ tọa độ chính xác.",
-  "id": "/loona-islamic-tools/vi/prayer-times/",
+  "id": "/vi/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

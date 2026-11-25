@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dezful",
   "short_name": "Bönetider i Dezful",
   "description": "Dagens bönetider i Dezful, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Dezful.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dezful.html",
+  "id": "/sv/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Anaheim",
   "short_name": "مواقيت الصلاة في Anaheim",
   "description": "مواقيت الصلاة اليوم في Anaheim، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـAnaheim.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-anaheim.html",
+  "id": "/ar/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

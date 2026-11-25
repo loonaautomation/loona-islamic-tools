@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Uşak",
   "short_name": "مواقيت الصلاة في Uşak",
   "description": "مواقيت الصلاة اليوم في Uşak، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـUşak.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-usak.html",
+  "id": "/ar/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

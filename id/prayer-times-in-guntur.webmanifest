@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Guntur",
   "short_name": "Waktu Salat di Guntur",
   "description": "Waktu salat hari ini di Guntur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Guntur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-guntur.html",
+  "id": "/id/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

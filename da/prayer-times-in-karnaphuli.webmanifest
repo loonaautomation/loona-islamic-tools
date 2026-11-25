@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Karnaphuli",
   "short_name": "Bønnetider i Karnaphuli",
   "description": "Dagens bønnetider i Karnaphuli, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Karnaphuli.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-karnaphuli.html",
+  "id": "/da/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

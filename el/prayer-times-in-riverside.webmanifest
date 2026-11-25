@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Riverside",
   "short_name": "Ώρες Προσευχής στο Riverside",
   "description": "Οι σημερινές ώρες προσευχής στο Riverside, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Riverside.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-riverside.html",
+  "id": "/el/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

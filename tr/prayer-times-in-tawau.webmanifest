@@ -2,7 +2,7 @@
   "name": "Loona Tawau Namaz Vakitleri",
   "short_name": "Tawau Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tawau, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tawau için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tawau.html",
+  "id": "/tr/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

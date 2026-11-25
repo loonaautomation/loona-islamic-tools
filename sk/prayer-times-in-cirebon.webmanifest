@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Cirebon",
   "short_name": "Časy modlitieb v Cirebon",
   "description": "Dnešné časy modlitieb v Cirebon, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Cirebon.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cirebon.html",
+  "id": "/sk/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Antwerp imaidői",
   "short_name": "Antwerp imaidői",
   "description": "A mai imaidők: Antwerp, Belgium: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Antwerp számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-antwerp.html",
+  "id": "/hu/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

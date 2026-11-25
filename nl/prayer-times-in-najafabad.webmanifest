@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Najafābād",
   "short_name": "Gebedstijden in Najafābād",
   "description": "De gebedstijden van vandaag in Najafābād, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Najafābād.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-najafabad.html",
+  "id": "/nl/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

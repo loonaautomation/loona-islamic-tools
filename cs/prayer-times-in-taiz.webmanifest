@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Taiz",
   "short_name": "Časy modliteb v Taiz",
   "description": "Dnešní časy modliteb v Taiz, Jemen: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Taiz.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-taiz.html",
+  "id": "/cs/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

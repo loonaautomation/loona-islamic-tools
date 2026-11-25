@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Basrah",
   "short_name": "Horários de Oração em Basrah",
   "description": "Horários de oração de hoje em Basrah, Iraque: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Basrah.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-basrah.html",
+  "id": "/pt/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

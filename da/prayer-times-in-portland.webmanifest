@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Portland",
   "short_name": "Bønnetider i Portland",
   "description": "Dagens bønnetider i Portland, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Portland.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-portland.html",
+  "id": "/da/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Catania Today",
   "short_name": "Prayer Times in Catania Today",
   "description": "Today's prayer times in Catania, Italy: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Catania.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-catania.html",
+  "id": "/en-gb/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

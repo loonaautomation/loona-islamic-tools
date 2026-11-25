@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tirunelveli",
   "short_name": "Ώρες Προσευχής στο Tirunelveli",
   "description": "Οι σημερινές ώρες προσευχής στο Tirunelveli, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Tirunelveli.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tirunelveli.html",
+  "id": "/el/prayer-times-in-tirunelveli.html",
   "start_url": "./prayer-times-in-tirunelveli.html",
   "scope": "./prayer-times-in-tirunelveli.html",
   "display": "standalone",

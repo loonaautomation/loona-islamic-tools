@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sumgayit",
   "short_name": "Orari di preghiera a Sumgayit",
   "description": "Orari di preghiera di oggi a Sumgayit, Azerbaigian: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sumgayit.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sumgayit.html",
+  "id": "/it/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ra’s Bayrūt",
   "short_name": "Bønnetider i Ra’s Bayrūt",
   "description": "Dagens bønnetider i Ra’s Bayrūt, Libanon: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Ra’s Bayrūt.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ra-s-bayrut.html",
+  "id": "/nb/prayer-times-in-ra-s-bayrut.html",
   "start_url": "./prayer-times-in-ra-s-bayrut.html",
   "scope": "./prayer-times-in-ra-s-bayrut.html",
   "display": "standalone",

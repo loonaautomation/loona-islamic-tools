@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bradford",
   "short_name": "Časy modlitieb v Bradford",
   "description": "Dnešné časy modlitieb v Bradford, Spojené kráľovstvo: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Bradford.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bradford.html",
+  "id": "/sk/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

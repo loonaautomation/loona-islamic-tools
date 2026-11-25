@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Saint Paul",
   "short_name": "זמני תפילה בעיר Saint Paul",
   "description": "זמני התפילה של היום בעיר Saint Paul, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Saint Paul.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-saint-paul.html",
+  "id": "/he/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

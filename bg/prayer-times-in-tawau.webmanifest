@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tawau",
   "short_name": "Часове за намаз в Tawau",
   "description": "Днешните часове за намаз в Tawau, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Tawau.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tawau.html",
+  "id": "/bg/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

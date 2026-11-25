@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Washington",
   "short_name": "Prayer Times in Washington",
   "description": "Today's prayer times in Washington, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Washington.",
-  "id": "/loona-islamic-tools/prayer-times-in-washington.html",
+  "id": "/prayer-times-in-washington.html",
   "start_url": "./prayer-times-in-washington.html",
   "scope": "./prayer-times-in-washington.html",
   "display": "standalone",

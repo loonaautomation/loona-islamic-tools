@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Wad Medani",
   "short_name": "Orari di preghiera a Wad Medani",
   "description": "Orari di preghiera di oggi a Wad Medani, Sudan: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Wad Medani.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-wad-medani.html",
+  "id": "/it/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

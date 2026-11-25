@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Al Hoceïma",
   "short_name": "Vremena namaza u gradu Al Hoceïma",
   "description": "Današnja vremena namaza u gradu Al Hoceïma, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Al Hoceïma.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-al-hoceima.html",
+  "id": "/hr/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Vancouver",
   "short_name": "Ore de rugăciune în Vancouver",
   "description": "Orele de rugăciune de azi în Vancouver, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Vancouver.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-vancouver.html",
+  "id": "/ro/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

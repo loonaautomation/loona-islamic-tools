@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Nyala",
   "short_name": "Horarios de oración en Nyala",
   "description": "Horarios de oración de hoy en Nyala, Sudán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Nyala.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-nyala.html",
+  "id": "/es/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

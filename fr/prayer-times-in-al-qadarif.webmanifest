@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Al Qadarif",
   "short_name": "Heures de prière à Al Qadarif",
   "description": "Les heures de prière d’aujourd’hui à Al Qadarif, Soudan : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Al Qadarif.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-al-qadarif.html",
+  "id": "/fr/prayer-times-in-al-qadarif.html",
   "start_url": "./prayer-times-in-al-qadarif.html",
   "scope": "./prayer-times-in-al-qadarif.html",
   "display": "standalone",

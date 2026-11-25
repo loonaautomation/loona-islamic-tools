@@ -2,7 +2,7 @@
   "name": "Loona ספריית דועאות",
   "short_name": "ספריית דועאות",
   "description": "ספרייה של דועאות אותנטיות לכל רגע — בוקר, אוכל, נסיעה, בית, חרדה, סליחה — כל אחת עם ערבית, תעתיק, תרגום ומקור.",
-  "id": "/loona-islamic-tools/he/duas-library/",
+  "id": "/he/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

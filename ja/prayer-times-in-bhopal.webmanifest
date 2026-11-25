@@ -2,7 +2,7 @@
   "name": "Loona Bhopal の礼拝時刻",
   "short_name": "Bhopal の礼拝時刻",
   "description": "Bhopal（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bhopal についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bhopal.html",
+  "id": "/ja/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

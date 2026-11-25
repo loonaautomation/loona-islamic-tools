@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kolhāpur",
   "short_name": "Gebedstijden in Kolhāpur",
   "description": "De gebedstijden van vandaag in Kolhāpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kolhāpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kolhapur.html",
+  "id": "/nl/prayer-times-in-kolhapur.html",
   "start_url": "./prayer-times-in-kolhapur.html",
   "scope": "./prayer-times-in-kolhapur.html",
   "display": "standalone",

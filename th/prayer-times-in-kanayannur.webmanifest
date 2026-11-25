@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kanayannur",
   "short_name": "เวลาละหมาดใน Kanayannur",
   "description": "เวลาละหมาดวันนี้ใน Kanayannur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kanayannur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kanayannur.html",
+  "id": "/th/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

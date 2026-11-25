@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sevilla",
   "short_name": "זמני תפילה בעיר Sevilla",
   "description": "זמני התפילה של היום בעיר Sevilla, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sevilla.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sevilla.html",
+  "id": "/he/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

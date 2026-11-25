@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Maradi",
   "short_name": "Rukousajat: Maradi",
   "description": "Tämän päivän rukousajat paikassa Maradi, Niger: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Maradi.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-maradi.html",
+  "id": "/fi/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Port Sudan",
   "short_name": "Vremena namaza u gradu Port Sudan",
   "description": "Današnja vremena namaza u gradu Port Sudan, zemlja Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Port Sudan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-port-sudan.html",
+  "id": "/hr/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

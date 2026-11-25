@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bogura",
   "short_name": "Časy modliteb v Bogura",
   "description": "Dnešní časy modliteb v Bogura, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bogura.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bogura.html",
+  "id": "/cs/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

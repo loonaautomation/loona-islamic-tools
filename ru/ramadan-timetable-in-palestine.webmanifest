@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Палестина, 2027 (1448)",
   "short_name": "Расписание Рамадана: Палестина, 2027 (1448)",
   "description": "Расписание Рамадана 2027 для Палестина: время окончания сухура (Фаджр) и ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для Рамаллы. Ожидается с 8 февраля по 8 марта 2027, при условии наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-palestine.html",
+  "id": "/ru/ramadan-timetable-in-palestine.html",
   "start_url": "./ramadan-timetable-in-palestine.html",
   "scope": "./ramadan-timetable-in-palestine.html",
   "display": "standalone",

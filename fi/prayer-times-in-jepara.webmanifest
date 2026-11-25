@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Jepara",
   "short_name": "Rukousajat: Jepara",
   "description": "Tämän päivän rukousajat paikassa Jepara, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Jepara.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-jepara.html",
+  "id": "/fi/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

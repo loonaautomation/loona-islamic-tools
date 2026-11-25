@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Tampa",
   "short_name": "Время намаза в городе Tampa",
   "description": "Время намаза на сегодня: Tampa, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Tampa.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-tampa.html",
+  "id": "/ru/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

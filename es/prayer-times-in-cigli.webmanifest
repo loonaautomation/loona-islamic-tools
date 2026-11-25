@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Çiğli",
   "short_name": "Horarios de oración en Çiğli",
   "description": "Horarios de oración de hoy en Çiğli, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Çiğli.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-cigli.html",
+  "id": "/es/prayer-times-in-cigli.html",
   "start_url": "./prayer-times-in-cigli.html",
   "scope": "./prayer-times-in-cigli.html",
   "display": "standalone",

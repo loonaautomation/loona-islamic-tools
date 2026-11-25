@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bari",
   "short_name": "Časy modliteb v Bari",
   "description": "Dnešní časy modliteb v Bari, Itálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bari.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bari.html",
+  "id": "/cs/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

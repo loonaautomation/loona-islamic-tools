@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Larkana",
   "short_name": "Horários de Oração em Larkana",
   "description": "Horários de oração de hoje em Larkana, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Larkana.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-larkana.html",
+  "id": "/pt/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Québec",
   "short_name": "זמני תפילה בעיר Québec",
   "description": "זמני התפילה של היום בעיר Québec, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Québec.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-quebec.html",
+  "id": "/he/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bitung",
   "short_name": "Časy modliteb v Bitung",
   "description": "Dnešní časy modliteb v Bitung, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bitung.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bitung.html",
+  "id": "/cs/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

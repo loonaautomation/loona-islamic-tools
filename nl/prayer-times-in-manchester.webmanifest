@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Manchester",
   "short_name": "Gebedstijden in Manchester",
   "description": "De gebedstijden van vandaag in Manchester, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Manchester.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-manchester.html",
+  "id": "/nl/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hargeysa",
   "short_name": "Bønnetider i Hargeysa",
   "description": "Dagens bønnetider i Hargeysa, Somalia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Hargeysa.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-hargeysa.html",
+  "id": "/nb/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

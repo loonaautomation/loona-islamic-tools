@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Malang",
   "short_name": "เวลาละหมาดใน Malang",
   "description": "เวลาละหมาดวันนี้ใน Malang, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Malang",
-  "id": "/loona-islamic-tools/th/prayer-times-in-malang.html",
+  "id": "/th/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bari Namaz Vakitleri",
   "short_name": "Bari Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bari, İtalya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bari için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bari.html",
+  "id": "/tr/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

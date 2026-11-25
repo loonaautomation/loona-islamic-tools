@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Varanasi",
   "short_name": "Czasy modlitw w miejscowości Varanasi",
   "description": "Dzisiejsze czasy modlitw w miejscowości Varanasi, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Varanasi.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-varanasi.html",
+  "id": "/pl/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

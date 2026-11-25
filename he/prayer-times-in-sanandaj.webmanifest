@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sanandaj",
   "short_name": "זמני תפילה בעיר Sanandaj",
   "description": "זמני התפילה של היום בעיר Sanandaj, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sanandaj.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sanandaj.html",
+  "id": "/he/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Pikine",
   "short_name": "เวลาละหมาดใน Pikine",
   "description": "เวลาละหมาดวันนี้ใน Pikine, Senegal: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Pikine",
-  "id": "/loona-islamic-tools/th/prayer-times-in-pikine.html",
+  "id": "/th/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

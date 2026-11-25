@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mazār-e Sharīf",
   "short_name": "Час намазу в Mazār-e Sharīf",
   "description": "Сьогоднішній час намазу в Mazār-e Sharīf, Афганістан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mazar-e-sharif.html",
+  "id": "/uk/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

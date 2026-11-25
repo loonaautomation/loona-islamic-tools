@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Utrecht",
   "short_name": "זמני תפילה בעיר Utrecht",
   "description": "זמני התפילה של היום בעיר Utrecht, הולנד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Utrecht.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-utrecht.html",
+  "id": "/he/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

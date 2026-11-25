@@ -2,7 +2,7 @@
   "name": "Loona Varāmīn imaidői",
   "short_name": "Varāmīn imaidői",
   "description": "A mai imaidők: Varāmīn, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Varāmīn számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-varamin.html",
+  "id": "/hu/prayer-times-in-varamin.html",
   "start_url": "./prayer-times-in-varamin.html",
   "scope": "./prayer-times-in-varamin.html",
   "display": "standalone",

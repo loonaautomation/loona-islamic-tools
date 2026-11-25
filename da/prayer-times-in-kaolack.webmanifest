@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kaolack",
   "short_name": "Bønnetider i Kaolack",
   "description": "Dagens bønnetider i Kaolack, Senegal: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kaolack.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kaolack.html",
+  "id": "/da/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

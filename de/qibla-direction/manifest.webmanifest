@@ -2,7 +2,7 @@
   "name": "Loona Qibla-Richtung",
   "short_name": "Qibla-Richtung",
   "description": "Finden Sie die Qibla-Richtung in Grad von jeder Stadt oder Ihrem genauen Standort aus, mit einer Live-Kompassanzeige und der Entfernung nach Mekka. Kostenlos, genau und privat.",
-  "id": "/loona-islamic-tools/de/qibla-direction/",
+  "id": "/de/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

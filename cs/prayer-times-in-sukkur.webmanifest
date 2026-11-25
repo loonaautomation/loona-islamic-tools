@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sukkur",
   "short_name": "Časy modliteb v Sukkur",
   "description": "Dnešní časy modliteb v Sukkur, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Sukkur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sukkur.html",
+  "id": "/cs/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

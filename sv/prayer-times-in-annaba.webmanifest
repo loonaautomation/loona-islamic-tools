@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Annaba",
   "short_name": "Bönetider i Annaba",
   "description": "Dagens bönetider i Annaba, Algeriet: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Annaba.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-annaba.html",
+  "id": "/sv/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

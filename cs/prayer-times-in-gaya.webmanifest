@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Gaya",
   "short_name": "Časy modliteb v Gaya",
   "description": "Dnešní časy modliteb v Gaya, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Gaya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-gaya.html",
+  "id": "/cs/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

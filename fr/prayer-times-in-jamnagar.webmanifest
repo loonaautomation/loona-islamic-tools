@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Jamnagar",
   "short_name": "Heures de prière à Jamnagar",
   "description": "Les heures de prière d’aujourd’hui à Jamnagar, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Jamnagar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-jamnagar.html",
+  "id": "/fr/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

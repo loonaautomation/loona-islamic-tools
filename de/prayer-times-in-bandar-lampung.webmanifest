@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bandar Lampung",
   "short_name": "Gebetszeiten in Bandar Lampung",
   "description": "Die heutigen Gebetszeiten in Bandar Lampung, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bandar Lampung.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bandar-lampung.html",
+  "id": "/de/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

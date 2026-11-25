@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Zliten",
   "short_name": "Časy modliteb v Zliten",
   "description": "Dnešní časy modliteb v Zliten, Libye: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Zliten.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-zliten.html",
+  "id": "/cs/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

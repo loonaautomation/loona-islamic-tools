@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Karbala",
   "short_name": "Gebedstijden in Karbala",
   "description": "De gebedstijden van vandaag in Karbala, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Karbala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-karbala.html",
+  "id": "/nl/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

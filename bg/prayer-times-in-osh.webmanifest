@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Osh",
   "short_name": "Часове за намаз в Osh",
   "description": "Днешните часове за намаз в Osh, Киргизстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Osh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-osh.html",
+  "id": "/bg/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

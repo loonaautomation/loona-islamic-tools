@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Balbala",
   "short_name": "Horarios de oración en Balbala",
   "description": "Horarios de oración de hoy en Balbala, Yibuti: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Balbala.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-balbala.html",
+  "id": "/es/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

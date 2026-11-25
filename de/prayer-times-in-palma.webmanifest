@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Palma",
   "short_name": "Gebetszeiten in Palma",
   "description": "Die heutigen Gebetszeiten in Palma, Spanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Palma.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-palma.html",
+  "id": "/de/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

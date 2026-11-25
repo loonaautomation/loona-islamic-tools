@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bokāro",
   "short_name": "Bönetider i Bokāro",
   "description": "Dagens bönetider i Bokāro, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bokāro.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bokaro.html",
+  "id": "/sv/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

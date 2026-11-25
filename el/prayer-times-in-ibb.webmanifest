@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ibb",
   "short_name": "Ώρες Προσευχής στο Ibb",
   "description": "Οι σημερινές ώρες προσευχής στο Ibb, Υεμένη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Ibb.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ibb.html",
+  "id": "/el/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

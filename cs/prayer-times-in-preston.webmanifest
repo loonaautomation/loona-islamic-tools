@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Preston",
   "short_name": "Časy modliteb v Preston",
   "description": "Dnešní časy modliteb v Preston, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Preston.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-preston.html",
+  "id": "/cs/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Indore",
   "short_name": "Časy modlitieb v Indore",
   "description": "Dnešné časy modlitieb v Indore, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Indore.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-indore.html",
+  "id": "/sk/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

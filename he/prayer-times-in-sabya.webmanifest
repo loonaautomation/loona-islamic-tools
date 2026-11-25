@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Şabyā",
   "short_name": "זמני תפילה בעיר Şabyā",
   "description": "זמני התפילה של היום בעיר Şabyā, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Şabyā.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sabya.html",
+  "id": "/he/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

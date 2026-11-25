@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Aksaray",
   "short_name": "Bönetider i Aksaray",
   "description": "Dagens bönetider i Aksaray, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Aksaray.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-aksaray.html",
+  "id": "/sv/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Shikarpur",
   "short_name": "Waktu Salat di Shikarpur",
   "description": "Waktu salat hari ini di Shikarpur, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Shikarpur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-shikarpur.html",
+  "id": "/id/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

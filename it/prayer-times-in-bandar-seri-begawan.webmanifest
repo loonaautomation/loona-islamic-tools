@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bandar Seri Begawan",
   "short_name": "Orari di preghiera a Bandar Seri Begawan",
   "description": "Orari di preghiera di oggi a Bandar Seri Begawan, Brunei: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bandar Seri Begawan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bandar-seri-begawan.html",
+  "id": "/it/prayer-times-in-bandar-seri-begawan.html",
   "start_url": "./prayer-times-in-bandar-seri-begawan.html",
   "scope": "./prayer-times-in-bandar-seri-begawan.html",
   "display": "standalone",

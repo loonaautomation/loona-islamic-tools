@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Chilanzar",
   "short_name": "Час намазу в Chilanzar",
   "description": "Сьогоднішній час намазу в Chilanzar, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Chilanzar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-chilanzar.html",
+  "id": "/uk/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Puducherry",
   "short_name": "مواقيت الصلاة في Puducherry",
   "description": "مواقيت الصلاة اليوم في Puducherry، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPuducherry.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-puducherry.html",
+  "id": "/ar/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Virār",
   "short_name": "זמני תפילה בעיר Virār",
   "description": "זמני התפילה של היום בעיר Virār, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Virār.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-virar.html",
+  "id": "/he/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

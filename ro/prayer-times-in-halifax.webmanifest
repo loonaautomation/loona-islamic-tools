@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Halifax",
   "short_name": "Ore de rugăciune în Halifax",
   "description": "Orele de rugăciune de azi în Halifax, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Halifax.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-halifax.html",
+  "id": "/ro/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

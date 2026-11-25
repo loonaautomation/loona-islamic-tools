@@ -2,7 +2,7 @@
   "name": "Loona Glasgow Namaz Vakitleri",
   "short_name": "Glasgow Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Glasgow, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Glasgow için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-glasgow.html",
+  "id": "/tr/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

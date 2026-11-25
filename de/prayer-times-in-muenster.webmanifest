@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Münster",
   "short_name": "Gebetszeiten in Münster",
   "description": "Die heutigen Gebetszeiten in Münster, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Münster.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-muenster.html",
+  "id": "/de/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

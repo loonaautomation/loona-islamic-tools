@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kerman",
   "short_name": "Часове за намаз в Kerman",
   "description": "Днешните часове за намаз в Kerman, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kerman.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kerman.html",
+  "id": "/bg/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

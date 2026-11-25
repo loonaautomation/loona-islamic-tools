@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bandar Seri Alam",
   "short_name": "Gebedstijden in Bandar Seri Alam",
   "description": "De gebedstijden van vandaag in Bandar Seri Alam, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bandar Seri Alam.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bandar-seri-alam.html",
+  "id": "/nl/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

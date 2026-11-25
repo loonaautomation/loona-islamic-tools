@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Mingora",
   "short_name": "Časy modlitieb v Mingora",
   "description": "Dnešné časy modlitieb v Mingora, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Mingora.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-mingora.html",
+  "id": "/sk/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

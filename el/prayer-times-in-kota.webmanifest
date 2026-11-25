@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kota",
   "short_name": "Ώρες Προσευχής στο Kota",
   "description": "Οι σημερινές ώρες προσευχής στο Kota, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kota.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kota.html",
+  "id": "/el/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

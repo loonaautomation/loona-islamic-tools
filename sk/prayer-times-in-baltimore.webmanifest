@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Baltimore",
   "short_name": "Časy modlitieb v Baltimore",
   "description": "Dnešné časy modlitieb v Baltimore, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Baltimore.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-baltimore.html",
+  "id": "/sk/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

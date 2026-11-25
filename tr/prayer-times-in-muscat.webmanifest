@@ -2,7 +2,7 @@
   "name": "Loona Muscat Namaz Vakitleri",
   "short_name": "Muscat Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Muscat, Umman: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Muscat için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-muscat.html",
+  "id": "/tr/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

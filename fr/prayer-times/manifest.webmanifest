@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière d’aujourd’hui",
   "short_name": "Heures de prière d’aujourd’hui",
   "description": "Obtenez les heures de prière de Fajr, Dhuhr, Asr, Maghrib et Isha d’aujourd’hui pour n’importe quelle ville : méthodes Karachi, ISNA, MWL et d’autres, Asr hanafite ou chafiite, coordonnées exactes prises en charge.",
-  "id": "/loona-islamic-tools/fr/prayer-times/",
+  "id": "/fr/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

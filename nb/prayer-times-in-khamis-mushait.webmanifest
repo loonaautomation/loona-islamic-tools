@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Khamis Mushait",
   "short_name": "Bønnetider i Khamis Mushait",
   "description": "Dagens bønnetider i Khamis Mushait, Saudi-Arabia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet direkte på enheten din for Khamis Mushait.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-khamis-mushait.html",
+  "id": "/nb/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

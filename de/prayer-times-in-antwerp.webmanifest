@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Antwerp",
   "short_name": "Gebetszeiten in Antwerp",
   "description": "Die heutigen Gebetszeiten in Antwerp, Belgien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Antwerp.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-antwerp.html",
+  "id": "/de/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

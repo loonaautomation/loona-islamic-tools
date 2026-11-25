@@ -2,7 +2,7 @@
   "name": "Loona Směr qibly",
   "short_name": "Směr qibly",
   "description": "Najděte směr qibly ve stupních z libovolného města nebo ze své přesné polohy, s živým číselníkem kompasu a vzdáleností do Mekky. Zdarma, přesně a soukromě.",
-  "id": "/loona-islamic-tools/cs/qibla-direction/",
+  "id": "/cs/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

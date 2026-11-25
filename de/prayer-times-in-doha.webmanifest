@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Doha",
   "short_name": "Gebetszeiten in Doha",
   "description": "Die heutigen Gebetszeiten in Doha, Katar: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Doha.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-doha.html",
+  "id": "/de/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

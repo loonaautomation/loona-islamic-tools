@@ -2,7 +2,7 @@
   "name": "Loona Padang imaidői",
   "short_name": "Padang imaidői",
   "description": "A mai imaidők: Padang, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Padang számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-padang.html",
+  "id": "/hu/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

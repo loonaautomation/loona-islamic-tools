@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bilimora",
   "short_name": "Orari di preghiera a Bilimora",
   "description": "Orari di preghiera di oggi a Bilimora, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Bilimora.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bilimora.html",
+  "id": "/it/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Hyderabad",
   "short_name": "Waktu Salat di Hyderabad",
   "description": "Waktu salat hari ini di Hyderabad, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Hyderabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-hyderabad.html",
+  "id": "/id/prayer-times-in-hyderabad.html",
   "start_url": "./prayer-times-in-hyderabad.html",
   "scope": "./prayer-times-in-hyderabad.html",
   "display": "standalone",

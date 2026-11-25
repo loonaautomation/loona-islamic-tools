@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kyzylorda",
   "short_name": "Orari di preghiera a Kyzylorda",
   "description": "Orari di preghiera di oggi a Kyzylorda, Kazakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kyzylorda.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kyzylorda.html",
+  "id": "/it/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

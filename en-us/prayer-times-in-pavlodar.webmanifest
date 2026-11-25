@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pavlodar Today",
   "short_name": "Prayer Times in Pavlodar Today",
   "description": "Today's prayer times in Pavlodar, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pavlodar.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-pavlodar.html",
+  "id": "/en-us/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

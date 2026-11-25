@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ambattur",
   "short_name": "Waktu Solat di Ambattur",
   "description": "Waktu solat hari ini di Ambattur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Ambattur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ambattur.html",
+  "id": "/ms/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

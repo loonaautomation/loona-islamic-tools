@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sivas",
   "short_name": "Gebedstijden in Sivas",
   "description": "De gebedstijden van vandaag in Sivas, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sivas.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sivas.html",
+  "id": "/nl/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

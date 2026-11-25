@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Niamey",
   "short_name": "Ώρες Προσευχής στο Niamey",
   "description": "Οι σημερινές ώρες προσευχής στο Niamey, Νίγηρας: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Niamey.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-niamey.html",
+  "id": "/el/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

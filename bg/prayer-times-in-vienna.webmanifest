@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Vienna",
   "short_name": "Часове за намаз в Vienna",
   "description": "Днешните часове за намаз в Vienna, Австрия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Vienna.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-vienna.html",
+  "id": "/bg/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

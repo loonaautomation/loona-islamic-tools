@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Guntur",
   "short_name": "Prayer Times in Guntur",
   "description": "Today's prayer times in Guntur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Guntur.",
-  "id": "/loona-islamic-tools/prayer-times-in-guntur.html",
+  "id": "/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

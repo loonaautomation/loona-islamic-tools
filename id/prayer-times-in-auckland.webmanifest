@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Auckland",
   "short_name": "Waktu Salat di Auckland",
   "description": "Waktu salat hari ini di Auckland, Selandia Baru: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Auckland.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-auckland.html",
+  "id": "/id/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

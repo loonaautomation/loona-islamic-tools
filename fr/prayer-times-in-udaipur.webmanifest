@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Udaipur",
   "short_name": "Heures de prière à Udaipur",
   "description": "Les heures de prière d’aujourd’hui à Udaipur, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Udaipur.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-udaipur.html",
+  "id": "/fr/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

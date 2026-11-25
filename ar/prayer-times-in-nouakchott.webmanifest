@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nouakchott",
   "short_name": "مواقيت الصلاة في Nouakchott",
   "description": "مواقيت الصلاة اليوم في Nouakchott، موريتانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNouakchott.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nouakchott.html",
+  "id": "/ar/prayer-times-in-nouakchott.html",
   "start_url": "./prayer-times-in-nouakchott.html",
   "scope": "./prayer-times-in-nouakchott.html",
   "display": "standalone",

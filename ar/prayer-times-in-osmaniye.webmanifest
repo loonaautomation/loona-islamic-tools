@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Osmaniye",
   "short_name": "مواقيت الصلاة في Osmaniye",
   "description": "مواقيت الصلاة اليوم في Osmaniye، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOsmaniye.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-osmaniye.html",
+  "id": "/ar/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

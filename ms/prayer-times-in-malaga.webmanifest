@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Málaga",
   "short_name": "Waktu Solat di Málaga",
   "description": "Waktu solat hari ini di Málaga, Sepanyol: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Málaga.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-malaga.html",
+  "id": "/ms/prayer-times-in-malaga.html",
   "start_url": "./prayer-times-in-malaga.html",
   "scope": "./prayer-times-in-malaga.html",
   "display": "standalone",

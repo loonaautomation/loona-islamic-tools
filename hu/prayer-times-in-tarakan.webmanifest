@@ -2,7 +2,7 @@
   "name": "Loona Tarakan imaidői",
   "short_name": "Tarakan imaidői",
   "description": "A mai imaidők: Tarakan, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tarakan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tarakan.html",
+  "id": "/hu/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

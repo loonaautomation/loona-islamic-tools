@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Antalya",
   "short_name": "Waktu Solat di Antalya",
   "description": "Waktu solat hari ini di Antalya, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Antalya.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-antalya.html",
+  "id": "/ms/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

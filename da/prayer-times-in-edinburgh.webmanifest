@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Edinburgh",
   "short_name": "Bønnetider i Edinburgh",
   "description": "Dagens bønnetider i Edinburgh, Storbritannien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Edinburgh.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-edinburgh.html",
+  "id": "/da/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

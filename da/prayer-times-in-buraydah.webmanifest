@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Buraydah",
   "short_name": "Bønnetider i Buraydah",
   "description": "Dagens bønnetider i Buraydah, Saudi-Arabien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet live på din enhed for Buraydah.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-buraydah.html",
+  "id": "/da/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

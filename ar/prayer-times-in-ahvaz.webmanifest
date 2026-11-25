@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ahvaz",
   "short_name": "مواقيت الصلاة في Ahvaz",
   "description": "مواقيت الصلاة اليوم في Ahvaz، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAhvaz.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ahvaz.html",
+  "id": "/ar/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

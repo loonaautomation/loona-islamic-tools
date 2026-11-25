@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Arāk",
   "short_name": "مواقيت الصلاة في Arāk",
   "description": "مواقيت الصلاة اليوم في Arāk، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـArāk.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-arak.html",
+  "id": "/ar/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Biskra",
   "short_name": "Waktu Salat di Biskra",
   "description": "Waktu salat hari ini di Biskra, Aljazair: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Biskra.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-biskra.html",
+  "id": "/id/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

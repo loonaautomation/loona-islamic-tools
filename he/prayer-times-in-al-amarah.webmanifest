@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al ‘Amārah",
   "short_name": "זמני תפילה בעיר Al ‘Amārah",
   "description": "זמני התפילה של היום בעיר Al ‘Amārah, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Al ‘Amārah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-amarah.html",
+  "id": "/he/prayer-times-in-al-amarah.html",
   "start_url": "./prayer-times-in-al-amarah.html",
   "scope": "./prayer-times-in-al-amarah.html",
   "display": "standalone",

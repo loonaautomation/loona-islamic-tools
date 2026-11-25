@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Aswān",
   "short_name": "Heures de prière à Aswān",
   "description": "Les heures de prière d’aujourd’hui à Aswān, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Aswān.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-aswan.html",
+  "id": "/fr/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

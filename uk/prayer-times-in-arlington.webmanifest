@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Arlington",
   "short_name": "Час намазу в Arlington",
   "description": "Сьогоднішній час намазу в Arlington, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Arlington.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-arlington.html",
+  "id": "/uk/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

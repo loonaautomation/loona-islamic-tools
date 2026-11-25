@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Minya",
   "short_name": "זמני תפילה בעיר Minya",
   "description": "זמני התפילה של היום בעיר Minya, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Minya.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-minya.html",
+  "id": "/he/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Murcia",
   "short_name": "Czasy modlitw w miejscowości Murcia",
   "description": "Dzisiejsze czasy modlitw w miejscowości Murcia, kraj Hiszpania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Murcia.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-murcia.html",
+  "id": "/pl/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

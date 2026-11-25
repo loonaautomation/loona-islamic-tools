@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ajmer",
   "short_name": "Bønnetider i Ajmer",
   "description": "Dagens bønnetider i Ajmer, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Ajmer.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ajmer.html",
+  "id": "/nb/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

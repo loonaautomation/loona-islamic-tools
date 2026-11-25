@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gaziantep",
   "short_name": "זמני תפילה בעיר Gaziantep",
   "description": "זמני התפילה של היום בעיר Gaziantep, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Gaziantep.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gaziantep.html",
+  "id": "/he/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

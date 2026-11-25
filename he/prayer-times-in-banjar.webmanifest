@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Banjar",
   "short_name": "זמני תפילה בעיר Banjar",
   "description": "זמני התפילה של היום בעיר Banjar, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Banjar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-banjar.html",
+  "id": "/he/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

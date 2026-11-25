@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Newcastle (Austrálie)",
   "short_name": "Časy modliteb v Newcastle (Austrálie)",
   "description": "Dnešní časy modliteb v Newcastle, Austrálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Newcastle.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-newcastle.html",
+  "id": "/cs/prayer-times-in-newcastle.html",
   "start_url": "./prayer-times-in-newcastle.html",
   "scope": "./prayer-times-in-newcastle.html",
   "display": "standalone",

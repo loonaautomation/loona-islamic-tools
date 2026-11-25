@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kermanshah",
   "short_name": "مواقيت الصلاة في Kermanshah",
   "description": "مواقيت الصلاة اليوم في Kermanshah، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKermanshah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kermanshah.html",
+  "id": "/ar/prayer-times-in-kermanshah.html",
   "start_url": "./prayer-times-in-kermanshah.html",
   "scope": "./prayer-times-in-kermanshah.html",
   "display": "standalone",

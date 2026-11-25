@@ -2,7 +2,7 @@
   "name": "Loona 礼拜时间计算方法详解：Karachi、ISNA、MWL、Hanafi与Shafi",
   "short_name": "礼拜时间计算方法详解：Karachi、ISNA、MWL、Hanafi与Shafi",
   "description": "一份通俗易懂的礼拜时间计算指南：Fajr和Isha的晨昏蒙影角度、五大计算方法、Hanafi与Shafi的Asr之别，以及高纬度规则。",
-  "id": "/loona-islamic-tools/zh/prayer-time-settings-guide/",
+  "id": "/zh/prayer-time-settings-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

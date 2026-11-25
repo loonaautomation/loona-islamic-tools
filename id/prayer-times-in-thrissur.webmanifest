@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Thrissur",
   "short_name": "Waktu Salat di Thrissur",
   "description": "Waktu salat hari ini di Thrissur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Thrissur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-thrissur.html",
+  "id": "/id/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

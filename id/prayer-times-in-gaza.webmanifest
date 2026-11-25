@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Gaza",
   "short_name": "Waktu Salat di Gaza",
   "description": "Waktu salat hari ini di Gaza, Palestina: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Gaza.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-gaza.html",
+  "id": "/id/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

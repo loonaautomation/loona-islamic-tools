@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dhanbad",
   "short_name": "Rukousajat: Dhanbad",
   "description": "Tämän päivän rukousajat paikassa Dhanbad, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Dhanbad.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dhanbad.html",
+  "id": "/fi/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

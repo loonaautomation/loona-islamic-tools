@@ -2,7 +2,7 @@
   "name": "Loona Stuttgart imaidői",
   "short_name": "Stuttgart imaidői",
   "description": "A mai imaidők: Stuttgart, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Stuttgart számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-stuttgart.html",
+  "id": "/hu/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

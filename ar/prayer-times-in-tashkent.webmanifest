@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tashkent",
   "short_name": "مواقيت الصلاة في Tashkent",
   "description": "مواقيت الصلاة اليوم في Tashkent، أوزبكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTashkent.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tashkent.html",
+  "id": "/ar/prayer-times-in-tashkent.html",
   "start_url": "./prayer-times-in-tashkent.html",
   "scope": "./prayer-times-in-tashkent.html",
   "display": "standalone",

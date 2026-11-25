@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tabuk",
   "short_name": "Ώρες Προσευχής στο Tabuk",
   "description": "Οι σημερινές ώρες προσευχής στο Tabuk, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Tabuk.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tabuk.html",
+  "id": "/el/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

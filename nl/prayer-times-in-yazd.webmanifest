@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Yazd",
   "short_name": "Gebedstijden in Yazd",
   "description": "De gebedstijden van vandaag in Yazd, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Yazd.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-yazd.html",
+  "id": "/nl/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

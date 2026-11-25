@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Borama",
   "short_name": "Ore de rugăciune în Borama",
   "description": "Orele de rugăciune de azi în Borama, Somalia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Borama.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-borama.html",
+  "id": "/ro/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

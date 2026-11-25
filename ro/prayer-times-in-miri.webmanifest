@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Miri",
   "short_name": "Ore de rugăciune în Miri",
   "description": "Orele de rugăciune de azi în Miri, Malaezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Miri.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-miri.html",
+  "id": "/ro/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

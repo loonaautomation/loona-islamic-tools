@@ -2,7 +2,7 @@
   "name": "Loona Qom Namaz Vakitleri",
   "short_name": "Qom Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qom, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Qom için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qom.html",
+  "id": "/tr/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Valladolid",
   "short_name": "Gebedstijden in Valladolid",
   "description": "De gebedstijden van vandaag in Valladolid, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Valladolid.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-valladolid.html",
+  "id": "/nl/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

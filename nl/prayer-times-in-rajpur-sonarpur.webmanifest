@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Rajpur Sonarpur",
   "short_name": "Gebedstijden in Rajpur Sonarpur",
   "description": "De gebedstijden van vandaag in Rajpur Sonarpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Rajpur Sonarpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-rajpur-sonarpur.html",
+  "id": "/nl/prayer-times-in-rajpur-sonarpur.html",
   "start_url": "./prayer-times-in-rajpur-sonarpur.html",
   "scope": "./prayer-times-in-rajpur-sonarpur.html",
   "display": "standalone",

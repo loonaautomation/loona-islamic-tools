@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Denver",
   "short_name": "Bönetider i Denver",
   "description": "Dagens bönetider i Denver, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Denver.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-denver.html",
+  "id": "/sv/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

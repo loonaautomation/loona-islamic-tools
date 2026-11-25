@@ -2,7 +2,7 @@
   "name": "Loona Chilanzar的禮拜時間",
   "short_name": "Chilanzar的禮拜時間",
   "description": "Chilanzar（烏茲別克）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Chilanzar實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-chilanzar.html",
+  "id": "/zh-hant/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

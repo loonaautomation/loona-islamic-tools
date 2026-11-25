@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in London (Canada) Today",
   "short_name": "Prayer Times in London (Canada) Today",
   "description": "Today's prayer times in London, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for London.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-london-canada.html",
+  "id": "/en-us/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

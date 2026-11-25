@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Vereeniging Today",
   "short_name": "Prayer Times in Vereeniging Today",
   "description": "Today's prayer times in Vereeniging, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Vereeniging.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-vereeniging.html",
+  "id": "/en-us/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

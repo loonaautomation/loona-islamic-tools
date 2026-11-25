@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Padangsidempuan",
   "short_name": "Gebetszeiten in Padangsidempuan",
   "description": "Die heutigen Gebetszeiten in Padangsidempuan, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Padangsidempuan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-padangsidempuan.html",
+  "id": "/de/prayer-times-in-padangsidempuan.html",
   "start_url": "./prayer-times-in-padangsidempuan.html",
   "scope": "./prayer-times-in-padangsidempuan.html",
   "display": "standalone",

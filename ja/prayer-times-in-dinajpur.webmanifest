@@ -2,7 +2,7 @@
   "name": "Loona Dinajpur の礼拝時刻",
   "short_name": "Dinajpur の礼拝時刻",
   "description": "Dinajpur（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Dinajpur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dinajpur.html",
+  "id": "/ja/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

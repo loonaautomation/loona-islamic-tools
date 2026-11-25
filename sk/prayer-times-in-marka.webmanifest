@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Marka",
   "short_name": "Časy modlitieb v Marka",
   "description": "Dnešné časy modlitieb v Marka, Somálsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Marka.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-marka.html",
+  "id": "/sk/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

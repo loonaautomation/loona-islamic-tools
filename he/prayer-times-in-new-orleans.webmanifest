@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר New Orleans",
   "short_name": "זמני תפילה בעיר New Orleans",
   "description": "זמני התפילה של היום בעיר New Orleans, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור New Orleans.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-new-orleans.html",
+  "id": "/he/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

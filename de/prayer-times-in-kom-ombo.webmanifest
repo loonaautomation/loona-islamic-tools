@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kom Ombo",
   "short_name": "Gebetszeiten in Kom Ombo",
   "description": "Die heutigen Gebetszeiten in Kom Ombo, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Kom Ombo.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kom-ombo.html",
+  "id": "/de/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

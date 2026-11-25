@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Marrakesh",
   "short_name": "Časy modlitieb v Marrakesh",
   "description": "Dnešné časy modlitieb v Marrakesh, Maroko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Marrakesh.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-marrakesh.html",
+  "id": "/sk/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

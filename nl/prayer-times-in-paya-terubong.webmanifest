@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Paya Terubong",
   "short_name": "Gebedstijden in Paya Terubong",
   "description": "De gebedstijden van vandaag in Paya Terubong, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Paya Terubong.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-paya-terubong.html",
+  "id": "/nl/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

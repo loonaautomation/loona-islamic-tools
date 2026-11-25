@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bochum",
   "short_name": "Časy modliteb v Bochum",
   "description": "Dnešní časy modliteb v Bochum, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bochum.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bochum.html",
+  "id": "/cs/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona キブラの方向",
   "short_name": "キブラの方向",
   "description": "どの都市やあなたの正確な位置からでも、キブラの方向を度数で調べましょう。ライブコンパスの文字盤と、マッカまでの距離も表示します。無料で、正確で、プライベートです。",
-  "id": "/loona-islamic-tools/ja/qibla-direction/",
+  "id": "/ja/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jeddah",
   "short_name": "Horarios de oración en Jeddah",
   "description": "Horarios de oración de hoy en Jeddah, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Jeddah.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jeddah.html",
+  "id": "/es/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

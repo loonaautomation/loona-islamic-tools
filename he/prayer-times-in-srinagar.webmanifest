@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Srinagar",
   "short_name": "זמני תפילה בעיר Srinagar",
   "description": "זמני התפילה של היום בעיר Srinagar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Srinagar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-srinagar.html",
+  "id": "/he/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

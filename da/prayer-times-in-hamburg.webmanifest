@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hamburg",
   "short_name": "Bønnetider i Hamburg",
   "description": "Dagens bønnetider i Hamburg, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Hamburg.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-hamburg.html",
+  "id": "/da/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

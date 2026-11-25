@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ahmedabad",
   "short_name": "Časy modliteb v Ahmedabad",
   "description": "Dnešní časy modliteb v Ahmedabad, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Ahmedabad.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ahmedabad.html",
+  "id": "/cs/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

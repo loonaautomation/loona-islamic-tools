@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Visakhapatnam",
   "short_name": "Gebetszeiten in Visakhapatnam",
   "description": "Die heutigen Gebetszeiten in Visakhapatnam, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Visakhapatnam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-visakhapatnam.html",
+  "id": "/de/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mymensingh",
   "short_name": "Bønnetider i Mymensingh",
   "description": "Dagens bønnetider i Mymensingh, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Mymensingh.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mymensingh.html",
+  "id": "/nb/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

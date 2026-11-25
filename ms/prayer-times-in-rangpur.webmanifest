@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Rangpur",
   "short_name": "Waktu Solat di Rangpur",
   "description": "Waktu solat hari ini di Rangpur, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Rangpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-rangpur.html",
+  "id": "/ms/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nukus",
   "short_name": "Prayer Times in Nukus",
   "description": "Today's prayer times in Nukus, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nukus.",
-  "id": "/loona-islamic-tools/prayer-times-in-nukus.html",
+  "id": "/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

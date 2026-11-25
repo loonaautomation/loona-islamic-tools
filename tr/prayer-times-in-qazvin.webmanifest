@@ -2,7 +2,7 @@
   "name": "Loona Qazvin Namaz Vakitleri",
   "short_name": "Qazvin Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qazvin, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Qazvin için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qazvin.html",
+  "id": "/tr/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

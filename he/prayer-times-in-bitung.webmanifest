@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bitung",
   "short_name": "זמני תפילה בעיר Bitung",
   "description": "זמני התפילה של היום בעיר Bitung, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bitung.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bitung.html",
+  "id": "/he/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

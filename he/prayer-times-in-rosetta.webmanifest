@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rosetta",
   "short_name": "זמני תפילה בעיר Rosetta",
   "description": "זמני התפילה של היום בעיר Rosetta, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Rosetta.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rosetta.html",
+  "id": "/he/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

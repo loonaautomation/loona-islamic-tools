@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Karnāl",
   "short_name": "Время намаза в городе Karnāl",
   "description": "Время намаза на сегодня: Karnāl, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Karnāl.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-karnal.html",
+  "id": "/ru/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

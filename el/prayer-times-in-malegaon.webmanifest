@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Malegaon",
   "short_name": "Ώρες Προσευχής στο Malegaon",
   "description": "Οι σημερινές ώρες προσευχής στο Malegaon, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Malegaon.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-malegaon.html",
+  "id": "/el/prayer-times-in-malegaon.html",
   "start_url": "./prayer-times-in-malegaon.html",
   "scope": "./prayer-times-in-malegaon.html",
   "display": "standalone",

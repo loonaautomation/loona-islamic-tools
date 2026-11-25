@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Cox’s Bāzār",
   "short_name": "Час намазу в Cox’s Bāzār",
   "description": "Сьогоднішній час намазу в Cox’s Bāzār, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-cox-s-bazar.html",
+  "id": "/uk/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

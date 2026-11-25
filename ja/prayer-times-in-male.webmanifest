@@ -2,7 +2,7 @@
   "name": "Loona Male の礼拝時刻",
   "short_name": "Male の礼拝時刻",
   "description": "Male（モルディブ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Male についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-male.html",
+  "id": "/ja/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

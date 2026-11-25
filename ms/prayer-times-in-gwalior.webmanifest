@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Gwalior",
   "short_name": "Waktu Solat di Gwalior",
   "description": "Waktu solat hari ini di Gwalior, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Gwalior.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-gwalior.html",
+  "id": "/ms/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

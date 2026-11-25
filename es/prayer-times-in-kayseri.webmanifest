@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kayseri",
   "short_name": "Horarios de oración en Kayseri",
   "description": "Horarios de oración de hoy en Kayseri, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Kayseri.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kayseri.html",
+  "id": "/es/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

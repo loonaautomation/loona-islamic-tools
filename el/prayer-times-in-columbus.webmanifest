@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Columbus",
   "short_name": "Ώρες Προσευχής στο Columbus",
   "description": "Οι σημερινές ώρες προσευχής στο Columbus, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Columbus.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-columbus.html",
+  "id": "/el/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

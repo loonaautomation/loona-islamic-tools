@@ -2,7 +2,7 @@
   "name": "Loona 타스비 카운터",
   "short_name": "타스비 카운터",
   "description": "디지털 타스비 카운터: SubhanAllah, Alhamdulillah 등 프리셋, 33/99/100 목표, 라운드 추적, 진동, 기기에 저장되는 평생 누적이에요.",
-  "id": "/loona-islamic-tools/ko/tasbih-counter/",
+  "id": "/ko/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

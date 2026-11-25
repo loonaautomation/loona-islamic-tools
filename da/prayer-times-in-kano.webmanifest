@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kano",
   "short_name": "Bønnetider i Kano",
   "description": "Dagens bønnetider i Kano, Nigeria: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Kano.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kano.html",
+  "id": "/da/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Banja Luka",
   "short_name": "Время намаза в городе Banja Luka",
   "description": "Время намаза на сегодня: Banja Luka, Босния и Герцеговина: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Banja Luka.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-banja-luka.html",
+  "id": "/ru/prayer-times-in-banja-luka.html",
   "start_url": "./prayer-times-in-banja-luka.html",
   "scope": "./prayer-times-in-banja-luka.html",
   "display": "standalone",

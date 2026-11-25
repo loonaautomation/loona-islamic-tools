@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nairobi",
   "short_name": "Waktu Solat di Nairobi",
   "description": "Waktu solat hari ini di Nairobi, Kenya: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Nairobi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nairobi.html",
+  "id": "/ms/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

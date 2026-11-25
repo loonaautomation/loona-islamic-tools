@@ -2,7 +2,7 @@
   "name": "Loona Kalendár hidžry",
   "short_name": "Kalendár hidžry",
   "description": "Prechádzajte ktorýkoľvek mesiac a rok hidžry v prehľadnom islamskom kalendári, kde každý deň ukazuje aj svoj gregoriánsky dátum. Kalendár Umm al-Qura, zadarmo a vždy aktuálny.",
-  "id": "/loona-islamic-tools/sk/hijri-calendar/",
+  "id": "/sk/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

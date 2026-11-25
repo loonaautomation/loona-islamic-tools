@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Marrakesh",
   "short_name": "Часове за намаз в Marrakesh",
   "description": "Днешните часове за намаз в Marrakesh, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Marrakesh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-marrakesh.html",
+  "id": "/bg/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

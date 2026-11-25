@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Yazd",
   "short_name": "Czasy modlitw w miejscowości Yazd",
   "description": "Dzisiejsze czasy modlitw w miejscowości Yazd, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Yazd.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-yazd.html",
+  "id": "/pl/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

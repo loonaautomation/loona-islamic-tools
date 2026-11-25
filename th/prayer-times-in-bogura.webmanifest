@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bogura",
   "short_name": "เวลาละหมาดใน Bogura",
   "description": "เวลาละหมาดวันนี้ใน Bogura, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bogura",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bogura.html",
+  "id": "/th/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

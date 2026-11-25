@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bhāgalpur",
   "short_name": "Час намазу в Bhāgalpur",
   "description": "Сьогоднішній час намазу в Bhāgalpur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Bhāgalpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bhagalpur.html",
+  "id": "/uk/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

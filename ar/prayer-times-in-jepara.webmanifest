@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jepara",
   "short_name": "مواقيت الصلاة في Jepara",
   "description": "مواقيت الصلاة اليوم في Jepara، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـJepara.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jepara.html",
+  "id": "/ar/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

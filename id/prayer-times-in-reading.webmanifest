@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Reading",
   "short_name": "Waktu Salat di Reading",
   "description": "Waktu salat hari ini di Reading, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Reading.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-reading.html",
+  "id": "/id/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

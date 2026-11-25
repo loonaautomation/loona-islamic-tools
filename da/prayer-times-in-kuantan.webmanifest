@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kuantan",
   "short_name": "Bønnetider i Kuantan",
   "description": "Dagens bønnetider i Kuantan, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kuantan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kuantan.html",
+  "id": "/da/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

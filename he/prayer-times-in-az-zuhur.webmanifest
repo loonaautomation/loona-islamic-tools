@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Az-Zuhūr",
   "short_name": "זמני תפילה בעיר Az-Zuhūr",
   "description": "זמני התפילה של היום בעיר Az-Zuhūr, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Az-Zuhūr.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-az-zuhur.html",
+  "id": "/he/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

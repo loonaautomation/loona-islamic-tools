@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Aktobe",
   "short_name": "זמני תפילה בעיר Aktobe",
   "description": "זמני התפילה של היום בעיר Aktobe, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Aktobe.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-aktobe.html",
+  "id": "/he/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

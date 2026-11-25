@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qarshi",
   "short_name": "Час намазу в Qarshi",
   "description": "Сьогоднішній час намазу в Qarshi, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Qarshi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qarshi.html",
+  "id": "/uk/prayer-times-in-qarshi.html",
   "start_url": "./prayer-times-in-qarshi.html",
   "scope": "./prayer-times-in-qarshi.html",
   "display": "standalone",

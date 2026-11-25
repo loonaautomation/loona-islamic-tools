@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Barddhamān",
   "short_name": "Gebedstijden in Barddhamān",
   "description": "De gebedstijden van vandaag in Barddhamān, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Barddhamān.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-barddhaman.html",
+  "id": "/nl/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

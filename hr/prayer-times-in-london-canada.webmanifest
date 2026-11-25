@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu London (Kanada)",
   "short_name": "Vremena namaza u gradu London (Kanada)",
   "description": "Današnja vremena namaza u gradu London, Kanada: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad London.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-london-canada.html",
+  "id": "/hr/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

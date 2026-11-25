@@ -2,7 +2,7 @@
   "name": "Loona Phoenix Namaz Vakitleri",
   "short_name": "Phoenix Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Phoenix, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Phoenix için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-phoenix.html",
+  "id": "/tr/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

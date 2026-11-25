@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rabat",
   "short_name": "Bönetider i Rabat",
   "description": "Dagens bönetider i Rabat, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Rabat.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rabat.html",
+  "id": "/sv/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

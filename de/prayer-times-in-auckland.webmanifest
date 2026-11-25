@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Auckland",
   "short_name": "Gebetszeiten in Auckland",
   "description": "Die heutigen Gebetszeiten in Auckland, Neuseeland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Auckland.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-auckland.html",
+  "id": "/de/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

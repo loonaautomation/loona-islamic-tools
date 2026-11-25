@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в South Boston",
   "short_name": "Час намазу в South Boston",
   "description": "Сьогоднішній час намазу в South Boston, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для South Boston.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-south-boston.html",
+  "id": "/uk/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

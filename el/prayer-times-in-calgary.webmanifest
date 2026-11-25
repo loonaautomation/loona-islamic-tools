@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Calgary",
   "short_name": "Ώρες Προσευχής στο Calgary",
   "description": "Οι σημερινές ώρες προσευχής στο Calgary, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Calgary.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-calgary.html",
+  "id": "/el/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

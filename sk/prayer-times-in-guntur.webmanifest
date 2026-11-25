@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Guntur",
   "short_name": "Časy modlitieb v Guntur",
   "description": "Dnešné časy modlitieb v Guntur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Guntur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-guntur.html",
+  "id": "/sk/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Arah Kiblat",
   "short_name": "Arah Kiblat",
   "description": "Temukan arah kiblat dalam derajat dari kota mana pun atau lokasi tepat Anda, dengan dial kompas langsung dan jarak ke Makkah. Gratis, akurat dan privat.",
-  "id": "/loona-islamic-tools/id/qibla-direction/",
+  "id": "/id/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

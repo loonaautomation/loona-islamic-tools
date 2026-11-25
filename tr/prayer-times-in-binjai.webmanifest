@@ -2,7 +2,7 @@
   "name": "Loona Binjai Namaz Vakitleri",
   "short_name": "Binjai Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Binjai, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Binjai için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-binjai.html",
+  "id": "/tr/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

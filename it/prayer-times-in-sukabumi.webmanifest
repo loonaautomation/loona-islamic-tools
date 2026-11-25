@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sukabumi",
   "short_name": "Orari di preghiera a Sukabumi",
   "description": "Orari di preghiera di oggi a Sukabumi, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sukabumi.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sukabumi.html",
+  "id": "/it/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Marāgheh",
   "short_name": "Gebedstijden in Marāgheh",
   "description": "De gebedstijden van vandaag in Marāgheh, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Marāgheh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-maragheh.html",
+  "id": "/nl/prayer-times-in-maragheh.html",
   "start_url": "./prayer-times-in-maragheh.html",
   "scope": "./prayer-times-in-maragheh.html",
   "display": "standalone",

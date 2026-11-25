@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ambon",
   "short_name": "Bönetider i Ambon",
   "description": "Dagens bönetider i Ambon, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ambon.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ambon.html",
+  "id": "/sv/prayer-times-in-ambon.html",
   "start_url": "./prayer-times-in-ambon.html",
   "scope": "./prayer-times-in-ambon.html",
   "display": "standalone",

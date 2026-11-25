@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Alicante",
   "short_name": "Časy modliteb v Alicante",
   "description": "Dnešní časy modliteb v Alicante, Španělsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Alicante.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-alicante.html",
+  "id": "/cs/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

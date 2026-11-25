@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Honolulu",
   "short_name": "เวลาละหมาดใน Honolulu",
   "description": "เวลาละหมาดวันนี้ใน Honolulu, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Honolulu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-honolulu.html",
+  "id": "/th/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

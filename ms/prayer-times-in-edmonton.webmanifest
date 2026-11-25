@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Edmonton",
   "short_name": "Waktu Solat di Edmonton",
   "description": "Waktu solat hari ini di Edmonton, Kanada: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Edmonton.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-edmonton.html",
+  "id": "/ms/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

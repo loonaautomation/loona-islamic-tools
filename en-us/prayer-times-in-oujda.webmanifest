@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Oujda Today",
   "short_name": "Prayer Times in Oujda Today",
   "description": "Today's prayer times in Oujda, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Oujda.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-oujda.html",
+  "id": "/en-us/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

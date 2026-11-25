@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bilimora",
   "short_name": "Часове за намаз в Bilimora",
   "description": "Днешните часове за намаз в Bilimora, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Bilimora.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bilimora.html",
+  "id": "/bg/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

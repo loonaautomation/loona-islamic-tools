@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Virginia Beach",
   "short_name": "Ώρες Προσευχής στο Virginia Beach",
   "description": "Οι σημερινές ώρες προσευχής στο Virginia Beach, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Virginia Beach.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-virginia-beach.html",
+  "id": "/el/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

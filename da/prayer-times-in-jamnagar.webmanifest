@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jamnagar",
   "short_name": "Bønnetider i Jamnagar",
   "description": "Dagens bønnetider i Jamnagar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jamnagar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jamnagar.html",
+  "id": "/da/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

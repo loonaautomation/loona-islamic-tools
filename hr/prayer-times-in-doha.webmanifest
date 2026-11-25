@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Doha",
   "short_name": "Vremena namaza u gradu Doha",
   "description": "Današnja vremena namaza u gradu Doha, Katar: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Doha.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-doha.html",
+  "id": "/hr/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

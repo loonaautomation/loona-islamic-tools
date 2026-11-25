@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rosetta",
   "short_name": "Bönetider i Rosetta",
   "description": "Dagens bönetider i Rosetta, Egypten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Egyptian General Authority-metoden, beräknad live på din enhet för Rosetta.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rosetta.html",
+  "id": "/sv/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

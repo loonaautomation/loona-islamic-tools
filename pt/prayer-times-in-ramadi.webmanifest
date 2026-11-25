@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Ramadi",
   "short_name": "Horários de Oração em Ramadi",
   "description": "Horários de oração de hoje em Ramadi, Iraque: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Ramadi.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-ramadi.html",
+  "id": "/pt/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

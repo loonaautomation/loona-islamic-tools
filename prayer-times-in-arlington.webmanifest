@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Arlington",
   "short_name": "Prayer Times in Arlington",
   "description": "Today's prayer times in Arlington, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Arlington.",
-  "id": "/loona-islamic-tools/prayer-times-in-arlington.html",
+  "id": "/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kupang",
   "short_name": "Gebedstijden in Kupang",
   "description": "De gebedstijden van vandaag in Kupang, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Kupang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kupang.html",
+  "id": "/nl/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

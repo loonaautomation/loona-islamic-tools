@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Berlin",
   "short_name": "Gebetszeiten in Berlin",
   "description": "Die heutigen Gebetszeiten in Berlin, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Berlin.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-berlin.html",
+  "id": "/de/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kluang",
   "short_name": "Waktu Salat di Kluang",
   "description": "Waktu salat hari ini di Kluang, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kluang.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kluang.html",
+  "id": "/id/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

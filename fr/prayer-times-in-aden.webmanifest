@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Aden",
   "short_name": "Heures de prière à Aden",
   "description": "Les heures de prière d’aujourd’hui à Aden, Yémen : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Aden.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-aden.html",
+  "id": "/fr/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

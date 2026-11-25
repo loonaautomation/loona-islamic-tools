@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mallawī",
   "short_name": "Gebetszeiten in Mallawī",
   "description": "Die heutigen Gebetszeiten in Mallawī, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Mallawī.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mallawi.html",
+  "id": "/de/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

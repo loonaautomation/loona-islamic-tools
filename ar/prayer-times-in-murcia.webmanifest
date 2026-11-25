@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Murcia",
   "short_name": "مواقيت الصلاة في Murcia",
   "description": "مواقيت الصلاة اليوم في Murcia، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMurcia.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-murcia.html",
+  "id": "/ar/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

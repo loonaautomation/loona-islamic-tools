@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Akola",
   "short_name": "Časy modliteb v Akola",
   "description": "Dnešní časy modliteb v Akola, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Akola.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-akola.html",
+  "id": "/cs/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

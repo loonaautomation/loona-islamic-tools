@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Hamburg-Mitte",
   "short_name": "مواقيت الصلاة في Hamburg-Mitte",
   "description": "مواقيت الصلاة اليوم في Hamburg-Mitte، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـHamburg-Mitte.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hamburg-mitte.html",
+  "id": "/ar/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

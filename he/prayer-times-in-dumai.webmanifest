@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dumai",
   "short_name": "זמני תפילה בעיר Dumai",
   "description": "זמני התפילה של היום בעיר Dumai, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Dumai.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dumai.html",
+  "id": "/he/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

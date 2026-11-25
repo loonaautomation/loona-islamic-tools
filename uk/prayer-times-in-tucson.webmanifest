@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tucson",
   "short_name": "Час намазу в Tucson",
   "description": "Сьогоднішній час намазу в Tucson, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Tucson.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tucson.html",
+  "id": "/uk/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

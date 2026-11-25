@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sohag",
   "short_name": "Rukousajat: Sohag",
   "description": "Tämän päivän rukousajat paikassa Sohag, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sohag.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sohag.html",
+  "id": "/fi/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

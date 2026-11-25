@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Frankfurt am Main",
   "short_name": "Časy modlitieb v Frankfurt am Main",
   "description": "Dnešné časy modlitieb v Frankfurt am Main, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Frankfurt am Main.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-frankfurt-am-main.html",
+  "id": "/sk/prayer-times-in-frankfurt-am-main.html",
   "start_url": "./prayer-times-in-frankfurt-am-main.html",
   "scope": "./prayer-times-in-frankfurt-am-main.html",
   "display": "standalone",

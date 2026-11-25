@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bhātpāra",
   "short_name": "เวลาละหมาดใน Bhātpāra",
   "description": "เวลาละหมาดวันนี้ใน Bhātpāra, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bhātpāra",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bhatpara.html",
+  "id": "/th/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Preston",
   "short_name": "مواقيت الصلاة في Preston",
   "description": "مواقيت الصلاة اليوم في Preston، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPreston.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-preston.html",
+  "id": "/ar/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

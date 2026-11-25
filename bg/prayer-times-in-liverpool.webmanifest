@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Liverpool",
   "short_name": "Часове за намаз в Liverpool",
   "description": "Днешните часове за намаз в Liverpool, Обединено кралство: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Liverpool.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-liverpool.html",
+  "id": "/bg/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

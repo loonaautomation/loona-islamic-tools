@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di San Antonio",
   "short_name": "Waktu Salat di San Antonio",
   "description": "Waktu salat hari ini di San Antonio, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk San Antonio.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-san-antonio.html",
+  "id": "/id/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

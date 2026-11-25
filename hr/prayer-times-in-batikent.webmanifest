@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Batikent",
   "short_name": "Vremena namaza u gradu Batikent",
   "description": "Današnja vremena namaza u gradu Batikent, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Batikent.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-batikent.html",
+  "id": "/hr/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

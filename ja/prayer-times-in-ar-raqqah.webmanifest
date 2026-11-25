@@ -2,7 +2,7 @@
   "name": "Loona Ar Raqqah の礼拝時刻",
   "short_name": "Ar Raqqah の礼拝時刻",
   "description": "Ar Raqqah（シリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Ar Raqqah についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ar-raqqah.html",
+  "id": "/ja/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

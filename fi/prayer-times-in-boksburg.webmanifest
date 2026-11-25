@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Boksburg",
   "short_name": "Rukousajat: Boksburg",
   "description": "Tämän päivän rukousajat paikassa Boksburg, Etelä-Afrikka: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Boksburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-boksburg.html",
+  "id": "/fi/prayer-times-in-boksburg.html",
   "start_url": "./prayer-times-in-boksburg.html",
   "scope": "./prayer-times-in-boksburg.html",
   "display": "standalone",

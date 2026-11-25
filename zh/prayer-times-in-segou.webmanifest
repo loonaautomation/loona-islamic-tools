@@ -2,7 +2,7 @@
   "name": "Loona Ségou的礼拜时间",
   "short_name": "Ségou的礼拜时间",
   "description": "Ségou（马里）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Ségou实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-segou.html",
+  "id": "/zh/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

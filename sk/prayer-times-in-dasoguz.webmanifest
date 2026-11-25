@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Daşoguz",
   "short_name": "Časy modlitieb v Daşoguz",
   "description": "Dnešné časy modlitieb v Daşoguz, Turkménsko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Daşoguz.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-dasoguz.html",
+  "id": "/sk/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

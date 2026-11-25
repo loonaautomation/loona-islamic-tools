@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Coventry",
   "short_name": "Ore de rugăciune în Coventry",
   "description": "Orele de rugăciune de azi în Coventry, Regatul Unit: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Coventry.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-coventry.html",
+  "id": "/ro/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

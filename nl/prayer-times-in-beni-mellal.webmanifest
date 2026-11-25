@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Beni Mellal",
   "short_name": "Gebedstijden in Beni Mellal",
   "description": "De gebedstijden van vandaag in Beni Mellal, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Beni Mellal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-beni-mellal.html",
+  "id": "/nl/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

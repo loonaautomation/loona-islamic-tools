@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Multan",
   "short_name": "Часове за намаз в Multan",
   "description": "Днешните часове за намаз в Multan, Пакистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Multan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-multan.html",
+  "id": "/bg/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

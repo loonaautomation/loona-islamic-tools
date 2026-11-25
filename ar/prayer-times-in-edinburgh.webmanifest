@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Edinburgh",
   "short_name": "مواقيت الصلاة في Edinburgh",
   "description": "مواقيت الصلاة اليوم في Edinburgh، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـEdinburgh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-edinburgh.html",
+  "id": "/ar/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน New Orleans",
   "short_name": "เวลาละหมาดใน New Orleans",
   "description": "เวลาละหมาดวันนี้ใน New Orleans, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ New Orleans",
-  "id": "/loona-islamic-tools/th/prayer-times-in-new-orleans.html",
+  "id": "/th/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

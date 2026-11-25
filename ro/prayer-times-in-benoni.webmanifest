@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Benoni",
   "short_name": "Ore de rugăciune în Benoni",
   "description": "Orele de rugăciune de azi în Benoni, Africa de Sud: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Benoni.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-benoni.html",
+  "id": "/ro/prayer-times-in-benoni.html",
   "start_url": "./prayer-times-in-benoni.html",
   "scope": "./prayer-times-in-benoni.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jember",
   "short_name": "Bönetider i Jember",
   "description": "Dagens bönetider i Jember, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Jember.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jember.html",
+  "id": "/sv/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

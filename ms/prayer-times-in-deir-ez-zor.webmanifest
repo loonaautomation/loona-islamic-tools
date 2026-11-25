@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Deir ez-Zor",
   "short_name": "Waktu Solat di Deir ez-Zor",
   "description": "Waktu solat hari ini di Deir ez-Zor, Syria: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Deir ez-Zor.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-deir-ez-zor.html",
+  "id": "/ms/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

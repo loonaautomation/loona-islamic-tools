@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Surrey",
   "short_name": "مواقيت الصلاة في Surrey",
   "description": "مواقيت الصلاة اليوم في Surrey، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـSurrey.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-surrey.html",
+  "id": "/ar/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kelar",
   "short_name": "Часове за намаз в Kelar",
   "description": "Днешните часове за намаз в Kelar, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kelar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kelar.html",
+  "id": "/bg/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

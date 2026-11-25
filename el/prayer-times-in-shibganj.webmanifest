@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Shibganj",
   "short_name": "Ώρες Προσευχής στο Shibganj",
   "description": "Οι σημερινές ώρες προσευχής στο Shibganj, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Shibganj.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-shibganj.html",
+  "id": "/el/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

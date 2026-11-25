@@ -2,7 +2,7 @@
   "name": "Loona El Dibir Namaz Vakitleri",
   "short_name": "El Dibir Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — El Dibir, Somali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, El Dibir için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-el-dibir.html",
+  "id": "/tr/prayer-times-in-el-dibir.html",
   "start_url": "./prayer-times-in-el-dibir.html",
   "scope": "./prayer-times-in-el-dibir.html",
   "display": "standalone",

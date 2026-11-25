@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Antwerp",
   "short_name": "Bönetider i Antwerp",
   "description": "Dagens bönetider i Antwerp, Belgien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Antwerp.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-antwerp.html",
+  "id": "/sv/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

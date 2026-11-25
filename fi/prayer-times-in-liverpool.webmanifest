@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Liverpool",
   "short_name": "Rukousajat: Liverpool",
   "description": "Tämän päivän rukousajat paikassa Liverpool, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Liverpool.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-liverpool.html",
+  "id": "/fi/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

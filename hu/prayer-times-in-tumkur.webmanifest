@@ -2,7 +2,7 @@
   "name": "Loona Tumkūr imaidői",
   "short_name": "Tumkūr imaidői",
   "description": "A mai imaidők: Tumkūr, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Tumkūr számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tumkur.html",
+  "id": "/hu/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

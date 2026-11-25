@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cimahi",
   "short_name": "Gebetszeiten in Cimahi",
   "description": "Die heutigen Gebetszeiten in Cimahi, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Cimahi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cimahi.html",
+  "id": "/de/prayer-times-in-cimahi.html",
   "start_url": "./prayer-times-in-cimahi.html",
   "scope": "./prayer-times-in-cimahi.html",
   "display": "standalone",

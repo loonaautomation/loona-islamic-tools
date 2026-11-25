@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה היום",
   "short_name": "זמני תפילה היום",
   "description": "קבל את זמני התפילה של היום — Fajr, Dhuhr, Asr, Maghrib ו-Isha — לכל עיר: Karachi, ISNA, MWL ושיטות נוספות, Asr לפי Hanafi או Shafi, קואורדינטות מדויקות נתמכות.",
-  "id": "/loona-islamic-tools/he/prayer-times/",
+  "id": "/he/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

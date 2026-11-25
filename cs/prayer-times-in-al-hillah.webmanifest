@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Al Hillah",
   "short_name": "Časy modliteb v Al Hillah",
   "description": "Dnešní časy modliteb v Al Hillah, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Al Hillah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-al-hillah.html",
+  "id": "/cs/prayer-times-in-al-hillah.html",
   "start_url": "./prayer-times-in-al-hillah.html",
   "scope": "./prayer-times-in-al-hillah.html",
   "display": "standalone",

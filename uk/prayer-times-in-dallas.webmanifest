@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Dallas",
   "short_name": "Час намазу в Dallas",
   "description": "Сьогоднішній час намазу в Dallas, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Dallas.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-dallas.html",
+  "id": "/uk/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

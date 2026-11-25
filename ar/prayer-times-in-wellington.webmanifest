@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Wellington",
   "short_name": "مواقيت الصلاة في Wellington",
   "description": "مواقيت الصلاة اليوم في Wellington، نيوزيلندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـWellington.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-wellington.html",
+  "id": "/ar/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

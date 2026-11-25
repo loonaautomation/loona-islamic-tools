@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Leeds",
   "short_name": "Время намаза в городе Leeds",
   "description": "Время намаза на сегодня: Leeds, Великобритания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Leeds.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-leeds.html",
+  "id": "/ru/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

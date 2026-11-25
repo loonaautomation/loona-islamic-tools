@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Banjul",
   "short_name": "Orari di preghiera a Banjul",
   "description": "Orari di preghiera di oggi a Banjul, Gambia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Banjul.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-banjul.html",
+  "id": "/it/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

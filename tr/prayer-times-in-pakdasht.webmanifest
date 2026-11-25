@@ -2,7 +2,7 @@
   "name": "Loona Pākdasht Namaz Vakitleri",
   "short_name": "Pākdasht Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pākdasht, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Pākdasht için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pakdasht.html",
+  "id": "/tr/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

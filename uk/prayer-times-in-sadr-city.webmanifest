@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sadr City",
   "short_name": "Час намазу в Sadr City",
   "description": "Сьогоднішній час намазу в Sadr City, Ірак: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Sadr City.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sadr-city.html",
+  "id": "/uk/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

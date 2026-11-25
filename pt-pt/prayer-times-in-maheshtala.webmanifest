@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Maheshtala",
   "short_name": "Horários de Oração em Maheshtala",
   "description": "Horários de oração de hoje em Maheshtala, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Maheshtala.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-maheshtala.html",
+  "id": "/pt-pt/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

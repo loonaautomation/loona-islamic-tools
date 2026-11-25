@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jhānsi",
   "short_name": "Horarios de oración en Jhānsi",
   "description": "Horarios de oración de hoy en Jhānsi, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Jhānsi.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jhansi.html",
+  "id": "/es/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

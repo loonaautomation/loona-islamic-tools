@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Antakya",
   "short_name": "مواقيت الصلاة في Antakya",
   "description": "مواقيت الصلاة اليوم في Antakya، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAntakya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-antakya.html",
+  "id": "/ar/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

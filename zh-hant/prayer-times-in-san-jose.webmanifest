@@ -2,7 +2,7 @@
   "name": "Loona San Jose的禮拜時間",
   "short_name": "San Jose的禮拜時間",
   "description": "San Jose（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為San Jose實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-san-jose.html",
+  "id": "/zh-hant/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

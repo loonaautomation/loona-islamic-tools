@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jember",
   "short_name": "זמני תפילה בעיר Jember",
   "description": "זמני התפילה של היום בעיר Jember, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Jember.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jember.html",
+  "id": "/he/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

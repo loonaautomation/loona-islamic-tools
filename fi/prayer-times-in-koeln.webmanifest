@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Köln",
   "short_name": "Rukousajat: Köln",
   "description": "Tämän päivän rukousajat paikassa Köln, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Köln.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-koeln.html",
+  "id": "/fi/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

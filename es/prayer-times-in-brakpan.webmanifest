@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Brakpan",
   "short_name": "Horarios de oración en Brakpan",
   "description": "Horarios de oración de hoy en Brakpan, Sudáfrica: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Brakpan.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-brakpan.html",
+  "id": "/es/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

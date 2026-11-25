@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Gilgit",
   "short_name": "Waktu Solat di Gilgit",
   "description": "Waktu solat hari ini di Gilgit, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Gilgit.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-gilgit.html",
+  "id": "/ms/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

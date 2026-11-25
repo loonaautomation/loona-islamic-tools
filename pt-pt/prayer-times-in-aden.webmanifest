@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Aden",
   "short_name": "Horários de Oração em Aden",
   "description": "Horários de oração de hoje em Aden, Iémen: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Aden.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-aden.html",
+  "id": "/pt-pt/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

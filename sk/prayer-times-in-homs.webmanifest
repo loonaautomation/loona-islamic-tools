@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Homs",
   "short_name": "Časy modlitieb v Homs",
   "description": "Dnešné časy modlitieb v Homs, Sýria: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Homs.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-homs.html",
+  "id": "/sk/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

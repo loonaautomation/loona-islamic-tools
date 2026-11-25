@@ -2,7 +2,7 @@
   "name": "Loona Pasuruan Namaz Vakitleri",
   "short_name": "Pasuruan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pasuruan, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Pasuruan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pasuruan.html",
+  "id": "/tr/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

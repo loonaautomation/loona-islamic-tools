@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Seattle",
   "short_name": "Waktu Solat di Seattle",
   "description": "Waktu solat hari ini di Seattle, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Seattle.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-seattle.html",
+  "id": "/ms/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Maheshtala",
   "short_name": "Bönetider i Maheshtala",
   "description": "Dagens bönetider i Maheshtala, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Maheshtala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-maheshtala.html",
+  "id": "/sv/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

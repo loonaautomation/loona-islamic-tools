@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Alanya",
   "short_name": "Час намазу в Alanya",
   "description": "Сьогоднішній час намазу в Alanya, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Alanya.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-alanya.html",
+  "id": "/uk/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

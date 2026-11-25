@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Oklahoma City",
   "short_name": "Gebedstijden in Oklahoma City",
   "description": "De gebedstijden van vandaag in Oklahoma City, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Oklahoma City.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-oklahoma-city.html",
+  "id": "/nl/prayer-times-in-oklahoma-city.html",
   "start_url": "./prayer-times-in-oklahoma-city.html",
   "scope": "./prayer-times-in-oklahoma-city.html",
   "display": "standalone",

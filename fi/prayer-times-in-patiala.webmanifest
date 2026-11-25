@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Patiāla",
   "short_name": "Rukousajat: Patiāla",
   "description": "Tämän päivän rukousajat paikassa Patiāla, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Patiāla.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-patiala.html",
+  "id": "/fi/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

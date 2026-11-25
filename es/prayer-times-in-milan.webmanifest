@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Milan",
   "short_name": "Horarios de oración en Milan",
   "description": "Horarios de oración de hoy en Milan, Italia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Milan.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-milan.html",
+  "id": "/es/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

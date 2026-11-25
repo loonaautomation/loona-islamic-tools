@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nilüfer",
   "short_name": "Waktu Solat di Nilüfer",
   "description": "Waktu solat hari ini di Nilüfer, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Nilüfer.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-niluefer.html",
+  "id": "/ms/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

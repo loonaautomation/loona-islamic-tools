@@ -2,7 +2,7 @@
   "name": "Loona Kontrolní seznam umry",
   "short_name": "Kontrolní seznam umry",
   "description": "Interaktivní kontrolní seznam umry: dokumenty, rezervace, balení, zdraví a příprava ibády, s ukazatelem pokroku, možností tisku a pokrokem uloženým ve vašem zařízení.",
-  "id": "/loona-islamic-tools/cs/umrah-checklist/",
+  "id": "/cs/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

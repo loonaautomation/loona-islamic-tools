@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Toulouse",
   "short_name": "Waktu Solat di Toulouse",
   "description": "Waktu solat hari ini di Toulouse, Perancis: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Toulouse.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-toulouse.html",
+  "id": "/ms/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

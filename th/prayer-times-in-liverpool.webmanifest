@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Liverpool",
   "short_name": "เวลาละหมาดใน Liverpool",
   "description": "เวลาละหมาดวันนี้ใน Liverpool, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Liverpool",
-  "id": "/loona-islamic-tools/th/prayer-times-in-liverpool.html",
+  "id": "/th/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Semarang",
   "short_name": "Часове за намаз в Semarang",
   "description": "Днешните часове за намаз в Semarang, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Semarang.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-semarang.html",
+  "id": "/bg/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

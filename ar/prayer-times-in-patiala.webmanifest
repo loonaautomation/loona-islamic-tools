@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Patiāla",
   "short_name": "مواقيت الصلاة في Patiāla",
   "description": "مواقيت الصلاة اليوم في Patiāla، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPatiāla.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-patiala.html",
+  "id": "/ar/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

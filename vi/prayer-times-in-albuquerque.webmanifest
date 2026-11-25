@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Albuquerque",
   "short_name": "Giờ cầu nguyện tại Albuquerque",
   "description": "Giờ cầu nguyện hôm nay tại Albuquerque, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Albuquerque.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-albuquerque.html",
+  "id": "/vi/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

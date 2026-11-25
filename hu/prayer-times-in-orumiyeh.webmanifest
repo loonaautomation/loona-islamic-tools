@@ -2,7 +2,7 @@
   "name": "Loona Orūmīyeh imaidői",
   "short_name": "Orūmīyeh imaidői",
   "description": "A mai imaidők: Orūmīyeh, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Orūmīyeh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-orumiyeh.html",
+  "id": "/hu/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

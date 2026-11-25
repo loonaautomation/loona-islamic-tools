@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Chattogram",
   "short_name": "Ώρες Προσευχής στο Chattogram",
   "description": "Οι σημερινές ώρες προσευχής στο Chattogram, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Chattogram.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-chattogram.html",
+  "id": "/el/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

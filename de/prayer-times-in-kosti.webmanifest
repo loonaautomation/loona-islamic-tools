@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kosti",
   "short_name": "Gebetszeiten in Kosti",
   "description": "Die heutigen Gebetszeiten in Kosti, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kosti.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kosti.html",
+  "id": "/de/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

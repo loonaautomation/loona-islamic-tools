@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Madurai",
   "short_name": "Horários de Oração em Madurai",
   "description": "Horários de oração de hoje em Madurai, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Madurai.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-madurai.html",
+  "id": "/pt/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dnešné časy modlitieb",
   "short_name": "Dnešné časy modlitieb",
   "description": "Získajte dnešné časy modlitieb Fadžr, Dhuhr, Asr, Magrib a Išá pre ktorékoľvek mesto: metódy Karáčí, ISNA, MWL a ďalšie, hanafijský alebo šáfiovský Asr, podpora presných súradníc.",
-  "id": "/loona-islamic-tools/sk/prayer-times/",
+  "id": "/sk/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

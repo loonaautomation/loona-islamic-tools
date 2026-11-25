@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nottingham",
   "short_name": "Gebedstijden in Nottingham",
   "description": "De gebedstijden van vandaag in Nottingham, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nottingham.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nottingham.html",
+  "id": "/nl/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

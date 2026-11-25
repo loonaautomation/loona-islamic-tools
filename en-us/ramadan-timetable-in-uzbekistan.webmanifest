@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable in Uzbekistan 2027",
   "short_name": "Ramadan Timetable in Uzbekistan 2027",
   "description": "Ramadan 2027 timetable for Uzbekistan: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Tashkent. Expected February 8 to March 8, 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/en-us/ramadan-timetable-in-uzbekistan.html",
+  "id": "/en-us/ramadan-timetable-in-uzbekistan.html",
   "start_url": "./ramadan-timetable-in-uzbekistan.html",
   "scope": "./ramadan-timetable-in-uzbekistan.html",
   "display": "standalone",

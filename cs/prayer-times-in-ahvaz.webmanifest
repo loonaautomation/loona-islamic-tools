@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ahvaz",
   "short_name": "Časy modliteb v Ahvaz",
   "description": "Dnešní časy modliteb v Ahvaz, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ahvaz.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ahvaz.html",
+  "id": "/cs/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

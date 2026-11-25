@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jaipur",
   "short_name": "เวลาละหมาดใน Jaipur",
   "description": "เวลาละหมาดวันนี้ใน Jaipur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jaipur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jaipur.html",
+  "id": "/th/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Muar",
   "short_name": "Gebetszeiten in Muar",
   "description": "Die heutigen Gebetszeiten in Muar, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Muar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-muar.html",
+  "id": "/de/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

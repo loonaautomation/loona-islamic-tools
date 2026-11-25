@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dinajpur",
   "short_name": "Gebedstijden in Dinajpur",
   "description": "De gebedstijden van vandaag in Dinajpur, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Dinajpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dinajpur.html",
+  "id": "/nl/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

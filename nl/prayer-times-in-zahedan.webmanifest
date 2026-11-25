@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Zahedan",
   "short_name": "Gebedstijden in Zahedan",
   "description": "De gebedstijden van vandaag in Zahedan, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Zahedan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-zahedan.html",
+  "id": "/nl/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

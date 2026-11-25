@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kozhikode",
   "short_name": "Gebedstijden in Kozhikode",
   "description": "De gebedstijden van vandaag in Kozhikode, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kozhikode.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kozhikode.html",
+  "id": "/nl/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

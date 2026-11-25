@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Çorlu",
   "short_name": "Bønnetider i Çorlu",
   "description": "Dagens bønnetider i Çorlu, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Çorlu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-corlu.html",
+  "id": "/nb/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

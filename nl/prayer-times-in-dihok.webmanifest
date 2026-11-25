@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dihok",
   "short_name": "Gebedstijden in Dihok",
   "description": "De gebedstijden van vandaag in Dihok, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Dihok.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dihok.html",
+  "id": "/nl/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pune",
   "short_name": "Bønnetider i Pune",
   "description": "Dagens bønnetider i Pune, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Pune.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pune.html",
+  "id": "/nb/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in New York",
   "short_name": "Gebedstijden in New York",
   "description": "De gebedstijden van vandaag in New York, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor New York.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-new-york.html",
+  "id": "/nl/prayer-times-in-new-york.html",
   "start_url": "./prayer-times-in-new-york.html",
   "scope": "./prayer-times-in-new-york.html",
   "display": "standalone",

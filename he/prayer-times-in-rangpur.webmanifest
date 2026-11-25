@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rangpur",
   "short_name": "זמני תפילה בעיר Rangpur",
   "description": "זמני התפילה של היום בעיר Rangpur, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rangpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rangpur.html",
+  "id": "/he/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

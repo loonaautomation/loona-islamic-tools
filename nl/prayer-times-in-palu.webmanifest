@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Palu",
   "short_name": "Gebedstijden in Palu",
   "description": "De gebedstijden van vandaag in Palu, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Palu.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-palu.html",
+  "id": "/nl/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Milan Today",
   "short_name": "Prayer Times in Milan Today",
   "description": "Today's prayer times in Milan, Italy: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Milan.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-milan.html",
+  "id": "/en-us/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

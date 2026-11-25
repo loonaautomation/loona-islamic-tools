@@ -2,7 +2,7 @@
   "name": "Loona Rotterdam Namaz Vakitleri",
   "short_name": "Rotterdam Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rotterdam, Hollanda: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Rotterdam için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rotterdam.html",
+  "id": "/tr/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

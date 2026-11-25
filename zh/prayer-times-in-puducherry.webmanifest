@@ -2,7 +2,7 @@
   "name": "Loona Puducherry的礼拜时间",
   "short_name": "Puducherry的礼拜时间",
   "description": "Puducherry（印度）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Puducherry实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-puducherry.html",
+  "id": "/zh/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

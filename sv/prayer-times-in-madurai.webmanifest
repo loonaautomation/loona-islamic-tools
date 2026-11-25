@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Madurai",
   "short_name": "Bönetider i Madurai",
   "description": "Dagens bönetider i Madurai, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Madurai.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-madurai.html",
+  "id": "/sv/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

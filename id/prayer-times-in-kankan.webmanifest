@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kankan",
   "short_name": "Waktu Salat di Kankan",
   "description": "Waktu salat hari ini di Kankan, Guinea: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kankan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kankan.html",
+  "id": "/id/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

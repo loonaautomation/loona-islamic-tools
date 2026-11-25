@@ -2,7 +2,7 @@
   "name": "Loona Damanhur imaidői",
   "short_name": "Damanhur imaidői",
   "description": "A mai imaidők: Damanhur, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Damanhur számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-damanhur.html",
+  "id": "/hu/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gilgit",
   "short_name": "مواقيت الصلاة في Gilgit",
   "description": "مواقيت الصلاة اليوم في Gilgit، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـGilgit.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gilgit.html",
+  "id": "/ar/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

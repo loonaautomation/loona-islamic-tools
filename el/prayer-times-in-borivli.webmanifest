@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Borivli",
   "short_name": "Ώρες Προσευχής στο Borivli",
   "description": "Οι σημερινές ώρες προσευχής στο Borivli, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Borivli.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-borivli.html",
+  "id": "/el/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

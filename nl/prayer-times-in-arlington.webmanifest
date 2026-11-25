@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Arlington",
   "short_name": "Gebedstijden in Arlington",
   "description": "De gebedstijden van vandaag in Arlington, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Arlington.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-arlington.html",
+  "id": "/nl/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

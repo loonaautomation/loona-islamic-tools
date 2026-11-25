@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Temara",
   "short_name": "Bönetider i Temara",
   "description": "Dagens bönetider i Temara, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Temara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-temara.html",
+  "id": "/sv/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

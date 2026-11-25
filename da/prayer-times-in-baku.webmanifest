@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Baku",
   "short_name": "Bønnetider i Baku",
   "description": "Dagens bønnetider i Baku, Aserbajdsjan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Baku.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-baku.html",
+  "id": "/da/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

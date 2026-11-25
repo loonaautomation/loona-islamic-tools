@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Bhopal",
   "short_name": "Czasy modlitw w miejscowości Bhopal",
   "description": "Dzisiejsze czasy modlitw w miejscowości Bhopal, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Bhopal.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-bhopal.html",
+  "id": "/pl/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

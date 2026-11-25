@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Buraydah",
   "short_name": "مواقيت الصلاة في Buraydah",
   "description": "مواقيت الصلاة اليوم في Buraydah، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـBuraydah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-buraydah.html",
+  "id": "/ar/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

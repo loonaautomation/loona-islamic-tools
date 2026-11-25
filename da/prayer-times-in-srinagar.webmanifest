@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Srinagar",
   "short_name": "Bønnetider i Srinagar",
   "description": "Dagens bønnetider i Srinagar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Srinagar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-srinagar.html",
+  "id": "/da/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

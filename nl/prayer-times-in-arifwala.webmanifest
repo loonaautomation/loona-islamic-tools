@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Arifwala",
   "short_name": "Gebedstijden in Arifwala",
   "description": "De gebedstijden van vandaag in Arifwala, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Arifwala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-arifwala.html",
+  "id": "/nl/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

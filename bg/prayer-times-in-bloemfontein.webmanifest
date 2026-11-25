@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bloemfontein",
   "short_name": "Часове за намаз в Bloemfontein",
   "description": "Днешните часове за намаз в Bloemfontein, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bloemfontein.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bloemfontein.html",
+  "id": "/bg/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

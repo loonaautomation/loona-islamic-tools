@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Halifax",
   "short_name": "Gebetszeiten in Halifax",
   "description": "Die heutigen Gebetszeiten in Halifax, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Halifax.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-halifax.html",
+  "id": "/de/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

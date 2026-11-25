@@ -2,7 +2,7 @@
   "name": "Loona Halifax-এ নামাজের সময়",
   "short_name": "Halifax-এ নামাজের সময়",
   "description": "Halifax, কানাডা-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Halifax-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-halifax.html",
+  "id": "/bn/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

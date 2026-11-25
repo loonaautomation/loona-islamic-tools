@@ -2,7 +2,7 @@
   "name": "Loona Moroni Namaz Vakitleri",
   "short_name": "Moroni Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Moroni, Komorlar: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Moroni için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-moroni.html",
+  "id": "/tr/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

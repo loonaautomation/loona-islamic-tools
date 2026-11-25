@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pretoria",
   "short_name": "Gebedstijden in Pretoria",
   "description": "De gebedstijden van vandaag in Pretoria, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pretoria.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pretoria.html",
+  "id": "/nl/prayer-times-in-pretoria.html",
   "start_url": "./prayer-times-in-pretoria.html",
   "scope": "./prayer-times-in-pretoria.html",
   "display": "standalone",

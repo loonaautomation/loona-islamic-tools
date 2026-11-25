@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kerman",
   "short_name": "مواقيت الصلاة في Kerman",
   "description": "مواقيت الصلاة اليوم في Kerman، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKerman.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kerman.html",
+  "id": "/ar/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sabzevar",
   "short_name": "Bönetider i Sabzevar",
   "description": "Dagens bönetider i Sabzevar, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sabzevar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sabzevar.html",
+  "id": "/sv/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

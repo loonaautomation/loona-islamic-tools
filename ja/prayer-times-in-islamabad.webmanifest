@@ -2,7 +2,7 @@
   "name": "Loona Islamabad の礼拝時刻",
   "short_name": "Islamabad の礼拝時刻",
   "description": "Islamabad（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Islamabad についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-islamabad.html",
+  "id": "/ja/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

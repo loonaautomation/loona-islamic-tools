@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Pittsburgh",
   "short_name": "Waktu Solat di Pittsburgh",
   "description": "Waktu solat hari ini di Pittsburgh, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Pittsburgh.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-pittsburgh.html",
+  "id": "/ms/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

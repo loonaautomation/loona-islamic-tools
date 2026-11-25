@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Āmol",
   "short_name": "Bønnetider i Āmol",
   "description": "Dagens bønnetider i Āmol, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Āmol.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-amol.html",
+  "id": "/da/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

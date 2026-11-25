@@ -2,7 +2,7 @@
   "name": "Loona Tampa imaidői",
   "short_name": "Tampa imaidői",
   "description": "A mai imaidők: Tampa, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Tampa számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tampa.html",
+  "id": "/hu/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

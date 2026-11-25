@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jacksonville",
   "short_name": "Gebedstijden in Jacksonville",
   "description": "De gebedstijden van vandaag in Jacksonville, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Jacksonville.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jacksonville.html",
+  "id": "/nl/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

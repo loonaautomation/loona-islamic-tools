@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Gaza",
   "short_name": "Rukousajat: Gaza",
   "description": "Tämän päivän rukousajat paikassa Gaza, Palestiina: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Gaza.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-gaza.html",
+  "id": "/fi/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

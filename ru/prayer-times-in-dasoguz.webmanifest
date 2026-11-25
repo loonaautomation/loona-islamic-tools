@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Daşoguz",
   "short_name": "Время намаза в городе Daşoguz",
   "description": "Время намаза на сегодня: Daşoguz, Туркменистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Daşoguz.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-dasoguz.html",
+  "id": "/ru/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

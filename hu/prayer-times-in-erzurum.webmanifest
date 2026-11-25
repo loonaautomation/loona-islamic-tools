@@ -2,7 +2,7 @@
   "name": "Loona Erzurum imaidői",
   "short_name": "Erzurum imaidői",
   "description": "A mai imaidők: Erzurum, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Erzurum számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-erzurum.html",
+  "id": "/hu/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

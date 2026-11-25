@@ -2,7 +2,7 @@
   "name": "Loona Toronto imaidői",
   "short_name": "Toronto imaidői",
   "description": "A mai imaidők: Toronto, Kanada: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Toronto számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-toronto.html",
+  "id": "/hu/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

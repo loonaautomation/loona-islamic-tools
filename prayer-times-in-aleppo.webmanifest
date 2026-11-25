@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Aleppo",
   "short_name": "Prayer Times in Aleppo",
   "description": "Today's prayer times in Aleppo, Syria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Aleppo.",
-  "id": "/loona-islamic-tools/prayer-times-in-aleppo.html",
+  "id": "/prayer-times-in-aleppo.html",
   "start_url": "./prayer-times-in-aleppo.html",
   "scope": "./prayer-times-in-aleppo.html",
   "display": "standalone",

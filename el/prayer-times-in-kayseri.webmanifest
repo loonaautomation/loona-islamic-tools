@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kayseri",
   "short_name": "Ώρες Προσευχής στο Kayseri",
   "description": "Οι σημερινές ώρες προσευχής στο Kayseri, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Kayseri.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kayseri.html",
+  "id": "/el/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

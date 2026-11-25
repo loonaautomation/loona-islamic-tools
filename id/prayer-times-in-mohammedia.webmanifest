@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mohammedia",
   "short_name": "Waktu Salat di Mohammedia",
   "description": "Waktu salat hari ini di Mohammedia, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Mohammedia.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mohammedia.html",
+  "id": "/id/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Natore",
   "short_name": "Prayer Times in Natore",
   "description": "Today's prayer times in Natore, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Natore.",
-  "id": "/loona-islamic-tools/prayer-times-in-natore.html",
+  "id": "/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

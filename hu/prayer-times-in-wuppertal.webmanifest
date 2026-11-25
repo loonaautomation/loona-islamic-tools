@@ -2,7 +2,7 @@
   "name": "Loona Wuppertal imaidői",
   "short_name": "Wuppertal imaidői",
   "description": "A mai imaidők: Wuppertal, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Wuppertal számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-wuppertal.html",
+  "id": "/hu/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

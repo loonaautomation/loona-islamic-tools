@@ -2,7 +2,7 @@
   "name": "Loona Dihok Namaz Vakitleri",
   "short_name": "Dihok Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dihok, Irak: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Dihok için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dihok.html",
+  "id": "/tr/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

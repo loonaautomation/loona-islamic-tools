@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Osh",
   "short_name": "זמני תפילה בעיר Osh",
   "description": "זמני התפילה של היום בעיר Osh, קירגיזסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Osh.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-osh.html",
+  "id": "/he/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

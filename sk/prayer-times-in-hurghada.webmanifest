@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Hurghada",
   "short_name": "Časy modlitieb v Hurghada",
   "description": "Dnešné časy modlitieb v Hurghada, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Hurghada.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-hurghada.html",
+  "id": "/sk/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Wandsbek",
   "short_name": "مواقيت الصلاة في Wandsbek",
   "description": "مواقيت الصلاة اليوم في Wandsbek، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـWandsbek.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-wandsbek.html",
+  "id": "/ar/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

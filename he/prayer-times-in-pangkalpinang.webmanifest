@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pangkalpinang",
   "short_name": "זמני תפילה בעיר Pangkalpinang",
   "description": "זמני התפילה של היום בעיר Pangkalpinang, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pangkalpinang.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pangkalpinang.html",
+  "id": "/he/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

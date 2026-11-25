@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Erode",
   "short_name": "Prayer Times in Erode",
   "description": "Today's prayer times in Erode, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Erode.",
-  "id": "/loona-islamic-tools/prayer-times-in-erode.html",
+  "id": "/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

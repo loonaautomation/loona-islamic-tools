@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Khamis Mushait",
   "short_name": "مواقيت الصلاة في Khamis Mushait",
   "description": "مواقيت الصلاة اليوم في Khamis Mushait، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـKhamis Mushait.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-khamis-mushait.html",
+  "id": "/ar/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sumgayit",
   "short_name": "Časy modlitieb v Sumgayit",
   "description": "Dnešné časy modlitieb v Sumgayit, Azerbajdžan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sumgayit.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sumgayit.html",
+  "id": "/sk/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

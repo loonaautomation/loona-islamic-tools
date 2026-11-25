@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nantes",
   "short_name": "Časy modliteb v Nantes",
   "description": "Dnešní časy modliteb v Nantes, Francie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Nantes.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nantes.html",
+  "id": "/cs/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

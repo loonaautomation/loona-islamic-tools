@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ludhiana",
   "short_name": "Bønnetider i Ludhiana",
   "description": "Dagens bønnetider i Ludhiana, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Ludhiana.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ludhiana.html",
+  "id": "/nb/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

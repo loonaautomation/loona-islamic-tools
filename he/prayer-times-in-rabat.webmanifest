@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rabat",
   "short_name": "זמני תפילה בעיר Rabat",
   "description": "זמני התפילה של היום בעיר Rabat, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Rabat.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rabat.html",
+  "id": "/he/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

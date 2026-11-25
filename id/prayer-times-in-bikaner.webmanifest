@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bikaner",
   "short_name": "Waktu Salat di Bikaner",
   "description": "Waktu salat hari ini di Bikaner, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bikaner.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bikaner.html",
+  "id": "/id/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

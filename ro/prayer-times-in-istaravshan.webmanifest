@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Istaravshan",
   "short_name": "Ore de rugăciune în Istaravshan",
   "description": "Orele de rugăciune de azi în Istaravshan, Tadjikistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Istaravshan.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-istaravshan.html",
+  "id": "/ro/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Genoa",
   "short_name": "Gebedstijden in Genoa",
   "description": "De gebedstijden van vandaag in Genoa, Italië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Genoa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-genoa.html",
+  "id": "/nl/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

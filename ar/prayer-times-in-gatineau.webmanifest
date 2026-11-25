@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gatineau",
   "short_name": "مواقيت الصلاة في Gatineau",
   "description": "مواقيت الصلاة اليوم في Gatineau، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـGatineau.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gatineau.html",
+  "id": "/ar/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Dera Ismail Khan",
   "short_name": "Waktu Salat di Dera Ismail Khan",
   "description": "Waktu salat hari ini di Dera Ismail Khan, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-dera-ismail-khan.html",
+  "id": "/id/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

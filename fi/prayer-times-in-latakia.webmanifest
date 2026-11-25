@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Latakia",
   "short_name": "Rukousajat: Latakia",
   "description": "Tämän päivän rukousajat paikassa Latakia, Syyria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Latakia.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-latakia.html",
+  "id": "/fi/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

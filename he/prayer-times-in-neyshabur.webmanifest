@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Neyshābūr",
   "short_name": "זמני תפילה בעיר Neyshābūr",
   "description": "זמני התפילה של היום בעיר Neyshābūr, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Neyshābūr.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-neyshabur.html",
+  "id": "/he/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

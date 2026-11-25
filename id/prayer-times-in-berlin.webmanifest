@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Berlin",
   "short_name": "Waktu Salat di Berlin",
   "description": "Waktu salat hari ini di Berlin, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Berlin.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-berlin.html",
+  "id": "/id/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

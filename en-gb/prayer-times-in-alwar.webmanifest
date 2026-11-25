@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Alwar Today",
   "short_name": "Prayer Times in Alwar Today",
   "description": "Today's prayer times in Alwar, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Alwar.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-alwar.html",
+  "id": "/en-gb/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

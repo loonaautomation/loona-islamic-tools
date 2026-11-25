@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Doha",
   "short_name": "זמני תפילה בעיר Doha",
   "description": "זמני התפילה של היום בעיר Doha, קטר: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Doha.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-doha.html",
+  "id": "/he/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

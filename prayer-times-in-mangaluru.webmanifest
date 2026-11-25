@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mangaluru",
   "short_name": "Prayer Times in Mangaluru",
   "description": "Today's prayer times in Mangaluru, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Mangaluru.",
-  "id": "/loona-islamic-tools/prayer-times-in-mangaluru.html",
+  "id": "/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

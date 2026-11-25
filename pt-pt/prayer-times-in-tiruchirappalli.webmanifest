@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Tiruchirappalli",
   "short_name": "Horários de Oração em Tiruchirappalli",
   "description": "Horários de oração de hoje em Tiruchirappalli, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Tiruchirappalli.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-tiruchirappalli.html",
+  "id": "/pt-pt/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

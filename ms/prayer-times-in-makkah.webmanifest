@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Makkah",
   "short_name": "Waktu Solat di Makkah",
   "description": "Waktu solat hari ini di Makkah, Arab Saudi: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Makkah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-makkah.html",
+  "id": "/ms/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

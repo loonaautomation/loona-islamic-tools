@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Singa",
   "short_name": "Časy modliteb v Singa",
   "description": "Dnešní časy modliteb v Singa, Súdán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Singa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-singa.html",
+  "id": "/cs/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

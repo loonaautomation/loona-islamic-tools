@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Leeds",
   "short_name": "Horários de Oração em Leeds",
   "description": "Horários de oração de hoje em Leeds, Reino Unido: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Leeds.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-leeds.html",
+  "id": "/pt-br/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

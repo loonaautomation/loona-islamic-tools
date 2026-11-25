@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sheffield",
   "short_name": "Prayer Times in Sheffield",
   "description": "Today's prayer times in Sheffield, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sheffield.",
-  "id": "/loona-islamic-tools/prayer-times-in-sheffield.html",
+  "id": "/prayer-times-in-sheffield.html",
   "start_url": "./prayer-times-in-sheffield.html",
   "scope": "./prayer-times-in-sheffield.html",
   "display": "standalone",

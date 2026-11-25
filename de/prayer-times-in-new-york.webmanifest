@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in New York",
   "short_name": "Gebetszeiten in New York",
   "description": "Die heutigen Gebetszeiten in New York, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für New York.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-new-york.html",
+  "id": "/de/prayer-times-in-new-york.html",
   "start_url": "./prayer-times-in-new-york.html",
   "scope": "./prayer-times-in-new-york.html",
   "display": "standalone",

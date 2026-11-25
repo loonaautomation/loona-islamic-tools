@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Oran",
   "short_name": "Vremena namaza u gradu Oran",
   "description": "Današnja vremena namaza u gradu Oran, Alžir: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Oran.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-oran.html",
+  "id": "/hr/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

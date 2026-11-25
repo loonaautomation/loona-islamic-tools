@@ -2,7 +2,7 @@
   "name": "Loona Jember Namaz Vakitleri",
   "short_name": "Jember Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Jember, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Jember için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-jember.html",
+  "id": "/tr/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

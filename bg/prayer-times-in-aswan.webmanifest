@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Aswān",
   "short_name": "Часове за намаз в Aswān",
   "description": "Днешните часове за намаз в Aswān, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Aswān.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-aswan.html",
+  "id": "/bg/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ra’s Bayrūt",
   "short_name": "Gebetszeiten in Ra’s Bayrūt",
   "description": "Die heutigen Gebetszeiten in Ra’s Bayrūt, Libanon: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ra’s Bayrūt.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ra-s-bayrut.html",
+  "id": "/de/prayer-times-in-ra-s-bayrut.html",
   "start_url": "./prayer-times-in-ra-s-bayrut.html",
   "scope": "./prayer-times-in-ra-s-bayrut.html",
   "display": "standalone",

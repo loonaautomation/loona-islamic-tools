@@ -2,7 +2,7 @@
   "name": "Loona ปฏิทินฮิจเราะห์",
   "short_name": "ปฏิทินฮิจเราะห์",
   "description": "เรียกดูเดือนและปีฮิจเราะห์ใดก็ได้ในปฏิทินอิสลามที่สะอาดตา ซึ่งทุกวันแสดงวันที่เกรกอเรียนด้วย ปฏิทินอุมมุลกุรอ ฟรีและทันสมัยเสมอ",
-  "id": "/loona-islamic-tools/th/hijri-calendar/",
+  "id": "/th/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

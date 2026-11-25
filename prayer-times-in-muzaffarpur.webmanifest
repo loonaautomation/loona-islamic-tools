@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Muzaffarpur",
   "short_name": "Prayer Times in Muzaffarpur",
   "description": "Today's prayer times in Muzaffarpur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Muzaffarpur.",
-  "id": "/loona-islamic-tools/prayer-times-in-muzaffarpur.html",
+  "id": "/prayer-times-in-muzaffarpur.html",
   "start_url": "./prayer-times-in-muzaffarpur.html",
   "scope": "./prayer-times-in-muzaffarpur.html",
   "display": "standalone",

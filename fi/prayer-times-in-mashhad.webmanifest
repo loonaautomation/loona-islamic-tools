@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mashhad",
   "short_name": "Rukousajat: Mashhad",
   "description": "Tämän päivän rukousajat paikassa Mashhad, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Mashhad.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mashhad.html",
+  "id": "/fi/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

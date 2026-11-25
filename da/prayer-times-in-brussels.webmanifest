@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Brussels",
   "short_name": "Bønnetider i Brussels",
   "description": "Dagens bønnetider i Brussels, Belgien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Brussels.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-brussels.html",
+  "id": "/da/prayer-times-in-brussels.html",
   "start_url": "./prayer-times-in-brussels.html",
   "scope": "./prayer-times-in-brussels.html",
   "display": "standalone",

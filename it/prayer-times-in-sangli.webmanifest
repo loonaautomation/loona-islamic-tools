@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sāngli",
   "short_name": "Orari di preghiera a Sāngli",
   "description": "Orari di preghiera di oggi a Sāngli, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Sāngli.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sangli.html",
+  "id": "/it/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

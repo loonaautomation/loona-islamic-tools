@@ -2,7 +2,7 @@
   "name": "Loona Hisar Namaz Vakitleri",
   "short_name": "Hisar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Hisar, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Hisar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-hisar.html",
+  "id": "/tr/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

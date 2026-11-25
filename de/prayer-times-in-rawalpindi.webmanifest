@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rawalpindi",
   "short_name": "Gebetszeiten in Rawalpindi",
   "description": "Die heutigen Gebetszeiten in Rawalpindi, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rawalpindi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rawalpindi.html",
+  "id": "/de/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

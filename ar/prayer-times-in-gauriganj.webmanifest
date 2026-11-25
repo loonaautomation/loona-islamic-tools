@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gauriganj",
   "short_name": "مواقيت الصلاة في Gauriganj",
   "description": "مواقيت الصلاة اليوم في Gauriganj، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـGauriganj.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gauriganj.html",
+  "id": "/ar/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

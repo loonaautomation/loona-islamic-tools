@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kashan",
   "short_name": "Gebedstijden in Kashan",
   "description": "De gebedstijden van vandaag in Kashan, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Kashan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kashan.html",
+  "id": "/nl/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

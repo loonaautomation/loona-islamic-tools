@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bonn",
   "short_name": "Ώρες Προσευχής στο Bonn",
   "description": "Οι σημερινές ώρες προσευχής στο Bonn, Γερμανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Bonn.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bonn.html",
+  "id": "/el/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

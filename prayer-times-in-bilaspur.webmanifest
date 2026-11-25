@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bilāspur",
   "short_name": "Prayer Times in Bilāspur",
   "description": "Today's prayer times in Bilāspur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Bilāspur.",
-  "id": "/loona-islamic-tools/prayer-times-in-bilaspur.html",
+  "id": "/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Digri",
   "short_name": "Časy modlitieb v Digri",
   "description": "Dnešné časy modlitieb v Digri, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Digri.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-digri.html",
+  "id": "/sk/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

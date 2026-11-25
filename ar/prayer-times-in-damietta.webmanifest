@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Damietta",
   "short_name": "مواقيت الصلاة في Damietta",
   "description": "مواقيت الصلاة اليوم في Damietta، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـDamietta.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-damietta.html",
+  "id": "/ar/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

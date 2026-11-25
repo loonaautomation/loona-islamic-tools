@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dadu",
   "short_name": "Orari di preghiera a Dadu",
   "description": "Orari di preghiera di oggi a Dadu, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Dadu.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dadu.html",
+  "id": "/it/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jamshedpur",
   "short_name": "Waktu Salat di Jamshedpur",
   "description": "Waktu salat hari ini di Jamshedpur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Jamshedpur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jamshedpur.html",
+  "id": "/id/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

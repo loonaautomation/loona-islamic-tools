@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Winnipeg",
   "short_name": "Ώρες Προσευχής στο Winnipeg",
   "description": "Οι σημερινές ώρες προσευχής στο Winnipeg, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Winnipeg.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-winnipeg.html",
+  "id": "/el/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

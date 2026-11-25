@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Leicester",
   "short_name": "Gebetszeiten in Leicester",
   "description": "Die heutigen Gebetszeiten in Leicester, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Leicester.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-leicester.html",
+  "id": "/de/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

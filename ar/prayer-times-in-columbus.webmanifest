@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Columbus",
   "short_name": "مواقيت الصلاة في Columbus",
   "description": "مواقيت الصلاة اليوم في Columbus، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـColumbus.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-columbus.html",
+  "id": "/ar/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

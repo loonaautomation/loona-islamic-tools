@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Miami",
   "short_name": "זמני תפילה בעיר Miami",
   "description": "זמני התפילה של היום בעיר Miami, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Miami.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-miami.html",
+  "id": "/he/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

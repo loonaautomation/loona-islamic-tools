@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Hisar",
   "short_name": "Časy modlitieb v Hisar",
   "description": "Dnešné časy modlitieb v Hisar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Hisar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-hisar.html",
+  "id": "/sk/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

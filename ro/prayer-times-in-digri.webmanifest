@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Digri",
   "short_name": "Ore de rugăciune în Digri",
   "description": "Orele de rugăciune de azi în Digri, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Digri.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-digri.html",
+  "id": "/ro/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

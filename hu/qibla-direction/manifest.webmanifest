@@ -2,7 +2,7 @@
   "name": "Loona Kibla irány",
   "short_name": "Kibla irány",
   "description": "Keresse meg a Kibla irányát fokokban bármely városból vagy a pontos tartózkodási helyéről, élő iránytűszámlappal és a Mekkáig mért távolsággal. Ingyenes, pontos és privát.",
-  "id": "/loona-islamic-tools/hu/qibla-direction/",
+  "id": "/hu/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Medan",
   "short_name": "Prayer Times in Medan",
   "description": "Today's prayer times in Medan, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Medan.",
-  "id": "/loona-islamic-tools/prayer-times-in-medan.html",
+  "id": "/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

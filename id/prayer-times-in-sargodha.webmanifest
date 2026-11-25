@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sargodha",
   "short_name": "Waktu Salat di Sargodha",
   "description": "Waktu salat hari ini di Sargodha, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Sargodha.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sargodha.html",
+  "id": "/id/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

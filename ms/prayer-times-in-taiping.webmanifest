@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Taiping",
   "short_name": "Waktu Solat di Taiping",
   "description": "Waktu solat hari ini di Taiping, Malaysia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Taiping.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-taiping.html",
+  "id": "/ms/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

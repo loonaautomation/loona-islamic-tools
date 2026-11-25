@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Cilacap",
   "short_name": "Rukousajat: Cilacap",
   "description": "Tämän päivän rukousajat paikassa Cilacap, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Cilacap.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-cilacap.html",
+  "id": "/fi/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

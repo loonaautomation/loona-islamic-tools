@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Austin",
   "short_name": "Heures de prière à Austin",
   "description": "Les heures de prière d’aujourd’hui à Austin, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Austin.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-austin.html",
+  "id": "/fr/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

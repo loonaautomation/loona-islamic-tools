@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Hufūf",
   "short_name": "Bønnetider i Al Hufūf",
   "description": "Dagens bønnetider i Al Hufūf, Saudi-Arabia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet direkte på enheten din for Al Hufūf.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-al-hufuf.html",
+  "id": "/nb/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

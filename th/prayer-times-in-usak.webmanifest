@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Uşak",
   "short_name": "เวลาละหมาดใน Uşak",
   "description": "เวลาละหมาดวันนี้ใน Uşak, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Uşak",
-  "id": "/loona-islamic-tools/th/prayer-times-in-usak.html",
+  "id": "/th/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

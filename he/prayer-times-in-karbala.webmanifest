@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Karbala",
   "short_name": "זמני תפילה בעיר Karbala",
   "description": "זמני התפילה של היום בעיר Karbala, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Karbala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-karbala.html",
+  "id": "/he/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Durban",
   "short_name": "Gebedstijden in Durban",
   "description": "De gebedstijden van vandaag in Durban, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Durban.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-durban.html",
+  "id": "/nl/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

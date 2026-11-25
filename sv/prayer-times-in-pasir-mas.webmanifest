@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pasir Mas",
   "short_name": "Bönetider i Pasir Mas",
   "description": "Dagens bönetider i Pasir Mas, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pasir Mas.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pasir-mas.html",
+  "id": "/sv/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

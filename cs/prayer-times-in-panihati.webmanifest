@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Pānihāti",
   "short_name": "Časy modliteb v Pānihāti",
   "description": "Dnešní časy modliteb v Pānihāti, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Pānihāti.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-panihati.html",
+  "id": "/cs/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

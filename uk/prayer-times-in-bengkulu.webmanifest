@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bengkulu",
   "short_name": "Час намазу в Bengkulu",
   "description": "Сьогоднішній час намазу в Bengkulu, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bengkulu.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bengkulu.html",
+  "id": "/uk/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

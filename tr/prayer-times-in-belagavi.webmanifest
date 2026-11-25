@@ -2,7 +2,7 @@
   "name": "Loona Belagavi Namaz Vakitleri",
   "short_name": "Belagavi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Belagavi, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Belagavi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-belagavi.html",
+  "id": "/tr/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

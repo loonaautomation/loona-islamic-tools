@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר London (קנדה)",
   "short_name": "זמני תפילה בעיר London (קנדה)",
   "description": "זמני התפילה של היום בעיר London, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור London.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-london-canada.html",
+  "id": "/he/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Iskandar Puteri",
   "short_name": "Bönetider i Iskandar Puteri",
   "description": "Dagens bönetider i Iskandar Puteri, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Iskandar Puteri.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-iskandar-puteri.html",
+  "id": "/sv/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Al Diwaniyah",
   "short_name": "Orari di preghiera a Al Diwaniyah",
   "description": "Orari di preghiera di oggi a Al Diwaniyah, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Al Diwaniyah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-al-diwaniyah.html",
+  "id": "/it/prayer-times-in-al-diwaniyah.html",
   "start_url": "./prayer-times-in-al-diwaniyah.html",
   "scope": "./prayer-times-in-al-diwaniyah.html",
   "display": "standalone",

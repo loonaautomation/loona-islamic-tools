@@ -2,7 +2,7 @@
   "name": "Loona Vancouver的禮拜時間",
   "short_name": "Vancouver的禮拜時間",
   "description": "Vancouver（加拿大）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Vancouver實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-vancouver.html",
+  "id": "/zh-hant/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

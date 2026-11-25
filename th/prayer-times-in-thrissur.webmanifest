@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Thrissur",
   "short_name": "เวลาละหมาดใน Thrissur",
   "description": "เวลาละหมาดวันนี้ใน Thrissur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Thrissur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-thrissur.html",
+  "id": "/th/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

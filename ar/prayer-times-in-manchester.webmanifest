@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Manchester",
   "short_name": "مواقيت الصلاة في Manchester",
   "description": "مواقيت الصلاة اليوم في Manchester، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـManchester.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-manchester.html",
+  "id": "/ar/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

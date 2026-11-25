@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Gorgān",
   "short_name": "Horarios de oración en Gorgān",
   "description": "Horarios de oración de hoy en Gorgān, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Gorgān.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-gorgan.html",
+  "id": "/es/prayer-times-in-gorgan.html",
   "start_url": "./prayer-times-in-gorgan.html",
   "scope": "./prayer-times-in-gorgan.html",
   "display": "standalone",

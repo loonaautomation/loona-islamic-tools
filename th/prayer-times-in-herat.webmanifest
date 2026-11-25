@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Herāt",
   "short_name": "เวลาละหมาดใน Herāt",
   "description": "เวลาละหมาดวันนี้ใน Herāt, Afghanistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Herāt",
-  "id": "/loona-islamic-tools/th/prayer-times-in-herat.html",
+  "id": "/th/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

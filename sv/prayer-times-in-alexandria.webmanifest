@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Alexandria",
   "short_name": "Bönetider i Alexandria",
   "description": "Dagens bönetider i Alexandria, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Alexandria.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-alexandria.html",
+  "id": "/sv/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

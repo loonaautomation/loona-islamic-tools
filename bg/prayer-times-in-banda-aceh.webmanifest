@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Banda Aceh",
   "short_name": "Часове за намаз в Banda Aceh",
   "description": "Днешните часове за намаз в Banda Aceh, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Banda Aceh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-banda-aceh.html",
+  "id": "/bg/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

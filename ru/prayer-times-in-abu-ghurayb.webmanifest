@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Abū Ghurayb",
   "short_name": "Время намаза в городе Abū Ghurayb",
   "description": "Время намаза на сегодня: Abū Ghurayb, Ирак: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Abū Ghurayb.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-abu-ghurayb.html",
+  "id": "/ru/prayer-times-in-abu-ghurayb.html",
   "start_url": "./prayer-times-in-abu-ghurayb.html",
   "scope": "./prayer-times-in-abu-ghurayb.html",
   "display": "standalone",

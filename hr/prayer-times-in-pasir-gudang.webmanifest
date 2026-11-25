@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pasir Gudang",
   "short_name": "Vremena namaza u gradu Pasir Gudang",
   "description": "Današnja vremena namaza u gradu Pasir Gudang, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pasir Gudang.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pasir-gudang.html",
+  "id": "/hr/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

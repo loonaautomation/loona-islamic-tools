@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sousse",
   "short_name": "Orari di preghiera a Sousse",
   "description": "Orari di preghiera di oggi a Sousse, Tunisia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sousse.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sousse.html",
+  "id": "/it/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

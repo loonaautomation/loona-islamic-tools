@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mathura",
   "short_name": "Bønnetider i Mathura",
   "description": "Dagens bønnetider i Mathura, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Mathura.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mathura.html",
+  "id": "/nb/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

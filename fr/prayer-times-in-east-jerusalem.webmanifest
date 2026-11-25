@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à East Jerusalem",
   "short_name": "Heures de prière à East Jerusalem",
   "description": "Les heures de prière d’aujourd’hui à East Jerusalem, Palestine : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour East Jerusalem.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-east-jerusalem.html",
+  "id": "/fr/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

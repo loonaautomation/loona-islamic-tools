@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Samsun",
   "short_name": "Rukousajat: Samsun",
   "description": "Tämän päivän rukousajat paikassa Samsun, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Samsun.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-samsun.html",
+  "id": "/fi/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

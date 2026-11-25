@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sukkur",
   "short_name": "Час намазу в Sukkur",
   "description": "Сьогоднішній час намазу в Sukkur, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Sukkur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sukkur.html",
+  "id": "/uk/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

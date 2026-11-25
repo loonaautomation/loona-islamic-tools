@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Banjarmasin",
   "short_name": "Waktu Salat di Banjarmasin",
   "description": "Waktu salat hari ini di Banjarmasin, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Banjarmasin.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-banjarmasin.html",
+  "id": "/id/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

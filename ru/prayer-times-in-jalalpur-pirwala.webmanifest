@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jalalpur Pirwala",
   "short_name": "Время намаза в городе Jalalpur Pirwala",
   "description": "Время намаза на сегодня: Jalalpur Pirwala, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jalalpur Pirwala.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jalalpur-pirwala.html",
+  "id": "/ru/prayer-times-in-jalalpur-pirwala.html",
   "start_url": "./prayer-times-in-jalalpur-pirwala.html",
   "scope": "./prayer-times-in-jalalpur-pirwala.html",
   "display": "standalone",

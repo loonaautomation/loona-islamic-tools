@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Damanhur",
   "short_name": "Bønnetider i Damanhur",
   "description": "Dagens bønnetider i Damanhur, Egypten: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Egyptian General Authority-metoden, beregnet live på din enhed for Damanhur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-damanhur.html",
+  "id": "/da/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

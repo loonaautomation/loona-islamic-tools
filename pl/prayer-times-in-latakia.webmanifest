@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Latakia",
   "short_name": "Czasy modlitw w miejscowości Latakia",
   "description": "Dzisiejsze czasy modlitw w miejscowości Latakia, kraj Syria: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Latakia.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-latakia.html",
+  "id": "/pl/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

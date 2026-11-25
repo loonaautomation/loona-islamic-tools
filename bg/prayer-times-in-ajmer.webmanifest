@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ajmer",
   "short_name": "Часове за намаз в Ajmer",
   "description": "Днешните часове за намаз в Ajmer, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Ajmer.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ajmer.html",
+  "id": "/bg/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

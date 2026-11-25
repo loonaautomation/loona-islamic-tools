@@ -2,7 +2,7 @@
   "name": "Loona Mesa的礼拜时间",
   "short_name": "Mesa的礼拜时间",
   "description": "Mesa（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Mesa实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-mesa.html",
+  "id": "/zh/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

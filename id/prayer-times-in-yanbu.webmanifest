@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Yanbu",
   "short_name": "Waktu Salat di Yanbu",
   "description": "Waktu salat hari ini di Yanbu, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Yanbu.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-yanbu.html",
+  "id": "/id/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

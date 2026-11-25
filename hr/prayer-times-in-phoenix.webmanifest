@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Phoenix",
   "short_name": "Vremena namaza u gradu Phoenix",
   "description": "Današnja vremena namaza u gradu Phoenix, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Phoenix.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-phoenix.html",
+  "id": "/hr/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

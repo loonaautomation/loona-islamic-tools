@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Adıyaman",
   "short_name": "Heures de prière à Adıyaman",
   "description": "Les heures de prière d’aujourd’hui à Adıyaman, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Adıyaman.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-adiyaman.html",
+  "id": "/fr/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

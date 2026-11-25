@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Aksaray",
   "short_name": "Время намаза в городе Aksaray",
   "description": "Время намаза на сегодня: Aksaray, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Aksaray.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-aksaray.html",
+  "id": "/ru/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

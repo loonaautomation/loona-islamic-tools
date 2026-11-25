@@ -2,7 +2,7 @@
   "name": "Loona Qina Namaz Vakitleri",
   "short_name": "Qina Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qina, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Qina için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qina.html",
+  "id": "/tr/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

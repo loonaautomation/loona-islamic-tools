@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Las Palmas de Gran Canaria",
   "short_name": "Horarios de oración en Las Palmas de Gran",
   "description": "Horarios de oración de hoy en Las Palmas de Gran Canaria, España: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Las Palmas de Gran Canaria.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-las-palmas-de-gran-canaria.html",
+  "id": "/es/prayer-times-in-las-palmas-de-gran-canaria.html",
   "start_url": "./prayer-times-in-las-palmas-de-gran-canaria.html",
   "scope": "./prayer-times-in-las-palmas-de-gran-canaria.html",
   "display": "standalone",

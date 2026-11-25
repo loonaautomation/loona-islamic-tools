@@ -2,7 +2,7 @@
   "name": "Loona Qo‘qon Namaz Vakitleri",
   "short_name": "Qo‘qon Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Qo‘qon, Özbekistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Qo‘qon için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-qo-qon.html",
+  "id": "/tr/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

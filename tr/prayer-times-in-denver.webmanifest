@@ -2,7 +2,7 @@
   "name": "Loona Denver Namaz Vakitleri",
   "short_name": "Denver Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Denver, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Denver için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-denver.html",
+  "id": "/tr/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kuching Today",
   "short_name": "Prayer Times in Kuching Today",
   "description": "Today's prayer times in Kuching, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kuching.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-kuching.html",
+  "id": "/en-us/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

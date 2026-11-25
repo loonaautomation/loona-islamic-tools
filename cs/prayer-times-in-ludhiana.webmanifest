@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ludhiana",
   "short_name": "Časy modliteb v Ludhiana",
   "description": "Dnešní časy modliteb v Ludhiana, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Ludhiana.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ludhiana.html",
+  "id": "/cs/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

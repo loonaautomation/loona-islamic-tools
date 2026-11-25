@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ternate",
   "short_name": "Часове за намаз в Ternate",
   "description": "Днешните часове за намаз в Ternate, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ternate.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ternate.html",
+  "id": "/bg/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Canberra",
   "short_name": "זמני תפילה בעיר Canberra",
   "description": "זמני התפילה של היום בעיר Canberra, אוסטרליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Canberra.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-canberra.html",
+  "id": "/he/prayer-times-in-canberra.html",
   "start_url": "./prayer-times-in-canberra.html",
   "scope": "./prayer-times-in-canberra.html",
   "display": "standalone",

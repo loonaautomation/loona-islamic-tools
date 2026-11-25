@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Yunusobod",
   "short_name": "Horários de Oração em Yunusobod",
   "description": "Horários de oração de hoje em Yunusobod, Usbequistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Yunusobod.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-yunusobod.html",
+  "id": "/pt-br/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

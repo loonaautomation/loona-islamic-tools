@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Berlin",
   "short_name": "Bønnetider i Berlin",
   "description": "Dagens bønnetider i Berlin, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Berlin.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-berlin.html",
+  "id": "/da/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

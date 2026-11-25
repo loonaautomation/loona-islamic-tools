@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cuttack",
   "short_name": "مواقيت الصلاة في Cuttack",
   "description": "مواقيت الصلاة اليوم في Cuttack، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـCuttack.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cuttack.html",
+  "id": "/ar/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

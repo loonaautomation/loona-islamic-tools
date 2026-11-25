@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в країні Коморські Острови 2027 (1448)",
   "short_name": "Розклад Рамадану в країні Коморські Острови",
   "description": "Розклад Рамадану 2027 для країни Коморські Острови: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448, розраховані для Moroni. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-comoros.html",
+  "id": "/uk/ramadan-timetable-in-comoros.html",
   "start_url": "./ramadan-timetable-in-comoros.html",
   "scope": "./ramadan-timetable-in-comoros.html",
   "display": "standalone",

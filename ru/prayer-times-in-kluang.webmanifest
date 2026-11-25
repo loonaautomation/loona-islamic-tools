@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kluang",
   "short_name": "Время намаза в городе Kluang",
   "description": "Время намаза на сегодня: Kluang, Малайзия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Kluang.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kluang.html",
+  "id": "/ru/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

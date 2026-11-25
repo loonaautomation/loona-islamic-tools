@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Az Zāwīyah",
   "short_name": "זמני תפילה בעיר Az Zāwīyah",
   "description": "זמני התפילה של היום בעיר Az Zāwīyah, לוב: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Az Zāwīyah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-az-zawiyah.html",
+  "id": "/he/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

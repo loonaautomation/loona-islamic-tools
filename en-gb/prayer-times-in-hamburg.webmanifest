@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Hamburg Today",
   "short_name": "Prayer Times in Hamburg Today",
   "description": "Today's prayer times in Hamburg, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Hamburg.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-hamburg.html",
+  "id": "/en-gb/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

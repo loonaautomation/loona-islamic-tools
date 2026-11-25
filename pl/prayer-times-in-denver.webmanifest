@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Denver",
   "short_name": "Czasy modlitw w miejscowości Denver",
   "description": "Dzisiejsze czasy modlitw w miejscowości Denver, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Denver.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-denver.html",
+  "id": "/pl/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

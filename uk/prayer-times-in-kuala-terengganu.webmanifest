@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kuala Terengganu",
   "short_name": "Час намазу в Kuala Terengganu",
   "description": "Сьогоднішній час намазу в Kuala Terengganu, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kuala Terengganu.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kuala-terengganu.html",
+  "id": "/uk/prayer-times-in-kuala-terengganu.html",
   "start_url": "./prayer-times-in-kuala-terengganu.html",
   "scope": "./prayer-times-in-kuala-terengganu.html",
   "display": "standalone",

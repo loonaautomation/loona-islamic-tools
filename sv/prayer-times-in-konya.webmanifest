@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Konya",
   "short_name": "Bönetider i Konya",
   "description": "Dagens bönetider i Konya, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Konya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-konya.html",
+  "id": "/sv/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

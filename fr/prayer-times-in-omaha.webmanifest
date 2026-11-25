@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Omaha",
   "short_name": "Heures de prière à Omaha",
   "description": "Les heures de prière d’aujourd’hui à Omaha, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Omaha.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-omaha.html",
+  "id": "/fr/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

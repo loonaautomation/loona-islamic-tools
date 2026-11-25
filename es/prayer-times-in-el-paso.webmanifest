@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en El Paso",
   "short_name": "Horarios de oración en El Paso",
   "description": "Horarios de oración de hoy en El Paso, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para El Paso.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-el-paso.html",
+  "id": "/es/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

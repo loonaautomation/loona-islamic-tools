@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v El Obeid",
   "short_name": "Časy modliteb v El Obeid",
   "description": "Dnešní časy modliteb v El Obeid, Súdán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro El Obeid.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-el-obeid.html",
+  "id": "/cs/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

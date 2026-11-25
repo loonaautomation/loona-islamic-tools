@@ -2,7 +2,7 @@
   "name": "Loona Glasgow imaidői",
   "short_name": "Glasgow imaidői",
   "description": "A mai imaidők: Glasgow, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Glasgow számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-glasgow.html",
+  "id": "/hu/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

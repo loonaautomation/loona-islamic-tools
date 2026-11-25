@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Malmö",
   "short_name": "مواقيت الصلاة في Malmö",
   "description": "مواقيت الصلاة اليوم في Malmö، السويد: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMalmö.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-malmoe.html",
+  "id": "/ar/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

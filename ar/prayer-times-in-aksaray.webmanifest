@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Aksaray",
   "short_name": "مواقيت الصلاة في Aksaray",
   "description": "مواقيت الصلاة اليوم في Aksaray، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAksaray.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-aksaray.html",
+  "id": "/ar/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gilgit imaidői",
   "short_name": "Gilgit imaidői",
   "description": "A mai imaidők: Gilgit, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Gilgit számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-gilgit.html",
+  "id": "/hu/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

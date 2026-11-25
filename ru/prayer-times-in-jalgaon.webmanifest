@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jalgaon",
   "short_name": "Время намаза в городе Jalgaon",
   "description": "Время намаза на сегодня: Jalgaon, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jalgaon.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jalgaon.html",
+  "id": "/ru/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

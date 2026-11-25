@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Russeifa",
   "short_name": "مواقيت الصلاة في Russeifa",
   "description": "مواقيت الصلاة اليوم في Russeifa، الأردن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRusseifa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-russeifa.html",
+  "id": "/ar/prayer-times-in-russeifa.html",
   "start_url": "./prayer-times-in-russeifa.html",
   "scope": "./prayer-times-in-russeifa.html",
   "display": "standalone",

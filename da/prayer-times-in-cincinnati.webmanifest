@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cincinnati",
   "short_name": "Bønnetider i Cincinnati",
   "description": "Dagens bønnetider i Cincinnati, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Cincinnati.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-cincinnati.html",
+  "id": "/da/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

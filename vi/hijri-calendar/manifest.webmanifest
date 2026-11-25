@@ -2,7 +2,7 @@
   "name": "Loona Lịch Hijri",
   "short_name": "Lịch Hijri",
   "description": "Duyệt bất kỳ tháng và năm Hijri nào trong một lịch Hồi giáo rõ ràng, nơi mỗi ngày cũng hiển thị ngày Dương lịch tương ứng. Lịch Umm al-Qura, miễn phí và luôn cập nhật.",
-  "id": "/loona-islamic-tools/vi/hijri-calendar/",
+  "id": "/vi/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Shivamogga",
   "short_name": "Время намаза в городе Shivamogga",
   "description": "Время намаза на сегодня: Shivamogga, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Shivamogga.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-shivamogga.html",
+  "id": "/ru/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

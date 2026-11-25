@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Comilla",
   "short_name": "Waktu Salat di Comilla",
   "description": "Waktu salat hari ini di Comilla, Bangladesh: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Comilla.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-comilla.html",
+  "id": "/id/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

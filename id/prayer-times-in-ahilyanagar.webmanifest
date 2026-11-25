@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ahilyanagar",
   "short_name": "Waktu Salat di Ahilyanagar",
   "description": "Waktu salat hari ini di Ahilyanagar, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Ahilyanagar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ahilyanagar.html",
+  "id": "/id/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

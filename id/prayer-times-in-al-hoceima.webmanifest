@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Al Hoceïma",
   "short_name": "Waktu Salat di Al Hoceïma",
   "description": "Waktu salat hari ini di Al Hoceïma, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Al Hoceïma.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-al-hoceima.html",
+  "id": "/id/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

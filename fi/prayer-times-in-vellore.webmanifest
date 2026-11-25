@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Vellore",
   "short_name": "Rukousajat: Vellore",
   "description": "Tämän päivän rukousajat paikassa Vellore, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Vellore.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-vellore.html",
+  "id": "/fi/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

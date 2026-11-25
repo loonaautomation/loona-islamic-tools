@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Manchester",
   "short_name": "Bønnetider i Manchester",
   "description": "Dagens bønnetider i Manchester, Storbritannia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Manchester.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-manchester.html",
+  "id": "/nb/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

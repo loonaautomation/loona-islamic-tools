@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jammu",
   "short_name": "Bønnetider i Jammu",
   "description": "Dagens bønnetider i Jammu, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Jammu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jammu.html",
+  "id": "/nb/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

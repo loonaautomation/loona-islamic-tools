@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kota Kuala Muda",
   "short_name": "Orari di preghiera a Kota Kuala Muda",
   "description": "Orari di preghiera di oggi a Kota Kuala Muda, Malesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kota-kuala-muda.html",
+  "id": "/it/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

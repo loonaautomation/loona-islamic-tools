@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Albuquerque",
   "short_name": "Gebedstijden in Albuquerque",
   "description": "De gebedstijden van vandaag in Albuquerque, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Albuquerque.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-albuquerque.html",
+  "id": "/nl/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

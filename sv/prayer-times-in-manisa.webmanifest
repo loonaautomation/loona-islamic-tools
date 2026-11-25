@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Manisa",
   "short_name": "Bönetider i Manisa",
   "description": "Dagens bönetider i Manisa, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Manisa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-manisa.html",
+  "id": "/sv/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

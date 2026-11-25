@@ -2,7 +2,7 @@
   "name": "Loona Nashville の礼拝時刻",
   "short_name": "Nashville の礼拝時刻",
   "description": "Nashville（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Nashville についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-nashville.html",
+  "id": "/ja/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

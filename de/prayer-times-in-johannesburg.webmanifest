@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Johannesburg",
   "short_name": "Gebetszeiten in Johannesburg",
   "description": "Die heutigen Gebetszeiten in Johannesburg, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Johannesburg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-johannesburg.html",
+  "id": "/de/prayer-times-in-johannesburg.html",
   "start_url": "./prayer-times-in-johannesburg.html",
   "scope": "./prayer-times-in-johannesburg.html",
   "display": "standalone",

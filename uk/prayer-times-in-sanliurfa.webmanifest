@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Şanlıurfa",
   "short_name": "Час намазу в Şanlıurfa",
   "description": "Сьогоднішній час намазу в Şanlıurfa, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Şanlıurfa.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sanliurfa.html",
+  "id": "/uk/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

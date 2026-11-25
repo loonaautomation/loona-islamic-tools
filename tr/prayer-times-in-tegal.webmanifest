@@ -2,7 +2,7 @@
   "name": "Loona Tegal Namaz Vakitleri",
   "short_name": "Tegal Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tegal, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tegal için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tegal.html",
+  "id": "/tr/prayer-times-in-tegal.html",
   "start_url": "./prayer-times-in-tegal.html",
   "scope": "./prayer-times-in-tegal.html",
   "display": "standalone",

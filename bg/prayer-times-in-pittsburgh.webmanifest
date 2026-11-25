@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pittsburgh",
   "short_name": "Часове за намаз в Pittsburgh",
   "description": "Днешните часове за намаз в Pittsburgh, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Pittsburgh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pittsburgh.html",
+  "id": "/bg/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

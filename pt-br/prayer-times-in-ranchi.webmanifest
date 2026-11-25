@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Ranchi",
   "short_name": "Horários de Oração em Ranchi",
   "description": "Horários de oração de hoje em Ranchi, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Ranchi.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-ranchi.html",
+  "id": "/pt-br/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

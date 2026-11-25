@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Detroit",
   "short_name": "Ώρες Προσευχής στο Detroit",
   "description": "Οι σημερινές ώρες προσευχής στο Detroit, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Detroit.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-detroit.html",
+  "id": "/el/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

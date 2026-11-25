@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Avadi",
   "short_name": "Gebedstijden in Avadi",
   "description": "De gebedstijden van vandaag in Avadi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Avadi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-avadi.html",
+  "id": "/nl/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

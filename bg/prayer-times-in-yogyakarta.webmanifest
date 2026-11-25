@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Yogyakarta",
   "short_name": "Часове за намаз в Yogyakarta",
   "description": "Днешните часове за намаз в Yogyakarta, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Yogyakarta.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-yogyakarta.html",
+  "id": "/bg/prayer-times-in-yogyakarta.html",
   "start_url": "./prayer-times-in-yogyakarta.html",
   "scope": "./prayer-times-in-yogyakarta.html",
   "display": "standalone",

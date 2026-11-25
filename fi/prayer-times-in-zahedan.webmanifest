@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Zahedan",
   "short_name": "Rukousajat: Zahedan",
   "description": "Tämän päivän rukousajat paikassa Zahedan, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Zahedan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-zahedan.html",
+  "id": "/fi/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

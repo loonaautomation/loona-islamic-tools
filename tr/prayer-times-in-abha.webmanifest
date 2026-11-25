@@ -2,7 +2,7 @@
   "name": "Loona Abha Namaz Vakitleri",
   "short_name": "Abha Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Abha, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Abha için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-abha.html",
+  "id": "/tr/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

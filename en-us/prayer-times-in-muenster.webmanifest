@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Münster Today",
   "short_name": "Prayer Times in Münster Today",
   "description": "Today's prayer times in Münster, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Münster.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-muenster.html",
+  "id": "/en-us/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

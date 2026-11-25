@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Thuqbah",
   "short_name": "Ώρες Προσευχής στο Thuqbah",
   "description": "Οι σημερινές ώρες προσευχής στο Thuqbah, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Thuqbah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-thuqbah.html",
+  "id": "/el/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

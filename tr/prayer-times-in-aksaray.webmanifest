@@ -2,7 +2,7 @@
   "name": "Loona Aksaray Namaz Vakitleri",
   "short_name": "Aksaray Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Aksaray, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Aksaray için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-aksaray.html",
+  "id": "/tr/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

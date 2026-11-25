@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Hisar",
   "short_name": "Gebedstijden in Hisar",
   "description": "De gebedstijden van vandaag in Hisar, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Hisar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-hisar.html",
+  "id": "/nl/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Çankaya",
   "short_name": "Gebetszeiten in Çankaya",
   "description": "Die heutigen Gebetszeiten in Çankaya, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Çankaya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cankaya.html",
+  "id": "/de/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

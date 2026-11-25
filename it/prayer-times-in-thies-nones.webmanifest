@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Thiès Nones",
   "short_name": "Orari di preghiera a Thiès Nones",
   "description": "Orari di preghiera di oggi a Thiès Nones, Senegal: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Thiès Nones.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-thies-nones.html",
+  "id": "/it/prayer-times-in-thies-nones.html",
   "start_url": "./prayer-times-in-thies-nones.html",
   "scope": "./prayer-times-in-thies-nones.html",
   "display": "standalone",

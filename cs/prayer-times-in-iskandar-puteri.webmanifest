@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Iskandar Puteri",
   "short_name": "Časy modliteb v Iskandar Puteri",
   "description": "Dnešní časy modliteb v Iskandar Puteri, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Iskandar Puteri.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-iskandar-puteri.html",
+  "id": "/cs/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

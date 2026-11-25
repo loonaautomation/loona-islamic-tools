@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Belfast",
   "short_name": "Gebetszeiten in Belfast",
   "description": "Die heutigen Gebetszeiten in Belfast, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Belfast.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-belfast.html",
+  "id": "/de/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

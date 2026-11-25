@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Konibodom",
   "short_name": "Waktu Salat di Konibodom",
   "description": "Waktu salat hari ini di Konibodom, Tajikistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Konibodom.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-konibodom.html",
+  "id": "/id/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

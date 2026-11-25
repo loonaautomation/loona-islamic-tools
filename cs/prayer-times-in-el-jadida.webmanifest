@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v El Jadida",
   "short_name": "Časy modliteb v El Jadida",
   "description": "Dnešní časy modliteb v El Jadida, Maroko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro El Jadida.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-el-jadida.html",
+  "id": "/cs/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

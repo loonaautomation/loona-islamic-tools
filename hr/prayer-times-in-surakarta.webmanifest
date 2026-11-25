@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Surakarta",
   "short_name": "Vremena namaza u gradu Surakarta",
   "description": "Današnja vremena namaza u gradu Surakarta, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Surakarta.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-surakarta.html",
+  "id": "/hr/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

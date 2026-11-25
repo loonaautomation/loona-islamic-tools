@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Saint Paul",
   "short_name": "Время намаза в городе Saint Paul",
   "description": "Время намаза на сегодня: Saint Paul, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Saint Paul.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-saint-paul.html",
+  "id": "/ru/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

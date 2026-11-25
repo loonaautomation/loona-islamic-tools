@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nasiriyah",
   "short_name": "Часове за намаз в Nasiriyah",
   "description": "Днешните часове за намаз в Nasiriyah, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Nasiriyah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nasiriyah.html",
+  "id": "/bg/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

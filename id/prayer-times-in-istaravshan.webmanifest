@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Istaravshan",
   "short_name": "Waktu Salat di Istaravshan",
   "description": "Waktu salat hari ini di Istaravshan, Tajikistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Istaravshan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-istaravshan.html",
+  "id": "/id/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

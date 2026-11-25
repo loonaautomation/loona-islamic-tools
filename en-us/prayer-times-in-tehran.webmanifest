@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tehran Today",
   "short_name": "Prayer Times in Tehran Today",
   "description": "Today's prayer times in Tehran, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tehran.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-tehran.html",
+  "id": "/en-us/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

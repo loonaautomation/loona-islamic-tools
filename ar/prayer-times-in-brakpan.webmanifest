@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Brakpan",
   "short_name": "مواقيت الصلاة في Brakpan",
   "description": "مواقيت الصلاة اليوم في Brakpan، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBrakpan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-brakpan.html",
+  "id": "/ar/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

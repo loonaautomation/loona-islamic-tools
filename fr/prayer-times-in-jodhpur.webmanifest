@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Jodhpur",
   "short_name": "Heures de prière à Jodhpur",
   "description": "Les heures de prière d’aujourd’hui à Jodhpur, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Jodhpur.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-jodhpur.html",
+  "id": "/fr/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gqeberha",
   "short_name": "Часове за намаз в Gqeberha",
   "description": "Днешните часове за намаз в Gqeberha, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gqeberha.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gqeberha.html",
+  "id": "/bg/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

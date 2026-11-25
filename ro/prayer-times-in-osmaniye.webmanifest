@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Osmaniye",
   "short_name": "Ore de rugăciune în Osmaniye",
   "description": "Orele de rugăciune de azi în Osmaniye, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Osmaniye.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-osmaniye.html",
+  "id": "/ro/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

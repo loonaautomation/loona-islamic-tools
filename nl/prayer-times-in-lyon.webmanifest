@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lyon",
   "short_name": "Gebedstijden in Lyon",
   "description": "De gebedstijden van vandaag in Lyon, Frankrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Lyon.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lyon.html",
+  "id": "/nl/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Naples",
   "short_name": "Время намаза в городе Naples",
   "description": "Время намаза на сегодня: Naples, Италия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Naples.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-naples.html",
+  "id": "/ru/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

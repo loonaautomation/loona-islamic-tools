@@ -2,7 +2,7 @@
   "name": "Loona Palu Namaz Vakitleri",
   "short_name": "Palu Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Palu, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Palu için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-palu.html",
+  "id": "/tr/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

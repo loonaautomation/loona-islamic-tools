@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cilacap",
   "short_name": "مواقيت الصلاة في Cilacap",
   "description": "مواقيت الصلاة اليوم في Cilacap، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCilacap.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cilacap.html",
+  "id": "/ar/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Baltimore",
   "short_name": "Bönetider i Baltimore",
   "description": "Dagens bönetider i Baltimore, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Baltimore.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-baltimore.html",
+  "id": "/sv/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

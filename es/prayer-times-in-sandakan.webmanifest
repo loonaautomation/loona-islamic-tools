@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Sandakan",
   "short_name": "Horarios de oración en Sandakan",
   "description": "Horarios de oración de hoy en Sandakan, Malasia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Sandakan.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-sandakan.html",
+  "id": "/es/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

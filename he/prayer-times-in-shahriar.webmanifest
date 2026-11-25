@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Shahrīār",
   "short_name": "זמני תפילה בעיר Shahrīār",
   "description": "זמני התפילה של היום בעיר Shahrīār, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Shahrīār.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-shahriar.html",
+  "id": "/he/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

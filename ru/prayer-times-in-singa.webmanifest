@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Singa",
   "short_name": "Время намаза в городе Singa",
   "description": "Время намаза на сегодня: Singa, Судан: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Singa.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-singa.html",
+  "id": "/ru/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

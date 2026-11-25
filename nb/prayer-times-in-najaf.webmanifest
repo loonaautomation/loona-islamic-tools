@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Najaf",
   "short_name": "Bønnetider i Najaf",
   "description": "Dagens bønnetider i Najaf, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Najaf.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-najaf.html",
+  "id": "/nb/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

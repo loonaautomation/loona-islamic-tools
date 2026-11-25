@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Okara",
   "short_name": "Ore de rugăciune în Okara",
   "description": "Orele de rugăciune de azi în Okara, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Okara.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-okara.html",
+  "id": "/ro/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

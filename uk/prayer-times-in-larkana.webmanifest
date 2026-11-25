@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Larkana",
   "short_name": "Час намазу в Larkana",
   "description": "Сьогоднішній час намазу в Larkana, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Larkana.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-larkana.html",
+  "id": "/uk/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

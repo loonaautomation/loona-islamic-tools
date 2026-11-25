@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mukalla",
   "short_name": "Bønnetider i Mukalla",
   "description": "Dagens bønnetider i Mukalla, Yemen: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Mukalla.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-mukalla.html",
+  "id": "/da/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

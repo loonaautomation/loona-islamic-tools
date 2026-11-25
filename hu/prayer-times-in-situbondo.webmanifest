@@ -2,7 +2,7 @@
   "name": "Loona Situbondo imaidői",
   "short_name": "Situbondo imaidői",
   "description": "A mai imaidők: Situbondo, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Situbondo számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-situbondo.html",
+  "id": "/hu/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

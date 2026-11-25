@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Cairo",
   "short_name": "Waktu Solat di Cairo",
   "description": "Waktu solat hari ini di Cairo, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Cairo.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-cairo.html",
+  "id": "/ms/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jūnāgadh imaidői",
   "short_name": "Jūnāgadh imaidői",
   "description": "A mai imaidők: Jūnāgadh, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Jūnāgadh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-junagadh.html",
+  "id": "/hu/prayer-times-in-junagadh.html",
   "start_url": "./prayer-times-in-junagadh.html",
   "scope": "./prayer-times-in-junagadh.html",
   "display": "standalone",

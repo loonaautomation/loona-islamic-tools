@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Belagavi",
   "short_name": "Часове за намаз в Belagavi",
   "description": "Днешните часове за намаз в Belagavi, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Belagavi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-belagavi.html",
+  "id": "/bg/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

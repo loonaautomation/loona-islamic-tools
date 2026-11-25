@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Manchester",
   "short_name": "Heures de prière à Manchester",
   "description": "Les heures de prière d’aujourd’hui à Manchester, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Manchester.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-manchester.html",
+  "id": "/fr/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

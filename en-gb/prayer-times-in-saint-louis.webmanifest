@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Saint-Louis Today",
   "short_name": "Prayer Times in Saint-Louis Today",
   "description": "Today's prayer times in Saint-Louis, Senegal: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Saint-Louis.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-saint-louis.html",
+  "id": "/en-gb/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

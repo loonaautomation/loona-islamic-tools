@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Balbala",
   "short_name": "Časy modliteb v Balbala",
   "description": "Dnešní časy modliteb v Balbala, Džibutsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Balbala.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-balbala.html",
+  "id": "/cs/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bremen",
   "short_name": "Gebetszeiten in Bremen",
   "description": "Die heutigen Gebetszeiten in Bremen, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bremen.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bremen.html",
+  "id": "/de/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

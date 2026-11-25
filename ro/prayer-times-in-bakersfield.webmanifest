@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bakersfield",
   "short_name": "Ore de rugăciune în Bakersfield",
   "description": "Orele de rugăciune de azi în Bakersfield, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Bakersfield.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bakersfield.html",
+  "id": "/ro/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

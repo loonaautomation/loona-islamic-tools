@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Navi Mumbai",
   "short_name": "Ώρες Προσευχής στο Navi Mumbai",
   "description": "Οι σημερινές ώρες προσευχής στο Navi Mumbai, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Navi Mumbai.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-navi-mumbai.html",
+  "id": "/el/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

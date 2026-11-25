@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Fes",
   "short_name": "Bønnetider i Fes",
   "description": "Dagens bønnetider i Fes, Marokko: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Fes.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-fes.html",
+  "id": "/nb/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

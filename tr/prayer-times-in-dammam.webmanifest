@@ -2,7 +2,7 @@
   "name": "Loona Dammam Namaz Vakitleri",
   "short_name": "Dammam Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dammam, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Dammam için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dammam.html",
+  "id": "/tr/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

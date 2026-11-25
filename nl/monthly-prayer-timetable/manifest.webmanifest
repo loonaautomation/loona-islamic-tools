@@ -2,7 +2,7 @@
   "name": "Loona Maandelijks gebedsrooster",
   "short_name": "Maandelijks gebedsrooster",
   "description": "Maak een printbaar maandelijks gebedsrooster voor elke stad: alle zes tijden voor de hele maand, met jouw berekeningsmethode en Asr-school, gratis en privé.",
-  "id": "/loona-islamic-tools/nl/monthly-prayer-timetable/",
+  "id": "/nl/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

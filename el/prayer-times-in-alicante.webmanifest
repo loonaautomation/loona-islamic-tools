@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Alicante",
   "short_name": "Ώρες Προσευχής στο Alicante",
   "description": "Οι σημερινές ώρες προσευχής στο Alicante, Ισπανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Alicante.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-alicante.html",
+  "id": "/el/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

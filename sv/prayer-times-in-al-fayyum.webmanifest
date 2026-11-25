@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Fayyum",
   "short_name": "Bönetider i Al Fayyum",
   "description": "Dagens bönetider i Al Fayyum, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Al Fayyum.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-fayyum.html",
+  "id": "/sv/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

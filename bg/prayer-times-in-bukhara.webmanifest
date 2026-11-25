@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bukhara",
   "short_name": "Часове за намаз в Bukhara",
   "description": "Днешните часове за намаз в Bukhara, Узбекистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bukhara.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bukhara.html",
+  "id": "/bg/prayer-times-in-bukhara.html",
   "start_url": "./prayer-times-in-bukhara.html",
   "scope": "./prayer-times-in-bukhara.html",
   "display": "standalone",

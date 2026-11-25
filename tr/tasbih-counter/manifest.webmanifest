@@ -2,7 +2,7 @@
   "name": "Loona Tesbih Sayacı",
   "short_name": "Tesbih Sayacı",
   "description": "Dijital bir tesbih sayacı: Sübhanallah, Elhamdülillah ve daha fazla hazır ayar, 33/99/100 hedefleri, tur takibi, titreşim ve cihazınıza kaydedilen ömür boyu toplamlar.",
-  "id": "/loona-islamic-tools/tr/tasbih-counter/",
+  "id": "/tr/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

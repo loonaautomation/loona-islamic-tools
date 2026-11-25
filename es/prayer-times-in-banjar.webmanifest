@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Banjar",
   "short_name": "Horarios de oración en Banjar",
   "description": "Horarios de oración de hoy en Banjar, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Banjar.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-banjar.html",
+  "id": "/es/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

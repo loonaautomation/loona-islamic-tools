@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Guwahati",
   "short_name": "Часове за намаз в Guwahati",
   "description": "Днешните часове за намаз в Guwahati, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Guwahati.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-guwahati.html",
+  "id": "/bg/prayer-times-in-guwahati.html",
   "start_url": "./prayer-times-in-guwahati.html",
   "scope": "./prayer-times-in-guwahati.html",
   "display": "standalone",

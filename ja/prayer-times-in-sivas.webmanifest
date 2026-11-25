@@ -2,7 +2,7 @@
   "name": "Loona Sivas の礼拝時刻",
   "short_name": "Sivas の礼拝時刻",
   "description": "Sivas（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Sivas についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sivas.html",
+  "id": "/ja/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

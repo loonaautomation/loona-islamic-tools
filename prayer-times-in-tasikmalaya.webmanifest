@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tasikmalaya",
   "short_name": "Prayer Times in Tasikmalaya",
   "description": "Today's prayer times in Tasikmalaya, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tasikmalaya.",
-  "id": "/loona-islamic-tools/prayer-times-in-tasikmalaya.html",
+  "id": "/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

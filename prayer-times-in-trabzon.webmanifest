@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Trabzon",
   "short_name": "Prayer Times in Trabzon",
   "description": "Today's prayer times in Trabzon, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Trabzon.",
-  "id": "/loona-islamic-tools/prayer-times-in-trabzon.html",
+  "id": "/prayer-times-in-trabzon.html",
   "start_url": "./prayer-times-in-trabzon.html",
   "scope": "./prayer-times-in-trabzon.html",
   "display": "standalone",

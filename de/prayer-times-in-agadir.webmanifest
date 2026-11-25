@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Agadir",
   "short_name": "Gebetszeiten in Agadir",
   "description": "Die heutigen Gebetszeiten in Agadir, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Agadir.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-agadir.html",
+  "id": "/de/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

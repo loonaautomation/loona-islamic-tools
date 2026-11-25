@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Singkawang",
   "short_name": "זמני תפילה בעיר Singkawang",
   "description": "זמני התפילה של היום בעיר Singkawang, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Singkawang.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-singkawang.html",
+  "id": "/he/prayer-times-in-singkawang.html",
   "start_url": "./prayer-times-in-singkawang.html",
   "scope": "./prayer-times-in-singkawang.html",
   "display": "standalone",

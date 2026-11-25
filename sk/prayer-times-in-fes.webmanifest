@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Fes",
   "short_name": "Časy modlitieb v Fes",
   "description": "Dnešné časy modlitieb v Fes, Maroko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Fes.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-fes.html",
+  "id": "/sk/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Karşıyaka",
   "short_name": "Bönetider i Karşıyaka",
   "description": "Dagens bönetider i Karşıyaka, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Karşıyaka.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-karsiyaka.html",
+  "id": "/sv/prayer-times-in-karsiyaka.html",
   "start_url": "./prayer-times-in-karsiyaka.html",
   "scope": "./prayer-times-in-karsiyaka.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Duas-bibliotek",
   "short_name": "Duas-bibliotek",
   "description": "Ett bibliotek med autentiska duas för varje ögonblick — morgon, mat, resa, hem, ångest, förlåtelse — var och en med arabiska, translitterering, översättning och källa.",
-  "id": "/loona-islamic-tools/sv/duas-library/",
+  "id": "/sv/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

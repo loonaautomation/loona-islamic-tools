@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Gauriganj",
   "short_name": "Prayer Times in Gauriganj",
   "description": "Today's prayer times in Gauriganj, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Gauriganj.",
-  "id": "/loona-islamic-tools/prayer-times-in-gauriganj.html",
+  "id": "/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

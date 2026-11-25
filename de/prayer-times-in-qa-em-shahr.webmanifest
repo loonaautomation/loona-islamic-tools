@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qā’em Shahr",
   "short_name": "Gebetszeiten in Qā’em Shahr",
   "description": "Die heutigen Gebetszeiten in Qā’em Shahr, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Qā’em Shahr.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qa-em-shahr.html",
+  "id": "/de/prayer-times-in-qa-em-shahr.html",
   "start_url": "./prayer-times-in-qa-em-shahr.html",
   "scope": "./prayer-times-in-qa-em-shahr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pittsburgh",
   "short_name": "Bønnetider i Pittsburgh",
   "description": "Dagens bønnetider i Pittsburgh, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Pittsburgh.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pittsburgh.html",
+  "id": "/nb/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

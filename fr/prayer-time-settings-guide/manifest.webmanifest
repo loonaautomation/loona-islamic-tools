@@ -2,7 +2,7 @@
   "name": "Loona Méthodes de calcul des heures de prière expliquées : Karachi, ISNA, MWL, hanafite ou chafiite",
   "short_name": "Méthodes de calcul des heures de prière",
   "description": "Un guide en langage simple du calcul des heures de prière : les angles crépusculaires pour Fajr et Isha, les cinq grandes méthodes, Asr hanafite ou chafiite, et les règles pour les hautes latitudes.",
-  "id": "/loona-islamic-tools/fr/prayer-time-settings-guide/",
+  "id": "/fr/prayer-time-settings-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

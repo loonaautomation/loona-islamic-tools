@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Muzaffarpur",
   "short_name": "Waktu Salat di Muzaffarpur",
   "description": "Waktu salat hari ini di Muzaffarpur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Muzaffarpur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-muzaffarpur.html",
+  "id": "/id/prayer-times-in-muzaffarpur.html",
   "start_url": "./prayer-times-in-muzaffarpur.html",
   "scope": "./prayer-times-in-muzaffarpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ar Raqqah",
   "short_name": "Gebedstijden in Ar Raqqah",
   "description": "De gebedstijden van vandaag in Ar Raqqah, Syrië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Ar Raqqah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ar-raqqah.html",
+  "id": "/nl/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

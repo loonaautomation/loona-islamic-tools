@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Paris",
   "short_name": "Rukousajat: Paris",
   "description": "Tämän päivän rukousajat paikassa Paris, Ranska: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Paris.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-paris.html",
+  "id": "/fi/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

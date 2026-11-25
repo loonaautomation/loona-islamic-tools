@@ -2,7 +2,7 @@
   "name": "Loona Algiers Namaz Vakitleri",
   "short_name": "Algiers Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Algiers, Cezayir: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Algiers için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-algiers.html",
+  "id": "/tr/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

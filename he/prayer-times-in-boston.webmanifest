@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Boston",
   "short_name": "זמני תפילה בעיר Boston",
   "description": "זמני התפילה של היום בעיר Boston, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Boston.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-boston.html",
+  "id": "/he/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

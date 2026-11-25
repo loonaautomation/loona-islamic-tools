@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Jember",
   "short_name": "Giờ cầu nguyện tại Jember",
   "description": "Giờ cầu nguyện hôm nay tại Jember, Indonesia: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Muslim World League, được tính trực tiếp trên thiết bị của bạn cho Jember.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-jember.html",
+  "id": "/vi/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

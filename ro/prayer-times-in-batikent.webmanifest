@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Batikent",
   "short_name": "Ore de rugăciune în Batikent",
   "description": "Orele de rugăciune de azi în Batikent, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Batikent.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-batikent.html",
+  "id": "/ro/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

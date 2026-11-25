@@ -2,7 +2,7 @@
   "name": "Loona Samsun Namaz Vakitleri",
   "short_name": "Samsun Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Samsun, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Samsun için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-samsun.html",
+  "id": "/tr/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

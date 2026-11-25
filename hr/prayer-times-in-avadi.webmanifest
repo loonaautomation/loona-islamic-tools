@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Avadi",
   "short_name": "Vremena namaza u gradu Avadi",
   "description": "Današnja vremena namaza u gradu Avadi, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Avadi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-avadi.html",
+  "id": "/hr/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

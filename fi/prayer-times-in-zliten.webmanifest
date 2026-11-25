@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Zliten",
   "short_name": "Rukousajat: Zliten",
   "description": "Tämän päivän rukousajat paikassa Zliten, Libya: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Zliten.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-zliten.html",
+  "id": "/fi/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sumedang",
   "short_name": "Bönetider i Sumedang",
   "description": "Dagens bönetider i Sumedang, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sumedang.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sumedang.html",
+  "id": "/sv/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

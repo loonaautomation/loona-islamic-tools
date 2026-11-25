@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i The Hague",
   "short_name": "Bønnetider i The Hague",
   "description": "Dagens bønnetider i The Hague, Nederland: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for The Hague.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-the-hague.html",
+  "id": "/nb/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

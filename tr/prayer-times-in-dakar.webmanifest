@@ -2,7 +2,7 @@
   "name": "Loona Dakar Namaz Vakitleri",
   "short_name": "Dakar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dakar, Senegal: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Dakar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dakar.html",
+  "id": "/tr/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

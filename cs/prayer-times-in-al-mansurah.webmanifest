@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Al Mansurah",
   "short_name": "Časy modliteb v Al Mansurah",
   "description": "Dnešní časy modliteb v Al Mansurah, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Al Mansurah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-al-mansurah.html",
+  "id": "/cs/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

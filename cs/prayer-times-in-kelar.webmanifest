@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kelar",
   "short_name": "Časy modliteb v Kelar",
   "description": "Dnešní časy modliteb v Kelar, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kelar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kelar.html",
+  "id": "/cs/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Leicester",
   "short_name": "Bönetider i Leicester",
   "description": "Dagens bönetider i Leicester, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Leicester.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-leicester.html",
+  "id": "/sv/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

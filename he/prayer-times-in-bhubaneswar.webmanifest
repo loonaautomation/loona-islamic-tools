@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhubaneswar",
   "short_name": "זמני תפילה בעיר Bhubaneswar",
   "description": "זמני התפילה של היום בעיר Bhubaneswar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhubaneswar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhubaneswar.html",
+  "id": "/he/prayer-times-in-bhubaneswar.html",
   "start_url": "./prayer-times-in-bhubaneswar.html",
   "scope": "./prayer-times-in-bhubaneswar.html",
   "display": "standalone",

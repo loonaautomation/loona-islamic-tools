@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sylhet",
   "short_name": "เวลาละหมาดใน Sylhet",
   "description": "เวลาละหมาดวันนี้ใน Sylhet, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sylhet",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sylhet.html",
+  "id": "/th/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

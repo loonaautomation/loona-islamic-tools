@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nottingham",
   "short_name": "זמני תפילה בעיר Nottingham",
   "description": "זמני התפילה של היום בעיר Nottingham, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Nottingham.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nottingham.html",
+  "id": "/he/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

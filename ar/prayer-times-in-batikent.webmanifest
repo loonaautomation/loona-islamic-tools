@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Batikent",
   "short_name": "مواقيت الصلاة في Batikent",
   "description": "مواقيت الصلاة اليوم في Batikent، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBatikent.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-batikent.html",
+  "id": "/ar/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

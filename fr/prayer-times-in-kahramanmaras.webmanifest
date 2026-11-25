@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kahramanmaraş",
   "short_name": "Heures de prière à Kahramanmaraş",
   "description": "Les heures de prière d’aujourd’hui à Kahramanmaraş, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kahramanmaraş.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kahramanmaras.html",
+  "id": "/fr/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Percut Namaz Vakitleri",
   "short_name": "Percut Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Percut, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Percut için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-percut.html",
+  "id": "/tr/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

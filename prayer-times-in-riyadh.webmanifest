@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Riyadh",
   "short_name": "Prayer Times in Riyadh",
   "description": "Today's prayer times in Riyadh, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Riyadh.",
-  "id": "/loona-islamic-tools/prayer-times-in-riyadh.html",
+  "id": "/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

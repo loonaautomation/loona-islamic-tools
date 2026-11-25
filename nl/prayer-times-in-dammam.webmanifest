@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dammam",
   "short_name": "Gebedstijden in Dammam",
   "description": "De gebedstijden van vandaag in Dammam, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Dammam.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dammam.html",
+  "id": "/nl/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Akola Namaz Vakitleri",
   "short_name": "Akola Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Akola, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Akola için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-akola.html",
+  "id": "/tr/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

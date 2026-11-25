@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Salem",
   "short_name": "เวลาละหมาดใน Salem",
   "description": "เวลาละหมาดวันนี้ใน Salem, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Salem",
-  "id": "/loona-islamic-tools/th/prayer-times-in-salem.html",
+  "id": "/th/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

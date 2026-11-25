@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kanayannur",
   "short_name": "مواقيت الصلاة في Kanayannur",
   "description": "مواقيت الصلاة اليوم في Kanayannur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKanayannur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kanayannur.html",
+  "id": "/ar/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

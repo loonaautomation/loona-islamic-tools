@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nashville",
   "short_name": "Bønnetider i Nashville",
   "description": "Dagens bønnetider i Nashville, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Nashville.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-nashville.html",
+  "id": "/da/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

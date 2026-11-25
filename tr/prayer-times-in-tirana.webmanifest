@@ -2,7 +2,7 @@
   "name": "Loona Tirana Namaz Vakitleri",
   "short_name": "Tirana Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tirana, Arnavutluk: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tirana için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tirana.html",
+  "id": "/tr/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

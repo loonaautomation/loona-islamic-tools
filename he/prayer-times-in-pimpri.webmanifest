@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pimpri",
   "short_name": "זמני תפילה בעיר Pimpri",
   "description": "זמני התפילה של היום בעיר Pimpri, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Pimpri.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pimpri.html",
+  "id": "/he/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona قائمة العمرة",
   "short_name": "قائمة العمرة",
   "description": "قائمة عمرة تفاعلية: المستندات والحجوزات والتعبئة والصحة والاستعداد للعبادة، مع شريط تقدم وخيار طباعة وتقدم محفوظ على جهازك.",
-  "id": "/loona-islamic-tools/ar/umrah-checklist/",
+  "id": "/ar/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sialkot",
   "short_name": "مواقيت الصلاة في Sialkot",
   "description": "مواقيت الصلاة اليوم في Sialkot، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSialkot.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sialkot.html",
+  "id": "/ar/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sehri- & Iftar-tid i dag",
   "short_name": "Sehri- & Iftar-tid i dag",
   "description": "Dagens Sehri-slutt (Fajr) og Iftar (Maghrib) for byen din med direkte nedtelling til den neste. Karachi-metoden, Hanafi Asr som standard, justerbar.",
-  "id": "/loona-islamic-tools/nb/sehri-iftar-today/",
+  "id": "/nb/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

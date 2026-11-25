@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Khouribga",
   "short_name": "Bønnetider i Khouribga",
   "description": "Dagens bønnetider i Khouribga, Marokko: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Khouribga.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-khouribga.html",
+  "id": "/da/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

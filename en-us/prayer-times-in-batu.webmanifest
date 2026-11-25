@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Batu Today",
   "short_name": "Prayer Times in Batu Today",
   "description": "Today's prayer times in Batu, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Batu.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-batu.html",
+  "id": "/en-us/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

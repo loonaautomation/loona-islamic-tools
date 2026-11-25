@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Surabaya",
   "short_name": "Bönetider i Surabaya",
   "description": "Dagens bönetider i Surabaya, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Surabaya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-surabaya.html",
+  "id": "/sv/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

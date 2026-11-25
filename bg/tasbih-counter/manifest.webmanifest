@@ -2,7 +2,7 @@
   "name": "Loona Брояч тасбих",
   "short_name": "Брояч тасбих",
   "description": "Дигитален брояч за тасбих: SubhanAllah, Alhamdulillah и още предварителни настройки, цели 33/99/100, проследяване на кръгове, вибрация и доживотни общи бройки, запазени на вашето устройство.",
-  "id": "/loona-islamic-tools/bg/tasbih-counter/",
+  "id": "/bg/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

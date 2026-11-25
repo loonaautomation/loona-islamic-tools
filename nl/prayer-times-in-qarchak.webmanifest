@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Qarchak",
   "short_name": "Gebedstijden in Qarchak",
   "description": "De gebedstijden van vandaag in Qarchak, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Qarchak.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-qarchak.html",
+  "id": "/nl/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

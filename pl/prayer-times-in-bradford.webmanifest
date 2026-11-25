@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Bradford",
   "short_name": "Czasy modlitw w miejscowości Bradford",
   "description": "Dzisiejsze czasy modlitw w miejscowości Bradford, kraj Wielka Brytania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Bradford.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-bradford.html",
+  "id": "/pl/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Makkah",
   "short_name": "Prayer Times in Makkah",
   "description": "Today's prayer times in Makkah, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Makkah.",
-  "id": "/loona-islamic-tools/prayer-times-in-makkah.html",
+  "id": "/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

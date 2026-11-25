@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Fresno",
   "short_name": "Часове за намаз в Fresno",
   "description": "Днешните часове за намаз в Fresno, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Fresno.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-fresno.html",
+  "id": "/bg/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

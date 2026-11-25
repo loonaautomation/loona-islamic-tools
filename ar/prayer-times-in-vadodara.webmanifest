@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Vadodara",
   "short_name": "مواقيت الصلاة في Vadodara",
   "description": "مواقيت الصلاة اليوم في Vadodara، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـVadodara.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-vadodara.html",
+  "id": "/ar/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

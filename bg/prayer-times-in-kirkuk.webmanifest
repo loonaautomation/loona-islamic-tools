@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kirkuk",
   "short_name": "Часове за намаз в Kirkuk",
   "description": "Днешните часове за намаз в Kirkuk, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kirkuk.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kirkuk.html",
+  "id": "/bg/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

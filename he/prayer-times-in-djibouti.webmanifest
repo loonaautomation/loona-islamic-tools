@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה ב-Djibouti",
   "short_name": "זמני תפילה ב-Djibouti",
   "description": "זמני התפילה של היום בג'יבוטי, ג'יבוטי: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור ג'יבוטי.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-djibouti.html",
+  "id": "/he/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

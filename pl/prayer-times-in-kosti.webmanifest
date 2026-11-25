@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kosti",
   "short_name": "Czasy modlitw w miejscowości Kosti",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kosti, kraj Sudan: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kosti.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kosti.html",
+  "id": "/pl/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

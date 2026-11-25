@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Cuttack",
   "short_name": "Časy modliteb v Cuttack",
   "description": "Dnešní časy modliteb v Cuttack, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Cuttack.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-cuttack.html",
+  "id": "/cs/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

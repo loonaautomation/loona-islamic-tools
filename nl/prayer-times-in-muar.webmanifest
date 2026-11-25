@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Muar",
   "short_name": "Gebedstijden in Muar",
   "description": "De gebedstijden van vandaag in Muar, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Muar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-muar.html",
+  "id": "/nl/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

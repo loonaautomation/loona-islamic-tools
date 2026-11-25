@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Cairo",
   "short_name": "เวลาละหมาดใน Cairo",
   "description": "เวลาละหมาดวันนี้ใน Cairo, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Cairo",
-  "id": "/loona-islamic-tools/th/prayer-times-in-cairo.html",
+  "id": "/th/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

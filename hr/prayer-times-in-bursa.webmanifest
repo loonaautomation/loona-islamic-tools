@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bursa",
   "short_name": "Vremena namaza u gradu Bursa",
   "description": "Današnja vremena namaza u gradu Bursa, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bursa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bursa.html",
+  "id": "/hr/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

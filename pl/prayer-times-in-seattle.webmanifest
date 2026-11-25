@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Seattle",
   "short_name": "Czasy modlitw w miejscowości Seattle",
   "description": "Dzisiejsze czasy modlitw w miejscowości Seattle, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Seattle.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-seattle.html",
+  "id": "/pl/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

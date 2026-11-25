@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Yazd",
   "short_name": "Orari di preghiera a Yazd",
   "description": "Orari di preghiera di oggi a Yazd, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Yazd.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-yazd.html",
+  "id": "/it/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

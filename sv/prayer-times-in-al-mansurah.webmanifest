@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Mansurah",
   "short_name": "Bönetider i Al Mansurah",
   "description": "Dagens bönetider i Al Mansurah, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Al Mansurah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-mansurah.html",
+  "id": "/sv/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Osh",
   "short_name": "Rukousajat: Osh",
   "description": "Tämän päivän rukousajat paikassa Osh, Kirgisia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Osh.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-osh.html",
+  "id": "/fi/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

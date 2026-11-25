@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ajmer",
   "short_name": "Waktu Salat di Ajmer",
   "description": "Waktu salat hari ini di Ajmer, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Ajmer.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ajmer.html",
+  "id": "/id/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

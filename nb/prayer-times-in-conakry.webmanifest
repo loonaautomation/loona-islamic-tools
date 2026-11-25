@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Conakry",
   "short_name": "Bønnetider i Conakry",
   "description": "Dagens bønnetider i Conakry, Guinea: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Conakry.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-conakry.html",
+  "id": "/nb/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

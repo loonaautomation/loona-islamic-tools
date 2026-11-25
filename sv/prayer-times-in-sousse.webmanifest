@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sousse",
   "short_name": "Bönetider i Sousse",
   "description": "Dagens bönetider i Sousse, Tunisien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sousse.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sousse.html",
+  "id": "/sv/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

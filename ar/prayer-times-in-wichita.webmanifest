@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Wichita",
   "short_name": "مواقيت الصلاة في Wichita",
   "description": "مواقيت الصلاة اليوم في Wichita، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـWichita.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-wichita.html",
+  "id": "/ar/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

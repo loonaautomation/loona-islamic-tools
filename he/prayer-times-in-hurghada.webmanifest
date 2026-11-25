@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hurghada",
   "short_name": "זמני תפילה בעיר Hurghada",
   "description": "זמני התפילה של היום בעיר Hurghada, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Hurghada.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hurghada.html",
+  "id": "/he/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

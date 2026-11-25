@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Málaga",
   "short_name": "Vremena namaza u gradu Málaga",
   "description": "Današnja vremena namaza u gradu Málaga, Španjolska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Málaga.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-malaga.html",
+  "id": "/hr/prayer-times-in-malaga.html",
   "start_url": "./prayer-times-in-malaga.html",
   "scope": "./prayer-times-in-malaga.html",
   "display": "standalone",

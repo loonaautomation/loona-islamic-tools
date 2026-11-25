@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Winnipeg",
   "short_name": "Gebedstijden in Winnipeg",
   "description": "De gebedstijden van vandaag in Winnipeg, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Winnipeg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-winnipeg.html",
+  "id": "/nl/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

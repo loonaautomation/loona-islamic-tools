@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Sétif",
   "short_name": "Heures de prière à Sétif",
   "description": "Les heures de prière d’aujourd’hui à Sétif, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Sétif.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-setif.html",
+  "id": "/fr/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

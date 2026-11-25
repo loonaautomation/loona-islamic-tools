@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Wandsbek Today",
   "short_name": "Prayer Times in Wandsbek Today",
   "description": "Today's prayer times in Wandsbek, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Wandsbek.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-wandsbek.html",
+  "id": "/en-us/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

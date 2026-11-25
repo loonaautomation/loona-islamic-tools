@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Raipur",
   "short_name": "Časy modlitieb v Raipur",
   "description": "Dnešné časy modlitieb v Raipur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Raipur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-raipur.html",
+  "id": "/sk/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

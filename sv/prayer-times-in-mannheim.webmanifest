@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mannheim",
   "short_name": "Bönetider i Mannheim",
   "description": "Dagens bönetider i Mannheim, Tyskland: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mannheim.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mannheim.html",
+  "id": "/sv/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ras Al Khaimah",
   "short_name": "Bönetider i Ras Al Khaimah",
   "description": "Dagens bönetider i Ras Al Khaimah, Förenade Arabemiraten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Umm al-Qura-metoden, beräknad live på din enhet för Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ras-al-khaimah.html",
+  "id": "/sv/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

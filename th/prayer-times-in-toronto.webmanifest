@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Toronto",
   "short_name": "เวลาละหมาดใน Toronto",
   "description": "เวลาละหมาดวันนี้ใน Toronto, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Toronto",
-  "id": "/loona-islamic-tools/th/prayer-times-in-toronto.html",
+  "id": "/th/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sylhet",
   "short_name": "Gebedstijden in Sylhet",
   "description": "De gebedstijden van vandaag in Sylhet, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sylhet.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sylhet.html",
+  "id": "/nl/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

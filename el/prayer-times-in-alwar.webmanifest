@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Alwar",
   "short_name": "Ώρες Προσευχής στο Alwar",
   "description": "Οι σημερινές ώρες προσευχής στο Alwar, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Alwar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-alwar.html",
+  "id": "/el/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Diyarbakır",
   "short_name": "Часове за намаз в Diyarbakır",
   "description": "Днешните часове за намаз в Diyarbakır, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Diyarbakır.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-diyarbakir.html",
+  "id": "/bg/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

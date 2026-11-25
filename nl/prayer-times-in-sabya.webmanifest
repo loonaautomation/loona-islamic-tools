@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Şabyā",
   "short_name": "Gebedstijden in Şabyā",
   "description": "De gebedstijden van vandaag in Şabyā, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Şabyā.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sabya.html",
+  "id": "/nl/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

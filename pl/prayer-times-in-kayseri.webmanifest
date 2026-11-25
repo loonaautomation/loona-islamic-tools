@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kayseri",
   "short_name": "Czasy modlitw w miejscowości Kayseri",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kayseri, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kayseri.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kayseri.html",
+  "id": "/pl/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

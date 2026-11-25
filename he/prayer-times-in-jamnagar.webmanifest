@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jamnagar",
   "short_name": "זמני תפילה בעיר Jamnagar",
   "description": "זמני התפילה של היום בעיר Jamnagar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jamnagar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jamnagar.html",
+  "id": "/he/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

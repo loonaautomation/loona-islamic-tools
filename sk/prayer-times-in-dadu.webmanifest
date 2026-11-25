@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Dadu",
   "short_name": "Časy modlitieb v Dadu",
   "description": "Dnešné časy modlitieb v Dadu, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Dadu.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-dadu.html",
+  "id": "/sk/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

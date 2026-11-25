@@ -2,7 +2,7 @@
   "name": "Loona دعاؤں کی لائبریری",
   "short_name": "دعاؤں کی لائبریری",
   "description": "ہر موقع کے لیے مستند دعاؤں کی لائبریری — صبح، کھانا، سفر، گھر، پریشانی، مغفرت — ہر دعا عربی، تلفظ، ترجمے اور حوالے کے ساتھ۔",
-  "id": "/loona-islamic-tools/ur/duas-library/",
+  "id": "/ur/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

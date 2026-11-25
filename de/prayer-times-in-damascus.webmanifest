@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Damascus",
   "short_name": "Gebetszeiten in Damascus",
   "description": "Die heutigen Gebetszeiten in Damascus, Syrien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Damascus.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-damascus.html",
+  "id": "/de/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

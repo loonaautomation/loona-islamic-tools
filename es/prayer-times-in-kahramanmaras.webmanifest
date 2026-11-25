@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kahramanmaraş",
   "short_name": "Horarios de oración en Kahramanmaraş",
   "description": "Horarios de oración de hoy en Kahramanmaraş, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Kahramanmaraş.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kahramanmaras.html",
+  "id": "/es/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

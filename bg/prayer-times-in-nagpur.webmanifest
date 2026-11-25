@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nagpur",
   "short_name": "Часове за намаз в Nagpur",
   "description": "Днешните часове за намаз в Nagpur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Nagpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nagpur.html",
+  "id": "/bg/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

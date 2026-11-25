@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cincinnati",
   "short_name": "مواقيت الصلاة في Cincinnati",
   "description": "مواقيت الصلاة اليوم في Cincinnati، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـCincinnati.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cincinnati.html",
+  "id": "/ar/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

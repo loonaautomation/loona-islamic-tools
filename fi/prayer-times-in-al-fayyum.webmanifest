@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Al Fayyum",
   "short_name": "Rukousajat: Al Fayyum",
   "description": "Tämän päivän rukousajat paikassa Al Fayyum, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Al Fayyum.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-al-fayyum.html",
+  "id": "/fi/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

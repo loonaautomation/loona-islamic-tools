@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Elazığ",
   "short_name": "Časy modliteb v Elazığ",
   "description": "Dnešní časy modliteb v Elazığ, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Elazığ.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-elazig.html",
+  "id": "/cs/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Osh",
   "short_name": "Bönetider i Osh",
   "description": "Dagens bönetider i Osh, Kirgizistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Osh.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-osh.html",
+  "id": "/sv/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

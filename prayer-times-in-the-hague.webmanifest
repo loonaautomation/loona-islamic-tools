@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in The Hague",
   "short_name": "Prayer Times in The Hague",
   "description": "Today's prayer times in The Hague, Netherlands: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for The Hague.",
-  "id": "/loona-islamic-tools/prayer-times-in-the-hague.html",
+  "id": "/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

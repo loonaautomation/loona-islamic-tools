@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Antakya",
   "short_name": "זמני תפילה בעיר Antakya",
   "description": "זמני התפילה של היום בעיר Antakya, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Antakya.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-antakya.html",
+  "id": "/he/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

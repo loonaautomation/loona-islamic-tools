@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Adapazarı",
   "short_name": "Gebedstijden in Adapazarı",
   "description": "De gebedstijden van vandaag in Adapazarı, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Adapazarı.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-adapazari.html",
+  "id": "/nl/prayer-times-in-adapazari.html",
   "start_url": "./prayer-times-in-adapazari.html",
   "scope": "./prayer-times-in-adapazari.html",
   "display": "standalone",

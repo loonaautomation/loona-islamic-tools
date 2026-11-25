@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Loa Janan",
   "short_name": "Часове за намаз в Loa Janan",
   "description": "Днешните часове за намаз в Loa Janan, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Loa Janan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-loa-janan.html",
+  "id": "/bg/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

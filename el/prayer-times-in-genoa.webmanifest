@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Genoa",
   "short_name": "Ώρες Προσευχής στο Genoa",
   "description": "Οι σημερινές ώρες προσευχής στο Genoa, Ιταλία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Genoa.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-genoa.html",
+  "id": "/el/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

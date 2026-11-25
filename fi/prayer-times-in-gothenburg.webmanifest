@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Gothenburg",
   "short_name": "Rukousajat: Gothenburg",
   "description": "Tämän päivän rukousajat paikassa Gothenburg, Ruotsi: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Gothenburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-gothenburg.html",
+  "id": "/fi/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

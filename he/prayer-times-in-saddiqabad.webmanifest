@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Saddiqabad",
   "short_name": "זמני תפילה בעיר Saddiqabad",
   "description": "זמני התפילה של היום בעיר Saddiqabad, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Saddiqabad.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-saddiqabad.html",
+  "id": "/he/prayer-times-in-saddiqabad.html",
   "start_url": "./prayer-times-in-saddiqabad.html",
   "scope": "./prayer-times-in-saddiqabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tumkūr的禮拜時間",
   "short_name": "Tumkūr的禮拜時間",
   "description": "Tumkūr（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Tumkūr實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-tumkur.html",
+  "id": "/zh-hant/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

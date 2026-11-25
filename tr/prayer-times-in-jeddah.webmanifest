@@ -2,7 +2,7 @@
   "name": "Loona Jeddah Namaz Vakitleri",
   "short_name": "Jeddah Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Jeddah, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Jeddah için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-jeddah.html",
+  "id": "/tr/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

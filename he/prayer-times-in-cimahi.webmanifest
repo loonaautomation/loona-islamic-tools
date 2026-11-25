@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cimahi",
   "short_name": "זמני תפילה בעיר Cimahi",
   "description": "זמני התפילה של היום בעיר Cimahi, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Cimahi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cimahi.html",
+  "id": "/he/prayer-times-in-cimahi.html",
   "start_url": "./prayer-times-in-cimahi.html",
   "scope": "./prayer-times-in-cimahi.html",
   "display": "standalone",

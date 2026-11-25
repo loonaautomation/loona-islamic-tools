@@ -2,7 +2,7 @@
   "name": "Loona Duák könyvtára",
   "short_name": "Duák könyvtára",
   "description": "Hiteles duák gyűjteménye minden pillanatra — reggel, étkezés, utazás, otthon, szorongás, megbocsátás — mindegyik arab szöveggel, átírással, fordítással és forrással.",
-  "id": "/loona-islamic-tools/hu/duas-library/",
+  "id": "/hu/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

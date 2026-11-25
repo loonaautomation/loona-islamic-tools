@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Patna",
   "short_name": "Heures de prière à Patna",
   "description": "Les heures de prière d’aujourd’hui à Patna, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Patna.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-patna.html",
+  "id": "/fr/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

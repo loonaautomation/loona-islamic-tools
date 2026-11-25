@@ -2,7 +2,7 @@
   "name": "Loona سورت میں نماز کے اوقات",
   "short_name": "سورت میں نماز کے اوقات",
   "description": "سورت، بھارت میں آج کے نماز اوقات: فجر، طلوعِ آفتاب، ظہر، عصر (حنفی)، مغرب اور عشاء، نیز قبلے کی سمت اور آج کی ہجری تاریخ۔ کراچی طریقہ، آپ کی ڈیوائس پر لائیو حساب شدہ برائے سورت۔",
-  "id": "/loona-islamic-tools/ur/prayer-times-in-surat.html",
+  "id": "/ur/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

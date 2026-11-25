@@ -2,7 +2,7 @@
   "name": "Loona New Orleans的禮拜時間",
   "short_name": "New Orleans的禮拜時間",
   "description": "New Orleans（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為New Orleans實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-new-orleans.html",
+  "id": "/zh-hant/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Damascus",
   "short_name": "Horarios de oración en Damascus",
   "description": "Horarios de oración de hoy en Damascus, Siria: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Damascus.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-damascus.html",
+  "id": "/es/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

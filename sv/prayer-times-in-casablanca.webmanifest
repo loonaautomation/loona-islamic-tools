@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Casablanca",
   "short_name": "Bönetider i Casablanca",
   "description": "Dagens bönetider i Casablanca, Marocko: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Casablanca.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-casablanca.html",
+  "id": "/sv/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

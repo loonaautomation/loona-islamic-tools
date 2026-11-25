@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Detroit",
   "short_name": "Vremena namaza u gradu Detroit",
   "description": "Današnja vremena namaza u gradu Detroit, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Detroit.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-detroit.html",
+  "id": "/hr/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

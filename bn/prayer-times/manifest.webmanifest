@@ -2,7 +2,7 @@
   "name": "Loona আজকের নামাজের সময়",
   "short_name": "আজকের নামাজের সময়",
   "description": "যেকোনো শহরের জন্য আজকের ফজর, যোহর, আসর, মাগরিব ও এশার নামাজের সময় পান: Karachi, ISNA, MWL ও আরও পদ্ধতি, হানাফি বা শাফেয়ি আসর, সঠিক স্থানাঙ্ক সমর্থিত।",
-  "id": "/loona-islamic-tools/bn/prayer-times/",
+  "id": "/bn/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

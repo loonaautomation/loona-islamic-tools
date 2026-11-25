@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Biskra",
   "short_name": "Bönetider i Biskra",
   "description": "Dagens bönetider i Biskra, Algeriet: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Biskra.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-biskra.html",
+  "id": "/sv/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

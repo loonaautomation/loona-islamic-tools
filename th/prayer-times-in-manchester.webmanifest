@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Manchester",
   "short_name": "เวลาละหมาดใน Manchester",
   "description": "เวลาละหมาดวันนี้ใน Manchester, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Manchester",
-  "id": "/loona-islamic-tools/th/prayer-times-in-manchester.html",
+  "id": "/th/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

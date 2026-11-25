@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Augsburg",
   "short_name": "Rukousajat: Augsburg",
   "description": "Tämän päivän rukousajat paikassa Augsburg, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Augsburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-augsburg.html",
+  "id": "/fi/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

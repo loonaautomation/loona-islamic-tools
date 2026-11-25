@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jhang Sadr",
   "short_name": "مواقيت الصلاة في Jhang Sadr",
   "description": "مواقيت الصلاة اليوم في Jhang Sadr، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJhang Sadr.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jhang-sadr.html",
+  "id": "/ar/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Chandigarh",
   "short_name": "Bønnetider i Chandigarh",
   "description": "Dagens bønnetider i Chandigarh, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Chandigarh.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-chandigarh.html",
+  "id": "/nb/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

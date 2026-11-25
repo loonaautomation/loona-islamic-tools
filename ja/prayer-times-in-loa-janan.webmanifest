@@ -2,7 +2,7 @@
   "name": "Loona Loa Janan の礼拝時刻",
   "short_name": "Loa Janan の礼拝時刻",
   "description": "Loa Janan（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Loa Janan についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-loa-janan.html",
+  "id": "/ja/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

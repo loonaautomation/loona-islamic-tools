@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nuremberg Today",
   "short_name": "Prayer Times in Nuremberg Today",
   "description": "Today's prayer times in Nuremberg, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nuremberg.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-nuremberg.html",
+  "id": "/en-gb/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

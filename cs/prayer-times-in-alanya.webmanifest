@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Alanya",
   "short_name": "Časy modliteb v Alanya",
   "description": "Dnešní časy modliteb v Alanya, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Alanya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-alanya.html",
+  "id": "/cs/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

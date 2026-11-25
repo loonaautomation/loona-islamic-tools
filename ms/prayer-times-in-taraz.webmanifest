@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Taraz",
   "short_name": "Waktu Solat di Taraz",
   "description": "Waktu solat hari ini di Taraz, Kazakhstan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Taraz.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-taraz.html",
+  "id": "/ms/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

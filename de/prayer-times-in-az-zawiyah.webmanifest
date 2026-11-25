@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Az Zāwīyah",
   "short_name": "Gebetszeiten in Az Zāwīyah",
   "description": "Die heutigen Gebetszeiten in Az Zāwīyah, Libyen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Az Zāwīyah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-az-zawiyah.html",
+  "id": "/de/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

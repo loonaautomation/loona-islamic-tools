@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bandung",
   "short_name": "זמני תפילה בעיר Bandung",
   "description": "זמני התפילה של היום בעיר Bandung, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bandung.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bandung.html",
+  "id": "/he/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

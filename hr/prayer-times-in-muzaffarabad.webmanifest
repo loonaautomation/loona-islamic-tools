@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Muzaffarābād",
   "short_name": "Vremena namaza u gradu Muzaffarābād",
   "description": "Današnja vremena namaza u gradu Muzaffarābād, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Muzaffarābād.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-muzaffarabad.html",
+  "id": "/hr/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

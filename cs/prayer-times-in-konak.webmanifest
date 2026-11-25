@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Konak",
   "short_name": "Časy modliteb v Konak",
   "description": "Dnešní časy modliteb v Konak, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Konak.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-konak.html",
+  "id": "/cs/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

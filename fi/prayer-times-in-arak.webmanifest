@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Arāk",
   "short_name": "Rukousajat: Arāk",
   "description": "Tämän päivän rukousajat paikassa Arāk, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Arāk.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-arak.html",
+  "id": "/fi/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

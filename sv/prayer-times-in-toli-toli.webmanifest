@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Toli-Toli",
   "short_name": "Bönetider i Toli-Toli",
   "description": "Dagens bönetider i Toli-Toli, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Toli-Toli.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-toli-toli.html",
+  "id": "/sv/prayer-times-in-toli-toli.html",
   "start_url": "./prayer-times-in-toli-toli.html",
   "scope": "./prayer-times-in-toli-toli.html",
   "display": "standalone",

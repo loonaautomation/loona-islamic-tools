@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Konak Today",
   "short_name": "Prayer Times in Konak Today",
   "description": "Today's prayer times in Konak, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Konak.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-konak.html",
+  "id": "/en-us/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona 今日禮拜時間",
   "short_name": "今日禮拜時間",
   "description": "獲取任何城市今天的Fajr、Dhuhr、Asr、Maghrib和Isha禮拜時間：Karachi、ISNA、MWL等多種方法，Hanafi或Shafi的Asr，支援確切座標。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times/",
+  "id": "/zh-hant/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

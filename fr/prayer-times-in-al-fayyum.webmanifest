@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Al Fayyum",
   "short_name": "Heures de prière à Al Fayyum",
   "description": "Les heures de prière d’aujourd’hui à Al Fayyum, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Al Fayyum.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-al-fayyum.html",
+  "id": "/fr/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

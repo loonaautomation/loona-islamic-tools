@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Afyonkarahisar",
   "short_name": "Bönetider i Afyonkarahisar",
   "description": "Dagens bönetider i Afyonkarahisar, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Afyonkarahisar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-afyonkarahisar.html",
+  "id": "/sv/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

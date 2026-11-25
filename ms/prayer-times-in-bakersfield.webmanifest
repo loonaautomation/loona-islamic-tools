@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bakersfield",
   "short_name": "Waktu Solat di Bakersfield",
   "description": "Waktu solat hari ini di Bakersfield, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Bakersfield.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bakersfield.html",
+  "id": "/ms/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

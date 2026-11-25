@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Zinder",
   "short_name": "เวลาละหมาดใน Zinder",
   "description": "เวลาละหมาดวันนี้ใน Zinder, Niger: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Zinder",
-  "id": "/loona-islamic-tools/th/prayer-times-in-zinder.html",
+  "id": "/th/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

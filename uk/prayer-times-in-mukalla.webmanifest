@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mukalla",
   "short_name": "Час намазу в Mukalla",
   "description": "Сьогоднішній час намазу в Mukalla, Ємен: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Mukalla.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mukalla.html",
+  "id": "/uk/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

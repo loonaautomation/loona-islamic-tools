@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kansas City",
   "short_name": "Horarios de oración en Kansas City",
   "description": "Horarios de oración de hoy en Kansas City, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Kansas City.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kansas-city.html",
+  "id": "/es/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

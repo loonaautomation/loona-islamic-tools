@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Batu",
   "short_name": "Ore de rugăciune în Batu",
   "description": "Orele de rugăciune de azi în Batu, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Batu.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-batu.html",
+  "id": "/ro/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

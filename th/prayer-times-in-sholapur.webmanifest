@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sholapur",
   "short_name": "เวลาละหมาดใน Sholapur",
   "description": "เวลาละหมาดวันนี้ใน Sholapur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sholapur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sholapur.html",
+  "id": "/th/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

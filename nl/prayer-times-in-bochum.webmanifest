@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bochum",
   "short_name": "Gebedstijden in Bochum",
   "description": "De gebedstijden van vandaag in Bochum, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bochum.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bochum.html",
+  "id": "/nl/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

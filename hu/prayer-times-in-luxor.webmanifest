@@ -2,7 +2,7 @@
   "name": "Loona Luxor imaidői",
   "short_name": "Luxor imaidői",
   "description": "A mai imaidők: Luxor, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Luxor számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-luxor.html",
+  "id": "/hu/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

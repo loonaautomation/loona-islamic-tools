@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Srinagar",
   "short_name": "เวลาละหมาดใน Srinagar",
   "description": "เวลาละหมาดวันนี้ใน Srinagar, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Srinagar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-srinagar.html",
+  "id": "/th/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

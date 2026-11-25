@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Karnāl",
   "short_name": "Waktu Salat di Karnāl",
   "description": "Waktu salat hari ini di Karnāl, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Karnāl.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-karnal.html",
+  "id": "/id/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

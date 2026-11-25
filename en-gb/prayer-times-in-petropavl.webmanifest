@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Petropavl Today",
   "short_name": "Prayer Times in Petropavl Today",
   "description": "Today's prayer times in Petropavl, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Petropavl.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-petropavl.html",
+  "id": "/en-gb/prayer-times-in-petropavl.html",
   "start_url": "./prayer-times-in-petropavl.html",
   "scope": "./prayer-times-in-petropavl.html",
   "display": "standalone",

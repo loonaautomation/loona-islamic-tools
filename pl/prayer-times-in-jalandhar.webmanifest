@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Jalandhar",
   "short_name": "Czasy modlitw w miejscowości Jalandhar",
   "description": "Dzisiejsze czasy modlitw w miejscowości Jalandhar, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Jalandhar.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-jalandhar.html",
+  "id": "/pl/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

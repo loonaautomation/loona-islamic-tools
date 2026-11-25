@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sydney",
   "short_name": "Bønnetider i Sydney",
   "description": "Dagens bønnetider i Sydney, Australia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Sydney.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sydney.html",
+  "id": "/nb/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

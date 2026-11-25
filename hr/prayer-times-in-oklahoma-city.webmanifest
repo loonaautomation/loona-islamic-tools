@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Oklahoma City",
   "short_name": "Vremena namaza u gradu Oklahoma City",
   "description": "Današnja vremena namaza u gradu Oklahoma City, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Oklahoma City.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-oklahoma-city.html",
+  "id": "/hr/prayer-times-in-oklahoma-city.html",
   "start_url": "./prayer-times-in-oklahoma-city.html",
   "scope": "./prayer-times-in-oklahoma-city.html",
   "display": "standalone",

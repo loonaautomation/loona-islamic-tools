@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Banja Luka",
   "short_name": "Orari di preghiera a Banja Luka",
   "description": "Orari di preghiera di oggi a Banja Luka, Bosnia ed Erzegovina: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Banja Luka.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-banja-luka.html",
+  "id": "/it/prayer-times-in-banja-luka.html",
   "start_url": "./prayer-times-in-banja-luka.html",
   "scope": "./prayer-times-in-banja-luka.html",
   "display": "standalone",

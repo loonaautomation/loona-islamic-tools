@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en San Diego",
   "short_name": "Horarios de oración en San Diego",
   "description": "Horarios de oración de hoy en San Diego, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para San Diego.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-san-diego.html",
+  "id": "/es/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

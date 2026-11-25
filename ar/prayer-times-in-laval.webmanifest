@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Laval",
   "short_name": "مواقيت الصلاة في Laval",
   "description": "مواقيت الصلاة اليوم في Laval، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـLaval.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-laval.html",
+  "id": "/ar/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

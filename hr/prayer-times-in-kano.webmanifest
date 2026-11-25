@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kano",
   "short_name": "Vremena namaza u gradu Kano",
   "description": "Današnja vremena namaza u gradu Kano, Nigerija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kano.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kano.html",
+  "id": "/hr/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

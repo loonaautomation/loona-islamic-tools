@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Glasgow",
   "short_name": "Gebetszeiten in Glasgow",
   "description": "Die heutigen Gebetszeiten in Glasgow, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Glasgow.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-glasgow.html",
+  "id": "/de/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

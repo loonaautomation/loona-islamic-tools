@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Najrān",
   "short_name": "Ώρες Προσευχής στο Najrān",
   "description": "Οι σημερινές ώρες προσευχής στο Najrān, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Najrān.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-najran.html",
+  "id": "/el/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

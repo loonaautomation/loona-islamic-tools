@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jalālābād",
   "short_name": "זמני תפילה בעיר Jalālābād",
   "description": "זמני התפילה של היום בעיר Jalālābād, אפגניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jalālābād.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jalalabad.html",
+  "id": "/he/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

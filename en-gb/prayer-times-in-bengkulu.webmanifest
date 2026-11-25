@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bengkulu Today",
   "short_name": "Prayer Times in Bengkulu Today",
   "description": "Today's prayer times in Bengkulu, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bengkulu.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-bengkulu.html",
+  "id": "/en-gb/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

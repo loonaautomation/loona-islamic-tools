@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cimahi",
   "short_name": "Gebedstijden in Cimahi",
   "description": "De gebedstijden van vandaag in Cimahi, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Cimahi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cimahi.html",
+  "id": "/nl/prayer-times-in-cimahi.html",
   "start_url": "./prayer-times-in-cimahi.html",
   "scope": "./prayer-times-in-cimahi.html",
   "display": "standalone",

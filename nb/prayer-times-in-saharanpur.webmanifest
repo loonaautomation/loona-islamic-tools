@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sahāranpur",
   "short_name": "Bønnetider i Sahāranpur",
   "description": "Dagens bønnetider i Sahāranpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Sahāranpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-saharanpur.html",
+  "id": "/nb/prayer-times-in-saharanpur.html",
   "start_url": "./prayer-times-in-saharanpur.html",
   "scope": "./prayer-times-in-saharanpur.html",
   "display": "standalone",

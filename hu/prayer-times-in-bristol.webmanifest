@@ -2,7 +2,7 @@
   "name": "Loona Bristol imaidői",
   "short_name": "Bristol imaidői",
   "description": "A mai imaidők: Bristol, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bristol számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bristol.html",
+  "id": "/hu/prayer-times-in-bristol.html",
   "start_url": "./prayer-times-in-bristol.html",
   "scope": "./prayer-times-in-bristol.html",
   "display": "standalone",

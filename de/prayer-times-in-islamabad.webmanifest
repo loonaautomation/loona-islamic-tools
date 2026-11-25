@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Islamabad",
   "short_name": "Gebetszeiten in Islamabad",
   "description": "Die heutigen Gebetszeiten in Islamabad, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Islamabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-islamabad.html",
+  "id": "/de/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

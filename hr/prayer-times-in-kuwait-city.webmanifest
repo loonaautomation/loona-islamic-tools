@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kuwait City",
   "short_name": "Vremena namaza u gradu Kuwait City",
   "description": "Današnja vremena namaza u gradu Kuvajt City, zemlja Kuvajt: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kuvajt City.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kuwait-city.html",
+  "id": "/hr/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

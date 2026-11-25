@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Malmö",
   "short_name": "Bønnetider i Malmö",
   "description": "Dagens bønnetider i Malmö, Sverige: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Malmö.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-malmoe.html",
+  "id": "/da/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

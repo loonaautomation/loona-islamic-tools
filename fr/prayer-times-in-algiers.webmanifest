@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Algiers",
   "short_name": "Heures de prière à Algiers",
   "description": "Les heures de prière d’aujourd’hui à Algiers, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Algiers.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-algiers.html",
+  "id": "/fr/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona آج کی سحری و افطار کا وقت",
   "short_name": "آج کی سحری و افطار کا وقت",
   "description": "آج کے سحری کے اختتام (فجر) اور افطار (مغرب) کے اوقات آپ کے شہر کے لیے، اگلے وقت تک لائیو الٹی گنتی کے ساتھ۔ کراچی طریقہ، بطورِ طے شدہ حنفی عصر، قابلِ تبدیلی۔",
-  "id": "/loona-islamic-tools/ur/sehri-iftar-today/",
+  "id": "/ur/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

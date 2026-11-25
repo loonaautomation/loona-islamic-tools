@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Mansurah",
   "short_name": "Часове за намаз в Al Mansurah",
   "description": "Днешните часове за намаз в Al Mansurah, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Al Mansurah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-mansurah.html",
+  "id": "/bg/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

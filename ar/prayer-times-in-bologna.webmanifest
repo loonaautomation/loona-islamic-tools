@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bologna",
   "short_name": "مواقيت الصلاة في Bologna",
   "description": "مواقيت الصلاة اليوم في Bologna، إيطاليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBologna.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bologna.html",
+  "id": "/ar/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

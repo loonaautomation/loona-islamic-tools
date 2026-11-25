@@ -2,7 +2,7 @@
   "name": "Loona 99 Noms d’Allah",
   "short_name": "99 Noms d’Allah",
   "description": "Les 99 Noms d’Allah avec texte arabe, translittération et significations en français sur une seule page consultable par recherche. Apprenez et mémorisez Asma-ul-Husna gratuitement, sur n’importe quel appareil.",
-  "id": "/loona-islamic-tools/fr/names-of-allah/",
+  "id": "/fr/names-of-allah/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

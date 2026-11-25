@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Tanta",
   "short_name": "Horarios de oración en Tanta",
   "description": "Horarios de oración de hoy en Tanta, Egipto: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Egyptian General Authority, calculado en vivo en tu dispositivo para Tanta.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-tanta.html",
+  "id": "/es/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

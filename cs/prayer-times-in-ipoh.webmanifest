@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ipoh",
   "short_name": "Časy modliteb v Ipoh",
   "description": "Dnešní časy modliteb v Ipoh, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ipoh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ipoh.html",
+  "id": "/cs/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

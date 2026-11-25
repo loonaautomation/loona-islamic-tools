@@ -2,7 +2,7 @@
   "name": "Loona Kota Bharu の礼拝時刻",
   "short_name": "Kota Bharu の礼拝時刻",
   "description": "Kota Bharu（マレーシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Kota Bharu についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kota-bharu.html",
+  "id": "/ja/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

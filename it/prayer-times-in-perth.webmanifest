@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Perth",
   "short_name": "Orari di preghiera a Perth",
   "description": "Orari di preghiera di oggi a Perth, Australia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Perth.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-perth.html",
+  "id": "/it/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

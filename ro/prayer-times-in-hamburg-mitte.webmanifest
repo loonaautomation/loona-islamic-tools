@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Hamburg-Mitte",
   "short_name": "Ore de rugăciune în Hamburg-Mitte",
   "description": "Orele de rugăciune de azi în Hamburg-Mitte, Germania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-hamburg-mitte.html",
+  "id": "/ro/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

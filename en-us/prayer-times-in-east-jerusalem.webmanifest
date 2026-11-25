@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in East Jerusalem Today",
   "short_name": "Prayer Times in East Jerusalem Today",
   "description": "Today's prayer times in East Jerusalem, Palestine: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for East Jerusalem.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-east-jerusalem.html",
+  "id": "/en-us/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

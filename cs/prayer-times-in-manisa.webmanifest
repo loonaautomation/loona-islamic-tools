@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Manisa",
   "short_name": "Časy modliteb v Manisa",
   "description": "Dnešní časy modliteb v Manisa, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Manisa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-manisa.html",
+  "id": "/cs/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

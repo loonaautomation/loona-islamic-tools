@@ -2,7 +2,7 @@
   "name": "Loona Smjer kible",
   "short_name": "Smjer kible",
   "description": "Pronađite smjer kible u stupnjevima iz bilo kojeg grada ili sa svoje točne lokacije, s brojčanikom živog kompasa i udaljenošću do Mekke. Besplatno, točno i privatno.",
-  "id": "/loona-islamic-tools/hr/qibla-direction/",
+  "id": "/hr/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Evaton",
   "short_name": "זמני תפילה בעיר Evaton",
   "description": "זמני התפילה של היום בעיר Evaton, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Evaton.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-evaton.html",
+  "id": "/he/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

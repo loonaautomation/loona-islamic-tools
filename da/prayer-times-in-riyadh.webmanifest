@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Riyadh",
   "short_name": "Bønnetider i Riyadh",
   "description": "Dagens bønnetider i Riyadh, Saudi-Arabien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Riyadh.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-riyadh.html",
+  "id": "/da/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

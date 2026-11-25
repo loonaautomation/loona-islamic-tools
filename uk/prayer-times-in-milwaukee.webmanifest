@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Milwaukee",
   "short_name": "Час намазу в Milwaukee",
   "description": "Сьогоднішній час намазу в Milwaukee, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Milwaukee.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-milwaukee.html",
+  "id": "/uk/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

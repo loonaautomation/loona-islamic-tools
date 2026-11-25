@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Las Vegas",
   "short_name": "Gebetszeiten in Las Vegas",
   "description": "Die heutigen Gebetszeiten in Las Vegas, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Las Vegas.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-las-vegas.html",
+  "id": "/de/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

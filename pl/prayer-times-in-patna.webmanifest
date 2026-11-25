@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Patna",
   "short_name": "Czasy modlitw w miejscowości Patna",
   "description": "Dzisiejsze czasy modlitw w miejscowości Patna, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Patna.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-patna.html",
+  "id": "/pl/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

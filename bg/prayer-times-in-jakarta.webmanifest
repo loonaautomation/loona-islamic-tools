@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jakarta",
   "short_name": "Часове за намаз в Jakarta",
   "description": "Днешните часове за намаз в Jakarta, Индонезия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Jakarta.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jakarta.html",
+  "id": "/bg/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

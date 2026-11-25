@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Situbondo",
   "short_name": "เวลาละหมาดใน Situbondo",
   "description": "เวลาละหมาดวันนี้ใน Situbondo, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Situbondo",
-  "id": "/loona-islamic-tools/th/prayer-times-in-situbondo.html",
+  "id": "/th/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

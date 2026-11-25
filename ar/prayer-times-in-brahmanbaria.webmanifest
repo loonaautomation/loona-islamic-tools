@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Brāhmanbāria",
   "short_name": "مواقيت الصلاة في Brāhmanbāria",
   "description": "مواقيت الصلاة اليوم في Brāhmanbāria، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBrāhmanbāria.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-brahmanbaria.html",
+  "id": "/ar/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

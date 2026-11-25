@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Durban",
   "short_name": "Час намазу в Durban",
   "description": "Сьогоднішній час намазу в Durban, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Durban.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-durban.html",
+  "id": "/uk/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

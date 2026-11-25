@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ahvaz",
   "short_name": "Bönetider i Ahvaz",
   "description": "Dagens bönetider i Ahvaz, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ahvaz.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ahvaz.html",
+  "id": "/sv/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

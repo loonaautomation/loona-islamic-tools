@@ -2,7 +2,7 @@
   "name": "Loona Kom Ombo の礼拝時刻",
   "short_name": "Kom Ombo の礼拝時刻",
   "description": "Kom Ombo、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Kom Ombo についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kom-ombo.html",
+  "id": "/ja/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

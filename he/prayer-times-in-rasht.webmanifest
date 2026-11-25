@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rasht",
   "short_name": "זמני תפילה בעיר Rasht",
   "description": "זמני התפילה של היום בעיר Rasht, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Rasht.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rasht.html",
+  "id": "/he/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

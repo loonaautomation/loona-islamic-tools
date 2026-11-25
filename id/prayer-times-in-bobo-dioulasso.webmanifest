@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bobo-Dioulasso",
   "short_name": "Waktu Salat di Bobo-Dioulasso",
   "description": "Waktu salat hari ini di Bobo-Dioulasso, Burkina Faso: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bobo-Dioulasso.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bobo-dioulasso.html",
+  "id": "/id/prayer-times-in-bobo-dioulasso.html",
   "start_url": "./prayer-times-in-bobo-dioulasso.html",
   "scope": "./prayer-times-in-bobo-dioulasso.html",
   "display": "standalone",

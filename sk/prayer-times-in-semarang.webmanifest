@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Semarang",
   "short_name": "Časy modlitieb v Semarang",
   "description": "Dnešné časy modlitieb v Semarang, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Semarang.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-semarang.html",
+  "id": "/sk/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

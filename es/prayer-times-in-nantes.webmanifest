@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Nantes",
   "short_name": "Horarios de oración en Nantes",
   "description": "Horarios de oración de hoy en Nantes, Francia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Nantes.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-nantes.html",
+  "id": "/es/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

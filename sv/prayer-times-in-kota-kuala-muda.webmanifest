@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kota Kuala Muda",
   "short_name": "Bönetider i Kota Kuala Muda",
   "description": "Dagens bönetider i Kota Kuala Muda, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kota-kuala-muda.html",
+  "id": "/sv/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

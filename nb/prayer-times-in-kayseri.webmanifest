@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kayseri",
   "short_name": "Bønnetider i Kayseri",
   "description": "Dagens bønnetider i Kayseri, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kayseri.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kayseri.html",
+  "id": "/nb/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

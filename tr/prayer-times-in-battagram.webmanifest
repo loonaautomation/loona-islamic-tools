@@ -2,7 +2,7 @@
   "name": "Loona Battagram Namaz Vakitleri",
   "short_name": "Battagram Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Battagram, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Battagram için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-battagram.html",
+  "id": "/tr/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

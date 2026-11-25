@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Virār",
   "short_name": "Gebetszeiten in Virār",
   "description": "Die heutigen Gebetszeiten in Virār, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Virār.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-virar.html",
+  "id": "/de/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

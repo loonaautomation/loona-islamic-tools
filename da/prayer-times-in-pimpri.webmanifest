@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pimpri",
   "short_name": "Bønnetider i Pimpri",
   "description": "Dagens bønnetider i Pimpri, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Pimpri.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-pimpri.html",
+  "id": "/da/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

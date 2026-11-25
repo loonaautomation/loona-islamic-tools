@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mbour",
   "short_name": "Rukousajat: Mbour",
   "description": "Tämän päivän rukousajat paikassa Mbour, Senegal: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Mbour.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mbour.html",
+  "id": "/fi/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

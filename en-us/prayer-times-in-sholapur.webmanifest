@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sholapur Today",
   "short_name": "Prayer Times in Sholapur Today",
   "description": "Today's prayer times in Sholapur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Sholapur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-sholapur.html",
+  "id": "/en-us/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

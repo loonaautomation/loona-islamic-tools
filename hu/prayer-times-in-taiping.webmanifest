@@ -2,7 +2,7 @@
   "name": "Loona Taiping imaidői",
   "short_name": "Taiping imaidői",
   "description": "A mai imaidők: Taiping, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Taiping számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-taiping.html",
+  "id": "/hu/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

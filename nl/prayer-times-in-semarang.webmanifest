@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Semarang",
   "short_name": "Gebedstijden in Semarang",
   "description": "De gebedstijden van vandaag in Semarang, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Semarang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-semarang.html",
+  "id": "/nl/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

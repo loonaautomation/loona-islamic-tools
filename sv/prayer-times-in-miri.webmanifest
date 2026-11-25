@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Miri",
   "short_name": "Bönetider i Miri",
   "description": "Dagens bönetider i Miri, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Miri.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-miri.html",
+  "id": "/sv/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

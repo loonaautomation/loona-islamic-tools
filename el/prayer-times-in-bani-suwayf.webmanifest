@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Banī Suwayf",
   "short_name": "Ώρες Προσευχής στο Banī Suwayf",
   "description": "Οι σημερινές ώρες προσευχής στο Banī Suwayf, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Banī Suwayf.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bani-suwayf.html",
+  "id": "/el/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

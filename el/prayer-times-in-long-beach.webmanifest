@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Long Beach",
   "short_name": "Ώρες Προσευχής στο Long Beach",
   "description": "Οι σημερινές ώρες προσευχής στο Long Beach, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Long Beach.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-long-beach.html",
+  "id": "/el/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tumkūr",
   "short_name": "Waktu Salat di Tumkūr",
   "description": "Waktu salat hari ini di Tumkūr, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Tumkūr.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tumkur.html",
+  "id": "/id/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

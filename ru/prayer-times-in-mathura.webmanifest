@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mathura",
   "short_name": "Время намаза в городе Mathura",
   "description": "Время намаза на сегодня: Mathura, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Mathura.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mathura.html",
+  "id": "/ru/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

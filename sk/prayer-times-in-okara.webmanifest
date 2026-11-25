@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Okara",
   "short_name": "Časy modlitieb v Okara",
   "description": "Dnešné časy modlitieb v Okara, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Okara.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-okara.html",
+  "id": "/sk/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

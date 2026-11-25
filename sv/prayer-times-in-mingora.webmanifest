@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mingora",
   "short_name": "Bönetider i Mingora",
   "description": "Dagens bönetider i Mingora, Pakistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Mingora.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mingora.html",
+  "id": "/sv/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

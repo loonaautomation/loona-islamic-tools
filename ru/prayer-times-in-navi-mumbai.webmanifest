@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Navi Mumbai",
   "short_name": "Время намаза в городе Navi Mumbai",
   "description": "Время намаза на сегодня: Navi Mumbai, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Navi Mumbai.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-navi-mumbai.html",
+  "id": "/ru/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

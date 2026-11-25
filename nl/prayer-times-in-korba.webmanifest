@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Korba",
   "short_name": "Gebedstijden in Korba",
   "description": "De gebedstijden van vandaag in Korba, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Korba.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-korba.html",
+  "id": "/nl/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

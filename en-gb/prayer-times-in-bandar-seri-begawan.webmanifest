@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bandar Seri Begawan Today",
   "short_name": "Prayer Times in Bandar Seri Begawan Today",
   "description": "Today's prayer times in Bandar Seri Begawan, Brunei: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bandar Seri Begawan.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-bandar-seri-begawan.html",
+  "id": "/en-gb/prayer-times-in-bandar-seri-begawan.html",
   "start_url": "./prayer-times-in-bandar-seri-begawan.html",
   "scope": "./prayer-times-in-bandar-seri-begawan.html",
   "display": "standalone",

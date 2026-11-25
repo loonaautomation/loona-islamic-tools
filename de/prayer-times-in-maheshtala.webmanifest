@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Maheshtala",
   "short_name": "Gebetszeiten in Maheshtala",
   "description": "Die heutigen Gebetszeiten in Maheshtala, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Maheshtala.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-maheshtala.html",
+  "id": "/de/prayer-times-in-maheshtala.html",
   "start_url": "./prayer-times-in-maheshtala.html",
   "scope": "./prayer-times-in-maheshtala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Aktobe",
   "short_name": "Часове за намаз в Aktobe",
   "description": "Днешните часове за намаз в Aktobe, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Aktobe.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-aktobe.html",
+  "id": "/bg/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

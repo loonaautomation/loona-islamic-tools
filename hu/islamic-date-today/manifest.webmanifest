@@ -2,7 +2,7 @@
   "name": "Loona Mai iszlám dátum",
   "short_name": "Mai iszlám dátum",
   "description": "Mi a mai iszlám dátum? Nézze meg a mai hidzsri dátumot — nap, hónap és év (Umm al-Qura) — a gregorián dátummal, élőben frissítve az eszközén. Ingyenes.",
-  "id": "/loona-islamic-tools/hu/islamic-date-today/",
+  "id": "/hu/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

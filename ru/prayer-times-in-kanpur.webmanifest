@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kanpur",
   "short_name": "Время намаза в городе Kanpur",
   "description": "Время намаза на сегодня: Kanpur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Kanpur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kanpur.html",
+  "id": "/ru/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

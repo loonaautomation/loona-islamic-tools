@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Manado",
   "short_name": "Ώρες Προσευχής στο Manado",
   "description": "Οι σημερινές ώρες προσευχής στο Manado, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Manado.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-manado.html",
+  "id": "/el/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

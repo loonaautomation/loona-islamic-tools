@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pune",
   "short_name": "Waktu Salat di Pune",
   "description": "Waktu salat hari ini di Pune, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Pune.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pune.html",
+  "id": "/id/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

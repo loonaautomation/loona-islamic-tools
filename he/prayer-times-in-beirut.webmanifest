@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Beirut",
   "short_name": "זמני תפילה בעיר Beirut",
   "description": "זמני התפילה של היום בעיר Beirut, לבנון: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Beirut.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-beirut.html",
+  "id": "/he/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sandakan",
   "short_name": "Bönetider i Sandakan",
   "description": "Dagens bönetider i Sandakan, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sandakan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sandakan.html",
+  "id": "/sv/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

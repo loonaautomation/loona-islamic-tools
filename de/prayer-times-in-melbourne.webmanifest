@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Melbourne",
   "short_name": "Gebetszeiten in Melbourne",
   "description": "Die heutigen Gebetszeiten in Melbourne, Australien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Melbourne.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-melbourne.html",
+  "id": "/de/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

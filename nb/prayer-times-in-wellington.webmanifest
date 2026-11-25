@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Wellington",
   "short_name": "Bønnetider i Wellington",
   "description": "Dagens bønnetider i Wellington, New Zealand: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Wellington.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-wellington.html",
+  "id": "/nb/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

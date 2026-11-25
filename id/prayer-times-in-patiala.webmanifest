@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Patiāla",
   "short_name": "Waktu Salat di Patiāla",
   "description": "Waktu salat hari ini di Patiāla, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Patiāla.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-patiala.html",
+  "id": "/id/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

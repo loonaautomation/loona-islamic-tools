@@ -2,7 +2,7 @@
   "name": "Loona Vancouver-এ নামাজের সময়",
   "short_name": "Vancouver-এ নামাজের সময়",
   "description": "Vancouver, কানাডা-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Vancouver-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-vancouver.html",
+  "id": "/bn/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

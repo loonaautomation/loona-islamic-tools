@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nairobi",
   "short_name": "Gebetszeiten in Nairobi",
   "description": "Die heutigen Gebetszeiten in Nairobi, Kenia: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Nairobi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nairobi.html",
+  "id": "/de/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

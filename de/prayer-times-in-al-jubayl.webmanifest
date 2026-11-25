@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Al Jubayl",
   "short_name": "Gebetszeiten in Al Jubayl",
   "description": "Die heutigen Gebetszeiten in Al Jubayl, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Al Jubayl.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-al-jubayl.html",
+  "id": "/de/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Damanhur",
   "short_name": "Ώρες Προσευχής στο Damanhur",
   "description": "Οι σημερινές ώρες προσευχής στο Damanhur, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Damanhur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-damanhur.html",
+  "id": "/el/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

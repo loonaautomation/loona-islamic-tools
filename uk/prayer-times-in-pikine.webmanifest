@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Pikine",
   "short_name": "Час намазу в Pikine",
   "description": "Сьогоднішній час намазу в Pikine, Сенегал: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Pikine.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-pikine.html",
+  "id": "/uk/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

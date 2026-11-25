@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Port Said 2027 (1448)",
   "short_name": "Розклад Рамадану в Port Said 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Port Said, Єгипет: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-port-said.html",
+  "id": "/uk/ramadan-timetable-in-port-said.html",
   "start_url": "./ramadan-timetable-in-port-said.html",
   "scope": "./ramadan-timetable-in-port-said.html",
   "display": "standalone",

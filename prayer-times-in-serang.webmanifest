@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Serang",
   "short_name": "Prayer Times in Serang",
   "description": "Today's prayer times in Serang, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Serang.",
-  "id": "/loona-islamic-tools/prayer-times-in-serang.html",
+  "id": "/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Irbid",
   "short_name": "Waktu Salat di Irbid",
   "description": "Waktu salat hari ini di Irbid, Yordania: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Irbid.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-irbid.html",
+  "id": "/id/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

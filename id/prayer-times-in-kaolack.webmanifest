@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kaolack",
   "short_name": "Waktu Salat di Kaolack",
   "description": "Waktu salat hari ini di Kaolack, Senegal: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kaolack.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kaolack.html",
+  "id": "/id/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

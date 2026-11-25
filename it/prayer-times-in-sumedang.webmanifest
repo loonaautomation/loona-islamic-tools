@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sumedang",
   "short_name": "Orari di preghiera a Sumedang",
   "description": "Orari di preghiera di oggi a Sumedang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sumedang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sumedang.html",
+  "id": "/it/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

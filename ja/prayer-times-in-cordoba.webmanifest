@@ -2,7 +2,7 @@
   "name": "Loona Córdoba の礼拝時刻",
   "short_name": "Córdoba の礼拝時刻",
   "description": "Córdoba（スペイン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Córdoba についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-cordoba.html",
+  "id": "/ja/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Thoothukudi",
   "short_name": "Часове за намаз в Thoothukudi",
   "description": "Днешните часове за намаз в Thoothukudi, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Thoothukudi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-thoothukudi.html",
+  "id": "/bg/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

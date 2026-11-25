@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Montréal",
   "short_name": "זמני תפילה בעיר Montréal",
   "description": "זמני התפילה של היום בעיר Montréal, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Montréal.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-montreal.html",
+  "id": "/he/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

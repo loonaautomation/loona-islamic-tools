@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Soshanguve",
   "short_name": "Vremena namaza u gradu Soshanguve",
   "description": "Današnja vremena namaza u gradu Soshanguve, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Soshanguve.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-soshanguve.html",
+  "id": "/hr/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

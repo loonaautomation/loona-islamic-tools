@@ -2,7 +2,7 @@
   "name": "Loona Banjarbaru imaidői",
   "short_name": "Banjarbaru imaidői",
   "description": "A mai imaidők: Banjarbaru, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Banjarbaru számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-banjarbaru.html",
+  "id": "/hu/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

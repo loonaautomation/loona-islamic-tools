@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Shāhjānpur",
   "short_name": "Ώρες Προσευχής στο Shāhjānpur",
   "description": "Οι σημερινές ώρες προσευχής στο Shāhjānpur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Shāhjānpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-shahjanpur.html",
+  "id": "/el/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

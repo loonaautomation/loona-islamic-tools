@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Erbil",
   "short_name": "Ώρες Προσευχής στο Erbil",
   "description": "Οι σημερινές ώρες προσευχής στο Erbil, Ιράκ: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Erbil.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-erbil.html",
+  "id": "/el/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

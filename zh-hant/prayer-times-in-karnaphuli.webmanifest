@@ -2,7 +2,7 @@
   "name": "Loona Karnaphuli的禮拜時間",
   "short_name": "Karnaphuli的禮拜時間",
   "description": "Karnaphuli（孟加拉國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Karnaphuli實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-karnaphuli.html",
+  "id": "/zh-hant/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

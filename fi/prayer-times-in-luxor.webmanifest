@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Luxor",
   "short_name": "Rukousajat: Luxor",
   "description": "Tämän päivän rukousajat paikassa Luxor, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Luxor.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-luxor.html",
+  "id": "/fi/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

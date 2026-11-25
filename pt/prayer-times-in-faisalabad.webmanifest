@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Faisalabad",
   "short_name": "Horários de Oração em Faisalabad",
   "description": "Horários de oração de hoje em Faisalabad, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Faisalabad.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-faisalabad.html",
+  "id": "/pt/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

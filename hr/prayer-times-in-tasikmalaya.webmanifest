@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tasikmalaya",
   "short_name": "Vremena namaza u gradu Tasikmalaya",
   "description": "Današnja vremena namaza u gradu Tasikmalaya, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tasikmalaya.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tasikmalaya.html",
+  "id": "/hr/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Touba",
   "short_name": "זמני תפילה בעיר Touba",
   "description": "זמני התפילה של היום בעיר Touba, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Touba.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-touba.html",
+  "id": "/he/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Turkistan",
   "short_name": "זמני תפילה בעיר Turkistan",
   "description": "זמני התפילה של היום בעיר Turkistan, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Turkistan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-turkistan.html",
+  "id": "/he/prayer-times-in-turkistan.html",
   "start_url": "./prayer-times-in-turkistan.html",
   "scope": "./prayer-times-in-turkistan.html",
   "display": "standalone",

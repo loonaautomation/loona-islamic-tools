@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mbour",
   "short_name": "Czasy modlitw w miejscowości Mbour",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mbour, kraj Senegal: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Mbour.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mbour.html",
+  "id": "/pl/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

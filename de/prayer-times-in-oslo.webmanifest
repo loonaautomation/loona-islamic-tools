@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Oslo",
   "short_name": "Gebetszeiten in Oslo",
   "description": "Die heutigen Gebetszeiten in Oslo, Norwegen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Oslo.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-oslo.html",
+  "id": "/de/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

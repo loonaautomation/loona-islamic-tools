@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Randburg",
   "short_name": "Časy modliteb v Randburg",
   "description": "Dnešní časy modliteb v Randburg, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Randburg.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-randburg.html",
+  "id": "/cs/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

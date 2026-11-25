@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Arifwala",
   "short_name": "Ώρες Προσευχής στο Arifwala",
   "description": "Οι σημερινές ώρες προσευχής στο Arifwala, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Arifwala.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-arifwala.html",
+  "id": "/el/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

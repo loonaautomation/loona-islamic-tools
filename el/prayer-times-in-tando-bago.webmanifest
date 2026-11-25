@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tando Bago",
   "short_name": "Ώρες Προσευχής στο Tando Bago",
   "description": "Οι σημερινές ώρες προσευχής στο Tando Bago, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Tando Bago.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tando-bago.html",
+  "id": "/el/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Cuttack",
   "short_name": "Horários de Oração em Cuttack",
   "description": "Horários de oração de hoje em Cuttack, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Cuttack.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-cuttack.html",
+  "id": "/pt-br/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Atyrau の礼拝時刻",
   "short_name": "Atyrau の礼拝時刻",
   "description": "Atyrau（カザフスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Atyrau についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-atyrau.html",
+  "id": "/ja/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

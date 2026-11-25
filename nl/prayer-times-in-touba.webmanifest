@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Touba",
   "short_name": "Gebedstijden in Touba",
   "description": "De gebedstijden van vandaag in Touba, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Touba.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-touba.html",
+  "id": "/nl/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

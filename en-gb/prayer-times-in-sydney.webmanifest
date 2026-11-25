@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sydney Today",
   "short_name": "Prayer Times in Sydney Today",
   "description": "Today's prayer times in Sydney, Australia: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Sydney.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-sydney.html",
+  "id": "/en-gb/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

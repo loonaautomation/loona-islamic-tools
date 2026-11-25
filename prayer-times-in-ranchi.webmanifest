@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ranchi",
   "short_name": "Prayer Times in Ranchi",
   "description": "Today's prayer times in Ranchi, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Ranchi.",
-  "id": "/loona-islamic-tools/prayer-times-in-ranchi.html",
+  "id": "/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

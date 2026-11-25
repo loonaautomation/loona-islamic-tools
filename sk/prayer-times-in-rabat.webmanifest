@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Rabat",
   "short_name": "Časy modlitieb v Rabat",
   "description": "Dnešné časy modlitieb v Rabat, Maroko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Rabat.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-rabat.html",
+  "id": "/sk/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mumbai",
   "short_name": "Rukousajat: Mumbai",
   "description": "Tämän päivän rukousajat paikassa Mumbai, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Mumbai.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mumbai.html",
+  "id": "/fi/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Shyamnagar",
   "short_name": "Vremena namaza u gradu Shyamnagar",
   "description": "Današnja vremena namaza u gradu Shyamnagar, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Shyamnagar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-shyamnagar.html",
+  "id": "/hr/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

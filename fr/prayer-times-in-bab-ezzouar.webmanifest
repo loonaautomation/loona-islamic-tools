@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bab Ezzouar",
   "short_name": "Heures de prière à Bab Ezzouar",
   "description": "Les heures de prière d’aujourd’hui à Bab Ezzouar, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Bab Ezzouar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bab-ezzouar.html",
+  "id": "/fr/prayer-times-in-bab-ezzouar.html",
   "start_url": "./prayer-times-in-bab-ezzouar.html",
   "scope": "./prayer-times-in-bab-ezzouar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ทิศกิบลัต",
   "short_name": "ทิศกิบลัต",
   "description": "ค้นหาทิศกิบลัตเป็นองศาจากทุกเมืองหรือตำแหน่งที่แน่นอนของคุณ พร้อมหน้าปัดเข็มทิศแบบสดและระยะทางไปมักกะห์ ฟรี แม่นยำ และเป็นส่วนตัว",
-  "id": "/loona-islamic-tools/th/qibla-direction/",
+  "id": "/th/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

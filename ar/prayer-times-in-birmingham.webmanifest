@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Birmingham",
   "short_name": "مواقيت الصلاة في Birmingham",
   "description": "مواقيت الصلاة اليوم في Birmingham، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBirmingham.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-birmingham.html",
+  "id": "/ar/prayer-times-in-birmingham.html",
   "start_url": "./prayer-times-in-birmingham.html",
   "scope": "./prayer-times-in-birmingham.html",
   "display": "standalone",

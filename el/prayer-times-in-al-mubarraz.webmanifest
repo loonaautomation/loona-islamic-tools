@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Al Mubarraz",
   "short_name": "Ώρες Προσευχής στο Al Mubarraz",
   "description": "Οι σημερινές ώρες προσευχής στο Al Mubarraz, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Al Mubarraz.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-al-mubarraz.html",
+  "id": "/el/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

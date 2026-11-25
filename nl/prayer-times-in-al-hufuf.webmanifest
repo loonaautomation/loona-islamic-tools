@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Hufūf",
   "short_name": "Gebedstijden in Al Hufūf",
   "description": "De gebedstijden van vandaag in Al Hufūf, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Al Hufūf.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-hufuf.html",
+  "id": "/nl/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

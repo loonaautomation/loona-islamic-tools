@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Minneapolis",
   "short_name": "Czasy modlitw w miejscowości Minneapolis",
   "description": "Dzisiejsze czasy modlitw w miejscowości Minneapolis, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Minneapolis.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-minneapolis.html",
+  "id": "/pl/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

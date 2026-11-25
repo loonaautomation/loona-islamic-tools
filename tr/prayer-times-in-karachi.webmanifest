@@ -2,7 +2,7 @@
   "name": "Loona Karachi Namaz Vakitleri",
   "short_name": "Karachi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Karachi, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Karachi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-karachi.html",
+  "id": "/tr/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

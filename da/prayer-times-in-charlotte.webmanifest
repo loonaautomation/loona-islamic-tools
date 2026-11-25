@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Charlotte",
   "short_name": "Bønnetider i Charlotte",
   "description": "Dagens bønnetider i Charlotte, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Charlotte.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-charlotte.html",
+  "id": "/da/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

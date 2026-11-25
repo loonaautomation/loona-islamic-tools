@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kallakurichi",
   "short_name": "Časy modliteb v Kallakurichi",
   "description": "Dnešní časy modliteb v Kallakurichi, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kallakurichi.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kallakurichi.html",
+  "id": "/cs/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

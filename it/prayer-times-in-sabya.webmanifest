@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Şabyā",
   "short_name": "Orari di preghiera a Şabyā",
   "description": "Orari di preghiera di oggi a Şabyā, Arabia Saudita: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Şabyā.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sabya.html",
+  "id": "/it/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

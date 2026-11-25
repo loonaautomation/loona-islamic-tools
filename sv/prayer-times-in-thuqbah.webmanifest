@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Thuqbah",
   "short_name": "Bönetider i Thuqbah",
   "description": "Dagens bönetider i Thuqbah, Saudiarabien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Umm al-Qura-metoden, beräknad live på din enhet för Thuqbah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-thuqbah.html",
+  "id": "/sv/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kupang",
   "short_name": "مواقيت الصلاة في Kupang",
   "description": "مواقيت الصلاة اليوم في Kupang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKupang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kupang.html",
+  "id": "/ar/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

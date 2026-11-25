@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Saint Paul",
   "short_name": "Ώρες Προσευχής στο Saint Paul",
   "description": "Οι σημερινές ώρες προσευχής στο Saint Paul, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Saint Paul.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-saint-paul.html",
+  "id": "/el/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

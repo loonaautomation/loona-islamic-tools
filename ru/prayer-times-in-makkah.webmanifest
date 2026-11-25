@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Makkah",
   "short_name": "Время намаза в городе Makkah",
   "description": "Время намаза на сегодня: Makkah, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Makkah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-makkah.html",
+  "id": "/ru/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

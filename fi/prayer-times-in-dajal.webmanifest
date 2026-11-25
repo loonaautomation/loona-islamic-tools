@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dajal",
   "short_name": "Rukousajat: Dajal",
   "description": "Tämän päivän rukousajat paikassa Dajal, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Dajal.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dajal.html",
+  "id": "/fi/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

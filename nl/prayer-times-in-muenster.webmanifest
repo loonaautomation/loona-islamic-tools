@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Münster",
   "short_name": "Gebedstijden in Münster",
   "description": "De gebedstijden van vandaag in Münster, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Münster.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-muenster.html",
+  "id": "/nl/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

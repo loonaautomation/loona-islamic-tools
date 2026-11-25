@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Surrey",
   "short_name": "Gebedstijden in Surrey",
   "description": "De gebedstijden van vandaag in Surrey, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Surrey.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-surrey.html",
+  "id": "/nl/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

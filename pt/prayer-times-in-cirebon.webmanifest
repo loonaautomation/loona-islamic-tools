@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Cirebon",
   "short_name": "Horários de Oração em Cirebon",
   "description": "Horários de oração de hoje em Cirebon, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Cirebon.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-cirebon.html",
+  "id": "/pt/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

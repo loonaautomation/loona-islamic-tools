@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Emalahleni",
   "short_name": "Heures de prière à Emalahleni",
   "description": "Les heures de prière d’aujourd’hui à Emalahleni, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Emalahleni.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-emalahleni.html",
+  "id": "/fr/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

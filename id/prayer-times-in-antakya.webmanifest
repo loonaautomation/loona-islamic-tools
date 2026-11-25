@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Antakya",
   "short_name": "Waktu Salat di Antakya",
   "description": "Waktu salat hari ini di Antakya, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Antakya.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-antakya.html",
+  "id": "/id/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

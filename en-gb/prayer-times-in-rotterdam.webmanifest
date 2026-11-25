@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Rotterdam Today",
   "short_name": "Prayer Times in Rotterdam Today",
   "description": "Today's prayer times in Rotterdam, Netherlands: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Rotterdam.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-rotterdam.html",
+  "id": "/en-gb/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

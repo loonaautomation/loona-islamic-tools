@@ -2,7 +2,7 @@
   "name": "Loona Isfara imaidői",
   "short_name": "Isfara imaidői",
   "description": "A mai imaidők: Isfara, Tádzsikisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Isfara számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-isfara.html",
+  "id": "/hu/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

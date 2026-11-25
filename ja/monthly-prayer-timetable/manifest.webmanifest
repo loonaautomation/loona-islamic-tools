@@ -2,7 +2,7 @@
   "name": "Loona 月間礼拝時刻表",
   "short_name": "月間礼拝時刻表",
   "description": "どの都市でも印刷できる月間の礼拝時刻表を作成します。一か月分の六つの時刻すべてを、あなたの計算方法と Asr の学派とともに表示します。無料で、プライベートです。",
-  "id": "/loona-islamic-tools/ja/monthly-prayer-timetable/",
+  "id": "/ja/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

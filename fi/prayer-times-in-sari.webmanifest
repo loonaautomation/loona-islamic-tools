@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sari",
   "short_name": "Rukousajat: Sari",
   "description": "Tämän päivän rukousajat paikassa Sari, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sari.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sari.html",
+  "id": "/fi/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

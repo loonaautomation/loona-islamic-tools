@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Winnipeg",
   "short_name": "Časy modlitieb v Winnipeg",
   "description": "Dnešné časy modlitieb v Winnipeg, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Winnipeg.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-winnipeg.html",
+  "id": "/sk/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bilimora",
   "short_name": "זמני תפילה בעיר Bilimora",
   "description": "זמני התפילה של היום בעיר Bilimora, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bilimora.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bilimora.html",
+  "id": "/he/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

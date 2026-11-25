@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Shāhjānpur",
   "short_name": "Часове за намаз в Shāhjānpur",
   "description": "Днешните часове за намаз в Shāhjānpur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Shāhjānpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-shahjanpur.html",
+  "id": "/bg/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

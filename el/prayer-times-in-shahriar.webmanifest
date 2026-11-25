@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Shahrīār",
   "short_name": "Ώρες Προσευχής στο Shahrīār",
   "description": "Οι σημερινές ώρες προσευχής στο Shahrīār, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Shahrīār.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-shahriar.html",
+  "id": "/el/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Diepsloot",
   "short_name": "เวลาละหมาดใน Diepsloot",
   "description": "เวลาละหมาดวันนี้ใน Diepsloot, South Africa: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Diepsloot",
-  "id": "/loona-islamic-tools/th/prayer-times-in-diepsloot.html",
+  "id": "/th/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

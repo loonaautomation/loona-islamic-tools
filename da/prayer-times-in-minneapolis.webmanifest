@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Minneapolis",
   "short_name": "Bønnetider i Minneapolis",
   "description": "Dagens bønnetider i Minneapolis, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Minneapolis.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-minneapolis.html",
+  "id": "/da/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

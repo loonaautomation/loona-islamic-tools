@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-räknare",
   "short_name": "Tasbih-räknare",
   "description": "En digital tasbih-räknare: SubhanAllah, Alhamdulillah och fler förinställningar, mål på 33/99/100, rundräkning, vibration och livstidssummor som sparas på din enhet.",
-  "id": "/loona-islamic-tools/sv/tasbih-counter/",
+  "id": "/sv/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

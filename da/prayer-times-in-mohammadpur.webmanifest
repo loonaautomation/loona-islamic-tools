@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mohammadpur",
   "short_name": "Bønnetider i Mohammadpur",
   "description": "Dagens bønnetider i Mohammadpur, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Mohammadpur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-mohammadpur.html",
+  "id": "/da/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

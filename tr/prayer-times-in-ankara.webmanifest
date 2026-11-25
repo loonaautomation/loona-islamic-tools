@@ -2,7 +2,7 @@
   "name": "Loona Ankara Namaz Vakitleri",
   "short_name": "Ankara Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ankara, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Ankara için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ankara.html",
+  "id": "/tr/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

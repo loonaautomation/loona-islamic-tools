@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Natore",
   "short_name": "Время намаза в городе Natore",
   "description": "Время намаза на сегодня: Natore, Бангладеш: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Natore.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-natore.html",
+  "id": "/ru/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

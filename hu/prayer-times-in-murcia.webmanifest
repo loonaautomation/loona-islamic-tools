@@ -2,7 +2,7 @@
   "name": "Loona Murcia imaidői",
   "short_name": "Murcia imaidői",
   "description": "A mai imaidők: Murcia, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Murcia számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-murcia.html",
+  "id": "/hu/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

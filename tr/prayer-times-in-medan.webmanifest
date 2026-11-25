@@ -2,7 +2,7 @@
   "name": "Loona Medan Namaz Vakitleri",
   "short_name": "Medan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Medan, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Medan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-medan.html",
+  "id": "/tr/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

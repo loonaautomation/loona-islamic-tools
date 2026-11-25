@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mataram",
   "short_name": "Rukousajat: Mataram",
   "description": "Tämän päivän rukousajat paikassa Mataram, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Mataram.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mataram.html",
+  "id": "/fi/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

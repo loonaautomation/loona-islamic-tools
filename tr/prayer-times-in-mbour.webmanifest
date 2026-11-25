@@ -2,7 +2,7 @@
   "name": "Loona Mbour Namaz Vakitleri",
   "short_name": "Mbour Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mbour, Senegal: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Mbour için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mbour.html",
+  "id": "/tr/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

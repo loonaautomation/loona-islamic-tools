@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Uşak",
   "short_name": "Časy modliteb v Uşak",
   "description": "Dnešní časy modliteb v Uşak, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Uşak.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-usak.html",
+  "id": "/cs/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

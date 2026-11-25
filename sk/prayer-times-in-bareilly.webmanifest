@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bareilly",
   "short_name": "Časy modlitieb v Bareilly",
   "description": "Dnešné časy modlitieb v Bareilly, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bareilly.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bareilly.html",
+  "id": "/sk/prayer-times-in-bareilly.html",
   "start_url": "./prayer-times-in-bareilly.html",
   "scope": "./prayer-times-in-bareilly.html",
   "display": "standalone",

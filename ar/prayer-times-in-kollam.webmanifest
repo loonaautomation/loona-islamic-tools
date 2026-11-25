@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kollam",
   "short_name": "مواقيت الصلاة في Kollam",
   "description": "مواقيت الصلاة اليوم في Kollam، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKollam.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kollam.html",
+  "id": "/ar/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

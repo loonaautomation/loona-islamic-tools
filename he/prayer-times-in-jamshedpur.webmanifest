@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jamshedpur",
   "short_name": "זמני תפילה בעיר Jamshedpur",
   "description": "זמני התפילה של היום בעיר Jamshedpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jamshedpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jamshedpur.html",
+  "id": "/he/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

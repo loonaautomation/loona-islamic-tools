@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Rotterdam",
   "short_name": "Časy modlitieb v Rotterdam",
   "description": "Dnešné časy modlitieb v Rotterdam, Holandsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Rotterdam.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-rotterdam.html",
+  "id": "/sk/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

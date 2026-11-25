@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Dhanbad",
   "short_name": "Časy modlitieb v Dhanbad",
   "description": "Dnešné časy modlitieb v Dhanbad, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Dhanbad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-dhanbad.html",
+  "id": "/sk/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

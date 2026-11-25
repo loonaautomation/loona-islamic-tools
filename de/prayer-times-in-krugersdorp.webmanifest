@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Krugersdorp",
   "short_name": "Gebetszeiten in Krugersdorp",
   "description": "Die heutigen Gebetszeiten in Krugersdorp, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Krugersdorp.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-krugersdorp.html",
+  "id": "/de/prayer-times-in-krugersdorp.html",
   "start_url": "./prayer-times-in-krugersdorp.html",
   "scope": "./prayer-times-in-krugersdorp.html",
   "display": "standalone",

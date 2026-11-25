@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Malang",
   "short_name": "Rukousajat: Malang",
   "description": "Tämän päivän rukousajat paikassa Malang, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Malang.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-malang.html",
+  "id": "/fi/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

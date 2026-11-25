@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ţarţūs",
   "short_name": "Bönetider i Ţarţūs",
   "description": "Dagens bönetider i Ţarţūs, Syrien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Ţarţūs.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tartus.html",
+  "id": "/sv/prayer-times-in-tartus.html",
   "start_url": "./prayer-times-in-tartus.html",
   "scope": "./prayer-times-in-tartus.html",
   "display": "standalone",

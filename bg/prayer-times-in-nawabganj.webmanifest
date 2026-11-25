@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nawābganj",
   "short_name": "Часове за намаз в Nawābganj",
   "description": "Днешните часове за намаз в Nawābganj, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Nawābganj.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nawabganj.html",
+  "id": "/bg/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

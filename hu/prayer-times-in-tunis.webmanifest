@@ -2,7 +2,7 @@
   "name": "Loona Tunis imaidői",
   "short_name": "Tunis imaidői",
   "description": "A mai imaidők: Tunis, Tunézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tunis számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tunis.html",
+  "id": "/hu/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

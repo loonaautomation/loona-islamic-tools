@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Peshawar",
   "short_name": "เวลาละหมาดใน Peshawar",
   "description": "เวลาละหมาดวันนี้ใน Peshawar, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Peshawar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-peshawar.html",
+  "id": "/th/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

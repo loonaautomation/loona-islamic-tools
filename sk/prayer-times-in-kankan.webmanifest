@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kankan",
   "short_name": "Časy modlitieb v Kankan",
   "description": "Dnešné časy modlitieb v Kankan, Guinea: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Kankan.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kankan.html",
+  "id": "/sk/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

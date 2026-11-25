@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ambattur",
   "short_name": "Časy modlitieb v Ambattur",
   "description": "Dnešné časy modlitieb v Ambattur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Ambattur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ambattur.html",
+  "id": "/sk/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

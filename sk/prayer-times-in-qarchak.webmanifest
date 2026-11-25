@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Qarchak",
   "short_name": "Časy modlitieb v Qarchak",
   "description": "Dnešné časy modlitieb v Qarchak, Irán: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Qarchak.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-qarchak.html",
+  "id": "/sk/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

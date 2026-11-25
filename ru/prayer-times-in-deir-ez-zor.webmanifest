@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Deir ez-Zor",
   "short_name": "Время намаза в городе Deir ez-Zor",
   "description": "Время намаза на сегодня: Deir ez-Zor, Сирия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Deir ez-Zor.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-deir-ez-zor.html",
+  "id": "/ru/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

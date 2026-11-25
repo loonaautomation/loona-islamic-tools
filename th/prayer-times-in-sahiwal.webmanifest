@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sahiwal",
   "short_name": "เวลาละหมาดใน Sahiwal",
   "description": "เวลาละหมาดวันนี้ใน Sahiwal, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sahiwal",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sahiwal.html",
+  "id": "/th/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Punāsa",
   "short_name": "مواقيت الصلاة في Punāsa",
   "description": "مواقيت الصلاة اليوم في Punāsa، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPunāsa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-punasa.html",
+  "id": "/ar/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

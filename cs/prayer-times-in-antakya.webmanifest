@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Antakya",
   "short_name": "Časy modliteb v Antakya",
   "description": "Dnešní časy modliteb v Antakya, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Antakya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-antakya.html",
+  "id": "/cs/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Navi Mumbai",
   "short_name": "Vremena namaza u gradu Navi Mumbai",
   "description": "Današnja vremena namaza u gradu Navi Mumbai, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Navi Mumbai.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-navi-mumbai.html",
+  "id": "/hr/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

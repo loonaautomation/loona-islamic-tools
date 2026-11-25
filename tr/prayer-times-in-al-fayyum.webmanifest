@@ -2,7 +2,7 @@
   "name": "Loona Al Fayyum Namaz Vakitleri",
   "short_name": "Al Fayyum Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Al Fayyum, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Al Fayyum için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-al-fayyum.html",
+  "id": "/tr/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

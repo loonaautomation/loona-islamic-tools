@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Balbala",
   "short_name": "זמני תפילה בעיר Balbala",
   "description": "זמני התפילה של היום בעיר Balbala, ג'יבוטי: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Balbala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-balbala.html",
+  "id": "/he/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

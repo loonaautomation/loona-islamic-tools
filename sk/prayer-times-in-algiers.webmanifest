@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Algiers",
   "short_name": "Časy modlitieb v Algiers",
   "description": "Dnešné časy modlitieb v Algiers, Alžírsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Algiers.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-algiers.html",
+  "id": "/sk/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в The Hague",
   "short_name": "Час намазу в The Hague",
   "description": "Сьогоднішній час намазу в The Hague, Нідерланди: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для The Hague.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-the-hague.html",
+  "id": "/uk/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

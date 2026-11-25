@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bari",
   "short_name": "זמני תפילה בעיר Bari",
   "description": "זמני התפילה של היום בעיר Bari, איטליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bari.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bari.html",
+  "id": "/he/prayer-times-in-bari.html",
   "start_url": "./prayer-times-in-bari.html",
   "scope": "./prayer-times-in-bari.html",
   "display": "standalone",

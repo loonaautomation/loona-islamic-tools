@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bikaner",
   "short_name": "Ώρες Προσευχής στο Bikaner",
   "description": "Οι σημερινές ώρες προσευχής στο Bikaner, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Bikaner.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bikaner.html",
+  "id": "/el/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

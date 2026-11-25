@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Ḩayy Khildā",
   "short_name": "Heures de prière à Ḩayy Khildā",
   "description": "Les heures de prière d’aujourd’hui à Ḩayy Khildā, Jordanie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Ḩayy Khildā.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-hayy-khilda.html",
+  "id": "/fr/prayer-times-in-hayy-khilda.html",
   "start_url": "./prayer-times-in-hayy-khilda.html",
   "scope": "./prayer-times-in-hayy-khilda.html",
   "display": "standalone",

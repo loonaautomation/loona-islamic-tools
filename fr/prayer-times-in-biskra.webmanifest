@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Biskra",
   "short_name": "Heures de prière à Biskra",
   "description": "Les heures de prière d’aujourd’hui à Biskra, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Biskra.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-biskra.html",
+  "id": "/fr/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

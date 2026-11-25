@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bareilly",
   "short_name": "Час намазу в Bareilly",
   "description": "Сьогоднішній час намазу в Bareilly, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Bareilly.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bareilly.html",
+  "id": "/uk/prayer-times-in-bareilly.html",
   "start_url": "./prayer-times-in-bareilly.html",
   "scope": "./prayer-times-in-bareilly.html",
   "display": "standalone",

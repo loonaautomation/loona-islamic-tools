@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Tabriz",
   "short_name": "Czasy modlitw w miejscowości Tabriz",
   "description": "Dzisiejsze czasy modlitw w miejscowości Tabriz, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Tabriz.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-tabriz.html",
+  "id": "/pl/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Blida",
   "short_name": "Bönetider i Blida",
   "description": "Dagens bönetider i Blida, Algeriet: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Blida.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-blida.html",
+  "id": "/sv/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bābol",
   "short_name": "Bönetider i Bābol",
   "description": "Dagens bönetider i Bābol, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bābol.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-babol.html",
+  "id": "/sv/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

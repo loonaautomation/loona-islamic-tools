@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Faisalabad",
   "short_name": "Ώρες Προσευχής στο Faisalabad",
   "description": "Οι σημερινές ώρες προσευχής στο Faisalabad, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Faisalabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-faisalabad.html",
+  "id": "/el/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

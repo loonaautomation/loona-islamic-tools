@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tarsus",
   "short_name": "Часове за намаз в Tarsus",
   "description": "Днешните часове за намаз в Tarsus, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Tarsus.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tarsus.html",
+  "id": "/bg/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

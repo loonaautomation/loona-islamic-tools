@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Amsterdam",
   "short_name": "Gebedstijden in Amsterdam",
   "description": "De gebedstijden van vandaag in Amsterdam, Nederland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Amsterdam.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-amsterdam.html",
+  "id": "/nl/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

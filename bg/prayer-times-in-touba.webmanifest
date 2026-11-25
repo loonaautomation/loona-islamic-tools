@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Touba",
   "short_name": "Часове за намаз в Touba",
   "description": "Днешните часове за намаз в Touba, Сенегал: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Touba.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-touba.html",
+  "id": "/bg/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Coventry",
   "short_name": "Час намазу в Coventry",
   "description": "Сьогоднішній час намазу в Coventry, Сполучене Королівство: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Coventry.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-coventry.html",
+  "id": "/uk/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

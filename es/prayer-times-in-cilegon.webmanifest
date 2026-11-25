@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Cilegon",
   "short_name": "Horarios de oración en Cilegon",
   "description": "Horarios de oración de hoy en Cilegon, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Cilegon.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-cilegon.html",
+  "id": "/es/prayer-times-in-cilegon.html",
   "start_url": "./prayer-times-in-cilegon.html",
   "scope": "./prayer-times-in-cilegon.html",
   "display": "standalone",

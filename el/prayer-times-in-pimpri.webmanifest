@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pimpri",
   "short_name": "Ώρες Προσευχής στο Pimpri",
   "description": "Οι σημερινές ώρες προσευχής στο Pimpri, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Pimpri.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pimpri.html",
+  "id": "/el/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ranchi",
   "short_name": "זמני תפילה בעיר Ranchi",
   "description": "זמני התפילה של היום בעיר Ranchi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Ranchi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ranchi.html",
+  "id": "/he/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

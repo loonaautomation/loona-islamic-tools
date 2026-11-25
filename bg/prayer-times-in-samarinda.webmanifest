@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Samarinda",
   "short_name": "Часове за намаз в Samarinda",
   "description": "Днешните часове за намаз в Samarinda, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Samarinda.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-samarinda.html",
+  "id": "/bg/prayer-times-in-samarinda.html",
   "start_url": "./prayer-times-in-samarinda.html",
   "scope": "./prayer-times-in-samarinda.html",
   "display": "standalone",

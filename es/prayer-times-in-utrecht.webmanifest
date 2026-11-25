@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Utrecht",
   "short_name": "Horarios de oración en Utrecht",
   "description": "Horarios de oración de hoy en Utrecht, Países Bajos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Utrecht.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-utrecht.html",
+  "id": "/es/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

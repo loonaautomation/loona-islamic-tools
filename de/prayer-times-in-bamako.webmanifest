@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bamako",
   "short_name": "Gebetszeiten in Bamako",
   "description": "Die heutigen Gebetszeiten in Bamako, Mali: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bamako.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bamako.html",
+  "id": "/de/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

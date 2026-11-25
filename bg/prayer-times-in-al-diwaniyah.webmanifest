@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Diwaniyah",
   "short_name": "Часове за намаз в Al Diwaniyah",
   "description": "Днешните часове за намаз в Al Diwaniyah, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Al Diwaniyah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-diwaniyah.html",
+  "id": "/bg/prayer-times-in-al-diwaniyah.html",
   "start_url": "./prayer-times-in-al-diwaniyah.html",
   "scope": "./prayer-times-in-al-diwaniyah.html",
   "display": "standalone",

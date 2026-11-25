@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Brisbane",
   "short_name": "Gebedstijden in Brisbane",
   "description": "De gebedstijden van vandaag in Brisbane, Australië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Brisbane.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-brisbane.html",
+  "id": "/nl/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

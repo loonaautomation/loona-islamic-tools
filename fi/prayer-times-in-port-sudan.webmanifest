@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat Port Sudanissa",
   "short_name": "Rukousajat Port Sudanissa",
   "description": "Tämän päivän rukousajat paikassa Port Sudan, Sudan: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Port Sudan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-port-sudan.html",
+  "id": "/fi/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

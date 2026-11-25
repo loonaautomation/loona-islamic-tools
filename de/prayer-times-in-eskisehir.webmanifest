@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Eskişehir",
   "short_name": "Gebetszeiten in Eskişehir",
   "description": "Die heutigen Gebetszeiten in Eskişehir, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Eskişehir.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-eskisehir.html",
+  "id": "/de/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

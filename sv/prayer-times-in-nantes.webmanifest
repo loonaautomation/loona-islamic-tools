@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nantes",
   "short_name": "Bönetider i Nantes",
   "description": "Dagens bönetider i Nantes, Frankrike: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nantes.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nantes.html",
+  "id": "/sv/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

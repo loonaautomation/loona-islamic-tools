@@ -2,7 +2,7 @@
   "name": "Loona Şabyā の礼拝時刻",
   "short_name": "Şabyā の礼拝時刻",
   "description": "Şabyā、サウジアラビア の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Şabyā についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sabya.html",
+  "id": "/ja/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

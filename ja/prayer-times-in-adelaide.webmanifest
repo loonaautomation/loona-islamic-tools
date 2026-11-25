@@ -2,7 +2,7 @@
   "name": "Loona Adelaide の礼拝時刻",
   "short_name": "Adelaide の礼拝時刻",
   "description": "Adelaide（オーストラリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Adelaide についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-adelaide.html",
+  "id": "/ja/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

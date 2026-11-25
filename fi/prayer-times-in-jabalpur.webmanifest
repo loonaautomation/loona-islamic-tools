@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Jabalpur",
   "short_name": "Rukousajat: Jabalpur",
   "description": "Tämän päivän rukousajat paikassa Jabalpur, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Jabalpur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-jabalpur.html",
+  "id": "/fi/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

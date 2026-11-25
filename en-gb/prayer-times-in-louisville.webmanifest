@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Louisville Today",
   "short_name": "Prayer Times in Louisville Today",
   "description": "Today's prayer times in Louisville, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Louisville.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-louisville.html",
+  "id": "/en-gb/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Zliten imaidői",
   "short_name": "Zliten imaidői",
   "description": "A mai imaidők: Zliten, Líbia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Zliten számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-zliten.html",
+  "id": "/hu/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

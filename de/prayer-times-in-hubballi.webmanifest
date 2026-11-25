@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hubballi",
   "short_name": "Gebetszeiten in Hubballi",
   "description": "Die heutigen Gebetszeiten in Hubballi, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Hubballi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hubballi.html",
+  "id": "/de/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

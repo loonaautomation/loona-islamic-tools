@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Çorlu",
   "short_name": "זמני תפילה בעיר Çorlu",
   "description": "זמני התפילה של היום בעיר Çorlu, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Çorlu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-corlu.html",
+  "id": "/he/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

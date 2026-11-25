@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in N'Djamena",
   "short_name": "Gebetszeiten in N'Djamena",
   "description": "Die heutigen Gebetszeiten in N'Djamena, Tschad: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für N'Djamena.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-n-djamena.html",
+  "id": "/de/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

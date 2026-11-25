@@ -2,7 +2,7 @@
   "name": "Loona Leipzig imaidői",
   "short_name": "Leipzig imaidői",
   "description": "A mai imaidők: Leipzig, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Leipzig számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-leipzig.html",
+  "id": "/hu/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

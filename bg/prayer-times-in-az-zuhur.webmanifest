@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Az-Zuhūr",
   "short_name": "Часове за намаз в Az-Zuhūr",
   "description": "Днешните часове за намаз в Az-Zuhūr, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Az-Zuhūr.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-az-zuhur.html",
+  "id": "/bg/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

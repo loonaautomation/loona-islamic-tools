@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jammu",
   "short_name": "Gebedstijden in Jammu",
   "description": "De gebedstijden van vandaag in Jammu, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jammu.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jammu.html",
+  "id": "/nl/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

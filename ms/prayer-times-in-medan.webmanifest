@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Medan",
   "short_name": "Waktu Solat di Medan",
   "description": "Waktu solat hari ini di Medan, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Medan.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-medan.html",
+  "id": "/ms/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

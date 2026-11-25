@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Az-Zuhūr",
   "short_name": "Время намаза в городе Az-Zuhūr",
   "description": "Время намаза на сегодня: Az-Zuhūr, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Az-Zuhūr.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-az-zuhur.html",
+  "id": "/ru/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

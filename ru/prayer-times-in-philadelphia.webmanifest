@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Philadelphia",
   "short_name": "Время намаза в городе Philadelphia",
   "description": "Время намаза на сегодня: Philadelphia, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Philadelphia.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-philadelphia.html",
+  "id": "/ru/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

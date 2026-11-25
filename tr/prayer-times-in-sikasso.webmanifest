@@ -2,7 +2,7 @@
   "name": "Loona Sikasso Namaz Vakitleri",
   "short_name": "Sikasso Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sikasso, Mali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sikasso için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sikasso.html",
+  "id": "/tr/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

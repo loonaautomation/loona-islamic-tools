@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Fīrozābād",
   "short_name": "Vremena namaza u gradu Fīrozābād",
   "description": "Današnja vremena namaza u gradu Fīrozābād, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Fīrozābād.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-firozabad.html",
+  "id": "/hr/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

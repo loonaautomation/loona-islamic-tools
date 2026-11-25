@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Baltimore",
   "short_name": "Gebetszeiten in Baltimore",
   "description": "Die heutigen Gebetszeiten in Baltimore, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Baltimore.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-baltimore.html",
+  "id": "/de/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

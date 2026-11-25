@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Rasht",
   "short_name": "Часове за намаз в Rasht",
   "description": "Днешните часове за намаз в Rasht, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Rasht.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-rasht.html",
+  "id": "/bg/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

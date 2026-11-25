@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Akola",
   "short_name": "Время намаза в городе Akola",
   "description": "Время намаза на сегодня: Akola, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Akola.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-akola.html",
+  "id": "/ru/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

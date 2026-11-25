@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Singapore",
   "short_name": "Prayer Times in Singapore",
   "description": "Today's prayer times in Singapore, Singapore: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Singapore.",
-  "id": "/loona-islamic-tools/prayer-times-in-singapore.html",
+  "id": "/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

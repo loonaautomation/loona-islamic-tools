@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ambon",
   "short_name": "Prayer Times in Ambon",
   "description": "Today's prayer times in Ambon, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ambon.",
-  "id": "/loona-islamic-tools/prayer-times-in-ambon.html",
+  "id": "/prayer-times-in-ambon.html",
   "start_url": "./prayer-times-in-ambon.html",
   "scope": "./prayer-times-in-ambon.html",
   "display": "standalone",

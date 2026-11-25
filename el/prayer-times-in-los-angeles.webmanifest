@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Los Angeles",
   "short_name": "Ώρες Προσευχής στο Los Angeles",
   "description": "Οι σημερινές ώρες προσευχής στο Los Angeles, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Los Angeles.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-los-angeles.html",
+  "id": "/el/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Teluk Intan",
   "short_name": "Gebetszeiten in Teluk Intan",
   "description": "Die heutigen Gebetszeiten in Teluk Intan, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Teluk Intan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-teluk-intan.html",
+  "id": "/de/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

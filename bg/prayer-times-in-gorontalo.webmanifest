@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Gorontalo",
   "short_name": "Часове за намаз в Gorontalo",
   "description": "Днешните часове за намаз в Gorontalo, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Gorontalo.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-gorontalo.html",
+  "id": "/bg/prayer-times-in-gorontalo.html",
   "start_url": "./prayer-times-in-gorontalo.html",
   "scope": "./prayer-times-in-gorontalo.html",
   "display": "standalone",

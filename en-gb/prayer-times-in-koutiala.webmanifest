@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Koutiala Today",
   "short_name": "Prayer Times in Koutiala Today",
   "description": "Today's prayer times in Koutiala, Mali: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Koutiala.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-koutiala.html",
+  "id": "/en-gb/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Calendrier mensuel des prières",
   "short_name": "Calendrier mensuel des prières",
   "description": "Créez un calendrier mensuel des prières imprimable pour n’importe quelle ville : les six heures pour tout le mois, avec votre méthode de calcul et votre école pour Asr, gratuit et privé.",
-  "id": "/loona-islamic-tools/fr/monthly-prayer-timetable/",
+  "id": "/fr/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

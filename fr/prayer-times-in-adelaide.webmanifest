@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Adelaide",
   "short_name": "Heures de prière à Adelaide",
   "description": "Les heures de prière d’aujourd’hui à Adelaide, Australie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Adelaide.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-adelaide.html",
+  "id": "/fr/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

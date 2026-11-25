@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Yunusobod",
   "short_name": "Časy modliteb v Yunusobod",
   "description": "Dnešní časy modliteb v Yunusobod, Uzbekistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Yunusobod.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-yunusobod.html",
+  "id": "/cs/prayer-times-in-yunusobod.html",
   "start_url": "./prayer-times-in-yunusobod.html",
   "scope": "./prayer-times-in-yunusobod.html",
   "display": "standalone",

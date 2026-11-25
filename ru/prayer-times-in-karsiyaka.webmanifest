@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Karşıyaka",
   "short_name": "Время намаза в городе Karşıyaka",
   "description": "Время намаза на сегодня: Karşıyaka, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Karşıyaka.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-karsiyaka.html",
+  "id": "/ru/prayer-times-in-karsiyaka.html",
   "start_url": "./prayer-times-in-karsiyaka.html",
   "scope": "./prayer-times-in-karsiyaka.html",
   "display": "standalone",

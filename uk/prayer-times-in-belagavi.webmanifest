@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Belagavi",
   "short_name": "Час намазу в Belagavi",
   "description": "Сьогоднішній час намазу в Belagavi, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Belagavi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-belagavi.html",
+  "id": "/uk/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

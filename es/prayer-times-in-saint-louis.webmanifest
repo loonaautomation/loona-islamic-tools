@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Saint-Louis",
   "short_name": "Horarios de oración en Saint-Louis",
   "description": "Horarios de oración de hoy en Saint-Louis, Senegal: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Saint-Louis.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-saint-louis.html",
+  "id": "/es/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

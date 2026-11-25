@@ -2,7 +2,7 @@
   "name": "Loona Hijri Calendar",
   "short_name": "Hijri Calendar",
   "description": "Browse any Hijri month and year in a clean Islamic calendar where every day also shows its Gregorian date. Umm al-Qura calendar, free and always current.",
-  "id": "/loona-islamic-tools/hijri-calendar/",
+  "id": "/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

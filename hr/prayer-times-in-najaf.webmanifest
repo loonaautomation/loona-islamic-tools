@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Najaf",
   "short_name": "Vremena namaza u gradu Najaf",
   "description": "Današnja vremena namaza u gradu Najaf, Irak: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Najaf.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-najaf.html",
+  "id": "/hr/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

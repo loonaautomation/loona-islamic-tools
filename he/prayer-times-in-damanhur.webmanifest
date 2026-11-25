@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Damanhur",
   "short_name": "זמני תפילה בעיר Damanhur",
   "description": "זמני התפילה של היום בעיר Damanhur, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Damanhur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-damanhur.html",
+  "id": "/he/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

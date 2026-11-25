@@ -2,7 +2,7 @@
   "name": "Loona Louisville Namaz Vakitleri",
   "short_name": "Louisville Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Louisville, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Louisville için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-louisville.html",
+  "id": "/tr/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

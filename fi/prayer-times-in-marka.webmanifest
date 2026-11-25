@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Marka",
   "short_name": "Rukousajat: Marka",
   "description": "Tämän päivän rukousajat paikassa Marka, Somalia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Marka.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-marka.html",
+  "id": "/fi/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

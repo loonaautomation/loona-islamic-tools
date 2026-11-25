@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable in Zarqa 2027",
   "short_name": "Ramadan Timetable in Zarqa 2027",
   "description": "Ramadan 2027 timetable for Zarqa, Jordan: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448. Expected February 8 to March 8, 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/en-us/ramadan-timetable-in-zarqa.html",
+  "id": "/en-us/ramadan-timetable-in-zarqa.html",
   "start_url": "./ramadan-timetable-in-zarqa.html",
   "scope": "./ramadan-timetable-in-zarqa.html",
   "display": "standalone",

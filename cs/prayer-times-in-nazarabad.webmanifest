@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Naz̧arābād",
   "short_name": "Časy modliteb v Naz̧arābād",
   "description": "Dnešní časy modliteb v Naz̧arābād, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Naz̧arābād.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nazarabad.html",
+  "id": "/cs/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

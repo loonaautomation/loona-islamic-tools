@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Aden Today",
   "short_name": "Prayer Times in Aden Today",
   "description": "Today's prayer times in Aden, Yemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Aden.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-aden.html",
+  "id": "/en-us/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

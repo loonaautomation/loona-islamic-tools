@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tabuk",
   "short_name": "Heures de prière à Tabuk",
   "description": "Les heures de prière d’aujourd’hui à Tabuk, Arabie saoudite : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Umm al-Qura, calculées en direct sur votre appareil pour Tabuk.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tabuk.html",
+  "id": "/fr/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

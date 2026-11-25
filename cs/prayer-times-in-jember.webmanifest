@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jember",
   "short_name": "Časy modliteb v Jember",
   "description": "Dnešní časy modliteb v Jember, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Jember.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jember.html",
+  "id": "/cs/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

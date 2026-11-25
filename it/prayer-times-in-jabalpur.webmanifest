@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Jabalpur",
   "short_name": "Orari di preghiera a Jabalpur",
   "description": "Orari di preghiera di oggi a Jabalpur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Jabalpur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-jabalpur.html",
+  "id": "/it/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

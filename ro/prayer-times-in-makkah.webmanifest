@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Makkah",
   "short_name": "Ore de rugăciune în Makkah",
   "description": "Orele de rugăciune de azi în Makkah, Arabia Saudită: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Makkah.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-makkah.html",
+  "id": "/ro/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

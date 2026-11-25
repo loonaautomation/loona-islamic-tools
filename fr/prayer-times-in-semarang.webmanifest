@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Semarang",
   "short_name": "Heures de prière à Semarang",
   "description": "Les heures de prière d’aujourd’hui à Semarang, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Semarang.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-semarang.html",
+  "id": "/fr/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

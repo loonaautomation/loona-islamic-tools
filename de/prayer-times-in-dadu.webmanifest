@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dadu",
   "short_name": "Gebetszeiten in Dadu",
   "description": "Die heutigen Gebetszeiten in Dadu, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Dadu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dadu.html",
+  "id": "/de/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

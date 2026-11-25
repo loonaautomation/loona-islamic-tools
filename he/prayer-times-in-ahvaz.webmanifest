@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ahvaz",
   "short_name": "זמני תפילה בעיר Ahvaz",
   "description": "זמני התפילה של היום בעיר Ahvaz, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ahvaz.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ahvaz.html",
+  "id": "/he/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

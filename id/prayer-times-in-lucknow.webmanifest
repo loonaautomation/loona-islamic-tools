@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Lucknow",
   "short_name": "Waktu Salat di Lucknow",
   "description": "Waktu salat hari ini di Lucknow, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Lucknow.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-lucknow.html",
+  "id": "/id/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bahawalnagar",
   "short_name": "Bønnetider i Bahawalnagar",
   "description": "Dagens bønnetider i Bahawalnagar, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bahawalnagar.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bahawalnagar.html",
+  "id": "/nb/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

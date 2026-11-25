@@ -2,7 +2,7 @@
   "name": "Loona Şanlıurfa の礼拝時刻",
   "short_name": "Şanlıurfa の礼拝時刻",
   "description": "Şanlıurfa（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Şanlıurfa についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sanliurfa.html",
+  "id": "/ja/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

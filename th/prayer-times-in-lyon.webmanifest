@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Lyon",
   "short_name": "เวลาละหมาดใน Lyon",
   "description": "เวลาละหมาดวันนี้ใน Lyon, France: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Lyon",
-  "id": "/loona-islamic-tools/th/prayer-times-in-lyon.html",
+  "id": "/th/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

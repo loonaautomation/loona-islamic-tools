@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Karachi",
   "short_name": "Horarios de oración en Karachi",
   "description": "Horarios de oración de hoy en Karachi, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Karachi.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-karachi.html",
+  "id": "/es/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

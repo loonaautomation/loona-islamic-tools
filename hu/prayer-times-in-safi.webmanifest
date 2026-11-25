@@ -2,7 +2,7 @@
   "name": "Loona Safi imaidői",
   "short_name": "Safi imaidői",
   "description": "A mai imaidők: Safi, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Safi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-safi.html",
+  "id": "/hu/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

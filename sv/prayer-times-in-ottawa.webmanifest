@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ottawa",
   "short_name": "Bönetider i Ottawa",
   "description": "Dagens bönetider i Ottawa, Kanada: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Ottawa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ottawa.html",
+  "id": "/sv/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

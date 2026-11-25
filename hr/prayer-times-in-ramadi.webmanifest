@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ramadi",
   "short_name": "Vremena namaza u gradu Ramadi",
   "description": "Današnja vremena namaza u gradu Ramadi, Irak: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Ramadi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ramadi.html",
+  "id": "/hr/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

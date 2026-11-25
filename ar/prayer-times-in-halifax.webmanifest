@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Halifax",
   "short_name": "مواقيت الصلاة في Halifax",
   "description": "مواقيت الصلاة اليوم في Halifax، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـHalifax.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-halifax.html",
+  "id": "/ar/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

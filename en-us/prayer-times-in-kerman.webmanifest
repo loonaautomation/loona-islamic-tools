@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kerman Today",
   "short_name": "Prayer Times in Kerman Today",
   "description": "Today's prayer times in Kerman, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kerman.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-kerman.html",
+  "id": "/en-us/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

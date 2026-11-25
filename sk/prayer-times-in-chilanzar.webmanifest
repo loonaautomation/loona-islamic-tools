@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Chilanzar",
   "short_name": "Časy modlitieb v Chilanzar",
   "description": "Dnešné časy modlitieb v Chilanzar, Uzbekistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Chilanzar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-chilanzar.html",
+  "id": "/sk/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

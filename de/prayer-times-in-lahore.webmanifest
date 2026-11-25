@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Lahore",
   "short_name": "Gebetszeiten in Lahore",
   "description": "Die heutigen Gebetszeiten in Lahore, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Lahore.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-lahore.html",
+  "id": "/de/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

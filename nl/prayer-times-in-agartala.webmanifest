@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Agartala",
   "short_name": "Gebedstijden in Agartala",
   "description": "De gebedstijden van vandaag in Agartala, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Agartala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-agartala.html",
+  "id": "/nl/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

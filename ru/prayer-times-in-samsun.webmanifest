@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Samsun",
   "short_name": "Время намаза в городе Samsun",
   "description": "Время намаза на сегодня: Samsun, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Samsun.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-samsun.html",
+  "id": "/ru/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

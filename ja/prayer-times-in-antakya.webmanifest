@@ -2,7 +2,7 @@
   "name": "Loona Antakya の礼拝時刻",
   "short_name": "Antakya の礼拝時刻",
   "description": "Antakya（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Antakya についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-antakya.html",
+  "id": "/ja/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

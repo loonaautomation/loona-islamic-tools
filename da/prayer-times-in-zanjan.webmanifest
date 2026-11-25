@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Zanjan",
   "short_name": "Bønnetider i Zanjan",
   "description": "Dagens bønnetider i Zanjan, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Zanjan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-zanjan.html",
+  "id": "/da/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ségou imaidői",
   "short_name": "Ségou imaidői",
   "description": "A mai imaidők: Ségou, Mali: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Ségou számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-segou.html",
+  "id": "/hu/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

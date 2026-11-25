@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dihok",
   "short_name": "Bönetider i Dihok",
   "description": "Dagens bönetider i Dihok, Irak: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Dihok.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dihok.html",
+  "id": "/sv/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

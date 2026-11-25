@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Brakpan",
   "short_name": "Bønnetider i Brakpan",
   "description": "Dagens bønnetider i Brakpan, Sydafrika: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Brakpan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-brakpan.html",
+  "id": "/da/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bhopal",
   "short_name": "Prayer Times in Bhopal",
   "description": "Today's prayer times in Bhopal, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Bhopal.",
-  "id": "/loona-islamic-tools/prayer-times-in-bhopal.html",
+  "id": "/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

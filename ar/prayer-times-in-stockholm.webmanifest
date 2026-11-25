@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Stockholm",
   "short_name": "مواقيت الصلاة في Stockholm",
   "description": "مواقيت الصلاة اليوم في Stockholm، السويد: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـStockholm.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-stockholm.html",
+  "id": "/ar/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Zliten",
   "short_name": "Час намазу в Zliten",
   "description": "Сьогоднішній час намазу в Zliten, Лівія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Zliten.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-zliten.html",
+  "id": "/uk/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

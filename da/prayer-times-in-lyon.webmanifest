@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lyon",
   "short_name": "Bønnetider i Lyon",
   "description": "Dagens bønnetider i Lyon, Frankrig: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Lyon.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-lyon.html",
+  "id": "/da/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

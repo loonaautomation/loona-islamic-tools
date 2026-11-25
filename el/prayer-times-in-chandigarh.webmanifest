@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Chandigarh",
   "short_name": "Ώρες Προσευχής στο Chandigarh",
   "description": "Οι σημερινές ώρες προσευχής στο Chandigarh, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Chandigarh.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-chandigarh.html",
+  "id": "/el/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

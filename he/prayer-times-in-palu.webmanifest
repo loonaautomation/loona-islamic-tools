@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Palu",
   "short_name": "זמני תפילה בעיר Palu",
   "description": "זמני התפילה של היום בעיר Palu, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Palu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-palu.html",
+  "id": "/he/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

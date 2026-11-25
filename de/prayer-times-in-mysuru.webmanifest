@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mysuru",
   "short_name": "Gebetszeiten in Mysuru",
   "description": "Die heutigen Gebetszeiten in Mysuru, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Mysuru.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mysuru.html",
+  "id": "/de/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

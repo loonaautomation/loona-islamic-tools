@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Winnipeg",
   "short_name": "Orari di preghiera a Winnipeg",
   "description": "Orari di preghiera di oggi a Winnipeg, Canada: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Winnipeg.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-winnipeg.html",
+  "id": "/it/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

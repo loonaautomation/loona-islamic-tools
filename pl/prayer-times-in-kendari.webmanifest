@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kendari",
   "short_name": "Czasy modlitw w miejscowości Kendari",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kendari, kraj Indonezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kendari.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kendari.html",
+  "id": "/pl/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

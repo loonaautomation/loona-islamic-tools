@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Boksburg Today",
   "short_name": "Prayer Times in Boksburg Today",
   "description": "Today's prayer times in Boksburg, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Boksburg.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-boksburg.html",
+  "id": "/en-us/prayer-times-in-boksburg.html",
   "start_url": "./prayer-times-in-boksburg.html",
   "scope": "./prayer-times-in-boksburg.html",
   "display": "standalone",

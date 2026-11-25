@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Yanbu",
   "short_name": "זמני תפילה בעיר Yanbu",
   "description": "זמני התפילה של היום בעיר Yanbu, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Yanbu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-yanbu.html",
+  "id": "/he/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Qadarif",
   "short_name": "Часове за намаз в Al Qadarif",
   "description": "Днешните часове за намаз в Al Qadarif, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Al Qadarif.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-qadarif.html",
+  "id": "/bg/prayer-times-in-al-qadarif.html",
   "start_url": "./prayer-times-in-al-qadarif.html",
   "scope": "./prayer-times-in-al-qadarif.html",
   "display": "standalone",

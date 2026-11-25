@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Howrah",
   "short_name": "Bønnetider i Howrah",
   "description": "Dagens bønnetider i Howrah, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Howrah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-howrah.html",
+  "id": "/nb/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

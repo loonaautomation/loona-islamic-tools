@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Khouribga",
   "short_name": "Waktu Solat di Khouribga",
   "description": "Waktu solat hari ini di Khouribga, Maghribi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Khouribga.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-khouribga.html",
+  "id": "/ms/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

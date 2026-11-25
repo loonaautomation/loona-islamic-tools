@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Vellore",
   "short_name": "Bönetider i Vellore",
   "description": "Dagens bönetider i Vellore, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Vellore.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-vellore.html",
+  "id": "/sv/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

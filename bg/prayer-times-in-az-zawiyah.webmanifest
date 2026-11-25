@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Az Zāwīyah",
   "short_name": "Часове за намаз в Az Zāwīyah",
   "description": "Днешните часове за намаз в Az Zāwīyah, Либия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Az Zāwīyah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-az-zawiyah.html",
+  "id": "/bg/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

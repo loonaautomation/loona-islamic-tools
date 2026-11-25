@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ankara",
   "short_name": "Часове за намаз в Ankara",
   "description": "Днешните часове за намаз в Ankara, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ankara.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ankara.html",
+  "id": "/bg/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

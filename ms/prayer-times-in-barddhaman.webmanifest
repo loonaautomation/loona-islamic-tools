@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Barddhamān",
   "short_name": "Waktu Solat di Barddhamān",
   "description": "Waktu solat hari ini di Barddhamān, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Barddhamān.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-barddhaman.html",
+  "id": "/ms/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

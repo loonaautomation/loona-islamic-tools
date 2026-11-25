@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Taiz",
   "short_name": "Bönetider i Taiz",
   "description": "Dagens bönetider i Taiz, Jemen: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Taiz.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-taiz.html",
+  "id": "/sv/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

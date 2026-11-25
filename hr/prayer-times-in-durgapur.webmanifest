@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Durgapur",
   "short_name": "Vremena namaza u gradu Durgapur",
   "description": "Današnja vremena namaza u gradu Durgapur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Durgapur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-durgapur.html",
+  "id": "/hr/prayer-times-in-durgapur.html",
   "start_url": "./prayer-times-in-durgapur.html",
   "scope": "./prayer-times-in-durgapur.html",
   "display": "standalone",

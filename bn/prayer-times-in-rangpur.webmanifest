@@ -2,7 +2,7 @@
   "name": "Loona Rangpur-এ নামাজের সময়",
   "short_name": "Rangpur-এ নামাজের সময়",
   "description": "Rangpur, বাংলাদেশ-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Karachi পদ্ধতি, আপনার ডিভাইসে Rangpur-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-rangpur.html",
+  "id": "/bn/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

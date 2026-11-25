@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Singa",
   "short_name": "Ώρες Προσευχής στο Singa",
   "description": "Οι σημερινές ώρες προσευχής στο Singa, Σουδάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Singa.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-singa.html",
+  "id": "/el/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

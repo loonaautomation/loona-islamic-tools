@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Catania",
   "short_name": "مواقيت الصلاة في Catania",
   "description": "مواقيت الصلاة اليوم في Catania، إيطاليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCatania.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-catania.html",
+  "id": "/ar/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

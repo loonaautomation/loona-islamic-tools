@@ -2,7 +2,7 @@
   "name": "Loona Al Kharj imaidői",
   "short_name": "Al Kharj imaidői",
   "description": "A mai imaidők: Al Kharj, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Al Kharj számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-kharj.html",
+  "id": "/hu/prayer-times-in-al-kharj.html",
   "start_url": "./prayer-times-in-al-kharj.html",
   "scope": "./prayer-times-in-al-kharj.html",
   "display": "standalone",

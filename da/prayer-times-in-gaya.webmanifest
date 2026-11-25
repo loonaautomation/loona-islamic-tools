@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gaya",
   "short_name": "Bønnetider i Gaya",
   "description": "Dagens bønnetider i Gaya, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Gaya.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-gaya.html",
+  "id": "/da/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

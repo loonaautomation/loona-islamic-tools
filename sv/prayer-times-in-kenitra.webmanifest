@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kenitra",
   "short_name": "Bönetider i Kenitra",
   "description": "Dagens bönetider i Kenitra, Marocko: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kenitra.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kenitra.html",
+  "id": "/sv/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

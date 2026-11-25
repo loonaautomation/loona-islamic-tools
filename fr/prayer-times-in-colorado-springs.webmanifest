@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Colorado Springs",
   "short_name": "Heures de prière à Colorado Springs",
   "description": "Les heures de prière d’aujourd’hui à Colorado Springs, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Colorado Springs.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-colorado-springs.html",
+  "id": "/fr/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

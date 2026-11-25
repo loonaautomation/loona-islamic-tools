@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Riverside",
   "short_name": "Rukousajat: Riverside",
   "description": "Tämän päivän rukousajat paikassa Riverside, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Riverside.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-riverside.html",
+  "id": "/fi/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

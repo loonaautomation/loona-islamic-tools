@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Al Mansurah",
   "short_name": "Orari di preghiera a Al Mansurah",
   "description": "Orari di preghiera di oggi a Al Mansurah, Egitto: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Egyptian General Authority, calcolati live sul tuo dispositivo per Al Mansurah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-al-mansurah.html",
+  "id": "/it/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

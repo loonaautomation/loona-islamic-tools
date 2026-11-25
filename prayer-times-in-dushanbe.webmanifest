@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dushanbe",
   "short_name": "Prayer Times in Dushanbe",
   "description": "Today's prayer times in Dushanbe, Tajikistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dushanbe.",
-  "id": "/loona-islamic-tools/prayer-times-in-dushanbe.html",
+  "id": "/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

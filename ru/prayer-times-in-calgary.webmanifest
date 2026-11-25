@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Calgary",
   "short_name": "Время намаза в городе Calgary",
   "description": "Время намаза на сегодня: Calgary, Канада: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Calgary.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-calgary.html",
+  "id": "/ru/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

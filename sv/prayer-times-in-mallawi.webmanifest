@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mallawī",
   "short_name": "Bönetider i Mallawī",
   "description": "Dagens bönetider i Mallawī, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Mallawī.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mallawi.html",
+  "id": "/sv/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

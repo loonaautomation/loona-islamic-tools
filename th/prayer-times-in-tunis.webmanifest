@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tunis",
   "short_name": "เวลาละหมาดใน Tunis",
   "description": "เวลาละหมาดวันนี้ใน Tunis, Tunisia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tunis",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tunis.html",
+  "id": "/th/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

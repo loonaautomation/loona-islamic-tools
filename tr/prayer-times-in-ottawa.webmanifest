@@ -2,7 +2,7 @@
   "name": "Loona Ottawa Namaz Vakitleri",
   "short_name": "Ottawa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ottawa, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Ottawa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ottawa.html",
+  "id": "/tr/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Pākdasht",
   "short_name": "Horários de Oração em Pākdasht",
   "description": "Horários de oração de hoje em Pākdasht, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Pākdasht.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-pakdasht.html",
+  "id": "/pt/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Saddiqabad Namaz Vakitleri",
   "short_name": "Saddiqabad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Saddiqabad, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Saddiqabad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-saddiqabad.html",
+  "id": "/tr/prayer-times-in-saddiqabad.html",
   "start_url": "./prayer-times-in-saddiqabad.html",
   "scope": "./prayer-times-in-saddiqabad.html",
   "display": "standalone",

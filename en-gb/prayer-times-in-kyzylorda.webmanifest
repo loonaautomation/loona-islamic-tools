@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kyzylorda Today",
   "short_name": "Prayer Times in Kyzylorda Today",
   "description": "Today's prayer times in Kyzylorda, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kyzylorda.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-kyzylorda.html",
+  "id": "/en-gb/prayer-times-in-kyzylorda.html",
   "start_url": "./prayer-times-in-kyzylorda.html",
   "scope": "./prayer-times-in-kyzylorda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Saint Paul の礼拝時刻",
   "short_name": "Saint Paul の礼拝時刻",
   "description": "Saint Paul（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Saint Paul についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-saint-paul.html",
+  "id": "/ja/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-számláló",
   "short_name": "Tasbih-számláló",
   "description": "Digitális tasbih számláló: SubhanAllah, Alhamdulillah és további előbeállítások, 33/99/100 célok, körkövetés, rezgés és az eszközére mentett összesített számok.",
-  "id": "/loona-islamic-tools/hu/tasbih-counter/",
+  "id": "/hu/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

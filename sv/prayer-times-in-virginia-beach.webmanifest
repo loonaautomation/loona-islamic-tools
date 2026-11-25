@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Virginia Beach",
   "short_name": "Bönetider i Virginia Beach",
   "description": "Dagens bönetider i Virginia Beach, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Virginia Beach.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-virginia-beach.html",
+  "id": "/sv/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

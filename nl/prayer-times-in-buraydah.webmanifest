@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Buraydah",
   "short_name": "Gebedstijden in Buraydah",
   "description": "De gebedstijden van vandaag in Buraydah, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Buraydah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-buraydah.html",
+  "id": "/nl/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Marka",
   "short_name": "Horários de Oração em Marka",
   "description": "Horários de oração de hoje em Marka, Somália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Marka.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-marka.html",
+  "id": "/pt-br/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

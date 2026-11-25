@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Batman",
   "short_name": "Bønnetider i Batman",
   "description": "Dagens bønnetider i Batman, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Batman.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-batman.html",
+  "id": "/da/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Khartoum North",
   "short_name": "Heures de prière à Khartoum North",
   "description": "Les heures de prière d’aujourd’hui à Khartoum North, Soudan : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Khartoum North.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-khartoum-north.html",
+  "id": "/fr/prayer-times-in-khartoum-north.html",
   "start_url": "./prayer-times-in-khartoum-north.html",
   "scope": "./prayer-times-in-khartoum-north.html",
   "display": "standalone",

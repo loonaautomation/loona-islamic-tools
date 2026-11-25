@@ -2,7 +2,7 @@
   "name": "Loona Pekanbaru imaidői",
   "short_name": "Pekanbaru imaidői",
   "description": "A mai imaidők: Pekanbaru, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Pekanbaru számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-pekanbaru.html",
+  "id": "/hu/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

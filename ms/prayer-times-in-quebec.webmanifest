@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Québec",
   "short_name": "Waktu Solat di Québec",
   "description": "Waktu solat hari ini di Québec, Kanada: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Québec.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-quebec.html",
+  "id": "/ms/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

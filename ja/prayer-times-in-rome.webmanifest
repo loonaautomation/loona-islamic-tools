@@ -2,7 +2,7 @@
   "name": "Loona Rome の礼拝時刻",
   "short_name": "Rome の礼拝時刻",
   "description": "Rome（イタリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Rome についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-rome.html",
+  "id": "/ja/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

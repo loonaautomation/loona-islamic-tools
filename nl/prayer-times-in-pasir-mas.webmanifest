@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pasir Mas",
   "short_name": "Gebedstijden in Pasir Mas",
   "description": "De gebedstijden van vandaag in Pasir Mas, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pasir Mas.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pasir-mas.html",
+  "id": "/nl/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ordu",
   "short_name": "זמני תפילה בעיר Ordu",
   "description": "זמני התפילה של היום בעיר Ordu, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ordu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ordu.html",
+  "id": "/he/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

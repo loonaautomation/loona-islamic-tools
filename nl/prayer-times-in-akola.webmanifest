@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Akola",
   "short_name": "Gebedstijden in Akola",
   "description": "De gebedstijden van vandaag in Akola, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Akola.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-akola.html",
+  "id": "/nl/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

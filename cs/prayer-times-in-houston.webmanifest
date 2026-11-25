@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Houston",
   "short_name": "Časy modliteb v Houston",
   "description": "Dnešní časy modliteb v Houston, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Houston.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-houston.html",
+  "id": "/cs/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

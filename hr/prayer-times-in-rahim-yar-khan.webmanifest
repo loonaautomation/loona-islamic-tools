@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rahim Yar Khan",
   "short_name": "Vremena namaza u gradu Rahim Yar Khan",
   "description": "Današnja vremena namaza u gradu Rahim Yar Khan, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Rahim Yar Khan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rahim-yar-khan.html",
+  "id": "/hr/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в N'Djamena",
   "short_name": "Час намазу в N'Djamena",
   "description": "Сьогоднішній час намазу в N'Djamena, Чад: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для N'Djamena.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-n-djamena.html",
+  "id": "/uk/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

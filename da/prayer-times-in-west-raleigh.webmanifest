@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i West Raleigh",
   "short_name": "Bønnetider i West Raleigh",
   "description": "Dagens bønnetider i West Raleigh, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for West Raleigh.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-west-raleigh.html",
+  "id": "/da/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

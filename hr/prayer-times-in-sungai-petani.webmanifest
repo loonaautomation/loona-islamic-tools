@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sungai Petani",
   "short_name": "Vremena namaza u gradu Sungai Petani",
   "description": "Današnja vremena namaza u gradu Sungai Petani, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Sungai Petani.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sungai-petani.html",
+  "id": "/hr/prayer-times-in-sungai-petani.html",
   "start_url": "./prayer-times-in-sungai-petani.html",
   "scope": "./prayer-times-in-sungai-petani.html",
   "display": "standalone",

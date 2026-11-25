@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tarsus",
   "short_name": "Vremena namaza u gradu Tarsus",
   "description": "Današnja vremena namaza u gradu Tarsus, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tarsus.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tarsus.html",
+  "id": "/hr/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

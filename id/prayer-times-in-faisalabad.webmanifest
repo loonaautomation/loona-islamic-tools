@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Faisalabad",
   "short_name": "Waktu Salat di Faisalabad",
   "description": "Waktu salat hari ini di Faisalabad, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Faisalabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-faisalabad.html",
+  "id": "/id/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

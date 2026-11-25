@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mumbai",
   "short_name": "Orari di preghiera a Mumbai",
   "description": "Orari di preghiera di oggi a Mumbai, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Mumbai.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mumbai.html",
+  "id": "/it/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

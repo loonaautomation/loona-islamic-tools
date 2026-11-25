@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Khuzdar",
   "short_name": "Ώρες Προσευχής στο Khuzdar",
   "description": "Οι σημερινές ώρες προσευχής στο Khuzdar, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Khuzdar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-khuzdar.html",
+  "id": "/el/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

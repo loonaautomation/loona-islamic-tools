@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nizāmābād",
   "short_name": "Prayer Times in Nizāmābād",
   "description": "Today's prayer times in Nizāmābād, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Nizāmābād.",
-  "id": "/loona-islamic-tools/prayer-times-in-nizamabad.html",
+  "id": "/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

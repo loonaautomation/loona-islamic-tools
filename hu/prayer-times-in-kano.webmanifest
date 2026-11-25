@@ -2,7 +2,7 @@
   "name": "Loona Kano imaidői",
   "short_name": "Kano imaidői",
   "description": "A mai imaidők: Kano, Nigéria: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kano számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kano.html",
+  "id": "/hu/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

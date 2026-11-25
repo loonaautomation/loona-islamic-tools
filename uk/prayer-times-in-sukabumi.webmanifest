@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sukabumi",
   "short_name": "Час намазу в Sukabumi",
   "description": "Сьогоднішній час намазу в Sukabumi, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Sukabumi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sukabumi.html",
+  "id": "/uk/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

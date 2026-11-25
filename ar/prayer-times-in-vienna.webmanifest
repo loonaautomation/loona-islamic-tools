@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Vienna",
   "short_name": "مواقيت الصلاة في Vienna",
   "description": "مواقيت الصلاة اليوم في Vienna، النمسا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـVienna.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-vienna.html",
+  "id": "/ar/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

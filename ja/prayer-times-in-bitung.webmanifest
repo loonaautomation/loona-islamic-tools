@@ -2,7 +2,7 @@
   "name": "Loona Bitung の礼拝時刻",
   "short_name": "Bitung の礼拝時刻",
   "description": "Bitung（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Bitung についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bitung.html",
+  "id": "/ja/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

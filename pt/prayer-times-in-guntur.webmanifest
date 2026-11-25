@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Guntur",
   "short_name": "Horários de Oração em Guntur",
   "description": "Horários de oração de hoje em Guntur, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Guntur.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-guntur.html",
+  "id": "/pt/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

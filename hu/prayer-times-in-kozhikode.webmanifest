@@ -2,7 +2,7 @@
   "name": "Loona Kozhikode imaidői",
   "short_name": "Kozhikode imaidői",
   "description": "A mai imaidők: Kozhikode, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kozhikode számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kozhikode.html",
+  "id": "/hu/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

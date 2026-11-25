@@ -2,7 +2,7 @@
   "name": "Loona Edmonton imaidői",
   "short_name": "Edmonton imaidői",
   "description": "A mai imaidők: Edmonton, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Edmonton számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-edmonton.html",
+  "id": "/hu/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

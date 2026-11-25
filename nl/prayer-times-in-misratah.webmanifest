@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Misratah",
   "short_name": "Gebedstijden in Misratah",
   "description": "De gebedstijden van vandaag in Misratah, Libië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Misratah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-misratah.html",
+  "id": "/nl/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

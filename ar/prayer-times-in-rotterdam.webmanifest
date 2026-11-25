@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rotterdam",
   "short_name": "مواقيت الصلاة في Rotterdam",
   "description": "مواقيت الصلاة اليوم في Rotterdam، هولندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRotterdam.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rotterdam.html",
+  "id": "/ar/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

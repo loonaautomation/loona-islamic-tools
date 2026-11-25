@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Teni",
   "short_name": "Bønnetider i Teni",
   "description": "Dagens bønnetider i Teni, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Teni.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-teni.html",
+  "id": "/nb/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

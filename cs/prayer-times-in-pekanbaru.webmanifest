@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Pekanbaru",
   "short_name": "Časy modliteb v Pekanbaru",
   "description": "Dnešní časy modliteb v Pekanbaru, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Pekanbaru.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-pekanbaru.html",
+  "id": "/cs/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

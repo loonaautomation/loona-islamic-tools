@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kozhikode",
   "short_name": "Časy modlitieb v Kozhikode",
   "description": "Dnešné časy modlitieb v Kozhikode, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kozhikode.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kozhikode.html",
+  "id": "/sk/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ahilyanagar",
   "short_name": "Časy modliteb v Ahilyanagar",
   "description": "Dnešní časy modliteb v Ahilyanagar, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Ahilyanagar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ahilyanagar.html",
+  "id": "/cs/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

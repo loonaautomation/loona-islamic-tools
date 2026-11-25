@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Surakarta",
   "short_name": "Horarios de oración en Surakarta",
   "description": "Horarios de oración de hoy en Surakarta, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Surakarta.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-surakarta.html",
+  "id": "/es/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

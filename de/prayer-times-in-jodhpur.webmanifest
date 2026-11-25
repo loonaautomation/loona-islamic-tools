@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jodhpur",
   "short_name": "Gebetszeiten in Jodhpur",
   "description": "Die heutigen Gebetszeiten in Jodhpur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jodhpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jodhpur.html",
+  "id": "/de/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

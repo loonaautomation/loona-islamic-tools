@@ -2,7 +2,7 @@
   "name": "Loona Hijri-kalender",
   "short_name": "Hijri-kalender",
   "description": "Blader door elke Hijri-maand en elk Hijri-jaar in een overzichtelijke islamitische kalender waarin elke dag ook de gregoriaanse datum toont. Umm al-Qura-kalender, gratis en altijd actueel.",
-  "id": "/loona-islamic-tools/nl/hijri-calendar/",
+  "id": "/nl/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

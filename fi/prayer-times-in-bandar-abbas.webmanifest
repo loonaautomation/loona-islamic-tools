@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bandar Abbas",
   "short_name": "Rukousajat: Bandar Abbas",
   "description": "Tämän päivän rukousajat paikassa Bandar Abbas, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Bandar Abbas.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bandar-abbas.html",
+  "id": "/fi/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

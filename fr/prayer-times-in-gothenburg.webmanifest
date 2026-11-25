@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Gothenburg",
   "short_name": "Heures de prière à Gothenburg",
   "description": "Les heures de prière d’aujourd’hui à Gothenburg, Suède : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Gothenburg.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-gothenburg.html",
+  "id": "/fr/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

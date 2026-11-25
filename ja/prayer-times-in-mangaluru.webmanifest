@@ -2,7 +2,7 @@
   "name": "Loona Mangaluru の礼拝時刻",
   "short_name": "Mangaluru の礼拝時刻",
   "description": "Mangaluru（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Mangaluru についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-mangaluru.html",
+  "id": "/ja/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thāne",
   "short_name": "זמני תפילה בעיר Thāne",
   "description": "זמני התפילה של היום בעיר Thāne, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Thāne.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thane.html",
+  "id": "/he/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

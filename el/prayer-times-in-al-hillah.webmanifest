@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Al Hillah",
   "short_name": "Ώρες Προσευχής στο Al Hillah",
   "description": "Οι σημερινές ώρες προσευχής στο Al Hillah, Ιράκ: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Al Hillah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-al-hillah.html",
+  "id": "/el/prayer-times-in-al-hillah.html",
   "start_url": "./prayer-times-in-al-hillah.html",
   "scope": "./prayer-times-in-al-hillah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Milwaukee-এ নামাজের সময়",
   "short_name": "Milwaukee-এ নামাজের সময়",
   "description": "Milwaukee, যুক্তরাষ্ট্র-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Milwaukee-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-milwaukee.html",
+  "id": "/bn/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rasht imaidői",
   "short_name": "Rasht imaidői",
   "description": "A mai imaidők: Rasht, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Rasht számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-rasht.html",
+  "id": "/hu/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

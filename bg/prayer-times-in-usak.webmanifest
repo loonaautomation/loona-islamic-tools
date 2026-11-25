@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Uşak",
   "short_name": "Часове за намаз в Uşak",
   "description": "Днешните часове за намаз в Uşak, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Uşak.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-usak.html",
+  "id": "/bg/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

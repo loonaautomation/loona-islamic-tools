@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Colorado Springs",
   "short_name": "Ώρες Προσευχής στο Colorado Springs",
   "description": "Οι σημερινές ώρες προσευχής στο Colorado Springs, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Colorado Springs.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-colorado-springs.html",
+  "id": "/el/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

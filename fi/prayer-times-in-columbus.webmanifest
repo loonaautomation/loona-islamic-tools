@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Columbus",
   "short_name": "Rukousajat: Columbus",
   "description": "Tämän päivän rukousajat paikassa Columbus, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Columbus.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-columbus.html",
+  "id": "/fi/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

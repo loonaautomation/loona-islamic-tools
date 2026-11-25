@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Roodepoort",
   "short_name": "Časy modliteb v Roodepoort",
   "description": "Dnešní časy modliteb v Roodepoort, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Roodepoort.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-roodepoort.html",
+  "id": "/cs/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

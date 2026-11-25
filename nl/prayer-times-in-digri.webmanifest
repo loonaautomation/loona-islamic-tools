@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Digri",
   "short_name": "Gebedstijden in Digri",
   "description": "De gebedstijden van vandaag in Digri, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Digri.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-digri.html",
+  "id": "/nl/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

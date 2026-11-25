@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в Порт-Судане",
   "short_name": "Время намаза в Порт-Судане",
   "description": "Сегодняшнее время намазов в Порт-Судан, Судан: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по хиджре. Метод Всемирной мусульманской лиги, рассчитывается в реальном времени на вашем устройстве для Порт-Судан.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-port-sudan.html",
+  "id": "/ru/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

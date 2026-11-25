@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Çankaya",
   "short_name": "Vremena namaza u gradu Çankaya",
   "description": "Današnja vremena namaza u gradu Çankaya, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Çankaya.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-cankaya.html",
+  "id": "/hr/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

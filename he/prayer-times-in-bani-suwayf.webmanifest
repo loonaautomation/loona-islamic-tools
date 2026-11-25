@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Banī Suwayf",
   "short_name": "זמני תפילה בעיר Banī Suwayf",
   "description": "זמני התפילה של היום בעיר Banī Suwayf, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Banī Suwayf.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bani-suwayf.html",
+  "id": "/he/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

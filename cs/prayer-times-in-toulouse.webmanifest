@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Toulouse",
   "short_name": "Časy modliteb v Toulouse",
   "description": "Dnešní časy modliteb v Toulouse, Francie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Toulouse.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-toulouse.html",
+  "id": "/cs/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

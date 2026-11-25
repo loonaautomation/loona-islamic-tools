@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jabalpur",
   "short_name": "Ώρες Προσευχής στο Jabalpur",
   "description": "Οι σημερινές ώρες προσευχής στο Jabalpur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Jabalpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jabalpur.html",
+  "id": "/el/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

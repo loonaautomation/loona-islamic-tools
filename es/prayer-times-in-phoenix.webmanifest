@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Phoenix",
   "short_name": "Horarios de oración en Phoenix",
   "description": "Horarios de oración de hoy en Phoenix, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Phoenix.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-phoenix.html",
+  "id": "/es/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

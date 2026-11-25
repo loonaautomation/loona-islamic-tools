@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sikasso",
   "short_name": "เวลาละหมาดใน Sikasso",
   "description": "เวลาละหมาดวันนี้ใน Sikasso, Mali: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sikasso",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sikasso.html",
+  "id": "/th/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

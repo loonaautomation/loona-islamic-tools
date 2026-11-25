@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mirpur Khas",
   "short_name": "זמני תפילה בעיר Mirpur Khas",
   "description": "זמני התפילה של היום בעיר Mirpur Khas, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Mirpur Khas.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mirpur-khas.html",
+  "id": "/he/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ibb Today",
   "short_name": "Prayer Times in Ibb Today",
   "description": "Today's prayer times in Ibb, Yemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ibb.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-ibb.html",
+  "id": "/en-gb/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

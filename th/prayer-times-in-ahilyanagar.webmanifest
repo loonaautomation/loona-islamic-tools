@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ahilyanagar",
   "short_name": "เวลาละหมาดใน Ahilyanagar",
   "description": "เวลาละหมาดวันนี้ใน Ahilyanagar, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ahilyanagar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ahilyanagar.html",
+  "id": "/th/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

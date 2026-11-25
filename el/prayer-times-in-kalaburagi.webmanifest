@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kalaburagi",
   "short_name": "Ώρες Προσευχής στο Kalaburagi",
   "description": "Οι σημερινές ώρες προσευχής στο Kalaburagi, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kalaburagi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kalaburagi.html",
+  "id": "/el/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

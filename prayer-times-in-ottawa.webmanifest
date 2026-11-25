@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ottawa",
   "short_name": "Prayer Times in Ottawa",
   "description": "Today's prayer times in Ottawa, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Ottawa.",
-  "id": "/loona-islamic-tools/prayer-times-in-ottawa.html",
+  "id": "/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

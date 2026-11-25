@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Jalālābād",
   "short_name": "Orari di preghiera a Jalālābād",
   "description": "Orari di preghiera di oggi a Jalālābād, Afghanistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Jalālābād.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-jalalabad.html",
+  "id": "/it/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

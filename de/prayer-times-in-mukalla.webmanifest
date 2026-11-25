@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mukalla",
   "short_name": "Gebetszeiten in Mukalla",
   "description": "Die heutigen Gebetszeiten in Mukalla, Jemen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Mukalla.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mukalla.html",
+  "id": "/de/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

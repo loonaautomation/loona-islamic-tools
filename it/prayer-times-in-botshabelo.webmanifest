@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Botshabelo",
   "short_name": "Orari di preghiera a Botshabelo",
   "description": "Orari di preghiera di oggi a Botshabelo, Sudafrica: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Botshabelo.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-botshabelo.html",
+  "id": "/it/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

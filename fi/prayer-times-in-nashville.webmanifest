@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Nashville",
   "short_name": "Rukousajat: Nashville",
   "description": "Tämän päivän rukousajat paikassa Nashville, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Nashville.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-nashville.html",
+  "id": "/fi/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dhaka の礼拝時刻",
   "short_name": "Dhaka の礼拝時刻",
   "description": "Dhaka（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Dhaka についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dhaka.html",
+  "id": "/ja/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

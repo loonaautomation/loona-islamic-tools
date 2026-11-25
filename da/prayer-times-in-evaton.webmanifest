@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Evaton",
   "short_name": "Bønnetider i Evaton",
   "description": "Dagens bønnetider i Evaton, Sydafrika: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Evaton.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-evaton.html",
+  "id": "/da/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

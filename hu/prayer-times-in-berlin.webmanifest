@@ -2,7 +2,7 @@
   "name": "Loona Berlin imaidői",
   "short_name": "Berlin imaidői",
   "description": "A mai imaidők: Berlin, Németország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Berlin számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-berlin.html",
+  "id": "/hu/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

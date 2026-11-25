@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Padangsidempuan",
   "short_name": "مواقيت الصلاة في Padangsidempuan",
   "description": "مواقيت الصلاة اليوم في Padangsidempuan، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPadangsidempuan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-padangsidempuan.html",
+  "id": "/ar/prayer-times-in-padangsidempuan.html",
   "start_url": "./prayer-times-in-padangsidempuan.html",
   "scope": "./prayer-times-in-padangsidempuan.html",
   "display": "standalone",

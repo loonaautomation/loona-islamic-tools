@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Samarkand",
   "short_name": "Bønnetider i Samarkand",
   "description": "Dagens bønnetider i Samarkand, Usbekistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Samarkand.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-samarkand.html",
+  "id": "/nb/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

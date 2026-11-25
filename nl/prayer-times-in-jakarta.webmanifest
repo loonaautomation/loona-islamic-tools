@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jakarta",
   "short_name": "Gebedstijden in Jakarta",
   "description": "De gebedstijden van vandaag in Jakarta, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jakarta.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jakarta.html",
+  "id": "/nl/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

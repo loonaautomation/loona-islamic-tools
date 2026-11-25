@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tando Bago",
   "short_name": "Waktu Solat di Tando Bago",
   "description": "Waktu solat hari ini di Tando Bago, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Tando Bago.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tando-bago.html",
+  "id": "/ms/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

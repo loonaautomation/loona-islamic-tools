@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Lhokseumawe",
   "short_name": "Часове за намаз в Lhokseumawe",
   "description": "Днешните часове за намаз в Lhokseumawe, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Lhokseumawe.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-lhokseumawe.html",
+  "id": "/bg/prayer-times-in-lhokseumawe.html",
   "start_url": "./prayer-times-in-lhokseumawe.html",
   "scope": "./prayer-times-in-lhokseumawe.html",
   "display": "standalone",

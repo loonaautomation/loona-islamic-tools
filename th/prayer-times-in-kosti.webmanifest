@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kosti",
   "short_name": "เวลาละหมาดใน Kosti",
   "description": "เวลาละหมาดวันนี้ใน Kosti, Sudan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kosti",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kosti.html",
+  "id": "/th/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Homs",
   "short_name": "Vremena namaza u gradu Homs",
   "description": "Današnja vremena namaza u gradu Homs, Sirija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Homs.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-homs.html",
+  "id": "/hr/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

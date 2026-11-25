@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Karagandy",
   "short_name": "Časy modliteb v Karagandy",
   "description": "Dnešní časy modliteb v Karagandy, Kazachstán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Karagandy.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-karagandy.html",
+  "id": "/cs/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

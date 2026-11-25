@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Damietta",
   "short_name": "Vremena namaza u gradu Damietta",
   "description": "Današnja vremena namaza u gradu Damietta, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Damietta.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-damietta.html",
+  "id": "/hr/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

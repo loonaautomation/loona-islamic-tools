@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rawalpindi",
   "short_name": "זמני תפילה בעיר Rawalpindi",
   "description": "זמני התפילה של היום בעיר Rawalpindi, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rawalpindi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rawalpindi.html",
+  "id": "/he/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

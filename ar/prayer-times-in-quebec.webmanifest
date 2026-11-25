@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Québec",
   "short_name": "مواقيت الصلاة في Québec",
   "description": "مواقيت الصلاة اليوم في Québec، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـQuébec.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-quebec.html",
+  "id": "/ar/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

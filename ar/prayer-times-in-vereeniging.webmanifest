@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Vereeniging",
   "short_name": "مواقيت الصلاة في Vereeniging",
   "description": "مواقيت الصلاة اليوم في Vereeniging، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـVereeniging.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-vereeniging.html",
+  "id": "/ar/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

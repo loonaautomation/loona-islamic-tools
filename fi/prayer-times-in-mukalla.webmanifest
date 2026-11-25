@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mukalla",
   "short_name": "Rukousajat: Mukalla",
   "description": "Tämän päivän rukousajat paikassa Mukalla, Jemen: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Mukalla.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mukalla.html",
+  "id": "/fi/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

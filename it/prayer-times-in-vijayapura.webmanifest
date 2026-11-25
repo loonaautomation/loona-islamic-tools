@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Vijayapura",
   "short_name": "Orari di preghiera a Vijayapura",
   "description": "Orari di preghiera di oggi a Vijayapura, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Vijayapura.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-vijayapura.html",
+  "id": "/it/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

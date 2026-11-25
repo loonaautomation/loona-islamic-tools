@@ -2,7 +2,7 @@
   "name": "Loona Tanta imaidői",
   "short_name": "Tanta imaidői",
   "description": "A mai imaidők: Tanta, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Tanta számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tanta.html",
+  "id": "/hu/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

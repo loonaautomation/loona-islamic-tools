@@ -2,7 +2,7 @@
   "name": "Loona Gatineau imaidői",
   "short_name": "Gatineau imaidői",
   "description": "A mai imaidők: Gatineau, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Gatineau számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-gatineau.html",
+  "id": "/hu/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Québec",
   "short_name": "Gebedstijden in Québec",
   "description": "De gebedstijden van vandaag in Québec, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Québec.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-quebec.html",
+  "id": "/nl/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

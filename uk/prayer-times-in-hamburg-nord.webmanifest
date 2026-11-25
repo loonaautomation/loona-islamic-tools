@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Hamburg-Nord",
   "short_name": "Час намазу в Hamburg-Nord",
   "description": "Сьогоднішній час намазу в Hamburg-Nord, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Hamburg-Nord.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hamburg-nord.html",
+  "id": "/uk/prayer-times-in-hamburg-nord.html",
   "start_url": "./prayer-times-in-hamburg-nord.html",
   "scope": "./prayer-times-in-hamburg-nord.html",
   "display": "standalone",

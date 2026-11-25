@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Van",
   "short_name": "Час намазу в Van",
   "description": "Сьогоднішній час намазу в Van, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Van.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-van.html",
+  "id": "/uk/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kano Namaz Vakitleri",
   "short_name": "Kano Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kano, Nijerya: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Kano için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kano.html",
+  "id": "/tr/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

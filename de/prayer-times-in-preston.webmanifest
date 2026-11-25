@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Preston",
   "short_name": "Gebetszeiten in Preston",
   "description": "Die heutigen Gebetszeiten in Preston, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Preston.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-preston.html",
+  "id": "/de/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

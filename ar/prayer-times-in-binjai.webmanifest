@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Binjai",
   "short_name": "مواقيت الصلاة في Binjai",
   "description": "مواقيت الصلاة اليوم في Binjai، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBinjai.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-binjai.html",
+  "id": "/ar/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

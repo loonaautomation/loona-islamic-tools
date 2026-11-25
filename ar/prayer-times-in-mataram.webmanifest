@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mataram",
   "short_name": "مواقيت الصلاة في Mataram",
   "description": "مواقيت الصلاة اليوم في Mataram، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMataram.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mataram.html",
+  "id": "/ar/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

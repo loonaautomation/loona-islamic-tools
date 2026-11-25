@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Adıyaman",
   "short_name": "Vremena namaza u gradu Adıyaman",
   "description": "Današnja vremena namaza u gradu Adıyaman, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Adıyaman.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-adiyaman.html",
+  "id": "/hr/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

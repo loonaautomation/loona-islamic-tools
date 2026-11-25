@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Pasuruan",
   "short_name": "Rukousajat: Pasuruan",
   "description": "Tämän päivän rukousajat paikassa Pasuruan, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Pasuruan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-pasuruan.html",
+  "id": "/fi/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

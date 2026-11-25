@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sialkot",
   "short_name": "זמני תפילה בעיר Sialkot",
   "description": "זמני התפילה של היום בעיר Sialkot, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Sialkot.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sialkot.html",
+  "id": "/he/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

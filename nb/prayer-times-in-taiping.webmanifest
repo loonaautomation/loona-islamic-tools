@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Taiping",
   "short_name": "Bønnetider i Taiping",
   "description": "Dagens bønnetider i Taiping, Malaysia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Taiping.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-taiping.html",
+  "id": "/nb/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

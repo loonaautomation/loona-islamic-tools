@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Oakland",
   "short_name": "Vremena namaza u gradu Oakland",
   "description": "Današnja vremena namaza u gradu Oakland, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Oakland.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-oakland.html",
+  "id": "/hr/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

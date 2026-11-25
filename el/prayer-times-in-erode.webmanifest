@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Erode",
   "short_name": "Ώρες Προσευχής στο Erode",
   "description": "Οι σημερινές ώρες προσευχής στο Erode, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Erode.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-erode.html",
+  "id": "/el/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

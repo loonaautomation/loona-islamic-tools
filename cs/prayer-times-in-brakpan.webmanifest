@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Brakpan",
   "short_name": "Časy modliteb v Brakpan",
   "description": "Dnešní časy modliteb v Brakpan, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Brakpan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-brakpan.html",
+  "id": "/cs/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

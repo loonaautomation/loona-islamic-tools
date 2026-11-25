@@ -2,7 +2,7 @@
   "name": "Loona Istanbul Namaz Vakitleri",
   "short_name": "Istanbul Namaz Vakitleri",
   "description": "Istanbul, Türkiye için bugünün namaz vakitleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Istanbul için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-istanbul.html",
+  "id": "/tr/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

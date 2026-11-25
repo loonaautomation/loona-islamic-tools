@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Merkezefendi",
   "short_name": "Время намаза в городе Merkezefendi",
   "description": "Время намаза на сегодня: Merkezefendi, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Merkezefendi.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-merkezefendi.html",
+  "id": "/ru/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Malmö",
   "short_name": "Waktu Salat di Malmö",
   "description": "Waktu salat hari ini di Malmö, Swedia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Malmö.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-malmoe.html",
+  "id": "/id/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

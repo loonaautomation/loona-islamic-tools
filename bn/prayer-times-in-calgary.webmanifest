@@ -2,7 +2,7 @@
   "name": "Loona Calgary-এ নামাজের সময়",
   "short_name": "Calgary-এ নামাজের সময়",
   "description": "Calgary, কানাডা-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Calgary-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-calgary.html",
+  "id": "/bn/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

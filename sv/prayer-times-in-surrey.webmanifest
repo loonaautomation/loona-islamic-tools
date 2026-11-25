@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Surrey",
   "short_name": "Bönetider i Surrey",
   "description": "Dagens bönetider i Surrey, Kanada: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Surrey.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-surrey.html",
+  "id": "/sv/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

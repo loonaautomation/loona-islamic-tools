@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Khouribga",
   "short_name": "Часове за намаз в Khouribga",
   "description": "Днешните часове за намаз в Khouribga, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Khouribga.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-khouribga.html",
+  "id": "/bg/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Makassar",
   "short_name": "Часове за намаз в Makassar",
   "description": "Днешните часове за намаз в Makassar, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Makassar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-makassar.html",
+  "id": "/bg/prayer-times-in-makassar.html",
   "start_url": "./prayer-times-in-makassar.html",
   "scope": "./prayer-times-in-makassar.html",
   "display": "standalone",

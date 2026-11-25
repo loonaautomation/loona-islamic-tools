@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Rasapūdipalem",
   "short_name": "Gebedstijden in Rasapūdipalem",
   "description": "De gebedstijden van vandaag in Rasapūdipalem, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Rasapūdipalem.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-rasapudipalem.html",
+  "id": "/nl/prayer-times-in-rasapudipalem.html",
   "start_url": "./prayer-times-in-rasapudipalem.html",
   "scope": "./prayer-times-in-rasapudipalem.html",
   "display": "standalone",

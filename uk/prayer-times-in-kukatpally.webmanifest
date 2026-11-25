@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kukatpally",
   "short_name": "Час намазу в Kukatpally",
   "description": "Сьогоднішній час намазу в Kukatpally, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kukatpally.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kukatpally.html",
+  "id": "/uk/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

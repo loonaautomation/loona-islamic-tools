@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Hamburg-Nord",
   "short_name": "Časy modliteb v Hamburg-Nord",
   "description": "Dnešní časy modliteb v Hamburg-Nord, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Hamburg-Nord.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-hamburg-nord.html",
+  "id": "/cs/prayer-times-in-hamburg-nord.html",
   "start_url": "./prayer-times-in-hamburg-nord.html",
   "scope": "./prayer-times-in-hamburg-nord.html",
   "display": "standalone",

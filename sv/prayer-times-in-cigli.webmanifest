@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Çiğli",
   "short_name": "Bönetider i Çiğli",
   "description": "Dagens bönetider i Çiğli, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Çiğli.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cigli.html",
+  "id": "/sv/prayer-times-in-cigli.html",
   "start_url": "./prayer-times-in-cigli.html",
   "scope": "./prayer-times-in-cigli.html",
   "display": "standalone",

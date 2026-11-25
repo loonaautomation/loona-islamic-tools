@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Belfast",
   "short_name": "Vremena namaza u gradu Belfast",
   "description": "Današnja vremena namaza u gradu Belfast, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Belfast.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-belfast.html",
+  "id": "/hr/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

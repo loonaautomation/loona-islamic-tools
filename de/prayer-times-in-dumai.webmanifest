@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dumai",
   "short_name": "Gebetszeiten in Dumai",
   "description": "Die heutigen Gebetszeiten in Dumai, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Dumai.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dumai.html",
+  "id": "/de/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

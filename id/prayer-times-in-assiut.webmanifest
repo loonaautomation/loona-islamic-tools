@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Assiut",
   "short_name": "Waktu Salat di Assiut",
   "description": "Waktu salat hari ini di Assiut, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Assiut.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-assiut.html",
+  "id": "/id/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

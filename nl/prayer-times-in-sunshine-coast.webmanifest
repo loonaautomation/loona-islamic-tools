@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sunshine Coast",
   "short_name": "Gebedstijden in Sunshine Coast",
   "description": "De gebedstijden van vandaag in Sunshine Coast, Australië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sunshine Coast.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sunshine-coast.html",
+  "id": "/nl/prayer-times-in-sunshine-coast.html",
   "start_url": "./prayer-times-in-sunshine-coast.html",
   "scope": "./prayer-times-in-sunshine-coast.html",
   "display": "standalone",

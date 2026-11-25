@@ -2,7 +2,7 @@
   "name": "Loona Gatineau Namaz Vakitleri",
   "short_name": "Gatineau Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Gatineau, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Gatineau için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-gatineau.html",
+  "id": "/tr/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

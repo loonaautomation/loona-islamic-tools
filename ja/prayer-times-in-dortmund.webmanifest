@@ -2,7 +2,7 @@
   "name": "Loona Dortmund の礼拝時刻",
   "short_name": "Dortmund の礼拝時刻",
   "description": "Dortmund（ドイツ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Dortmund についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dortmund.html",
+  "id": "/ja/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

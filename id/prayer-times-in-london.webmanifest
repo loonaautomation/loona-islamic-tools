@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di London",
   "short_name": "Waktu Salat di London",
   "description": "Waktu salat hari ini di London, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk London.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-london.html",
+  "id": "/id/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

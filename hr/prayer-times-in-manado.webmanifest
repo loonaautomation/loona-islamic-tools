@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Manado",
   "short_name": "Vremena namaza u gradu Manado",
   "description": "Današnja vremena namaza u gradu Manado, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Manado.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-manado.html",
+  "id": "/hr/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

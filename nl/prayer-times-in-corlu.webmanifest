@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Çorlu",
   "short_name": "Gebedstijden in Çorlu",
   "description": "De gebedstijden van vandaag in Çorlu, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Çorlu.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-corlu.html",
+  "id": "/nl/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Barddhamān の礼拝時刻",
   "short_name": "Barddhamān の礼拝時刻",
   "description": "Barddhamān（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Barddhamān についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-barddhaman.html",
+  "id": "/ja/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

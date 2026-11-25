@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Reading",
   "short_name": "Časy modliteb v Reading",
   "description": "Dnešní časy modliteb v Reading, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Reading.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-reading.html",
+  "id": "/cs/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

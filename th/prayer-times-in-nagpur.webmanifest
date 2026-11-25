@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Nagpur",
   "short_name": "เวลาละหมาดใน Nagpur",
   "description": "เวลาละหมาดวันนี้ใน Nagpur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Nagpur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-nagpur.html",
+  "id": "/th/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

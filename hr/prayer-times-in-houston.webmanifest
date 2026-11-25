@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Houston",
   "short_name": "Vremena namaza u gradu Houston",
   "description": "Današnja vremena namaza u gradu Houston, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Houston.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-houston.html",
+  "id": "/hr/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

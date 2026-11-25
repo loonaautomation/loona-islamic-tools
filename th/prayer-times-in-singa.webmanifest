@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Singa",
   "short_name": "เวลาละหมาดใน Singa",
   "description": "เวลาละหมาดวันนี้ใน Singa, Sudan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Singa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-singa.html",
+  "id": "/th/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Peshawar",
   "short_name": "Vremena namaza u gradu Peshawar",
   "description": "Današnja vremena namaza u gradu Peshawar, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Peshawar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-peshawar.html",
+  "id": "/hr/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

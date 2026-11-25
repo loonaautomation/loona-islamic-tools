@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Nashville",
   "short_name": "Waktu Salat di Nashville",
   "description": "Waktu salat hari ini di Nashville, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Nashville.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-nashville.html",
+  "id": "/id/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

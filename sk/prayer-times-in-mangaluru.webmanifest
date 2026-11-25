@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Mangaluru",
   "short_name": "Časy modlitieb v Mangaluru",
   "description": "Dnešné časy modlitieb v Mangaluru, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Mangaluru.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-mangaluru.html",
+  "id": "/sk/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

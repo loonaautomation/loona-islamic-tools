@@ -2,7 +2,7 @@
   "name": "Loona Dushanbe imaidői",
   "short_name": "Dushanbe imaidői",
   "description": "A mai imaidők: Dushanbe, Tádzsikisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Dushanbe számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dushanbe.html",
+  "id": "/hu/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

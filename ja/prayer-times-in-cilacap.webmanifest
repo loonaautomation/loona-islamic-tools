@@ -2,7 +2,7 @@
   "name": "Loona Cilacap の礼拝時刻",
   "short_name": "Cilacap の礼拝時刻",
   "description": "Cilacap（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Cilacap についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-cilacap.html",
+  "id": "/ja/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

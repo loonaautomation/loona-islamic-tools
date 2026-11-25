@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Qo‘qon",
   "short_name": "Gebedstijden in Qo‘qon",
   "description": "De gebedstijden van vandaag in Qo‘qon, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Qo‘qon.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-qo-qon.html",
+  "id": "/nl/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

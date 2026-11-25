@@ -2,7 +2,7 @@
   "name": "Loona Udaipur Namaz Vakitleri",
   "short_name": "Udaipur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Udaipur, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Udaipur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-udaipur.html",
+  "id": "/tr/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

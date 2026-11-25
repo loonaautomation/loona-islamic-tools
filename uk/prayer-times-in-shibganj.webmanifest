@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Shibganj",
   "short_name": "Час намазу в Shibganj",
   "description": "Сьогоднішній час намазу в Shibganj, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Shibganj.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-shibganj.html",
+  "id": "/uk/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

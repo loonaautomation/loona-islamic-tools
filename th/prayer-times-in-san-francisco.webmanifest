@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน San Francisco",
   "short_name": "เวลาละหมาดใน San Francisco",
   "description": "เวลาละหมาดวันนี้ใน San Francisco, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ San Francisco",
-  "id": "/loona-islamic-tools/th/prayer-times-in-san-francisco.html",
+  "id": "/th/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

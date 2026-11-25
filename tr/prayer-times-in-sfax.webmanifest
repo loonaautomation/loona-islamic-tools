@@ -2,7 +2,7 @@
   "name": "Loona Sfax Namaz Vakitleri",
   "short_name": "Sfax Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sfax, Tunus: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sfax için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sfax.html",
+  "id": "/tr/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

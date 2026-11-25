@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Aksaray",
   "short_name": "Ώρες Προσευχής στο Aksaray",
   "description": "Οι σημερινές ώρες προσευχής στο Aksaray, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Aksaray.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-aksaray.html",
+  "id": "/el/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

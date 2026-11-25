@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Columbus",
   "short_name": "Час намазу в Columbus",
   "description": "Сьогоднішній час намазу в Columbus, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Columbus.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-columbus.html",
+  "id": "/uk/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

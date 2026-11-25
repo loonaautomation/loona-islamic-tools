@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pittsburgh",
   "short_name": "مواقيت الصلاة في Pittsburgh",
   "description": "مواقيت الصلاة اليوم في Pittsburgh، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـPittsburgh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pittsburgh.html",
+  "id": "/ar/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

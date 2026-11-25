@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Nashville",
   "short_name": "เวลาละหมาดใน Nashville",
   "description": "เวลาละหมาดวันนี้ใน Nashville, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Nashville",
-  "id": "/loona-islamic-tools/th/prayer-times-in-nashville.html",
+  "id": "/th/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

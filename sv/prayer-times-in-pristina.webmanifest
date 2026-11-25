@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pristina",
   "short_name": "Bönetider i Pristina",
   "description": "Dagens bönetider i Pristina, Kosovo: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pristina.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pristina.html",
+  "id": "/sv/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

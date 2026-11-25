@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bonn",
   "short_name": "مواقيت الصلاة في Bonn",
   "description": "مواقيت الصلاة اليوم في Bonn، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBonn.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bonn.html",
+  "id": "/ar/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

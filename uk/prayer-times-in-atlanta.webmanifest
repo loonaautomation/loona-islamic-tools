@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Atlanta",
   "short_name": "Час намазу в Atlanta",
   "description": "Сьогоднішній час намазу в Atlanta, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Atlanta.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-atlanta.html",
+  "id": "/uk/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

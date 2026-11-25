@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Brakpan",
   "short_name": "Ώρες Προσευχής στο Brakpan",
   "description": "Οι σημερινές ώρες προσευχής στο Brakpan, Νότια Αφρική: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Brakpan.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-brakpan.html",
+  "id": "/el/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

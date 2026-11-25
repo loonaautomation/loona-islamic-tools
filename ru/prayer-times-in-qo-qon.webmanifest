@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Qo‘qon",
   "short_name": "Время намаза в городе Qo‘qon",
   "description": "Время намаза на сегодня: Qo‘qon, Узбекистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Qo‘qon.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-qo-qon.html",
+  "id": "/ru/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

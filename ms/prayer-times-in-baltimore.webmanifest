@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Baltimore",
   "short_name": "Waktu Solat di Baltimore",
   "description": "Waktu solat hari ini di Baltimore, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Baltimore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-baltimore.html",
+  "id": "/ms/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

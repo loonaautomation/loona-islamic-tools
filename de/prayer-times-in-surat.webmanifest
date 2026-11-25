@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Surat",
   "short_name": "Gebetszeiten in Surat",
   "description": "Die heutigen Gebetszeiten in Surat, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Surat.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-surat.html",
+  "id": "/de/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

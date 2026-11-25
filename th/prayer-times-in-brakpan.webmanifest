@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Brakpan",
   "short_name": "เวลาละหมาดใน Brakpan",
   "description": "เวลาละหมาดวันนี้ใน Brakpan, South Africa: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Brakpan",
-  "id": "/loona-islamic-tools/th/prayer-times-in-brakpan.html",
+  "id": "/th/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

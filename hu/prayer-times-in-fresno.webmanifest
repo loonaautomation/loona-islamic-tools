@@ -2,7 +2,7 @@
   "name": "Loona Fresno imaidői",
   "short_name": "Fresno imaidői",
   "description": "A mai imaidők: Fresno, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Fresno számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-fresno.html",
+  "id": "/hu/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

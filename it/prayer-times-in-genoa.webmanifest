@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Genoa",
   "short_name": "Orari di preghiera a Genoa",
   "description": "Orari di preghiera di oggi a Genoa, Italia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Genoa.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-genoa.html",
+  "id": "/it/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

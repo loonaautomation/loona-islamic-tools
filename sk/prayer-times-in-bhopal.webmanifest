@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bhopal",
   "short_name": "Časy modlitieb v Bhopal",
   "description": "Dnešné časy modlitieb v Bhopal, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bhopal.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bhopal.html",
+  "id": "/sk/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

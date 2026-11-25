@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Barishal",
   "short_name": "Horários de Oração em Barishal",
   "description": "Horários de oração de hoje em Barishal, Bangladexe: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Barishal.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-barishal.html",
+  "id": "/pt-pt/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

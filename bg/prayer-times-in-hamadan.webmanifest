@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Hamadān",
   "short_name": "Часове за намаз в Hamadān",
   "description": "Днешните часове за намаз в Hamadān, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Hamadān.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-hamadan.html",
+  "id": "/bg/prayer-times-in-hamadan.html",
   "start_url": "./prayer-times-in-hamadan.html",
   "scope": "./prayer-times-in-hamadan.html",
   "display": "standalone",

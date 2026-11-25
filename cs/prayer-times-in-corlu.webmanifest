@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Çorlu",
   "short_name": "Časy modliteb v Çorlu",
   "description": "Dnešní časy modliteb v Çorlu, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Çorlu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-corlu.html",
+  "id": "/cs/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

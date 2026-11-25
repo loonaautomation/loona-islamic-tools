@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Muzaffarābād",
   "short_name": "Часове за намаз в Muzaffarābād",
   "description": "Днешните часове за намаз в Muzaffarābād, Пакистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Muzaffarābād.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-muzaffarabad.html",
+  "id": "/bg/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

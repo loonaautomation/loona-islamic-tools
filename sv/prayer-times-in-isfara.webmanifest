@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Isfara",
   "short_name": "Bönetider i Isfara",
   "description": "Dagens bönetider i Isfara, Tadzjikistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Isfara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-isfara.html",
+  "id": "/sv/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Al Ḩasakah",
   "short_name": "Waktu Salat di Al Ḩasakah",
   "description": "Waktu salat hari ini di Al Ḩasakah, Suriah: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Al Ḩasakah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-al-hasakah.html",
+  "id": "/id/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

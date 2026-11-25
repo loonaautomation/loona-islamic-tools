@@ -2,7 +2,7 @@
   "name": "Loona Borūjerd imaidői",
   "short_name": "Borūjerd imaidői",
   "description": "A mai imaidők: Borūjerd, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Borūjerd számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-borujerd.html",
+  "id": "/hu/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

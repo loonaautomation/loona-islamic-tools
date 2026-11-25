@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Hafizabad",
   "short_name": "Rukousajat: Hafizabad",
   "description": "Tämän päivän rukousajat paikassa Hafizabad, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Hafizabad.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-hafizabad.html",
+  "id": "/fi/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

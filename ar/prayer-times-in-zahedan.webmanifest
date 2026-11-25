@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Zahedan",
   "short_name": "مواقيت الصلاة في Zahedan",
   "description": "مواقيت الصلاة اليوم في Zahedan، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـZahedan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-zahedan.html",
+  "id": "/ar/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

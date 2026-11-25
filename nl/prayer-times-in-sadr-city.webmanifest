@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sadr City",
   "short_name": "Gebedstijden in Sadr City",
   "description": "De gebedstijden van vandaag in Sadr City, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sadr City.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sadr-city.html",
+  "id": "/nl/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

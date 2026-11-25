@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Isfara",
   "short_name": "Bønnetider i Isfara",
   "description": "Dagens bønnetider i Isfara, Tadsjikistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Isfara.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-isfara.html",
+  "id": "/da/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

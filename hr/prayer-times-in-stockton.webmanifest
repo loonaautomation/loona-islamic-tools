@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Stockton",
   "short_name": "Vremena namaza u gradu Stockton",
   "description": "Današnja vremena namaza u gradu Stockton, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Stockton.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-stockton.html",
+  "id": "/hr/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

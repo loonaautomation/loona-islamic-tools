@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kolkata",
   "short_name": "Heures de prière à Kolkata",
   "description": "Les heures de prière d’aujourd’hui à Kolkata, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Kolkata.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kolkata.html",
+  "id": "/fr/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

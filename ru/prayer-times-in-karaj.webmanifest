@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Karaj",
   "short_name": "Время намаза в городе Karaj",
   "description": "Время намаза на сегодня: Karaj, Иран: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Karaj.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-karaj.html",
+  "id": "/ru/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

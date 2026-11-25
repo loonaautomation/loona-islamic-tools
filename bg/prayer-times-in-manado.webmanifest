@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Manado",
   "short_name": "Часове за намаз в Manado",
   "description": "Днешните часове за намаз в Manado, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Manado.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-manado.html",
+  "id": "/bg/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

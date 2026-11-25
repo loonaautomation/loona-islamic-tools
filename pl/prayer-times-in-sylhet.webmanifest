@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sylhet",
   "short_name": "Czasy modlitw w miejscowości Sylhet",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sylhet, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Sylhet.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sylhet.html",
+  "id": "/pl/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

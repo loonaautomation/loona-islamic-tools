@@ -2,7 +2,7 @@
   "name": "Loona Islamitische datum vandaag",
   "short_name": "Islamitische datum vandaag",
   "description": "Wat is de islamitische datum vandaag? Bekijk de Hijri-datum van vandaag — dag, maand en jaar (Umm al-Qura) — met de gregoriaanse datum, live bijgewerkt op je apparaat. Gratis.",
-  "id": "/loona-islamic-tools/nl/islamic-date-today/",
+  "id": "/nl/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

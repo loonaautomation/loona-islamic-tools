@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Uşak",
   "short_name": "זמני תפילה בעיר Uşak",
   "description": "זמני התפילה של היום בעיר Uşak, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Uşak.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-usak.html",
+  "id": "/he/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

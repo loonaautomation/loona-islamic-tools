@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Navi Mumbai",
   "short_name": "Časy modlitieb v Navi Mumbai",
   "description": "Dnešné časy modlitieb v Navi Mumbai, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Navi Mumbai.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-navi-mumbai.html",
+  "id": "/sk/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

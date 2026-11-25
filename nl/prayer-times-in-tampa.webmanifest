@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tampa",
   "short_name": "Gebedstijden in Tampa",
   "description": "De gebedstijden van vandaag in Tampa, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Tampa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tampa.html",
+  "id": "/nl/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

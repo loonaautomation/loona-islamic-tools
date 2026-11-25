@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Banjul",
   "short_name": "Bönetider i Banjul",
   "description": "Dagens bönetider i Banjul, Gambia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Banjul.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-banjul.html",
+  "id": "/sv/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

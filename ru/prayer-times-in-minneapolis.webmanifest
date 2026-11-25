@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Minneapolis",
   "short_name": "Время намаза в городе Minneapolis",
   "description": "Время намаза на сегодня: Minneapolis, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Minneapolis.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-minneapolis.html",
+  "id": "/ru/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

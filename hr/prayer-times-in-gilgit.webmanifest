@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Gilgit",
   "short_name": "Vremena namaza u gradu Gilgit",
   "description": "Današnja vremena namaza u gradu Gilgit, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Gilgit.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-gilgit.html",
+  "id": "/hr/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

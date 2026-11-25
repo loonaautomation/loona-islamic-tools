@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Shikarpur",
   "short_name": "Prayer Times in Shikarpur",
   "description": "Today's prayer times in Shikarpur, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Shikarpur.",
-  "id": "/loona-islamic-tools/prayer-times-in-shikarpur.html",
+  "id": "/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

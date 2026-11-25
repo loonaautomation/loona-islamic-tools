@@ -2,7 +2,7 @@
   "name": "Loona Mbour imaidői",
   "short_name": "Mbour imaidői",
   "description": "A mai imaidők: Mbour, Szenegál: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mbour számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mbour.html",
+  "id": "/hu/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

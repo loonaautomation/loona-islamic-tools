@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ras Al Khaimah",
   "short_name": "Часове за намаз в Ras Al Khaimah",
   "description": "Днешните часове за намаз в Ras Al Khaimah, Обединени арабски емирства: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ras-al-khaimah.html",
+  "id": "/bg/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

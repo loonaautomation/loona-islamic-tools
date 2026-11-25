@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pikine Today",
   "short_name": "Prayer Times in Pikine Today",
   "description": "Today's prayer times in Pikine, Senegal: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pikine.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-pikine.html",
+  "id": "/en-us/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

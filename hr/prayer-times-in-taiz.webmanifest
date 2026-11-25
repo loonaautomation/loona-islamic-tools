@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Taiz",
   "short_name": "Vremena namaza u gradu Taiz",
   "description": "Današnja vremena namaza u gradu Taiz, Jemen: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Taiz.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-taiz.html",
+  "id": "/hr/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Marg‘ilon",
   "short_name": "Ώρες Προσευχής στο Marg‘ilon",
   "description": "Οι σημερινές ώρες προσευχής στο Marg‘ilon, Ουζμπεκιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Marg‘ilon.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-marg-ilon.html",
+  "id": "/el/prayer-times-in-marg-ilon.html",
   "start_url": "./prayer-times-in-marg-ilon.html",
   "scope": "./prayer-times-in-marg-ilon.html",
   "display": "standalone",

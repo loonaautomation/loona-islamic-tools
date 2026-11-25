@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Manama",
   "short_name": "Waktu Salat di Manama",
   "description": "Waktu salat hari ini di Manama, Bahrain: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Manama.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-manama.html",
+  "id": "/id/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Dortmund",
   "short_name": "Horarios de oración en Dortmund",
   "description": "Horarios de oración de hoy en Dortmund, Alemania: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Dortmund.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-dortmund.html",
+  "id": "/es/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

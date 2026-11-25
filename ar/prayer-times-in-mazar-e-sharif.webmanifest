@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mazār-e Sharīf",
   "short_name": "مواقيت الصلاة في Mazār-e Sharīf",
   "description": "مواقيت الصلاة اليوم في Mazār-e Sharīf، أفغانستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMazār-e Sharīf.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mazar-e-sharif.html",
+  "id": "/ar/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

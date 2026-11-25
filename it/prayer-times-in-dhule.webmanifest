@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dhule",
   "short_name": "Orari di preghiera a Dhule",
   "description": "Orari di preghiera di oggi a Dhule, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Dhule.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dhule.html",
+  "id": "/it/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

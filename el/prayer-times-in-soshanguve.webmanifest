@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Soshanguve",
   "short_name": "Ώρες Προσευχής στο Soshanguve",
   "description": "Οι σημερινές ώρες προσευχής στο Soshanguve, Νότια Αφρική: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Soshanguve.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-soshanguve.html",
+  "id": "/el/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

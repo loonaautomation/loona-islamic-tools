@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tiruppur Today",
   "short_name": "Prayer Times in Tiruppur Today",
   "description": "Today's prayer times in Tiruppur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Tiruppur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-tiruppur.html",
+  "id": "/en-us/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

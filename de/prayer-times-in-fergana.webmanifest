@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Fergana",
   "short_name": "Gebetszeiten in Fergana",
   "description": "Die heutigen Gebetszeiten in Fergana, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Fergana.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-fergana.html",
+  "id": "/de/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

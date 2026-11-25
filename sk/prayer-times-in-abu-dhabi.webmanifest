@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Abu Dhabi",
   "short_name": "Časy modlitieb v Abu Dhabi",
   "description": "Dnešné časy modlitieb v Abu Dhabi, UAE: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítaná naživo vo vašom zariadení pre Abu Dhabi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-abu-dhabi.html",
+  "id": "/sk/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

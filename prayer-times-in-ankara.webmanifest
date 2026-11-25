@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ankara",
   "short_name": "Prayer Times in Ankara",
   "description": "Today's prayer times in Ankara, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ankara.",
-  "id": "/loona-islamic-tools/prayer-times-in-ankara.html",
+  "id": "/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

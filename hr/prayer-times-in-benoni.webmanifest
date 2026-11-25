@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Benoni",
   "short_name": "Vremena namaza u gradu Benoni",
   "description": "Današnja vremena namaza u gradu Benoni, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Benoni.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-benoni.html",
+  "id": "/hr/prayer-times-in-benoni.html",
   "start_url": "./prayer-times-in-benoni.html",
   "scope": "./prayer-times-in-benoni.html",
   "display": "standalone",

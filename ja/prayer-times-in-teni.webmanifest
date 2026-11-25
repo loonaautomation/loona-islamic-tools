@@ -2,7 +2,7 @@
   "name": "Loona Teni の礼拝時刻",
   "short_name": "Teni の礼拝時刻",
   "description": "Teni（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Teni についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-teni.html",
+  "id": "/ja/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

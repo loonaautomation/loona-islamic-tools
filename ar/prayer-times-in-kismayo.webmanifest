@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kismayo",
   "short_name": "مواقيت الصلاة في Kismayo",
   "description": "مواقيت الصلاة اليوم في Kismayo، الصومال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKismayo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kismayo.html",
+  "id": "/ar/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

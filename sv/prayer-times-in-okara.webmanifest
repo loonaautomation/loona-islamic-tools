@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Okara",
   "short_name": "Bönetider i Okara",
   "description": "Dagens bönetider i Okara, Pakistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Okara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-okara.html",
+  "id": "/sv/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

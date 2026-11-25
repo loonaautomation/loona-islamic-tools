@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bikaner",
   "short_name": "Časy modlitieb v Bikaner",
   "description": "Dnešné časy modlitieb v Bikaner, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bikaner.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bikaner.html",
+  "id": "/sk/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Qom",
   "short_name": "Waktu Solat di Qom",
   "description": "Waktu solat hari ini di Qom, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Qom.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-qom.html",
+  "id": "/ms/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

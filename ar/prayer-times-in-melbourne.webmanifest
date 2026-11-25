@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Melbourne",
   "short_name": "مواقيت الصلاة في Melbourne",
   "description": "مواقيت الصلاة اليوم في Melbourne، أستراليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMelbourne.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-melbourne.html",
+  "id": "/ar/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

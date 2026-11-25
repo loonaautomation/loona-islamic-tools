@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Seattle",
   "short_name": "Ώρες Προσευχής στο Seattle",
   "description": "Οι σημερινές ώρες προσευχής στο Seattle, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Seattle.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-seattle.html",
+  "id": "/el/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Singa",
   "short_name": "Vremena namaza u gradu Singa",
   "description": "Današnja vremena namaza u gradu Singa, Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Singa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-singa.html",
+  "id": "/hr/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

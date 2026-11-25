@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Herāt",
   "short_name": "Время намаза в городе Herāt",
   "description": "Время намаза на сегодня: Herāt, Афганистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Herāt.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-herat.html",
+  "id": "/ru/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

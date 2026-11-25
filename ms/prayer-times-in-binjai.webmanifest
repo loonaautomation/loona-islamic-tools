@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Binjai",
   "short_name": "Waktu Solat di Binjai",
   "description": "Waktu solat hari ini di Binjai, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Binjai.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-binjai.html",
+  "id": "/ms/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

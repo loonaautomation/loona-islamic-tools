@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jakarta",
   "short_name": "Vremena namaza u gradu Jakarta",
   "description": "Današnja vremena namaza u gradu Jakarta, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jakarta.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jakarta.html",
+  "id": "/hr/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

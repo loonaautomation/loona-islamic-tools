@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Çorum",
   "short_name": "Bönetider i Çorum",
   "description": "Dagens bönetider i Çorum, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Çorum.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-corum.html",
+  "id": "/sv/prayer-times-in-corum.html",
   "start_url": "./prayer-times-in-corum.html",
   "scope": "./prayer-times-in-corum.html",
   "display": "standalone",

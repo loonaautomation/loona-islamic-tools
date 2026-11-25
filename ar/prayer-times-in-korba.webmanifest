@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Korba",
   "short_name": "مواقيت الصلاة في Korba",
   "description": "مواقيت الصلاة اليوم في Korba، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKorba.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-korba.html",
+  "id": "/ar/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

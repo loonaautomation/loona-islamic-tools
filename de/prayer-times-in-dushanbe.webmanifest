@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dushanbe",
   "short_name": "Gebetszeiten in Dushanbe",
   "description": "Die heutigen Gebetszeiten in Dushanbe, Tadschikistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Dushanbe.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dushanbe.html",
+  "id": "/de/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

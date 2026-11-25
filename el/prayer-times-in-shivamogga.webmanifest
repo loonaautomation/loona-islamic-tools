@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Shivamogga",
   "short_name": "Ώρες Προσευχής στο Shivamogga",
   "description": "Οι σημερινές ώρες προσευχής στο Shivamogga, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Shivamogga.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-shivamogga.html",
+  "id": "/el/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

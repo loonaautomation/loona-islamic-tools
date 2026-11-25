@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Lexington",
   "short_name": "זמני תפילה בעיר Lexington",
   "description": "זמני התפילה של היום בעיר Lexington, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Lexington.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-lexington.html",
+  "id": "/he/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bannu",
   "short_name": "Prayer Times in Bannu",
   "description": "Today's prayer times in Bannu, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Bannu.",
-  "id": "/loona-islamic-tools/prayer-times-in-bannu.html",
+  "id": "/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

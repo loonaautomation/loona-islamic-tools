@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hafizabad",
   "short_name": "זמני תפילה בעיר Hafizabad",
   "description": "זמני התפילה של היום בעיר Hafizabad, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Hafizabad.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hafizabad.html",
+  "id": "/he/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

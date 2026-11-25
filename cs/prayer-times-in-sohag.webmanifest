@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sohag",
   "short_name": "Časy modliteb v Sohag",
   "description": "Dnešní časy modliteb v Sohag, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Sohag.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sohag.html",
+  "id": "/cs/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bochum",
   "short_name": "Prayer Times in Bochum",
   "description": "Today's prayer times in Bochum, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bochum.",
-  "id": "/loona-islamic-tools/prayer-times-in-bochum.html",
+  "id": "/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

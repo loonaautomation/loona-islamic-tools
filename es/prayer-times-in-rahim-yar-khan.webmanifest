@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rahim Yar Khan",
   "short_name": "Horarios de oración en Rahim Yar Khan",
   "description": "Horarios de oración de hoy en Rahim Yar Khan, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rahim Yar Khan.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rahim-yar-khan.html",
+  "id": "/es/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

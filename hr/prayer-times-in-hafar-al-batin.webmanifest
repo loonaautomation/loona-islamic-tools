@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Hafar Al-Batin",
   "short_name": "Vremena namaza u gradu Hafar Al-Batin",
   "description": "Današnja vremena namaza u gradu Hafar Al-Batin, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-hafar-al-batin.html",
+  "id": "/hr/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

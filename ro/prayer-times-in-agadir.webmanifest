@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Agadir",
   "short_name": "Ore de rugăciune în Agadir",
   "description": "Orele de rugăciune de azi în Agadir, Maroc: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Agadir.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-agadir.html",
+  "id": "/ro/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

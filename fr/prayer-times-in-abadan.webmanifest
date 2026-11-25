@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Abadan",
   "short_name": "Heures de prière à Abadan",
   "description": "Les heures de prière d’aujourd’hui à Abadan, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Abadan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-abadan.html",
+  "id": "/fr/prayer-times-in-abadan.html",
   "start_url": "./prayer-times-in-abadan.html",
   "scope": "./prayer-times-in-abadan.html",
   "display": "standalone",

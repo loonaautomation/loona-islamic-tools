@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Naples",
   "short_name": "Horários de Oração em Naples",
   "description": "Horários de oração de hoje em Naples, Itália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Naples.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-naples.html",
+  "id": "/pt/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

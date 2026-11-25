@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sāveh",
   "short_name": "Часове за намаз в Sāveh",
   "description": "Днешните часове за намаз в Sāveh, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sāveh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-saveh.html",
+  "id": "/bg/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

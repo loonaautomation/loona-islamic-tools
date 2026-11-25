@@ -2,7 +2,7 @@
   "name": "Loona Nanded Namaz Vakitleri",
   "short_name": "Nanded Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nanded, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Nanded için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nanded.html",
+  "id": "/tr/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

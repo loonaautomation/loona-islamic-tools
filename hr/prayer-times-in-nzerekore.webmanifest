@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nzérékoré",
   "short_name": "Vremena namaza u gradu Nzérékoré",
   "description": "Današnja vremena namaza u gradu Nzérékoré, Gvineja: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Nzérékoré.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nzerekore.html",
+  "id": "/hr/prayer-times-in-nzerekore.html",
   "start_url": "./prayer-times-in-nzerekore.html",
   "scope": "./prayer-times-in-nzerekore.html",
   "display": "standalone",

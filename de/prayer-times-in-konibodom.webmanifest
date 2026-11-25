@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Konibodom",
   "short_name": "Gebetszeiten in Konibodom",
   "description": "Die heutigen Gebetszeiten in Konibodom, Tadschikistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Konibodom.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-konibodom.html",
+  "id": "/de/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

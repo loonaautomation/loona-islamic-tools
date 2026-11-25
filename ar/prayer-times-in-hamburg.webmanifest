@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Hamburg",
   "short_name": "مواقيت الصلاة في Hamburg",
   "description": "مواقيت الصلاة اليوم في Hamburg، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـHamburg.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hamburg.html",
+  "id": "/ar/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rohtak",
   "short_name": "Bønnetider i Rohtak",
   "description": "Dagens bønnetider i Rohtak, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Rohtak.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-rohtak.html",
+  "id": "/nb/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

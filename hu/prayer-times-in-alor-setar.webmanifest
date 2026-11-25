@@ -2,7 +2,7 @@
   "name": "Loona Alor Setar imaidői",
   "short_name": "Alor Setar imaidői",
   "description": "A mai imaidők: Alor Setar, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Alor Setar számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-alor-setar.html",
+  "id": "/hu/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

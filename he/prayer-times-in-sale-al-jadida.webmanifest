@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Salé Al Jadida",
   "short_name": "זמני תפילה בעיר Salé Al Jadida",
   "description": "זמני התפילה של היום בעיר Salé Al Jadida, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Salé Al Jadida.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sale-al-jadida.html",
+  "id": "/he/prayer-times-in-sale-al-jadida.html",
   "start_url": "./prayer-times-in-sale-al-jadida.html",
   "scope": "./prayer-times-in-sale-al-jadida.html",
   "display": "standalone",

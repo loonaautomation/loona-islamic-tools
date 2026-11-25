@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Glasgow",
   "short_name": "เวลาละหมาดใน Glasgow",
   "description": "เวลาละหมาดวันนี้ใน Glasgow, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Glasgow",
-  "id": "/loona-islamic-tools/th/prayer-times-in-glasgow.html",
+  "id": "/th/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

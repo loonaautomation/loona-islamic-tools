@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bradford",
   "short_name": "Waktu Salat di Bradford",
   "description": "Waktu salat hari ini di Bradford, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bradford.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bradford.html",
+  "id": "/id/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

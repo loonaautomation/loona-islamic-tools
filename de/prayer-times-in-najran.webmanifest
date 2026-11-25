@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Najrān",
   "short_name": "Gebetszeiten in Najrān",
   "description": "Die heutigen Gebetszeiten in Najrān, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Najrān.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-najran.html",
+  "id": "/de/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

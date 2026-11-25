@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Conakry",
   "short_name": "Gebetszeiten in Conakry",
   "description": "Die heutigen Gebetszeiten in Conakry, Guinea: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Conakry.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-conakry.html",
+  "id": "/de/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

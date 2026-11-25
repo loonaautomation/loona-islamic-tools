@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sylhet",
   "short_name": "זמני תפילה בעיר Sylhet",
   "description": "זמני התפילה של היום בעיר Sylhet, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Sylhet.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sylhet.html",
+  "id": "/he/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

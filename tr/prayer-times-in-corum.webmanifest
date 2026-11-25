@@ -2,7 +2,7 @@
   "name": "Loona Çorum Namaz Vakitleri",
   "short_name": "Çorum Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Çorum, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Çorum için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-corum.html",
+  "id": "/tr/prayer-times-in-corum.html",
   "start_url": "./prayer-times-in-corum.html",
   "scope": "./prayer-times-in-corum.html",
   "display": "standalone",

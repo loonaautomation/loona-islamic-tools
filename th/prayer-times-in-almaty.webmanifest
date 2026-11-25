@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Almaty",
   "short_name": "เวลาละหมาดใน Almaty",
   "description": "เวลาละหมาดวันนี้ใน Almaty, Kazakhstan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Almaty",
-  "id": "/loona-islamic-tools/th/prayer-times-in-almaty.html",
+  "id": "/th/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Andijon",
   "short_name": "Časy modliteb v Andijon",
   "description": "Dnešní časy modliteb v Andijon, Uzbekistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Andijon.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-andijon.html",
+  "id": "/cs/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

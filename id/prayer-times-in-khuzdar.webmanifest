@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Khuzdar",
   "short_name": "Waktu Salat di Khuzdar",
   "description": "Waktu salat hari ini di Khuzdar, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Khuzdar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-khuzdar.html",
+  "id": "/id/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

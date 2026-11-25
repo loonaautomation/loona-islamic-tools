@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Conakry",
   "short_name": "זמני תפילה בעיר Conakry",
   "description": "זמני התפילה של היום בעיר Conakry, גינאה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Conakry.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-conakry.html",
+  "id": "/he/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

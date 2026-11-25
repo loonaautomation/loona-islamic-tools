@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Qazvin",
   "short_name": "مواقيت الصلاة في Qazvin",
   "description": "مواقيت الصلاة اليوم في Qazvin، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـQazvin.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-qazvin.html",
+  "id": "/ar/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

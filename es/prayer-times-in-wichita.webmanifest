@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Wichita",
   "short_name": "Horarios de oración en Wichita",
   "description": "Horarios de oración de hoy en Wichita, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Wichita.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-wichita.html",
+  "id": "/es/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

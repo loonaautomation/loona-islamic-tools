@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Doha",
   "short_name": "Bønnetider i Doha",
   "description": "Dagens bønnetider i Doha, Qatar: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Doha.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-doha.html",
+  "id": "/nb/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

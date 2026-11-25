@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Varanasi",
   "short_name": "Bønnetider i Varanasi",
   "description": "Dagens bønnetider i Varanasi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Varanasi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-varanasi.html",
+  "id": "/nb/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

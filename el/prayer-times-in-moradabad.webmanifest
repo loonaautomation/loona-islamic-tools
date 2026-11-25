@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Morādābād",
   "short_name": "Ώρες Προσευχής στο Morādābād",
   "description": "Οι σημερινές ώρες προσευχής στο Morādābād, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Morādābād.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-moradabad.html",
+  "id": "/el/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tando Bago Namaz Vakitleri",
   "short_name": "Tando Bago Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tando Bago, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Tando Bago için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tando-bago.html",
+  "id": "/tr/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

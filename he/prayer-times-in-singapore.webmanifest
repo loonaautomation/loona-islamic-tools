@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Singapore",
   "short_name": "זמני תפילה בעיר Singapore",
   "description": "זמני התפילה של היום בעיר Singapore, סינגפור: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Singapore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-singapore.html",
+  "id": "/he/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

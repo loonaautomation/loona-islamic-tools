@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Chennai",
   "short_name": "Waktu Solat di Chennai",
   "description": "Waktu solat hari ini di Chennai, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Chennai.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-chennai.html",
+  "id": "/ms/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

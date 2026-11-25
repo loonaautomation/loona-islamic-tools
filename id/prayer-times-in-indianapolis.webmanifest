@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Indianapolis",
   "short_name": "Waktu Salat di Indianapolis",
   "description": "Waktu salat hari ini di Indianapolis, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Indianapolis.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-indianapolis.html",
+  "id": "/id/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

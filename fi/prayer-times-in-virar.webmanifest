@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Virār",
   "short_name": "Rukousajat: Virār",
   "description": "Tämän päivän rukousajat paikassa Virār, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Virār.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-virar.html",
+  "id": "/fi/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

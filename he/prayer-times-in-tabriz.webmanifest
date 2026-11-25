@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tabriz",
   "short_name": "זמני תפילה בעיר Tabriz",
   "description": "זמני התפילה של היום בעיר Tabriz, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tabriz.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tabriz.html",
+  "id": "/he/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

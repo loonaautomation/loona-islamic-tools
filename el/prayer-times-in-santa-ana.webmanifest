@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Santa Ana",
   "short_name": "Ώρες Προσευχής στο Santa Ana",
   "description": "Οι σημερινές ώρες προσευχής στο Santa Ana, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Santa Ana.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-santa-ana.html",
+  "id": "/el/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

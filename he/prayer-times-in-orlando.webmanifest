@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Orlando",
   "short_name": "זמני תפילה בעיר Orlando",
   "description": "זמני התפילה של היום בעיר Orlando, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Orlando.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-orlando.html",
+  "id": "/he/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

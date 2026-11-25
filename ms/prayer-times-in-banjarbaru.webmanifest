@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Banjarbaru",
   "short_name": "Waktu Solat di Banjarbaru",
   "description": "Waktu solat hari ini di Banjarbaru, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Banjarbaru.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-banjarbaru.html",
+  "id": "/ms/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

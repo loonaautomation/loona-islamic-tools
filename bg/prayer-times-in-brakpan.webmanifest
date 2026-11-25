@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Brakpan",
   "short_name": "Часове за намаз в Brakpan",
   "description": "Днешните часове за намаз в Brakpan, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Brakpan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-brakpan.html",
+  "id": "/bg/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

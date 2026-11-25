@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Djelfa",
   "short_name": "Waktu Salat di Djelfa",
   "description": "Waktu salat hari ini di Djelfa, Aljazair: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Djelfa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-djelfa.html",
+  "id": "/id/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

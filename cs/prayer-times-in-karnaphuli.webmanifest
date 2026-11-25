@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Karnaphuli",
   "short_name": "Časy modliteb v Karnaphuli",
   "description": "Dnešní časy modliteb v Karnaphuli, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Karnaphuli.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-karnaphuli.html",
+  "id": "/cs/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

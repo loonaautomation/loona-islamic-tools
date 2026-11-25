@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Samarkand",
   "short_name": "Время намаза в городе Samarkand",
   "description": "Время намаза на сегодня: Samarkand, Узбекистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Samarkand.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-samarkand.html",
+  "id": "/ru/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

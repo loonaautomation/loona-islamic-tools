@@ -2,7 +2,7 @@
   "name": "Loona Час за Сухур и Ифтар днес",
   "short_name": "Час за Сухур и Ифтар днес",
   "description": "Днешните часове за край на Сухура (Фаджр) и Ифтар (Магриб) за вашия град с обратно броене на живо до следващия. Метод Karachi, Аср по Ханафи по подразбиране, регулируеми.",
-  "id": "/loona-islamic-tools/bg/sehri-iftar-today/",
+  "id": "/bg/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

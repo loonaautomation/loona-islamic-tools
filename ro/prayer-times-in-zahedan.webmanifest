@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Zahedan",
   "short_name": "Ore de rugăciune în Zahedan",
   "description": "Orele de rugăciune de azi în Zahedan, Iran: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Zahedan.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-zahedan.html",
+  "id": "/ro/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

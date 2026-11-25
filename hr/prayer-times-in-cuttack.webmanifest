@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Cuttack",
   "short_name": "Vremena namaza u gradu Cuttack",
   "description": "Današnja vremena namaza u gradu Cuttack, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Cuttack.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-cuttack.html",
+  "id": "/hr/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Long Beach",
   "short_name": "Waktu Solat di Long Beach",
   "description": "Waktu solat hari ini di Long Beach, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Long Beach.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-long-beach.html",
+  "id": "/ms/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Blida imaidői",
   "short_name": "Blida imaidői",
   "description": "A mai imaidők: Blida, Algéria: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Blida számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-blida.html",
+  "id": "/hu/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

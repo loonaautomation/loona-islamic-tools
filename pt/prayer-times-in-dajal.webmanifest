@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Dajal",
   "short_name": "Horários de Oração em Dajal",
   "description": "Horários de oração de hoje em Dajal, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Dajal.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-dajal.html",
+  "id": "/pt/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

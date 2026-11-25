@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Baku",
   "short_name": "זמני תפילה בעיר Baku",
   "description": "זמני התפילה של היום בעיר Baku, אזרבייג'ן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Baku.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-baku.html",
+  "id": "/he/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

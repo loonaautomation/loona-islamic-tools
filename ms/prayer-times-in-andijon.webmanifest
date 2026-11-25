@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Andijon",
   "short_name": "Waktu Solat di Andijon",
   "description": "Waktu solat hari ini di Andijon, Uzbekistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Andijon.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-andijon.html",
+  "id": "/ms/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

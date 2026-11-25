@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Wad Medani",
   "short_name": "Bönetider i Wad Medani",
   "description": "Dagens bönetider i Wad Medani, Sudan: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Wad Medani.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-wad-medani.html",
+  "id": "/sv/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

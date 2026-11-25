@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Palermo",
   "short_name": "Время намаза в городе Palermo",
   "description": "Время намаза на сегодня: Palermo, Италия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Palermo.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-palermo.html",
+  "id": "/ru/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

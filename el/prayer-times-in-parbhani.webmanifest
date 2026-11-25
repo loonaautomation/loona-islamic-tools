@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Parbhani",
   "short_name": "Ώρες Προσευχής στο Parbhani",
   "description": "Οι σημερινές ώρες προσευχής στο Parbhani, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Parbhani.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-parbhani.html",
+  "id": "/el/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Fresno",
   "short_name": "เวลาละหมาดใน Fresno",
   "description": "เวลาละหมาดวันนี้ใน Fresno, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Fresno",
-  "id": "/loona-islamic-tools/th/prayer-times-in-fresno.html",
+  "id": "/th/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

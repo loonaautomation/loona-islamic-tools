@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Balikpapan",
   "short_name": "Orari di preghiera a Balikpapan",
   "description": "Orari di preghiera di oggi a Balikpapan, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Balikpapan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-balikpapan.html",
+  "id": "/it/prayer-times-in-balikpapan.html",
   "start_url": "./prayer-times-in-balikpapan.html",
   "scope": "./prayer-times-in-balikpapan.html",
   "display": "standalone",

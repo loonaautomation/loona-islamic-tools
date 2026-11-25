@@ -2,7 +2,7 @@
   "name": "Loona اوشاک میں نماز کے اوقات",
   "short_name": "اوشاک میں نماز کے اوقات",
   "description": "اوشاک، ترکی میں آج کے نماز اوقات: فجر، طلوعِ آفتاب، ظہر، عصر (حنفی)، مغرب اور عشاء، نیز قبلے کی سمت اور آج کی ہجری تاریخ۔ مسلم ورلڈ لیگ طریقہ، آپ کی ڈیوائس پر لائیو حساب شدہ برائے اوشاک۔",
-  "id": "/loona-islamic-tools/ur/prayer-times-in-usak.html",
+  "id": "/ur/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

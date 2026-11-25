@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Fīrozābād",
   "short_name": "Ώρες Προσευχής στο Fīrozābād",
   "description": "Οι σημερινές ώρες προσευχής στο Fīrozābād, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Fīrozābād.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-firozabad.html",
+  "id": "/el/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

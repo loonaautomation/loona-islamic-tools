@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Touba",
   "short_name": "Vremena namaza u gradu Touba",
   "description": "Današnja vremena namaza u gradu Touba, Senegal: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Touba.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-touba.html",
+  "id": "/hr/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

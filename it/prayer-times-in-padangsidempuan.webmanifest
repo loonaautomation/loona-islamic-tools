@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Padangsidempuan",
   "short_name": "Orari di preghiera a Padangsidempuan",
   "description": "Orari di preghiera di oggi a Padangsidempuan, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Padangsidempuan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-padangsidempuan.html",
+  "id": "/it/prayer-times-in-padangsidempuan.html",
   "start_url": "./prayer-times-in-padangsidempuan.html",
   "scope": "./prayer-times-in-padangsidempuan.html",
   "display": "standalone",

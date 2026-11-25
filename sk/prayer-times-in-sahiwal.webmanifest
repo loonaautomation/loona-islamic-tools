@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sahiwal",
   "short_name": "Časy modlitieb v Sahiwal",
   "description": "Dnešné časy modlitieb v Sahiwal, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Sahiwal.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sahiwal.html",
+  "id": "/sk/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

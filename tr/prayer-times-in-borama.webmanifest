@@ -2,7 +2,7 @@
   "name": "Loona Borama Namaz Vakitleri",
   "short_name": "Borama Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Borama, Somali: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Borama için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-borama.html",
+  "id": "/tr/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

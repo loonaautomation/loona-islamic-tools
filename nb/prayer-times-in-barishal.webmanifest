@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Barishal",
   "short_name": "Bønnetider i Barishal",
   "description": "Dagens bønnetider i Barishal, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Barishal.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-barishal.html",
+  "id": "/nb/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

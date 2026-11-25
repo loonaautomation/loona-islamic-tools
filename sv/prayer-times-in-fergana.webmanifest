@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Fergana",
   "short_name": "Bönetider i Fergana",
   "description": "Dagens bönetider i Fergana, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Fergana.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-fergana.html",
+  "id": "/sv/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

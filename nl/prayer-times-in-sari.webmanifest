@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sari",
   "short_name": "Gebedstijden in Sari",
   "description": "De gebedstijden van vandaag in Sari, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sari.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sari.html",
+  "id": "/nl/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

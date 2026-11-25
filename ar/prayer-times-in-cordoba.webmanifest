@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Córdoba",
   "short_name": "مواقيت الصلاة في Córdoba",
   "description": "مواقيت الصلاة اليوم في Córdoba، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCórdoba.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cordoba.html",
+  "id": "/ar/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

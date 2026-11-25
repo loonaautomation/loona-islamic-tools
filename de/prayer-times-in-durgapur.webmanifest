@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Durgapur",
   "short_name": "Gebetszeiten in Durgapur",
   "description": "Die heutigen Gebetszeiten in Durgapur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Durgapur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-durgapur.html",
+  "id": "/de/prayer-times-in-durgapur.html",
   "start_url": "./prayer-times-in-durgapur.html",
   "scope": "./prayer-times-in-durgapur.html",
   "display": "standalone",

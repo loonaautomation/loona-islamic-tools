@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής Σήμερα",
   "short_name": "Ώρες Προσευχής Σήμερα",
   "description": "Λάβετε τις σημερινές ώρες προσευχής Φατζρ, Ντουχρ, Ασρ, Μαγκρίμπ και Ισά για οποιαδήποτε πόλη: Karachi, ISNA, MWL και περισσότερες μέθοδοι, Ασρ κατά Χανάφι ή Σάφι, με υποστήριξη ακριβών συντεταγμένων.",
-  "id": "/loona-islamic-tools/el/prayer-times/",
+  "id": "/el/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Astana",
   "short_name": "Gebetszeiten in Astana",
   "description": "Die heutigen Gebetszeiten in Astana, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Astana.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-astana.html",
+  "id": "/de/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Batam Namaz Vakitleri",
   "short_name": "Batam Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Batam, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Batam için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-batam.html",
+  "id": "/tr/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

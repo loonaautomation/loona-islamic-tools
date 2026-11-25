@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Hamburg-Nord",
   "short_name": "Heures de prière à Hamburg-Nord",
   "description": "Les heures de prière d’aujourd’hui à Hamburg-Nord, Allemagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Hamburg-Nord.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-hamburg-nord.html",
+  "id": "/fr/prayer-times-in-hamburg-nord.html",
   "start_url": "./prayer-times-in-hamburg-nord.html",
   "scope": "./prayer-times-in-hamburg-nord.html",
   "display": "standalone",

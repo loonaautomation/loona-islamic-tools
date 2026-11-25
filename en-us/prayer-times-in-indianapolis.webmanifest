@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Indianapolis Today",
   "short_name": "Prayer Times in Indianapolis Today",
   "description": "Today's prayer times in Indianapolis, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Indianapolis.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-indianapolis.html",
+  "id": "/en-us/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

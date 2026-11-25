@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Minneapolis",
   "short_name": "Gebedstijden in Minneapolis",
   "description": "De gebedstijden van vandaag in Minneapolis, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Minneapolis.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-minneapolis.html",
+  "id": "/nl/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

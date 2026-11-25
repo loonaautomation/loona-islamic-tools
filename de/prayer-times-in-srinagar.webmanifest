@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Srinagar",
   "short_name": "Gebetszeiten in Srinagar",
   "description": "Die heutigen Gebetszeiten in Srinagar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Srinagar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-srinagar.html",
+  "id": "/de/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

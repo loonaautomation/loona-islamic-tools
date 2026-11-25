@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Laval",
   "short_name": "Bönetider i Laval",
   "description": "Dagens bönetider i Laval, Kanada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Laval.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-laval.html",
+  "id": "/sv/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

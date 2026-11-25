@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kanpur",
   "short_name": "זמני תפילה בעיר Kanpur",
   "description": "זמני התפילה של היום בעיר Kanpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kanpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kanpur.html",
+  "id": "/he/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

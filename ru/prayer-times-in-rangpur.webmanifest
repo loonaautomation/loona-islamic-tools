@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Rangpur",
   "short_name": "Время намаза в городе Rangpur",
   "description": "Время намаза на сегодня: Rangpur, Бангладеш: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Rangpur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-rangpur.html",
+  "id": "/ru/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

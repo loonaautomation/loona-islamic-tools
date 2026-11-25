@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jodhpur",
   "short_name": "مواقيت الصلاة في Jodhpur",
   "description": "مواقيت الصلاة اليوم في Jodhpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJodhpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jodhpur.html",
+  "id": "/ar/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tanta",
   "short_name": "Gebetszeiten in Tanta",
   "description": "Die heutigen Gebetszeiten in Tanta, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Tanta.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tanta.html",
+  "id": "/de/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

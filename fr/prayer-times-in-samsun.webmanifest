@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Samsun",
   "short_name": "Heures de prière à Samsun",
   "description": "Les heures de prière d’aujourd’hui à Samsun, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Samsun.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-samsun.html",
+  "id": "/fr/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

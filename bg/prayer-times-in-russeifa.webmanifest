@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Russeifa",
   "short_name": "Часове за намаз в Russeifa",
   "description": "Днешните часове за намаз в Russeifa, Йордания: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Russeifa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-russeifa.html",
+  "id": "/bg/prayer-times-in-russeifa.html",
   "start_url": "./prayer-times-in-russeifa.html",
   "scope": "./prayer-times-in-russeifa.html",
   "display": "standalone",

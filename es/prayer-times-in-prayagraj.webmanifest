@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Prayagraj",
   "short_name": "Horarios de oración en Prayagraj",
   "description": "Horarios de oración de hoy en Prayagraj, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Prayagraj.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-prayagraj.html",
+  "id": "/es/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

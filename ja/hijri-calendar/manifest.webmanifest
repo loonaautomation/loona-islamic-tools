@@ -2,7 +2,7 @@
   "name": "Loona ヒジュラ暦カレンダー",
   "short_name": "ヒジュラ暦カレンダー",
   "description": "すべての日にグレゴリオ暦の日付も表示される、すっきりしたイスラーム暦で、どのヒジュラ暦の月と年でも閲覧できます。Umm al-Qura カレンダーで、無料、そして常に最新です。",
-  "id": "/loona-islamic-tools/ja/hijri-calendar/",
+  "id": "/ja/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

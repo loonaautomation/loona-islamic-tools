@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: El Obeid",
   "short_name": "Rukousajat: El Obeid",
   "description": "Tämän päivän rukousajat paikassa El Obeid, Sudan: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle El Obeid.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-el-obeid.html",
+  "id": "/fi/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

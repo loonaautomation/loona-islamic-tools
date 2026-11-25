@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в країні Туркменістан 2027 (1448)",
   "short_name": "Розклад Рамадану в країні Туркменістан 2027",
   "description": "Розклад Рамадану 2027 для країни Туркменістан: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448, розраховані для Ashgabat. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-turkmenistan.html",
+  "id": "/uk/ramadan-timetable-in-turkmenistan.html",
   "start_url": "./ramadan-timetable-in-turkmenistan.html",
   "scope": "./ramadan-timetable-in-turkmenistan.html",
   "display": "standalone",

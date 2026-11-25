@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Aksaray",
   "short_name": "Rukousajat: Aksaray",
   "description": "Tämän päivän rukousajat paikassa Aksaray, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Aksaray.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-aksaray.html",
+  "id": "/fi/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

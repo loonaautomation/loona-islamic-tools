@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dushanbe",
   "short_name": "Часове за намаз в Dushanbe",
   "description": "Днешните часове за намаз в Dushanbe, Таджикистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Dushanbe.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dushanbe.html",
+  "id": "/bg/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

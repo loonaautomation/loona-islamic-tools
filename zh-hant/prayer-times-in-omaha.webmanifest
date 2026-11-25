@@ -2,7 +2,7 @@
   "name": "Loona Omaha的禮拜時間",
   "short_name": "Omaha的禮拜時間",
   "description": "Omaha（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Omaha實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-omaha.html",
+  "id": "/zh-hant/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

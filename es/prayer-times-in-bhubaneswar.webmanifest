@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bhubaneswar",
   "short_name": "Horarios de oración en Bhubaneswar",
   "description": "Horarios de oración de hoy en Bhubaneswar, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bhubaneswar.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bhubaneswar.html",
+  "id": "/es/prayer-times-in-bhubaneswar.html",
   "start_url": "./prayer-times-in-bhubaneswar.html",
   "scope": "./prayer-times-in-bhubaneswar.html",
   "display": "standalone",

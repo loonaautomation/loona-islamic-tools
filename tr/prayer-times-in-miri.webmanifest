@@ -2,7 +2,7 @@
   "name": "Loona Miri Namaz Vakitleri",
   "short_name": "Miri Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Miri, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Miri için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-miri.html",
+  "id": "/tr/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

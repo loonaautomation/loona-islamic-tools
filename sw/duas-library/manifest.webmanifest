@@ -2,7 +2,7 @@
   "name": "Loona Maktaba ya Dua",
   "short_name": "Maktaba ya Dua",
   "description": "Maktaba ya dua halisi kwa kila wakati — asubuhi, chakula, safari, nyumbani, wasiwasi, msamaha — kila moja ikiwa na Kiarabu, usomaji kwa herufi za Kilatini, tafsiri na chanzo.",
-  "id": "/loona-islamic-tools/sw/duas-library/",
+  "id": "/sw/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

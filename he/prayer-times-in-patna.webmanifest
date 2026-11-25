@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Patna",
   "short_name": "זמני תפילה בעיר Patna",
   "description": "זמני התפילה של היום בעיר Patna, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Patna.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-patna.html",
+  "id": "/he/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

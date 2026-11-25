@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kluang",
   "short_name": "Časy modliteb v Kluang",
   "description": "Dnešní časy modliteb v Kluang, Malajsie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kluang.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kluang.html",
+  "id": "/cs/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

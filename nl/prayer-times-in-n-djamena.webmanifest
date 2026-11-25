@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in N'Djamena",
   "short_name": "Gebedstijden in N'Djamena",
   "description": "De gebedstijden van vandaag in N'Djamena, Tsjaad: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor N'Djamena.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-n-djamena.html",
+  "id": "/nl/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Irbid",
   "short_name": "เวลาละหมาดใน Irbid",
   "description": "เวลาละหมาดวันนี้ใน Irbid, Jordan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Irbid",
-  "id": "/loona-islamic-tools/th/prayer-times-in-irbid.html",
+  "id": "/th/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

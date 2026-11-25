@@ -2,7 +2,7 @@
   "name": "Loona Бібліотека дуа",
   "short_name": "Бібліотека дуа",
   "description": "Бібліотека достовірних дуа на кожен момент — ранок, їжа, подорож, дім, тривога, прощення — кожна з арабським текстом, транслітерацією, перекладом і джерелом.",
-  "id": "/loona-islamic-tools/uk/duas-library/",
+  "id": "/uk/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

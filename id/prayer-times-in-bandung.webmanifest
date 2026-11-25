@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bandung",
   "short_name": "Waktu Salat di Bandung",
   "description": "Waktu salat hari ini di Bandung, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bandung.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bandung.html",
+  "id": "/id/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

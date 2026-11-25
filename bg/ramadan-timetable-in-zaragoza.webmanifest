@@ -2,7 +2,7 @@
   "name": "Loona График за Рамазан в Zaragoza 2027 (1448)",
   "short_name": "График за Рамазан в Zaragoza 2027 (1448)",
   "description": "График за Рамазан 2027 за Zaragoza, Испания: часове за край на Сухура (Фаджр) и Ифтар (Магриб) за всеки ден на Рамазан 1448. Очаквано от 8 февруари до 8 март 2027, в зависимост от наблюдението на луната.",
-  "id": "/loona-islamic-tools/bg/ramadan-timetable-in-zaragoza.html",
+  "id": "/bg/ramadan-timetable-in-zaragoza.html",
   "start_url": "./ramadan-timetable-in-zaragoza.html",
   "scope": "./ramadan-timetable-in-zaragoza.html",
   "display": "standalone",

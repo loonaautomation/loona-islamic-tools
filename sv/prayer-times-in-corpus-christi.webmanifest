@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Corpus Christi",
   "short_name": "Bönetider i Corpus Christi",
   "description": "Dagens bönetider i Corpus Christi, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Corpus Christi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-corpus-christi.html",
+  "id": "/sv/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

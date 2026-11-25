@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di New South Memphis",
   "short_name": "Waktu Solat di New South Memphis",
   "description": "Waktu solat hari ini di New South Memphis, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk New South Memphis.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-new-south-memphis.html",
+  "id": "/ms/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

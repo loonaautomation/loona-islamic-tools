@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Orlando",
   "short_name": "Rukousajat: Orlando",
   "description": "Tämän päivän rukousajat paikassa Orlando, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Orlando.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-orlando.html",
+  "id": "/fi/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

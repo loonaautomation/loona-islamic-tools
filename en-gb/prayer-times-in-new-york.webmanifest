@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in New York Today",
   "short_name": "Prayer Times in New York Today",
   "description": "Today's prayer times in New York, United States: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for New York.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-new-york.html",
+  "id": "/en-gb/prayer-times-in-new-york.html",
   "start_url": "./prayer-times-in-new-york.html",
   "scope": "./prayer-times-in-new-york.html",
   "display": "standalone",

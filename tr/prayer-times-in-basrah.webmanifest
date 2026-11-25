@@ -2,7 +2,7 @@
   "name": "Loona Basrah Namaz Vakitleri",
   "short_name": "Basrah Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Basrah, Irak: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Basrah için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-basrah.html",
+  "id": "/tr/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

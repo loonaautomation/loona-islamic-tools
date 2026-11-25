@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Québec",
   "short_name": "Bönetider i Québec",
   "description": "Dagens bönetider i Québec, Kanada: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Québec.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-quebec.html",
+  "id": "/sv/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

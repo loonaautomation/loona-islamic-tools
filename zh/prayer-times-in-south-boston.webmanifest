@@ -2,7 +2,7 @@
   "name": "Loona South Boston的礼拜时间",
   "short_name": "South Boston的礼拜时间",
   "description": "South Boston（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为South Boston实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-south-boston.html",
+  "id": "/zh/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

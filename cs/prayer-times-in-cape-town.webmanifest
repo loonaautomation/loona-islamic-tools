@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Cape Town",
   "short_name": "Časy modliteb v Cape Town",
   "description": "Dnešní časy modliteb v Cape Town, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Cape Town.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-cape-town.html",
+  "id": "/cs/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

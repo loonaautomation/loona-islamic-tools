@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลาละหมาดรายเดือน",
   "short_name": "ตารางเวลาละหมาดรายเดือน",
   "description": "สร้างตารางเวลาละหมาดรายเดือนสำหรับทุกเมืองที่พิมพ์ได้: เวลาทั้งหกของตลอดทั้งเดือน พร้อมวิธีคำนวณและสำนักอัศร์ของคุณ ฟรีและเป็นส่วนตัว",
-  "id": "/loona-islamic-tools/th/monthly-prayer-timetable/",
+  "id": "/th/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

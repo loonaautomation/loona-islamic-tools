@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Constantine",
   "short_name": "Horários de Oração em Constantine",
   "description": "Horários de oração de hoje em Constantine, Argélia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Constantine.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-constantine.html",
+  "id": "/pt-pt/prayer-times-in-constantine.html",
   "start_url": "./prayer-times-in-constantine.html",
   "scope": "./prayer-times-in-constantine.html",
   "display": "standalone",

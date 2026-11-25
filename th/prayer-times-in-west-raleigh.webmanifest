@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน West Raleigh",
   "short_name": "เวลาละหมาดใน West Raleigh",
   "description": "เวลาละหมาดวันนี้ใน West Raleigh, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ West Raleigh",
-  "id": "/loona-islamic-tools/th/prayer-times-in-west-raleigh.html",
+  "id": "/th/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

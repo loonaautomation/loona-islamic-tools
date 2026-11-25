@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sargodha",
   "short_name": "Prayer Times in Sargodha",
   "description": "Today's prayer times in Sargodha, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Sargodha.",
-  "id": "/loona-islamic-tools/prayer-times-in-sargodha.html",
+  "id": "/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona התאריך האסלאמי היום",
   "short_name": "התאריך האסלאמי היום",
   "description": "מהו התאריך האסלאמי היום? ראה את התאריך ההיג'רי של היום — יום, חודש ושנה (Umm al-Qura) — עם התאריך הגרגוריאני, מתעדכן בשידור חי במכשיר שלך. בחינם.",
-  "id": "/loona-islamic-tools/he/islamic-date-today/",
+  "id": "/he/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

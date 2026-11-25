@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kahramanmaraş",
   "short_name": "זמני תפילה בעיר Kahramanmaraş",
   "description": "זמני התפילה של היום בעיר Kahramanmaraş, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kahramanmaraş.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kahramanmaras.html",
+  "id": "/he/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

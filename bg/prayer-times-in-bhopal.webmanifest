@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bhopal",
   "short_name": "Часове за намаз в Bhopal",
   "description": "Днешните часове за намаз в Bhopal, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Bhopal.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bhopal.html",
+  "id": "/bg/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

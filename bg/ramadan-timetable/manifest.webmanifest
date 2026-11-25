@@ -2,7 +2,7 @@
   "name": "Loona График за Рамазан",
   "short_name": "График за Рамазан",
   "description": "Пълен график за Рамазан за всеки град и година по Хиджра: край на Сухура и часове за Ифтар за всеки ден на Рамазан с григориански дати и продължителност на поста. Безплатно, за печат.",
-  "id": "/loona-islamic-tools/bg/ramadan-timetable/",
+  "id": "/bg/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

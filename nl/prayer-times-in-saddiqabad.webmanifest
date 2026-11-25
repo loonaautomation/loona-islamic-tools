@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Saddiqabad",
   "short_name": "Gebedstijden in Saddiqabad",
   "description": "De gebedstijden van vandaag in Saddiqabad, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Saddiqabad.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-saddiqabad.html",
+  "id": "/nl/prayer-times-in-saddiqabad.html",
   "start_url": "./prayer-times-in-saddiqabad.html",
   "scope": "./prayer-times-in-saddiqabad.html",
   "display": "standalone",

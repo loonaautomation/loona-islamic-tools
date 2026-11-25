@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nilüfer",
   "short_name": "Gebetszeiten in Nilüfer",
   "description": "Die heutigen Gebetszeiten in Nilüfer, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nilüfer.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-niluefer.html",
+  "id": "/de/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

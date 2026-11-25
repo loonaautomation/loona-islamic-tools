@@ -2,7 +2,7 @@
   "name": "Loona Raipur Namaz Vakitleri",
   "short_name": "Raipur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Raipur, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Raipur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-raipur.html",
+  "id": "/tr/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

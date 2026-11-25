@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cincinnati",
   "short_name": "Gebedstijden in Cincinnati",
   "description": "De gebedstijden van vandaag in Cincinnati, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Cincinnati.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cincinnati.html",
+  "id": "/nl/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

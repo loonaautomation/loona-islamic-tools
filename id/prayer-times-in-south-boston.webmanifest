@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di South Boston",
   "short_name": "Waktu Salat di South Boston",
   "description": "Waktu salat hari ini di South Boston, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk South Boston.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-south-boston.html",
+  "id": "/id/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

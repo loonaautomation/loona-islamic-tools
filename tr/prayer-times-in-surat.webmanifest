@@ -2,7 +2,7 @@
   "name": "Loona Surat Namaz Vakitleri",
   "short_name": "Surat Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Surat, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Surat için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-surat.html",
+  "id": "/tr/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

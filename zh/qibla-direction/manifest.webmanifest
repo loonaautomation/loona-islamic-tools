@@ -2,7 +2,7 @@
   "name": "Loona 朝向方向",
   "short_name": "朝向方向",
   "description": "从任何城市或您的确切位置查找以度数表示的朝向方向，配有实时罗盘表盘以及到Makkah的距离。免费、准确且私密。",
-  "id": "/loona-islamic-tools/zh/qibla-direction/",
+  "id": "/zh/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

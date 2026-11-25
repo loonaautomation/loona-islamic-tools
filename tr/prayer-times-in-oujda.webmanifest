@@ -2,7 +2,7 @@
   "name": "Loona Oujda Namaz Vakitleri",
   "short_name": "Oujda Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Oujda, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Oujda için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-oujda.html",
+  "id": "/tr/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

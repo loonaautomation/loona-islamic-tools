@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Comilla",
   "short_name": "Orari di preghiera a Comilla",
   "description": "Orari di preghiera di oggi a Comilla, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Comilla.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-comilla.html",
+  "id": "/it/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

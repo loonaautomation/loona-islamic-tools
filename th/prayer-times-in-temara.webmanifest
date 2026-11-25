@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Temara",
   "short_name": "เวลาละหมาดใน Temara",
   "description": "เวลาละหมาดวันนี้ใน Temara, Morocco: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Temara",
-  "id": "/loona-islamic-tools/th/prayer-times-in-temara.html",
+  "id": "/th/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

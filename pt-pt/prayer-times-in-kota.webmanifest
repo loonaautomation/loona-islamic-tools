@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Kota",
   "short_name": "Horários de Oração em Kota",
   "description": "Horários de oração de hoje em Kota, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Kota.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-kota.html",
+  "id": "/pt-pt/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

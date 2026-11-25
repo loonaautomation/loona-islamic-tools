@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dumai",
   "short_name": "Prayer Times in Dumai",
   "description": "Today's prayer times in Dumai, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dumai.",
-  "id": "/loona-islamic-tools/prayer-times-in-dumai.html",
+  "id": "/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

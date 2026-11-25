@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Minneapolis",
   "short_name": "Waktu Solat di Minneapolis",
   "description": "Waktu solat hari ini di Minneapolis, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Minneapolis.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-minneapolis.html",
+  "id": "/ms/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

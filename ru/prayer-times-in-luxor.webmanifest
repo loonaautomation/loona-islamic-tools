@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Luxor",
   "short_name": "Время намаза в городе Luxor",
   "description": "Время намаза на сегодня: Luxor, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Luxor.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-luxor.html",
+  "id": "/ru/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

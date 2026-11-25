@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Rohtak",
   "short_name": "Časy modlitieb v Rohtak",
   "description": "Dnešné časy modlitieb v Rohtak, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Rohtak.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-rohtak.html",
+  "id": "/sk/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

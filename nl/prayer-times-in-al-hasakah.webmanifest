@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Ḩasakah",
   "short_name": "Gebedstijden in Al Ḩasakah",
   "description": "De gebedstijden van vandaag in Al Ḩasakah, Syrië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Ḩasakah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-hasakah.html",
+  "id": "/nl/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bristol Namaz Vakitleri",
   "short_name": "Bristol Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bristol, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bristol için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bristol.html",
+  "id": "/tr/prayer-times-in-bristol.html",
   "start_url": "./prayer-times-in-bristol.html",
   "scope": "./prayer-times-in-bristol.html",
   "display": "standalone",

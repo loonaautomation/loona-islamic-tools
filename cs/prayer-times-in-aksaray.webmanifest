@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Aksaray",
   "short_name": "Časy modliteb v Aksaray",
   "description": "Dnešní časy modliteb v Aksaray, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Aksaray.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-aksaray.html",
+  "id": "/cs/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

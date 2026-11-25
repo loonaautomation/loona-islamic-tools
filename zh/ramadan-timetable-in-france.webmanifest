@@ -2,7 +2,7 @@
   "name": "Loona 法国 2027斋月时间表（1448）— Sehri &amp; Iftar时间",
   "short_name": "法国 2027斋月时间表（1448）— Sehri &amp; Iftar时间",
   "description": "法国的Ramadan 2027时间表：Ramadan 1448每一天的Sehri结束（Fajr）和Iftar（Maghrib）时间，按Paris计算。预计2027年2月8日至3月8日，以见月为准。",
-  "id": "/loona-islamic-tools/zh/ramadan-timetable-in-france.html",
+  "id": "/zh/ramadan-timetable-in-france.html",
   "start_url": "./ramadan-timetable-in-france.html",
   "scope": "./ramadan-timetable-in-france.html",
   "display": "standalone",

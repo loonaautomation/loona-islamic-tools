@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Valencia",
   "short_name": "זמני תפילה בעיר Valencia",
   "description": "זמני התפילה של היום בעיר Valencia, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Valencia.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-valencia.html",
+  "id": "/he/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

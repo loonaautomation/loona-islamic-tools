@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Situbondo",
   "short_name": "Vremena namaza u gradu Situbondo",
   "description": "Današnja vremena namaza u gradu Situbondo, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Situbondo.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-situbondo.html",
+  "id": "/hr/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

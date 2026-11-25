@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Khartoum North",
   "short_name": "Часове за намаз в Khartoum North",
   "description": "Днешните часове за намаз в Khartoum North, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Khartoum North.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-khartoum-north.html",
+  "id": "/bg/prayer-times-in-khartoum-north.html",
   "start_url": "./prayer-times-in-khartoum-north.html",
   "scope": "./prayer-times-in-khartoum-north.html",
   "display": "standalone",

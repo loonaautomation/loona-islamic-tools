@@ -2,7 +2,7 @@
   "name": "Loona Bengaluru の礼拝時刻",
   "short_name": "Bengaluru の礼拝時刻",
   "description": "Bengaluru（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Bengaluru についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bengaluru.html",
+  "id": "/ja/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

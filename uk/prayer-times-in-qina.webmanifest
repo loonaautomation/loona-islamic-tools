@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qina",
   "short_name": "Час намазу в Qina",
   "description": "Сьогоднішній час намазу в Qina, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Qina.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qina.html",
+  "id": "/uk/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

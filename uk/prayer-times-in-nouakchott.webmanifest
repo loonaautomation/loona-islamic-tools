@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nouakchott",
   "short_name": "Час намазу в Nouakchott",
   "description": "Сьогоднішній час намазу в Nouakchott, Мавританія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Nouakchott.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nouakchott.html",
+  "id": "/uk/prayer-times-in-nouakchott.html",
   "start_url": "./prayer-times-in-nouakchott.html",
   "scope": "./prayer-times-in-nouakchott.html",
   "display": "standalone",

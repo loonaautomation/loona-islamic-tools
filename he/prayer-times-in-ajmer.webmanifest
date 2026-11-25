@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ajmer",
   "short_name": "זמני תפילה בעיר Ajmer",
   "description": "זמני התפילה של היום בעיר Ajmer, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Ajmer.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ajmer.html",
+  "id": "/he/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

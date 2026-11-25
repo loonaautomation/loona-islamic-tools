@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Taraz",
   "short_name": "Horarios de oración en Taraz",
   "description": "Horarios de oración de hoy en Taraz, Kazajistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Taraz.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-taraz.html",
+  "id": "/es/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

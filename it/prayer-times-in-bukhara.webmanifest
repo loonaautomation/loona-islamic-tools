@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bukhara",
   "short_name": "Orari di preghiera a Bukhara",
   "description": "Orari di preghiera di oggi a Bukhara, Uzbekistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bukhara.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bukhara.html",
+  "id": "/it/prayer-times-in-bukhara.html",
   "start_url": "./prayer-times-in-bukhara.html",
   "scope": "./prayer-times-in-bukhara.html",
   "display": "standalone",

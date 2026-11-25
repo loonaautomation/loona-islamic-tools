@@ -2,7 +2,7 @@
   "name": "Loona Fīrozābād の礼拝時刻",
   "short_name": "Fīrozābād の礼拝時刻",
   "description": "Fīrozābād（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Fīrozābād についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-firozabad.html",
+  "id": "/ja/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

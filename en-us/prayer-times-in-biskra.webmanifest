@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Biskra Today",
   "short_name": "Prayer Times in Biskra Today",
   "description": "Today's prayer times in Biskra, Algeria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Biskra.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-biskra.html",
+  "id": "/en-us/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rājkot Namaz Vakitleri",
   "short_name": "Rājkot Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rājkot, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Rājkot için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rajkot.html",
+  "id": "/tr/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

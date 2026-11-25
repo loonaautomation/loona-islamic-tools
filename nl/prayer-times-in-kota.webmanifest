@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kota",
   "short_name": "Gebedstijden in Kota",
   "description": "De gebedstijden van vandaag in Kota, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kota.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kota.html",
+  "id": "/nl/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

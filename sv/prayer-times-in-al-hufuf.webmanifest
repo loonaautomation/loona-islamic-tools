@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Hufūf",
   "short_name": "Bönetider i Al Hufūf",
   "description": "Dagens bönetider i Al Hufūf, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Al Hufūf.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-hufuf.html",
+  "id": "/sv/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

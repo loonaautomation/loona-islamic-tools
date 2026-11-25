@@ -2,7 +2,7 @@
   "name": "Loona Alexandria imaidői",
   "short_name": "Alexandria imaidői",
   "description": "A mai imaidők: Alexandria, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Alexandria számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-alexandria.html",
+  "id": "/hu/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

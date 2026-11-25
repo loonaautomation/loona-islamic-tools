@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Sacramento",
   "short_name": "Horarios de oración en Sacramento",
   "description": "Horarios de oración de hoy en Sacramento, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Sacramento.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-sacramento.html",
+  "id": "/es/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

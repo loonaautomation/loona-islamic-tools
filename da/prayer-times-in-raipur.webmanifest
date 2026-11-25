@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Raipur",
   "short_name": "Bønnetider i Raipur",
   "description": "Dagens bønnetider i Raipur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Raipur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-raipur.html",
+  "id": "/da/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

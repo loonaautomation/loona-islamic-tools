@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Indore",
   "short_name": "Bönetider i Indore",
   "description": "Dagens bönetider i Indore, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Indore.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-indore.html",
+  "id": "/sv/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

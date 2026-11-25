@@ -2,7 +2,7 @@
   "name": "Loona Winnipeg Namaz Vakitleri",
   "short_name": "Winnipeg Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Winnipeg, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Winnipeg için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-winnipeg.html",
+  "id": "/tr/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

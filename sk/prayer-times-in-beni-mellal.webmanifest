@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Beni Mellal",
   "short_name": "Časy modlitieb v Beni Mellal",
   "description": "Dnešné časy modlitieb v Beni Mellal, Maroko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Beni Mellal.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-beni-mellal.html",
+  "id": "/sk/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

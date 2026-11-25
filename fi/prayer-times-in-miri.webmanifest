@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Miri",
   "short_name": "Rukousajat: Miri",
   "description": "Tämän päivän rukousajat paikassa Miri, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Miri.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-miri.html",
+  "id": "/fi/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

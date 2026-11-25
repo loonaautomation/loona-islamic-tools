@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bornova",
   "short_name": "זמני תפילה בעיר Bornova",
   "description": "זמני התפילה של היום בעיר Bornova, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bornova.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bornova.html",
+  "id": "/he/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

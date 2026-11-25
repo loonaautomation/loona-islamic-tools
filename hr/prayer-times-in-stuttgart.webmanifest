@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Stuttgart",
   "short_name": "Vremena namaza u gradu Stuttgart",
   "description": "Današnja vremena namaza u gradu Stuttgart, Njemačka: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Stuttgart.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-stuttgart.html",
+  "id": "/hr/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

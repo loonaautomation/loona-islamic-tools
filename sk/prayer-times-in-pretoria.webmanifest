@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Pretoria",
   "short_name": "Časy modlitieb v Pretoria",
   "description": "Dnešné časy modlitieb v Pretoria, Juhoafrická republika: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Pretoria.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-pretoria.html",
+  "id": "/sk/prayer-times-in-pretoria.html",
   "start_url": "./prayer-times-in-pretoria.html",
   "scope": "./prayer-times-in-pretoria.html",
   "display": "standalone",

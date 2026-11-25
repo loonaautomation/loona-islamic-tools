@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kanayannur",
   "short_name": "זמני תפילה בעיר Kanayannur",
   "description": "זמני התפילה של היום בעיר Kanayannur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kanayannur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kanayannur.html",
+  "id": "/he/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kulti",
   "short_name": "Gebedstijden in Kulti",
   "description": "De gebedstijden van vandaag in Kulti, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kulti.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kulti.html",
+  "id": "/nl/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

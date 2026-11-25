@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Qina",
   "short_name": "เวลาละหมาดใน Qina",
   "description": "เวลาละหมาดวันนี้ใน Qina, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Qina",
-  "id": "/loona-islamic-tools/th/prayer-times-in-qina.html",
+  "id": "/th/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

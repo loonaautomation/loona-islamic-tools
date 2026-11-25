@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Borūjerd",
   "short_name": "Waktu Salat di Borūjerd",
   "description": "Waktu salat hari ini di Borūjerd, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Borūjerd.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-borujerd.html",
+  "id": "/id/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

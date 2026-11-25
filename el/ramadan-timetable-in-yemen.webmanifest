@@ -2,7 +2,7 @@
   "name": "Loona Πρόγραμμα Ραμαζανιού στο Υεμένη 2027 (1448)",
   "short_name": "Πρόγραμμα Ραμαζανιού στο Υεμένη 2027 (1448)",
   "description": "Πρόγραμμα Ραμαζανιού 2027 για Υεμένη: ώρες τέλους Σεχρί (Φατζρ) και Ιφτάρ (Μαγκρίμπ) για κάθε ημέρα του Ραμαζανιού 1448, υπολογισμένες για Sanaa. Αναμένεται 8 Φεβρουαρίου έως 8 Μαρτίου 2027, υπό την επιφύλαξη της παρατήρησης της σελήνης.",
-  "id": "/loona-islamic-tools/el/ramadan-timetable-in-yemen.html",
+  "id": "/el/ramadan-timetable-in-yemen.html",
   "start_url": "./ramadan-timetable-in-yemen.html",
   "scope": "./ramadan-timetable-in-yemen.html",
   "display": "standalone",

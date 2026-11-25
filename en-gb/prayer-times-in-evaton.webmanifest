@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Evaton Today",
   "short_name": "Prayer Times in Evaton Today",
   "description": "Today's prayer times in Evaton, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Evaton.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-evaton.html",
+  "id": "/en-gb/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Chandigarh",
   "short_name": "Vremena namaza u gradu Chandigarh",
   "description": "Današnja vremena namaza u gradu Chandigarh, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Chandigarh.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-chandigarh.html",
+  "id": "/hr/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

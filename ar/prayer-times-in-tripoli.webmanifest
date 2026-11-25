@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في طرابلس (ليبيا)",
   "short_name": "مواقيت الصلاة في طرابلس (ليبيا)",
   "description": "مواقيت الصلاة اليوم في طرابلس، ليبيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لطرابلس.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tripoli.html",
+  "id": "/ar/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Duas-Bibliothek",
   "short_name": "Duas-Bibliothek",
   "description": "Eine Bibliothek authentischer Duas für jeden Moment — Morgen, Essen, Reisen, Zuhause, Angst, Vergebung — jede mit Arabisch, Transliteration, Übersetzung und Quelle.",
-  "id": "/loona-islamic-tools/de/duas-library/",
+  "id": "/de/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

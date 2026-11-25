@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qo‘qon",
   "short_name": "Час намазу в Qo‘qon",
   "description": "Сьогоднішній час намазу в Qo‘qon, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Qo‘qon.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qo-qon.html",
+  "id": "/uk/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

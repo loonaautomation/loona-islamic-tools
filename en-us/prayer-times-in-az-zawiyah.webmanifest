@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Az Zāwīyah Today",
   "short_name": "Prayer Times in Az Zāwīyah Today",
   "description": "Today's prayer times in Az Zāwīyah, Libya: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Az Zāwīyah.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-az-zawiyah.html",
+  "id": "/en-us/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

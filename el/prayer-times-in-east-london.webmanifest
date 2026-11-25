@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο East London",
   "short_name": "Ώρες Προσευχής στο East London",
   "description": "Οι σημερινές ώρες προσευχής στο East London, Νότια Αφρική: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το East London.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-east-london.html",
+  "id": "/el/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

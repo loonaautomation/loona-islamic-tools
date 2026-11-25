@@ -2,7 +2,7 @@
   "name": "Loona Jadwal Waktu Salat Bulanan",
   "short_name": "Jadwal Waktu Salat Bulanan",
   "description": "Buat jadwal waktu salat bulanan yang dapat dicetak untuk kota mana pun: keenam waktu untuk sebulan penuh, dengan metode perhitungan dan mazhab Asar Anda, gratis dan privat.",
-  "id": "/loona-islamic-tools/id/monthly-prayer-timetable/",
+  "id": "/id/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

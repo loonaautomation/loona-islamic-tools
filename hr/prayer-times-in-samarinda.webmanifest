@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Samarinda",
   "short_name": "Vremena namaza u gradu Samarinda",
   "description": "Današnja vremena namaza u gradu Samarinda, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Samarinda.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-samarinda.html",
+  "id": "/hr/prayer-times-in-samarinda.html",
   "start_url": "./prayer-times-in-samarinda.html",
   "scope": "./prayer-times-in-samarinda.html",
   "display": "standalone",

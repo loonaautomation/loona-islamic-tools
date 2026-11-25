@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jambi City",
   "short_name": "Časy modliteb v Jambi City",
   "description": "Dnešní časy modliteb v Jambi City, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Jambi City.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jambi-city.html",
+  "id": "/cs/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

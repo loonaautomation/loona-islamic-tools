@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Pavlodar",
   "short_name": "Час намазу в Pavlodar",
   "description": "Сьогоднішній час намазу в Pavlodar, Казахстан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Pavlodar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-pavlodar.html",
+  "id": "/uk/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

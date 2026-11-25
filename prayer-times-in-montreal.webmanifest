@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Montréal",
   "short_name": "Prayer Times in Montréal",
   "description": "Today's prayer times in Montréal, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Montréal.",
-  "id": "/loona-islamic-tools/prayer-times-in-montreal.html",
+  "id": "/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

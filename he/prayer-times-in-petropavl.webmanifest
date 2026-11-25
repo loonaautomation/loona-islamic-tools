@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Petropavl",
   "short_name": "זמני תפילה בעיר Petropavl",
   "description": "זמני התפילה של היום בעיר Petropavl, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Petropavl.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-petropavl.html",
+  "id": "/he/prayer-times-in-petropavl.html",
   "start_url": "./prayer-times-in-petropavl.html",
   "scope": "./prayer-times-in-petropavl.html",
   "display": "standalone",

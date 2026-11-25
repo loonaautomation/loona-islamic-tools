@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Sabzevar",
   "short_name": "Ore de rugăciune în Sabzevar",
   "description": "Orele de rugăciune de azi în Sabzevar, Iran: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Sabzevar.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sabzevar.html",
+  "id": "/ro/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

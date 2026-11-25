@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Parbhani",
   "short_name": "مواقيت الصلاة في Parbhani",
   "description": "مواقيت الصلاة اليوم في Parbhani، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـParbhani.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-parbhani.html",
+  "id": "/ar/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

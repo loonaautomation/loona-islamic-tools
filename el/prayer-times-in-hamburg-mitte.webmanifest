@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Hamburg-Mitte",
   "short_name": "Ώρες Προσευχής στο Hamburg-Mitte",
   "description": "Οι σημερινές ώρες προσευχής στο Hamburg-Mitte, Γερμανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-hamburg-mitte.html",
+  "id": "/el/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

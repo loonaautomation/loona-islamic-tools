@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Hamadān",
   "short_name": "Bönetider i Hamadān",
   "description": "Dagens bönetider i Hamadān, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Hamadān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-hamadan.html",
+  "id": "/sv/prayer-times-in-hamadan.html",
   "start_url": "./prayer-times-in-hamadan.html",
   "scope": "./prayer-times-in-hamadan.html",
   "display": "standalone",

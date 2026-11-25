@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lagos",
   "short_name": "Gebedstijden in Lagos",
   "description": "De gebedstijden van vandaag in Lagos, Nigeria: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Lagos.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lagos.html",
+  "id": "/nl/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

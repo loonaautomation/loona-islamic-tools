@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Varanasi",
   "short_name": "مواقيت الصلاة في Varanasi",
   "description": "مواقيت الصلاة اليوم في Varanasi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـVaranasi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-varanasi.html",
+  "id": "/ar/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

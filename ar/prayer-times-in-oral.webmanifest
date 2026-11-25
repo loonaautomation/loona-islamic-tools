@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Oral",
   "short_name": "مواقيت الصلاة في Oral",
   "description": "مواقيت الصلاة اليوم في Oral، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOral.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-oral.html",
+  "id": "/ar/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

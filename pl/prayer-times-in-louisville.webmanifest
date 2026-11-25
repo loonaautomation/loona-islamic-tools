@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Louisville",
   "short_name": "Czasy modlitw w miejscowości Louisville",
   "description": "Dzisiejsze czasy modlitw w miejscowości Louisville, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Louisville.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-louisville.html",
+  "id": "/pl/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

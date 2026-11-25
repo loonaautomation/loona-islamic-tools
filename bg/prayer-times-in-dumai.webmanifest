@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dumai",
   "short_name": "Часове за намаз в Dumai",
   "description": "Днешните часове за намаз в Dumai, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Dumai.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dumai.html",
+  "id": "/bg/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

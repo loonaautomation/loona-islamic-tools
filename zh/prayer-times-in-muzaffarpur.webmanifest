@@ -2,7 +2,7 @@
   "name": "Loona Muzaffarpur的礼拜时间",
   "short_name": "Muzaffarpur的礼拜时间",
   "description": "Muzaffarpur（印度）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Muzaffarpur实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-muzaffarpur.html",
+  "id": "/zh/prayer-times-in-muzaffarpur.html",
   "start_url": "./prayer-times-in-muzaffarpur.html",
   "scope": "./prayer-times-in-muzaffarpur.html",
   "display": "standalone",

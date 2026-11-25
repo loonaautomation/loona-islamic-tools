@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Lahore",
   "short_name": "Waktu Solat di Lahore",
   "description": "Waktu solat hari ini di Lahore, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Lahore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-lahore.html",
+  "id": "/ms/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Uşak imaidői",
   "short_name": "Uşak imaidői",
   "description": "A mai imaidők: Uşak, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Uşak számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-usak.html",
+  "id": "/hu/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Warangal",
   "short_name": "Gebedstijden in Warangal",
   "description": "De gebedstijden van vandaag in Warangal, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Warangal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-warangal.html",
+  "id": "/nl/prayer-times-in-warangal.html",
   "start_url": "./prayer-times-in-warangal.html",
   "scope": "./prayer-times-in-warangal.html",
   "display": "standalone",

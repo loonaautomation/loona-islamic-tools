@@ -2,7 +2,7 @@
   "name": "Loona Nukus imaidői",
   "short_name": "Nukus imaidői",
   "description": "A mai imaidők: Nukus, Üzbegisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Nukus számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-nukus.html",
+  "id": "/hu/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mingora",
   "short_name": "Gebetszeiten in Mingora",
   "description": "Die heutigen Gebetszeiten in Mingora, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Mingora.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mingora.html",
+  "id": "/de/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

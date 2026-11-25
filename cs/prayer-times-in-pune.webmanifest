@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Pune",
   "short_name": "Časy modliteb v Pune",
   "description": "Dnešní časy modliteb v Pune, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Pune.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-pune.html",
+  "id": "/cs/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

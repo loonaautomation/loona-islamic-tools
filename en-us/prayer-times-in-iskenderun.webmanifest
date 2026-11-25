@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in İskenderun Today",
   "short_name": "Prayer Times in İskenderun Today",
   "description": "Today's prayer times in İskenderun, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for İskenderun.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-iskenderun.html",
+  "id": "/en-us/prayer-times-in-iskenderun.html",
   "start_url": "./prayer-times-in-iskenderun.html",
   "scope": "./prayer-times-in-iskenderun.html",
   "display": "standalone",

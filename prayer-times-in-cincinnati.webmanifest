@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cincinnati",
   "short_name": "Prayer Times in Cincinnati",
   "description": "Today's prayer times in Cincinnati, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Cincinnati.",
-  "id": "/loona-islamic-tools/prayer-times-in-cincinnati.html",
+  "id": "/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

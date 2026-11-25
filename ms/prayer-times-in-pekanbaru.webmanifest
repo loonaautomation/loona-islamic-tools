@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Pekanbaru",
   "short_name": "Waktu Solat di Pekanbaru",
   "description": "Waktu solat hari ini di Pekanbaru, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Pekanbaru.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-pekanbaru.html",
+  "id": "/ms/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

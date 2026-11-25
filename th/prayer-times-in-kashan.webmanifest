@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kashan",
   "short_name": "เวลาละหมาดใน Kashan",
   "description": "เวลาละหมาดวันนี้ใน Kashan, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kashan",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kashan.html",
+  "id": "/th/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

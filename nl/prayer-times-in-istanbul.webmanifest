@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Istanbul",
   "short_name": "Gebedstijden in Istanbul",
   "description": "Gebedstijden van vandaag in Istanbul, Türkiye: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Istanbul.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-istanbul.html",
+  "id": "/nl/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

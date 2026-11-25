@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Damietta",
   "short_name": "Gebetszeiten in Damietta",
   "description": "Die heutigen Gebetszeiten in Damietta, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Damietta.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-damietta.html",
+  "id": "/de/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

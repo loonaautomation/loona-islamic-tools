@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Türkmenabat",
   "short_name": "זמני תפילה בעיר Türkmenabat",
   "description": "זמני התפילה של היום בעיר Türkmenabat, טורקמניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Türkmenabat.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tuerkmenabat.html",
+  "id": "/he/prayer-times-in-tuerkmenabat.html",
   "start_url": "./prayer-times-in-tuerkmenabat.html",
   "scope": "./prayer-times-in-tuerkmenabat.html",
   "display": "standalone",

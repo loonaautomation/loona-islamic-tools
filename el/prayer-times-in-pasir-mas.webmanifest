@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pasir Mas",
   "short_name": "Ώρες Προσευχής στο Pasir Mas",
   "description": "Οι σημερινές ώρες προσευχής στο Pasir Mas, Μαλαισία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Pasir Mas.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pasir-mas.html",
+  "id": "/el/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

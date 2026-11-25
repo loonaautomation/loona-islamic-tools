@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tulsa",
   "short_name": "Časy modliteb v Tulsa",
   "description": "Dnešní časy modliteb v Tulsa, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Tulsa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tulsa.html",
+  "id": "/cs/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

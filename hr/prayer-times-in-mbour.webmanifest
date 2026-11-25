@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mbour",
   "short_name": "Vremena namaza u gradu Mbour",
   "description": "Današnja vremena namaza u gradu Mbour, Senegal: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Mbour.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mbour.html",
+  "id": "/hr/prayer-times-in-mbour.html",
   "start_url": "./prayer-times-in-mbour.html",
   "scope": "./prayer-times-in-mbour.html",
   "display": "standalone",

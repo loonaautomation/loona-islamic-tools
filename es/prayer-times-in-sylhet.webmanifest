@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Sylhet",
   "short_name": "Horarios de oración en Sylhet",
   "description": "Horarios de oración de hoy en Sylhet, Bangladés: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Sylhet.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-sylhet.html",
+  "id": "/es/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

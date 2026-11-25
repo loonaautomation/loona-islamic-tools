@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Aden",
   "short_name": "Časy modlitieb v Aden",
   "description": "Dnešné časy modlitieb v Aden, Jemen: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Aden.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-aden.html",
+  "id": "/sk/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

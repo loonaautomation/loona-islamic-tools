@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Christchurch",
   "short_name": "Время намаза в городе Christchurch",
   "description": "Время намаза на сегодня: Christchurch, Новая Зеландия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Christchurch.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-christchurch.html",
+  "id": "/ru/prayer-times-in-christchurch.html",
   "start_url": "./prayer-times-in-christchurch.html",
   "scope": "./prayer-times-in-christchurch.html",
   "display": "standalone",

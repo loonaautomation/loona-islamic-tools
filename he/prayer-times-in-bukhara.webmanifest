@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bukhara",
   "short_name": "זמני תפילה בעיר Bukhara",
   "description": "זמני התפילה של היום בעיר Bukhara, אוזבקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bukhara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bukhara.html",
+  "id": "/he/prayer-times-in-bukhara.html",
   "start_url": "./prayer-times-in-bukhara.html",
   "scope": "./prayer-times-in-bukhara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tarakan",
   "short_name": "Prayer Times in Tarakan",
   "description": "Today's prayer times in Tarakan, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tarakan.",
-  "id": "/loona-islamic-tools/prayer-times-in-tarakan.html",
+  "id": "/prayer-times-in-tarakan.html",
   "start_url": "./prayer-times-in-tarakan.html",
   "scope": "./prayer-times-in-tarakan.html",
   "display": "standalone",

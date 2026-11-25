@@ -2,7 +2,7 @@
   "name": "Loona Marāgheh imaidői",
   "short_name": "Marāgheh imaidői",
   "description": "A mai imaidők: Marāgheh, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Marāgheh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-maragheh.html",
+  "id": "/hu/prayer-times-in-maragheh.html",
   "start_url": "./prayer-times-in-maragheh.html",
   "scope": "./prayer-times-in-maragheh.html",
   "display": "standalone",

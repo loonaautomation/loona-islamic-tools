@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Konya",
   "short_name": "Časy modlitieb v Konya",
   "description": "Dnešné časy modlitieb v Konya, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Konya.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-konya.html",
+  "id": "/sk/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

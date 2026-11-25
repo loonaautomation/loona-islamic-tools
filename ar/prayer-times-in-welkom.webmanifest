@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Welkom",
   "short_name": "مواقيت الصلاة في Welkom",
   "description": "مواقيت الصلاة اليوم في Welkom، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـWelkom.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-welkom.html",
+  "id": "/ar/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

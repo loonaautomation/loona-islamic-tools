@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Québec",
   "short_name": "Время намаза в городе Québec",
   "description": "Время намаза на сегодня: Québec, Канада: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Québec.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-quebec.html",
+  "id": "/ru/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

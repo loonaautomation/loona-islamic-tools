@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ganja",
   "short_name": "Časy modliteb v Ganja",
   "description": "Dnešní časy modliteb v Ganja, Ázerbájdžán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ganja.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ganja.html",
+  "id": "/cs/prayer-times-in-ganja.html",
   "start_url": "./prayer-times-in-ganja.html",
   "scope": "./prayer-times-in-ganja.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Eskişehir",
   "short_name": "Bönetider i Eskişehir",
   "description": "Dagens bönetider i Eskişehir, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Eskişehir.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-eskisehir.html",
+  "id": "/sv/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

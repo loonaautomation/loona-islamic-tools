@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kostanay",
   "short_name": "Waktu Salat di Kostanay",
   "description": "Waktu salat hari ini di Kostanay, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kostanay.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kostanay.html",
+  "id": "/id/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Osmaniye",
   "short_name": "זמני תפילה בעיר Osmaniye",
   "description": "זמני התפילה של היום בעיר Osmaniye, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Osmaniye.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-osmaniye.html",
+  "id": "/he/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

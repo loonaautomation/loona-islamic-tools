@@ -2,7 +2,7 @@
   "name": "Loona Biblioteka du",
   "short_name": "Biblioteka du",
   "description": "Biblioteka autentycznych du na każdą chwilę — poranek, jedzenie, podróż, dom, niepokój, przebaczenie — każda z tekstem arabskim, transliteracją, tłumaczeniem i źródłem.",
-  "id": "/loona-islamic-tools/pl/duas-library/",
+  "id": "/pl/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

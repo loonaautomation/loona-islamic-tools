@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Botshabelo",
   "short_name": "Horarios de oración en Botshabelo",
   "description": "Horarios de oración de hoy en Botshabelo, Sudáfrica: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Botshabelo.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-botshabelo.html",
+  "id": "/es/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

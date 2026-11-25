@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Shāhjānpur",
   "short_name": "Gebetszeiten in Shāhjānpur",
   "description": "Die heutigen Gebetszeiten in Shāhjānpur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Shāhjānpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-shahjanpur.html",
+  "id": "/de/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

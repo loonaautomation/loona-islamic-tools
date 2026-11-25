@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tampa",
   "short_name": "مواقيت الصلاة في Tampa",
   "description": "مواقيت الصلاة اليوم في Tampa، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـTampa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tampa.html",
+  "id": "/ar/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Detroit",
   "short_name": "זמני תפילה בעיר Detroit",
   "description": "זמני התפילה של היום בעיר Detroit, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Detroit.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-detroit.html",
+  "id": "/he/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

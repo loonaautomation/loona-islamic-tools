@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Antakya",
   "short_name": "Bönetider i Antakya",
   "description": "Dagens bönetider i Antakya, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Antakya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-antakya.html",
+  "id": "/sv/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

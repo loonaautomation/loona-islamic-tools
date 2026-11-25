@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Gwalior",
   "short_name": "เวลาละหมาดใน Gwalior",
   "description": "เวลาละหมาดวันนี้ใน Gwalior, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Gwalior",
-  "id": "/loona-islamic-tools/th/prayer-times-in-gwalior.html",
+  "id": "/th/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sétif Namaz Vakitleri",
   "short_name": "Sétif Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sétif, Cezayir: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sétif için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-setif.html",
+  "id": "/tr/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

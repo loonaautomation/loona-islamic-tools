@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Jūnāgadh",
   "short_name": "Heures de prière à Jūnāgadh",
   "description": "Les heures de prière d’aujourd’hui à Jūnāgadh, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Jūnāgadh.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-junagadh.html",
+  "id": "/fr/prayer-times-in-junagadh.html",
   "start_url": "./prayer-times-in-junagadh.html",
   "scope": "./prayer-times-in-junagadh.html",
   "display": "standalone",

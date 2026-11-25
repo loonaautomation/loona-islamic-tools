@@ -2,7 +2,7 @@
   "name": "Loona Sivas Namaz Vakitleri",
   "short_name": "Sivas Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sivas, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sivas için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sivas.html",
+  "id": "/tr/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Evaton Namaz Vakitleri",
   "short_name": "Evaton Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Evaton, Güney Afrika: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Evaton için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-evaton.html",
+  "id": "/tr/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

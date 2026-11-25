@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Fergana",
   "short_name": "זמני תפילה בעיר Fergana",
   "description": "זמני התפילה של היום בעיר Fergana, אוזבקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Fergana.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-fergana.html",
+  "id": "/he/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

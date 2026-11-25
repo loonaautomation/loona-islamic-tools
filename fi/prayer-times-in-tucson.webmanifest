@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tucson",
   "short_name": "Rukousajat: Tucson",
   "description": "Tämän päivän rukousajat paikassa Tucson, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tucson.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tucson.html",
+  "id": "/fi/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

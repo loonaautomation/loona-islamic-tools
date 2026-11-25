@@ -2,7 +2,7 @@
   "name": "Loona Tasbih-laskuri",
   "short_name": "Tasbih-laskuri",
   "description": "Digitaalinen tasbih-laskuri: SubhanAllah, Alhamdulillah ja muita esiasetuksia, 33/99/100 tavoitteet, kierrosten seuranta, värinä ja elinikäiset kokonaismäärät tallennettuna laitteellesi.",
-  "id": "/loona-islamic-tools/fi/tasbih-counter/",
+  "id": "/fi/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

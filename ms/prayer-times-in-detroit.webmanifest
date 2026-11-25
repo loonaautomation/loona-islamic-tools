@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Detroit",
   "short_name": "Waktu Solat di Detroit",
   "description": "Waktu solat hari ini di Detroit, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Detroit.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-detroit.html",
+  "id": "/ms/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

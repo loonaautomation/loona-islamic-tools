@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Al Mansurah",
   "short_name": "Waktu Solat di Al Mansurah",
   "description": "Waktu solat hari ini di Al Mansurah, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Al Mansurah.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-al-mansurah.html",
+  "id": "/ms/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

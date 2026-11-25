@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Paya Terubong",
   "short_name": "Bönetider i Paya Terubong",
   "description": "Dagens bönetider i Paya Terubong, Malaysia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Paya Terubong.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-paya-terubong.html",
+  "id": "/sv/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

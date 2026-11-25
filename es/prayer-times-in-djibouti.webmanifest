@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Djibouti",
   "short_name": "Horarios de oración en Djibouti",
   "description": "Los horarios de oración de hoy en Yibuti, Yibuti: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Yibuti.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-djibouti.html",
+  "id": "/es/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Adelaide",
   "short_name": "Gebetszeiten in Adelaide",
   "description": "Die heutigen Gebetszeiten in Adelaide, Australien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Adelaide.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-adelaide.html",
+  "id": "/de/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

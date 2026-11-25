@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Mansurah",
   "short_name": "مواقيت الصلاة في Al Mansurah",
   "description": "مواقيت الصلاة اليوم في Al Mansurah، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـAl Mansurah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-mansurah.html",
+  "id": "/ar/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

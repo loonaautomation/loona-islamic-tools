@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jhang Sadr",
   "short_name": "Время намаза в городе Jhang Sadr",
   "description": "Время намаза на сегодня: Jhang Sadr, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jhang Sadr.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jhang-sadr.html",
+  "id": "/ru/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

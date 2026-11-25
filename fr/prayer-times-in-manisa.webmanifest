@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Manisa",
   "short_name": "Heures de prière à Manisa",
   "description": "Les heures de prière d’aujourd’hui à Manisa, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Manisa.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-manisa.html",
+  "id": "/fr/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

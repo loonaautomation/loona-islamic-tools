@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nowrangapur",
   "short_name": "Prayer Times in Nowrangapur",
   "description": "Today's prayer times in Nowrangapur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Nowrangapur.",
-  "id": "/loona-islamic-tools/prayer-times-in-nowrangapur.html",
+  "id": "/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

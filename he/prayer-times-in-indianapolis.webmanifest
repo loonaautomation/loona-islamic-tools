@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Indianapolis",
   "short_name": "זמני תפילה בעיר Indianapolis",
   "description": "זמני התפילה של היום בעיר Indianapolis, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Indianapolis.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-indianapolis.html",
+  "id": "/he/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

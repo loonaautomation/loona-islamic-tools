@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Munich",
   "short_name": "Časy modliteb v Munich",
   "description": "Dnešní časy modliteb v Munich, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Munich.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-munich.html",
+  "id": "/cs/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dhārāvi Namaz Vakitleri",
   "short_name": "Dhārāvi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dhārāvi, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dhārāvi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dharavi.html",
+  "id": "/tr/prayer-times-in-dharavi.html",
   "start_url": "./prayer-times-in-dharavi.html",
   "scope": "./prayer-times-in-dharavi.html",
   "display": "standalone",

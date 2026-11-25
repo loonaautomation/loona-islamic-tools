@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Fresno",
   "short_name": "Waktu Salat di Fresno",
   "description": "Waktu salat hari ini di Fresno, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Fresno.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-fresno.html",
+  "id": "/id/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

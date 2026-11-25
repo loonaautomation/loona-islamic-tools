@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kosti Today",
   "short_name": "Prayer Times in Kosti Today",
   "description": "Today's prayer times in Kosti, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kosti.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-kosti.html",
+  "id": "/en-us/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jessore",
   "short_name": "Gebetszeiten in Jessore",
   "description": "Die heutigen Gebetszeiten in Jessore, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jessore.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jessore.html",
+  "id": "/de/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

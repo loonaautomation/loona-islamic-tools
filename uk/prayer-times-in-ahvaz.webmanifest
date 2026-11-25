@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ahvaz",
   "short_name": "Час намазу в Ahvaz",
   "description": "Сьогоднішній час намазу в Ahvaz, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ahvaz.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ahvaz.html",
+  "id": "/uk/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Honolulu",
   "short_name": "Časy modliteb v Honolulu",
   "description": "Dnešní časy modliteb v Honolulu, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Honolulu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-honolulu.html",
+  "id": "/cs/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mingora",
   "short_name": "Orari di preghiera a Mingora",
   "description": "Orari di preghiera di oggi a Mingora, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Mingora.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mingora.html",
+  "id": "/it/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

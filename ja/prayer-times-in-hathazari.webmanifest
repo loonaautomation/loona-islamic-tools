@@ -2,7 +2,7 @@
   "name": "Loona Hāthazāri の礼拝時刻",
   "short_name": "Hāthazāri の礼拝時刻",
   "description": "Hāthazāri（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Hāthazāri についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-hathazari.html",
+  "id": "/ja/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

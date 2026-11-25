@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ankara",
   "short_name": "Časy modlitieb v Ankara",
   "description": "Dnešné časy modlitieb v Ankara, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Ankara.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ankara.html",
+  "id": "/sk/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

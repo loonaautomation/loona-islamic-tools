@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Vancouver",
   "short_name": "เวลาละหมาดใน Vancouver",
   "description": "เวลาละหมาดวันนี้ใน Vancouver, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Vancouver",
-  "id": "/loona-islamic-tools/th/prayer-times-in-vancouver.html",
+  "id": "/th/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

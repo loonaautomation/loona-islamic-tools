@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mallawī",
   "short_name": "Gebedstijden in Mallawī",
   "description": "De gebedstijden van vandaag in Mallawī, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Egyptian General Authority, live berekend op je apparaat voor Mallawī.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mallawi.html",
+  "id": "/nl/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

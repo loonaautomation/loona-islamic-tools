@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mysuru",
   "short_name": "Bønnetider i Mysuru",
   "description": "Dagens bønnetider i Mysuru, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Mysuru.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mysuru.html",
+  "id": "/nb/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

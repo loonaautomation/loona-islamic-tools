@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר East Jerusalem",
   "short_name": "זמני תפילה בעיר East Jerusalem",
   "description": "זמני התפילה של היום בעיר East Jerusalem, פלסטין: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור East Jerusalem.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-east-jerusalem.html",
+  "id": "/he/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

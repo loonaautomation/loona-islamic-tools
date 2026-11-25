@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Erode",
   "short_name": "Время намаза в городе Erode",
   "description": "Время намаза на сегодня: Erode, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Erode.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-erode.html",
+  "id": "/ru/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

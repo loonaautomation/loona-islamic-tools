@@ -2,7 +2,7 @@
   "name": "Loona Bakersfield imaidői",
   "short_name": "Bakersfield imaidői",
   "description": "A mai imaidők: Bakersfield, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Bakersfield számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bakersfield.html",
+  "id": "/hu/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

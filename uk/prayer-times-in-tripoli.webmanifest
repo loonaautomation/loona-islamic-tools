@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tripoli (Лівія)",
   "short_name": "Час намазу в Tripoli (Лівія)",
   "description": "Сьогоднішній час намазу в Tripoli, Лівія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Tripoli.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tripoli.html",
+  "id": "/uk/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mingora",
   "short_name": "مواقيت الصلاة في Mingora",
   "description": "مواقيت الصلاة اليوم في Mingora، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMingora.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mingora.html",
+  "id": "/ar/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

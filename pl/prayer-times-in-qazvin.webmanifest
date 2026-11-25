@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Qazvin",
   "short_name": "Czasy modlitw w miejscowości Qazvin",
   "description": "Dzisiejsze czasy modlitw w miejscowości Qazvin, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Qazvin.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-qazvin.html",
+  "id": "/pl/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

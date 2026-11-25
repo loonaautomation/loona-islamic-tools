@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Graz",
   "short_name": "Časy modliteb v Graz",
   "description": "Dnešní časy modliteb v Graz, Rakousko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Graz.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-graz.html",
+  "id": "/cs/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

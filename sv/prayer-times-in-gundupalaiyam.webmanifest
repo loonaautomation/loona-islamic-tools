@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gundupālaiyam",
   "short_name": "Bönetider i Gundupālaiyam",
   "description": "Dagens bönetider i Gundupālaiyam, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Gundupālaiyam.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gundupalaiyam.html",
+  "id": "/sv/prayer-times-in-gundupalaiyam.html",
   "start_url": "./prayer-times-in-gundupalaiyam.html",
   "scope": "./prayer-times-in-gundupalaiyam.html",
   "display": "standalone",

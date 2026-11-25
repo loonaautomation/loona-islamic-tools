@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mesa",
   "short_name": "Vremena namaza u gradu Mesa",
   "description": "Današnja vremena namaza u gradu Mesa, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Mesa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mesa.html",
+  "id": "/hr/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

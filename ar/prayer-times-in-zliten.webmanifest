@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Zliten",
   "short_name": "مواقيت الصلاة في Zliten",
   "description": "مواقيت الصلاة اليوم في Zliten، ليبيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـZliten.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-zliten.html",
+  "id": "/ar/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

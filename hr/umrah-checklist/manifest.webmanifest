@@ -2,7 +2,7 @@
   "name": "Loona Kontrolni popis za umru",
   "short_name": "Kontrolni popis za umru",
   "description": "Interaktivni kontrolni popis za umru: dokumenti, rezervacije, pakiranje, zdravlje i priprema ibadeta, s trakom napretka, mogućnošću ispisa i napretkom spremljenim na vašem uređaju.",
-  "id": "/loona-islamic-tools/hr/umrah-checklist/",
+  "id": "/hr/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

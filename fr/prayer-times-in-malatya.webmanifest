@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Malatya",
   "short_name": "Heures de prière à Malatya",
   "description": "Les heures de prière d’aujourd’hui à Malatya, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Malatya.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-malatya.html",
+  "id": "/fr/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Marseille",
   "short_name": "Časy modliteb v Marseille",
   "description": "Dnešní časy modliteb v Marseille, Francie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Marseille.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-marseille.html",
+  "id": "/cs/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

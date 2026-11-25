@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Udaipur",
   "short_name": "Bønnetider i Udaipur",
   "description": "Dagens bønnetider i Udaipur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Udaipur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-udaipur.html",
+  "id": "/nb/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

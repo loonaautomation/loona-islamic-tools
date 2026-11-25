@@ -2,7 +2,7 @@
   "name": "Loona 오늘의 기도 시간",
   "short_name": "오늘의 기도 시간",
   "description": "어떤 도시든 오늘의 Fajr, Dhuhr, Asr, Maghrib, Isha 기도 시간을 확인하세요: Karachi, ISNA, MWL 등 여러 방식, Hanafi 또는 Shafi Asr, 정확한 좌표도 지원해요.",
-  "id": "/loona-islamic-tools/ko/prayer-times/",
+  "id": "/ko/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

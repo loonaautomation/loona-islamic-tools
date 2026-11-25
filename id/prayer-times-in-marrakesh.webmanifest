@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Marrakesh",
   "short_name": "Waktu Salat di Marrakesh",
   "description": "Waktu salat hari ini di Marrakesh, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Marrakesh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-marrakesh.html",
+  "id": "/id/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jepara imaidői",
   "short_name": "Jepara imaidői",
   "description": "A mai imaidők: Jepara, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Jepara számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-jepara.html",
+  "id": "/hu/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

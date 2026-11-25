@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Akola",
   "short_name": "Waktu Salat di Akola",
   "description": "Waktu salat hari ini di Akola, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Akola.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-akola.html",
+  "id": "/id/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

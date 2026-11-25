@@ -2,7 +2,7 @@
   "name": "Loona Bhātpāra的礼拜时间",
   "short_name": "Bhātpāra的礼拜时间",
   "description": "Bhātpāra（印度）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Bhātpāra实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-bhatpara.html",
+  "id": "/zh/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

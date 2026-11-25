@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Brāhmanbāria",
   "short_name": "Horarios de oración en Brāhmanbāria",
   "description": "Horarios de oración de hoy en Brāhmanbāria, Bangladés: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Brāhmanbāria.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-brahmanbaria.html",
+  "id": "/es/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Tampa",
   "short_name": "Časy modlitieb v Tampa",
   "description": "Dnešné časy modlitieb v Tampa, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Tampa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-tampa.html",
+  "id": "/sk/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

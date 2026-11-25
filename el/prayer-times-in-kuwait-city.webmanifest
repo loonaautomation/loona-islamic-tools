@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στην Kuwait City",
   "short_name": "Ώρες Προσευχής στην Kuwait City",
   "description": "Οι σημερινές ώρες προσευχής στην πόλη Κουβέιτ, Κουβέιτ: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για την πόλη Κουβέιτ.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kuwait-city.html",
+  "id": "/el/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

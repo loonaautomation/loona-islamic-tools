@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rosetta",
   "short_name": "Vremena namaza u gradu Rosetta",
   "description": "Današnja vremena namaza u gradu Rosetta, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Rosetta.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rosetta.html",
+  "id": "/hr/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

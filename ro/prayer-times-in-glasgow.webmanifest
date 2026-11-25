@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Glasgow",
   "short_name": "Ore de rugăciune în Glasgow",
   "description": "Orele de rugăciune de azi în Glasgow, Regatul Unit: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Glasgow.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-glasgow.html",
+  "id": "/ro/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

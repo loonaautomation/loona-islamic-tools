@@ -2,7 +2,7 @@
   "name": "Loona Nagpur Namaz Vakitleri",
   "short_name": "Nagpur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nagpur, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Nagpur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nagpur.html",
+  "id": "/tr/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

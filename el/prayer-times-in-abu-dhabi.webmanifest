@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Abu Dhabi",
   "short_name": "Ώρες Προσευχής στο Abu Dhabi",
   "description": "Οι σημερινές ώρες προσευχής στο Abu Dhabi, UAE: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογισμένες ζωντανά στη συσκευή σας για το Abu Dhabi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-abu-dhabi.html",
+  "id": "/el/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

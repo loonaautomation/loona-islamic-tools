@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Lexington-Fayette",
   "short_name": "Bönetider i Lexington-Fayette",
   "description": "Dagens bönetider i Lexington-Fayette, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Lexington-Fayette.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-lexington-fayette.html",
+  "id": "/sv/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

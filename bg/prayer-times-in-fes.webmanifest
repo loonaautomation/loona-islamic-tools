@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Fes",
   "short_name": "Часове за намаз в Fes",
   "description": "Днешните часове за намаз в Fes, Мароко: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Fes.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-fes.html",
+  "id": "/bg/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

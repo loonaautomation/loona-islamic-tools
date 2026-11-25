@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Omaha",
   "short_name": "Gebetszeiten in Omaha",
   "description": "Die heutigen Gebetszeiten in Omaha, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Omaha.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-omaha.html",
+  "id": "/de/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

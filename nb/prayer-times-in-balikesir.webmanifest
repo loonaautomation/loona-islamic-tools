@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Balıkesir",
   "short_name": "Bønnetider i Balıkesir",
   "description": "Dagens bønnetider i Balıkesir, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Balıkesir.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-balikesir.html",
+  "id": "/nb/prayer-times-in-balikesir.html",
   "start_url": "./prayer-times-in-balikesir.html",
   "scope": "./prayer-times-in-balikesir.html",
   "display": "standalone",

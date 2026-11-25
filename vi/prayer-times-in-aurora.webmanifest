@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Aurora",
   "short_name": "Giờ cầu nguyện tại Aurora",
   "description": "Giờ cầu nguyện hôm nay tại Aurora, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Aurora.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-aurora.html",
+  "id": "/vi/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

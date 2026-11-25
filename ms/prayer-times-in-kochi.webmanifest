@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kochi",
   "short_name": "Waktu Solat di Kochi",
   "description": "Waktu solat hari ini di Kochi, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Kochi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kochi.html",
+  "id": "/ms/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

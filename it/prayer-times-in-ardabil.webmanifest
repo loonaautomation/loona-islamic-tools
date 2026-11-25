@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ardabīl",
   "short_name": "Orari di preghiera a Ardabīl",
   "description": "Orari di preghiera di oggi a Ardabīl, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Ardabīl.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ardabil.html",
+  "id": "/it/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

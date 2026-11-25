@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Koutiala",
   "short_name": "Waktu Solat di Koutiala",
   "description": "Waktu solat hari ini di Koutiala, Mali: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Koutiala.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-koutiala.html",
+  "id": "/ms/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

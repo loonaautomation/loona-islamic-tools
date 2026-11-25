@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bilimora",
   "short_name": "เวลาละหมาดใน Bilimora",
   "description": "เวลาละหมาดวันนี้ใน Bilimora, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bilimora",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bilimora.html",
+  "id": "/th/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jabalpur",
   "short_name": "זמני תפילה בעיר Jabalpur",
   "description": "זמני התפילה של היום בעיר Jabalpur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jabalpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jabalpur.html",
+  "id": "/he/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

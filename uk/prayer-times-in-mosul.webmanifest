@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mosul",
   "short_name": "Час намазу в Mosul",
   "description": "Сьогоднішній час намазу в Mosul, Ірак: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Mosul.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mosul.html",
+  "id": "/uk/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

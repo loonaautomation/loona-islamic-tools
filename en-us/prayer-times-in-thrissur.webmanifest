@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Thrissur Today",
   "short_name": "Prayer Times in Thrissur Today",
   "description": "Today's prayer times in Thrissur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Thrissur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-thrissur.html",
+  "id": "/en-us/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

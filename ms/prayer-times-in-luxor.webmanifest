@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Luxor",
   "short_name": "Waktu Solat di Luxor",
   "description": "Waktu solat hari ini di Luxor, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Luxor.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-luxor.html",
+  "id": "/ms/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

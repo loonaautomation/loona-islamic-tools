@@ -2,7 +2,7 @@
   "name": "Loona Aswān Namaz Vakitleri",
   "short_name": "Aswān Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Aswān, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Aswān için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-aswan.html",
+  "id": "/tr/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

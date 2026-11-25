@@ -2,7 +2,7 @@
   "name": "Loona Zürich Namaz Vakitleri",
   "short_name": "Zürich Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Zürich, İsviçre: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Zürich için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-zuerich.html",
+  "id": "/tr/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

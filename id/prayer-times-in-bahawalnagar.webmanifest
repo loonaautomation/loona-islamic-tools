@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bahawalnagar",
   "short_name": "Waktu Salat di Bahawalnagar",
   "description": "Waktu salat hari ini di Bahawalnagar, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bahawalnagar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bahawalnagar.html",
+  "id": "/id/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

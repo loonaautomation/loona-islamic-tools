@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Utrecht",
   "short_name": "Časy modliteb v Utrecht",
   "description": "Dnešní časy modliteb v Utrecht, Nizozemsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Utrecht.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-utrecht.html",
+  "id": "/cs/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

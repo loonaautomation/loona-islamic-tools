@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bologna",
   "short_name": "Horários de Oração em Bologna",
   "description": "Horários de oração de hoje em Bologna, Itália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Bologna.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-bologna.html",
+  "id": "/pt/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Preston",
   "short_name": "Vremena namaza u gradu Preston",
   "description": "Današnja vremena namaza u gradu Preston, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Preston.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-preston.html",
+  "id": "/hr/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

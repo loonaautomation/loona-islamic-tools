@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Vijayawada",
   "short_name": "Waktu Solat di Vijayawada",
   "description": "Waktu solat hari ini di Vijayawada, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Vijayawada.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-vijayawada.html",
+  "id": "/ms/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

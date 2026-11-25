@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Tando Bago",
   "short_name": "Ore de rugăciune în Tando Bago",
   "description": "Orele de rugăciune de azi în Tando Bago, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Tando Bago.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-tando-bago.html",
+  "id": "/ro/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

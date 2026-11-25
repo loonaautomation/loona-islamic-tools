@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gaza",
   "short_name": "Bönetider i Gaza",
   "description": "Dagens bönetider i Gaza, Palestina: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Gaza.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gaza.html",
+  "id": "/sv/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

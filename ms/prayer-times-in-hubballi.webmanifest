@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Hubballi",
   "short_name": "Waktu Solat di Hubballi",
   "description": "Waktu solat hari ini di Hubballi, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Hubballi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-hubballi.html",
+  "id": "/ms/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Iran 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Iran 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Iran: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Tehran. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-iran.html",
+  "id": "/th/ramadan-timetable-in-iran.html",
   "start_url": "./ramadan-timetable-in-iran.html",
   "scope": "./ramadan-timetable-in-iran.html",
   "display": "standalone",

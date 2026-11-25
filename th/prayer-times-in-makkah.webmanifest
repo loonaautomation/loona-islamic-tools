@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Makkah",
   "short_name": "เวลาละหมาดใน Makkah",
   "description": "เวลาละหมาดวันนี้ใน Makkah, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Makkah",
-  "id": "/loona-islamic-tools/th/prayer-times-in-makkah.html",
+  "id": "/th/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Rājkot",
   "short_name": "Časy modliteb v Rājkot",
   "description": "Dnešní časy modliteb v Rājkot, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Rājkot.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-rajkot.html",
+  "id": "/cs/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

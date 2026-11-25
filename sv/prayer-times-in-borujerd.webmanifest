@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Borūjerd",
   "short_name": "Bönetider i Borūjerd",
   "description": "Dagens bönetider i Borūjerd, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Borūjerd.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-borujerd.html",
+  "id": "/sv/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

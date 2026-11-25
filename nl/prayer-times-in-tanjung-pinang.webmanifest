@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tanjung Pinang",
   "short_name": "Gebedstijden in Tanjung Pinang",
   "description": "De gebedstijden van vandaag in Tanjung Pinang, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tanjung Pinang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tanjung-pinang.html",
+  "id": "/nl/prayer-times-in-tanjung-pinang.html",
   "start_url": "./prayer-times-in-tanjung-pinang.html",
   "scope": "./prayer-times-in-tanjung-pinang.html",
   "display": "standalone",

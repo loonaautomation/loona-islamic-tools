@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Meknes",
   "short_name": "Orari di preghiera a Meknes",
   "description": "Orari di preghiera di oggi a Meknes, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Meknes.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-meknes.html",
+  "id": "/it/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

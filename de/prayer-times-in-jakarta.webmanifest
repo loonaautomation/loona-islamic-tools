@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jakarta",
   "short_name": "Gebetszeiten in Jakarta",
   "description": "Die heutigen Gebetszeiten in Jakarta, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jakarta.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jakarta.html",
+  "id": "/de/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

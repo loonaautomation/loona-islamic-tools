@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jessore",
   "short_name": "Gebedstijden in Jessore",
   "description": "De gebedstijden van vandaag in Jessore, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jessore.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jessore.html",
+  "id": "/nl/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

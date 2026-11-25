@@ -2,7 +2,7 @@
   "name": "Loona Istanbul の礼拝時刻",
   "short_name": "Istanbul の礼拝時刻",
   "description": "Istanbul、Türkiye の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、Istanbul についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-istanbul.html",
+  "id": "/ja/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Frankfurt am Main",
   "short_name": "Bönetider i Frankfurt am Main",
   "description": "Dagens bönetider i Frankfurt am Main, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Frankfurt am Main.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-frankfurt-am-main.html",
+  "id": "/sv/prayer-times-in-frankfurt-am-main.html",
   "start_url": "./prayer-times-in-frankfurt-am-main.html",
   "scope": "./prayer-times-in-frankfurt-am-main.html",
   "display": "standalone",

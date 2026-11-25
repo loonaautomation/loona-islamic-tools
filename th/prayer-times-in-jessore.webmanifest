@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jessore",
   "short_name": "เวลาละหมาดใน Jessore",
   "description": "เวลาละหมาดวันนี้ใน Jessore, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jessore",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jessore.html",
+  "id": "/th/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

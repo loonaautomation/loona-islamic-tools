@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Damanhur",
   "short_name": "Časy modlitieb v Damanhur",
   "description": "Dnešné časy modlitieb v Damanhur, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Damanhur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-damanhur.html",
+  "id": "/sk/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

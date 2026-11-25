@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Hubballi",
   "short_name": "مواقيت الصلاة في Hubballi",
   "description": "مواقيت الصلاة اليوم في Hubballi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـHubballi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hubballi.html",
+  "id": "/ar/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

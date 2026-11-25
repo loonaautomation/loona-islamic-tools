@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Surabaya",
   "short_name": "Rukousajat: Surabaya",
   "description": "Tämän päivän rukousajat paikassa Surabaya, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Surabaya.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-surabaya.html",
+  "id": "/fi/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

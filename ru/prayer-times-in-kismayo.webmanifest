@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kismayo",
   "short_name": "Время намаза в городе Kismayo",
   "description": "Время намаза на сегодня: Kismayo, Сомали: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Kismayo.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kismayo.html",
+  "id": "/ru/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

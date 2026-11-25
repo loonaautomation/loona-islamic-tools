@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Varanasi",
   "short_name": "Waktu Solat di Varanasi",
   "description": "Waktu solat hari ini di Varanasi, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Varanasi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-varanasi.html",
+  "id": "/ms/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

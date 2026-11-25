@@ -2,7 +2,7 @@
   "name": "Loona Neyshābūr imaidői",
   "short_name": "Neyshābūr imaidői",
   "description": "A mai imaidők: Neyshābūr, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Neyshābūr számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-neyshabur.html",
+  "id": "/hu/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

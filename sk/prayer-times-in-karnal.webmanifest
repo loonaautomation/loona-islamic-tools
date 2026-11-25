@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Karnāl",
   "short_name": "Časy modlitieb v Karnāl",
   "description": "Dnešné časy modlitieb v Karnāl, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Karnāl.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-karnal.html",
+  "id": "/sk/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

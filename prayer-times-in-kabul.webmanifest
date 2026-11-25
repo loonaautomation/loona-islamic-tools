@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kabul",
   "short_name": "Prayer Times in Kabul",
   "description": "Today's prayer times in Kabul, Afghanistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kabul.",
-  "id": "/loona-islamic-tools/prayer-times-in-kabul.html",
+  "id": "/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

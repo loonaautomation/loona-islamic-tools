@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Serekunda",
   "short_name": "זמני תפילה בעיר Serekunda",
   "description": "זמני התפילה של היום בעיר Serekunda, גמביה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Serekunda.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-serekunda.html",
+  "id": "/he/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

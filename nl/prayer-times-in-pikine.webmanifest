@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pikine",
   "short_name": "Gebedstijden in Pikine",
   "description": "De gebedstijden van vandaag in Pikine, Senegal: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pikine.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pikine.html",
+  "id": "/nl/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

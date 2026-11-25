@@ -2,7 +2,7 @@
   "name": "Loona Bandar Abbas Namaz Vakitleri",
   "short_name": "Bandar Abbas Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bandar Abbas, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bandar Abbas için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bandar-abbas.html",
+  "id": "/tr/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

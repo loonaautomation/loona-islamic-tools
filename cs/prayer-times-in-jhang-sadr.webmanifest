@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jhang Sadr",
   "short_name": "Časy modliteb v Jhang Sadr",
   "description": "Dnešní časy modliteb v Jhang Sadr, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jhang Sadr.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jhang-sadr.html",
+  "id": "/cs/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

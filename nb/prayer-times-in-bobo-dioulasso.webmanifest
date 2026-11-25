@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bobo-Dioulasso",
   "short_name": "Bønnetider i Bobo-Dioulasso",
   "description": "Dagens bønnetider i Bobo-Dioulasso, Burkina Faso: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Bobo-Dioulasso.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bobo-dioulasso.html",
+  "id": "/nb/prayer-times-in-bobo-dioulasso.html",
   "start_url": "./prayer-times-in-bobo-dioulasso.html",
   "scope": "./prayer-times-in-bobo-dioulasso.html",
   "display": "standalone",

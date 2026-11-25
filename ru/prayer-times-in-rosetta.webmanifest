@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Rosetta",
   "short_name": "Время намаза в городе Rosetta",
   "description": "Время намаза на сегодня: Rosetta, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Rosetta.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-rosetta.html",
+  "id": "/ru/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

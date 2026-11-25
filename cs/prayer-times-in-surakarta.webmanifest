@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Surakarta",
   "short_name": "Časy modliteb v Surakarta",
   "description": "Dnešní časy modliteb v Surakarta, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Surakarta.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-surakarta.html",
+  "id": "/cs/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

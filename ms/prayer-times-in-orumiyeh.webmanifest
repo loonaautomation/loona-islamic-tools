@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Orūmīyeh",
   "short_name": "Waktu Solat di Orūmīyeh",
   "description": "Waktu solat hari ini di Orūmīyeh, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Orūmīyeh.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-orumiyeh.html",
+  "id": "/ms/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

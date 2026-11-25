@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Denver",
   "short_name": "Час намазу в Denver",
   "description": "Сьогоднішній час намазу в Denver, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Denver.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-denver.html",
+  "id": "/uk/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

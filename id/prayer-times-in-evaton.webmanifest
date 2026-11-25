@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Evaton",
   "short_name": "Waktu Salat di Evaton",
   "description": "Waktu salat hari ini di Evaton, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Evaton.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-evaton.html",
+  "id": "/id/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

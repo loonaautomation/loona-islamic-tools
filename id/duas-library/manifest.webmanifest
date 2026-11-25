@@ -2,7 +2,7 @@
   "name": "Loona Perpustakaan Doa",
   "short_name": "Perpustakaan Doa",
   "description": "Perpustakaan doa autentik untuk setiap momen — pagi, makanan, perjalanan, rumah, kecemasan, permohonan ampun — masing-masing dengan teks Arab, transliterasi, terjemahan dan sumber.",
-  "id": "/loona-islamic-tools/id/duas-library/",
+  "id": "/id/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

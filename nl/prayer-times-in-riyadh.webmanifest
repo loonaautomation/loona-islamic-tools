@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Riyadh",
   "short_name": "Gebedstijden in Riyadh",
   "description": "De gebedstijden van vandaag in Riyadh, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Riyadh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-riyadh.html",
+  "id": "/nl/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Alanya",
   "short_name": "Gebetszeiten in Alanya",
   "description": "Die heutigen Gebetszeiten in Alanya, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Alanya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-alanya.html",
+  "id": "/de/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

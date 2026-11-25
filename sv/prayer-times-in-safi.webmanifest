@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Safi",
   "short_name": "Bönetider i Safi",
   "description": "Dagens bönetider i Safi, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Safi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-safi.html",
+  "id": "/sv/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

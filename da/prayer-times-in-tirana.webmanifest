@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tirana",
   "short_name": "Bønnetider i Tirana",
   "description": "Dagens bønnetider i Tirana, Albanien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Tirana.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-tirana.html",
+  "id": "/da/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

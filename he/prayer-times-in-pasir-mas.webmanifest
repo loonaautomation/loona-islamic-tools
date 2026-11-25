@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pasir Mas",
   "short_name": "זמני תפילה בעיר Pasir Mas",
   "description": "זמני התפילה של היום בעיר Pasir Mas, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pasir Mas.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pasir-mas.html",
+  "id": "/he/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

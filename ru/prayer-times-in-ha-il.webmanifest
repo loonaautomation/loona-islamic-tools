@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ha'il",
   "short_name": "Время намаза в городе Ha'il",
   "description": "Время намаза на сегодня: Ha'il, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Ha'il.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ha-il.html",
+  "id": "/ru/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

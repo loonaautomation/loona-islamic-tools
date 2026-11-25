@@ -2,7 +2,7 @@
   "name": "Loona Kenitra Namaz Vakitleri",
   "short_name": "Kenitra Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kenitra, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kenitra için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kenitra.html",
+  "id": "/tr/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

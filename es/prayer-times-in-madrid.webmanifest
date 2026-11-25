@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Madrid",
   "short_name": "Horarios de oración en Madrid",
   "description": "Horarios de oración de hoy en Madrid, España: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Madrid.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-madrid.html",
+  "id": "/es/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Chennai",
   "short_name": "Časy modlitieb v Chennai",
   "description": "Dnešné časy modlitieb v Chennai, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Chennai.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-chennai.html",
+  "id": "/sk/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

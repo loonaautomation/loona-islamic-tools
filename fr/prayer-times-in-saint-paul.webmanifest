@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Saint Paul",
   "short_name": "Heures de prière à Saint Paul",
   "description": "Les heures de prière d’aujourd’hui à Saint Paul, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Saint Paul.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-saint-paul.html",
+  "id": "/fr/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Batam",
   "short_name": "Часове за намаз в Batam",
   "description": "Днешните часове за намаз в Batam, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Batam.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-batam.html",
+  "id": "/bg/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

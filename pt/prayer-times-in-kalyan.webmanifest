@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Kalyān",
   "short_name": "Horários de Oração em Kalyān",
   "description": "Horários de oração de hoje em Kalyān, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Kalyān.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-kalyan.html",
+  "id": "/pt/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bengkulu",
   "short_name": "Horários de Oração em Bengkulu",
   "description": "Horários de oração de hoje em Bengkulu, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Bengkulu.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-bengkulu.html",
+  "id": "/pt/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

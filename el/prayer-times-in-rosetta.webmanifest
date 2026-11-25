@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Rosetta",
   "short_name": "Ώρες Προσευχής στο Rosetta",
   "description": "Οι σημερινές ώρες προσευχής στο Rosetta, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Rosetta.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-rosetta.html",
+  "id": "/el/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

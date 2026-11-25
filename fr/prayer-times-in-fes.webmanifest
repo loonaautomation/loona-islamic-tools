@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Fes",
   "short_name": "Heures de prière à Fes",
   "description": "Les heures de prière d’aujourd’hui à Fes, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Fes.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-fes.html",
+  "id": "/fr/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

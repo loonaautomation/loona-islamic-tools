@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Columbus",
   "short_name": "Gebedstijden in Columbus",
   "description": "De gebedstijden van vandaag in Columbus, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Columbus.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-columbus.html",
+  "id": "/nl/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

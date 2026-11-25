@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bahawalnagar",
   "short_name": "Časy modlitieb v Bahawalnagar",
   "description": "Dnešné časy modlitieb v Bahawalnagar, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bahawalnagar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bahawalnagar.html",
+  "id": "/sk/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

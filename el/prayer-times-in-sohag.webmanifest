@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sohag",
   "short_name": "Ώρες Προσευχής στο Sohag",
   "description": "Οι σημερινές ώρες προσευχής στο Sohag, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Sohag.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sohag.html",
+  "id": "/el/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

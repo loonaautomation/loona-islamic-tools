@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Doha",
   "short_name": "Время намаза в городе Doha",
   "description": "Время намаза на сегодня: Doha, Катар: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Doha.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-doha.html",
+  "id": "/ru/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

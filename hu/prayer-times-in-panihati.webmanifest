@@ -2,7 +2,7 @@
   "name": "Loona Pānihāti imaidői",
   "short_name": "Pānihāti imaidői",
   "description": "A mai imaidők: Pānihāti, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Pānihāti számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-panihati.html",
+  "id": "/hu/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

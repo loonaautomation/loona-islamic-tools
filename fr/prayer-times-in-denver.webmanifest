@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Denver",
   "short_name": "Heures de prière à Denver",
   "description": "Les heures de prière d’aujourd’hui à Denver, États-Unis : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Denver.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-denver.html",
+  "id": "/fr/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

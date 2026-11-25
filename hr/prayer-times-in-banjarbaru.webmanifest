@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Banjarbaru",
   "short_name": "Vremena namaza u gradu Banjarbaru",
   "description": "Današnja vremena namaza u gradu Banjarbaru, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Banjarbaru.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-banjarbaru.html",
+  "id": "/hr/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

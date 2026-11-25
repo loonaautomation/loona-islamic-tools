@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bandar Seri Alam",
   "short_name": "זמני תפילה בעיר Bandar Seri Alam",
   "description": "זמני התפילה של היום בעיר Bandar Seri Alam, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bandar Seri Alam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bandar-seri-alam.html",
+  "id": "/he/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

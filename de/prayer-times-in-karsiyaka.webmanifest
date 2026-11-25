@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karşıyaka",
   "short_name": "Gebetszeiten in Karşıyaka",
   "description": "Die heutigen Gebetszeiten in Karşıyaka, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Karşıyaka.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karsiyaka.html",
+  "id": "/de/prayer-times-in-karsiyaka.html",
   "start_url": "./prayer-times-in-karsiyaka.html",
   "scope": "./prayer-times-in-karsiyaka.html",
   "display": "standalone",

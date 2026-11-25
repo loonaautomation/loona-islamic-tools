@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Malaysia 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Malaysia 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Malaysia: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Kuala Lumpur. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-malaysia.html",
+  "id": "/th/ramadan-timetable-in-malaysia.html",
   "start_url": "./ramadan-timetable-in-malaysia.html",
   "scope": "./ramadan-timetable-in-malaysia.html",
   "display": "standalone",

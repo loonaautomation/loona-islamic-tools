@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bengaluru",
   "short_name": "Ώρες Προσευχής στο Bengaluru",
   "description": "Οι σημερινές ώρες προσευχής στο Bengaluru, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Bengaluru.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bengaluru.html",
+  "id": "/el/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

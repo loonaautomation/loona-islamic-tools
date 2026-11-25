@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Camayenne",
   "short_name": "Bönetider i Camayenne",
   "description": "Dagens bönetider i Camayenne, Guinea: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Camayenne.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-camayenne.html",
+  "id": "/sv/prayer-times-in-camayenne.html",
   "start_url": "./prayer-times-in-camayenne.html",
   "scope": "./prayer-times-in-camayenne.html",
   "display": "standalone",

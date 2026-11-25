@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Touba",
   "short_name": "مواقيت الصلاة في Touba",
   "description": "مواقيت الصلاة اليوم في Touba، السنغال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTouba.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-touba.html",
+  "id": "/ar/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

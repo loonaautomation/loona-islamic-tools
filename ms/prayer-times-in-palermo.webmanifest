@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Palermo",
   "short_name": "Waktu Solat di Palermo",
   "description": "Waktu solat hari ini di Palermo, Itali: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Palermo.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-palermo.html",
+  "id": "/ms/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

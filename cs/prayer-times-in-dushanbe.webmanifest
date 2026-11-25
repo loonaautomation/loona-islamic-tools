@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dushanbe",
   "short_name": "Časy modliteb v Dushanbe",
   "description": "Dnešní časy modliteb v Dushanbe, Tádžikistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dushanbe.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dushanbe.html",
+  "id": "/cs/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

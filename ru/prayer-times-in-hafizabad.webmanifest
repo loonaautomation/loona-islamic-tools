@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Hafizabad",
   "short_name": "Время намаза в городе Hafizabad",
   "description": "Время намаза на сегодня: Hafizabad, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Hafizabad.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-hafizabad.html",
+  "id": "/ru/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

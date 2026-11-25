@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Chilanzar",
   "short_name": "Gebetszeiten in Chilanzar",
   "description": "Die heutigen Gebetszeiten in Chilanzar, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Chilanzar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-chilanzar.html",
+  "id": "/de/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

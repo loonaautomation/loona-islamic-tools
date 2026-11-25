@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Perth",
   "short_name": "Часове за намаз в Perth",
   "description": "Днешните часове за намаз в Perth, Австралия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Perth.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-perth.html",
+  "id": "/bg/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bandar Seri Alam",
   "short_name": "Bönetider i Bandar Seri Alam",
   "description": "Dagens bönetider i Bandar Seri Alam, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bandar Seri Alam.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bandar-seri-alam.html",
+  "id": "/sv/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

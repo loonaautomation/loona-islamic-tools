@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rotterdam",
   "short_name": "Gebetszeiten in Rotterdam",
   "description": "Die heutigen Gebetszeiten in Rotterdam, Niederlande: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Rotterdam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rotterdam.html",
+  "id": "/de/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

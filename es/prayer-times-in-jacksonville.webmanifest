@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jacksonville",
   "short_name": "Horarios de oración en Jacksonville",
   "description": "Horarios de oración de hoy en Jacksonville, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Jacksonville.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jacksonville.html",
+  "id": "/es/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

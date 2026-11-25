@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Omaha",
   "short_name": "Orari di preghiera a Omaha",
   "description": "Orari di preghiera di oggi a Omaha, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Omaha.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-omaha.html",
+  "id": "/it/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

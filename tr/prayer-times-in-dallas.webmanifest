@@ -2,7 +2,7 @@
   "name": "Loona Dallas Namaz Vakitleri",
   "short_name": "Dallas Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dallas, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Dallas için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dallas.html",
+  "id": "/tr/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

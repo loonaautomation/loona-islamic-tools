@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Abū al-Kahṣīb",
   "short_name": "Prayer Times in Abū al-Kahṣīb",
   "description": "Today's prayer times in Abū al-Kahṣīb, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Abū al-Kahṣīb.",
-  "id": "/loona-islamic-tools/prayer-times-in-abu-al-kahsib.html",
+  "id": "/prayer-times-in-abu-al-kahsib.html",
   "start_url": "./prayer-times-in-abu-al-kahsib.html",
   "scope": "./prayer-times-in-abu-al-kahsib.html",
   "display": "standalone",

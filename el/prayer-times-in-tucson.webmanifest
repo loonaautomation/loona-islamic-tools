@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tucson",
   "short_name": "Ώρες Προσευχής στο Tucson",
   "description": "Οι σημερινές ώρες προσευχής στο Tucson, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Tucson.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tucson.html",
+  "id": "/el/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

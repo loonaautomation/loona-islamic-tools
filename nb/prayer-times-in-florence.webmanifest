@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Florence",
   "short_name": "Bønnetider i Florence",
   "description": "Dagens bønnetider i Florence, Italia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Florence.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-florence.html",
+  "id": "/nb/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

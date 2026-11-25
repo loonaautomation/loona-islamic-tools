@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Dresden",
   "short_name": "Časy modlitieb v Dresden",
   "description": "Dnešné časy modlitieb v Dresden, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Dresden.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-dresden.html",
+  "id": "/sk/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

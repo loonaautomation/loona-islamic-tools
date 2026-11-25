@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Chilanzar",
   "short_name": "Prayer Times in Chilanzar",
   "description": "Today's prayer times in Chilanzar, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Chilanzar.",
-  "id": "/loona-islamic-tools/prayer-times-in-chilanzar.html",
+  "id": "/prayer-times-in-chilanzar.html",
   "start_url": "./prayer-times-in-chilanzar.html",
   "scope": "./prayer-times-in-chilanzar.html",
   "display": "standalone",

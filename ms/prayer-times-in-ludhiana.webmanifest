@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ludhiana",
   "short_name": "Waktu Solat di Ludhiana",
   "description": "Waktu solat hari ini di Ludhiana, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Ludhiana.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ludhiana.html",
+  "id": "/ms/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Randburg",
   "short_name": "Rukousajat: Randburg",
   "description": "Tämän päivän rukousajat paikassa Randburg, Etelä-Afrikka: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Randburg.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-randburg.html",
+  "id": "/fi/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Riverside",
   "short_name": "Ore de rugăciune în Riverside",
   "description": "Orele de rugăciune de azi în Riverside, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Riverside.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-riverside.html",
+  "id": "/ro/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

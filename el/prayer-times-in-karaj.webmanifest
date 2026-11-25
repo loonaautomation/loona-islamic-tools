@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Karaj",
   "short_name": "Ώρες Προσευχής στο Karaj",
   "description": "Οι σημερινές ώρες προσευχής στο Karaj, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Karaj.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-karaj.html",
+  "id": "/el/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

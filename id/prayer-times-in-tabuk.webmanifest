@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tabuk",
   "short_name": "Waktu Salat di Tabuk",
   "description": "Waktu salat hari ini di Tabuk, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Tabuk.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tabuk.html",
+  "id": "/id/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

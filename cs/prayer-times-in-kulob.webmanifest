@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kŭlob",
   "short_name": "Časy modliteb v Kŭlob",
   "description": "Dnešní časy modliteb v Kŭlob, Tádžikistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kŭlob.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kulob.html",
+  "id": "/cs/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

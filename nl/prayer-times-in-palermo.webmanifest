@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Palermo",
   "short_name": "Gebedstijden in Palermo",
   "description": "De gebedstijden van vandaag in Palermo, Italië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Palermo.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-palermo.html",
+  "id": "/nl/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

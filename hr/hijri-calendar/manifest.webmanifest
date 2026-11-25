@@ -2,7 +2,7 @@
   "name": "Loona Hidžretski kalendar",
   "short_name": "Hidžretski kalendar",
   "description": "Pregledavajte bilo koji hidžretski mjesec i godinu u preglednom islamskom kalendaru u kojem svaki dan prikazuje i svoj gregorijanski datum. Kalendar Umm al-Qura, besplatan i uvijek aktualan.",
-  "id": "/loona-islamic-tools/hr/hijri-calendar/",
+  "id": "/hr/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

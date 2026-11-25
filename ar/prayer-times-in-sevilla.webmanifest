@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sevilla",
   "short_name": "مواقيت الصلاة في Sevilla",
   "description": "مواقيت الصلاة اليوم في Sevilla، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSevilla.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sevilla.html",
+  "id": "/ar/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kollam",
   "short_name": "זמני תפילה בעיר Kollam",
   "description": "זמני התפילה של היום בעיר Kollam, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kollam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kollam.html",
+  "id": "/he/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

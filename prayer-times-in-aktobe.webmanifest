@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Aktobe",
   "short_name": "Prayer Times in Aktobe",
   "description": "Today's prayer times in Aktobe, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Aktobe.",
-  "id": "/loona-islamic-tools/prayer-times-in-aktobe.html",
+  "id": "/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

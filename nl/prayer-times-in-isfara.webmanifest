@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Isfara",
   "short_name": "Gebedstijden in Isfara",
   "description": "De gebedstijden van vandaag in Isfara, Tadzjikistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Isfara.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-isfara.html",
+  "id": "/nl/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

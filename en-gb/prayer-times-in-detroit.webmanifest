@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Detroit Today",
   "short_name": "Prayer Times in Detroit Today",
   "description": "Today's prayer times in Detroit, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Detroit.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-detroit.html",
+  "id": "/en-gb/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

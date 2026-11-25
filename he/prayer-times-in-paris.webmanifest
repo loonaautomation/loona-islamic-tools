@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Paris",
   "short_name": "זמני תפילה בעיר Paris",
   "description": "זמני התפילה של היום בעיר Paris, צרפת: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Paris.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-paris.html",
+  "id": "/he/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

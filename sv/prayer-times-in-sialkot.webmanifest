@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sialkot",
   "short_name": "Bönetider i Sialkot",
   "description": "Dagens bönetider i Sialkot, Pakistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Sialkot.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sialkot.html",
+  "id": "/sv/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

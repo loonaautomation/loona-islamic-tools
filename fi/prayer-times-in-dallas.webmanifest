@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dallas",
   "short_name": "Rukousajat: Dallas",
   "description": "Tämän päivän rukousajat paikassa Dallas, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Dallas.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dallas.html",
+  "id": "/fi/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

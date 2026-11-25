@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pune",
   "short_name": "مواقيت الصلاة في Pune",
   "description": "مواقيت الصلاة اليوم في Pune، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPune.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pune.html",
+  "id": "/ar/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

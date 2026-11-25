@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Tashkent",
   "short_name": "Horarios de oración en Tashkent",
   "description": "Horarios de oración de hoy en Tashkent, Uzbekistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Tashkent.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-tashkent.html",
+  "id": "/es/prayer-times-in-tashkent.html",
   "start_url": "./prayer-times-in-tashkent.html",
   "scope": "./prayer-times-in-tashkent.html",
   "display": "standalone",

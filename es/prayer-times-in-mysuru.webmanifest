@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Mysuru",
   "short_name": "Horarios de oración en Mysuru",
   "description": "Horarios de oración de hoy en Mysuru, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Mysuru.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-mysuru.html",
+  "id": "/es/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

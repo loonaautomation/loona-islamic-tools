@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mohammedia",
   "short_name": "Časy modliteb v Mohammedia",
   "description": "Dnešní časy modliteb v Mohammedia, Maroko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mohammedia.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mohammedia.html",
+  "id": "/cs/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

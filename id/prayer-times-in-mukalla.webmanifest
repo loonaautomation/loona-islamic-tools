@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mukalla",
   "short_name": "Waktu Salat di Mukalla",
   "description": "Waktu salat hari ini di Mukalla, Yaman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Mukalla.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mukalla.html",
+  "id": "/id/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

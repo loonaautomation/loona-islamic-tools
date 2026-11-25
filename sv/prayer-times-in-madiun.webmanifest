@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Madiun",
   "short_name": "Bönetider i Madiun",
   "description": "Dagens bönetider i Madiun, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Madiun.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-madiun.html",
+  "id": "/sv/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

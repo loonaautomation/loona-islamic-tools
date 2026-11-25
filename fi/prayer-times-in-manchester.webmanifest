@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Manchester",
   "short_name": "Rukousajat: Manchester",
   "description": "Tämän päivän rukousajat paikassa Manchester, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Manchester.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-manchester.html",
+  "id": "/fi/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Al Fayyum",
   "short_name": "Waktu Salat di Al Fayyum",
   "description": "Waktu salat hari ini di Al Fayyum, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Al Fayyum.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-al-fayyum.html",
+  "id": "/id/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

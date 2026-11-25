@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sargodha",
   "short_name": "Časy modliteb v Sargodha",
   "description": "Dnešní časy modliteb v Sargodha, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Sargodha.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sargodha.html",
+  "id": "/cs/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

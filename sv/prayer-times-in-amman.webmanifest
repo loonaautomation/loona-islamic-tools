@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Amman",
   "short_name": "Bönetider i Amman",
   "description": "Dagens bönetider i Amman, Jordanien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Amman.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-amman.html",
+  "id": "/sv/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

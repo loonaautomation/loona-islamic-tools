@@ -2,7 +2,7 @@
   "name": "Loona Brussels の礼拝時刻",
   "short_name": "Brussels の礼拝時刻",
   "description": "Brussels（ベルギー）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Brussels についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-brussels.html",
+  "id": "/ja/prayer-times-in-brussels.html",
   "start_url": "./prayer-times-in-brussels.html",
   "scope": "./prayer-times-in-brussels.html",
   "display": "standalone",

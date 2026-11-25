@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ust-Kamenogorsk",
   "short_name": "Время намаза в городе Ust-Kamenogorsk",
   "description": "Время намаза на сегодня: Ust-Kamenogorsk, Казахстан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Ust-Kamenogorsk.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ust-kamenogorsk.html",
+  "id": "/ru/prayer-times-in-ust-kamenogorsk.html",
   "start_url": "./prayer-times-in-ust-kamenogorsk.html",
   "scope": "./prayer-times-in-ust-kamenogorsk.html",
   "display": "standalone",

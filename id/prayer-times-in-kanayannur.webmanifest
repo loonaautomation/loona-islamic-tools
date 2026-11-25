@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kanayannur",
   "short_name": "Waktu Salat di Kanayannur",
   "description": "Waktu salat hari ini di Kanayannur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kanayannur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kanayannur.html",
+  "id": "/id/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

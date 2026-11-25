@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Perth",
   "short_name": "Bönetider i Perth",
   "description": "Dagens bönetider i Perth, Australien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Perth.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-perth.html",
+  "id": "/sv/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

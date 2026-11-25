@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Koutiala",
   "short_name": "Vremena namaza u gradu Koutiala",
   "description": "Današnja vremena namaza u gradu Koutiala, Mali: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Koutiala.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-koutiala.html",
+  "id": "/hr/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

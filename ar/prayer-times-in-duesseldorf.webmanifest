@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Düsseldorf",
   "short_name": "مواقيت الصلاة في Düsseldorf",
   "description": "مواقيت الصلاة اليوم في Düsseldorf، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـDüsseldorf.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-duesseldorf.html",
+  "id": "/ar/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

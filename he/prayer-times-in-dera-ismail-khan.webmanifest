@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dera Ismail Khan",
   "short_name": "זמני תפילה בעיר Dera Ismail Khan",
   "description": "זמני התפילה של היום בעיר Dera Ismail Khan, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dera-ismail-khan.html",
+  "id": "/he/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

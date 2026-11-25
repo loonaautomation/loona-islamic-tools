@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Shāhjānpur",
   "short_name": "เวลาละหมาดใน Shāhjānpur",
   "description": "เวลาละหมาดวันนี้ใน Shāhjānpur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Shāhjānpur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-shahjanpur.html",
+  "id": "/th/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

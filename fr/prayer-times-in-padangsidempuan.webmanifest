@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Padangsidempuan",
   "short_name": "Heures de prière à Padangsidempuan",
   "description": "Les heures de prière d’aujourd’hui à Padangsidempuan, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Padangsidempuan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-padangsidempuan.html",
+  "id": "/fr/prayer-times-in-padangsidempuan.html",
   "start_url": "./prayer-times-in-padangsidempuan.html",
   "scope": "./prayer-times-in-padangsidempuan.html",
   "display": "standalone",

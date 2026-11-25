@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sylhet",
   "short_name": "Orari di preghiera a Sylhet",
   "description": "Orari di preghiera di oggi a Sylhet, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Sylhet.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sylhet.html",
+  "id": "/it/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

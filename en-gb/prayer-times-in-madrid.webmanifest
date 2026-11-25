@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Madrid Today",
   "short_name": "Prayer Times in Madrid Today",
   "description": "Today's prayer times in Madrid, Spain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Madrid.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-madrid.html",
+  "id": "/en-gb/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

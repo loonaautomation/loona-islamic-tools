@@ -2,7 +2,7 @@
   "name": "Loona Календар по Хиджра",
   "short_name": "Календар по Хиджра",
   "description": "Разглеждайте всеки месец и година по Хиджра в изчистен ислямски календар, където всеки ден показва и григорианската си дата. Календар Umm al-Qura, безплатен и винаги актуален.",
-  "id": "/loona-islamic-tools/bg/hijri-calendar/",
+  "id": "/bg/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

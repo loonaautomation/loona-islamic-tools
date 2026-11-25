@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Wuppertal",
   "short_name": "Часове за намаз в Wuppertal",
   "description": "Днешните часове за намаз в Wuppertal, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Wuppertal.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-wuppertal.html",
+  "id": "/bg/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

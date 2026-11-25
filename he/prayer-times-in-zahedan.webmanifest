@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Zahedan",
   "short_name": "זמני תפילה בעיר Zahedan",
   "description": "זמני התפילה של היום בעיר Zahedan, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Zahedan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-zahedan.html",
+  "id": "/he/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

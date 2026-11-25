@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ambattur",
   "short_name": "Vremena namaza u gradu Ambattur",
   "description": "Današnja vremena namaza u gradu Ambattur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Ambattur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ambattur.html",
+  "id": "/hr/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

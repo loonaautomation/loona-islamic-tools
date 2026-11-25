@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rabat",
   "short_name": "Vremena namaza u gradu Rabat",
   "description": "Današnja vremena namaza u gradu Rabat, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Rabat.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rabat.html",
+  "id": "/hr/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

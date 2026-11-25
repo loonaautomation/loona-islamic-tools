@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Qo‘qon",
   "short_name": "Časy modlitieb v Qo‘qon",
   "description": "Dnešné časy modlitieb v Qo‘qon, Uzbekistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Qo‘qon.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-qo-qon.html",
+  "id": "/sk/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

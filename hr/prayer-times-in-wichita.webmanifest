@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Wichita",
   "short_name": "Vremena namaza u gradu Wichita",
   "description": "Današnja vremena namaza u gradu Wichita, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Wichita.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-wichita.html",
+  "id": "/hr/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

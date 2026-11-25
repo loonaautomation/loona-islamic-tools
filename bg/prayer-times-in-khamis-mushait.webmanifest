@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Khamis Mushait",
   "short_name": "Часове за намаз в Khamis Mushait",
   "description": "Днешните часове за намаз в Khamis Mushait, Саудитска Арабия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Khamis Mushait.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-khamis-mushait.html",
+  "id": "/bg/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

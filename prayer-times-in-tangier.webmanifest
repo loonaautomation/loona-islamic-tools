@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tangier",
   "short_name": "Prayer Times in Tangier",
   "description": "Today's prayer times in Tangier, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tangier.",
-  "id": "/loona-islamic-tools/prayer-times-in-tangier.html",
+  "id": "/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

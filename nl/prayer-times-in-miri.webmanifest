@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Miri",
   "short_name": "Gebedstijden in Miri",
   "description": "De gebedstijden van vandaag in Miri, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Miri.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-miri.html",
+  "id": "/nl/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

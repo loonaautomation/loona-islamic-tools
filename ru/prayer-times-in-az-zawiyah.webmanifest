@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Az Zāwīyah",
   "short_name": "Время намаза в городе Az Zāwīyah",
   "description": "Время намаза на сегодня: Az Zāwīyah, Ливия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Az Zāwīyah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-az-zawiyah.html",
+  "id": "/ru/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

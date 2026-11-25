@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Copenhagen",
   "short_name": "Час намазу в Copenhagen",
   "description": "Сьогоднішній час намазу в Copenhagen, Данія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Copenhagen.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-copenhagen.html",
+  "id": "/uk/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

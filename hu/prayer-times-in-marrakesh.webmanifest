@@ -2,7 +2,7 @@
   "name": "Loona Marrakesh imaidői",
   "short_name": "Marrakesh imaidői",
   "description": "A mai imaidők: Marrakesh, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Marrakesh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-marrakesh.html",
+  "id": "/hu/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

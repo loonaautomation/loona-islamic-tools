@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Samarkand",
   "short_name": "Gebedstijden in Samarkand",
   "description": "De gebedstijden van vandaag in Samarkand, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Samarkand.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-samarkand.html",
+  "id": "/nl/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

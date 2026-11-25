@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Turkistan",
   "short_name": "Часове за намаз в Turkistan",
   "description": "Днешните часове за намаз в Turkistan, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Turkistan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-turkistan.html",
+  "id": "/bg/prayer-times-in-turkistan.html",
   "start_url": "./prayer-times-in-turkistan.html",
   "scope": "./prayer-times-in-turkistan.html",
   "display": "standalone",

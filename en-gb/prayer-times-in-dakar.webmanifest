@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dakar Today",
   "short_name": "Prayer Times in Dakar Today",
   "description": "Today's prayer times in Dakar, Senegal: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dakar.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-dakar.html",
+  "id": "/en-gb/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

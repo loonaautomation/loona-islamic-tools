@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Çorum",
   "short_name": "Gebetszeiten in Çorum",
   "description": "Die heutigen Gebetszeiten in Çorum, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Çorum.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-corum.html",
+  "id": "/de/prayer-times-in-corum.html",
   "start_url": "./prayer-times-in-corum.html",
   "scope": "./prayer-times-in-corum.html",
   "display": "standalone",

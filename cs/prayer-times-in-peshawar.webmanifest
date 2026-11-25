@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Peshawar",
   "short_name": "Časy modliteb v Peshawar",
   "description": "Dnešní časy modliteb v Peshawar, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Peshawar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-peshawar.html",
+  "id": "/cs/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

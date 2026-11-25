@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Berlin",
   "short_name": "Czasy modlitw w miejscowości Berlin",
   "description": "Dzisiejsze czasy modlitw w miejscowości Berlin, kraj Niemcy: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Berlin.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-berlin.html",
+  "id": "/pl/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dhule imaidői",
   "short_name": "Dhule imaidői",
   "description": "A mai imaidők: Dhule, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Dhule számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dhule.html",
+  "id": "/hu/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

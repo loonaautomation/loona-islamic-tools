@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kuala Terengganu",
   "short_name": "Waktu Salat di Kuala Terengganu",
   "description": "Waktu salat hari ini di Kuala Terengganu, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kuala Terengganu.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kuala-terengganu.html",
+  "id": "/id/prayer-times-in-kuala-terengganu.html",
   "start_url": "./prayer-times-in-kuala-terengganu.html",
   "scope": "./prayer-times-in-kuala-terengganu.html",
   "display": "standalone",

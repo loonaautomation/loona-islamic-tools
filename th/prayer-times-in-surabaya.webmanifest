@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Surabaya",
   "short_name": "เวลาละหมาดใน Surabaya",
   "description": "เวลาละหมาดวันนี้ใน Surabaya, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Surabaya",
-  "id": "/loona-islamic-tools/th/prayer-times-in-surabaya.html",
+  "id": "/th/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

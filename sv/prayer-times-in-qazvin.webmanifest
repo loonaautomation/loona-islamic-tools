@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Qazvin",
   "short_name": "Bönetider i Qazvin",
   "description": "Dagens bönetider i Qazvin, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Qazvin.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-qazvin.html",
+  "id": "/sv/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

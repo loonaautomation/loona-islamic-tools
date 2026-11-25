@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Parbhani",
   "short_name": "Rukousajat: Parbhani",
   "description": "Tämän päivän rukousajat paikassa Parbhani, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Parbhani.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-parbhani.html",
+  "id": "/fi/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

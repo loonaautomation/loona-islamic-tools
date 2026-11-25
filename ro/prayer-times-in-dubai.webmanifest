@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Dubai",
   "short_name": "Ore de rugăciune în Dubai",
   "description": "Orele de rugăciune de azi în Dubai, EAU: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculată live pe dispozitivul dvs. pentru Dubai.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-dubai.html",
+  "id": "/ro/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

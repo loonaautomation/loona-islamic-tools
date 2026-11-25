@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Gauriganj",
   "short_name": "Časy modliteb v Gauriganj",
   "description": "Dnešní časy modliteb v Gauriganj, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Gauriganj.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-gauriganj.html",
+  "id": "/cs/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

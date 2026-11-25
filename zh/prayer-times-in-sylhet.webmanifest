@@ -2,7 +2,7 @@
   "name": "Loona Sylhet的礼拜时间",
   "short_name": "Sylhet的礼拜时间",
   "description": "Sylhet（孟加拉国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Sylhet实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-sylhet.html",
+  "id": "/zh/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

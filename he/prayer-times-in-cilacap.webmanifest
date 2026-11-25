@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cilacap",
   "short_name": "זמני תפילה בעיר Cilacap",
   "description": "זמני התפילה של היום בעיר Cilacap, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Cilacap.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cilacap.html",
+  "id": "/he/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

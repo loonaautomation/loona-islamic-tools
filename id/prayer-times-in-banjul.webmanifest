@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Banjul",
   "short_name": "Waktu Salat di Banjul",
   "description": "Waktu salat hari ini di Banjul, Gambia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Banjul.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-banjul.html",
+  "id": "/id/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

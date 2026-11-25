@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tumkūr",
   "short_name": "Часове за намаз в Tumkūr",
   "description": "Днешните часове за намаз в Tumkūr, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Tumkūr.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tumkur.html",
+  "id": "/bg/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

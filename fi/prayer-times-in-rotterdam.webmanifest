@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rotterdam",
   "short_name": "Rukousajat: Rotterdam",
   "description": "Tämän päivän rukousajat paikassa Rotterdam, Alankomaat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rotterdam.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rotterdam.html",
+  "id": "/fi/prayer-times-in-rotterdam.html",
   "start_url": "./prayer-times-in-rotterdam.html",
   "scope": "./prayer-times-in-rotterdam.html",
   "display": "standalone",

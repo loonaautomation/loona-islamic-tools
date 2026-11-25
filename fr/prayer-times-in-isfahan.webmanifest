@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Isfahan",
   "short_name": "Heures de prière à Isfahan",
   "description": "Les heures de prière d’aujourd’hui à Isfahan, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Isfahan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-isfahan.html",
+  "id": "/fr/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

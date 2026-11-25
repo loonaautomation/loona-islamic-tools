@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nilüfer Today",
   "short_name": "Prayer Times in Nilüfer Today",
   "description": "Today's prayer times in Nilüfer, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nilüfer.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-niluefer.html",
+  "id": "/en-gb/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

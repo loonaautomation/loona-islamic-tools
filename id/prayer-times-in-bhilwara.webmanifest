@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bhilwara",
   "short_name": "Waktu Salat di Bhilwara",
   "description": "Waktu salat hari ini di Bhilwara, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bhilwara.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bhilwara.html",
+  "id": "/id/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

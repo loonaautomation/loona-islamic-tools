@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Rohtak",
   "short_name": "Время намаза в городе Rohtak",
   "description": "Время намаза на сегодня: Rohtak, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Rohtak.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-rohtak.html",
+  "id": "/ru/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Latur Namaz Vakitleri",
   "short_name": "Latur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Latur, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Latur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-latur.html",
+  "id": "/tr/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

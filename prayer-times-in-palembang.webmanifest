@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Palembang",
   "short_name": "Prayer Times in Palembang",
   "description": "Today's prayer times in Palembang, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Palembang.",
-  "id": "/loona-islamic-tools/prayer-times-in-palembang.html",
+  "id": "/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mingora Namaz Vakitleri",
   "short_name": "Mingora Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mingora, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Mingora için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mingora.html",
+  "id": "/tr/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Dortmund",
   "short_name": "Waktu Salat di Dortmund",
   "description": "Waktu salat hari ini di Dortmund, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Dortmund.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-dortmund.html",
+  "id": "/id/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

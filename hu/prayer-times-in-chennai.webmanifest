@@ -2,7 +2,7 @@
   "name": "Loona Chennai imaidői",
   "short_name": "Chennai imaidői",
   "description": "A mai imaidők: Chennai, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Chennai számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-chennai.html",
+  "id": "/hu/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

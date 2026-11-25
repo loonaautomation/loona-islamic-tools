@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Şanlıurfa",
   "short_name": "Bönetider i Şanlıurfa",
   "description": "Dagens bönetider i Şanlıurfa, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Şanlıurfa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sanliurfa.html",
+  "id": "/sv/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

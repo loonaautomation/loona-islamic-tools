@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Karnāl",
   "short_name": "Waktu Solat di Karnāl",
   "description": "Waktu solat hari ini di Karnāl, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Karnāl.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-karnal.html",
+  "id": "/ms/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

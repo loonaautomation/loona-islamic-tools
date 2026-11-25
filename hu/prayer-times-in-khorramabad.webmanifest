@@ -2,7 +2,7 @@
   "name": "Loona Khorramabad imaidői",
   "short_name": "Khorramabad imaidői",
   "description": "A mai imaidők: Khorramabad, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Khorramabad számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-khorramabad.html",
+  "id": "/hu/prayer-times-in-khorramabad.html",
   "start_url": "./prayer-times-in-khorramabad.html",
   "scope": "./prayer-times-in-khorramabad.html",
   "display": "standalone",

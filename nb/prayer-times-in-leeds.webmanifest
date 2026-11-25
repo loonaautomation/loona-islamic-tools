@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Leeds",
   "short_name": "Bønnetider i Leeds",
   "description": "Dagens bønnetider i Leeds, Storbritannia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Leeds.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-leeds.html",
+  "id": "/nb/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

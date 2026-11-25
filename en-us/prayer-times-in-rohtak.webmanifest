@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Rohtak Today",
   "short_name": "Prayer Times in Rohtak Today",
   "description": "Today's prayer times in Rohtak, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Rohtak.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-rohtak.html",
+  "id": "/en-us/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

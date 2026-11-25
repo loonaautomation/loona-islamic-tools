@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Batam",
   "short_name": "Gebedstijden in Batam",
   "description": "De gebedstijden van vandaag in Batam, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Batam.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-batam.html",
+  "id": "/nl/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

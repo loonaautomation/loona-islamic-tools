@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tétouan",
   "short_name": "זמני תפילה בעיר Tétouan",
   "description": "זמני התפילה של היום בעיר Tétouan, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tétouan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tetouan.html",
+  "id": "/he/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

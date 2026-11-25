@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Erode",
   "short_name": "זמני תפילה בעיר Erode",
   "description": "זמני התפילה של היום בעיר Erode, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Erode.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-erode.html",
+  "id": "/he/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

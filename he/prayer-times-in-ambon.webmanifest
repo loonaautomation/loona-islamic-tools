@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ambon",
   "short_name": "זמני תפילה בעיר Ambon",
   "description": "זמני התפילה של היום בעיר Ambon, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ambon.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ambon.html",
+  "id": "/he/prayer-times-in-ambon.html",
   "start_url": "./prayer-times-in-ambon.html",
   "scope": "./prayer-times-in-ambon.html",
   "display": "standalone",

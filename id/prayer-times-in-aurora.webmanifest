@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Aurora",
   "short_name": "Waktu Salat di Aurora",
   "description": "Waktu salat hari ini di Aurora, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Aurora.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-aurora.html",
+  "id": "/id/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

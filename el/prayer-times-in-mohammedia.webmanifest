@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mohammedia",
   "short_name": "Ώρες Προσευχής στο Mohammedia",
   "description": "Οι σημερινές ώρες προσευχής στο Mohammedia, Μαρόκο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Mohammedia.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mohammedia.html",
+  "id": "/el/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

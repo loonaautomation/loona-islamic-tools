@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Calgary",
   "short_name": "Rukousajat: Calgary",
   "description": "Tämän päivän rukousajat paikassa Calgary, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Calgary.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-calgary.html",
+  "id": "/fi/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

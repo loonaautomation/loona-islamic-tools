@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banī Suwayf",
   "short_name": "مواقيت الصلاة في Banī Suwayf",
   "description": "مواقيت الصلاة اليوم في Banī Suwayf، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـBanī Suwayf.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bani-suwayf.html",
+  "id": "/ar/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

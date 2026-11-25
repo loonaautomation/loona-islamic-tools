@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Zanjan",
   "short_name": "Vremena namaza u gradu Zanjan",
   "description": "Današnja vremena namaza u gradu Zanjan, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Zanjan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-zanjan.html",
+  "id": "/hr/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Pune",
   "short_name": "เวลาละหมาดใน Pune",
   "description": "เวลาละหมาดวันนี้ใน Pune, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Pune",
-  "id": "/loona-islamic-tools/th/prayer-times-in-pune.html",
+  "id": "/th/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

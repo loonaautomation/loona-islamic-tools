@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sousse",
   "short_name": "Czasy modlitw w miejscowości Sousse",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sousse, kraj Tunezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Sousse.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sousse.html",
+  "id": "/pl/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Annaba の礼拝時刻",
   "short_name": "Annaba の礼拝時刻",
   "description": "Annaba（アルジェリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Annaba についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-annaba.html",
+  "id": "/ja/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

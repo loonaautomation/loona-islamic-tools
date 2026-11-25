@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kuantan",
   "short_name": "Heures de prière à Kuantan",
   "description": "Les heures de prière d’aujourd’hui à Kuantan, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kuantan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kuantan.html",
+  "id": "/fr/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

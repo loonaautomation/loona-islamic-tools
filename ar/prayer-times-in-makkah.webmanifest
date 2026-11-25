@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Makkah",
   "short_name": "مواقيت الصلاة في Makkah",
   "description": "مواقيت الصلاة اليوم في Makkah، السعودية: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMakkah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-makkah.html",
+  "id": "/ar/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

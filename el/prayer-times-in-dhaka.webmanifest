@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dhaka",
   "short_name": "Ώρες Προσευχής στο Dhaka",
   "description": "Οι σημερινές ώρες προσευχής στο Dhaka, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dhaka.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dhaka.html",
+  "id": "/el/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

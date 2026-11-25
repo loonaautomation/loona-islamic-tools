@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dubai",
   "short_name": "Waktu Solat di Dubai",
   "description": "Waktu solat hari ini di Dubai, UAE: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Dubai.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dubai.html",
+  "id": "/ms/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

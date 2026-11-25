@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Dallas",
   "short_name": "Giờ cầu nguyện tại Dallas",
   "description": "Giờ cầu nguyện hôm nay tại Dallas, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Dallas.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-dallas.html",
+  "id": "/vi/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

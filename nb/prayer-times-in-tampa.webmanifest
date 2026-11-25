@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tampa",
   "short_name": "Bønnetider i Tampa",
   "description": "Dagens bønnetider i Tampa, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Tampa.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-tampa.html",
+  "id": "/nb/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

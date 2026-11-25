@@ -2,7 +2,7 @@
   "name": "Loona Dallas imaidői",
   "short_name": "Dallas imaidői",
   "description": "A mai imaidők: Dallas, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Dallas számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dallas.html",
+  "id": "/hu/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

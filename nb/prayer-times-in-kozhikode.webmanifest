@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kozhikode",
   "short_name": "Bønnetider i Kozhikode",
   "description": "Dagens bønnetider i Kozhikode, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kozhikode.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kozhikode.html",
+  "id": "/nb/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

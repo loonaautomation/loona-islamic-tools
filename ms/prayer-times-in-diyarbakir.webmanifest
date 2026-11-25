@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Diyarbakır",
   "short_name": "Waktu Solat di Diyarbakır",
   "description": "Waktu solat hari ini di Diyarbakır, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Diyarbakır.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-diyarbakir.html",
+  "id": "/ms/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

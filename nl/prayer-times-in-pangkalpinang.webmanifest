@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pangkalpinang",
   "short_name": "Gebedstijden in Pangkalpinang",
   "description": "De gebedstijden van vandaag in Pangkalpinang, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pangkalpinang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pangkalpinang.html",
+  "id": "/nl/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

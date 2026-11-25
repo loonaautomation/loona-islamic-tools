@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Latur",
   "short_name": "Gebedstijden in Latur",
   "description": "De gebedstijden van vandaag in Latur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Latur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-latur.html",
+  "id": "/nl/prayer-times-in-latur.html",
   "start_url": "./prayer-times-in-latur.html",
   "scope": "./prayer-times-in-latur.html",
   "display": "standalone",

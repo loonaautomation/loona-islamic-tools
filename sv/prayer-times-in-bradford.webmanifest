@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bradford",
   "short_name": "Bönetider i Bradford",
   "description": "Dagens bönetider i Bradford, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bradford.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bradford.html",
+  "id": "/sv/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

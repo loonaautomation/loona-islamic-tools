@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Najaf",
   "short_name": "Časy modliteb v Najaf",
   "description": "Dnešní časy modliteb v Najaf, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Najaf.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-najaf.html",
+  "id": "/cs/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Temara",
   "short_name": "Rukousajat: Temara",
   "description": "Tämän päivän rukousajat paikassa Temara, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Temara.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-temara.html",
+  "id": "/fi/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

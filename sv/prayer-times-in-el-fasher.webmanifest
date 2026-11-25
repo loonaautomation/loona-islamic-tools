@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i El Fasher",
   "short_name": "Bönetider i El Fasher",
   "description": "Dagens bönetider i El Fasher, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för El Fasher.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-el-fasher.html",
+  "id": "/sv/prayer-times-in-el-fasher.html",
   "start_url": "./prayer-times-in-el-fasher.html",
   "scope": "./prayer-times-in-el-fasher.html",
   "display": "standalone",

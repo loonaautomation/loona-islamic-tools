@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Zürich",
   "short_name": "Часове за намаз в Zürich",
   "description": "Днешните часове за намаз в Zürich, Швейцария: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Zürich.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-zuerich.html",
+  "id": "/bg/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

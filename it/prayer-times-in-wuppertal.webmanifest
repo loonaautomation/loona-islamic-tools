@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Wuppertal",
   "short_name": "Orari di preghiera a Wuppertal",
   "description": "Orari di preghiera di oggi a Wuppertal, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Wuppertal.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-wuppertal.html",
+  "id": "/it/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

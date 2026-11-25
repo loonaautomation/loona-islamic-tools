@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mogadishu",
   "short_name": "مواقيت الصلاة في Mogadishu",
   "description": "مواقيت الصلاة اليوم في Mogadishu، الصومال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMogadishu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mogadishu.html",
+  "id": "/ar/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

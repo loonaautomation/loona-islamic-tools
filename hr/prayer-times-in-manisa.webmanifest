@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Manisa",
   "short_name": "Vremena namaza u gradu Manisa",
   "description": "Današnja vremena namaza u gradu Manisa, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Manisa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-manisa.html",
+  "id": "/hr/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

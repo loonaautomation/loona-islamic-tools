@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Zaragoza",
   "short_name": "Waktu Salat di Zaragoza",
   "description": "Waktu salat hari ini di Zaragoza, Spanyol: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Zaragoza.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-zaragoza.html",
+  "id": "/id/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

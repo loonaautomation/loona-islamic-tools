@@ -2,7 +2,7 @@
   "name": "Loona Daşoguz の礼拝時刻",
   "short_name": "Daşoguz の礼拝時刻",
   "description": "Daşoguz（トルクメニスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Daşoguz についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dasoguz.html",
+  "id": "/ja/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

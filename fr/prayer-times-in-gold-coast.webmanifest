@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Gold Coast",
   "short_name": "Heures de prière à Gold Coast",
   "description": "Les heures de prière d’aujourd’hui à Gold Coast, Australie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Gold Coast.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-gold-coast.html",
+  "id": "/fr/prayer-times-in-gold-coast.html",
   "start_url": "./prayer-times-in-gold-coast.html",
   "scope": "./prayer-times-in-gold-coast.html",
   "display": "standalone",

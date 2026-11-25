@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Borūjerd",
   "short_name": "Časy modlitieb v Borūjerd",
   "description": "Dnešné časy modlitieb v Borūjerd, Irán: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Borūjerd.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-borujerd.html",
+  "id": "/sk/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

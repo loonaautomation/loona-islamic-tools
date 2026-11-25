@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Stockton",
   "short_name": "Gebedstijden in Stockton",
   "description": "De gebedstijden van vandaag in Stockton, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Stockton.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-stockton.html",
+  "id": "/nl/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

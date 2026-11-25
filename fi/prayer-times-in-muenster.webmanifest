@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Münster",
   "short_name": "Rukousajat: Münster",
   "description": "Tämän päivän rukousajat paikassa Münster, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Münster.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-muenster.html",
+  "id": "/fi/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

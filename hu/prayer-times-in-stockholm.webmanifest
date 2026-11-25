@@ -2,7 +2,7 @@
   "name": "Loona Stockholm imaidői",
   "short_name": "Stockholm imaidői",
   "description": "A mai imaidők: Stockholm, Svédország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Stockholm számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-stockholm.html",
+  "id": "/hu/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

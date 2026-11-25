@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bilimora",
   "short_name": "Bönetider i Bilimora",
   "description": "Dagens bönetider i Bilimora, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bilimora.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bilimora.html",
+  "id": "/sv/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

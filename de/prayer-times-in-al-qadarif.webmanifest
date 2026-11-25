@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Al Qadarif",
   "short_name": "Gebetszeiten in Al Qadarif",
   "description": "Die heutigen Gebetszeiten in Al Qadarif, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Al Qadarif.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-al-qadarif.html",
+  "id": "/de/prayer-times-in-al-qadarif.html",
   "start_url": "./prayer-times-in-al-qadarif.html",
   "scope": "./prayer-times-in-al-qadarif.html",
   "display": "standalone",

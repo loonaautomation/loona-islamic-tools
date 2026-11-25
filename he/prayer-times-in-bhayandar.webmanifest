@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhayandar",
   "short_name": "זמני תפילה בעיר Bhayandar",
   "description": "זמני התפילה של היום בעיר Bhayandar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhayandar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhayandar.html",
+  "id": "/he/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

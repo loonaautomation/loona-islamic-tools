@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kŭlob",
   "short_name": "Gebetszeiten in Kŭlob",
   "description": "Die heutigen Gebetszeiten in Kŭlob, Tadschikistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kŭlob.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kulob.html",
+  "id": "/de/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

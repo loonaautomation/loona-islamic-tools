@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mersin",
   "short_name": "זמני תפילה בעיר Mersin",
   "description": "זמני התפילה של היום בעיר Mersin, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Mersin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mersin.html",
+  "id": "/he/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

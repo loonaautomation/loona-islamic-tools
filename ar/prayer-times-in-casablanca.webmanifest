@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Casablanca",
   "short_name": "مواقيت الصلاة في Casablanca",
   "description": "مواقيت الصلاة اليوم في Casablanca، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCasablanca.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-casablanca.html",
+  "id": "/ar/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

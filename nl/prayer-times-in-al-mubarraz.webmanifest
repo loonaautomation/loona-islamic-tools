@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Mubarraz",
   "short_name": "Gebedstijden in Al Mubarraz",
   "description": "De gebedstijden van vandaag in Al Mubarraz, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Al Mubarraz.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-mubarraz.html",
+  "id": "/nl/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

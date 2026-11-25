@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Lubuklinggau",
   "short_name": "Час намазу в Lubuklinggau",
   "description": "Сьогоднішній час намазу в Lubuklinggau, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Lubuklinggau.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-lubuklinggau.html",
+  "id": "/uk/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

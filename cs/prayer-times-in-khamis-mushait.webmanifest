@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Khamis Mushait",
   "short_name": "Časy modliteb v Khamis Mushait",
   "description": "Dnešní časy modliteb v Khamis Mushait, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Khamis Mushait.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-khamis-mushait.html",
+  "id": "/cs/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Hafizabad",
   "short_name": "Час намазу в Hafizabad",
   "description": "Сьогоднішній час намазу в Hafizabad, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Hafizabad.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hafizabad.html",
+  "id": "/uk/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Antwerp",
   "short_name": "Vremena namaza u gradu Antwerp",
   "description": "Današnja vremena namaza u gradu Antwerp, Belgija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Antwerp.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-antwerp.html",
+  "id": "/hr/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

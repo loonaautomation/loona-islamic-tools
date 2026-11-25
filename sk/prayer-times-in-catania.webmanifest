@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Catania",
   "short_name": "Časy modlitieb v Catania",
   "description": "Dnešné časy modlitieb v Catania, Taliansko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Catania.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-catania.html",
+  "id": "/sk/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

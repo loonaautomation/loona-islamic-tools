@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Punāsa",
   "short_name": "Waktu Solat di Punāsa",
   "description": "Waktu solat hari ini di Punāsa, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Punāsa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-punasa.html",
+  "id": "/ms/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

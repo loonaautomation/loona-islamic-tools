@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Auckland",
   "short_name": "Heures de prière à Auckland",
   "description": "Les heures de prière d’aujourd’hui à Auckland, Nouvelle-Zélande : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Auckland.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-auckland.html",
+  "id": "/fr/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

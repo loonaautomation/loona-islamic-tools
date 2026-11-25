@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Mesa",
   "short_name": "Horarios de oración en Mesa",
   "description": "Horarios de oración de hoy en Mesa, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Mesa.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-mesa.html",
+  "id": "/es/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

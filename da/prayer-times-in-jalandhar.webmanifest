@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jalandhar",
   "short_name": "Bønnetider i Jalandhar",
   "description": "Dagens bønnetider i Jalandhar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jalandhar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jalandhar.html",
+  "id": "/da/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

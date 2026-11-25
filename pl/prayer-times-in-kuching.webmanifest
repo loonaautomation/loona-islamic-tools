@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kuching",
   "short_name": "Czasy modlitw w miejscowości Kuching",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kuching, kraj Malezja: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kuching.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kuching.html",
+  "id": "/pl/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

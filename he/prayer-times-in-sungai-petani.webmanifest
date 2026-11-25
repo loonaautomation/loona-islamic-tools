@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sungai Petani",
   "short_name": "זמני תפילה בעיר Sungai Petani",
   "description": "זמני התפילה של היום בעיר Sungai Petani, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sungai Petani.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sungai-petani.html",
+  "id": "/he/prayer-times-in-sungai-petani.html",
   "start_url": "./prayer-times-in-sungai-petani.html",
   "scope": "./prayer-times-in-sungai-petani.html",
   "display": "standalone",

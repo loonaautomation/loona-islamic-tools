@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Khulna",
   "short_name": "Waktu Salat di Khulna",
   "description": "Waktu salat hari ini di Khulna, Bangladesh: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Khulna.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-khulna.html",
+  "id": "/id/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

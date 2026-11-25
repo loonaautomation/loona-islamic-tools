@@ -2,7 +2,7 @@
   "name": "Loona Québec的禮拜時間",
   "short_name": "Québec的禮拜時間",
   "description": "Québec（加拿大）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Québec實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-quebec.html",
+  "id": "/zh-hant/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

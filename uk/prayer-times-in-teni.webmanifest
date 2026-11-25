@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Teni",
   "short_name": "Час намазу в Teni",
   "description": "Сьогоднішній час намазу в Teni, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Teni.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-teni.html",
+  "id": "/uk/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

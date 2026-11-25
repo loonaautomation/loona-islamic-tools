@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Winnipeg",
   "short_name": "เวลาละหมาดใน Winnipeg",
   "description": "เวลาละหมาดวันนี้ใน Winnipeg, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Winnipeg",
-  "id": "/loona-islamic-tools/th/prayer-times-in-winnipeg.html",
+  "id": "/th/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

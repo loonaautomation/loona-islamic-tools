@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Thrissur",
   "short_name": "Vremena namaza u gradu Thrissur",
   "description": "Današnja vremena namaza u gradu Thrissur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Thrissur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-thrissur.html",
+  "id": "/hr/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

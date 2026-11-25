@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Fort Worth",
   "short_name": "Rukousajat: Fort Worth",
   "description": "Tämän päivän rukousajat paikassa Fort Worth, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Fort Worth.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-fort-worth.html",
+  "id": "/fi/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Esna",
   "short_name": "זמני תפילה בעיר Esna",
   "description": "זמני התפילה של היום בעיר Esna, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Esna.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-esna.html",
+  "id": "/he/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

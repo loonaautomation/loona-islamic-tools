@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dhule",
   "short_name": "Ώρες Προσευχής στο Dhule",
   "description": "Οι σημερινές ώρες προσευχής στο Dhule, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dhule.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dhule.html",
+  "id": "/el/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

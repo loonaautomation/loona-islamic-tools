@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Rufisque est",
   "short_name": "Время намаза в городе Rufisque est",
   "description": "Время намаза на сегодня: Rufisque est, Сенегал: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Rufisque est.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-rufisque-est.html",
+  "id": "/ru/prayer-times-in-rufisque-est.html",
   "start_url": "./prayer-times-in-rufisque-est.html",
   "scope": "./prayer-times-in-rufisque-est.html",
   "display": "standalone",

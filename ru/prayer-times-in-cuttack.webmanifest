@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Cuttack",
   "short_name": "Время намаза в городе Cuttack",
   "description": "Время намаза на сегодня: Cuttack, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Cuttack.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-cuttack.html",
+  "id": "/ru/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

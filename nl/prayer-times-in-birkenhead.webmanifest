@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Birkenhead",
   "short_name": "Gebedstijden in Birkenhead",
   "description": "De gebedstijden van vandaag in Birkenhead, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Birkenhead.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-birkenhead.html",
+  "id": "/nl/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

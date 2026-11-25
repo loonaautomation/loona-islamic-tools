@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kadapa",
   "short_name": "Horarios de oración en Kadapa",
   "description": "Horarios de oración de hoy en Kadapa, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kadapa.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kadapa.html",
+  "id": "/es/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

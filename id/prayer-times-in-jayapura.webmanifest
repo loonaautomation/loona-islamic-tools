@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jayapura",
   "short_name": "Waktu Salat di Jayapura",
   "description": "Waktu salat hari ini di Jayapura, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Jayapura.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jayapura.html",
+  "id": "/id/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

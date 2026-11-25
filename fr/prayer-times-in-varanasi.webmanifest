@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Varanasi",
   "short_name": "Heures de prière à Varanasi",
   "description": "Les heures de prière d’aujourd’hui à Varanasi, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Varanasi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-varanasi.html",
+  "id": "/fr/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

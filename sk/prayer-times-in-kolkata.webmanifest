@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kolkata",
   "short_name": "Časy modlitieb v Kolkata",
   "description": "Dnešné časy modlitieb v Kolkata, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kolkata.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kolkata.html",
+  "id": "/sk/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

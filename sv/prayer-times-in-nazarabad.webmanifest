@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Naz̧arābād",
   "short_name": "Bönetider i Naz̧arābād",
   "description": "Dagens bönetider i Naz̧arābād, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Naz̧arābād.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nazarabad.html",
+  "id": "/sv/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

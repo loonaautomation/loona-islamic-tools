@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Shahrīār",
   "short_name": "Vremena namaza u gradu Shahrīār",
   "description": "Današnja vremena namaza u gradu Shahrīār, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Shahrīār.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-shahriar.html",
+  "id": "/hr/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

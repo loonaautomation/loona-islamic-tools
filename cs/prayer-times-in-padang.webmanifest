@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Padang",
   "short_name": "Časy modliteb v Padang",
   "description": "Dnešní časy modliteb v Padang, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Padang.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-padang.html",
+  "id": "/cs/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

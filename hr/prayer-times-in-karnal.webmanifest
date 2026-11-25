@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Karnāl",
   "short_name": "Vremena namaza u gradu Karnāl",
   "description": "Današnja vremena namaza u gradu Karnāl, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Karnāl.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-karnal.html",
+  "id": "/hr/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

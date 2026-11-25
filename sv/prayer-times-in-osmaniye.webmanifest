@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Osmaniye",
   "short_name": "Bönetider i Osmaniye",
   "description": "Dagens bönetider i Osmaniye, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Osmaniye.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-osmaniye.html",
+  "id": "/sv/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

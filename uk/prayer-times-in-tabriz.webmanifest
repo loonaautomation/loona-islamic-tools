@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tabriz",
   "short_name": "Час намазу в Tabriz",
   "description": "Сьогоднішній час намазу в Tabriz, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Tabriz.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tabriz.html",
+  "id": "/uk/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

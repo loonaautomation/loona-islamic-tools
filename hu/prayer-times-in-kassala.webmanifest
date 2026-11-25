@@ -2,7 +2,7 @@
   "name": "Loona Kassala imaidői",
   "short_name": "Kassala imaidői",
   "description": "A mai imaidők: Kassala, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kassala számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kassala.html",
+  "id": "/hu/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

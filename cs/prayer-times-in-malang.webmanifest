@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Malang",
   "short_name": "Časy modliteb v Malang",
   "description": "Dnešní časy modliteb v Malang, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Malang.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-malang.html",
+  "id": "/cs/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Portland",
   "short_name": "Часове за намаз в Portland",
   "description": "Днешните часове за намаз в Portland, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Portland.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-portland.html",
+  "id": "/bg/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

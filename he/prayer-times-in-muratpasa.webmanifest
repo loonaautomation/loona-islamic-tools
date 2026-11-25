@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Muratpaşa",
   "short_name": "זמני תפילה בעיר Muratpaşa",
   "description": "זמני התפילה של היום בעיר Muratpaşa, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Muratpaşa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-muratpasa.html",
+  "id": "/he/prayer-times-in-muratpasa.html",
   "start_url": "./prayer-times-in-muratpasa.html",
   "scope": "./prayer-times-in-muratpasa.html",
   "display": "standalone",

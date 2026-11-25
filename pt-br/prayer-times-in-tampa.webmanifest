@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Tampa",
   "short_name": "Horários de Oração em Tampa",
   "description": "Horários de oração de hoje em Tampa, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Tampa.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-tampa.html",
+  "id": "/pt-br/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

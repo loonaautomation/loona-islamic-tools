@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sivas",
   "short_name": "Waktu Solat di Sivas",
   "description": "Waktu solat hari ini di Sivas, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sivas.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sivas.html",
+  "id": "/ms/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

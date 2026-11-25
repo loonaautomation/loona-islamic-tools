@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Québec",
   "short_name": "Prayer Times in Québec",
   "description": "Today's prayer times in Québec, Canada: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Québec.",
-  "id": "/loona-islamic-tools/prayer-times-in-quebec.html",
+  "id": "/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

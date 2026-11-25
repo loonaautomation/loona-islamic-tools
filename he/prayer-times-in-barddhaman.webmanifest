@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Barddhamān",
   "short_name": "זמני תפילה בעיר Barddhamān",
   "description": "זמני התפילה של היום בעיר Barddhamān, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Barddhamān.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-barddhaman.html",
+  "id": "/he/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

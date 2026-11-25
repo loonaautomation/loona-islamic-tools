@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nukus",
   "short_name": "Bönetider i Nukus",
   "description": "Dagens bönetider i Nukus, Uzbekistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Nukus.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nukus.html",
+  "id": "/sv/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Al Ain City",
   "short_name": "Časy modliteb v Al Ain City",
   "description": "Dnešní časy modliteb v Al Ain City, Spojené arabské emiráty: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Al Ain City.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-al-ain-city.html",
+  "id": "/cs/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

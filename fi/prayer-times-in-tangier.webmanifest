@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tangier",
   "short_name": "Rukousajat: Tangier",
   "description": "Tämän päivän rukousajat paikassa Tangier, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tangier.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tangier.html",
+  "id": "/fi/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

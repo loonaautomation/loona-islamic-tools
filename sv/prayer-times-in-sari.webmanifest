@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sari",
   "short_name": "Bönetider i Sari",
   "description": "Dagens bönetider i Sari, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sari.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sari.html",
+  "id": "/sv/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

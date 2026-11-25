@@ -2,7 +2,7 @@
   "name": "Loona Ramadán-menetrend",
   "short_name": "Ramadán-menetrend",
   "description": "Teljes Ramadán-menetrend bármely városhoz és hidzsri évhez: a sehri vége és az iftár időpontjai a Ramadán minden napjára, gregorián dátumokkal és a böjt hosszával. Ingyenes, nyomtatható.",
-  "id": "/loona-islamic-tools/hu/ramadan-timetable/",
+  "id": "/hu/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

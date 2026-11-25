@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Zürich",
   "short_name": "เวลาละหมาดใน Zürich",
   "description": "เวลาละหมาดวันนี้ใน Zürich, Switzerland: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Zürich",
-  "id": "/loona-islamic-tools/th/prayer-times-in-zuerich.html",
+  "id": "/th/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

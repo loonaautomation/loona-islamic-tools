@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Erbil",
   "short_name": "เวลาละหมาดใน Erbil",
   "description": "เวลาละหมาดวันนี้ใน Erbil, Iraq: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Erbil",
-  "id": "/loona-islamic-tools/th/prayer-times-in-erbil.html",
+  "id": "/th/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

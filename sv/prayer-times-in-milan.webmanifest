@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Milan",
   "short_name": "Bönetider i Milan",
   "description": "Dagens bönetider i Milano, Italien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Milano.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-milan.html",
+  "id": "/sv/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

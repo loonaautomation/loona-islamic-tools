@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Utrecht",
   "short_name": "Bönetider i Utrecht",
   "description": "Dagens bönetider i Utrecht, Nederländerna: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Utrecht.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-utrecht.html",
+  "id": "/sv/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

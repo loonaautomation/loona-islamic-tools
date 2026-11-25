@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sikasso",
   "short_name": "Waktu Solat di Sikasso",
   "description": "Waktu solat hari ini di Sikasso, Mali: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sikasso.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sikasso.html",
+  "id": "/ms/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

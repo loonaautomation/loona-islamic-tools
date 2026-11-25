@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sargodha",
   "short_name": "Rukousajat: Sargodha",
   "description": "Tämän päivän rukousajat paikassa Sargodha, Pakistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Sargodha.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sargodha.html",
+  "id": "/fi/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

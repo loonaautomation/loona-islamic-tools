@@ -2,7 +2,7 @@
   "name": "Loona Imaidők Port Sudanban",
   "short_name": "Imaidők Port Sudanban",
   "description": "A mai imaidők Port Szudán, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Port Szudán számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-port-sudan.html",
+  "id": "/hu/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

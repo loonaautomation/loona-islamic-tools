@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Malegaon",
   "short_name": "Waktu Salat di Malegaon",
   "description": "Waktu salat hari ini di Malegaon, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Malegaon.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-malegaon.html",
+  "id": "/id/prayer-times-in-malegaon.html",
   "start_url": "./prayer-times-in-malegaon.html",
   "scope": "./prayer-times-in-malegaon.html",
   "display": "standalone",

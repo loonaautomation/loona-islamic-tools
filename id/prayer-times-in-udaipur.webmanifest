@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Udaipur",
   "short_name": "Waktu Salat di Udaipur",
   "description": "Waktu salat hari ini di Udaipur, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Udaipur.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-udaipur.html",
+  "id": "/id/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

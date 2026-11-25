@@ -2,7 +2,7 @@
   "name": "Loona Chānda Namaz Vakitleri",
   "short_name": "Chānda Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Chānda, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Chānda için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-chanda.html",
+  "id": "/tr/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

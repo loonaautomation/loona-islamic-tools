@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Erode",
   "short_name": "Horários de Oração em Erode",
   "description": "Horários de oração de hoje em Erode, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Erode.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-erode.html",
+  "id": "/pt/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

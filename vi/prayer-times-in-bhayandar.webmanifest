@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Bhayandar",
   "short_name": "Giờ cầu nguyện tại Bhayandar",
   "description": "Giờ cầu nguyện hôm nay tại Bhayandar, Ấn Độ: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Bhayandar.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-bhayandar.html",
+  "id": "/vi/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

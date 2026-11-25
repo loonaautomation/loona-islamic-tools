@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Shymkent",
   "short_name": "مواقيت الصلاة في Shymkent",
   "description": "مواقيت الصلاة اليوم في Shymkent، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـShymkent.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-shymkent.html",
+  "id": "/ar/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

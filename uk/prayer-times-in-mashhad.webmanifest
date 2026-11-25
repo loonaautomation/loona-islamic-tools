@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mashhad",
   "short_name": "Час намазу в Mashhad",
   "description": "Сьогоднішній час намазу в Mashhad, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Mashhad.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mashhad.html",
+  "id": "/uk/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

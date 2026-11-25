@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Batna",
   "short_name": "مواقيت الصلاة في Batna",
   "description": "مواقيت الصلاة اليوم في Batna، الجزائر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBatna.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-batna.html",
+  "id": "/ar/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

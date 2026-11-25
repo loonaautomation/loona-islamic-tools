@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kŭlob",
   "short_name": "Orari di preghiera a Kŭlob",
   "description": "Orari di preghiera di oggi a Kŭlob, Tagikistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kŭlob.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kulob.html",
+  "id": "/it/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Wichita",
   "short_name": "Rukousajat: Wichita",
   "description": "Tämän päivän rukousajat paikassa Wichita, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Wichita.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-wichita.html",
+  "id": "/fi/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

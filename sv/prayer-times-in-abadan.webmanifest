@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Abadan",
   "short_name": "Bönetider i Abadan",
   "description": "Dagens bönetider i Abadan, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Abadan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-abadan.html",
+  "id": "/sv/prayer-times-in-abadan.html",
   "start_url": "./prayer-times-in-abadan.html",
   "scope": "./prayer-times-in-abadan.html",
   "display": "standalone",

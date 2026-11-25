@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Batam",
   "short_name": "Prayer Times in Batam",
   "description": "Today's prayer times in Batam, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Batam.",
-  "id": "/loona-islamic-tools/prayer-times-in-batam.html",
+  "id": "/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cirebon",
   "short_name": "Prayer Times in Cirebon",
   "description": "Today's prayer times in Cirebon, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Cirebon.",
-  "id": "/loona-islamic-tools/prayer-times-in-cirebon.html",
+  "id": "/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

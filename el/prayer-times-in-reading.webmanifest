@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Reading",
   "short_name": "Ώρες Προσευχής στο Reading",
   "description": "Οι σημερινές ώρες προσευχής στο Reading, Ηνωμένο Βασίλειο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Reading.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-reading.html",
+  "id": "/el/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

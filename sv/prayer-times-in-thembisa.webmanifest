@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Thembisa",
   "short_name": "Bönetider i Thembisa",
   "description": "Dagens bönetider i Thembisa, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Thembisa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-thembisa.html",
+  "id": "/sv/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

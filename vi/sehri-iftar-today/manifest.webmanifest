@@ -2,7 +2,7 @@
   "name": "Loona Giờ Sehri & Iftar hôm nay",
   "short_name": "Giờ Sehri & Iftar hôm nay",
   "description": "Giờ kết thúc Sehri (Fajr) và Iftar (Maghrib) hôm nay cho thành phố của bạn với đếm ngược trực tiếp đến giờ tiếp theo. Phương pháp Karachi, Asr theo Hanafi theo mặc định, có thể điều chỉnh.",
-  "id": "/loona-islamic-tools/vi/sehri-iftar-today/",
+  "id": "/vi/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Minneapolis",
   "short_name": "Orari di preghiera a Minneapolis",
   "description": "Orari di preghiera di oggi a Minneapolis, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Minneapolis.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-minneapolis.html",
+  "id": "/it/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

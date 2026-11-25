@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Winnipeg",
   "short_name": "Horarios de oración en Winnipeg",
   "description": "Horarios de oración de hoy en Winnipeg, Canadá: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Winnipeg.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-winnipeg.html",
+  "id": "/es/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

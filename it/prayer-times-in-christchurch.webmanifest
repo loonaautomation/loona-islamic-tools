@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Christchurch",
   "short_name": "Orari di preghiera a Christchurch",
   "description": "Orari di preghiera di oggi a Christchurch, Nuova Zelanda: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Christchurch.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-christchurch.html",
+  "id": "/it/prayer-times-in-christchurch.html",
   "start_url": "./prayer-times-in-christchurch.html",
   "scope": "./prayer-times-in-christchurch.html",
   "display": "standalone",

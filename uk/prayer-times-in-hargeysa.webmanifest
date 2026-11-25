@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Hargeysa",
   "short_name": "Час намазу в Hargeysa",
   "description": "Сьогоднішній час намазу в Hargeysa, Сомалі: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Hargeysa.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-hargeysa.html",
+  "id": "/uk/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

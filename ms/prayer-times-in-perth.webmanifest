@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Perth",
   "short_name": "Waktu Solat di Perth",
   "description": "Waktu solat hari ini di Perth, Australia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Perth.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-perth.html",
+  "id": "/ms/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

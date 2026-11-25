@@ -2,7 +2,7 @@
   "name": "Loona 齋月時間表",
   "short_name": "齋月時間表",
   "description": "為任何城市和伊斯蘭曆年提供完整的齋月時間表：齋月每一天的Sehri結束和Iftar時間，附有公曆日期和齋戒時長。免費，可列印。",
-  "id": "/loona-islamic-tools/zh-hant/ramadan-timetable/",
+  "id": "/zh-hant/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

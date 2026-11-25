@@ -2,7 +2,7 @@
   "name": "Loona Situbondo Namaz Vakitleri",
   "short_name": "Situbondo Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Situbondo, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Situbondo için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-situbondo.html",
+  "id": "/tr/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

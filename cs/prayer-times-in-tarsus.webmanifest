@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tarsus",
   "short_name": "Časy modliteb v Tarsus",
   "description": "Dnešní časy modliteb v Tarsus, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tarsus.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tarsus.html",
+  "id": "/cs/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tampa",
   "short_name": "Vremena namaza u gradu Tampa",
   "description": "Današnja vremena namaza u gradu Tampa, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Tampa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tampa.html",
+  "id": "/hr/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

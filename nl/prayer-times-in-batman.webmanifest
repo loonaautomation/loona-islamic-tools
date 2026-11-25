@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Batman",
   "short_name": "Gebedstijden in Batman",
   "description": "De gebedstijden van vandaag in Batman, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Batman.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-batman.html",
+  "id": "/nl/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

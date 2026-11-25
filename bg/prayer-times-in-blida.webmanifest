@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Blida",
   "short_name": "Часове за намаз в Blida",
   "description": "Днешните часове за намаз в Blida, Алжир: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Blida.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-blida.html",
+  "id": "/bg/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

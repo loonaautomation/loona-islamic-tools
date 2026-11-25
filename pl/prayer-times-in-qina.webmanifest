@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Qina",
   "short_name": "Czasy modlitw w miejscowości Qina",
   "description": "Dzisiejsze czasy modlitw w miejscowości Qina, kraj Egipt: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Egyptian General Authority, obliczane na żywo na Twoim urządzeniu dla miejscowości Qina.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-qina.html",
+  "id": "/pl/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

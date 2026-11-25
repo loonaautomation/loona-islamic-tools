@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Melbourne",
   "short_name": "Время намаза в городе Melbourne",
   "description": "Время намаза на сегодня: Melbourne, Австралия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Melbourne.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-melbourne.html",
+  "id": "/ru/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Austin",
   "short_name": "Waktu Solat di Austin",
   "description": "Waktu solat hari ini di Austin, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Austin.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-austin.html",
+  "id": "/ms/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

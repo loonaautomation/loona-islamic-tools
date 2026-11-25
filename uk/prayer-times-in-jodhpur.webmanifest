@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jodhpur",
   "short_name": "Час намазу в Jodhpur",
   "description": "Сьогоднішній час намазу в Jodhpur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jodhpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jodhpur.html",
+  "id": "/uk/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

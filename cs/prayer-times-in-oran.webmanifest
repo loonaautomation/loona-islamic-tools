@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Oran",
   "short_name": "Časy modliteb v Oran",
   "description": "Dnešní časy modliteb v Oran, Alžírsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Oran.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-oran.html",
+  "id": "/cs/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

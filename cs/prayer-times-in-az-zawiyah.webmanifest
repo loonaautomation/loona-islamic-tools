@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Az Zāwīyah",
   "short_name": "Časy modliteb v Az Zāwīyah",
   "description": "Dnešní časy modliteb v Az Zāwīyah, Libye: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Az Zāwīyah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-az-zawiyah.html",
+  "id": "/cs/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

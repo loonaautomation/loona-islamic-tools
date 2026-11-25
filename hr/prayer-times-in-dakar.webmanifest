@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dakar",
   "short_name": "Vremena namaza u gradu Dakar",
   "description": "Današnja vremena namaza u gradu Dakar, Senegal: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Dakar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dakar.html",
+  "id": "/hr/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

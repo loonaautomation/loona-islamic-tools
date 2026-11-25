@@ -2,7 +2,7 @@
   "name": "Loona Tehran Namaz Vakitleri",
   "short_name": "Tehran Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tehran, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tehran için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tehran.html",
+  "id": "/tr/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

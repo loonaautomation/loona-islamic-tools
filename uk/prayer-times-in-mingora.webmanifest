@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mingora",
   "short_name": "Час намазу в Mingora",
   "description": "Сьогоднішній час намазу в Mingora, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Mingora.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mingora.html",
+  "id": "/uk/prayer-times-in-mingora.html",
   "start_url": "./prayer-times-in-mingora.html",
   "scope": "./prayer-times-in-mingora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Natore",
   "short_name": "Часове за намаз в Natore",
   "description": "Днешните часове за намаз в Natore, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Natore.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-natore.html",
+  "id": "/bg/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

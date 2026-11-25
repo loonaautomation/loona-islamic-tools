@@ -2,7 +2,7 @@
   "name": "Loona Sargodha Namaz Vakitleri",
   "short_name": "Sargodha Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sargodha, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Sargodha için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sargodha.html",
+  "id": "/tr/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

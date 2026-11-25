@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Omdurman",
   "short_name": "Prayer Times in Omdurman",
   "description": "Today's prayer times in Omdurman, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Omdurman.",
-  "id": "/loona-islamic-tools/prayer-times-in-omdurman.html",
+  "id": "/prayer-times-in-omdurman.html",
   "start_url": "./prayer-times-in-omdurman.html",
   "scope": "./prayer-times-in-omdurman.html",
   "display": "standalone",

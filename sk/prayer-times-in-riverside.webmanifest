@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Riverside",
   "short_name": "Časy modlitieb v Riverside",
   "description": "Dnešné časy modlitieb v Riverside, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Riverside.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-riverside.html",
+  "id": "/sk/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

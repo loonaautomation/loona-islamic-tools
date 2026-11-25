@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jacksonville",
   "short_name": "Время намаза в городе Jacksonville",
   "description": "Время намаза на сегодня: Jacksonville, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Jacksonville.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jacksonville.html",
+  "id": "/ru/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

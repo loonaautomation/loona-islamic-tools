@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tripoli (Libië)",
   "short_name": "Gebedstijden in Tripoli (Libië)",
   "description": "Gebedstijden van vandaag in Tripoli, Libië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tripoli.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tripoli.html",
+  "id": "/nl/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Manama Namaz Vakitleri",
   "short_name": "Manama Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Manama, Bahreyn: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Manama için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-manama.html",
+  "id": "/tr/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Tucson",
   "short_name": "Časy modlitieb v Tucson",
   "description": "Dnešné časy modlitieb v Tucson, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Tucson.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-tucson.html",
+  "id": "/sk/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ha'il Namaz Vakitleri",
   "short_name": "Ha'il Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ha'il, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Ha'il için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ha-il.html",
+  "id": "/tr/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rasht",
   "short_name": "Rukousajat: Rasht",
   "description": "Tämän päivän rukousajat paikassa Rasht, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rasht.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rasht.html",
+  "id": "/fi/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

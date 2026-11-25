@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pekalongan",
   "short_name": "Gebetszeiten in Pekalongan",
   "description": "Die heutigen Gebetszeiten in Pekalongan, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pekalongan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pekalongan.html",
+  "id": "/de/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

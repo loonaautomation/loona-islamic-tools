@@ -2,7 +2,7 @@
   "name": "Loona Tampa の礼拝時刻",
   "short_name": "Tampa の礼拝時刻",
   "description": "Tampa（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Tampa についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-tampa.html",
+  "id": "/ja/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

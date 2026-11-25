@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Ludhiana",
   "short_name": "Horários de Oração em Ludhiana",
   "description": "Horários de oração de hoje em Ludhiana, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Ludhiana.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-ludhiana.html",
+  "id": "/pt/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

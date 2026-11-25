@@ -2,7 +2,7 @@
   "name": "Loona ドゥアーライブラリ",
   "short_name": "ドゥアーライブラリ",
   "description": "朝、食事、旅行、家庭、不安、赦しなど、あらゆる場面のための本格的なドゥアーのライブラリです。各ドゥアーにはアラビア語、翻字、翻訳、出典が付いています。",
-  "id": "/loona-islamic-tools/ja/duas-library/",
+  "id": "/ja/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

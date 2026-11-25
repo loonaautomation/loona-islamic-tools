@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kandahār",
   "short_name": "Gebetszeiten in Kandahār",
   "description": "Die heutigen Gebetszeiten in Kandahār, Afghanistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kandahār.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kandahar.html",
+  "id": "/de/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

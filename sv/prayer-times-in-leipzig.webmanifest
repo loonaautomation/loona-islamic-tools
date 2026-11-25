@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Leipzig",
   "short_name": "Bönetider i Leipzig",
   "description": "Dagens bönetider i Leipzig, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Leipzig.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-leipzig.html",
+  "id": "/sv/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

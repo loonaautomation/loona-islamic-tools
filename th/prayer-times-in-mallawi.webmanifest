@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Mallawī",
   "short_name": "เวลาละหมาดใน Mallawī",
   "description": "เวลาละหมาดวันนี้ใน Mallawī, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Mallawī",
-  "id": "/loona-islamic-tools/th/prayer-times-in-mallawi.html",
+  "id": "/th/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

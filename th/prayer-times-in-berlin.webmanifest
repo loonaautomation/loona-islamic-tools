@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Berlin",
   "short_name": "เวลาละหมาดใน Berlin",
   "description": "เวลาละหมาดวันนี้ใน Berlin, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Berlin",
-  "id": "/loona-islamic-tools/th/prayer-times-in-berlin.html",
+  "id": "/th/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

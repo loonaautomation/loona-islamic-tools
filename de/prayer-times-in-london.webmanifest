@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in London",
   "short_name": "Gebetszeiten in London",
   "description": "Die heutigen Gebetszeiten in London, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für London.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-london.html",
+  "id": "/de/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

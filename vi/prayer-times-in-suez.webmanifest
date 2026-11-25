@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Suez",
   "short_name": "Giờ cầu nguyện tại Suez",
   "description": "Giờ cầu nguyện hôm nay tại Suez, Ai Cập: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Egyptian General Authority, được tính trực tiếp trên thiết bị của bạn cho Suez.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-suez.html",
+  "id": "/vi/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

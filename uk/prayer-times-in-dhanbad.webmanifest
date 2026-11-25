@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Dhanbad",
   "short_name": "Час намазу в Dhanbad",
   "description": "Сьогоднішній час намазу в Dhanbad, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Dhanbad.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-dhanbad.html",
+  "id": "/uk/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

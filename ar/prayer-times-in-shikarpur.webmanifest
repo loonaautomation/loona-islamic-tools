@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Shikarpur",
   "short_name": "مواقيت الصلاة في Shikarpur",
   "description": "مواقيت الصلاة اليوم في Shikarpur، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـShikarpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-shikarpur.html",
+  "id": "/ar/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

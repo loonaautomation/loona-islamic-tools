@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ujjain",
   "short_name": "זמני תפילה בעיר Ujjain",
   "description": "זמני התפילה של היום בעיר Ujjain, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Ujjain.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ujjain.html",
+  "id": "/he/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

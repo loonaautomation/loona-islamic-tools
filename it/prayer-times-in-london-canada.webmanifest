@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a London (Canada)",
   "short_name": "Orari di preghiera a London (Canada)",
   "description": "Orari di preghiera di oggi a London, Canada: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per London.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-london-canada.html",
+  "id": "/it/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

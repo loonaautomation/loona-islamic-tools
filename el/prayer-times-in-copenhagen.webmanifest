@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Copenhagen",
   "short_name": "Ώρες Προσευχής στο Copenhagen",
   "description": "Οι σημερινές ώρες προσευχής στο Copenhagen, Δανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Copenhagen.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-copenhagen.html",
+  "id": "/el/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

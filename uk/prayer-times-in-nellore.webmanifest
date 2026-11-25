@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nellore",
   "short_name": "Час намазу в Nellore",
   "description": "Сьогоднішній час намазу в Nellore, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Nellore.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nellore.html",
+  "id": "/uk/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

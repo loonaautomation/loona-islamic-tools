@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dortmund",
   "short_name": "Časy modliteb v Dortmund",
   "description": "Dnešní časy modliteb v Dortmund, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dortmund.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dortmund.html",
+  "id": "/cs/prayer-times-in-dortmund.html",
   "start_url": "./prayer-times-in-dortmund.html",
   "scope": "./prayer-times-in-dortmund.html",
   "display": "standalone",

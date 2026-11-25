@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Yanbu",
   "short_name": "Giờ cầu nguyện tại Yanbu",
   "description": "Giờ cầu nguyện hôm nay tại Yanbu, Ả Rập Xê Út: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Umm al-Qura, được tính trực tiếp trên thiết bị của bạn cho Yanbu.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-yanbu.html",
+  "id": "/vi/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

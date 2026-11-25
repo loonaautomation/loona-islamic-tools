@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bannu",
   "short_name": "เวลาละหมาดใน Bannu",
   "description": "เวลาละหมาดวันนี้ใน Bannu, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bannu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bannu.html",
+  "id": "/th/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

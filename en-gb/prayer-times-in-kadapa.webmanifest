@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kadapa Today",
   "short_name": "Prayer Times in Kadapa Today",
   "description": "Today's prayer times in Kadapa, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kadapa.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-kadapa.html",
+  "id": "/en-gb/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

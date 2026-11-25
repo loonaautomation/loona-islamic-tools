@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Glasgow",
   "short_name": "זמני תפילה בעיר Glasgow",
   "description": "זמני התפילה של היום בעיר Glasgow, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Glasgow.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-glasgow.html",
+  "id": "/he/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Pontianak",
   "short_name": "Время намаза в городе Pontianak",
   "description": "Время намаза на сегодня: Pontianak, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Pontianak.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-pontianak.html",
+  "id": "/ru/prayer-times-in-pontianak.html",
   "start_url": "./prayer-times-in-pontianak.html",
   "scope": "./prayer-times-in-pontianak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مكتبة الأدعية",
   "short_name": "مكتبة الأدعية",
   "description": "مكتبة أدعية صحيحة لكل لحظة — الصباح، الطعام، السفر، المنزل، القلق، الاستغفار — كل منها بالعربية والنقل الصوتي والترجمة والمصدر.",
-  "id": "/loona-islamic-tools/ar/duas-library/",
+  "id": "/ar/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sorong imaidői",
   "short_name": "Sorong imaidői",
   "description": "A mai imaidők: Sorong, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sorong számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sorong.html",
+  "id": "/hu/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Annaba",
   "short_name": "Orari di preghiera a Annaba",
   "description": "Orari di preghiera di oggi a Annaba, Algeria: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Annaba.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-annaba.html",
+  "id": "/it/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

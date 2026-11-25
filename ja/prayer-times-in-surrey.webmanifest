@@ -2,7 +2,7 @@
   "name": "Loona Surrey の礼拝時刻",
   "short_name": "Surrey の礼拝時刻",
   "description": "Surrey（カナダ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Surrey についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-surrey.html",
+  "id": "/ja/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

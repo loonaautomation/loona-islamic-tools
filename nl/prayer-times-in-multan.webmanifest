@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Multan",
   "short_name": "Gebedstijden in Multan",
   "description": "De gebedstijden van vandaag in Multan, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Multan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-multan.html",
+  "id": "/nl/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

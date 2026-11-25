@@ -2,7 +2,7 @@
   "name": "Loona Kierunek kibli",
   "short_name": "Kierunek kibli",
   "description": "Znajdź kierunek kibla w stopniach z dowolnego miasta lub swojej dokładnej lokalizacji, z tarczą kompasu na żywo i odległością do Mekki. Bezpłatnie, dokładnie i prywatnie.",
-  "id": "/loona-islamic-tools/pl/qibla-direction/",
+  "id": "/pl/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

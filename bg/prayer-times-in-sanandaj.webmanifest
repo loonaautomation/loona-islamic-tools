@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sanandaj",
   "short_name": "Часове за намаз в Sanandaj",
   "description": "Днешните часове за намаз в Sanandaj, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sanandaj.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sanandaj.html",
+  "id": "/bg/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

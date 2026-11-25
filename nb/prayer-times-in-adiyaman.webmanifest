@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Adıyaman",
   "short_name": "Bønnetider i Adıyaman",
   "description": "Dagens bønnetider i Adıyaman, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Adıyaman.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-adiyaman.html",
+  "id": "/nb/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

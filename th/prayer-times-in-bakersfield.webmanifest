@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bakersfield",
   "short_name": "เวลาละหมาดใน Bakersfield",
   "description": "เวลาละหมาดวันนี้ใน Bakersfield, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bakersfield",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bakersfield.html",
+  "id": "/th/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

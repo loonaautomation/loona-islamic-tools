@@ -2,7 +2,7 @@
   "name": "Loona Lista kontrolna umry",
   "short_name": "Lista kontrolna umry",
   "description": "Interaktywna lista kontrolna Umry: dokumenty, rezerwacje, pakowanie, zdrowie i przygotowanie ibadah, z paskiem postępu, opcją drukowania i postępami zapisywanymi na Twoim urządzeniu.",
-  "id": "/loona-islamic-tools/pl/umrah-checklist/",
+  "id": "/pl/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

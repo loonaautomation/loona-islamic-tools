@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Singa",
   "short_name": "זמני תפילה בעיר Singa",
   "description": "זמני התפילה של היום בעיר Singa, סודאן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Singa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-singa.html",
+  "id": "/he/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

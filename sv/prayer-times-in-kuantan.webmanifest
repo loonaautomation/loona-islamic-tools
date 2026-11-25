@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kuantan",
   "short_name": "Bönetider i Kuantan",
   "description": "Dagens bönetider i Kuantan, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kuantan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kuantan.html",
+  "id": "/sv/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

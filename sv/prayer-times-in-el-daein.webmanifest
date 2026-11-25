@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i El Daein",
   "short_name": "Bönetider i El Daein",
   "description": "Dagens bönetider i El Daein, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för El Daein.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-el-daein.html",
+  "id": "/sv/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

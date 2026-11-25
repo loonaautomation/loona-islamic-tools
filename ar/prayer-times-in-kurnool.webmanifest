@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kurnool",
   "short_name": "مواقيت الصلاة في Kurnool",
   "description": "مواقيت الصلاة اليوم في Kurnool، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKurnool.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kurnool.html",
+  "id": "/ar/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

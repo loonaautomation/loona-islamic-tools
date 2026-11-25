@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sorong",
   "short_name": "Gebedstijden in Sorong",
   "description": "De gebedstijden van vandaag in Sorong, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sorong.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sorong.html",
+  "id": "/nl/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

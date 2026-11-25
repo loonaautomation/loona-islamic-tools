@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Turin",
   "short_name": "Bönetider i Turin",
   "description": "Dagens bönetider i Turin, Italien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Turin.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-turin.html",
+  "id": "/sv/prayer-times-in-turin.html",
   "start_url": "./prayer-times-in-turin.html",
   "scope": "./prayer-times-in-turin.html",
   "display": "standalone",

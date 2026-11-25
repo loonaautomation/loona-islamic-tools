@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ahilyanagar",
   "short_name": "Час намазу в Ahilyanagar",
   "description": "Сьогоднішній час намазу в Ahilyanagar, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Ahilyanagar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ahilyanagar.html",
+  "id": "/uk/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

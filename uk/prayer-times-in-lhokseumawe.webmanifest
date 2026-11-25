@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Lhokseumawe",
   "short_name": "Час намазу в Lhokseumawe",
   "description": "Сьогоднішній час намазу в Lhokseumawe, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Lhokseumawe.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-lhokseumawe.html",
+  "id": "/uk/prayer-times-in-lhokseumawe.html",
   "start_url": "./prayer-times-in-lhokseumawe.html",
   "scope": "./prayer-times-in-lhokseumawe.html",
   "display": "standalone",

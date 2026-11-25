@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ségou",
   "short_name": "مواقيت الصلاة في Ségou",
   "description": "مواقيت الصلاة اليوم في Ségou، مالي: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSégou.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-segou.html",
+  "id": "/ar/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Paris",
   "short_name": "Gebedstijden in Paris",
   "description": "De gebedstijden van vandaag in Paris, Frankrijk: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Paris.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-paris.html",
+  "id": "/nl/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

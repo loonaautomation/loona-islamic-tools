@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Trabzon",
   "short_name": "Horarios de oración en Trabzon",
   "description": "Horarios de oración de hoy en Trabzon, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Trabzon.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-trabzon.html",
+  "id": "/es/prayer-times-in-trabzon.html",
   "start_url": "./prayer-times-in-trabzon.html",
   "scope": "./prayer-times-in-trabzon.html",
   "display": "standalone",

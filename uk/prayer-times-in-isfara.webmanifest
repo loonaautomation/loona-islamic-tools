@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Isfara",
   "short_name": "Час намазу в Isfara",
   "description": "Сьогоднішній час намазу в Isfara, Таджикистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Isfara.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-isfara.html",
+  "id": "/uk/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

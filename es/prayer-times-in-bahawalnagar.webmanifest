@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bahawalnagar",
   "short_name": "Horarios de oración en Bahawalnagar",
   "description": "Horarios de oración de hoy en Bahawalnagar, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bahawalnagar.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bahawalnagar.html",
+  "id": "/es/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Cuttack",
   "short_name": "Waktu Salat di Cuttack",
   "description": "Waktu salat hari ini di Cuttack, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Cuttack.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-cuttack.html",
+  "id": "/id/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Zaragoza",
   "short_name": "זמני תפילה בעיר Zaragoza",
   "description": "זמני התפילה של היום בעיר Zaragoza, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Zaragoza.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-zaragoza.html",
+  "id": "/he/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

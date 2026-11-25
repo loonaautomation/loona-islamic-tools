@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pasir Mas",
   "short_name": "Gebetszeiten in Pasir Mas",
   "description": "Die heutigen Gebetszeiten in Pasir Mas, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pasir Mas.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pasir-mas.html",
+  "id": "/de/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cuttack",
   "short_name": "זמני תפילה בעיר Cuttack",
   "description": "זמני התפילה של היום בעיר Cuttack, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Cuttack.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cuttack.html",
+  "id": "/he/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

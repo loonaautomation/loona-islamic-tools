@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Balbala",
   "short_name": "Часове за намаз в Balbala",
   "description": "Днешните часове за намаз в Balbala, Джибути: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Balbala.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-balbala.html",
+  "id": "/bg/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

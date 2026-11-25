@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sydney",
   "short_name": "Час намазу в Sydney",
   "description": "Сьогоднішній час намазу в Sydney, Австралія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Sydney.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sydney.html",
+  "id": "/uk/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

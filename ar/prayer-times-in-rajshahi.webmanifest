@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rajshahi",
   "short_name": "مواقيت الصلاة في Rajshahi",
   "description": "مواقيت الصلاة اليوم في Rajshahi، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRajshahi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rajshahi.html",
+  "id": "/ar/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

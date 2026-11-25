@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sfax",
   "short_name": "Bönetider i Sfax",
   "description": "Dagens bönetider i Sfax, Tunisien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sfax.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sfax.html",
+  "id": "/sv/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

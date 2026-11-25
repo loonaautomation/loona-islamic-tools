@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Karachi",
   "short_name": "เวลาละหมาดใน Karachi",
   "description": "เวลาละหมาดวันนี้ใน Karachi, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Karachi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-karachi.html",
+  "id": "/th/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

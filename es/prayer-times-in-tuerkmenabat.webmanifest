@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Türkmenabat",
   "short_name": "Horarios de oración en Türkmenabat",
   "description": "Horarios de oración de hoy en Türkmenabat, Turkmenistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Türkmenabat.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-tuerkmenabat.html",
+  "id": "/es/prayer-times-in-tuerkmenabat.html",
   "start_url": "./prayer-times-in-tuerkmenabat.html",
   "scope": "./prayer-times-in-tuerkmenabat.html",
   "display": "standalone",

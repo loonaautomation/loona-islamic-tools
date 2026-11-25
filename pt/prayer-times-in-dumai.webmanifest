@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Dumai",
   "short_name": "Horários de Oração em Dumai",
   "description": "Horários de oração de hoje em Dumai, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Dumai.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-dumai.html",
+  "id": "/pt/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

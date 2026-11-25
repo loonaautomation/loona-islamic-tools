@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Udaipur",
   "short_name": "Časy modlitieb v Udaipur",
   "description": "Dnešné časy modlitieb v Udaipur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Udaipur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-udaipur.html",
+  "id": "/sk/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

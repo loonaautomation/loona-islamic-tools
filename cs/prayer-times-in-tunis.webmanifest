@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tunis",
   "short_name": "Časy modliteb v Tunis",
   "description": "Dnešní časy modliteb v Tunis, Tunisko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tunis.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tunis.html",
+  "id": "/cs/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

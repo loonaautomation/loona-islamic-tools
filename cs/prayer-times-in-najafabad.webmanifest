@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Najafābād",
   "short_name": "Časy modliteb v Najafābād",
   "description": "Dnešní časy modliteb v Najafābād, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Najafābād.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-najafabad.html",
+  "id": "/cs/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Agadir",
   "short_name": "Rukousajat: Agadir",
   "description": "Tämän päivän rukousajat paikassa Agadir, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Agadir.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-agadir.html",
+  "id": "/fi/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

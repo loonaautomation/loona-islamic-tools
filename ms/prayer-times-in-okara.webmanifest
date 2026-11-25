@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Okara",
   "short_name": "Waktu Solat di Okara",
   "description": "Waktu solat hari ini di Okara, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Okara.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-okara.html",
+  "id": "/ms/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

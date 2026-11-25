@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Omaha",
   "short_name": "مواقيت الصلاة في Omaha",
   "description": "مواقيت الصلاة اليوم في Omaha، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـOmaha.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-omaha.html",
+  "id": "/ar/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

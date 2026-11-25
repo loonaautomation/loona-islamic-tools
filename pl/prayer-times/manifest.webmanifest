@@ -2,7 +2,7 @@
   "name": "Loona Czas modlitwy",
   "short_name": "Czas modlitwy",
   "description": "Poznaj dzisiejsze godziny modlitw Fadżr, Zuhr, Asr, Maghrib i Isza dla dowolnego miasta: metody Karachi, ISNA, MWL i inne, Asr hanaficki lub szaficki, obsługa dokładnych współrzędnych.",
-  "id": "/loona-islamic-tools/pl/prayer-times/",
+  "id": "/pl/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

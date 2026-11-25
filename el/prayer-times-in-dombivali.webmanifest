@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dombivali",
   "short_name": "Ώρες Προσευχής στο Dombivali",
   "description": "Οι σημερινές ώρες προσευχής στο Dombivali, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Dombivali.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dombivali.html",
+  "id": "/el/prayer-times-in-dombivali.html",
   "start_url": "./prayer-times-in-dombivali.html",
   "scope": "./prayer-times-in-dombivali.html",
   "display": "standalone",

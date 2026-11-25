@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Al Khums Today",
   "short_name": "Prayer Times in Al Khums Today",
   "description": "Today's prayer times in Al Khums, Libya: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Al Khums.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-al-khums.html",
+  "id": "/en-us/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

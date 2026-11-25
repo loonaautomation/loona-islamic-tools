@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Surakarta",
   "short_name": "Heures de prière à Surakarta",
   "description": "Les heures de prière d’aujourd’hui à Surakarta, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Surakarta.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-surakarta.html",
+  "id": "/fr/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

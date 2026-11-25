@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dera Ismail Khan",
   "short_name": "Časy modliteb v Dera Ismail Khan",
   "description": "Dnešní časy modliteb v Dera Ismail Khan, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dera-ismail-khan.html",
+  "id": "/cs/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

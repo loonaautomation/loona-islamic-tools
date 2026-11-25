@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Fes",
   "short_name": "Vremena namaza u gradu Fes",
   "description": "Današnja vremena namaza u gradu Fes, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Fes.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-fes.html",
+  "id": "/hr/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Hāthazāri imaidői",
   "short_name": "Hāthazāri imaidői",
   "description": "A mai imaidők: Hāthazāri, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Hāthazāri számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-hathazari.html",
+  "id": "/hu/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

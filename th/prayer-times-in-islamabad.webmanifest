@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Islamabad",
   "short_name": "เวลาละหมาดใน Islamabad",
   "description": "เวลาละหมาดวันนี้ใน Islamabad, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Islamabad",
-  "id": "/loona-islamic-tools/th/prayer-times-in-islamabad.html",
+  "id": "/th/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

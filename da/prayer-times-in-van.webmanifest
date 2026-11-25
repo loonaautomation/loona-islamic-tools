@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Van",
   "short_name": "Bønnetider i Van",
   "description": "Dagens bønnetider i Van, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Van.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-van.html",
+  "id": "/da/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

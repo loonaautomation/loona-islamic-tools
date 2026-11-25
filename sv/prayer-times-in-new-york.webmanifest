@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i New York",
   "short_name": "Bönetider i New York",
   "description": "Dagens bönetider i New York, USA: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för New York.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-new-york.html",
+  "id": "/sv/prayer-times-in-new-york.html",
   "start_url": "./prayer-times-in-new-york.html",
   "scope": "./prayer-times-in-new-york.html",
   "display": "standalone",

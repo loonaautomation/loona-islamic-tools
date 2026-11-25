@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Orlando",
   "short_name": "Bønnetider i Orlando",
   "description": "Dagens bønnetider i Orlando, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Orlando.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-orlando.html",
+  "id": "/da/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

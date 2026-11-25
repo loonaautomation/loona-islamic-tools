@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Istanbul",
   "short_name": "זמני תפילה בעיר Istanbul",
   "description": "זמני התפילה של היום בעיר Istanbul, Türkiye: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Istanbul.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-istanbul.html",
+  "id": "/he/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Houston",
   "short_name": "Orari di preghiera a Houston",
   "description": "Orari di preghiera di oggi a Houston, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Houston.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-houston.html",
+  "id": "/it/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

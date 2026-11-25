@@ -2,7 +2,7 @@
   "name": "Loona Najrān の礼拝時刻",
   "short_name": "Najrān の礼拝時刻",
   "description": "Najrān、サウジアラビア の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Umm al-Qura 方式で、Najrān についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-najran.html",
+  "id": "/ja/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Oujda",
   "short_name": "Час намазу в Oujda",
   "description": "Сьогоднішній час намазу в Oujda, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Oujda.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-oujda.html",
+  "id": "/uk/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

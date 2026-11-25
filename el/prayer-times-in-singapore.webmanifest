@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Singapore",
   "short_name": "Ώρες Προσευχής στο Singapore",
   "description": "Οι σημερινές ώρες προσευχής στο Singapore, Σιγκαπούρη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Singapore.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-singapore.html",
+  "id": "/el/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

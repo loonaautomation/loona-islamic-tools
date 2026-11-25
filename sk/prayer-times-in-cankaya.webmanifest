@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Çankaya",
   "short_name": "Časy modlitieb v Çankaya",
   "description": "Dnešné časy modlitieb v Çankaya, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Çankaya.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cankaya.html",
+  "id": "/sk/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

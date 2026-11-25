@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Al Mansurah",
   "short_name": "Ώρες Προσευχής στο Al Mansurah",
   "description": "Οι σημερινές ώρες προσευχής στο Al Mansurah, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Al Mansurah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-al-mansurah.html",
+  "id": "/el/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

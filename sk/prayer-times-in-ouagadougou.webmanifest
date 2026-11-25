@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ouagadougou",
   "short_name": "Časy modlitieb v Ouagadougou",
   "description": "Dnešné časy modlitieb v Ouagadougou, Burkina Faso: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Ouagadougou.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ouagadougou.html",
+  "id": "/sk/prayer-times-in-ouagadougou.html",
   "start_url": "./prayer-times-in-ouagadougou.html",
   "scope": "./prayer-times-in-ouagadougou.html",
   "display": "standalone",

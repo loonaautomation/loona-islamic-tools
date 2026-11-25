@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Almaty",
   "short_name": "Časy modliteb v Almaty",
   "description": "Dnešní časy modliteb v Almaty, Kazachstán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Almaty.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-almaty.html",
+  "id": "/cs/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

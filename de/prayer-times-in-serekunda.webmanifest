@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Serekunda",
   "short_name": "Gebetszeiten in Serekunda",
   "description": "Die heutigen Gebetszeiten in Serekunda, Gambia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Serekunda.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-serekunda.html",
+  "id": "/de/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

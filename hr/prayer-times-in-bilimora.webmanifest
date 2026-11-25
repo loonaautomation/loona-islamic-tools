@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bilimora",
   "short_name": "Vremena namaza u gradu Bilimora",
   "description": "Današnja vremena namaza u gradu Bilimora, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bilimora.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bilimora.html",
+  "id": "/hr/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

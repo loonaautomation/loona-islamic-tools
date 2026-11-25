@@ -2,7 +2,7 @@
   "name": "Loona Manchester Namaz Vakitleri",
   "short_name": "Manchester Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Manchester, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Manchester için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-manchester.html",
+  "id": "/tr/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

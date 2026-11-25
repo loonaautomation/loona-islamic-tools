@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Portland",
   "short_name": "Vremena namaza u gradu Portland",
   "description": "Današnja vremena namaza u gradu Portland, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Portland.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-portland.html",
+  "id": "/hr/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

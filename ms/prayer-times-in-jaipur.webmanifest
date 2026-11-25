@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jaipur",
   "short_name": "Waktu Solat di Jaipur",
   "description": "Waktu solat hari ini di Jaipur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Jaipur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jaipur.html",
+  "id": "/ms/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mashhad",
   "short_name": "Время намаза в городе Mashhad",
   "description": "Время намаза на сегодня: Mashhad, Иран: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Mashhad.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mashhad.html",
+  "id": "/ru/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Alexandria",
   "short_name": "Gebedstijden in Alexandria",
   "description": "De gebedstijden van vandaag in Alexandria, Egypte: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Egyptian General Authority, live berekend op je apparaat voor Alexandria.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-alexandria.html",
+  "id": "/nl/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

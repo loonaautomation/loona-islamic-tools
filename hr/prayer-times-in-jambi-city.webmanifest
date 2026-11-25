@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jambi City",
   "short_name": "Vremena namaza u gradu Jambi City",
   "description": "Današnja vremena namaza u gradu Jambi City, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Jambi City.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jambi-city.html",
+  "id": "/hr/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Saint-Louis",
   "short_name": "Heures de prière à Saint-Louis",
   "description": "Les heures de prière d’aujourd’hui à Saint-Louis, Sénégal : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Saint-Louis.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-saint-louis.html",
+  "id": "/fr/prayer-times-in-saint-louis.html",
   "start_url": "./prayer-times-in-saint-louis.html",
   "scope": "./prayer-times-in-saint-louis.html",
   "display": "standalone",

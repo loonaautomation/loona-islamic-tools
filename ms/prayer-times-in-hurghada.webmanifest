@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Hurghada",
   "short_name": "Waktu Solat di Hurghada",
   "description": "Waktu solat hari ini di Hurghada, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Hurghada.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-hurghada.html",
+  "id": "/ms/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Catania",
   "short_name": "Часове за намаз в Catania",
   "description": "Днешните часове за намаз в Catania, Италия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Catania.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-catania.html",
+  "id": "/bg/prayer-times-in-catania.html",
   "start_url": "./prayer-times-in-catania.html",
   "scope": "./prayer-times-in-catania.html",
   "display": "standalone",

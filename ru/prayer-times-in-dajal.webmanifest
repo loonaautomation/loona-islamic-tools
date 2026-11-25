@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Dajal",
   "short_name": "Время намаза в городе Dajal",
   "description": "Время намаза на сегодня: Dajal, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Dajal.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-dajal.html",
+  "id": "/ru/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

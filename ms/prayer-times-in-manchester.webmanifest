@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Manchester",
   "short_name": "Waktu Solat di Manchester",
   "description": "Waktu solat hari ini di Manchester, United Kingdom: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Manchester.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-manchester.html",
+  "id": "/ms/prayer-times-in-manchester.html",
   "start_url": "./prayer-times-in-manchester.html",
   "scope": "./prayer-times-in-manchester.html",
   "display": "standalone",

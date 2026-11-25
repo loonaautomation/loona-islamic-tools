@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dumai",
   "short_name": "Gebedstijden in Dumai",
   "description": "De gebedstijden van vandaag in Dumai, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Dumai.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dumai.html",
+  "id": "/nl/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

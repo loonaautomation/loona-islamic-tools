@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Surrey",
   "short_name": "Časy modlitieb v Surrey",
   "description": "Dnešné časy modlitieb v Surrey, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Surrey.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-surrey.html",
+  "id": "/sk/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

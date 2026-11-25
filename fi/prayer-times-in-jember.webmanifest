@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Jember",
   "short_name": "Rukousajat: Jember",
   "description": "Tämän päivän rukousajat paikassa Jember, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Jember.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-jember.html",
+  "id": "/fi/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

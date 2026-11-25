@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Rajshahi",
   "short_name": "Czasy modlitw w miejscowości Rajshahi",
   "description": "Dzisiejsze czasy modlitw w miejscowości Rajshahi, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Rajshahi.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-rajshahi.html",
+  "id": "/pl/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

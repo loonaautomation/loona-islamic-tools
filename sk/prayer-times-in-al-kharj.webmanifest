@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Al Kharj",
   "short_name": "Časy modlitieb v Al Kharj",
   "description": "Dnešné časy modlitieb v Al Kharj, Saudská Arábia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Umm al-Qura, počítané naživo vo vašom zariadení pre Al Kharj.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-al-kharj.html",
+  "id": "/sk/prayer-times-in-al-kharj.html",
   "start_url": "./prayer-times-in-al-kharj.html",
   "scope": "./prayer-times-in-al-kharj.html",
   "display": "standalone",

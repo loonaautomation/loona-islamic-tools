@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Antakya",
   "short_name": "Час намазу в Antakya",
   "description": "Сьогоднішній час намазу в Antakya, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Antakya.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-antakya.html",
+  "id": "/uk/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

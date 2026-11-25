@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Nukus",
   "short_name": "Waktu Salat di Nukus",
   "description": "Waktu salat hari ini di Nukus, Uzbekistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Nukus.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-nukus.html",
+  "id": "/id/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

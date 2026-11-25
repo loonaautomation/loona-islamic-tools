@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Ipoh",
   "short_name": "Heures de prière à Ipoh",
   "description": "Les heures de prière d’aujourd’hui à Ipoh, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Ipoh.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-ipoh.html",
+  "id": "/fr/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في El Daein",
   "short_name": "مواقيت الصلاة في El Daein",
   "description": "مواقيت الصلاة اليوم في El Daein، السودان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـEl Daein.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-el-daein.html",
+  "id": "/ar/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

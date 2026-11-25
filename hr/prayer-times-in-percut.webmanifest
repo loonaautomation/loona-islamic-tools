@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Percut",
   "short_name": "Vremena namaza u gradu Percut",
   "description": "Današnja vremena namaza u gradu Percut, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Percut.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-percut.html",
+  "id": "/hr/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

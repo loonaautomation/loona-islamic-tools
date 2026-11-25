@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Delhi",
   "short_name": "مواقيت الصلاة في Delhi",
   "description": "مواقيت الصلاة اليوم في Delhi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDelhi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-delhi.html",
+  "id": "/ar/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

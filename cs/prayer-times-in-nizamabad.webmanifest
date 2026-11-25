@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Nizāmābād",
   "short_name": "Časy modliteb v Nizāmābād",
   "description": "Dnešní časy modliteb v Nizāmābād, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Nizāmābād.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-nizamabad.html",
+  "id": "/cs/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

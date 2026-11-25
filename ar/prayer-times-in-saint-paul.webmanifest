@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Saint Paul",
   "short_name": "مواقيت الصلاة في Saint Paul",
   "description": "مواقيت الصلاة اليوم في Saint Paul، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـSaint Paul.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-saint-paul.html",
+  "id": "/ar/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

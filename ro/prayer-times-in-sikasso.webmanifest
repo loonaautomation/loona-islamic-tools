@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Sikasso",
   "short_name": "Ore de rugăciune în Sikasso",
   "description": "Orele de rugăciune de azi în Sikasso, Mali: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Sikasso.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sikasso.html",
+  "id": "/ro/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

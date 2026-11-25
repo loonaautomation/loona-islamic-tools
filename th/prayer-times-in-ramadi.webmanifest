@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ramadi",
   "short_name": "เวลาละหมาดใน Ramadi",
   "description": "เวลาละหมาดวันนี้ใน Ramadi, Iraq: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ramadi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ramadi.html",
+  "id": "/th/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

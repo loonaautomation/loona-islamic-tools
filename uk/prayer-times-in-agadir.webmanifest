@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Agadir",
   "short_name": "Час намазу в Agadir",
   "description": "Сьогоднішній час намазу в Agadir, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Agadir.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-agadir.html",
+  "id": "/uk/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

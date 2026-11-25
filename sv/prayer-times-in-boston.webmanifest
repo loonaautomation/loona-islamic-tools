@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Boston",
   "short_name": "Bönetider i Boston",
   "description": "Dagens bönetider i Boston, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Boston.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-boston.html",
+  "id": "/sv/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

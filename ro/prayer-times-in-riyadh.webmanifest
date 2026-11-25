@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Riyadh",
   "short_name": "Ore de rugăciune în Riyadh",
   "description": "Orele de rugăciune de azi în Riyadh, Arabia Saudită: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Riyadh.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-riyadh.html",
+  "id": "/ro/prayer-times-in-riyadh.html",
   "start_url": "./prayer-times-in-riyadh.html",
   "scope": "./prayer-times-in-riyadh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Touba",
   "short_name": "Časy modliteb v Touba",
   "description": "Dnešní časy modliteb v Touba, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Touba.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-touba.html",
+  "id": "/cs/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

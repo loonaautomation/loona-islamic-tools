@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Cox’s Bāzār",
   "short_name": "Ώρες Προσευχής στο Cox’s Bāzār",
   "description": "Οι σημερινές ώρες προσευχής στο Cox’s Bāzār, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-cox-s-bazar.html",
+  "id": "/el/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

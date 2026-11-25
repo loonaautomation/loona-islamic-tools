@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kampung Larkin Lama Today",
   "short_name": "Prayer Times in Kampung Larkin Lama Today",
   "description": "Today's prayer times in Kampung Larkin Lama, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kampung Larkin Lama.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-kampung-larkin-lama.html",
+  "id": "/en-gb/prayer-times-in-kampung-larkin-lama.html",
   "start_url": "./prayer-times-in-kampung-larkin-lama.html",
   "scope": "./prayer-times-in-kampung-larkin-lama.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Soweto",
   "short_name": "Gebetszeiten in Soweto",
   "description": "Die heutigen Gebetszeiten in Soweto, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Soweto.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-soweto.html",
+  "id": "/de/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

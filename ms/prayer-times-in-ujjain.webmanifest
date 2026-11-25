@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ujjain",
   "short_name": "Waktu Solat di Ujjain",
   "description": "Waktu solat hari ini di Ujjain, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Ujjain.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ujjain.html",
+  "id": "/ms/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

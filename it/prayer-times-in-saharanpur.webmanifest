@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sahāranpur",
   "short_name": "Orari di preghiera a Sahāranpur",
   "description": "Orari di preghiera di oggi a Sahāranpur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Sahāranpur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-saharanpur.html",
+  "id": "/it/prayer-times-in-saharanpur.html",
   "start_url": "./prayer-times-in-saharanpur.html",
   "scope": "./prayer-times-in-saharanpur.html",
   "display": "standalone",

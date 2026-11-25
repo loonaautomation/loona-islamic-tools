@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lagos",
   "short_name": "Bønnetider i Lagos",
   "description": "Dagens bønnetider i Lagos, Nigeria: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Lagos.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-lagos.html",
+  "id": "/nb/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

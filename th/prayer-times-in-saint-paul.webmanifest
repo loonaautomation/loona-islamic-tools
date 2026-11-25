@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Saint Paul",
   "short_name": "เวลาละหมาดใน Saint Paul",
   "description": "เวลาละหมาดวันนี้ใน Saint Paul, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Saint Paul",
-  "id": "/loona-islamic-tools/th/prayer-times-in-saint-paul.html",
+  "id": "/th/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

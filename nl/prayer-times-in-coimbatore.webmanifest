@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Coimbatore",
   "short_name": "Gebedstijden in Coimbatore",
   "description": "De gebedstijden van vandaag in Coimbatore, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Coimbatore.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-coimbatore.html",
+  "id": "/nl/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

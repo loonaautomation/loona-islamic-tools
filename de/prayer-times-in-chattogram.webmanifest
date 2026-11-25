@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Chattogram",
   "short_name": "Gebetszeiten in Chattogram",
   "description": "Die heutigen Gebetszeiten in Chattogram, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Chattogram.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-chattogram.html",
+  "id": "/de/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

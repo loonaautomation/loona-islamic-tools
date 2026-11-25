@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Annaba",
   "short_name": "Časy modliteb v Annaba",
   "description": "Dnešní časy modliteb v Annaba, Alžírsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Annaba.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-annaba.html",
+  "id": "/cs/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

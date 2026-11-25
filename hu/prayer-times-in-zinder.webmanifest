@@ -2,7 +2,7 @@
   "name": "Loona Zinder imaidői",
   "short_name": "Zinder imaidői",
   "description": "A mai imaidők: Zinder, Niger: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Zinder számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-zinder.html",
+  "id": "/hu/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Roodepoort",
   "short_name": "Vremena namaza u gradu Roodepoort",
   "description": "Današnja vremena namaza u gradu Roodepoort, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Roodepoort.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-roodepoort.html",
+  "id": "/hr/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

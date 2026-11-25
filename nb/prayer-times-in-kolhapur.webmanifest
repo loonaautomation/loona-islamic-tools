@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kolhāpur",
   "short_name": "Bønnetider i Kolhāpur",
   "description": "Dagens bønnetider i Kolhāpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kolhāpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kolhapur.html",
+  "id": "/nb/prayer-times-in-kolhapur.html",
   "start_url": "./prayer-times-in-kolhapur.html",
   "scope": "./prayer-times-in-kolhapur.html",
   "display": "standalone",

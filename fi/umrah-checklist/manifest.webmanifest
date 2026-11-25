@@ -2,7 +2,7 @@
   "name": "Loona Umra-tarkistuslista",
   "short_name": "Umra-tarkistuslista",
   "description": "Interaktiivinen Umra-tarkistuslista: asiakirjat, varaukset, pakkaaminen, terveys ja ibadah-valmistautuminen, edistymispalkilla, tulostusvaihtoehdolla ja laitteellesi tallennetulla edistymisellä.",
-  "id": "/loona-islamic-tools/fi/umrah-checklist/",
+  "id": "/fi/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

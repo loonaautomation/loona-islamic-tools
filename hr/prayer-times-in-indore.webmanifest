@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Indore",
   "short_name": "Vremena namaza u gradu Indore",
   "description": "Današnja vremena namaza u gradu Indore, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Indore.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-indore.html",
+  "id": "/hr/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

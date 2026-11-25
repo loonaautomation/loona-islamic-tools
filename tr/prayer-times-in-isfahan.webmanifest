@@ -2,7 +2,7 @@
   "name": "Loona Isfahan Namaz Vakitleri",
   "short_name": "Isfahan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Isfahan, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Isfahan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-isfahan.html",
+  "id": "/tr/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

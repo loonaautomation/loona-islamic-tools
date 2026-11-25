@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pelentong",
   "short_name": "זמני תפילה בעיר Pelentong",
   "description": "זמני התפילה של היום בעיר Pelentong, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pelentong.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pelentong.html",
+  "id": "/he/prayer-times-in-pelentong.html",
   "start_url": "./prayer-times-in-pelentong.html",
   "scope": "./prayer-times-in-pelentong.html",
   "display": "standalone",

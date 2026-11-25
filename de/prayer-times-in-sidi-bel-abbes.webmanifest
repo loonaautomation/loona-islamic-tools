@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sidi Bel Abbes",
   "short_name": "Gebetszeiten in Sidi Bel Abbes",
   "description": "Die heutigen Gebetszeiten in Sidi Bel Abbes, Algerien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/de/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

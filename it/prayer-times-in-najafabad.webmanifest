@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Najafābād",
   "short_name": "Orari di preghiera a Najafābād",
   "description": "Orari di preghiera di oggi a Najafābād, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Najafābād.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-najafabad.html",
+  "id": "/it/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

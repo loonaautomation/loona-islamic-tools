@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hubballi",
   "short_name": "Bønnetider i Hubballi",
   "description": "Dagens bønnetider i Hubballi, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Hubballi.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-hubballi.html",
+  "id": "/da/prayer-times-in-hubballi.html",
   "start_url": "./prayer-times-in-hubballi.html",
   "scope": "./prayer-times-in-hubballi.html",
   "display": "standalone",

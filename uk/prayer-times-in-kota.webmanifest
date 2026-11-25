@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kota",
   "short_name": "Час намазу в Kota",
   "description": "Сьогоднішній час намазу в Kota, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kota.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kota.html",
+  "id": "/uk/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

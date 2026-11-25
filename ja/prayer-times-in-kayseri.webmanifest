@@ -2,7 +2,7 @@
   "name": "Loona Kayseri の礼拝時刻",
   "short_name": "Kayseri の礼拝時刻",
   "description": "Kayseri（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Kayseri についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kayseri.html",
+  "id": "/ja/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

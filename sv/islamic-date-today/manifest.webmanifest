@@ -2,7 +2,7 @@
   "name": "Loona Islamiskt datum idag",
   "short_name": "Islamiskt datum idag",
   "description": "Vad är det islamiska datumet idag? Se dagens hijridatum — dag, månad och år (Umm al-Qura) — med det gregorianska datumet, uppdaterat live på din enhet. Gratis.",
-  "id": "/loona-islamic-tools/sv/islamic-date-today/",
+  "id": "/sv/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

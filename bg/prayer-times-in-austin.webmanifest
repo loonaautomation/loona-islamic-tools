@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Austin",
   "short_name": "Часове за намаз в Austin",
   "description": "Днешните часове за намаз в Austin, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Austin.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-austin.html",
+  "id": "/bg/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

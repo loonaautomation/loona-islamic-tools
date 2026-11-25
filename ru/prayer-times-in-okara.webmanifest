@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Okara",
   "short_name": "Время намаза в городе Okara",
   "description": "Время намаза на сегодня: Okara, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Okara.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-okara.html",
+  "id": "/ru/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

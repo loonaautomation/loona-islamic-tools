@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mukalla",
   "short_name": "Časy modliteb v Mukalla",
   "description": "Dnešní časy modliteb v Mukalla, Jemen: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mukalla.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mukalla.html",
+  "id": "/cs/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

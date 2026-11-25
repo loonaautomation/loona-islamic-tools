@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sorong",
   "short_name": "Waktu Salat di Sorong",
   "description": "Waktu salat hari ini di Sorong, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Sorong.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sorong.html",
+  "id": "/id/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

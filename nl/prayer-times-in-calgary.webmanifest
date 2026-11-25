@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Calgary",
   "short_name": "Gebedstijden in Calgary",
   "description": "De gebedstijden van vandaag in Calgary, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Calgary.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-calgary.html",
+  "id": "/nl/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

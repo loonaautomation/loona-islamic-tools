@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bloemfontein",
   "short_name": "Gebetszeiten in Bloemfontein",
   "description": "Die heutigen Gebetszeiten in Bloemfontein, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bloemfontein.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bloemfontein.html",
+  "id": "/de/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

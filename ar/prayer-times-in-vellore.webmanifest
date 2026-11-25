@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Vellore",
   "short_name": "مواقيت الصلاة في Vellore",
   "description": "مواقيت الصلاة اليوم في Vellore، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـVellore.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-vellore.html",
+  "id": "/ar/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

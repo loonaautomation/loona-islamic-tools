@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Preston",
   "short_name": "Часове за намаз в Preston",
   "description": "Днешните часове за намаз в Preston, Обединено кралство: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Preston.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-preston.html",
+  "id": "/bg/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

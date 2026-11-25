@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Surrey",
   "short_name": "Часове за намаз в Surrey",
   "description": "Днешните часове за намаз в Surrey, Канада: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Surrey.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-surrey.html",
+  "id": "/bg/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Miami",
   "short_name": "Время намаза в городе Miami",
   "description": "Время намаза на сегодня: Miami, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Miami.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-miami.html",
+  "id": "/ru/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

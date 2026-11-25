@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Islamabad",
   "short_name": "Bønnetider i Islamabad",
   "description": "Dagens bønnetider i Islamabad, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Islamabad.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-islamabad.html",
+  "id": "/nb/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

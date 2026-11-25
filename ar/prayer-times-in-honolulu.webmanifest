@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Honolulu",
   "short_name": "مواقيت الصلاة في Honolulu",
   "description": "مواقيت الصلاة اليوم في Honolulu، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـHonolulu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-honolulu.html",
+  "id": "/ar/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

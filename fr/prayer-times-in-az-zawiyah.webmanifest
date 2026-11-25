@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Az Zāwīyah",
   "short_name": "Heures de prière à Az Zāwīyah",
   "description": "Les heures de prière d’aujourd’hui à Az Zāwīyah, Libye : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Az Zāwīyah.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-az-zawiyah.html",
+  "id": "/fr/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

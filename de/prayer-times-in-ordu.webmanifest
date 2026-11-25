@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ordu",
   "short_name": "Gebetszeiten in Ordu",
   "description": "Die heutigen Gebetszeiten in Ordu, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ordu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ordu.html",
+  "id": "/de/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

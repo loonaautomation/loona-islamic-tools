@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bagerhat",
   "short_name": "Horários de Oração em Bagerhat",
   "description": "Horários de oração de hoje em Bagerhat, Bangladexe: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Bagerhat.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-bagerhat.html",
+  "id": "/pt-pt/prayer-times-in-bagerhat.html",
   "start_url": "./prayer-times-in-bagerhat.html",
   "scope": "./prayer-times-in-bagerhat.html",
   "display": "standalone",

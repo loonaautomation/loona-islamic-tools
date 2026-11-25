@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Lucknow",
   "short_name": "Horarios de oración en Lucknow",
   "description": "Horarios de oración de hoy en Lucknow, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Lucknow.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-lucknow.html",
+  "id": "/es/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

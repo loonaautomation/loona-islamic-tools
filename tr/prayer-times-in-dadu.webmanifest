@@ -2,7 +2,7 @@
   "name": "Loona Dadu Namaz Vakitleri",
   "short_name": "Dadu Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dadu, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dadu için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dadu.html",
+  "id": "/tr/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

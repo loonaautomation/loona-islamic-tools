@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Gorakhpur",
   "short_name": "Gebedstijden in Gorakhpur",
   "description": "De gebedstijden van vandaag in Gorakhpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Gorakhpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-gorakhpur.html",
+  "id": "/nl/prayer-times-in-gorakhpur.html",
   "start_url": "./prayer-times-in-gorakhpur.html",
   "scope": "./prayer-times-in-gorakhpur.html",
   "display": "standalone",

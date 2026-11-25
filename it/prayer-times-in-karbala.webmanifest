@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Karbala",
   "short_name": "Orari di preghiera a Karbala",
   "description": "Orari di preghiera di oggi a Karbala, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Karbala.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-karbala.html",
+  "id": "/it/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

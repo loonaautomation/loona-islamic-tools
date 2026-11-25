@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Amman",
   "short_name": "Gebetszeiten in Amman",
   "description": "Die heutigen Gebetszeiten in Amman, Jordanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Amman.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-amman.html",
+  "id": "/de/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

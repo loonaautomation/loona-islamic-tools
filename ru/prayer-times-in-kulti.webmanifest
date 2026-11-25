@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kulti",
   "short_name": "Время намаза в городе Kulti",
   "description": "Время намаза на сегодня: Kulti, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Kulti.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kulti.html",
+  "id": "/ru/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

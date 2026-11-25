@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kolkata",
   "short_name": "مواقيت الصلاة في Kolkata",
   "description": "مواقيت الصلاة اليوم في Kolkata، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKolkata.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kolkata.html",
+  "id": "/ar/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

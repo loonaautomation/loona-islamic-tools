@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Osh",
   "short_name": "Orari di preghiera a Osh",
   "description": "Orari di preghiera di oggi a Osh, Kirghizistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Osh.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-osh.html",
+  "id": "/it/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

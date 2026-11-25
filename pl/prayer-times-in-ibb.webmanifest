@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Ibb",
   "short_name": "Czasy modlitw w miejscowości Ibb",
   "description": "Dzisiejsze czasy modlitw w miejscowości Ibb, kraj Jemen: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Ibb.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-ibb.html",
+  "id": "/pl/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

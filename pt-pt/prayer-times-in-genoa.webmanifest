@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Genoa",
   "short_name": "Horários de Oração em Genoa",
   "description": "Horários de oração de hoje em Genoa, Itália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Genoa.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-genoa.html",
+  "id": "/pt-pt/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

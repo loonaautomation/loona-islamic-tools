@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Khomeynī Shahr",
   "short_name": "Waktu Solat di Khomeynī Shahr",
   "description": "Waktu solat hari ini di Khomeynī Shahr, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Khomeynī Shahr.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-khomeyni-shahr.html",
+  "id": "/ms/prayer-times-in-khomeyni-shahr.html",
   "start_url": "./prayer-times-in-khomeyni-shahr.html",
   "scope": "./prayer-times-in-khomeyni-shahr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Lagos",
   "short_name": "Gebetszeiten in Lagos",
   "description": "Die heutigen Gebetszeiten in Lagos, Nigeria: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Lagos.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-lagos.html",
+  "id": "/de/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

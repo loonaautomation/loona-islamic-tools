@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jambi City",
   "short_name": "Час намазу в Jambi City",
   "description": "Сьогоднішній час намазу в Jambi City, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Jambi City.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jambi-city.html",
+  "id": "/uk/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

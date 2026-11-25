@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Randburg",
   "short_name": "Vremena namaza u gradu Randburg",
   "description": "Današnja vremena namaza u gradu Randburg, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Randburg.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-randburg.html",
+  "id": "/hr/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

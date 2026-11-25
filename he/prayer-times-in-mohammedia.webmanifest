@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mohammedia",
   "short_name": "זמני תפילה בעיר Mohammedia",
   "description": "זמני התפילה של היום בעיר Mohammedia, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Mohammedia.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mohammedia.html",
+  "id": "/he/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

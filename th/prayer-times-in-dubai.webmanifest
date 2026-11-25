@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dubai",
   "short_name": "เวลาละหมาดใน Dubai",
   "description": "เวลาละหมาดวันนี้ใน Dubai, UAE: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dubai",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dubai.html",
+  "id": "/th/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di N'Djamena",
   "short_name": "Waktu Solat di N'Djamena",
   "description": "Waktu solat hari ini di N'Djamena, Chad: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk N'Djamena.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-n-djamena.html",
+  "id": "/ms/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

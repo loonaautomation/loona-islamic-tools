@@ -2,7 +2,7 @@
   "name": "Loona Horario del Sehri y del Iftar Hoy",
   "short_name": "Horario del Sehri y del Iftar Hoy",
   "description": "Los horarios de hoy del fin del Sehri (Fajr) y del Iftar (Maghrib) para tu ciudad con una cuenta atrás en vivo hasta el siguiente. Método de Karachi, Asr Hanafi por defecto, ajustable.",
-  "id": "/loona-islamic-tools/es/sehri-iftar-today/",
+  "id": "/es/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

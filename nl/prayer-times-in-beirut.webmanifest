@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Beirut",
   "short_name": "Gebedstijden in Beirut",
   "description": "De gebedstijden van vandaag in Beirut, Libanon: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Beirut.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-beirut.html",
+  "id": "/nl/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

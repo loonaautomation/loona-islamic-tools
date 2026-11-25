@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pasir Mas Today",
   "short_name": "Prayer Times in Pasir Mas Today",
   "description": "Today's prayer times in Pasir Mas, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pasir Mas.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-pasir-mas.html",
+  "id": "/en-us/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Karabağlar",
   "short_name": "Часове за намаз в Karabağlar",
   "description": "Днешните часове за намаз в Karabağlar, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Karabağlar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-karabaglar.html",
+  "id": "/bg/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

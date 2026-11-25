@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Portland",
   "short_name": "זמני תפילה בעיר Portland",
   "description": "זמני התפילה של היום בעיר Portland, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Portland.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-portland.html",
+  "id": "/he/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

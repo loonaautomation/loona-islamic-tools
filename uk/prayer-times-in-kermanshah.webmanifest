@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kermanshah",
   "short_name": "Час намазу в Kermanshah",
   "description": "Сьогоднішній час намазу в Kermanshah, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kermanshah.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kermanshah.html",
+  "id": "/uk/prayer-times-in-kermanshah.html",
   "start_url": "./prayer-times-in-kermanshah.html",
   "scope": "./prayer-times-in-kermanshah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Surrey",
   "short_name": "Vremena namaza u gradu Surrey",
   "description": "Današnja vremena namaza u gradu Surrey, Kanada: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Surrey.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-surrey.html",
+  "id": "/hr/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

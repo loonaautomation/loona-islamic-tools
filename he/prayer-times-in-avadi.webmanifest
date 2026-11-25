@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Avadi",
   "short_name": "זמני תפילה בעיר Avadi",
   "description": "זמני התפילה של היום בעיר Avadi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Avadi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-avadi.html",
+  "id": "/he/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

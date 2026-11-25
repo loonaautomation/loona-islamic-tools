@@ -2,7 +2,7 @@
   "name": "Loona Tiruchirappalli の礼拝時刻",
   "short_name": "Tiruchirappalli の礼拝時刻",
   "description": "Tiruchirappalli（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Tiruchirappalli についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-tiruchirappalli.html",
+  "id": "/ja/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

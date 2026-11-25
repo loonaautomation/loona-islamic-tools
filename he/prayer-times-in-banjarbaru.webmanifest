@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Banjarbaru",
   "short_name": "זמני תפילה בעיר Banjarbaru",
   "description": "זמני התפילה של היום בעיר Banjarbaru, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Banjarbaru.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-banjarbaru.html",
+  "id": "/he/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dakar",
   "short_name": "Časy modliteb v Dakar",
   "description": "Dnešní časy modliteb v Dakar, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dakar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dakar.html",
+  "id": "/cs/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

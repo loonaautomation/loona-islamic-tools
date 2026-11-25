@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nizāmābād",
   "short_name": "Bönetider i Nizāmābād",
   "description": "Dagens bönetider i Nizāmābād, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Nizāmābād.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nizamabad.html",
+  "id": "/sv/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

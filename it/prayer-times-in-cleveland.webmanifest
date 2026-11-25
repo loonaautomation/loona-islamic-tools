@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Cleveland",
   "short_name": "Orari di preghiera a Cleveland",
   "description": "Orari di preghiera di oggi a Cleveland, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Cleveland.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-cleveland.html",
+  "id": "/it/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

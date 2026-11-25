@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Denver",
   "short_name": "Orari di preghiera a Denver",
   "description": "Orari di preghiera di oggi a Denver, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Denver.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-denver.html",
+  "id": "/it/prayer-times-in-denver.html",
   "start_url": "./prayer-times-in-denver.html",
   "scope": "./prayer-times-in-denver.html",
   "display": "standalone",

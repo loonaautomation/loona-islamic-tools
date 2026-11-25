@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Toronto",
   "short_name": "Gebetszeiten in Toronto",
   "description": "Die heutigen Gebetszeiten in Toronto, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Toronto.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-toronto.html",
+  "id": "/de/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

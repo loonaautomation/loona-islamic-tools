@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Virār",
   "short_name": "Часове за намаз в Virār",
   "description": "Днешните часове за намаз в Virār, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Virār.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-virar.html",
+  "id": "/bg/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

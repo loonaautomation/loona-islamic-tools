@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ouagadougou",
   "short_name": "مواقيت الصلاة في Ouagadougou",
   "description": "مواقيت الصلاة اليوم في Ouagadougou، بوركينا فاسو: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOuagadougou.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ouagadougou.html",
+  "id": "/ar/prayer-times-in-ouagadougou.html",
   "start_url": "./prayer-times-in-ouagadougou.html",
   "scope": "./prayer-times-in-ouagadougou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bab Ezzouar",
   "short_name": "Gebetszeiten in Bab Ezzouar",
   "description": "Die heutigen Gebetszeiten in Bab Ezzouar, Algerien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bab Ezzouar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bab-ezzouar.html",
+  "id": "/de/prayer-times-in-bab-ezzouar.html",
   "start_url": "./prayer-times-in-bab-ezzouar.html",
   "scope": "./prayer-times-in-bab-ezzouar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Düsseldorf imaidői",
   "short_name": "Düsseldorf imaidői",
   "description": "A mai imaidők: Düsseldorf, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Düsseldorf számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-duesseldorf.html",
+  "id": "/hu/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

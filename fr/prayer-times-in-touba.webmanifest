@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Touba",
   "short_name": "Heures de prière à Touba",
   "description": "Les heures de prière d’aujourd’hui à Touba, Sénégal : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Touba.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-touba.html",
+  "id": "/fr/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

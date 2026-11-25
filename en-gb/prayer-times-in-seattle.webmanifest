@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Seattle Today",
   "short_name": "Prayer Times in Seattle Today",
   "description": "Today's prayer times in Seattle, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Seattle.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-seattle.html",
+  "id": "/en-gb/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

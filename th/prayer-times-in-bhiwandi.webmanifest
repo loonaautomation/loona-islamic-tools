@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bhiwandi",
   "short_name": "เวลาละหมาดใน Bhiwandi",
   "description": "เวลาละหมาดวันนี้ใน Bhiwandi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bhiwandi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bhiwandi.html",
+  "id": "/th/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

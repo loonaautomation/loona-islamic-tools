@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Alwar",
   "short_name": "เวลาละหมาดใน Alwar",
   "description": "เวลาละหมาดวันนี้ใน Alwar, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Alwar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-alwar.html",
+  "id": "/th/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

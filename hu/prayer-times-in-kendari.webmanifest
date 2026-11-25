@@ -2,7 +2,7 @@
   "name": "Loona Kendari imaidői",
   "short_name": "Kendari imaidői",
   "description": "A mai imaidők: Kendari, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kendari számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kendari.html",
+  "id": "/hu/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

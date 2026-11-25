@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Santa Ana",
   "short_name": "Время намаза в городе Santa Ana",
   "description": "Время намаза на сегодня: Santa Ana, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Santa Ana.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-santa-ana.html",
+  "id": "/ru/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

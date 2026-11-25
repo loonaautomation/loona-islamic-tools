@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Pākdasht",
   "short_name": "Prayer Times in Pākdasht",
   "description": "Today's prayer times in Pākdasht, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Pākdasht.",
-  "id": "/loona-islamic-tools/prayer-times-in-pakdasht.html",
+  "id": "/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

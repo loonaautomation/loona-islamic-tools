@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Probolinggo",
   "short_name": "Gebetszeiten in Probolinggo",
   "description": "Die heutigen Gebetszeiten in Probolinggo, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Probolinggo.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-probolinggo.html",
+  "id": "/de/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

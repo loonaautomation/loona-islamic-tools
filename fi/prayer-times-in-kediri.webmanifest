@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kediri",
   "short_name": "Rukousajat: Kediri",
   "description": "Tämän päivän rukousajat paikassa Kediri, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kediri.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kediri.html",
+  "id": "/fi/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

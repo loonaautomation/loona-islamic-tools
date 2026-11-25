@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Leicester",
   "short_name": "Час намазу в Leicester",
   "description": "Сьогоднішній час намазу в Leicester, Сполучене Королівство: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Leicester.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-leicester.html",
+  "id": "/uk/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

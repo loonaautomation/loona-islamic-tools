@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mymensingh",
   "short_name": "Ώρες Προσευχής στο Mymensingh",
   "description": "Οι σημερινές ώρες προσευχής στο Mymensingh, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Mymensingh.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mymensingh.html",
+  "id": "/el/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

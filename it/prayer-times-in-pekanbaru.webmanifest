@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Pekanbaru",
   "short_name": "Orari di preghiera a Pekanbaru",
   "description": "Orari di preghiera di oggi a Pekanbaru, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Pekanbaru.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-pekanbaru.html",
+  "id": "/it/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

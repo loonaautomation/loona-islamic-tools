@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tangier",
   "short_name": "Časy modliteb v Tangier",
   "description": "Dnešní časy modliteb v Tangier, Maroko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tangier.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tangier.html",
+  "id": "/cs/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kashan",
   "short_name": "Časy modliteb v Kashan",
   "description": "Dnešní časy modliteb v Kashan, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kashan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kashan.html",
+  "id": "/cs/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Melbourne Namaz Vakitleri",
   "short_name": "Melbourne Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Melbourne, Avustralya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Melbourne için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-melbourne.html",
+  "id": "/tr/prayer-times-in-melbourne.html",
   "start_url": "./prayer-times-in-melbourne.html",
   "scope": "./prayer-times-in-melbourne.html",
   "display": "standalone",

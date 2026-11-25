@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Colorado Springs",
   "short_name": "Časy modlitieb v Colorado Springs",
   "description": "Dnešné časy modlitieb v Colorado Springs, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Colorado Springs.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-colorado-springs.html",
+  "id": "/sk/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

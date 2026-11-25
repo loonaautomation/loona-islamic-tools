@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i El Obeid",
   "short_name": "Bønnetider i El Obeid",
   "description": "Dagens bønnetider i El Obeid, Sudan: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for El Obeid.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-el-obeid.html",
+  "id": "/da/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

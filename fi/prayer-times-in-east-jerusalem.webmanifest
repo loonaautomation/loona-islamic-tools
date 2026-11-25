@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: East Jerusalem",
   "short_name": "Rukousajat: East Jerusalem",
   "description": "Tämän päivän rukousajat paikassa East Jerusalem, Palestiina: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle East Jerusalem.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-east-jerusalem.html",
+  "id": "/fi/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

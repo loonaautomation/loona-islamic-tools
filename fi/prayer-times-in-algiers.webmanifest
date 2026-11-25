@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Algiers",
   "short_name": "Rukousajat: Algiers",
   "description": "Tämän päivän rukousajat paikassa Algiers, Algeria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Algiers.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-algiers.html",
+  "id": "/fi/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Vijayawada",
   "short_name": "Horarios de oración en Vijayawada",
   "description": "Horarios de oración de hoy en Vijayawada, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Vijayawada.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-vijayawada.html",
+  "id": "/es/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

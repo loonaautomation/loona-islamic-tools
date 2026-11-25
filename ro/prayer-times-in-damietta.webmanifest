@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Damietta",
   "short_name": "Ore de rugăciune în Damietta",
   "description": "Orele de rugăciune de azi în Damietta, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Damietta.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-damietta.html",
+  "id": "/ro/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kuching",
   "short_name": "مواقيت الصلاة في Kuching",
   "description": "مواقيت الصلاة اليوم في Kuching، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKuching.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kuching.html",
+  "id": "/ar/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

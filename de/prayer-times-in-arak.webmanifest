@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Arāk",
   "short_name": "Gebetszeiten in Arāk",
   "description": "Die heutigen Gebetszeiten in Arāk, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Arāk.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-arak.html",
+  "id": "/de/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jalgaon",
   "short_name": "זמני תפילה בעיר Jalgaon",
   "description": "זמני התפילה של היום בעיר Jalgaon, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jalgaon.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jalgaon.html",
+  "id": "/he/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

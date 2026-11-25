@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Hyderabad",
   "short_name": "Horarios de oración en Hyderabad",
   "description": "Horarios de oración de hoy en Hyderabad, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Hyderabad.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-hyderabad.html",
+  "id": "/es/prayer-times-in-hyderabad.html",
   "start_url": "./prayer-times-in-hyderabad.html",
   "scope": "./prayer-times-in-hyderabad.html",
   "display": "standalone",

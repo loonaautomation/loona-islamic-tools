@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Āmol",
   "short_name": "Horários de Oração em Āmol",
   "description": "Horários de oração de hoje em Āmol, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Āmol.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-amol.html",
+  "id": "/pt-pt/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

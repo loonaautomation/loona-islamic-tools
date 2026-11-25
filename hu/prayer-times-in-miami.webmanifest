@@ -2,7 +2,7 @@
   "name": "Loona Miami imaidői",
   "short_name": "Miami imaidői",
   "description": "A mai imaidők: Miami, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Miami számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-miami.html",
+  "id": "/hu/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

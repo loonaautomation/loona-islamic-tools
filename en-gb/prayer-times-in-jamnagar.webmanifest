@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jamnagar Today",
   "short_name": "Prayer Times in Jamnagar Today",
   "description": "Today's prayer times in Jamnagar, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Jamnagar.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-jamnagar.html",
+  "id": "/en-gb/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

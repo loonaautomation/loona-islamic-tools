@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bogura",
   "short_name": "Ώρες Προσευχής στο Bogura",
   "description": "Οι σημερινές ώρες προσευχής στο Bogura, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Bogura.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bogura.html",
+  "id": "/el/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

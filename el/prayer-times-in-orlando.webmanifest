@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Orlando",
   "short_name": "Ώρες Προσευχής στο Orlando",
   "description": "Οι σημερινές ώρες προσευχής στο Orlando, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Orlando.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-orlando.html",
+  "id": "/el/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

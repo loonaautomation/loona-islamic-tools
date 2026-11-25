@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Zaragoza",
   "short_name": "Heures de prière à Zaragoza",
   "description": "Les heures de prière d’aujourd’hui à Zaragoza, Espagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Zaragoza.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-zaragoza.html",
+  "id": "/fr/prayer-times-in-zaragoza.html",
   "start_url": "./prayer-times-in-zaragoza.html",
   "scope": "./prayer-times-in-zaragoza.html",
   "display": "standalone",

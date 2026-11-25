@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dakar",
   "short_name": "Bønnetider i Dakar",
   "description": "Dagens bønnetider i Dakar, Senegal: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Dakar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-dakar.html",
+  "id": "/da/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

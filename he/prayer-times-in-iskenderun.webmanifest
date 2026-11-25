@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר İskenderun",
   "short_name": "זמני תפילה בעיר İskenderun",
   "description": "זמני התפילה של היום בעיר İskenderun, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור İskenderun.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-iskenderun.html",
+  "id": "/he/prayer-times-in-iskenderun.html",
   "start_url": "./prayer-times-in-iskenderun.html",
   "scope": "./prayer-times-in-iskenderun.html",
   "display": "standalone",

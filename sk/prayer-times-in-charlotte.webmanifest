@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Charlotte",
   "short_name": "Časy modlitieb v Charlotte",
   "description": "Dnešné časy modlitieb v Charlotte, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Charlotte.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-charlotte.html",
+  "id": "/sk/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

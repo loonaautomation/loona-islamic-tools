@@ -2,7 +2,7 @@
   "name": "Loona Yanbu imaidői",
   "short_name": "Yanbu imaidői",
   "description": "A mai imaidők: Yanbu, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Yanbu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-yanbu.html",
+  "id": "/hu/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Graz",
   "short_name": "Gebetszeiten in Graz",
   "description": "Die heutigen Gebetszeiten in Graz, Österreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Graz.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-graz.html",
+  "id": "/de/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

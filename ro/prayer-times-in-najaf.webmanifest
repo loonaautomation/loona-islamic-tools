@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Najaf",
   "short_name": "Ore de rugăciune în Najaf",
   "description": "Orele de rugăciune de azi în Najaf, Irak: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Najaf.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-najaf.html",
+  "id": "/ro/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kirkuk",
   "short_name": "Časy modlitieb v Kirkuk",
   "description": "Dnešné časy modlitieb v Kirkuk, Irak: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Kirkuk.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kirkuk.html",
+  "id": "/sk/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

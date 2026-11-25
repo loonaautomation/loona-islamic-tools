@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Tarsus",
   "short_name": "Время намаза в городе Tarsus",
   "description": "Время намаза на сегодня: Tarsus, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Tarsus.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-tarsus.html",
+  "id": "/ru/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

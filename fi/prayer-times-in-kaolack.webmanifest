@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kaolack",
   "short_name": "Rukousajat: Kaolack",
   "description": "Tämän päivän rukousajat paikassa Kaolack, Senegal: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kaolack.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kaolack.html",
+  "id": "/fi/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

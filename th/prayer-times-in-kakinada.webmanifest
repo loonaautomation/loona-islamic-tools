@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kākināda",
   "short_name": "เวลาละหมาดใน Kākināda",
   "description": "เวลาละหมาดวันนี้ใน Kākināda, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kākināda",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kakinada.html",
+  "id": "/th/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

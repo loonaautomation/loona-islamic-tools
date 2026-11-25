@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Shibganj",
   "short_name": "Časy modlitieb v Shibganj",
   "description": "Dnešné časy modlitieb v Shibganj, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Shibganj.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-shibganj.html",
+  "id": "/sk/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

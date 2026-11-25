@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rohtak",
   "short_name": "Rukousajat: Rohtak",
   "description": "Tämän päivän rukousajat paikassa Rohtak, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Rohtak.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rohtak.html",
+  "id": "/fi/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

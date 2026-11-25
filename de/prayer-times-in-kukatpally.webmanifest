@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kukatpally",
   "short_name": "Gebetszeiten in Kukatpally",
   "description": "Die heutigen Gebetszeiten in Kukatpally, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kukatpally.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kukatpally.html",
+  "id": "/de/prayer-times-in-kukatpally.html",
   "start_url": "./prayer-times-in-kukatpally.html",
   "scope": "./prayer-times-in-kukatpally.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pikine",
   "short_name": "Waktu Salat di Pikine",
   "description": "Waktu salat hari ini di Pikine, Senegal: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Pikine.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pikine.html",
+  "id": "/id/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

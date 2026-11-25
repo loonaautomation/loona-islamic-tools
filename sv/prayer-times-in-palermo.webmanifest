@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Palermo",
   "short_name": "Bönetider i Palermo",
   "description": "Dagens bönetider i Palermo, Italien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Palermo.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-palermo.html",
+  "id": "/sv/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

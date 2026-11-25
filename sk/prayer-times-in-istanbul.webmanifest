@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Istanbul",
   "short_name": "Časy modlitieb v Istanbul",
   "description": "Dnešné časy modlitieb v Istanbul, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Istanbul.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-istanbul.html",
+  "id": "/sk/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Lexington",
   "short_name": "Ώρες Προσευχής στο Lexington",
   "description": "Οι σημερινές ώρες προσευχής στο Lexington, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Lexington.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-lexington.html",
+  "id": "/el/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

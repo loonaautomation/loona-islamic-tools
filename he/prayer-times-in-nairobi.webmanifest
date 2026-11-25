@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nairobi",
   "short_name": "זמני תפילה בעיר Nairobi",
   "description": "זמני התפילה של היום בעיר Nairobi, קניה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Nairobi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nairobi.html",
+  "id": "/he/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

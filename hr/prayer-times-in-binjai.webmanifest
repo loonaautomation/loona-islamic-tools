@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Binjai",
   "short_name": "Vremena namaza u gradu Binjai",
   "description": "Današnja vremena namaza u gradu Binjai, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Binjai.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-binjai.html",
+  "id": "/hr/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

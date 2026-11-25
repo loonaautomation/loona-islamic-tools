@@ -2,7 +2,7 @@
   "name": "Loona Genoa imaidői",
   "short_name": "Genoa imaidői",
   "description": "A mai imaidők: Genoa, Olaszország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Genoa számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-genoa.html",
+  "id": "/hu/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

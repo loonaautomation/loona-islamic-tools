@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Borivli",
   "short_name": "Časy modlitieb v Borivli",
   "description": "Dnešné časy modlitieb v Borivli, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Borivli.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-borivli.html",
+  "id": "/sk/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

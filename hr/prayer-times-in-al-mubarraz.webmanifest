@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Al Mubarraz",
   "short_name": "Vremena namaza u gradu Al Mubarraz",
   "description": "Današnja vremena namaza u gradu Al Mubarraz, Saudijska Arabija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Al Mubarraz.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-al-mubarraz.html",
+  "id": "/hr/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

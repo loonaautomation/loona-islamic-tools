@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mersin",
   "short_name": "مواقيت الصلاة في Mersin",
   "description": "مواقيت الصلاة اليوم في Mersin، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMersin.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mersin.html",
+  "id": "/ar/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

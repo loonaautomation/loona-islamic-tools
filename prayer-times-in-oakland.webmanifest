@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Oakland",
   "short_name": "Prayer Times in Oakland",
   "description": "Today's prayer times in Oakland, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Oakland.",
-  "id": "/loona-islamic-tools/prayer-times-in-oakland.html",
+  "id": "/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

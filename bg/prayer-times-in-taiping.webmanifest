@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Taiping",
   "short_name": "Часове за намаз в Taiping",
   "description": "Днешните часове за намаз в Taiping, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Taiping.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-taiping.html",
+  "id": "/bg/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

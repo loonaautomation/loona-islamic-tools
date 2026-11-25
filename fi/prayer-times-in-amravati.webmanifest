@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Amravati",
   "short_name": "Rukousajat: Amravati",
   "description": "Tämän päivän rukousajat paikassa Amravati, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Amravati.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-amravati.html",
+  "id": "/fi/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

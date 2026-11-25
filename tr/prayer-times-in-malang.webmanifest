@@ -2,7 +2,7 @@
   "name": "Loona Malang Namaz Vakitleri",
   "short_name": "Malang Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Malang, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Malang için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-malang.html",
+  "id": "/tr/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

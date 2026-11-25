@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Multan",
   "short_name": "Vremena namaza u gradu Multan",
   "description": "Današnja vremena namaza u gradu Multan, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Multan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-multan.html",
+  "id": "/hr/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

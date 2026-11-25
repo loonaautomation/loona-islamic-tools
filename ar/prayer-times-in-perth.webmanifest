@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Perth",
   "short_name": "مواقيت الصلاة في Perth",
   "description": "مواقيت الصلاة اليوم في Perth، أستراليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPerth.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-perth.html",
+  "id": "/ar/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

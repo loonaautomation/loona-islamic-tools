@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Manukau City",
   "short_name": "Gebedstijden in Manukau City",
   "description": "De gebedstijden van vandaag in Manukau City, Nieuw-Zeeland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Manukau City.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-manukau-city.html",
+  "id": "/nl/prayer-times-in-manukau-city.html",
   "start_url": "./prayer-times-in-manukau-city.html",
   "scope": "./prayer-times-in-manukau-city.html",
   "display": "standalone",

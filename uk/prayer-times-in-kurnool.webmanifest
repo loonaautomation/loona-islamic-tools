@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kurnool",
   "short_name": "Час намазу в Kurnool",
   "description": "Сьогоднішній час намазу в Kurnool, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kurnool.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kurnool.html",
+  "id": "/uk/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

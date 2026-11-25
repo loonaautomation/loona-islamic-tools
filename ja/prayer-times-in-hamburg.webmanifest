@@ -2,7 +2,7 @@
   "name": "Loona Hamburg の礼拝時刻",
   "short_name": "Hamburg の礼拝時刻",
   "description": "Hamburg（ドイツ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Hamburg についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-hamburg.html",
+  "id": "/ja/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

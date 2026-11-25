@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Beni Mellal",
   "short_name": "Waktu Solat di Beni Mellal",
   "description": "Waktu solat hari ini di Beni Mellal, Maghribi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Beni Mellal.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-beni-mellal.html",
+  "id": "/ms/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

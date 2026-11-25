@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Ḩudaydah",
   "short_name": "مواقيت الصلاة في Al Ḩudaydah",
   "description": "مواقيت الصلاة اليوم في Al Ḩudaydah، اليمن: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAl Ḩudaydah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-hudaydah.html",
+  "id": "/ar/prayer-times-in-al-hudaydah.html",
   "start_url": "./prayer-times-in-al-hudaydah.html",
   "scope": "./prayer-times-in-al-hudaydah.html",
   "display": "standalone",

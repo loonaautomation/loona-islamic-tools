@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Graz",
   "short_name": "Gebedstijden in Graz",
   "description": "De gebedstijden van vandaag in Graz, Oostenrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Graz.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-graz.html",
+  "id": "/nl/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

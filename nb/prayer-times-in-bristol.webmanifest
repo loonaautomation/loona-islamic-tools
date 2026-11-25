@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bristol",
   "short_name": "Bønnetider i Bristol",
   "description": "Dagens bønnetider i Bristol, Storbritannia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Bristol.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bristol.html",
+  "id": "/nb/prayer-times-in-bristol.html",
   "start_url": "./prayer-times-in-bristol.html",
   "scope": "./prayer-times-in-bristol.html",
   "display": "standalone",

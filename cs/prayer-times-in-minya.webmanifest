@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Minya",
   "short_name": "Časy modliteb v Minya",
   "description": "Dnešní časy modliteb v Minya, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Minya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-minya.html",
+  "id": "/cs/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

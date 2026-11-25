@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Miami",
   "short_name": "Bönetider i Miami",
   "description": "Dagens bönetider i Miami, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Miami.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-miami.html",
+  "id": "/sv/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

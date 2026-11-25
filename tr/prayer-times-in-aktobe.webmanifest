@@ -2,7 +2,7 @@
   "name": "Loona Aktobe Namaz Vakitleri",
   "short_name": "Aktobe Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Aktobe, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Aktobe için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-aktobe.html",
+  "id": "/tr/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

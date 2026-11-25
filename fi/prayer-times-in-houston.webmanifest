@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Houston",
   "short_name": "Rukousajat: Houston",
   "description": "Tämän päivän rukousajat paikassa Houston, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Houston.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-houston.html",
+  "id": "/fi/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

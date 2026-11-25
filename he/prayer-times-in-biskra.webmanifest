@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Biskra",
   "short_name": "זמני תפילה בעיר Biskra",
   "description": "זמני התפילה של היום בעיר Biskra, אלג'יריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Biskra.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-biskra.html",
+  "id": "/he/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

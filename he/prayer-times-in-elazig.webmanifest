@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Elazığ",
   "short_name": "זמני תפילה בעיר Elazığ",
   "description": "זמני התפילה של היום בעיר Elazığ, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Elazığ.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-elazig.html",
+  "id": "/he/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

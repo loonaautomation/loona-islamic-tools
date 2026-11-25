@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Najafābād",
   "short_name": "Waktu Salat di Najafābād",
   "description": "Waktu salat hari ini di Najafābād, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Najafābād.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-najafabad.html",
+  "id": "/id/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

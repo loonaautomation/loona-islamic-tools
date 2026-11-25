@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Cuttack",
   "short_name": "Ώρες Προσευχής στο Cuttack",
   "description": "Οι σημερινές ώρες προσευχής στο Cuttack, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Cuttack.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-cuttack.html",
+  "id": "/el/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

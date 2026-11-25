@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ranchi",
   "short_name": "Часове за намаз в Ranchi",
   "description": "Днешните часове за намаз в Ranchi, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Ranchi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ranchi.html",
+  "id": "/bg/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

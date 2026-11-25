@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Khouribga",
   "short_name": "Orari di preghiera a Khouribga",
   "description": "Orari di preghiera di oggi a Khouribga, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Khouribga.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-khouribga.html",
+  "id": "/it/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

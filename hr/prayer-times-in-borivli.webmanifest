@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Borivli",
   "short_name": "Vremena namaza u gradu Borivli",
   "description": "Današnja vremena namaza u gradu Borivli, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Borivli.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-borivli.html",
+  "id": "/hr/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

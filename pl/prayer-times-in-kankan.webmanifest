@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kankan",
   "short_name": "Czasy modlitw w miejscowości Kankan",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kankan, kraj Gwinea: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kankan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kankan.html",
+  "id": "/pl/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Varanasi",
   "short_name": "Часове за намаз в Varanasi",
   "description": "Днешните часове за намаз в Varanasi, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Varanasi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-varanasi.html",
+  "id": "/bg/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

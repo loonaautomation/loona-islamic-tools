@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Gaziantep",
   "short_name": "Orari di preghiera a Gaziantep",
   "description": "Orari di preghiera di oggi a Gaziantep, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Gaziantep.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-gaziantep.html",
+  "id": "/it/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

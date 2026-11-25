@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Abu Dhabi",
   "short_name": "Gebedstijden in Abu Dhabi",
   "description": "Gebedstijden van vandaag in Abu Dhabi, UAE: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Abu Dhabi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-abu-dhabi.html",
+  "id": "/nl/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

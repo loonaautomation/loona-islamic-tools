@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jaipur",
   "short_name": "Bönetider i Jaipur",
   "description": "Dagens bönetider i Jaipur, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Jaipur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jaipur.html",
+  "id": "/sv/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

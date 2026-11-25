@@ -2,7 +2,7 @@
   "name": "Loona Natore的禮拜時間",
   "short_name": "Natore的禮拜時間",
   "description": "Natore（孟加拉國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Natore實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-natore.html",
+  "id": "/zh-hant/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

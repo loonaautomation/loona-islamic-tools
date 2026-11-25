@@ -2,7 +2,7 @@
   "name": "Loona זמן Sehri ו-Iftar היום",
   "short_name": "זמן Sehri ו-Iftar היום",
   "description": "זמני סיום Sehri (Fajr) ו-Iftar (Maghrib) של היום לעיר שלך עם ספירה לאחור חיה לבא. שיטת Karachi, Asr לפי Hanafi כברירת מחדל, ניתן להתאמה.",
-  "id": "/loona-islamic-tools/he/sehri-iftar-today/",
+  "id": "/he/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

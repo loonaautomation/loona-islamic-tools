@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Palangkaraya",
   "short_name": "مواقيت الصلاة في Palangkaraya",
   "description": "مواقيت الصلاة اليوم في Palangkaraya، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPalangkaraya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-palangkaraya.html",
+  "id": "/ar/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

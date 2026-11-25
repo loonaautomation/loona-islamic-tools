@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sandakan",
   "short_name": "זמני תפילה בעיר Sandakan",
   "description": "זמני התפילה של היום בעיר Sandakan, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sandakan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sandakan.html",
+  "id": "/he/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

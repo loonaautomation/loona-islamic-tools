@@ -2,7 +2,7 @@
   "name": "Loona 今日のセフリとイフタールの時刻",
   "short_name": "今日のセフリとイフタールの時刻",
   "description": "あなたの都市の今日のセフリ終了（Fajr）とイフタール（Maghrib）の時刻を、次の時刻までのライブカウントダウンとともに表示します。デフォルトは Karachi 方式と Hanafi の Asr で、調整できます。",
-  "id": "/loona-islamic-tools/ja/sehri-iftar-today/",
+  "id": "/ja/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

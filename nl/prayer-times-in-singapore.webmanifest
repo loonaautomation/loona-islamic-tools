@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Singapore",
   "short_name": "Gebedstijden in Singapore",
   "description": "De gebedstijden van vandaag in Singapore, Singapore: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Singapore.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-singapore.html",
+  "id": "/nl/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

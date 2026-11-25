@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Namangan",
   "short_name": "Час намазу в Namangan",
   "description": "Сьогоднішній час намазу в Namangan, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Namangan.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-namangan.html",
+  "id": "/uk/prayer-times-in-namangan.html",
   "start_url": "./prayer-times-in-namangan.html",
   "scope": "./prayer-times-in-namangan.html",
   "display": "standalone",

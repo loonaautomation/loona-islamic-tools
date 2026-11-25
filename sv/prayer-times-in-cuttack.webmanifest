@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Cuttack",
   "short_name": "Bönetider i Cuttack",
   "description": "Dagens bönetider i Cuttack, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Cuttack.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cuttack.html",
+  "id": "/sv/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

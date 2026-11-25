@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Rabat",
   "short_name": "Orari di preghiera a Rabat",
   "description": "Orari di preghiera di oggi a Rabat, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Rabat.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-rabat.html",
+  "id": "/it/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

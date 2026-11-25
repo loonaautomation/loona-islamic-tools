@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bogura",
   "short_name": "Ore de rugăciune în Bogura",
   "description": "Orele de rugăciune de azi în Bogura, Bangladesh: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Bogura.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bogura.html",
+  "id": "/ro/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Türkmenabat",
   "short_name": "Waktu Solat di Türkmenabat",
   "description": "Waktu solat hari ini di Türkmenabat, Turkmenistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Türkmenabat.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tuerkmenabat.html",
+  "id": "/ms/prayer-times-in-tuerkmenabat.html",
   "start_url": "./prayer-times-in-tuerkmenabat.html",
   "scope": "./prayer-times-in-tuerkmenabat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bilbao",
   "short_name": "Rukousajat: Bilbao",
   "description": "Tämän päivän rukousajat paikassa Bilbao, Espanja: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Bilbao.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bilbao.html",
+  "id": "/fi/prayer-times-in-bilbao.html",
   "start_url": "./prayer-times-in-bilbao.html",
   "scope": "./prayer-times-in-bilbao.html",
   "display": "standalone",

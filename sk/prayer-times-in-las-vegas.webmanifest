@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Las Vegas",
   "short_name": "Časy modlitieb v Las Vegas",
   "description": "Dnešné časy modlitieb v Las Vegas, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Las Vegas.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-las-vegas.html",
+  "id": "/sk/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

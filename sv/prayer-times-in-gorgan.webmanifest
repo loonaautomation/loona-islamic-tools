@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Gorgān",
   "short_name": "Bönetider i Gorgān",
   "description": "Dagens bönetider i Gorgān, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Gorgān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-gorgan.html",
+  "id": "/sv/prayer-times-in-gorgan.html",
   "start_url": "./prayer-times-in-gorgan.html",
   "scope": "./prayer-times-in-gorgan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Karabağlar",
   "short_name": "Rukousajat: Karabağlar",
   "description": "Tämän päivän rukousajat paikassa Karabağlar, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Karabağlar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-karabaglar.html",
+  "id": "/fi/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

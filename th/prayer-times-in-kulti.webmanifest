@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kulti",
   "short_name": "เวลาละหมาดใน Kulti",
   "description": "เวลาละหมาดวันนี้ใน Kulti, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kulti",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kulti.html",
+  "id": "/th/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

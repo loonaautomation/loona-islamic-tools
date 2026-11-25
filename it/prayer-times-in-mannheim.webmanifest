@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mannheim",
   "short_name": "Orari di preghiera a Mannheim",
   "description": "Orari di preghiera di oggi a Mannheim, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Mannheim.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mannheim.html",
+  "id": "/it/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

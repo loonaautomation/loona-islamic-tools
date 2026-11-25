@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Erbil",
   "short_name": "Časy modliteb v Erbil",
   "description": "Dnešní časy modliteb v Erbil, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Erbil.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-erbil.html",
+  "id": "/cs/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

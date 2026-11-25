@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Amritsar",
   "short_name": "Prayer Times in Amritsar",
   "description": "Today's prayer times in Amritsar, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Amritsar.",
-  "id": "/loona-islamic-tools/prayer-times-in-amritsar.html",
+  "id": "/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jaipur",
   "short_name": "Časy modliteb v Jaipur",
   "description": "Dnešní časy modliteb v Jaipur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jaipur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jaipur.html",
+  "id": "/cs/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

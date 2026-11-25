@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Muscat",
   "short_name": "Horarios de oración en Muscat",
   "description": "Horarios de oración de hoy en Muscat, Omán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Muscat.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-muscat.html",
+  "id": "/es/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

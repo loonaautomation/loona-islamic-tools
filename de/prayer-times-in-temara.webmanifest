@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Temara",
   "short_name": "Gebetszeiten in Temara",
   "description": "Die heutigen Gebetszeiten in Temara, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Temara.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-temara.html",
+  "id": "/de/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

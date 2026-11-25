@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Konibodom",
   "short_name": "Bønnetider i Konibodom",
   "description": "Dagens bønnetider i Konibodom, Tadsjikistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Konibodom.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-konibodom.html",
+  "id": "/da/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

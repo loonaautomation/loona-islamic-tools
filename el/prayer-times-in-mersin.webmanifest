@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mersin",
   "short_name": "Ώρες Προσευχής στο Mersin",
   "description": "Οι σημερινές ώρες προσευχής στο Mersin, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Mersin.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mersin.html",
+  "id": "/el/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

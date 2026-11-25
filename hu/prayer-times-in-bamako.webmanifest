@@ -2,7 +2,7 @@
   "name": "Loona Bamako imaidői",
   "short_name": "Bamako imaidői",
   "description": "A mai imaidők: Bamako, Mali: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bamako számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bamako.html",
+  "id": "/hu/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

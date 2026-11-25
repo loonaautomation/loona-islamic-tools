@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Oran",
   "short_name": "Gebetszeiten in Oran",
   "description": "Die heutigen Gebetszeiten in Oran, Algerien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Oran.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-oran.html",
+  "id": "/de/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

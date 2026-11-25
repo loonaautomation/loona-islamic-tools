@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jodhpur",
   "short_name": "Bønnetider i Jodhpur",
   "description": "Dagens bønnetider i Jodhpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Jodhpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jodhpur.html",
+  "id": "/nb/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

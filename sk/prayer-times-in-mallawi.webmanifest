@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Mallawī",
   "short_name": "Časy modlitieb v Mallawī",
   "description": "Dnešné časy modlitieb v Mallawī, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Mallawī.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-mallawi.html",
+  "id": "/sk/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Montréal",
   "short_name": "Часове за намаз в Montréal",
   "description": "Днешните часове за намаз в Montréal, Канада: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Montréal.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-montreal.html",
+  "id": "/bg/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dadu",
   "short_name": "Vremena namaza u gradu Dadu",
   "description": "Današnja vremena namaza u gradu Dadu, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Dadu.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dadu.html",
+  "id": "/hr/prayer-times-in-dadu.html",
   "start_url": "./prayer-times-in-dadu.html",
   "scope": "./prayer-times-in-dadu.html",
   "display": "standalone",

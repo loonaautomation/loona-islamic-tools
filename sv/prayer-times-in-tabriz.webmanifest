@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tabriz",
   "short_name": "Bönetider i Tabriz",
   "description": "Dagens bönetider i Tabriz, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Tabriz.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tabriz.html",
+  "id": "/sv/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

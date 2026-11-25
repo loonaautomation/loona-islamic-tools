@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Luxor",
   "short_name": "Bønnetider i Luxor",
   "description": "Dagens bønnetider i Luxor, Egypt: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Egyptian General Authority, beregnet direkte på enheten din for Luxor.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-luxor.html",
+  "id": "/nb/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

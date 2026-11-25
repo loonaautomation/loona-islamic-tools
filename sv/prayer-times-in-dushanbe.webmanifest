@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dushanbe",
   "short_name": "Bönetider i Dushanbe",
   "description": "Dagens bönetider i Dushanbe, Tadzjikistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Dushanbe.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dushanbe.html",
+  "id": "/sv/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

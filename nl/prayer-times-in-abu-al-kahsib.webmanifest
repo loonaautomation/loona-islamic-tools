@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Abū al-Kahṣīb",
   "short_name": "Gebedstijden in Abū al-Kahṣīb",
   "description": "De gebedstijden van vandaag in Abū al-Kahṣīb, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Abū al-Kahṣīb.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-abu-al-kahsib.html",
+  "id": "/nl/prayer-times-in-abu-al-kahsib.html",
   "start_url": "./prayer-times-in-abu-al-kahsib.html",
   "scope": "./prayer-times-in-abu-al-kahsib.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bannu",
   "short_name": "Bønnetider i Bannu",
   "description": "Dagens bønnetider i Bannu, Pakistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Bannu.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bannu.html",
+  "id": "/da/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

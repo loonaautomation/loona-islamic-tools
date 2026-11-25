@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Lubuklinggau",
   "short_name": "זמני תפילה בעיר Lubuklinggau",
   "description": "זמני התפילה של היום בעיר Lubuklinggau, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Lubuklinggau.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-lubuklinggau.html",
+  "id": "/he/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

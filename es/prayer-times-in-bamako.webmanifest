@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bamako",
   "short_name": "Horarios de oración en Bamako",
   "description": "Horarios de oración de hoy en Bamako, Malí: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Bamako.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bamako.html",
+  "id": "/es/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

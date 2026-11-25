@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Rāmgundam",
   "short_name": "Časy modliteb v Rāmgundam",
   "description": "Dnešní časy modliteb v Rāmgundam, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Rāmgundam.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ramgundam.html",
+  "id": "/cs/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Az Zāwīyah",
   "short_name": "Bønnetider i Az Zāwīyah",
   "description": "Dagens bønnetider i Az Zāwīyah, Libya: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Az Zāwīyah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-az-zawiyah.html",
+  "id": "/nb/prayer-times-in-az-zawiyah.html",
   "start_url": "./prayer-times-in-az-zawiyah.html",
   "scope": "./prayer-times-in-az-zawiyah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rajshahi",
   "short_name": "זמני תפילה בעיר Rajshahi",
   "description": "זמני התפילה של היום בעיר Rajshahi, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rajshahi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rajshahi.html",
+  "id": "/he/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

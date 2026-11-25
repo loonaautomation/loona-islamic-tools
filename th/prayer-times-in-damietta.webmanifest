@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Damietta",
   "short_name": "เวลาละหมาดใน Damietta",
   "description": "เวลาละหมาดวันนี้ใน Damietta, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Damietta",
-  "id": "/loona-islamic-tools/th/prayer-times-in-damietta.html",
+  "id": "/th/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

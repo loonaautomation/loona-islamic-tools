@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bhiwandi",
   "short_name": "Časy modlitieb v Bhiwandi",
   "description": "Dnešné časy modlitieb v Bhiwandi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bhiwandi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bhiwandi.html",
+  "id": "/sk/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

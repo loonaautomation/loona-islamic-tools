@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Lahore",
   "short_name": "เวลาละหมาดใน Lahore",
   "description": "เวลาละหมาดวันนี้ใน Lahore, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Lahore",
-  "id": "/loona-islamic-tools/th/prayer-times-in-lahore.html",
+  "id": "/th/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

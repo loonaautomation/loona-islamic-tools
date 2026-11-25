@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Aurora",
   "short_name": "Horários de Oração em Aurora",
   "description": "Horários de oração de hoje em Aurora, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Aurora.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-aurora.html",
+  "id": "/pt-br/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

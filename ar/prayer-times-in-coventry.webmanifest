@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Coventry",
   "short_name": "مواقيت الصلاة في Coventry",
   "description": "مواقيت الصلاة اليوم في Coventry، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCoventry.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-coventry.html",
+  "id": "/ar/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

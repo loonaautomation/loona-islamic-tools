@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bologna",
   "short_name": "Vremena namaza u gradu Bologna",
   "description": "Današnja vremena namaza u gradu Bologna, Italija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bologna.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bologna.html",
+  "id": "/hr/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

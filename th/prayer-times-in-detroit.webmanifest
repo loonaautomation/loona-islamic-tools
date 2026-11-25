@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Detroit",
   "short_name": "เวลาละหมาดใน Detroit",
   "description": "เวลาละหมาดวันนี้ใน Detroit, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Detroit",
-  "id": "/loona-islamic-tools/th/prayer-times-in-detroit.html",
+  "id": "/th/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

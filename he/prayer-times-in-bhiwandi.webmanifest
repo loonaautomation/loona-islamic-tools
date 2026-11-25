@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhiwandi",
   "short_name": "זמני תפילה בעיר Bhiwandi",
   "description": "זמני התפילה של היום בעיר Bhiwandi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhiwandi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhiwandi.html",
+  "id": "/he/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

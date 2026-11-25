@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Duisburg",
   "short_name": "Gebetszeiten in Duisburg",
   "description": "Die heutigen Gebetszeiten in Duisburg, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Duisburg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-duisburg.html",
+  "id": "/de/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

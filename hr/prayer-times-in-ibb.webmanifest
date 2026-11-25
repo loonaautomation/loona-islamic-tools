@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Ibb",
   "short_name": "Vremena namaza u gradu Ibb",
   "description": "Današnja vremena namaza u gradu Ibb, Jemen: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Ibb.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-ibb.html",
+  "id": "/hr/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

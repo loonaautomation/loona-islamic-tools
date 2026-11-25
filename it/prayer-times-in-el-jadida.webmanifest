@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a El Jadida",
   "short_name": "Orari di preghiera a El Jadida",
   "description": "Orari di preghiera di oggi a El Jadida, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per El Jadida.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-el-jadida.html",
+  "id": "/it/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

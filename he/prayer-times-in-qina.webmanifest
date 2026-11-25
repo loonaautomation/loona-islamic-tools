@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Qina",
   "short_name": "זמני תפילה בעיר Qina",
   "description": "זמני התפילה של היום בעיר Qina, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Qina.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-qina.html",
+  "id": "/he/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

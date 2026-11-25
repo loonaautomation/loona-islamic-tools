@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Qom",
   "short_name": "Horários de Oração em Qom",
   "description": "Horários de oração de hoje em Qom, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Qom.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-qom.html",
+  "id": "/pt-pt/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

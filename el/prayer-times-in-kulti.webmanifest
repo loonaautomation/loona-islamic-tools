@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kulti",
   "short_name": "Ώρες Προσευχής στο Kulti",
   "description": "Οι σημερινές ώρες προσευχής στο Kulti, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kulti.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kulti.html",
+  "id": "/el/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sanandaj",
   "short_name": "Czasy modlitw w miejscowości Sanandaj",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sanandaj, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Sanandaj.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sanandaj.html",
+  "id": "/pl/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

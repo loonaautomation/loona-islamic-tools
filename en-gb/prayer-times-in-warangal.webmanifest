@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Warangal Today",
   "short_name": "Prayer Times in Warangal Today",
   "description": "Today's prayer times in Warangal, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Warangal.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-warangal.html",
+  "id": "/en-gb/prayer-times-in-warangal.html",
   "start_url": "./prayer-times-in-warangal.html",
   "scope": "./prayer-times-in-warangal.html",
   "display": "standalone",

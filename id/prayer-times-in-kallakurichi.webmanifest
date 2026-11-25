@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kallakurichi",
   "short_name": "Waktu Salat di Kallakurichi",
   "description": "Waktu salat hari ini di Kallakurichi, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kallakurichi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kallakurichi.html",
+  "id": "/id/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

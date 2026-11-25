@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Stuttgart",
   "short_name": "Время намаза в городе Stuttgart",
   "description": "Время намаза на сегодня: Stuttgart, Германия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Stuttgart.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-stuttgart.html",
+  "id": "/ru/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

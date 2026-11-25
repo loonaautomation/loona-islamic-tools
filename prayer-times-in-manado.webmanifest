@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Manado",
   "short_name": "Prayer Times in Manado",
   "description": "Today's prayer times in Manado, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Manado.",
-  "id": "/loona-islamic-tools/prayer-times-in-manado.html",
+  "id": "/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

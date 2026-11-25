@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i San Francisco",
   "short_name": "Bønnetider i San Francisco",
   "description": "Dagens bønnetider i San Francisco, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for San Francisco.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-san-francisco.html",
+  "id": "/da/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

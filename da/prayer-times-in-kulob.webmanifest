@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kŭlob",
   "short_name": "Bønnetider i Kŭlob",
   "description": "Dagens bønnetider i Kŭlob, Tadsjikistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kŭlob.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kulob.html",
+  "id": "/da/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

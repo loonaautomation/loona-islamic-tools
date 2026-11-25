@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Essen",
   "short_name": "Gebetszeiten in Essen",
   "description": "Die heutigen Gebetszeiten in Essen, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Essen.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-essen.html",
+  "id": "/de/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

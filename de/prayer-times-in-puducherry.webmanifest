@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Puducherry",
   "short_name": "Gebetszeiten in Puducherry",
   "description": "Die heutigen Gebetszeiten in Puducherry, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Puducherry.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-puducherry.html",
+  "id": "/de/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

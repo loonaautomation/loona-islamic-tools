@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Benghazi",
   "short_name": "Orari di preghiera a Benghazi",
   "description": "Orari di preghiera di oggi a Benghazi, Libia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Benghazi.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-benghazi.html",
+  "id": "/it/prayer-times-in-benghazi.html",
   "start_url": "./prayer-times-in-benghazi.html",
   "scope": "./prayer-times-in-benghazi.html",
   "display": "standalone",

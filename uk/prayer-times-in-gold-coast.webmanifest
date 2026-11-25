@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gold Coast",
   "short_name": "Час намазу в Gold Coast",
   "description": "Сьогоднішній час намазу в Gold Coast, Австралія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Gold Coast.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gold-coast.html",
+  "id": "/uk/prayer-times-in-gold-coast.html",
   "start_url": "./prayer-times-in-gold-coast.html",
   "scope": "./prayer-times-in-gold-coast.html",
   "display": "standalone",

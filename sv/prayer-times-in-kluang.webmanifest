@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kluang",
   "short_name": "Bönetider i Kluang",
   "description": "Dagens bönetider i Kluang, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kluang.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kluang.html",
+  "id": "/sv/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

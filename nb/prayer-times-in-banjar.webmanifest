@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Banjar",
   "short_name": "Bønnetider i Banjar",
   "description": "Dagens bønnetider i Banjar, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Banjar.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-banjar.html",
+  "id": "/nb/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

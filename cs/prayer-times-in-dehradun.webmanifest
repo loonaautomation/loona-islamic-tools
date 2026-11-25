@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dehradun",
   "short_name": "Časy modliteb v Dehradun",
   "description": "Dnešní časy modliteb v Dehradun, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Dehradun.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dehradun.html",
+  "id": "/cs/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

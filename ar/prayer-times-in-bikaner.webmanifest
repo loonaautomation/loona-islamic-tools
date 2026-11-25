@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bikaner",
   "short_name": "مواقيت الصلاة في Bikaner",
   "description": "مواقيت الصلاة اليوم في Bikaner، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBikaner.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bikaner.html",
+  "id": "/ar/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

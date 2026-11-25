@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Adapazarı",
   "short_name": "Časy modliteb v Adapazarı",
   "description": "Dnešní časy modliteb v Adapazarı, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Adapazarı.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-adapazari.html",
+  "id": "/cs/prayer-times-in-adapazari.html",
   "start_url": "./prayer-times-in-adapazari.html",
   "scope": "./prayer-times-in-adapazari.html",
   "display": "standalone",

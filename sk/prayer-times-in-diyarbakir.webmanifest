@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Diyarbakır",
   "short_name": "Časy modlitieb v Diyarbakır",
   "description": "Dnešné časy modlitieb v Diyarbakır, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Diyarbakır.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-diyarbakir.html",
+  "id": "/sk/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

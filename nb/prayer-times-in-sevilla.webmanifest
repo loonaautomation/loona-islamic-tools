@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sevilla",
   "short_name": "Bønnetider i Sevilla",
   "description": "Dagens bønnetider i Sevilla, Spania: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sevilla.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sevilla.html",
+  "id": "/nb/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

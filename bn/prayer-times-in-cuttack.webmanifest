@@ -2,7 +2,7 @@
   "name": "Loona Cuttack-এ নামাজের সময়",
   "short_name": "Cuttack-এ নামাজের সময়",
   "description": "Cuttack, ভারত-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Karachi পদ্ধতি, আপনার ডিভাইসে Cuttack-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-cuttack.html",
+  "id": "/bn/prayer-times-in-cuttack.html",
   "start_url": "./prayer-times-in-cuttack.html",
   "scope": "./prayer-times-in-cuttack.html",
   "display": "standalone",

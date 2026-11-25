@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Nizāmābād",
   "short_name": "Время намаза в городе Nizāmābād",
   "description": "Время намаза на сегодня: Nizāmābād, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Nizāmābād.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-nizamabad.html",
+  "id": "/ru/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Amravati",
   "short_name": "Gebedstijden in Amravati",
   "description": "De gebedstijden van vandaag in Amravati, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Amravati.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-amravati.html",
+  "id": "/nl/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

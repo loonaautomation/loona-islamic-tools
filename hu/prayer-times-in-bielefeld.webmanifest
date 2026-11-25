@@ -2,7 +2,7 @@
   "name": "Loona Bielefeld imaidői",
   "short_name": "Bielefeld imaidői",
   "description": "A mai imaidők: Bielefeld, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bielefeld számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bielefeld.html",
+  "id": "/hu/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

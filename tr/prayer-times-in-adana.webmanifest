@@ -2,7 +2,7 @@
   "name": "Loona Adana Namaz Vakitleri",
   "short_name": "Adana Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Adana, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Adana için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-adana.html",
+  "id": "/tr/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

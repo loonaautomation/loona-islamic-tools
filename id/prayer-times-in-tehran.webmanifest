@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tehran",
   "short_name": "Waktu Salat di Tehran",
   "description": "Waktu salat hari ini di Tehran, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tehran.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tehran.html",
+  "id": "/id/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

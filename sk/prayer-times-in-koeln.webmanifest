@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Köln",
   "short_name": "Časy modlitieb v Köln",
   "description": "Dnešné časy modlitieb v Köln, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Köln.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-koeln.html",
+  "id": "/sk/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Manado",
   "short_name": "Rukousajat: Manado",
   "description": "Tämän päivän rukousajat paikassa Manado, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Manado.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-manado.html",
+  "id": "/fi/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

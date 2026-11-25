@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Winnipeg",
   "short_name": "זמני תפילה בעיר Winnipeg",
   "description": "זמני התפילה של היום בעיר Winnipeg, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Winnipeg.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-winnipeg.html",
+  "id": "/he/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

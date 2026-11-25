@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kabul",
   "short_name": "Bønnetider i Kabul",
   "description": "Dagens bønnetider i Kabul, Afghanistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Kabul.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kabul.html",
+  "id": "/da/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

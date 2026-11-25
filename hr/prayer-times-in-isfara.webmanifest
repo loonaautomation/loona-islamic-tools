@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Isfara",
   "short_name": "Vremena namaza u gradu Isfara",
   "description": "Današnja vremena namaza u gradu Isfara, Tadžikistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Isfara.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-isfara.html",
+  "id": "/hr/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

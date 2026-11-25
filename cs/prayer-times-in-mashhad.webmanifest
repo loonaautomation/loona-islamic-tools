@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mashhad",
   "short_name": "Časy modliteb v Mashhad",
   "description": "Dnešní časy modliteb v Mashhad, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mashhad.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mashhad.html",
+  "id": "/cs/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

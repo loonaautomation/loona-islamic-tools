@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ankara",
   "short_name": "เวลาละหมาดใน Ankara",
   "description": "เวลาละหมาดวันนี้ใน Ankara, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ankara",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ankara.html",
+  "id": "/th/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

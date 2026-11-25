@@ -2,7 +2,7 @@
   "name": "Loona Rohtak Namaz Vakitleri",
   "short_name": "Rohtak Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rohtak, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Rohtak için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rohtak.html",
+  "id": "/tr/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Serekunda",
   "short_name": "Bönetider i Serekunda",
   "description": "Dagens bönetider i Serekunda, Gambia: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Serekunda.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-serekunda.html",
+  "id": "/sv/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

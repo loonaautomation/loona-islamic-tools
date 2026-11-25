@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Las Vegas",
   "short_name": "مواقيت الصلاة في Las Vegas",
   "description": "مواقيت الصلاة اليوم في Las Vegas، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـLas Vegas.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-las-vegas.html",
+  "id": "/ar/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

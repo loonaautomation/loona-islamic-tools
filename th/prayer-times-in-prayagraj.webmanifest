@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Prayagraj",
   "short_name": "เวลาละหมาดใน Prayagraj",
   "description": "เวลาละหมาดวันนี้ใน Prayagraj, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Prayagraj",
-  "id": "/loona-islamic-tools/th/prayer-times-in-prayagraj.html",
+  "id": "/th/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

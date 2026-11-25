@@ -2,7 +2,7 @@
   "name": "Loona Paris imaidői",
   "short_name": "Paris imaidői",
   "description": "A mai imaidők: Paris, Franciaország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Paris számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-paris.html",
+  "id": "/hu/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

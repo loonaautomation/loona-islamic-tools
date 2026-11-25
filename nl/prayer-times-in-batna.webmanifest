@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Batna",
   "short_name": "Gebedstijden in Batna",
   "description": "De gebedstijden van vandaag in Batna, Algerije: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Batna.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-batna.html",
+  "id": "/nl/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

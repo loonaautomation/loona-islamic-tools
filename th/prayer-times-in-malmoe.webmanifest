@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Malmö",
   "short_name": "เวลาละหมาดใน Malmö",
   "description": "เวลาละหมาดวันนี้ใน Malmö, Sweden: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Malmö",
-  "id": "/loona-islamic-tools/th/prayer-times-in-malmoe.html",
+  "id": "/th/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

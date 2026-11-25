@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tulsa",
   "short_name": "Prayer Times in Tulsa",
   "description": "Today's prayer times in Tulsa, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Tulsa.",
-  "id": "/loona-islamic-tools/prayer-times-in-tulsa.html",
+  "id": "/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

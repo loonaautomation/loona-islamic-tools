@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Dhaka",
   "short_name": "Giờ cầu nguyện tại Dhaka",
   "description": "Giờ cầu nguyện hôm nay tại Dhaka, Bangladesh: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Dhaka.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-dhaka.html",
+  "id": "/vi/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

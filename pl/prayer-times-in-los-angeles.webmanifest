@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Los Angeles",
   "short_name": "Czasy modlitw w miejscowości Los Angeles",
   "description": "Dzisiejsze czasy modlitw w miejscowości Los Angeles, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Los Angeles.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-los-angeles.html",
+  "id": "/pl/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

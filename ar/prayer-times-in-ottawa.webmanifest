@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ottawa",
   "short_name": "مواقيت الصلاة في Ottawa",
   "description": "مواقيت الصلاة اليوم في Ottawa، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـOttawa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ottawa.html",
+  "id": "/ar/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

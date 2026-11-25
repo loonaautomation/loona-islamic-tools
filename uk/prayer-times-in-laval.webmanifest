@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Laval",
   "short_name": "Час намазу в Laval",
   "description": "Сьогоднішній час намазу в Laval, Канада: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Laval.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-laval.html",
+  "id": "/uk/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

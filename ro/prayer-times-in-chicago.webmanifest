@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Chicago",
   "short_name": "Ore de rugăciune în Chicago",
   "description": "Orele de rugăciune de azi în Chicago, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Chicago.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-chicago.html",
+  "id": "/ro/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Johannesburg",
   "short_name": "Bönetider i Johannesburg",
   "description": "Dagens bönetider i Johannesburg, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Johannesburg.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-johannesburg.html",
+  "id": "/sv/prayer-times-in-johannesburg.html",
   "start_url": "./prayer-times-in-johannesburg.html",
   "scope": "./prayer-times-in-johannesburg.html",
   "display": "standalone",

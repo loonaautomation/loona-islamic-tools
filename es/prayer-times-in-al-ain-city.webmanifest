@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Al Ain City",
   "short_name": "Horarios de oración en Al Ain City",
   "description": "Horarios de oración de hoy en Al Ain City, Emiratos Árabes Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Al Ain City.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-al-ain-city.html",
+  "id": "/es/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

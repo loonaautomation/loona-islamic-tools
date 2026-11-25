@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Sukkur",
   "short_name": "Ore de rugăciune în Sukkur",
   "description": "Orele de rugăciune de azi în Sukkur, Pakistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Sukkur.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sukkur.html",
+  "id": "/ro/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

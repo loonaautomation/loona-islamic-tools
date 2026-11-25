@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nagpur",
   "short_name": "Bønnetider i Nagpur",
   "description": "Dagens bønnetider i Nagpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Nagpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-nagpur.html",
+  "id": "/nb/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

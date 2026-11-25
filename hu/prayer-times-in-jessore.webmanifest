@@ -2,7 +2,7 @@
   "name": "Loona Jessore imaidői",
   "short_name": "Jessore imaidői",
   "description": "A mai imaidők: Jessore, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Jessore számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-jessore.html",
+  "id": "/hu/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

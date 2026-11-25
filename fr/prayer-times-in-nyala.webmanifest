@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Nyala",
   "short_name": "Heures de prière à Nyala",
   "description": "Les heures de prière d’aujourd’hui à Nyala, Soudan : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Nyala.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-nyala.html",
+  "id": "/fr/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

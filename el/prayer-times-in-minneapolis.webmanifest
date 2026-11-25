@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Minneapolis",
   "short_name": "Ώρες Προσευχής στο Minneapolis",
   "description": "Οι σημερινές ώρες προσευχής στο Minneapolis, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Minneapolis.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-minneapolis.html",
+  "id": "/el/prayer-times-in-minneapolis.html",
   "start_url": "./prayer-times-in-minneapolis.html",
   "scope": "./prayer-times-in-minneapolis.html",
   "display": "standalone",

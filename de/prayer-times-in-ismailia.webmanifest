@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ismailia",
   "short_name": "Gebetszeiten in Ismailia",
   "description": "Die heutigen Gebetszeiten in Ismailia, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Ismailia.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ismailia.html",
+  "id": "/de/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

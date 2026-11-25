@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sheffield",
   "short_name": "مواقيت الصلاة في Sheffield",
   "description": "مواقيت الصلاة اليوم في Sheffield، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSheffield.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sheffield.html",
+  "id": "/ar/prayer-times-in-sheffield.html",
   "start_url": "./prayer-times-in-sheffield.html",
   "scope": "./prayer-times-in-sheffield.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kankan",
   "short_name": "Час намазу в Kankan",
   "description": "Сьогоднішній час намазу в Kankan, Гвінея: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kankan.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kankan.html",
+  "id": "/uk/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

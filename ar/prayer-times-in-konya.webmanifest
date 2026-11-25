@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Konya",
   "short_name": "مواقيت الصلاة في Konya",
   "description": "مواقيت الصلاة اليوم في Konya، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKonya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-konya.html",
+  "id": "/ar/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

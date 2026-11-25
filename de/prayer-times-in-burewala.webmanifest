@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Burewala",
   "short_name": "Gebetszeiten in Burewala",
   "description": "Die heutigen Gebetszeiten in Burewala, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Burewala.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-burewala.html",
+  "id": "/de/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

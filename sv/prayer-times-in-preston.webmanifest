@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Preston",
   "short_name": "Bönetider i Preston",
   "description": "Dagens bönetider i Preston, Storbritannien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Preston.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-preston.html",
+  "id": "/sv/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

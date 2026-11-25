@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Alor Setar",
   "short_name": "Час намазу в Alor Setar",
   "description": "Сьогоднішній час намазу в Alor Setar, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Alor Setar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-alor-setar.html",
+  "id": "/uk/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

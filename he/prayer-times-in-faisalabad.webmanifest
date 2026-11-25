@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Faisalabad",
   "short_name": "זמני תפילה בעיר Faisalabad",
   "description": "זמני התפילה של היום בעיר Faisalabad, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Faisalabad.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-faisalabad.html",
+  "id": "/he/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

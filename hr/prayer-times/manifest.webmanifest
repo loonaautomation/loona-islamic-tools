@@ -2,7 +2,7 @@
   "name": "Loona Današnja vremena namaza",
   "short_name": "Današnja vremena namaza",
   "description": "Dohvatite današnja vremena namaza Fadžr, Dhuhr, Asr, Maghrib i Iša za bilo koji grad: metode Karachi, ISNA, MWL i više, hanefijski ili šafijski Asr, podržane točne koordinate.",
-  "id": "/loona-islamic-tools/hr/prayer-times/",
+  "id": "/hr/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

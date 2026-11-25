@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Baltimore",
   "short_name": "Orari di preghiera a Baltimore",
   "description": "Orari di preghiera di oggi a Baltimore, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Baltimore.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-baltimore.html",
+  "id": "/it/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

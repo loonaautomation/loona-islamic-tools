@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cape Town",
   "short_name": "Gebedstijden in Cape Town",
   "description": "De gebedstijden van vandaag in Cape Town, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Cape Town.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cape-town.html",
+  "id": "/nl/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

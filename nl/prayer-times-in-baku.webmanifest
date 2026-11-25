@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Baku",
   "short_name": "Gebedstijden in Baku",
   "description": "De gebedstijden van vandaag in Baku, Azerbeidzjan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Baku.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-baku.html",
+  "id": "/nl/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

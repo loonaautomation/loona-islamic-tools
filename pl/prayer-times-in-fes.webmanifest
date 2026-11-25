@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Fes",
   "short_name": "Czasy modlitw w miejscowości Fes",
   "description": "Dzisiejsze czasy modlitw w miejscowości Fes, kraj Maroko: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Fes.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-fes.html",
+  "id": "/pl/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

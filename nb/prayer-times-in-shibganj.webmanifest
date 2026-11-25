@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Shibganj",
   "short_name": "Bønnetider i Shibganj",
   "description": "Dagens bønnetider i Shibganj, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Shibganj.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-shibganj.html",
+  "id": "/nb/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

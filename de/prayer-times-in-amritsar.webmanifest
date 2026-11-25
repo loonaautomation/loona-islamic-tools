@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Amritsar",
   "short_name": "Gebetszeiten in Amritsar",
   "description": "Die heutigen Gebetszeiten in Amritsar, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Amritsar.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-amritsar.html",
+  "id": "/de/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

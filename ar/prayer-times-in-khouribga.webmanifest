@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Khouribga",
   "short_name": "مواقيت الصلاة في Khouribga",
   "description": "مواقيت الصلاة اليوم في Khouribga، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKhouribga.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-khouribga.html",
+  "id": "/ar/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

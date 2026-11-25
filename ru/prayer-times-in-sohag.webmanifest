@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sohag",
   "short_name": "Время намаза в городе Sohag",
   "description": "Время намаза на сегодня: Sohag, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Sohag.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sohag.html",
+  "id": "/ru/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

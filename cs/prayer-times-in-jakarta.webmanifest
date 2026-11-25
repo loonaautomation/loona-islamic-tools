@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jakarta",
   "short_name": "Časy modliteb v Jakarta",
   "description": "Dnešní časy modliteb v Jakarta, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jakarta.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jakarta.html",
+  "id": "/cs/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

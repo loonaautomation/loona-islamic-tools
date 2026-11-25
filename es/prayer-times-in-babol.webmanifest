@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bābol",
   "short_name": "Horarios de oración en Bābol",
   "description": "Horarios de oración de hoy en Bābol, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Bābol.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-babol.html",
+  "id": "/es/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

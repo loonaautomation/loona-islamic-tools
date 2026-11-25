@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bamako",
   "short_name": "Время намаза в городе Bamako",
   "description": "Время намаза на сегодня: Bamako, Мали: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Bamako.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bamako.html",
+  "id": "/ru/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

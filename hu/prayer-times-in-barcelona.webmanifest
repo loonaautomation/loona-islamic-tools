@@ -2,7 +2,7 @@
   "name": "Loona Barcelona imaidői",
   "short_name": "Barcelona imaidői",
   "description": "A mai imaidők: Barcelona, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Barcelona számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-barcelona.html",
+  "id": "/hu/prayer-times-in-barcelona.html",
   "start_url": "./prayer-times-in-barcelona.html",
   "scope": "./prayer-times-in-barcelona.html",
   "display": "standalone",

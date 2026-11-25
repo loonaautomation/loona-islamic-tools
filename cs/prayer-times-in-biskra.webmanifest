@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Biskra",
   "short_name": "Časy modliteb v Biskra",
   "description": "Dnešní časy modliteb v Biskra, Alžírsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Biskra.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-biskra.html",
+  "id": "/cs/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

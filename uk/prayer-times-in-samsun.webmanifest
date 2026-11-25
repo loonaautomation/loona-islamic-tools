@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Samsun",
   "short_name": "Час намазу в Samsun",
   "description": "Сьогоднішній час намазу в Samsun, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Samsun.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-samsun.html",
+  "id": "/uk/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

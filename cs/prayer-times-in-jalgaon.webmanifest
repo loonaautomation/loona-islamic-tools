@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jalgaon",
   "short_name": "Časy modliteb v Jalgaon",
   "description": "Dnešní časy modliteb v Jalgaon, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jalgaon.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jalgaon.html",
+  "id": "/cs/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

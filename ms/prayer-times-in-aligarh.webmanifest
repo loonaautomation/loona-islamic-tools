@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Alīgarh",
   "short_name": "Waktu Solat di Alīgarh",
   "description": "Waktu solat hari ini di Alīgarh, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Alīgarh.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-aligarh.html",
+  "id": "/ms/prayer-times-in-aligarh.html",
   "start_url": "./prayer-times-in-aligarh.html",
   "scope": "./prayer-times-in-aligarh.html",
   "display": "standalone",

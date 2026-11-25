@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Diwaniyah",
   "short_name": "Bönetider i Al Diwaniyah",
   "description": "Dagens bönetider i Al Diwaniyah, Irak: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Al Diwaniyah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-diwaniyah.html",
+  "id": "/sv/prayer-times-in-al-diwaniyah.html",
   "start_url": "./prayer-times-in-al-diwaniyah.html",
   "scope": "./prayer-times-in-al-diwaniyah.html",
   "display": "standalone",

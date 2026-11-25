@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Doha",
   "short_name": "مواقيت الصلاة في Doha",
   "description": "مواقيت الصلاة اليوم في Doha، قطر: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDoha.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-doha.html",
+  "id": "/ar/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mumbai imaidői",
   "short_name": "Mumbai imaidői",
   "description": "A mai imaidők: Mumbai, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Mumbai számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mumbai.html",
+  "id": "/hu/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

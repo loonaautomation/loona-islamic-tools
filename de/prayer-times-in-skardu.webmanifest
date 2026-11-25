@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Skardu",
   "short_name": "Gebetszeiten in Skardu",
   "description": "Die heutigen Gebetszeiten in Skardu, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Skardu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-skardu.html",
+  "id": "/de/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

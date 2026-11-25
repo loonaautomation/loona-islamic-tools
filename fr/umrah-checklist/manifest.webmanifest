@@ -2,7 +2,7 @@
   "name": "Loona Liste de préparation à la Omra",
   "short_name": "Liste de préparation à la Omra",
   "description": "Une liste interactive de préparation à la Omra : documents, réservations, bagages, santé et préparation de l’ibadah, avec barre de progression, option d’impression et progression enregistrée sur votre appareil.",
-  "id": "/loona-islamic-tools/fr/umrah-checklist/",
+  "id": "/fr/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

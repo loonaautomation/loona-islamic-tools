@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Palembang",
   "short_name": "Waktu Salat di Palembang",
   "description": "Waktu salat hari ini di Palembang, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Palembang.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-palembang.html",
+  "id": "/id/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

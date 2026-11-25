@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Orūmīyeh",
   "short_name": "مواقيت الصلاة في Orūmīyeh",
   "description": "مواقيت الصلاة اليوم في Orūmīyeh، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOrūmīyeh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-orumiyeh.html",
+  "id": "/ar/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rājkot",
   "short_name": "مواقيت الصلاة في Rājkot",
   "description": "مواقيت الصلاة اليوم في Rājkot، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRājkot.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rajkot.html",
+  "id": "/ar/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

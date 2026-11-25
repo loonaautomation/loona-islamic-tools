@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Pittsburgh",
   "short_name": "Час намазу в Pittsburgh",
   "description": "Сьогоднішній час намазу в Pittsburgh, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Pittsburgh.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-pittsburgh.html",
+  "id": "/uk/prayer-times-in-pittsburgh.html",
   "start_url": "./prayer-times-in-pittsburgh.html",
   "scope": "./prayer-times-in-pittsburgh.html",
   "display": "standalone",

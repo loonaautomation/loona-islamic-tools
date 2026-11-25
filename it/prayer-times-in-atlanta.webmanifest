@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Atlanta",
   "short_name": "Orari di preghiera a Atlanta",
   "description": "Orari di preghiera di oggi a Atlanta, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Atlanta.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-atlanta.html",
+  "id": "/it/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

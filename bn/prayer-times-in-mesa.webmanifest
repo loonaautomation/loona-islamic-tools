@@ -2,7 +2,7 @@
   "name": "Loona Mesa-এ নামাজের সময়",
   "short_name": "Mesa-এ নামাজের সময়",
   "description": "Mesa, যুক্তরাষ্ট্র-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (শাফেয়ি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। ISNA পদ্ধতি, আপনার ডিভাইসে Mesa-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-mesa.html",
+  "id": "/bn/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

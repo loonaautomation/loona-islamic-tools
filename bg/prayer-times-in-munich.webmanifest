@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Munich",
   "short_name": "Часове за намаз в Munich",
   "description": "Днешните часове за намаз в Munich, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Munich.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-munich.html",
+  "id": "/bg/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

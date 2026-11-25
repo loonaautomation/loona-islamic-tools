@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bochum",
   "short_name": "Часове за намаз в Bochum",
   "description": "Днешните часове за намаз в Bochum, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Bochum.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bochum.html",
+  "id": "/bg/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jaipur",
   "short_name": "Bønnetider i Jaipur",
   "description": "Dagens bønnetider i Jaipur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Jaipur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jaipur.html",
+  "id": "/nb/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Djibouti",
   "short_name": "Vremena namaza u gradu Djibouti",
   "description": "Današnja vremena namaza u gradu Džibuti, zemlja Džibuti: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Džibuti.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-djibouti.html",
+  "id": "/hr/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

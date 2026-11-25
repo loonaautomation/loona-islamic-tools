@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Newcastle (Австралия)",
   "short_name": "Время намаза в городе Newcastle (Австралия)",
   "description": "Время намаза на сегодня: Newcastle, Австралия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Newcastle.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-newcastle.html",
+  "id": "/ru/prayer-times-in-newcastle.html",
   "start_url": "./prayer-times-in-newcastle.html",
   "scope": "./prayer-times-in-newcastle.html",
   "display": "standalone",

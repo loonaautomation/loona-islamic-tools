@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Davangere",
   "short_name": "Часове за намаз в Davangere",
   "description": "Днешните часове за намаз в Davangere, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Davangere.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-davangere.html",
+  "id": "/bg/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

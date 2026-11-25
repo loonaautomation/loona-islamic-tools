@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kuala Lumpur",
   "short_name": "Časy modlitieb v Kuala Lumpur",
   "description": "Dnešné časy modlitieb v Kuala Lumpur, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kuala Lumpur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kuala-lumpur.html",
+  "id": "/sk/prayer-times-in-kuala-lumpur.html",
   "start_url": "./prayer-times-in-kuala-lumpur.html",
   "scope": "./prayer-times-in-kuala-lumpur.html",
   "display": "standalone",

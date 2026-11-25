@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Istaravshan",
   "short_name": "Časy modliteb v Istaravshan",
   "description": "Dnešní časy modliteb v Istaravshan, Tádžikistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Istaravshan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-istaravshan.html",
+  "id": "/cs/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

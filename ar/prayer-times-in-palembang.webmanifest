@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Palembang",
   "short_name": "مواقيت الصلاة في Palembang",
   "description": "مواقيت الصلاة اليوم في Palembang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPalembang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-palembang.html",
+  "id": "/ar/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

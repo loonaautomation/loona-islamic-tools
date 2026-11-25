@@ -2,7 +2,7 @@
   "name": "Loona Pristina imaidői",
   "short_name": "Pristina imaidői",
   "description": "A mai imaidők: Pristina, Koszovó: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Pristina számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-pristina.html",
+  "id": "/hu/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rahim Yar Khan",
   "short_name": "Gebetszeiten in Rahim Yar Khan",
   "description": "Die heutigen Gebetszeiten in Rahim Yar Khan, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rahim Yar Khan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rahim-yar-khan.html",
+  "id": "/de/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

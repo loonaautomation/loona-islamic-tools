@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Latakia",
   "short_name": "Bönetider i Latakia",
   "description": "Dagens bönetider i Latakia, Syrien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Latakia.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-latakia.html",
+  "id": "/sv/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

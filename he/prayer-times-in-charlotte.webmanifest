@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Charlotte",
   "short_name": "זמני תפילה בעיר Charlotte",
   "description": "זמני התפילה של היום בעיר Charlotte, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Charlotte.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-charlotte.html",
+  "id": "/he/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

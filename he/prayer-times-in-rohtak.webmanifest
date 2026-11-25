@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rohtak",
   "short_name": "זמני תפילה בעיר Rohtak",
   "description": "זמני התפילה של היום בעיר Rohtak, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rohtak.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rohtak.html",
+  "id": "/he/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jammu",
   "short_name": "Gebetszeiten in Jammu",
   "description": "Die heutigen Gebetszeiten in Jammu, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jammu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jammu.html",
+  "id": "/de/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

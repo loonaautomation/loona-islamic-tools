@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Çankaya",
   "short_name": "Bönetider i Çankaya",
   "description": "Dagens bönetider i Çankaya, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Çankaya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cankaya.html",
+  "id": "/sv/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

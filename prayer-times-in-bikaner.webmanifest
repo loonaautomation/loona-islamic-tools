@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bikaner",
   "short_name": "Prayer Times in Bikaner",
   "description": "Today's prayer times in Bikaner, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Bikaner.",
-  "id": "/loona-islamic-tools/prayer-times-in-bikaner.html",
+  "id": "/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

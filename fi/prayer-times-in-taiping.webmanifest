@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Taiping",
   "short_name": "Rukousajat: Taiping",
   "description": "Tämän päivän rukousajat paikassa Taiping, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Taiping.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-taiping.html",
+  "id": "/fi/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

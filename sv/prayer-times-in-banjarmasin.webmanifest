@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Banjarmasin",
   "short_name": "Bönetider i Banjarmasin",
   "description": "Dagens bönetider i Banjarmasin, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Banjarmasin.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-banjarmasin.html",
+  "id": "/sv/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tunis Namaz Vakitleri",
   "short_name": "Tunis Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tunis, Tunus: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tunis için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tunis.html",
+  "id": "/tr/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

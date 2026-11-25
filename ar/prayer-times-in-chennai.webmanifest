@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Chennai",
   "short_name": "مواقيت الصلاة في Chennai",
   "description": "مواقيت الصلاة اليوم في Chennai، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـChennai.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-chennai.html",
+  "id": "/ar/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

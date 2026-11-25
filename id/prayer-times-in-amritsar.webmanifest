@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Amritsar",
   "short_name": "Waktu Salat di Amritsar",
   "description": "Waktu salat hari ini di Amritsar, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Amritsar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-amritsar.html",
+  "id": "/id/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

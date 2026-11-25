@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kota Kuala Muda",
   "short_name": "Gebetszeiten in Kota Kuala Muda",
   "description": "Die heutigen Gebetszeiten in Kota Kuala Muda, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kota-kuala-muda.html",
+  "id": "/de/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

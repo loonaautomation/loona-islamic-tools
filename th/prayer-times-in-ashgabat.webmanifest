@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ashgabat",
   "short_name": "เวลาละหมาดใน Ashgabat",
   "description": "เวลาละหมาดวันนี้ใน Ashgabat, Turkmenistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ashgabat",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ashgabat.html",
+  "id": "/th/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

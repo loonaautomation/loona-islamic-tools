@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bandar Seri Alam",
   "short_name": "Gebetszeiten in Bandar Seri Alam",
   "description": "Die heutigen Gebetszeiten in Bandar Seri Alam, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Bandar Seri Alam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bandar-seri-alam.html",
+  "id": "/de/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

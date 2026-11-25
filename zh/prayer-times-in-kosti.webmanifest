@@ -2,7 +2,7 @@
   "name": "Loona Kosti的礼拜时间",
   "short_name": "Kosti的礼拜时间",
   "description": "Kosti（苏丹）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Kosti实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-kosti.html",
+  "id": "/zh/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

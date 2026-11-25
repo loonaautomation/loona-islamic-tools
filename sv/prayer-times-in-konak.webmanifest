@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Konak",
   "short_name": "Bönetider i Konak",
   "description": "Dagens bönetider i Konak, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Konak.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-konak.html",
+  "id": "/sv/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

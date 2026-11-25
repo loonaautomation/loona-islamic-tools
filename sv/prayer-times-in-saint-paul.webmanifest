@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Saint Paul",
   "short_name": "Bönetider i Saint Paul",
   "description": "Dagens bönetider i Saint Paul, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Saint Paul.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-saint-paul.html",
+  "id": "/sv/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

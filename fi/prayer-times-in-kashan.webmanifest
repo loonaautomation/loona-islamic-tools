@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kashan",
   "short_name": "Rukousajat: Kashan",
   "description": "Tämän päivän rukousajat paikassa Kashan, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kashan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kashan.html",
+  "id": "/fi/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

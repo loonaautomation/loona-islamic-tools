@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dhārāvi",
   "short_name": "Časy modliteb v Dhārāvi",
   "description": "Dnešní časy modliteb v Dhārāvi, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Dhārāvi.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dharavi.html",
+  "id": "/cs/prayer-times-in-dharavi.html",
   "start_url": "./prayer-times-in-dharavi.html",
   "scope": "./prayer-times-in-dharavi.html",
   "display": "standalone",

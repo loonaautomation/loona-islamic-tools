@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Portland",
   "short_name": "مواقيت الصلاة في Portland",
   "description": "مواقيت الصلاة اليوم في Portland، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـPortland.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-portland.html",
+  "id": "/ar/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

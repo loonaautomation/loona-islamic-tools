@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Guwahati",
   "short_name": "مواقيت الصلاة في Guwahati",
   "description": "مواقيت الصلاة اليوم في Guwahati، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـGuwahati.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-guwahati.html",
+  "id": "/ar/prayer-times-in-guwahati.html",
   "start_url": "./prayer-times-in-guwahati.html",
   "scope": "./prayer-times-in-guwahati.html",
   "display": "standalone",

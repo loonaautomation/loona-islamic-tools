@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Graz",
   "short_name": "Часове за намаз в Graz",
   "description": "Днешните часове за намаз в Graz, Австрия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Graz.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-graz.html",
+  "id": "/bg/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Nairobi",
   "short_name": "Czasy modlitw w miejscowości Nairobi",
   "description": "Dzisiejsze czasy modlitw w miejscowości Nairobi, kraj Kenia: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Nairobi.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-nairobi.html",
+  "id": "/pl/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

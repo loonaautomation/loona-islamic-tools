@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Trabzon",
   "short_name": "Часове за намаз в Trabzon",
   "description": "Днешните часове за намаз в Trabzon, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Trabzon.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-trabzon.html",
+  "id": "/bg/prayer-times-in-trabzon.html",
   "start_url": "./prayer-times-in-trabzon.html",
   "scope": "./prayer-times-in-trabzon.html",
   "display": "standalone",

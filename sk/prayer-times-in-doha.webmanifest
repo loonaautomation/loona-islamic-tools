@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Doha",
   "short_name": "Časy modlitieb v Doha",
   "description": "Dnešné časy modlitieb v Doha, Katar: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Doha.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-doha.html",
+  "id": "/sk/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

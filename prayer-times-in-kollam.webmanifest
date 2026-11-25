@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kollam",
   "short_name": "Prayer Times in Kollam",
   "description": "Today's prayer times in Kollam, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kollam.",
-  "id": "/loona-islamic-tools/prayer-times-in-kollam.html",
+  "id": "/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

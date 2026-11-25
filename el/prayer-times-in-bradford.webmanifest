@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bradford",
   "short_name": "Ώρες Προσευχής στο Bradford",
   "description": "Οι σημερινές ώρες προσευχής στο Bradford, Ηνωμένο Βασίλειο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Bradford.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bradford.html",
+  "id": "/el/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

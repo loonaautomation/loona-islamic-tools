@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kupang",
   "short_name": "Vremena namaza u gradu Kupang",
   "description": "Današnja vremena namaza u gradu Kupang, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kupang.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kupang.html",
+  "id": "/hr/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

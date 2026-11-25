@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Murcia",
   "short_name": "เวลาละหมาดใน Murcia",
   "description": "เวลาละหมาดวันนี้ใน Murcia, Spain: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Murcia",
-  "id": "/loona-islamic-tools/th/prayer-times-in-murcia.html",
+  "id": "/th/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

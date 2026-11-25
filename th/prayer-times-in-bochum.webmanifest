@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bochum",
   "short_name": "เวลาละหมาดใน Bochum",
   "description": "เวลาละหมาดวันนี้ใน Bochum, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bochum",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bochum.html",
+  "id": "/th/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

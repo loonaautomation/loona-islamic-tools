@@ -2,7 +2,7 @@
   "name": "Loona Kalaburagi的禮拜時間",
   "short_name": "Kalaburagi的禮拜時間",
   "description": "Kalaburagi（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Kalaburagi實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-kalaburagi.html",
+  "id": "/zh-hant/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

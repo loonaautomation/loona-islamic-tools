@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jhānsi",
   "short_name": "مواقيت الصلاة في Jhānsi",
   "description": "مواقيت الصلاة اليوم في Jhānsi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJhānsi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jhansi.html",
+  "id": "/ar/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

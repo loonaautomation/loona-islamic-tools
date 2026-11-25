@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Hamburg",
   "short_name": "Время намаза в городе Hamburg",
   "description": "Время намаза на сегодня: Hamburg, Германия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Hamburg.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-hamburg.html",
+  "id": "/ru/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

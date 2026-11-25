@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Samarkand",
   "short_name": "Gebetszeiten in Samarkand",
   "description": "Die heutigen Gebetszeiten in Samarkand, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Samarkand.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-samarkand.html",
+  "id": "/de/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

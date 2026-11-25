@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Loa Janan",
   "short_name": "Waktu Salat di Loa Janan",
   "description": "Waktu salat hari ini di Loa Janan, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Loa Janan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-loa-janan.html",
+  "id": "/id/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

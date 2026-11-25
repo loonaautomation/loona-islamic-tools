@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Navi Mumbai",
   "short_name": "Horarios de oración en Navi Mumbai",
   "description": "Horarios de oración de hoy en Navi Mumbai, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Navi Mumbai.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-navi-mumbai.html",
+  "id": "/es/prayer-times-in-navi-mumbai.html",
   "start_url": "./prayer-times-in-navi-mumbai.html",
   "scope": "./prayer-times-in-navi-mumbai.html",
   "display": "standalone",

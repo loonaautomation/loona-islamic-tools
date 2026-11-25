@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Korba",
   "short_name": "Prayer Times in Korba",
   "description": "Today's prayer times in Korba, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Korba.",
-  "id": "/loona-islamic-tools/prayer-times-in-korba.html",
+  "id": "/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

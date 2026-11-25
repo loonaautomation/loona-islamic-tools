@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Muscat",
   "short_name": "זמני תפילה בעיר Muscat",
   "description": "זמני התפילה של היום בעיר Muscat, עומאן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Muscat.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-muscat.html",
+  "id": "/he/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

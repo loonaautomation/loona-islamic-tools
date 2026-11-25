@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Louisville",
   "short_name": "Ώρες Προσευχής στο Louisville",
   "description": "Οι σημερινές ώρες προσευχής στο Louisville, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Louisville.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-louisville.html",
+  "id": "/el/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

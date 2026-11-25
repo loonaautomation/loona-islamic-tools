@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sanandaj",
   "short_name": "Časy modliteb v Sanandaj",
   "description": "Dnešní časy modliteb v Sanandaj, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sanandaj.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sanandaj.html",
+  "id": "/cs/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

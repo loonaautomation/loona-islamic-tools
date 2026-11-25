@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Houston",
   "short_name": "เวลาละหมาดใน Houston",
   "description": "เวลาละหมาดวันนี้ใน Houston, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Houston",
-  "id": "/loona-islamic-tools/th/prayer-times-in-houston.html",
+  "id": "/th/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

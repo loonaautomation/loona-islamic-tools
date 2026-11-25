@@ -2,7 +2,7 @@
   "name": "Loona Contor Tasbih",
   "short_name": "Contor Tasbih",
   "description": "Un contor digital de tasbih: SubhanAllah, Alhamdulillah și alte presetări, ținte de 33/99/100, urmărirea rundelor, vibrație și totaluri pe viață salvate pe dispozitivul dvs.",
-  "id": "/loona-islamic-tools/ro/tasbih-counter/",
+  "id": "/ro/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

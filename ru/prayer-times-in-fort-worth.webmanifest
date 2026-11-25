@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Fort Worth",
   "short_name": "Время намаза в городе Fort Worth",
   "description": "Время намаза на сегодня: Fort Worth, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Fort Worth.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-fort-worth.html",
+  "id": "/ru/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sehri- ja Iftar-aika tänään",
   "short_name": "Sehri- ja Iftar-aika tänään",
   "description": "Tämän päivän Sehrin päättymis- (Fajr) ja Iftar- (Maghrib) ajat kaupungillesi live-lähtölaskennalla seuraavaan. Karachin menetelmä, Hanafi-Asr oletuksena, säädettävissä.",
-  "id": "/loona-islamic-tools/fi/sehri-iftar-today/",
+  "id": "/fi/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

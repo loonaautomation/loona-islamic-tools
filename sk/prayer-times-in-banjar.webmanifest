@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Banjar",
   "short_name": "Časy modlitieb v Banjar",
   "description": "Dnešné časy modlitieb v Banjar, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Banjar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-banjar.html",
+  "id": "/sk/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

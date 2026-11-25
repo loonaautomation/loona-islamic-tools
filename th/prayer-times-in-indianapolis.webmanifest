@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Indianapolis",
   "short_name": "เวลาละหมาดใน Indianapolis",
   "description": "เวลาละหมาดวันนี้ใน Indianapolis, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Indianapolis",
-  "id": "/loona-islamic-tools/th/prayer-times-in-indianapolis.html",
+  "id": "/th/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

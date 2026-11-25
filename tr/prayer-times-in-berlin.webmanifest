@@ -2,7 +2,7 @@
   "name": "Loona Berlin Namaz Vakitleri",
   "short_name": "Berlin Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Berlin, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Berlin için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-berlin.html",
+  "id": "/tr/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Antakya",
   "short_name": "Horários de Oração em Antakya",
   "description": "Horários de oração de hoje em Antakya, Turquia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Antakya.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-antakya.html",
+  "id": "/pt/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

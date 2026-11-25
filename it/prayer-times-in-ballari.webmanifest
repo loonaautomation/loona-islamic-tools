@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ballari",
   "short_name": "Orari di preghiera a Ballari",
   "description": "Orari di preghiera di oggi a Ballari, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Ballari.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ballari.html",
+  "id": "/it/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

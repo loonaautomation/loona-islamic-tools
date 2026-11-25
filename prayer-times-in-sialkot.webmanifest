@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sialkot",
   "short_name": "Prayer Times in Sialkot",
   "description": "Today's prayer times in Sialkot, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Sialkot.",
-  "id": "/loona-islamic-tools/prayer-times-in-sialkot.html",
+  "id": "/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

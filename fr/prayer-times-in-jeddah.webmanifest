@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Jeddah",
   "short_name": "Heures de prière à Jeddah",
   "description": "Les heures de prière d’aujourd’hui à Jeddah, Arabie saoudite : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Umm al-Qura, calculées en direct sur votre appareil pour Jeddah.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-jeddah.html",
+  "id": "/fr/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

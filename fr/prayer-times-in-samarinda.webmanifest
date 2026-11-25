@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Samarinda",
   "short_name": "Heures de prière à Samarinda",
   "description": "Les heures de prière d’aujourd’hui à Samarinda, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Samarinda.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-samarinda.html",
+  "id": "/fr/prayer-times-in-samarinda.html",
   "start_url": "./prayer-times-in-samarinda.html",
   "scope": "./prayer-times-in-samarinda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Amravati",
   "short_name": "זמני תפילה בעיר Amravati",
   "description": "זמני התפילה של היום בעיר Amravati, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Amravati.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-amravati.html",
+  "id": "/he/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

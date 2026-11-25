@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Namangan",
   "short_name": "זמני תפילה בעיר Namangan",
   "description": "זמני התפילה של היום בעיר Namangan, אוזבקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Namangan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-namangan.html",
+  "id": "/he/prayer-times-in-namangan.html",
   "start_url": "./prayer-times-in-namangan.html",
   "scope": "./prayer-times-in-namangan.html",
   "display": "standalone",

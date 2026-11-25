@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Lucknow",
   "short_name": "Czasy modlitw w miejscowości Lucknow",
   "description": "Dzisiejsze czasy modlitw w miejscowości Lucknow, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Lucknow.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-lucknow.html",
+  "id": "/pl/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

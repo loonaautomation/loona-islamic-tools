@@ -2,7 +2,7 @@
   "name": "Loona Vienna Namaz Vakitleri",
   "short_name": "Vienna Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Vienna, Avusturya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Vienna için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-vienna.html",
+  "id": "/tr/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

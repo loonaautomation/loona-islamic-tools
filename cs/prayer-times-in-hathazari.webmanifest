@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Hāthazāri",
   "short_name": "Časy modliteb v Hāthazāri",
   "description": "Dnešní časy modliteb v Hāthazāri, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Hāthazāri.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-hathazari.html",
+  "id": "/cs/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

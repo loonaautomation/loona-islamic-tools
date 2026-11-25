@@ -2,7 +2,7 @@
   "name": "Loona Howrah Namaz Vakitleri",
   "short_name": "Howrah Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Howrah, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Howrah için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-howrah.html",
+  "id": "/tr/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

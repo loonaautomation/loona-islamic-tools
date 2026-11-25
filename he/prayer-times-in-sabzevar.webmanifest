@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sabzevar",
   "short_name": "זמני תפילה בעיר Sabzevar",
   "description": "זמני התפילה של היום בעיר Sabzevar, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sabzevar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sabzevar.html",
+  "id": "/he/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

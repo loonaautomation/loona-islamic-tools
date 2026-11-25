@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Hoceïma",
   "short_name": "Gebedstijden in Al Hoceïma",
   "description": "De gebedstijden van vandaag in Al Hoceïma, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Hoceïma.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-hoceima.html",
+  "id": "/nl/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

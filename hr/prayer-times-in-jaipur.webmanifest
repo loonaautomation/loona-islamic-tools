@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jaipur",
   "short_name": "Vremena namaza u gradu Jaipur",
   "description": "Današnja vremena namaza u gradu Jaipur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Jaipur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jaipur.html",
+  "id": "/hr/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

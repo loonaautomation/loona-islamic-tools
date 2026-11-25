@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Louisville",
   "short_name": "Gebedstijden in Louisville",
   "description": "De gebedstijden van vandaag in Louisville, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Louisville.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-louisville.html",
+  "id": "/nl/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lahore",
   "short_name": "Bønnetider i Lahore",
   "description": "Dagens bønnetider i Lahore, Pakistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Lahore.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-lahore.html",
+  "id": "/da/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Hoceïma",
   "short_name": "Bønnetider i Al Hoceïma",
   "description": "Dagens bønnetider i Al Hoceïma, Marokko: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Al Hoceïma.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-al-hoceima.html",
+  "id": "/nb/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

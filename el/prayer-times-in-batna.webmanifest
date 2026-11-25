@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Batna",
   "short_name": "Ώρες Προσευχής στο Batna",
   "description": "Οι σημερινές ώρες προσευχής στο Batna, Αλγερία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Batna.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-batna.html",
+  "id": "/el/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

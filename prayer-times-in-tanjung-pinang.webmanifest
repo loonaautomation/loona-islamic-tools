@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tanjung Pinang",
   "short_name": "Prayer Times in Tanjung Pinang",
   "description": "Today's prayer times in Tanjung Pinang, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tanjung Pinang.",
-  "id": "/loona-islamic-tools/prayer-times-in-tanjung-pinang.html",
+  "id": "/prayer-times-in-tanjung-pinang.html",
   "start_url": "./prayer-times-in-tanjung-pinang.html",
   "scope": "./prayer-times-in-tanjung-pinang.html",
   "display": "standalone",

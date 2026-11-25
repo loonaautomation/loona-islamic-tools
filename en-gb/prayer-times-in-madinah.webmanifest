@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Madinah Today",
   "short_name": "Prayer Times in Madinah Today",
   "description": "Today's prayer times in Madinah, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Madinah.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-madinah.html",
+  "id": "/en-gb/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

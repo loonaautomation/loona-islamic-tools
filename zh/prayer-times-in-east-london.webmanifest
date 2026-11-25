@@ -2,7 +2,7 @@
   "name": "Loona East London的礼拜时间",
   "short_name": "East London的礼拜时间",
   "description": "East London（南非）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为East London实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-east-london.html",
+  "id": "/zh/prayer-times-in-east-london.html",
   "start_url": "./prayer-times-in-east-london.html",
   "scope": "./prayer-times-in-east-london.html",
   "display": "standalone",

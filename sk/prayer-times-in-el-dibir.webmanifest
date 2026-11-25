@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v El Dibir",
   "short_name": "Časy modlitieb v El Dibir",
   "description": "Dnešné časy modlitieb v El Dibir, Somálsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre El Dibir.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-el-dibir.html",
+  "id": "/sk/prayer-times-in-el-dibir.html",
   "start_url": "./prayer-times-in-el-dibir.html",
   "scope": "./prayer-times-in-el-dibir.html",
   "display": "standalone",

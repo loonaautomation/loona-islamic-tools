@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pavlodar",
   "short_name": "Waktu Salat di Pavlodar",
   "description": "Waktu salat hari ini di Pavlodar, Kazakhstan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Pavlodar.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pavlodar.html",
+  "id": "/id/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

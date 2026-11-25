@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Diepsloot",
   "short_name": "זמני תפילה בעיר Diepsloot",
   "description": "זמני התפילה של היום בעיר Diepsloot, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Diepsloot.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-diepsloot.html",
+  "id": "/he/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

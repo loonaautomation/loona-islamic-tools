@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Vijayawada",
   "short_name": "Vremena namaza u gradu Vijayawada",
   "description": "Današnja vremena namaza u gradu Vijayawada, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Vijayawada.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-vijayawada.html",
+  "id": "/hr/prayer-times-in-vijayawada.html",
   "start_url": "./prayer-times-in-vijayawada.html",
   "scope": "./prayer-times-in-vijayawada.html",
   "display": "standalone",

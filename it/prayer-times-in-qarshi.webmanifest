@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Qarshi",
   "short_name": "Orari di preghiera a Qarshi",
   "description": "Orari di preghiera di oggi a Qarshi, Uzbekistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Qarshi.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-qarshi.html",
+  "id": "/it/prayer-times-in-qarshi.html",
   "start_url": "./prayer-times-in-qarshi.html",
   "scope": "./prayer-times-in-qarshi.html",
   "display": "standalone",

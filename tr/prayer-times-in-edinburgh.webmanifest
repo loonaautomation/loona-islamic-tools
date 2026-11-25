@@ -2,7 +2,7 @@
   "name": "Loona Edinburgh Namaz Vakitleri",
   "short_name": "Edinburgh Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Edinburgh, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Edinburgh için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-edinburgh.html",
+  "id": "/tr/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

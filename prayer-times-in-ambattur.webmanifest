@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ambattur",
   "short_name": "Prayer Times in Ambattur",
   "description": "Today's prayer times in Ambattur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Ambattur.",
-  "id": "/loona-islamic-tools/prayer-times-in-ambattur.html",
+  "id": "/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

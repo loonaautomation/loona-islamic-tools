@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bogura",
   "short_name": "Время намаза в городе Bogura",
   "description": "Время намаза на сегодня: Bogura, Бангладеш: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Bogura.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bogura.html",
+  "id": "/ru/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

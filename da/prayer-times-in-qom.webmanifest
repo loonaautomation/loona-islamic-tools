@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Qom",
   "short_name": "Bønnetider i Qom",
   "description": "Dagens bønnetider i Qom, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Qom.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-qom.html",
+  "id": "/da/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

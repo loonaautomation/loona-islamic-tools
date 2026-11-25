@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Koeweit-Stad",
   "short_name": "Gebedstijden in Koeweit-Stad",
   "description": "Gebedstijden van vandaag in Koeweit City, Koeweit: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Koeweit City.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kuwait-city.html",
+  "id": "/nl/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

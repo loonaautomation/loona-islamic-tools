@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Amsterdam",
   "short_name": "Rukousajat: Amsterdam",
   "description": "Tämän päivän rukousajat paikassa Amsterdam, Alankomaat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Amsterdam.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-amsterdam.html",
+  "id": "/fi/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

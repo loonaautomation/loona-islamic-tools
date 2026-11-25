@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Herāt",
   "short_name": "Bönetider i Herāt",
   "description": "Dagens bönetider i Herāt, Afghanistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Herāt.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-herat.html",
+  "id": "/sv/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Erzurum",
   "short_name": "Časy modliteb v Erzurum",
   "description": "Dnešní časy modliteb v Erzurum, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Erzurum.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-erzurum.html",
+  "id": "/cs/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

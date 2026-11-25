@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Barishal",
   "short_name": "Часове за намаз в Barishal",
   "description": "Днешните часове за намаз в Barishal, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Barishal.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-barishal.html",
+  "id": "/bg/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

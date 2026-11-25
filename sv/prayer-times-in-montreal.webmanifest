@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Montréal",
   "short_name": "Bönetider i Montréal",
   "description": "Dagens bönetider i Montréal, Kanada: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Montréal.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-montreal.html",
+  "id": "/sv/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

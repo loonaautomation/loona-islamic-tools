@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Padang",
   "short_name": "Gebetszeiten in Padang",
   "description": "Die heutigen Gebetszeiten in Padang, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Padang.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-padang.html",
+  "id": "/de/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pristina",
   "short_name": "Часове за намаз в Pristina",
   "description": "Днешните часове за намаз в Pristina, Косово: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Pristina.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pristina.html",
+  "id": "/bg/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

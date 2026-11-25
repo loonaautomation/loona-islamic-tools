@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Randburg",
   "short_name": "مواقيت الصلاة في Randburg",
   "description": "مواقيت الصلاة اليوم في Randburg، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRandburg.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-randburg.html",
+  "id": "/ar/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

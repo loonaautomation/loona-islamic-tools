@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في London (كندا)",
   "short_name": "مواقيت الصلاة في London (كندا)",
   "description": "مواقيت الصلاة اليوم في London، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـLondon.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-london-canada.html",
+  "id": "/ar/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

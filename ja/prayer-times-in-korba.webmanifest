@@ -2,7 +2,7 @@
   "name": "Loona Korba の礼拝時刻",
   "short_name": "Korba の礼拝時刻",
   "description": "Korba（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Korba についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-korba.html",
+  "id": "/ja/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

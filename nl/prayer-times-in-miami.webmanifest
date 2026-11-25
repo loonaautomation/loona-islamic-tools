@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Miami",
   "short_name": "Gebedstijden in Miami",
   "description": "De gebedstijden van vandaag in Miami, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Miami.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-miami.html",
+  "id": "/nl/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

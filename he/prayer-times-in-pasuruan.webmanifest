@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pasuruan",
   "short_name": "זמני תפילה בעיר Pasuruan",
   "description": "זמני התפילה של היום בעיר Pasuruan, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pasuruan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pasuruan.html",
+  "id": "/he/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

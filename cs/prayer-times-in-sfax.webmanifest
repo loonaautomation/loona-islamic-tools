@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sfax",
   "short_name": "Časy modliteb v Sfax",
   "description": "Dnešní časy modliteb v Sfax, Tunisko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sfax.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sfax.html",
+  "id": "/cs/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

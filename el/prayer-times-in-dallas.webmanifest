@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Dallas",
   "short_name": "Ώρες Προσευχής στο Dallas",
   "description": "Οι σημερινές ώρες προσευχής στο Dallas, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Dallas.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-dallas.html",
+  "id": "/el/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

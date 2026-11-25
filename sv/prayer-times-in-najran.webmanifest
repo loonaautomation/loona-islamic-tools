@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Najrān",
   "short_name": "Bönetider i Najrān",
   "description": "Dagens bönetider i Najrān, Saudiarabien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Umm al-Qura-metoden, beräknad live på din enhet för Najrān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-najran.html",
+  "id": "/sv/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

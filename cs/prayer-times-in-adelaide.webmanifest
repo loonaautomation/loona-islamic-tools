@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Adelaide",
   "short_name": "Časy modliteb v Adelaide",
   "description": "Dnešní časy modliteb v Adelaide, Austrálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Adelaide.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-adelaide.html",
+  "id": "/cs/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

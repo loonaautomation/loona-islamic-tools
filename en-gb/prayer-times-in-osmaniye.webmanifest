@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Osmaniye Today",
   "short_name": "Prayer Times in Osmaniye Today",
   "description": "Today's prayer times in Osmaniye, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Osmaniye.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-osmaniye.html",
+  "id": "/en-gb/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dhārāvi",
   "short_name": "Bönetider i Dhārāvi",
   "description": "Dagens bönetider i Dhārāvi, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Dhārāvi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dharavi.html",
+  "id": "/sv/prayer-times-in-dharavi.html",
   "start_url": "./prayer-times-in-dharavi.html",
   "scope": "./prayer-times-in-dharavi.html",
   "display": "standalone",

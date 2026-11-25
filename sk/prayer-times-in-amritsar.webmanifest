@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Amritsar",
   "short_name": "Časy modlitieb v Amritsar",
   "description": "Dnešné časy modlitieb v Amritsar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Amritsar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-amritsar.html",
+  "id": "/sk/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

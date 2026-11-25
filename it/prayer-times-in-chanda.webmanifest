@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Chānda",
   "short_name": "Orari di preghiera a Chānda",
   "description": "Orari di preghiera di oggi a Chānda, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Chānda.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-chanda.html",
+  "id": "/it/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

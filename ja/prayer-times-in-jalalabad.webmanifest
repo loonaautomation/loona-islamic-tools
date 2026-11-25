@@ -2,7 +2,7 @@
   "name": "Loona Jalālābād の礼拝時刻",
   "short_name": "Jalālābād の礼拝時刻",
   "description": "Jalālābād（アフガニスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Jalālābād についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-jalalabad.html",
+  "id": "/ja/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

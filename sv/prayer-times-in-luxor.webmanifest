@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Luxor",
   "short_name": "Bönetider i Luxor",
   "description": "Dagens bönetider i Luxor, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Luxor.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-luxor.html",
+  "id": "/sv/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

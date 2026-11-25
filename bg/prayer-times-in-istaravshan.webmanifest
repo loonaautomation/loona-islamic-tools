@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Istaravshan",
   "short_name": "Часове за намаз в Istaravshan",
   "description": "Днешните часове за намаз в Istaravshan, Таджикистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Istaravshan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-istaravshan.html",
+  "id": "/bg/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sétif",
   "short_name": "مواقيت الصلاة في Sétif",
   "description": "مواقيت الصلاة اليوم في Sétif، الجزائر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSétif.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-setif.html",
+  "id": "/ar/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

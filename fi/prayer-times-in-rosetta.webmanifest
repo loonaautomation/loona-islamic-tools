@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rosetta",
   "short_name": "Rukousajat: Rosetta",
   "description": "Tämän päivän rukousajat paikassa Rosetta, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rosetta.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rosetta.html",
+  "id": "/fi/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

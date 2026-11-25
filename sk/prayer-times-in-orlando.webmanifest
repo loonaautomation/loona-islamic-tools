@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Orlando",
   "short_name": "Časy modlitieb v Orlando",
   "description": "Dnešné časy modlitieb v Orlando, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Orlando.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-orlando.html",
+  "id": "/sk/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

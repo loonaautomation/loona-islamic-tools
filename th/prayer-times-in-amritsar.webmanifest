@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Amritsar",
   "short_name": "เวลาละหมาดใน Amritsar",
   "description": "เวลาละหมาดวันนี้ใน Amritsar, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Amritsar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-amritsar.html",
+  "id": "/th/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

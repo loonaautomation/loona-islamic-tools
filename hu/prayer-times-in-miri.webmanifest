@@ -2,7 +2,7 @@
   "name": "Loona Miri imaidői",
   "short_name": "Miri imaidői",
   "description": "A mai imaidők: Miri, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Miri számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-miri.html",
+  "id": "/hu/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

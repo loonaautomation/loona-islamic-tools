@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Saint Paul",
   "short_name": "Vremena namaza u gradu Saint Paul",
   "description": "Današnja vremena namaza u gradu Saint Paul, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Saint Paul.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-saint-paul.html",
+  "id": "/hr/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

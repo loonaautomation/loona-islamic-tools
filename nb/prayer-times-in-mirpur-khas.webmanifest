@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mirpur Khas",
   "short_name": "Bønnetider i Mirpur Khas",
   "description": "Dagens bønnetider i Mirpur Khas, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Mirpur Khas.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mirpur-khas.html",
+  "id": "/nb/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

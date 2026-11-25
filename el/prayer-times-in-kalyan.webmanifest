@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Kalyān",
   "short_name": "Ώρες Προσευχής στο Kalyān",
   "description": "Οι σημερινές ώρες προσευχής στο Kalyān, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Kalyān.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-kalyan.html",
+  "id": "/el/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

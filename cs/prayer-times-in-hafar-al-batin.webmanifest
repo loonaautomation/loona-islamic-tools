@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Hafar Al-Batin",
   "short_name": "Časy modliteb v Hafar Al-Batin",
   "description": "Dnešní časy modliteb v Hafar Al-Batin, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-hafar-al-batin.html",
+  "id": "/cs/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

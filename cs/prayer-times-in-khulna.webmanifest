@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Khulna",
   "short_name": "Časy modliteb v Khulna",
   "description": "Dnešní časy modliteb v Khulna, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Khulna.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-khulna.html",
+  "id": "/cs/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

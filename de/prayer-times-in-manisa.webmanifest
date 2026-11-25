@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Manisa",
   "short_name": "Gebetszeiten in Manisa",
   "description": "Die heutigen Gebetszeiten in Manisa, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Manisa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-manisa.html",
+  "id": "/de/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

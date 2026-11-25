@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Pasuruan",
   "short_name": "Časy modliteb v Pasuruan",
   "description": "Dnešní časy modliteb v Pasuruan, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Pasuruan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-pasuruan.html",
+  "id": "/cs/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

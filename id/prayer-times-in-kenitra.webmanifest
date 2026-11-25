@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kenitra",
   "short_name": "Waktu Salat di Kenitra",
   "description": "Waktu salat hari ini di Kenitra, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kenitra.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kenitra.html",
+  "id": "/id/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

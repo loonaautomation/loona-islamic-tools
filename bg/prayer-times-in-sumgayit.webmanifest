@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sumgayit",
   "short_name": "Часове за намаз в Sumgayit",
   "description": "Днешните часове за намаз в Sumgayit, Азербайджан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sumgayit.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sumgayit.html",
+  "id": "/bg/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

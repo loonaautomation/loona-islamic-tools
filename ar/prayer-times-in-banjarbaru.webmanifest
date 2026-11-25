@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banjarbaru",
   "short_name": "مواقيت الصلاة في Banjarbaru",
   "description": "مواقيت الصلاة اليوم في Banjarbaru، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBanjarbaru.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-banjarbaru.html",
+  "id": "/ar/prayer-times-in-banjarbaru.html",
   "start_url": "./prayer-times-in-banjarbaru.html",
   "scope": "./prayer-times-in-banjarbaru.html",
   "display": "standalone",

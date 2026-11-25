@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Teni",
   "short_name": "Horários de Oração em Teni",
   "description": "Horários de oração de hoje em Teni, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Teni.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-teni.html",
+  "id": "/pt-br/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

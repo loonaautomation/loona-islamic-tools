@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Almaty",
   "short_name": "זמני תפילה בעיר Almaty",
   "description": "זמני התפילה של היום בעיר Almaty, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Almaty.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-almaty.html",
+  "id": "/he/prayer-times-in-almaty.html",
   "start_url": "./prayer-times-in-almaty.html",
   "scope": "./prayer-times-in-almaty.html",
   "display": "standalone",

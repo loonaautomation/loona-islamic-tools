@@ -2,7 +2,7 @@
   "name": "Loona タスビーフカウンター",
   "short_name": "タスビーフカウンター",
   "description": "デジタルタスビーフカウンター：SubhanAllah、Alhamdulillah などのプリセット、33/99/100 の目標、ラウンド記録、バイブレーション、デバイスに保存される生涯合計。",
-  "id": "/loona-islamic-tools/ja/tasbih-counter/",
+  "id": "/ja/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

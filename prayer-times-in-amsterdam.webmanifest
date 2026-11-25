@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Amsterdam",
   "short_name": "Prayer Times in Amsterdam",
   "description": "Today's prayer times in Amsterdam, Netherlands: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Amsterdam.",
-  "id": "/loona-islamic-tools/prayer-times-in-amsterdam.html",
+  "id": "/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

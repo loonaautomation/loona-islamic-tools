@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al-Kut",
   "short_name": "Bönetider i Al-Kut",
   "description": "Dagens bönetider i Al-Kut, Irak: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Al-Kut.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-kut.html",
+  "id": "/sv/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

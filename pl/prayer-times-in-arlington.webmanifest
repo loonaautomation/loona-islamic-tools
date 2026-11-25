@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Arlington",
   "short_name": "Czasy modlitw w miejscowości Arlington",
   "description": "Dzisiejsze czasy modlitw w miejscowości Arlington, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Arlington.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-arlington.html",
+  "id": "/pl/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

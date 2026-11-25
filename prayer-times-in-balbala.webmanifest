@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Balbala",
   "short_name": "Prayer Times in Balbala",
   "description": "Today's prayer times in Balbala, Djibouti: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Balbala.",
-  "id": "/loona-islamic-tools/prayer-times-in-balbala.html",
+  "id": "/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

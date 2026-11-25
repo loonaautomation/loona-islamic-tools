@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kāmārhāti",
   "short_name": "Gebetszeiten in Kāmārhāti",
   "description": "Die heutigen Gebetszeiten in Kāmārhāti, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kāmārhāti.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kamarhati.html",
+  "id": "/de/prayer-times-in-kamarhati.html",
   "start_url": "./prayer-times-in-kamarhati.html",
   "scope": "./prayer-times-in-kamarhati.html",
   "display": "standalone",

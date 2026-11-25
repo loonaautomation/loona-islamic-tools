@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nawābganj",
   "short_name": "مواقيت الصلاة في Nawābganj",
   "description": "مواقيت الصلاة اليوم في Nawābganj، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNawābganj.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nawabganj.html",
+  "id": "/ar/prayer-times-in-nawabganj.html",
   "start_url": "./prayer-times-in-nawabganj.html",
   "scope": "./prayer-times-in-nawabganj.html",
   "display": "standalone",

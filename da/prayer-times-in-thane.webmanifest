@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Thāne",
   "short_name": "Bønnetider i Thāne",
   "description": "Dagens bønnetider i Thāne, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Thāne.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-thane.html",
+  "id": "/da/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

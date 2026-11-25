@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Khomeynī Shahr",
   "short_name": "Horários de Oração em Khomeynī Shahr",
   "description": "Horários de oração de hoje em Khomeynī Shahr, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Khomeynī Shahr.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-khomeyni-shahr.html",
+  "id": "/pt/prayer-times-in-khomeyni-shahr.html",
   "start_url": "./prayer-times-in-khomeyni-shahr.html",
   "scope": "./prayer-times-in-khomeyni-shahr.html",
   "display": "standalone",

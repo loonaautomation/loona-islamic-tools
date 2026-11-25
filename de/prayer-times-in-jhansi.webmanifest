@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jhānsi",
   "short_name": "Gebetszeiten in Jhānsi",
   "description": "Die heutigen Gebetszeiten in Jhānsi, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jhānsi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jhansi.html",
+  "id": "/de/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

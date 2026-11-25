@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Sanandaj",
   "short_name": "Horários de Oração em Sanandaj",
   "description": "Horários de oração de hoje em Sanandaj, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Sanandaj.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-sanandaj.html",
+  "id": "/pt/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

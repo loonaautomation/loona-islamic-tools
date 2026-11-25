@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Osh",
   "short_name": "Ώρες Προσευχής στο Osh",
   "description": "Οι σημερινές ώρες προσευχής στο Osh, Κιργιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Osh.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-osh.html",
+  "id": "/el/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sydney",
   "short_name": "Ώρες Προσευχής στο Sydney",
   "description": "Οι σημερινές ώρες προσευχής στο Sydney, Αυστραλία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Sydney.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sydney.html",
+  "id": "/el/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

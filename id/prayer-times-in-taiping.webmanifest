@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Taiping",
   "short_name": "Waktu Salat di Taiping",
   "description": "Waktu salat hari ini di Taiping, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Taiping.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-taiping.html",
+  "id": "/id/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

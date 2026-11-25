@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Klungkung",
   "short_name": "Bønnetider i Klungkung",
   "description": "Dagens bønnetider i Klungkung, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Klungkung.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-klungkung.html",
+  "id": "/nb/prayer-times-in-klungkung.html",
   "start_url": "./prayer-times-in-klungkung.html",
   "scope": "./prayer-times-in-klungkung.html",
   "display": "standalone",

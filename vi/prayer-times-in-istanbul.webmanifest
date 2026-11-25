@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Istanbul",
   "short_name": "Giờ cầu nguyện tại Istanbul",
   "description": "Giờ cầu nguyện hôm nay tại Istanbul, Türkiye: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cùng hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Istanbul.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-istanbul.html",
+  "id": "/vi/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sanandaj",
   "short_name": "Gebetszeiten in Sanandaj",
   "description": "Die heutigen Gebetszeiten in Sanandaj, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sanandaj.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sanandaj.html",
+  "id": "/de/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Hargeysa",
   "short_name": "Heures de prière à Hargeysa",
   "description": "Les heures de prière d’aujourd’hui à Hargeysa, Somalie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Hargeysa.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-hargeysa.html",
+  "id": "/fr/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

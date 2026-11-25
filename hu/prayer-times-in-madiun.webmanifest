@@ -2,7 +2,7 @@
   "name": "Loona Madiun imaidői",
   "short_name": "Madiun imaidői",
   "description": "A mai imaidők: Madiun, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Madiun számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-madiun.html",
+  "id": "/hu/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

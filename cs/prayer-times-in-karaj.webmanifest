@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Karaj",
   "short_name": "Časy modliteb v Karaj",
   "description": "Dnešní časy modliteb v Karaj, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Karaj.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-karaj.html",
+  "id": "/cs/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

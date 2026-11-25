@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Alwar",
   "short_name": "Bønnetider i Alwar",
   "description": "Dagens bønnetider i Alwar, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Alwar.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-alwar.html",
+  "id": "/da/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

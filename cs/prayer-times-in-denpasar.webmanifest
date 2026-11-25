@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Denpasar",
   "short_name": "Časy modliteb v Denpasar",
   "description": "Dnešní časy modliteb v Denpasar, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Denpasar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-denpasar.html",
+  "id": "/cs/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

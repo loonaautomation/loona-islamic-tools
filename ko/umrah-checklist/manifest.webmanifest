@@ -2,7 +2,7 @@
   "name": "Loona 움라 체크리스트",
   "short_name": "움라 체크리스트",
   "description": "대화형 움라 체크리스트: 서류, 예약, 짐 싸기, 건강, 이바다 준비를 진행 바, 인쇄 옵션과 함께 제공하며, 진행 상황은 기기에 저장돼요.",
-  "id": "/loona-islamic-tools/ko/umrah-checklist/",
+  "id": "/ko/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

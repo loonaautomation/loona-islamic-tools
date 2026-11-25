@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tétouan",
   "short_name": "Waktu Salat di Tétouan",
   "description": "Waktu salat hari ini di Tétouan, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tétouan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tetouan.html",
+  "id": "/id/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

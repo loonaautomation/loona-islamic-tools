@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Karaj",
   "short_name": "Bønnetider i Karaj",
   "description": "Dagens bønnetider i Karaj, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Karaj.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-karaj.html",
+  "id": "/da/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

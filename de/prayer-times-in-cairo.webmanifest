@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cairo",
   "short_name": "Gebetszeiten in Cairo",
   "description": "Die heutigen Gebetszeiten in Cairo, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Cairo.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cairo.html",
+  "id": "/de/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

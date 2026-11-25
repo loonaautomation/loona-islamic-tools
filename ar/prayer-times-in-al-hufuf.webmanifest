@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al Hufūf",
   "short_name": "مواقيت الصلاة في Al Hufūf",
   "description": "مواقيت الصلاة اليوم في Al Hufūf، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـAl Hufūf.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-hufuf.html",
+  "id": "/ar/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

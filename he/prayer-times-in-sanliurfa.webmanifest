@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Şanlıurfa",
   "short_name": "זמני תפילה בעיר Şanlıurfa",
   "description": "זמני התפילה של היום בעיר Şanlıurfa, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Şanlıurfa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sanliurfa.html",
+  "id": "/he/prayer-times-in-sanliurfa.html",
   "start_url": "./prayer-times-in-sanliurfa.html",
   "scope": "./prayer-times-in-sanliurfa.html",
   "display": "standalone",

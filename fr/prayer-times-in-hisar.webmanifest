@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Hisar",
   "short_name": "Heures de prière à Hisar",
   "description": "Les heures de prière d’aujourd’hui à Hisar, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Hisar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-hisar.html",
+  "id": "/fr/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

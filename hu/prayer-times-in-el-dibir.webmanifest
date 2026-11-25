@@ -2,7 +2,7 @@
   "name": "Loona El Dibir imaidői",
   "short_name": "El Dibir imaidői",
   "description": "A mai imaidők: El Dibir, Szomália: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén El Dibir számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-el-dibir.html",
+  "id": "/hu/prayer-times-in-el-dibir.html",
   "start_url": "./prayer-times-in-el-dibir.html",
   "scope": "./prayer-times-in-el-dibir.html",
   "display": "standalone",

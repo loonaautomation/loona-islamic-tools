@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sikasso",
   "short_name": "Rukousajat: Sikasso",
   "description": "Tämän päivän rukousajat paikassa Sikasso, Mali: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sikasso.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sikasso.html",
+  "id": "/fi/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

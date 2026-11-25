@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sétif",
   "short_name": "Bønnetider i Sétif",
   "description": "Dagens bønnetider i Sétif, Algerie: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sétif.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-setif.html",
+  "id": "/nb/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Port Said",
   "short_name": "Waktu Solat di Port Said",
   "description": "Waktu solat hari ini di Port Said, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Port Said.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-port-said.html",
+  "id": "/ms/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

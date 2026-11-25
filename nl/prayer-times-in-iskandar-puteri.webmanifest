@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Iskandar Puteri",
   "short_name": "Gebedstijden in Iskandar Puteri",
   "description": "De gebedstijden van vandaag in Iskandar Puteri, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Iskandar Puteri.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-iskandar-puteri.html",
+  "id": "/nl/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

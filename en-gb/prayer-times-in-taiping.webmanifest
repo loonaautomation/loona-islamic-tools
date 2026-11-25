@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Taiping Today",
   "short_name": "Prayer Times in Taiping Today",
   "description": "Today's prayer times in Taiping, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Taiping.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-taiping.html",
+  "id": "/en-gb/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

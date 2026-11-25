@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kayseri",
   "short_name": "Bönetider i Kayseri",
   "description": "Dagens bönetider i Kayseri, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kayseri.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kayseri.html",
+  "id": "/sv/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

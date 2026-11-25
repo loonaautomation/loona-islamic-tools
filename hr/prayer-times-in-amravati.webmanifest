@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Amravati",
   "short_name": "Vremena namaza u gradu Amravati",
   "description": "Današnja vremena namaza u gradu Amravati, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Amravati.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-amravati.html",
+  "id": "/hr/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

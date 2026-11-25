@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Surabaya",
   "short_name": "Časy modliteb v Surabaya",
   "description": "Dnešní časy modliteb v Surabaya, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Surabaya.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-surabaya.html",
+  "id": "/cs/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

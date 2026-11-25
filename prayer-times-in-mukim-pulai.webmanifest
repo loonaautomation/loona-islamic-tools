@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mukim Pulai",
   "short_name": "Prayer Times in Mukim Pulai",
   "description": "Today's prayer times in Mukim Pulai, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Mukim Pulai.",
-  "id": "/loona-islamic-tools/prayer-times-in-mukim-pulai.html",
+  "id": "/prayer-times-in-mukim-pulai.html",
   "start_url": "./prayer-times-in-mukim-pulai.html",
   "scope": "./prayer-times-in-mukim-pulai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Medan",
   "short_name": "Bønnetider i Medan",
   "description": "Dagens bønnetider i Medan, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Medan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-medan.html",
+  "id": "/da/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

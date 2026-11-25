@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dinajpur",
   "short_name": "Gebetszeiten in Dinajpur",
   "description": "Die heutigen Gebetszeiten in Dinajpur, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Dinajpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dinajpur.html",
+  "id": "/de/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Columbus Namaz Vakitleri",
   "short_name": "Columbus Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Columbus, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Columbus için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-columbus.html",
+  "id": "/tr/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

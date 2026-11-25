@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Namangan",
   "short_name": "Orari di preghiera a Namangan",
   "description": "Orari di preghiera di oggi a Namangan, Uzbekistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Namangan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-namangan.html",
+  "id": "/it/prayer-times-in-namangan.html",
   "start_url": "./prayer-times-in-namangan.html",
   "scope": "./prayer-times-in-namangan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Alicante",
   "short_name": "Bönetider i Alicante",
   "description": "Dagens bönetider i Alicante, Spanien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Alicante.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-alicante.html",
+  "id": "/sv/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

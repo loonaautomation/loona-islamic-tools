@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Istaravshan",
   "short_name": "Horários de Oração em Istaravshan",
   "description": "Horários de oração de hoje em Istaravshan, Tajiquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Istaravshan.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-istaravshan.html",
+  "id": "/pt/prayer-times-in-istaravshan.html",
   "start_url": "./prayer-times-in-istaravshan.html",
   "scope": "./prayer-times-in-istaravshan.html",
   "display": "standalone",

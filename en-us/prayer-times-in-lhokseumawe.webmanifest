@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Lhokseumawe Today",
   "short_name": "Prayer Times in Lhokseumawe Today",
   "description": "Today's prayer times in Lhokseumawe, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Lhokseumawe.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-lhokseumawe.html",
+  "id": "/en-us/prayer-times-in-lhokseumawe.html",
   "start_url": "./prayer-times-in-lhokseumawe.html",
   "scope": "./prayer-times-in-lhokseumawe.html",
   "display": "standalone",

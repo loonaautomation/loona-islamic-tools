@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Oslo",
   "short_name": "เวลาละหมาดใน Oslo",
   "description": "เวลาละหมาดวันนี้ใน Oslo, Norway: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Oslo",
-  "id": "/loona-islamic-tools/th/prayer-times-in-oslo.html",
+  "id": "/th/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

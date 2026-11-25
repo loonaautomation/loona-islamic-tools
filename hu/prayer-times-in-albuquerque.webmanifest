@@ -2,7 +2,7 @@
   "name": "Loona Albuquerque imaidői",
   "short_name": "Albuquerque imaidői",
   "description": "A mai imaidők: Albuquerque, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Albuquerque számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-albuquerque.html",
+  "id": "/hu/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

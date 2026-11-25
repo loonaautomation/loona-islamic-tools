@@ -2,7 +2,7 @@
   "name": "Loona তাসবীহ কাউন্টার",
   "short_name": "তাসবীহ কাউন্টার",
   "description": "ডিজিটাল তসবিহ কাউন্টার: SubhanAllah, Alhamdulillahসহ আরও প্রিসেট, 33/99/100 লক্ষ্য, রাউন্ড ট্র্যাকিং, কম্পন এবং আপনার ডিভাইসে সংরক্ষিত আজীবন মোট সংখ্যা।",
-  "id": "/loona-islamic-tools/bn/tasbih-counter/",
+  "id": "/bn/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

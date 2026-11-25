@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sylhet",
   "short_name": "Час намазу в Sylhet",
   "description": "Сьогоднішній час намазу в Sylhet, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Sylhet.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sylhet.html",
+  "id": "/uk/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

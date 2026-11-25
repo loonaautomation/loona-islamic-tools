@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Lagos",
   "short_name": "Время намаза в городе Lagos",
   "description": "Время намаза на сегодня: Lagos, Нигерия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Lagos.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-lagos.html",
+  "id": "/ru/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Miri Today",
   "short_name": "Prayer Times in Miri Today",
   "description": "Today's prayer times in Miri, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Miri.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-miri.html",
+  "id": "/en-us/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

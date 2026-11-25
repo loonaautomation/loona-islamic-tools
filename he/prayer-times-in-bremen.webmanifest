@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bremen",
   "short_name": "זמני תפילה בעיר Bremen",
   "description": "זמני התפילה של היום בעיר Bremen, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bremen.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bremen.html",
+  "id": "/he/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

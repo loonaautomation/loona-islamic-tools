@@ -2,7 +2,7 @@
   "name": "Loona Ежемесячное расписание намазов",
   "short_name": "Ежемесячное расписание намазов",
   "description": "Создайте печатное месячное расписание намазов для любого города: все шесть времён на весь месяц, с вашим методом расчёта и школой Асра, бесплатно и приватно.",
-  "id": "/loona-islamic-tools/ru/monthly-prayer-timetable/",
+  "id": "/ru/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

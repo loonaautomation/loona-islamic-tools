@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Batman",
   "short_name": "Časy modlitieb v Batman",
   "description": "Dnešné časy modlitieb v Batman, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Batman.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-batman.html",
+  "id": "/sk/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

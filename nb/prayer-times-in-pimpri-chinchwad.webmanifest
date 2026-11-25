@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pimpri-Chinchwad",
   "short_name": "Bønnetider i Pimpri-Chinchwad",
   "description": "Dagens bønnetider i Pimpri-Chinchwad, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Pimpri-Chinchwad.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-pimpri-chinchwad.html",
+  "id": "/nb/prayer-times-in-pimpri-chinchwad.html",
   "start_url": "./prayer-times-in-pimpri-chinchwad.html",
   "scope": "./prayer-times-in-pimpri-chinchwad.html",
   "display": "standalone",

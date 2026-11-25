@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Camayenne",
   "short_name": "Horarios de oración en Camayenne",
   "description": "Horarios de oración de hoy en Camayenne, Guinea: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Camayenne.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-camayenne.html",
+  "id": "/es/prayer-times-in-camayenne.html",
   "start_url": "./prayer-times-in-camayenne.html",
   "scope": "./prayer-times-in-camayenne.html",
   "display": "standalone",

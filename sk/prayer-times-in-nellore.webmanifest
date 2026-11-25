@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Nellore",
   "short_name": "Časy modlitieb v Nellore",
   "description": "Dnešné časy modlitieb v Nellore, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Nellore.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-nellore.html",
+  "id": "/sk/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

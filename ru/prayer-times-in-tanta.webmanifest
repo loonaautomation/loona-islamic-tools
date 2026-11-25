@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Tanta",
   "short_name": "Время намаза в городе Tanta",
   "description": "Время намаза на сегодня: Tanta, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Tanta.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-tanta.html",
+  "id": "/ru/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

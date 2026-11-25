@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Esna",
   "short_name": "Rukousajat: Esna",
   "description": "Tämän päivän rukousajat paikassa Esna, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Esna.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-esna.html",
+  "id": "/fi/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

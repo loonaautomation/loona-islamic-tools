@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Algiers",
   "short_name": "Часове за намаз в Algiers",
   "description": "Днешните часове за намаз в Algiers, Алжир: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Algiers.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-algiers.html",
+  "id": "/bg/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

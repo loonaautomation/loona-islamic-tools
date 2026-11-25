@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Los Angeles",
   "short_name": "Gebedstijden in Los Angeles",
   "description": "De gebedstijden van vandaag in Los Angeles, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Los Angeles.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-los-angeles.html",
+  "id": "/nl/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

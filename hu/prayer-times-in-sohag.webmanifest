@@ -2,7 +2,7 @@
   "name": "Loona Sohag imaidői",
   "short_name": "Sohag imaidői",
   "description": "A mai imaidők: Sohag, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Sohag számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sohag.html",
+  "id": "/hu/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

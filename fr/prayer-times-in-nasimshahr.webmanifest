@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Nasimshahr",
   "short_name": "Heures de prière à Nasimshahr",
   "description": "Les heures de prière d’aujourd’hui à Nasimshahr, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Nasimshahr.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-nasimshahr.html",
+  "id": "/fr/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

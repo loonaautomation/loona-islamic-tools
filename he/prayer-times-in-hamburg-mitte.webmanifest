@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hamburg-Mitte",
   "short_name": "זמני תפילה בעיר Hamburg-Mitte",
   "description": "זמני התפילה של היום בעיר Hamburg-Mitte, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hamburg-mitte.html",
+  "id": "/he/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

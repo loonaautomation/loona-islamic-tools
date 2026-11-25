@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jamshedpur",
   "short_name": "Час намазу в Jamshedpur",
   "description": "Сьогоднішній час намазу в Jamshedpur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jamshedpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jamshedpur.html",
+  "id": "/uk/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

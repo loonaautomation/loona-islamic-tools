@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Al Jubayl",
   "short_name": "Prayer Times in Al Jubayl",
   "description": "Today's prayer times in Al Jubayl, Saudi Arabia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Umm al-Qura method, calculated live on your device for Al Jubayl.",
-  "id": "/loona-islamic-tools/prayer-times-in-al-jubayl.html",
+  "id": "/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

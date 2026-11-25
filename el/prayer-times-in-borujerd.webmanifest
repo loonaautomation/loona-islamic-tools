@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Borūjerd",
   "short_name": "Ώρες Προσευχής στο Borūjerd",
   "description": "Οι σημερινές ώρες προσευχής στο Borūjerd, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Borūjerd.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-borujerd.html",
+  "id": "/el/prayer-times-in-borujerd.html",
   "start_url": "./prayer-times-in-borujerd.html",
   "scope": "./prayer-times-in-borujerd.html",
   "display": "standalone",

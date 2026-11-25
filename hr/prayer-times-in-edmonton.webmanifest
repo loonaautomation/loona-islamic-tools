@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Edmonton",
   "short_name": "Vremena namaza u gradu Edmonton",
   "description": "Današnja vremena namaza u gradu Edmonton, Kanada: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Edmonton.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-edmonton.html",
+  "id": "/hr/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

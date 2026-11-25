@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Aurora",
   "short_name": "Bønnetider i Aurora",
   "description": "Dagens bønnetider i Aurora, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Aurora.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-aurora.html",
+  "id": "/da/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

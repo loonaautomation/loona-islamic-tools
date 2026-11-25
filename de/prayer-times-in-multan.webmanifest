@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Multan",
   "short_name": "Gebetszeiten in Multan",
   "description": "Die heutigen Gebetszeiten in Multan, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Multan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-multan.html",
+  "id": "/de/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

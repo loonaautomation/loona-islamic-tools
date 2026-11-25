@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Oakland",
   "short_name": "Gebedstijden in Oakland",
   "description": "De gebedstijden van vandaag in Oakland, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Oakland.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-oakland.html",
+  "id": "/nl/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

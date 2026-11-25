@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Serang",
   "short_name": "Orari di preghiera a Serang",
   "description": "Orari di preghiera di oggi a Serang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Serang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-serang.html",
+  "id": "/it/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jamnagar",
   "short_name": "Gebedstijden in Jamnagar",
   "description": "De gebedstijden van vandaag in Jamnagar, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jamnagar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jamnagar.html",
+  "id": "/nl/prayer-times-in-jamnagar.html",
   "start_url": "./prayer-times-in-jamnagar.html",
   "scope": "./prayer-times-in-jamnagar.html",
   "display": "standalone",

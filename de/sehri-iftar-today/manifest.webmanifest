@@ -2,7 +2,7 @@
   "name": "Loona Sehri- & Iftar-Zeit heute",
   "short_name": "Sehri- & Iftar-Zeit heute",
   "description": "Die heutigen Sehri-End- (Fajr) und Iftar- (Maghrib) Zeiten für Ihre Stadt mit einem Live-Countdown zur nächsten. Karachi-Methode, standardmäßig Hanafi-Asr, anpassbar.",
-  "id": "/loona-islamic-tools/de/sehri-iftar-today/",
+  "id": "/de/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

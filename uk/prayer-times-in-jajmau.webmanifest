@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jājmau",
   "short_name": "Час намазу в Jājmau",
   "description": "Сьогоднішній час намазу в Jājmau, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jājmau.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jajmau.html",
+  "id": "/uk/prayer-times-in-jajmau.html",
   "start_url": "./prayer-times-in-jajmau.html",
   "scope": "./prayer-times-in-jajmau.html",
   "display": "standalone",

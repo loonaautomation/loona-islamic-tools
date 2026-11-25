@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dhanbad Today",
   "short_name": "Prayer Times in Dhanbad Today",
   "description": "Today's prayer times in Dhanbad, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Dhanbad.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-dhanbad.html",
+  "id": "/en-gb/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

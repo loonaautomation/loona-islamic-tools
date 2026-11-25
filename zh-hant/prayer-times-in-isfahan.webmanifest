@@ -2,7 +2,7 @@
   "name": "Loona Isfahan的禮拜時間",
   "short_name": "Isfahan的禮拜時間",
   "description": "Isfahan（伊朗）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Isfahan實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-isfahan.html",
+  "id": "/zh-hant/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

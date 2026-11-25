@@ -2,7 +2,7 @@
   "name": "Loona Abu Dhabi Namaz Vakitleri",
   "short_name": "Abu Dhabi Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Abu Dhabi, BAE: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Abu Dhabi için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-abu-dhabi.html",
+  "id": "/tr/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Zahedan",
   "short_name": "Heures de prière à Zahedan",
   "description": "Les heures de prière d’aujourd’hui à Zahedan, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Zahedan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-zahedan.html",
+  "id": "/fr/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

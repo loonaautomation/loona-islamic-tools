@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Aurangabad",
   "short_name": "Ώρες Προσευχής στο Aurangabad",
   "description": "Οι σημερινές ώρες προσευχής στο Aurangabad, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Aurangabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-aurangabad.html",
+  "id": "/el/prayer-times-in-aurangabad.html",
   "start_url": "./prayer-times-in-aurangabad.html",
   "scope": "./prayer-times-in-aurangabad.html",
   "display": "standalone",

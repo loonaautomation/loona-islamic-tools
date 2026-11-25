@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Shivaji Nagar",
   "short_name": "Bønnetider i Shivaji Nagar",
   "description": "Dagens bønnetider i Shivaji Nagar, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Shivaji Nagar.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-shivaji-nagar.html",
+  "id": "/nb/prayer-times-in-shivaji-nagar.html",
   "start_url": "./prayer-times-in-shivaji-nagar.html",
   "scope": "./prayer-times-in-shivaji-nagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Diyarbakır",
   "short_name": "Gebedstijden in Diyarbakır",
   "description": "De gebedstijden van vandaag in Diyarbakır, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Diyarbakır.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-diyarbakir.html",
+  "id": "/nl/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

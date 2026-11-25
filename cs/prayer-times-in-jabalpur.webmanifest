@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jabalpur",
   "short_name": "Časy modliteb v Jabalpur",
   "description": "Dnešní časy modliteb v Jabalpur, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jabalpur.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jabalpur.html",
+  "id": "/cs/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

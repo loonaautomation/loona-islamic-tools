@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Binjai",
   "short_name": "Час намазу в Binjai",
   "description": "Сьогоднішній час намазу в Binjai, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Binjai.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-binjai.html",
+  "id": "/uk/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

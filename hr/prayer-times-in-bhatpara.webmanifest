@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bhātpāra",
   "short_name": "Vremena namaza u gradu Bhātpāra",
   "description": "Današnja vremena namaza u gradu Bhātpāra, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Bhātpāra.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bhatpara.html",
+  "id": "/hr/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

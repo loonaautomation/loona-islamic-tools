@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Rome",
   "short_name": "Ore de rugăciune în Rome",
   "description": "Orele de rugăciune de azi în Rome, Italia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Rome.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-rome.html",
+  "id": "/ro/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

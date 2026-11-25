@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Purwokerto",
   "short_name": "مواقيت الصلاة في Purwokerto",
   "description": "مواقيت الصلاة اليوم في Purwokerto، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPurwokerto.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-purwokerto.html",
+  "id": "/ar/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

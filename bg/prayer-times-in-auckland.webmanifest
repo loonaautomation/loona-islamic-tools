@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Auckland",
   "short_name": "Часове за намаз в Auckland",
   "description": "Днешните часове за намаз в Auckland, Нова Зеландия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Auckland.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-auckland.html",
+  "id": "/bg/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

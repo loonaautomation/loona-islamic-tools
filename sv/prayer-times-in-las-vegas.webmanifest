@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Las Vegas",
   "short_name": "Bönetider i Las Vegas",
   "description": "Dagens bönetider i Las Vegas, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Las Vegas.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-las-vegas.html",
+  "id": "/sv/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

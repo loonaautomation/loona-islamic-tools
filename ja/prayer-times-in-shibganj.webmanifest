@@ -2,7 +2,7 @@
   "name": "Loona Shibganj の礼拝時刻",
   "short_name": "Shibganj の礼拝時刻",
   "description": "Shibganj（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Shibganj についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-shibganj.html",
+  "id": "/ja/prayer-times-in-shibganj.html",
   "start_url": "./prayer-times-in-shibganj.html",
   "scope": "./prayer-times-in-shibganj.html",
   "display": "standalone",

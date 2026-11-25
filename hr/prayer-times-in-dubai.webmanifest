@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dubai",
   "short_name": "Vremena namaza u gradu Dubai",
   "description": "Današnja vremena namaza u gradu Dubai, UAE: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Dubai.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dubai.html",
+  "id": "/hr/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kolkata",
   "short_name": "เวลาละหมาดใน Kolkata",
   "description": "เวลาละหมาดวันนี้ใน Kolkata, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kolkata",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kolkata.html",
+  "id": "/th/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

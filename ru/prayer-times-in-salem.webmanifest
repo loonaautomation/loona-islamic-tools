@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Salem",
   "short_name": "Время намаза в городе Salem",
   "description": "Время намаза на сегодня: Salem, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Salem.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-salem.html",
+  "id": "/ru/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

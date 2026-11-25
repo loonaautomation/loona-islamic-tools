@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Erode",
   "short_name": "Časy modliteb v Erode",
   "description": "Dnešní časy modliteb v Erode, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Erode.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-erode.html",
+  "id": "/cs/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

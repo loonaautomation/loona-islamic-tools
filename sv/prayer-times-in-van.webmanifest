@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Van",
   "short_name": "Bönetider i Van",
   "description": "Dagens bönetider i Van, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Van.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-van.html",
+  "id": "/sv/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

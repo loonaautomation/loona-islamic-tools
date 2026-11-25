@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Miami",
   "short_name": "Časy modlitieb v Miami",
   "description": "Dnešné časy modlitieb v Miami, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Miami.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-miami.html",
+  "id": "/sk/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

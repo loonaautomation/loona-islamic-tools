@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Basrah",
   "short_name": "זמני תפילה בעיר Basrah",
   "description": "זמני התפילה של היום בעיר Basrah, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Basrah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-basrah.html",
+  "id": "/he/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

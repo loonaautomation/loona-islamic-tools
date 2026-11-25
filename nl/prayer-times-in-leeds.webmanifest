@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Leeds",
   "short_name": "Gebedstijden in Leeds",
   "description": "De gebedstijden van vandaag in Leeds, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Leeds.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-leeds.html",
+  "id": "/nl/prayer-times-in-leeds.html",
   "start_url": "./prayer-times-in-leeds.html",
   "scope": "./prayer-times-in-leeds.html",
   "display": "standalone",

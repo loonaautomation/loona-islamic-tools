@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Logan City",
   "short_name": "Horários de Oração em Logan City",
   "description": "Horários de oração de hoje em Logan City, Austrália: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Logan City.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-logan-city.html",
+  "id": "/pt-pt/prayer-times-in-logan-city.html",
   "start_url": "./prayer-times-in-logan-city.html",
   "scope": "./prayer-times-in-logan-city.html",
   "display": "standalone",

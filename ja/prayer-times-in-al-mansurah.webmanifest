@@ -2,7 +2,7 @@
   "name": "Loona Al Mansurah の礼拝時刻",
   "short_name": "Al Mansurah の礼拝時刻",
   "description": "Al Mansurah、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Al Mansurah についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-al-mansurah.html",
+  "id": "/ja/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

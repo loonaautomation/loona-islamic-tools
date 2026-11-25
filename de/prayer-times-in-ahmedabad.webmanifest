@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ahmedabad",
   "short_name": "Gebetszeiten in Ahmedabad",
   "description": "Die heutigen Gebetszeiten in Ahmedabad, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Ahmedabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ahmedabad.html",
+  "id": "/de/prayer-times-in-ahmedabad.html",
   "start_url": "./prayer-times-in-ahmedabad.html",
   "scope": "./prayer-times-in-ahmedabad.html",
   "display": "standalone",

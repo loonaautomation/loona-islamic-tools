@@ -2,7 +2,7 @@
   "name": "Loona Bremen imaidői",
   "short_name": "Bremen imaidői",
   "description": "A mai imaidők: Bremen, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bremen számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bremen.html",
+  "id": "/hu/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

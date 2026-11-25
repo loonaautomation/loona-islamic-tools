@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kendari",
   "short_name": "Ore de rugăciune în Kendari",
   "description": "Orele de rugăciune de azi în Kendari, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Kendari.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kendari.html",
+  "id": "/ro/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

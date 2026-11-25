@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bologna",
   "short_name": "זמני תפילה בעיר Bologna",
   "description": "זמני התפילה של היום בעיר Bologna, איטליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Bologna.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bologna.html",
+  "id": "/he/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

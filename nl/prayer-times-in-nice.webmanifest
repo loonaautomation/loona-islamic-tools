@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nice",
   "short_name": "Gebedstijden in Nice",
   "description": "De gebedstijden van vandaag in Nice, Frankrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nice.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nice.html",
+  "id": "/nl/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Chānda",
   "short_name": "Waktu Solat di Chānda",
   "description": "Waktu solat hari ini di Chānda, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Chānda.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-chanda.html",
+  "id": "/ms/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

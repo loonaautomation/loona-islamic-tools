@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bareilly",
   "short_name": "Gebetszeiten in Bareilly",
   "description": "Die heutigen Gebetszeiten in Bareilly, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bareilly.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bareilly.html",
+  "id": "/de/prayer-times-in-bareilly.html",
   "start_url": "./prayer-times-in-bareilly.html",
   "scope": "./prayer-times-in-bareilly.html",
   "display": "standalone",

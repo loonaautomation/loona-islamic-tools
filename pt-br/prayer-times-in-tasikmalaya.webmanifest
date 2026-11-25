@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Tasikmalaya",
   "short_name": "Horários de Oração em Tasikmalaya",
   "description": "Horários de oração de hoje em Tasikmalaya, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Tasikmalaya.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-tasikmalaya.html",
+  "id": "/pt-br/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

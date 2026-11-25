@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jaipur",
   "short_name": "مواقيت الصلاة في Jaipur",
   "description": "مواقيت الصلاة اليوم في Jaipur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJaipur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jaipur.html",
+  "id": "/ar/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

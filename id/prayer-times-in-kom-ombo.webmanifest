@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kom Ombo",
   "short_name": "Waktu Salat di Kom Ombo",
   "description": "Waktu salat hari ini di Kom Ombo, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Kom Ombo.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kom-ombo.html",
+  "id": "/id/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

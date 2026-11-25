@@ -2,7 +2,7 @@
   "name": "Loona Adıyaman imaidői",
   "short_name": "Adıyaman imaidői",
   "description": "A mai imaidők: Adıyaman, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Adıyaman számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-adiyaman.html",
+  "id": "/hu/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

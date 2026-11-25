@@ -2,7 +2,7 @@
   "name": "Loona Belfast imaidői",
   "short_name": "Belfast imaidői",
   "description": "A mai imaidők: Belfast, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Belfast számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-belfast.html",
+  "id": "/hu/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

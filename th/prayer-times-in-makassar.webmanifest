@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Makassar",
   "short_name": "เวลาละหมาดใน Makassar",
   "description": "เวลาละหมาดวันนี้ใน Makassar, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Makassar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-makassar.html",
+  "id": "/th/prayer-times-in-makassar.html",
   "start_url": "./prayer-times-in-makassar.html",
   "scope": "./prayer-times-in-makassar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Muzaffarnagar",
   "short_name": "Časy modliteb v Muzaffarnagar",
   "description": "Dnešní časy modliteb v Muzaffarnagar, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Muzaffarnagar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-muzaffarnagar.html",
+  "id": "/cs/prayer-times-in-muzaffarnagar.html",
   "start_url": "./prayer-times-in-muzaffarnagar.html",
   "scope": "./prayer-times-in-muzaffarnagar.html",
   "display": "standalone",

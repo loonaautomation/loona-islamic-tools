@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Konibodom",
   "short_name": "Vremena namaza u gradu Konibodom",
   "description": "Današnja vremena namaza u gradu Konibodom, Tadžikistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Konibodom.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-konibodom.html",
+  "id": "/hr/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

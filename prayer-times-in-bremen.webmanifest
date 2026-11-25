@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bremen",
   "short_name": "Prayer Times in Bremen",
   "description": "Today's prayer times in Bremen, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bremen.",
-  "id": "/loona-islamic-tools/prayer-times-in-bremen.html",
+  "id": "/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

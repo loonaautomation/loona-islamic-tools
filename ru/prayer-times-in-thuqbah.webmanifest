@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Thuqbah",
   "short_name": "Время намаза в городе Thuqbah",
   "description": "Время намаза на сегодня: Thuqbah, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Thuqbah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-thuqbah.html",
+  "id": "/ru/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

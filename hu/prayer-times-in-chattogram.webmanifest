@@ -2,7 +2,7 @@
   "name": "Loona Chattogram imaidői",
   "short_name": "Chattogram imaidői",
   "description": "A mai imaidők: Chattogram, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Chattogram számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-chattogram.html",
+  "id": "/hu/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

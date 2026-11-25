@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în San Diego",
   "short_name": "Ore de rugăciune în San Diego",
   "description": "Orele de rugăciune de azi în San Diego, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru San Diego.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-san-diego.html",
+  "id": "/ro/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอน",
   "short_name": "ตารางเวลารอมฎอน",
   "description": "ตารางรอมฎอนฉบับเต็มสำหรับทุกเมืองและทุกปีฮิจเราะห์: เวลาสิ้นสุดเซาะฮูรและเวลาอิฟตาร์ของทุกวันในเดือนรอมฎอน พร้อมวันที่เกรกอเรียนและระยะเวลาการถือศีลอด ฟรี พิมพ์ได้",
-  "id": "/loona-islamic-tools/th/ramadan-timetable/",
+  "id": "/th/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

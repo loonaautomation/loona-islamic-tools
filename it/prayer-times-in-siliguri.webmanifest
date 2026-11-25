@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Siliguri",
   "short_name": "Orari di preghiera a Siliguri",
   "description": "Orari di preghiera di oggi a Siliguri, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Siliguri.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-siliguri.html",
+  "id": "/it/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

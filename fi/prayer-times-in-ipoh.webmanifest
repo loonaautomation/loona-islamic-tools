@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ipoh",
   "short_name": "Rukousajat: Ipoh",
   "description": "Tämän päivän rukousajat paikassa Ipoh, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ipoh.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ipoh.html",
+  "id": "/fi/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Atlanta Today",
   "short_name": "Prayer Times in Atlanta Today",
   "description": "Today's prayer times in Atlanta, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Atlanta.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-atlanta.html",
+  "id": "/en-gb/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

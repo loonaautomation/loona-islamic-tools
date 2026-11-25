@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ibb",
   "short_name": "Orari di preghiera a Ibb",
   "description": "Orari di preghiera di oggi a Ibb, Yemen: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Ibb.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ibb.html",
+  "id": "/it/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

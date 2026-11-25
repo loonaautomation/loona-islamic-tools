@@ -2,7 +2,7 @@
   "name": "Loona Kashan Namaz Vakitleri",
   "short_name": "Kashan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kashan, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kashan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kashan.html",
+  "id": "/tr/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

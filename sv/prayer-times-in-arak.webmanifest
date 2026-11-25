@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Arāk",
   "short_name": "Bönetider i Arāk",
   "description": "Dagens bönetider i Arāk, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Arāk.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-arak.html",
+  "id": "/sv/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

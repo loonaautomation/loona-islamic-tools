@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jepara",
   "short_name": "Gebedstijden in Jepara",
   "description": "De gebedstijden van vandaag in Jepara, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Jepara.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jepara.html",
+  "id": "/nl/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cape Town Today",
   "short_name": "Prayer Times in Cape Town Today",
   "description": "Today's prayer times in Cape Town, South Africa: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Cape Town.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-cape-town.html",
+  "id": "/en-gb/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

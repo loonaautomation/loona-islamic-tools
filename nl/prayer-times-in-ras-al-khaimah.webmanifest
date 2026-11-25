@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ras Al Khaimah",
   "short_name": "Gebedstijden in Ras Al Khaimah",
   "description": "De gebedstijden van vandaag in Ras Al Khaimah, Verenigde Arabische Emiraten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ras-al-khaimah.html",
+  "id": "/nl/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

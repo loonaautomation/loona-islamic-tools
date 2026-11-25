@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Chicago",
   "short_name": "Время намаза в городе Chicago",
   "description": "Время намаза на сегодня: Chicago, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Chicago.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-chicago.html",
+  "id": "/ru/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Milwaukee",
   "short_name": "Bönetider i Milwaukee",
   "description": "Dagens bönetider i Milwaukee, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Milwaukee.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-milwaukee.html",
+  "id": "/sv/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Alwar",
   "short_name": "Время намаза в городе Alwar",
   "description": "Время намаза на сегодня: Alwar, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Alwar.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-alwar.html",
+  "id": "/ru/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

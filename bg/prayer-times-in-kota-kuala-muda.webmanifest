@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kota Kuala Muda",
   "short_name": "Часове за намаз в Kota Kuala Muda",
   "description": "Днешните часове за намаз в Kota Kuala Muda, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kota Kuala Muda.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kota-kuala-muda.html",
+  "id": "/bg/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

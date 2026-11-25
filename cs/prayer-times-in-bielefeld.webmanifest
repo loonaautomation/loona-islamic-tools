@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bielefeld",
   "short_name": "Časy modliteb v Bielefeld",
   "description": "Dnešní časy modliteb v Bielefeld, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bielefeld.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bielefeld.html",
+  "id": "/cs/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

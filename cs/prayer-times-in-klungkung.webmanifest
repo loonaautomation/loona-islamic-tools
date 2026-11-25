@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Klungkung",
   "short_name": "Časy modliteb v Klungkung",
   "description": "Dnešní časy modliteb v Klungkung, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Klungkung.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-klungkung.html",
+  "id": "/cs/prayer-times-in-klungkung.html",
   "start_url": "./prayer-times-in-klungkung.html",
   "scope": "./prayer-times-in-klungkung.html",
   "display": "standalone",

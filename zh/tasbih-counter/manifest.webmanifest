@@ -2,7 +2,7 @@
   "name": "Loona 念珠计数器",
   "short_name": "念珠计数器",
   "description": "数字念珠计数器：SubhanAllah、Alhamdulillah等预设，33/99/100目标，轮次跟踪、振动以及保存在您设备上的终身总数。",
-  "id": "/loona-islamic-tools/zh/tasbih-counter/",
+  "id": "/zh/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

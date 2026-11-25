@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sadr City",
   "short_name": "Prayer Times in Sadr City",
   "description": "Today's prayer times in Sadr City, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sadr City.",
-  "id": "/loona-islamic-tools/prayer-times-in-sadr-city.html",
+  "id": "/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

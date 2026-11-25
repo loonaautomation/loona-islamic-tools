@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tanta",
   "short_name": "เวลาละหมาดใน Tanta",
   "description": "เวลาละหมาดวันนี้ใน Tanta, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tanta",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tanta.html",
+  "id": "/th/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

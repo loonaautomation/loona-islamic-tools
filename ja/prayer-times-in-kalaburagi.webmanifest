@@ -2,7 +2,7 @@
   "name": "Loona Kalaburagi の礼拝時刻",
   "short_name": "Kalaburagi の礼拝時刻",
   "description": "Kalaburagi（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Kalaburagi についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kalaburagi.html",
+  "id": "/ja/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sulaymaniyah",
   "short_name": "مواقيت الصلاة في Sulaymaniyah",
   "description": "مواقيت الصلاة اليوم في Sulaymaniyah، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSulaymaniyah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sulaymaniyah.html",
+  "id": "/ar/prayer-times-in-sulaymaniyah.html",
   "start_url": "./prayer-times-in-sulaymaniyah.html",
   "scope": "./prayer-times-in-sulaymaniyah.html",
   "display": "standalone",

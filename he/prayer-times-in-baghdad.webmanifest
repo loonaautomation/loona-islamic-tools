@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Baghdad",
   "short_name": "זמני תפילה בעיר Baghdad",
   "description": "זמני התפילה של היום בעיר Baghdad, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Baghdad.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-baghdad.html",
+  "id": "/he/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

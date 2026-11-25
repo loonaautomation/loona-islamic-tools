@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Patna",
   "short_name": "مواقيت الصلاة في Patna",
   "description": "مواقيت الصلاة اليوم في Patna، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPatna.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-patna.html",
+  "id": "/ar/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

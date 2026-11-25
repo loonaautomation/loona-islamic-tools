@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kluang",
   "short_name": "זמני תפילה בעיר Kluang",
   "description": "זמני התפילה של היום בעיר Kluang, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kluang.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kluang.html",
+  "id": "/he/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

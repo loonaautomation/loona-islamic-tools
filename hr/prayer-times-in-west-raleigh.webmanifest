@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu West Raleigh",
   "short_name": "Vremena namaza u gradu West Raleigh",
   "description": "Današnja vremena namaza u gradu West Raleigh, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad West Raleigh.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-west-raleigh.html",
+  "id": "/hr/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ulhasnagar",
   "short_name": "Orari di preghiera a Ulhasnagar",
   "description": "Orari di preghiera di oggi a Ulhasnagar, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Ulhasnagar.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ulhasnagar.html",
+  "id": "/it/prayer-times-in-ulhasnagar.html",
   "start_url": "./prayer-times-in-ulhasnagar.html",
   "scope": "./prayer-times-in-ulhasnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kerman",
   "short_name": "Bønnetider i Kerman",
   "description": "Dagens bønnetider i Kerman, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kerman.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kerman.html",
+  "id": "/da/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

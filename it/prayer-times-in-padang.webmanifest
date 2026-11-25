@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Padang",
   "short_name": "Orari di preghiera a Padang",
   "description": "Orari di preghiera di oggi a Padang, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Padang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-padang.html",
+  "id": "/it/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

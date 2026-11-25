@@ -2,7 +2,7 @@
   "name": "Loona Antakya Namaz Vakitleri",
   "short_name": "Antakya Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Antakya, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Antakya için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-antakya.html",
+  "id": "/tr/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

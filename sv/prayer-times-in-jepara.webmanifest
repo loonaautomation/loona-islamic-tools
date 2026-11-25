@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jepara",
   "short_name": "Bönetider i Jepara",
   "description": "Dagens bönetider i Jepara, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Jepara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jepara.html",
+  "id": "/sv/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

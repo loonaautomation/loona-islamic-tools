@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Digri",
   "short_name": "Waktu Solat di Digri",
   "description": "Waktu solat hari ini di Digri, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Digri.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-digri.html",
+  "id": "/ms/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

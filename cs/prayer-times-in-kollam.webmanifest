@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kollam",
   "short_name": "Časy modliteb v Kollam",
   "description": "Dnešní časy modliteb v Kollam, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kollam.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kollam.html",
+  "id": "/cs/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

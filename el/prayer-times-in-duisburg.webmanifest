@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Duisburg",
   "short_name": "Ώρες Προσευχής στο Duisburg",
   "description": "Οι σημερινές ώρες προσευχής στο Duisburg, Γερμανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Duisburg.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-duisburg.html",
+  "id": "/el/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

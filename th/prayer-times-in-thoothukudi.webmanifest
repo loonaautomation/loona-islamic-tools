@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Thoothukudi",
   "short_name": "เวลาละหมาดใน Thoothukudi",
   "description": "เวลาละหมาดวันนี้ใน Thoothukudi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Thoothukudi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-thoothukudi.html",
+  "id": "/th/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

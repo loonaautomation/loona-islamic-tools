@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kabul",
   "short_name": "مواقيت الصلاة في Kabul",
   "description": "مواقيت الصلاة اليوم في Kabul، أفغانستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKabul.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kabul.html",
+  "id": "/ar/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

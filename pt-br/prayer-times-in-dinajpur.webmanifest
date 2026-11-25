@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Dinajpur",
   "short_name": "Horários de Oração em Dinajpur",
   "description": "Horários de oração de hoje em Dinajpur, Bangladexe: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Dinajpur.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-dinajpur.html",
+  "id": "/pt-br/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

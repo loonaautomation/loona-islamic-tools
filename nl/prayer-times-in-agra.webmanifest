@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Agra",
   "short_name": "Gebedstijden in Agra",
   "description": "De gebedstijden van vandaag in Agra, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Agra.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-agra.html",
+  "id": "/nl/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

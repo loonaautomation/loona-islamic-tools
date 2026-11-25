@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Adana",
   "short_name": "Waktu Solat di Adana",
   "description": "Waktu solat hari ini di Adana, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Adana.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-adana.html",
+  "id": "/ms/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

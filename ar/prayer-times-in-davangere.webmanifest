@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Davangere",
   "short_name": "مواقيت الصلاة في Davangere",
   "description": "مواقيت الصلاة اليوم في Davangere، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDavangere.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-davangere.html",
+  "id": "/ar/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

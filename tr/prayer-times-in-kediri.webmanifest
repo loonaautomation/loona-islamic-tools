@@ -2,7 +2,7 @@
   "name": "Loona Kediri Namaz Vakitleri",
   "short_name": "Kediri Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kediri, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kediri için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kediri.html",
+  "id": "/tr/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

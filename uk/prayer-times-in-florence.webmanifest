@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Florence",
   "short_name": "Час намазу в Florence",
   "description": "Сьогоднішній час намазу в Florence, Італія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Florence.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-florence.html",
+  "id": "/uk/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

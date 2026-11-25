@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Madiun",
   "short_name": "זמני תפילה בעיר Madiun",
   "description": "זמני התפילה של היום בעיר Madiun, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Madiun.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-madiun.html",
+  "id": "/he/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sumedang",
   "short_name": "مواقيت الصلاة في Sumedang",
   "description": "مواقيت الصلاة اليوم في Sumedang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSumedang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sumedang.html",
+  "id": "/ar/prayer-times-in-sumedang.html",
   "start_url": "./prayer-times-in-sumedang.html",
   "scope": "./prayer-times-in-sumedang.html",
   "display": "standalone",

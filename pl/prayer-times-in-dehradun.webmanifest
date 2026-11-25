@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dehradun",
   "short_name": "Czasy modlitw w miejscowości Dehradun",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dehradun, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Dehradun.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dehradun.html",
+  "id": "/pl/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Nilüfer の礼拝時刻",
   "short_name": "Nilüfer の礼拝時刻",
   "description": "Nilüfer（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Nilüfer についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-niluefer.html",
+  "id": "/ja/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bengaluru",
   "short_name": "Bönetider i Bengaluru",
   "description": "Dagens bönetider i Bengaluru, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bengaluru.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bengaluru.html",
+  "id": "/sv/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

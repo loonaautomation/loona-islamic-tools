@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Münster",
   "short_name": "Часове за намаз в Münster",
   "description": "Днешните часове за намаз в Münster, Германия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Münster.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-muenster.html",
+  "id": "/bg/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

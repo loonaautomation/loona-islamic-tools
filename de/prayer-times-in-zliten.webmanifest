@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Zliten",
   "short_name": "Gebetszeiten in Zliten",
   "description": "Die heutigen Gebetszeiten in Zliten, Libyen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Zliten.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-zliten.html",
+  "id": "/de/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

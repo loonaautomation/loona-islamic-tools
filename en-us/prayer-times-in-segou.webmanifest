@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ségou Today",
   "short_name": "Prayer Times in Ségou Today",
   "description": "Today's prayer times in Ségou, Mali: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ségou.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-segou.html",
+  "id": "/en-us/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

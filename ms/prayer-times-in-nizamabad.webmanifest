@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nizāmābād",
   "short_name": "Waktu Solat di Nizāmābād",
   "description": "Waktu solat hari ini di Nizāmābād, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Nizāmābād.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nizamabad.html",
+  "id": "/ms/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

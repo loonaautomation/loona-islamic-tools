@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Samsun",
   "short_name": "Waktu Salat di Samsun",
   "description": "Waktu salat hari ini di Samsun, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Samsun.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-samsun.html",
+  "id": "/id/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kostanay",
   "short_name": "مواقيت الصلاة في Kostanay",
   "description": "مواقيت الصلاة اليوم في Kostanay، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKostanay.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kostanay.html",
+  "id": "/ar/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Pikine Namaz Vakitleri",
   "short_name": "Pikine Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pikine, Senegal: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Pikine için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pikine.html",
+  "id": "/tr/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

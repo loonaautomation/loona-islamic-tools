@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Qarchak",
   "short_name": "مواقيت الصلاة في Qarchak",
   "description": "مواقيت الصلاة اليوم في Qarchak، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـQarchak.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-qarchak.html",
+  "id": "/ar/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jalālābād",
   "short_name": "مواقيت الصلاة في Jalālābād",
   "description": "مواقيت الصلاة اليوم في Jalālābād، أفغانستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJalālābād.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jalalabad.html",
+  "id": "/ar/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

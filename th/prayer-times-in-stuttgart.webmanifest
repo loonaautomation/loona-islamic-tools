@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Stuttgart",
   "short_name": "เวลาละหมาดใน Stuttgart",
   "description": "เวลาละหมาดวันนี้ใน Stuttgart, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Stuttgart",
-  "id": "/loona-islamic-tools/th/prayer-times-in-stuttgart.html",
+  "id": "/th/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Isfahan",
   "short_name": "Ore de rugăciune în Isfahan",
   "description": "Orele de rugăciune de azi în Isfahan, Iran: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Isfahan.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-isfahan.html",
+  "id": "/ro/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

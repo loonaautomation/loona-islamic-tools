@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nuremberg",
   "short_name": "Gebedstijden in Nuremberg",
   "description": "De gebedstijden van vandaag in Nuremberg, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nuremberg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nuremberg.html",
+  "id": "/nl/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

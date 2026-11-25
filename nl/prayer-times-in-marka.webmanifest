@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Marka",
   "short_name": "Gebedstijden in Marka",
   "description": "De gebedstijden van vandaag in Marka, Somalië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Marka.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-marka.html",
+  "id": "/nl/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

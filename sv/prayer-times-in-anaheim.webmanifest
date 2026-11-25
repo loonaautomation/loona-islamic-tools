@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Anaheim",
   "short_name": "Bönetider i Anaheim",
   "description": "Dagens bönetider i Anaheim, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Anaheim.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-anaheim.html",
+  "id": "/sv/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

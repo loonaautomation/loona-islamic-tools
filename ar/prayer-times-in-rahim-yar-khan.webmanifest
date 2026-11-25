@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rahim Yar Khan",
   "short_name": "مواقيت الصلاة في Rahim Yar Khan",
   "description": "مواقيت الصلاة اليوم في Rahim Yar Khan، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRahim Yar Khan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rahim-yar-khan.html",
+  "id": "/ar/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

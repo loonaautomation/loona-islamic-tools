@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dihok",
   "short_name": "זמני תפילה בעיר Dihok",
   "description": "זמני התפילה של היום בעיר Dihok, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Dihok.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dihok.html",
+  "id": "/he/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jabalpur",
   "short_name": "Час намазу в Jabalpur",
   "description": "Сьогоднішній час намазу в Jabalpur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jabalpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jabalpur.html",
+  "id": "/uk/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

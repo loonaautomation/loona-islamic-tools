@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tanta",
   "short_name": "Rukousajat: Tanta",
   "description": "Tämän päivän rukousajat paikassa Tanta, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tanta.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tanta.html",
+  "id": "/fi/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

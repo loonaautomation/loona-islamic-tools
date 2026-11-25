@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kochi",
   "short_name": "مواقيت الصلاة في Kochi",
   "description": "مواقيت الصلاة اليوم في Kochi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKochi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kochi.html",
+  "id": "/ar/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

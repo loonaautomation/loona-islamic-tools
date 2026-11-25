@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kassala",
   "short_name": "Ore de rugăciune în Kassala",
   "description": "Orele de rugăciune de azi în Kassala, Sudan: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Kassala.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kassala.html",
+  "id": "/ro/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

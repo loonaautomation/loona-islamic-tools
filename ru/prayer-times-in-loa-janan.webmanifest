@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Loa Janan",
   "short_name": "Время намаза в городе Loa Janan",
   "description": "Время намаза на сегодня: Loa Janan, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Loa Janan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-loa-janan.html",
+  "id": "/ru/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

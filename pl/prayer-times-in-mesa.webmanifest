@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mesa",
   "short_name": "Czasy modlitw w miejscowości Mesa",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mesa, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Mesa.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mesa.html",
+  "id": "/pl/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

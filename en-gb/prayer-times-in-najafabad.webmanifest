@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Najafābād Today",
   "short_name": "Prayer Times in Najafābād Today",
   "description": "Today's prayer times in Najafābād, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Najafābād.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-najafabad.html",
+  "id": "/en-gb/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

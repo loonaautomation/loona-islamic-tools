@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Morādābād",
   "short_name": "Vremena namaza u gradu Morādābād",
   "description": "Današnja vremena namaza u gradu Morādābād, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Morādābād.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-moradabad.html",
+  "id": "/hr/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

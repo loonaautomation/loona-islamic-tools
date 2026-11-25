@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kassala",
   "short_name": "Bönetider i Kassala",
   "description": "Dagens bönetider i Kassala, Sudan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kassala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kassala.html",
+  "id": "/sv/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Semey",
   "short_name": "Ore de rugăciune în Semey",
   "description": "Orele de rugăciune de azi în Semey, Kazahstan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Semey.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-semey.html",
+  "id": "/ro/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

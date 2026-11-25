@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hamburg-Mitte",
   "short_name": "Gebetszeiten in Hamburg-Mitte",
   "description": "Die heutigen Gebetszeiten in Hamburg-Mitte, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hamburg-mitte.html",
+  "id": "/de/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

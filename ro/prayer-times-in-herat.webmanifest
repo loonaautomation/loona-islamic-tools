@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Herāt",
   "short_name": "Ore de rugăciune în Herāt",
   "description": "Orele de rugăciune de azi în Herāt, Afganistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Herāt.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-herat.html",
+  "id": "/ro/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

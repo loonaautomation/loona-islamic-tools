@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sumgayit",
   "short_name": "Waktu Salat di Sumgayit",
   "description": "Waktu salat hari ini di Sumgayit, Azerbaijan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Sumgayit.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sumgayit.html",
+  "id": "/id/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

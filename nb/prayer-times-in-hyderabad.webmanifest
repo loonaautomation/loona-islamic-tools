@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hyderabad",
   "short_name": "Bønnetider i Hyderabad",
   "description": "Dagens bønnetider i Hyderabad, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Hyderabad.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-hyderabad.html",
+  "id": "/nb/prayer-times-in-hyderabad.html",
   "start_url": "./prayer-times-in-hyderabad.html",
   "scope": "./prayer-times-in-hyderabad.html",
   "display": "standalone",

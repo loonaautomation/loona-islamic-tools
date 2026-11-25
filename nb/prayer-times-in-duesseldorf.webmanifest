@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Düsseldorf",
   "short_name": "Bønnetider i Düsseldorf",
   "description": "Dagens bønnetider i Düsseldorf, Tyskland: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Düsseldorf.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-duesseldorf.html",
+  "id": "/nb/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

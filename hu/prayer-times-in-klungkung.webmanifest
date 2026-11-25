@@ -2,7 +2,7 @@
   "name": "Loona Klungkung imaidői",
   "short_name": "Klungkung imaidői",
   "description": "A mai imaidők: Klungkung, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Klungkung számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-klungkung.html",
+  "id": "/hu/prayer-times-in-klungkung.html",
   "start_url": "./prayer-times-in-klungkung.html",
   "scope": "./prayer-times-in-klungkung.html",
   "display": "standalone",

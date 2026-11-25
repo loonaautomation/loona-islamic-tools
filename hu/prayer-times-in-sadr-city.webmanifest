@@ -2,7 +2,7 @@
   "name": "Loona Sadr City imaidői",
   "short_name": "Sadr City imaidői",
   "description": "A mai imaidők: Sadr City, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sadr City számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sadr-city.html",
+  "id": "/hu/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

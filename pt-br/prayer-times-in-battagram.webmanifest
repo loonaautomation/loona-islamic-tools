@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Battagram",
   "short_name": "Horários de Oração em Battagram",
   "description": "Horários de oração de hoje em Battagram, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Battagram.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-battagram.html",
+  "id": "/pt-br/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

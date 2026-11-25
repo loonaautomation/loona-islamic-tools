@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Sinjhoro",
   "short_name": "Horários de Oração em Sinjhoro",
   "description": "Horários de oração de hoje em Sinjhoro, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Sinjhoro.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-sinjhoro.html",
+  "id": "/pt-pt/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

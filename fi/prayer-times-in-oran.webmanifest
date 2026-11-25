@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Oran",
   "short_name": "Rukousajat: Oran",
   "description": "Tämän päivän rukousajat paikassa Oran, Algeria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Oran.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-oran.html",
+  "id": "/fi/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

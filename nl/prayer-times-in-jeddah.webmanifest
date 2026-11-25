@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jeddah",
   "short_name": "Gebedstijden in Jeddah",
   "description": "De gebedstijden van vandaag in Jeddah, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Jeddah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jeddah.html",
+  "id": "/nl/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

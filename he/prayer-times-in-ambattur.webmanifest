@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ambattur",
   "short_name": "זמני תפילה בעיר Ambattur",
   "description": "זמני התפילה של היום בעיר Ambattur, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Ambattur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ambattur.html",
+  "id": "/he/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

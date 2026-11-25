@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Conakry",
   "short_name": "Час намазу в Conakry",
   "description": "Сьогоднішній час намазу в Conakry, Гвінея: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Conakry.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-conakry.html",
+  "id": "/uk/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

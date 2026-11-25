@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hyderabad (Indien)",
   "short_name": "Gebetszeiten in Hyderabad (Indien)",
   "description": "Die heutigen Gebetszeiten in Hyderabad, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Hyderabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hyderabad-india.html",
+  "id": "/de/prayer-times-in-hyderabad-india.html",
   "start_url": "./prayer-times-in-hyderabad-india.html",
   "scope": "./prayer-times-in-hyderabad-india.html",
   "display": "standalone",

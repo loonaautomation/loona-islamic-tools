@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Skardu",
   "short_name": "Waktu Salat di Skardu",
   "description": "Waktu salat hari ini di Skardu, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Skardu.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-skardu.html",
+  "id": "/id/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

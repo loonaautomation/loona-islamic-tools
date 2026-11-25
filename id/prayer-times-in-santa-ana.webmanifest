@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Santa Ana",
   "short_name": "Waktu Salat di Santa Ana",
   "description": "Waktu salat hari ini di Santa Ana, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Santa Ana.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-santa-ana.html",
+  "id": "/id/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

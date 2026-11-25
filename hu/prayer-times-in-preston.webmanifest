@@ -2,7 +2,7 @@
   "name": "Loona Preston imaidői",
   "short_name": "Preston imaidői",
   "description": "A mai imaidők: Preston, Egyesült Királyság: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Preston számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-preston.html",
+  "id": "/hu/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

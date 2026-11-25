@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Srinagar",
   "short_name": "Ώρες Προσευχής στο Srinagar",
   "description": "Οι σημερινές ώρες προσευχής στο Srinagar, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Srinagar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-srinagar.html",
+  "id": "/el/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

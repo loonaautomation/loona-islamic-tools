@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Paris",
   "short_name": "เวลาละหมาดใน Paris",
   "description": "เวลาละหมาดวันนี้ใน Paris, France: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Paris",
-  "id": "/loona-islamic-tools/th/prayer-times-in-paris.html",
+  "id": "/th/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

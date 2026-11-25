@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cilacap",
   "short_name": "Prayer Times in Cilacap",
   "description": "Today's prayer times in Cilacap, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Cilacap.",
-  "id": "/loona-islamic-tools/prayer-times-in-cilacap.html",
+  "id": "/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

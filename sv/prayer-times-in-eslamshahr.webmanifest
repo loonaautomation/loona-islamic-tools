@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Eslamshahr",
   "short_name": "Bönetider i Eslamshahr",
   "description": "Dagens bönetider i Eslamshahr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Eslamshahr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-eslamshahr.html",
+  "id": "/sv/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

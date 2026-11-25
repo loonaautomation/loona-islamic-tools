@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Columbus",
   "short_name": "Czasy modlitw w miejscowości Columbus",
   "description": "Dzisiejsze czasy modlitw w miejscowości Columbus, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Columbus.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-columbus.html",
+  "id": "/pl/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

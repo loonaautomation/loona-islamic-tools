@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bābol",
   "short_name": "Waktu Solat di Bābol",
   "description": "Waktu solat hari ini di Bābol, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Bābol.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-babol.html",
+  "id": "/ms/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

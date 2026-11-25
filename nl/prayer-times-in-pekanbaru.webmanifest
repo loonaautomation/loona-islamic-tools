@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pekanbaru",
   "short_name": "Gebedstijden in Pekanbaru",
   "description": "De gebedstijden van vandaag in Pekanbaru, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pekanbaru.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pekanbaru.html",
+  "id": "/nl/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

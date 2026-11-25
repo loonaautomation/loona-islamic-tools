@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Miami",
   "short_name": "Vremena namaza u gradu Miami",
   "description": "Današnja vremena namaza u gradu Miami, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Miami.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-miami.html",
+  "id": "/hr/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

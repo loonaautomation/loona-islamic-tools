@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sāveh",
   "short_name": "Gebedstijden in Sāveh",
   "description": "De gebedstijden van vandaag in Sāveh, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sāveh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-saveh.html",
+  "id": "/nl/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

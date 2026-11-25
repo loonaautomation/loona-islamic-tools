@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Wuppertal",
   "short_name": "Vremena namaza u gradu Wuppertal",
   "description": "Današnja vremena namaza u gradu Wuppertal, Njemačka: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Wuppertal.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-wuppertal.html",
+  "id": "/hr/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

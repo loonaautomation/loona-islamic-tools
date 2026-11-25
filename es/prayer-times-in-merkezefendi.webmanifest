@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Merkezefendi",
   "short_name": "Horarios de oración en Merkezefendi",
   "description": "Horarios de oración de hoy en Merkezefendi, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Merkezefendi.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-merkezefendi.html",
+  "id": "/es/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

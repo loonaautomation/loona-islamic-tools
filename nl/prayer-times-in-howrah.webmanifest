@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Howrah",
   "short_name": "Gebedstijden in Howrah",
   "description": "De gebedstijden van vandaag in Howrah, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Howrah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-howrah.html",
+  "id": "/nl/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

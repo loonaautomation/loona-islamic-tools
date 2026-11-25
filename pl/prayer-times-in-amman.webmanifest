@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Amman",
   "short_name": "Czasy modlitw w miejscowości Amman",
   "description": "Dzisiejsze czasy modlitw w miejscowości Amman, kraj Jordania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Amman.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-amman.html",
+  "id": "/pl/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

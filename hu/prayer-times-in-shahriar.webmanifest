@@ -2,7 +2,7 @@
   "name": "Loona Shahrīār imaidői",
   "short_name": "Shahrīār imaidői",
   "description": "A mai imaidők: Shahrīār, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Shahrīār számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-shahriar.html",
+  "id": "/hu/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

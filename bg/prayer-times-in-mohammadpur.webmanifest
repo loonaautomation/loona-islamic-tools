@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mohammadpur",
   "short_name": "Часове за намаз в Mohammadpur",
   "description": "Днешните часове за намаз в Mohammadpur, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Mohammadpur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mohammadpur.html",
+  "id": "/bg/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

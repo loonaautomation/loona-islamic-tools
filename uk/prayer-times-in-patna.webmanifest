@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Patna",
   "short_name": "Час намазу в Patna",
   "description": "Сьогоднішній час намазу в Patna, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Patna.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-patna.html",
+  "id": "/uk/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

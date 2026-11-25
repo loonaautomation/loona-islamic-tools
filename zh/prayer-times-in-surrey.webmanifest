@@ -2,7 +2,7 @@
   "name": "Loona Surrey的礼拜时间",
   "short_name": "Surrey的礼拜时间",
   "description": "Surrey（加拿大）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Surrey实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-surrey.html",
+  "id": "/zh/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

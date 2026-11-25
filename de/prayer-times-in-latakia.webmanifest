@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Latakia",
   "short_name": "Gebetszeiten in Latakia",
   "description": "Die heutigen Gebetszeiten in Latakia, Syrien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Latakia.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-latakia.html",
+  "id": "/de/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

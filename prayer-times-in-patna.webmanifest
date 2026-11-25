@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Patna",
   "short_name": "Prayer Times in Patna",
   "description": "Today's prayer times in Patna, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Patna.",
-  "id": "/loona-islamic-tools/prayer-times-in-patna.html",
+  "id": "/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

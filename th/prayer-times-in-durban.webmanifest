@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Durban",
   "short_name": "เวลาละหมาดใน Durban",
   "description": "เวลาละหมาดวันนี้ใน Durban, South Africa: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Durban",
-  "id": "/loona-islamic-tools/th/prayer-times-in-durban.html",
+  "id": "/th/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jacobabad",
   "short_name": "Час намазу в Jacobabad",
   "description": "Сьогоднішній час намазу в Jacobabad, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jacobabad.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jacobabad.html",
+  "id": "/uk/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

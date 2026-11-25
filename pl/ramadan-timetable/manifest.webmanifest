@@ -2,7 +2,7 @@
   "name": "Loona Harmonogram Ramadanu",
   "short_name": "Harmonogram Ramadanu",
   "description": "Pełny harmonogram Ramadanu dla dowolnego miasta i roku hidżry: godziny zakończenia sehri i iftaru na każdy dzień Ramadanu wraz z datami gregoriańskimi i czasem trwania postu. Za darmo, do wydruku.",
-  "id": "/loona-islamic-tools/pl/ramadan-timetable/",
+  "id": "/pl/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Lyon Namaz Vakitleri",
   "short_name": "Lyon Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Lyon, Fransa: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Lyon için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-lyon.html",
+  "id": "/tr/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Portland",
   "short_name": "Ώρες Προσευχής στο Portland",
   "description": "Οι σημερινές ώρες προσευχής στο Portland, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Portland.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-portland.html",
+  "id": "/el/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

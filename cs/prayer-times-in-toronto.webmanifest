@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Toronto",
   "short_name": "Časy modliteb v Toronto",
   "description": "Dnešní časy modliteb v Toronto, Kanada: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Toronto.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-toronto.html",
+  "id": "/cs/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Houston",
   "short_name": "Bønnetider i Houston",
   "description": "Dagens bønnetider i Houston, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Houston.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-houston.html",
+  "id": "/nb/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

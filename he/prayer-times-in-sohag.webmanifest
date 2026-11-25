@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sohag",
   "short_name": "זמני תפילה בעיר Sohag",
   "description": "זמני התפילה של היום בעיר Sohag, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Sohag.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sohag.html",
+  "id": "/he/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

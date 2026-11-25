@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Leicester",
   "short_name": "Gebedstijden in Leicester",
   "description": "De gebedstijden van vandaag in Leicester, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Leicester.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-leicester.html",
+  "id": "/nl/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

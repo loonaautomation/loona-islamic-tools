@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Surrey",
   "short_name": "Ώρες Προσευχής στο Surrey",
   "description": "Οι σημερινές ώρες προσευχής στο Surrey, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Surrey.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-surrey.html",
+  "id": "/el/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

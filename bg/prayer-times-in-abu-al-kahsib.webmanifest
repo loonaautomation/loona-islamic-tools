@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Abū al-Kahṣīb",
   "short_name": "Часове за намаз в Abū al-Kahṣīb",
   "description": "Днешните часове за намаз в Abū al-Kahṣīb, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Abū al-Kahṣīb.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-abu-al-kahsib.html",
+  "id": "/bg/prayer-times-in-abu-al-kahsib.html",
   "start_url": "./prayer-times-in-abu-al-kahsib.html",
   "scope": "./prayer-times-in-abu-al-kahsib.html",
   "display": "standalone",

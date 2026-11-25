@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Lahore",
   "short_name": "مواقيت الصلاة في Lahore",
   "description": "مواقيت الصلاة اليوم في Lahore، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـLahore.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-lahore.html",
+  "id": "/ar/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

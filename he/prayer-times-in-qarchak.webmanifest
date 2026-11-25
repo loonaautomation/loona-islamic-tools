@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Qarchak",
   "short_name": "זמני תפילה בעיר Qarchak",
   "description": "זמני התפילה של היום בעיר Qarchak, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Qarchak.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-qarchak.html",
+  "id": "/he/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

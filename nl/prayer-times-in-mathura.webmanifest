@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mathura",
   "short_name": "Gebedstijden in Mathura",
   "description": "De gebedstijden van vandaag in Mathura, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Mathura.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mathura.html",
+  "id": "/nl/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

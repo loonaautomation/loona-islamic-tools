@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Morādābād",
   "short_name": "Gebetszeiten in Morādābād",
   "description": "Die heutigen Gebetszeiten in Morādābād, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Morādābād.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-moradabad.html",
+  "id": "/de/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

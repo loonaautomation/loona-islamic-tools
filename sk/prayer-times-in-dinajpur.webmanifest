@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Dinajpur",
   "short_name": "Časy modlitieb v Dinajpur",
   "description": "Dnešné časy modlitieb v Dinajpur, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Dinajpur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-dinajpur.html",
+  "id": "/sk/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

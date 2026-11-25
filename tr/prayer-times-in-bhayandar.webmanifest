@@ -2,7 +2,7 @@
   "name": "Loona Bhayandar Namaz Vakitleri",
   "short_name": "Bhayandar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bhayandar, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Bhayandar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bhayandar.html",
+  "id": "/tr/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

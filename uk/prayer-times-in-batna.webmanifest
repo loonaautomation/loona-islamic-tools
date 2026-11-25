@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Batna",
   "short_name": "Час намазу в Batna",
   "description": "Сьогоднішній час намазу в Batna, Алжир: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Batna.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-batna.html",
+  "id": "/uk/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sylhet",
   "short_name": "Ώρες Προσευχής στο Sylhet",
   "description": "Οι σημερινές ώρες προσευχής στο Sylhet, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Sylhet.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sylhet.html",
+  "id": "/el/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Aksaray",
   "short_name": "Gebedstijden in Aksaray",
   "description": "De gebedstijden van vandaag in Aksaray, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Aksaray.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-aksaray.html",
+  "id": "/nl/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

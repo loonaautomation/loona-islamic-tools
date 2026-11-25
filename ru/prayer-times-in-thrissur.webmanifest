@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Thrissur",
   "short_name": "Время намаза в городе Thrissur",
   "description": "Время намаза на сегодня: Thrissur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Thrissur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-thrissur.html",
+  "id": "/ru/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

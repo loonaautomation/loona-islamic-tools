@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jeddah",
   "short_name": "Время намаза в городе Jeddah",
   "description": "Время намаза на сегодня: Jeddah, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Jeddah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jeddah.html",
+  "id": "/ru/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jepara",
   "short_name": "Часове за намаз в Jepara",
   "description": "Днешните часове за намаз в Jepara, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Jepara.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jepara.html",
+  "id": "/bg/prayer-times-in-jepara.html",
   "start_url": "./prayer-times-in-jepara.html",
   "scope": "./prayer-times-in-jepara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Toli-Toli",
   "short_name": "Часове за намаз в Toli-Toli",
   "description": "Днешните часове за намаз в Toli-Toli, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Toli-Toli.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-toli-toli.html",
+  "id": "/bg/prayer-times-in-toli-toli.html",
   "start_url": "./prayer-times-in-toli-toli.html",
   "scope": "./prayer-times-in-toli-toli.html",
   "display": "standalone",

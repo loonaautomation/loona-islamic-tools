@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sandakan Today",
   "short_name": "Prayer Times in Sandakan Today",
   "description": "Today's prayer times in Sandakan, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sandakan.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-sandakan.html",
+  "id": "/en-gb/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

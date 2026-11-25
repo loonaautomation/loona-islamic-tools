@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kanpur",
   "short_name": "Czasy modlitw w miejscowości Kanpur",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kanpur, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kanpur.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kanpur.html",
+  "id": "/pl/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona N'Djamena の礼拝時刻",
   "short_name": "N'Djamena の礼拝時刻",
   "description": "N'Djamena（チャド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で N'Djamena についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-n-djamena.html",
+  "id": "/ja/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

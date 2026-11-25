@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Edmonton",
   "short_name": "Bønnetider i Edmonton",
   "description": "Dagens bønnetider i Edmonton, Canada: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Edmonton.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-edmonton.html",
+  "id": "/da/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

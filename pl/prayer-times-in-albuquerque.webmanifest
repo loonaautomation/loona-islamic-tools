@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Albuquerque",
   "short_name": "Czasy modlitw w miejscowości Albuquerque",
   "description": "Dzisiejsze czasy modlitw w miejscowości Albuquerque, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Albuquerque.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-albuquerque.html",
+  "id": "/pl/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Newcastle (Sudáfrica)",
   "short_name": "Horarios de oración en Newcastle (Sudáfrica)",
   "description": "Los horarios de oración de hoy en Newcastle, Sudáfrica: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Newcastle.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-newcastle-south-africa.html",
+  "id": "/es/prayer-times-in-newcastle-south-africa.html",
   "start_url": "./prayer-times-in-newcastle-south-africa.html",
   "scope": "./prayer-times-in-newcastle-south-africa.html",
   "display": "standalone",

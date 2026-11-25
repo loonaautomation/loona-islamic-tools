@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Vienna",
   "short_name": "Rukousajat: Vienna",
   "description": "Tämän päivän rukousajat paikassa Vienna, Itävalta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Vienna.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-vienna.html",
+  "id": "/fi/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

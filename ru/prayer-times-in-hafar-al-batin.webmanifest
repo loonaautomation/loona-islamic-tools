@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Hafar Al-Batin",
   "short_name": "Время намаза в городе Hafar Al-Batin",
   "description": "Время намаза на сегодня: Hafar Al-Batin, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-hafar-al-batin.html",
+  "id": "/ru/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

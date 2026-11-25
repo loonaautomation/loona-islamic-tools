@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Esna",
   "short_name": "Horários de Oração em Esna",
   "description": "Horários de oração de hoje em Esna, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Esna.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-esna.html",
+  "id": "/pt-br/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

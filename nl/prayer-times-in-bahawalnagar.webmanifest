@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bahawalnagar",
   "short_name": "Gebedstijden in Bahawalnagar",
   "description": "De gebedstijden van vandaag in Bahawalnagar, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Bahawalnagar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bahawalnagar.html",
+  "id": "/nl/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bandar Lampung",
   "short_name": "Horários de Oração em Bandar Lampung",
   "description": "Horários de oração de hoje em Bandar Lampung, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Bandar Lampung.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-bandar-lampung.html",
+  "id": "/pt-br/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

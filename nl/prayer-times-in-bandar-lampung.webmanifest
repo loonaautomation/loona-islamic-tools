@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bandar Lampung",
   "short_name": "Gebedstijden in Bandar Lampung",
   "description": "De gebedstijden van vandaag in Bandar Lampung, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bandar Lampung.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bandar-lampung.html",
+  "id": "/nl/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

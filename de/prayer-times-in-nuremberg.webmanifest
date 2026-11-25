@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nuremberg",
   "short_name": "Gebetszeiten in Nuremberg",
   "description": "Die heutigen Gebetszeiten in Nuremberg, Deutschland: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nuremberg.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nuremberg.html",
+  "id": "/de/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

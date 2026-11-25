@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sivas",
   "short_name": "זמני תפילה בעיר Sivas",
   "description": "זמני התפילה של היום בעיר Sivas, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sivas.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sivas.html",
+  "id": "/he/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

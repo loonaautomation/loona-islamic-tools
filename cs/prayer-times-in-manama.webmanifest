@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Manama",
   "short_name": "Časy modliteb v Manama",
   "description": "Dnešní časy modliteb v Manama, Bahrajn: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Manama.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-manama.html",
+  "id": "/cs/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

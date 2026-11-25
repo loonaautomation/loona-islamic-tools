@@ -2,7 +2,7 @@
   "name": "Loona Kanayannur の礼拝時刻",
   "short_name": "Kanayannur の礼拝時刻",
   "description": "Kanayannur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Kanayannur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kanayannur.html",
+  "id": "/ja/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

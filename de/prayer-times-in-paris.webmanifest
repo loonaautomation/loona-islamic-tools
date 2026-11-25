@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Paris",
   "short_name": "Gebetszeiten in Paris",
   "description": "Die heutigen Gebetszeiten in Paris, Frankreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Paris.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-paris.html",
+  "id": "/de/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

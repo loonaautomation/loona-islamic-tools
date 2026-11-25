@@ -2,7 +2,7 @@
   "name": "Loona Lahore Namaz Vakitleri",
   "short_name": "Lahore Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Lahore, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Lahore için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-lahore.html",
+  "id": "/tr/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

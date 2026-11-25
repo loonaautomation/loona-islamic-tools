@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sarajevo",
   "short_name": "Časy modlitieb v Sarajevo",
   "description": "Dnešné časy modlitieb v Sarajevo, Bosna a Hercegovina: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sarajevo.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sarajevo.html",
+  "id": "/sk/prayer-times-in-sarajevo.html",
   "start_url": "./prayer-times-in-sarajevo.html",
   "scope": "./prayer-times-in-sarajevo.html",
   "display": "standalone",

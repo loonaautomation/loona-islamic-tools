@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v West Raleigh",
   "short_name": "Časy modlitieb v West Raleigh",
   "description": "Dnešné časy modlitieb v West Raleigh, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre West Raleigh.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-west-raleigh.html",
+  "id": "/sk/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

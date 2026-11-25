@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Vijayapura",
   "short_name": "Gebedstijden in Vijayapura",
   "description": "De gebedstijden van vandaag in Vijayapura, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Vijayapura.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-vijayapura.html",
+  "id": "/nl/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

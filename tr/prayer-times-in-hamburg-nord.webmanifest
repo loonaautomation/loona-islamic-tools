@@ -2,7 +2,7 @@
   "name": "Loona Hamburg-Nord Namaz Vakitleri",
   "short_name": "Hamburg-Nord Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Hamburg-Nord, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Hamburg-Nord için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-hamburg-nord.html",
+  "id": "/tr/prayer-times-in-hamburg-nord.html",
   "start_url": "./prayer-times-in-hamburg-nord.html",
   "scope": "./prayer-times-in-hamburg-nord.html",
   "display": "standalone",

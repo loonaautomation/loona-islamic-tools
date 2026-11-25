@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Wellington",
   "short_name": "Vremena namaza u gradu Wellington",
   "description": "Današnja vremena namaza u gradu Wellington, Novi Zeland: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Wellington.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-wellington.html",
+  "id": "/hr/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

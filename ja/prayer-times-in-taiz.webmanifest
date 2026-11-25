@@ -2,7 +2,7 @@
   "name": "Loona Taiz の礼拝時刻",
   "short_name": "Taiz の礼拝時刻",
   "description": "Taiz（イエメン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Taiz についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-taiz.html",
+  "id": "/ja/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

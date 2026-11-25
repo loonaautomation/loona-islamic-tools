@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Lexington",
   "short_name": "Časy modliteb v Lexington",
   "description": "Dnešní časy modliteb v Lexington, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Lexington.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-lexington.html",
+  "id": "/cs/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

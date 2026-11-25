@@ -2,7 +2,7 @@
   "name": "Loona Faisalabad Namaz Vakitleri",
   "short_name": "Faisalabad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Faisalabad, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Faisalabad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-faisalabad.html",
+  "id": "/tr/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

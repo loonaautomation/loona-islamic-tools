@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Laval",
   "short_name": "Časy modlitieb v Laval",
   "description": "Dnešné časy modlitieb v Laval, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Laval.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-laval.html",
+  "id": "/sk/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

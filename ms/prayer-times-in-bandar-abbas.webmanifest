@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bandar Abbas",
   "short_name": "Waktu Solat di Bandar Abbas",
   "description": "Waktu solat hari ini di Bandar Abbas, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Bandar Abbas.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bandar-abbas.html",
+  "id": "/ms/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

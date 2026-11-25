@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pasir Gudang",
   "short_name": "Gebedstijden in Pasir Gudang",
   "description": "De gebedstijden van vandaag in Pasir Gudang, Maleisië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pasir Gudang.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pasir-gudang.html",
+  "id": "/nl/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

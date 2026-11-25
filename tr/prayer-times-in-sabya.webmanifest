@@ -2,7 +2,7 @@
   "name": "Loona Şabyā Namaz Vakitleri",
   "short_name": "Şabyā Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Şabyā, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Şabyā için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sabya.html",
+  "id": "/tr/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Milan Namaz Vakitleri",
   "short_name": "Milan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Milan, İtalya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Milan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-milan.html",
+  "id": "/tr/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

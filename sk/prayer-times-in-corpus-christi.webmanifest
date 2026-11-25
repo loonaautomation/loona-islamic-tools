@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Corpus Christi",
   "short_name": "Časy modlitieb v Corpus Christi",
   "description": "Dnešné časy modlitieb v Corpus Christi, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Corpus Christi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-corpus-christi.html",
+  "id": "/sk/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

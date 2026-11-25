@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Coventry",
   "short_name": "זמני תפילה בעיר Coventry",
   "description": "זמני התפילה של היום בעיר Coventry, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Coventry.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-coventry.html",
+  "id": "/he/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

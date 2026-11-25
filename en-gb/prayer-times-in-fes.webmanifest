@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Fes Today",
   "short_name": "Prayer Times in Fes Today",
   "description": "Today's prayer times in Fes, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Fes.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-fes.html",
+  "id": "/en-gb/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

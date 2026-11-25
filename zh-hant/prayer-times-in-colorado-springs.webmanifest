@@ -2,7 +2,7 @@
   "name": "Loona Colorado Springs的禮拜時間",
   "short_name": "Colorado Springs的禮拜時間",
   "description": "Colorado Springs（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Colorado Springs實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-colorado-springs.html",
+  "id": "/zh-hant/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

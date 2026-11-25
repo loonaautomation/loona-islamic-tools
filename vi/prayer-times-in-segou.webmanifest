@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Ségou",
   "short_name": "Giờ cầu nguyện tại Ségou",
   "description": "Giờ cầu nguyện hôm nay tại Ségou, Mali: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Muslim World League, được tính trực tiếp trên thiết bị của bạn cho Ségou.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-segou.html",
+  "id": "/vi/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kozhikode",
   "short_name": "Час намазу в Kozhikode",
   "description": "Сьогоднішній час намазу в Kozhikode, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kozhikode.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kozhikode.html",
+  "id": "/uk/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

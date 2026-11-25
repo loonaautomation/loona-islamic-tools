@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jalgaon",
   "short_name": "مواقيت الصلاة في Jalgaon",
   "description": "مواقيت الصلاة اليوم في Jalgaon، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJalgaon.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jalgaon.html",
+  "id": "/ar/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

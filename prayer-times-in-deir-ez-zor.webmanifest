@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Deir ez-Zor",
   "short_name": "Prayer Times in Deir ez-Zor",
   "description": "Today's prayer times in Deir ez-Zor, Syria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Deir ez-Zor.",
-  "id": "/loona-islamic-tools/prayer-times-in-deir-ez-zor.html",
+  "id": "/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

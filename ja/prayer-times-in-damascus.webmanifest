@@ -2,7 +2,7 @@
   "name": "Loona Damascus の礼拝時刻",
   "short_name": "Damascus の礼拝時刻",
   "description": "Damascus（シリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Damascus についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-damascus.html",
+  "id": "/ja/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

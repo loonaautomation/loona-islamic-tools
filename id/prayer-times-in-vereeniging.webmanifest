@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Vereeniging",
   "short_name": "Waktu Salat di Vereeniging",
   "description": "Waktu salat hari ini di Vereeniging, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Vereeniging.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-vereeniging.html",
+  "id": "/id/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

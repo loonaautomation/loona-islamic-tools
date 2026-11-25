@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sanaa",
   "short_name": "Waktu Solat di Sanaa",
   "description": "Waktu solat hari ini di Sanaa, Yaman: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sanaa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sanaa.html",
+  "id": "/ms/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

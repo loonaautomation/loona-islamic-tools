@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน The Hague",
   "short_name": "เวลาละหมาดใน The Hague",
   "description": "เวลาละหมาดวันนี้ใน The Hague, Netherlands: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ The Hague",
-  "id": "/loona-islamic-tools/th/prayer-times-in-the-hague.html",
+  "id": "/th/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

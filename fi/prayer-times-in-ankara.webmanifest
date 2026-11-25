@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ankara",
   "short_name": "Rukousajat: Ankara",
   "description": "Tämän päivän rukousajat paikassa Ankara, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ankara.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ankara.html",
+  "id": "/fi/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Oran Namaz Vakitleri",
   "short_name": "Oran Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Oran, Cezayir: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Oran için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-oran.html",
+  "id": "/tr/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

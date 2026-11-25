@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Probolinggo",
   "short_name": "مواقيت الصلاة في Probolinggo",
   "description": "مواقيت الصلاة اليوم في Probolinggo، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـProbolinggo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-probolinggo.html",
+  "id": "/ar/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

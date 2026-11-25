@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Situbondo",
   "short_name": "Bønnetider i Situbondo",
   "description": "Dagens bønnetider i Situbondo, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Situbondo.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-situbondo.html",
+  "id": "/da/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

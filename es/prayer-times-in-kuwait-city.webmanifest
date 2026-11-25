@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kuwait City",
   "short_name": "Horarios de oración en Kuwait City",
   "description": "Los horarios de oración de hoy en la ciudad de Kuwait, Kuwait: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para la ciudad de Kuwait.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kuwait-city.html",
+  "id": "/es/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bonn",
   "short_name": "Ore de rugăciune în Bonn",
   "description": "Orele de rugăciune de azi în Bonn, Germania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Bonn.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bonn.html",
+  "id": "/ro/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

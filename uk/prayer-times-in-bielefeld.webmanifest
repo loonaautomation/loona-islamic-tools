@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bielefeld",
   "short_name": "Час намазу в Bielefeld",
   "description": "Сьогоднішній час намазу в Bielefeld, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bielefeld.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bielefeld.html",
+  "id": "/uk/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

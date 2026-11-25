@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pasuruan",
   "short_name": "Bönetider i Pasuruan",
   "description": "Dagens bönetider i Pasuruan, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pasuruan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pasuruan.html",
+  "id": "/sv/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ras Al Khaimah",
   "short_name": "Waktu Salat di Ras Al Khaimah",
   "description": "Waktu salat hari ini di Ras Al Khaimah, Uni Emirat Arab: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ras-al-khaimah.html",
+  "id": "/id/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

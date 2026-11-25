@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ottawa",
   "short_name": "Časy modlitieb v Ottawa",
   "description": "Dnešné časy modlitieb v Ottawa, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Ottawa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ottawa.html",
+  "id": "/sk/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

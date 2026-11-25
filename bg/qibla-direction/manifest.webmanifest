@@ -2,7 +2,7 @@
   "name": "Loona Посока на Киблата",
   "short_name": "Посока на Киблата",
   "description": "Намерете посоката на Киблата в градуси от всеки град или точното ви местоположение, с циферблат на компас на живо и разстоянието до Makkah. Безплатно, точно и поверително.",
-  "id": "/loona-islamic-tools/bg/qibla-direction/",
+  "id": "/bg/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

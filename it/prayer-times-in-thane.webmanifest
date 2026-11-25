@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Thāne",
   "short_name": "Orari di preghiera a Thāne",
   "description": "Orari di preghiera di oggi a Thāne, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Thāne.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-thane.html",
+  "id": "/it/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

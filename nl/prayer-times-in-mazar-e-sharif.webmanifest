@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Mazār-e Sharīf",
   "short_name": "Gebedstijden in Mazār-e Sharīf",
   "description": "De gebedstijden van vandaag in Mazār-e Sharīf, Afghanistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-mazar-e-sharif.html",
+  "id": "/nl/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

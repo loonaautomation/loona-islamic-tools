@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Preston",
   "short_name": "Prayer Times in Preston",
   "description": "Today's prayer times in Preston, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Preston.",
-  "id": "/loona-islamic-tools/prayer-times-in-preston.html",
+  "id": "/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

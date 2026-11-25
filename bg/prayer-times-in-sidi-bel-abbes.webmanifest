@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Sidi Bel Abbes",
   "short_name": "Часове за намаз в Sidi Bel Abbes",
   "description": "Днешните часове за намаз в Sidi Bel Abbes, Алжир: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/bg/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

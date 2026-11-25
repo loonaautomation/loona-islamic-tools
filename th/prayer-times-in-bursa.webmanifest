@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bursa",
   "short_name": "เวลาละหมาดใน Bursa",
   "description": "เวลาละหมาดวันนี้ใน Bursa, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bursa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bursa.html",
+  "id": "/th/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

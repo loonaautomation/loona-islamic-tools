@@ -1,7 +1,7 @@
 [
  {
   "n": "Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times/",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times/",
   "s": "Loona Islamic Tools",
   "d": "Dünyanın herhangi bir şehri için doğru günlük namaz vakitleri; beş hesaplama yöntemi ve Hanefi veya Şafii İkindi ile.",
   "k": "prayer times prayer times namaz vakitleri dunyanin herhangi bir sehri icin dogru gunluk namaz vakitleri bes hesaplama yontemi ve hanefi veya safii ikindi ile",
@@ -10,7 +10,7 @@
  },
  {
   "n": "Bugünün İslami Tarihi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/islamic-date-today/",
+  "u": "https://islamic.loonaautomation.com/tr/islamic-date-today/",
   "s": "Loona Islamic Tools",
   "d": "Bugünün Hicri tarihi büyük ve net yazıyla — gün, ay adı ve yıl — yanında Miladi tarihle birlikte.",
   "k": "islamic date today islamic date today bugunun islami tarihi bugunun hicri tarihi buyuk ve net yaziyla gun ay adi ve yil yaninda miladi tarihle birlikte",
@@ -19,7 +19,7 @@
  },
  {
   "n": "Bugün Sahur & İftar",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/sehri-iftar-today/",
+  "u": "https://islamic.loonaautomation.com/tr/sehri-iftar-today/",
   "s": "Loona Islamic Tools",
   "d": "Bugünün Sahur bitişi (İmsak) ve İftar (Akşam) vakitleri, bir sonrakine canlı geri sayımla.",
   "k": "sehri iftar today sehri & iftar today bugun sahur iftar bugunun sahur bitisi imsak ve iftar aksam vakitleri bir sonrakine canli geri sayimla",
@@ -28,7 +28,7 @@
  },
  {
   "n": "Kıble Yönü",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/qibla-direction/",
+  "u": "https://islamic.loonaautomation.com/tr/qibla-direction/",
   "s": "Loona Islamic Tools",
   "d": "Şehriniz veya konumunuz için derece cinsinden kesin Kıble açısı; bir pusula kadranı ve Mekke'ye olan mesafe ile.",
   "k": "qibla direction qibla direction kible yonu sehriniz veya konumunuz icin derece cinsinden kesin kible acisi bir pusula kadrani ve mekke ye olan mesafe ile",
@@ -37,7 +37,7 @@
  },
  {
   "n": "Hicri Takvim",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/hijri-calendar/",
+  "u": "https://islamic.loonaautomation.com/tr/hijri-calendar/",
   "s": "Loona Islamic Tools",
   "d": "Her Hicri günü Miladi tarihiyle yan yana gösteren eksiksiz bir İslami ay takvimi.",
   "k": "hijri calendar hijri calendar hicri takvim her hicri gunu miladi tarihiyle yan yana gosteren eksiksiz bir islami ay takvimi",
@@ -46,7 +46,7 @@
  },
  {
   "n": "Ramazan Takvimi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/ramadan-timetable/",
+  "u": "https://islamic.loonaautomation.com/tr/ramadan-timetable/",
   "s": "Loona Islamic Tools",
   "d": "Şehriniz için yazdırılabilir, günden güne bir Ramazan çizelgesi: 29–30 günün tamamı için Sahur sonu ve İftar.",
   "k": "ramadan timetable ramadan timetable ramazan takvimi sehriniz icin yazdirilabilir gunden gune bir ramazan cizelgesi 29 30 gunun tamami icin sahur sonu ve iftar",
@@ -55,7 +55,7 @@
  },
  {
   "n": "Aylık Namaz Takvimi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/monthly-prayer-timetable/",
+  "u": "https://islamic.loonaautomation.com/tr/monthly-prayer-timetable/",
   "s": "Loona Islamic Tools",
   "d": "Eviniz veya caminiz için yazdırılabilir bir aylık namaz takvimi — her gün için altı vaktin tamamı.",
   "k": "monthly prayer timetable monthly prayer timetable aylik namaz takvimi eviniz veya caminiz icin yazdirilabilir bir aylik namaz takvimi her gun icin alti vaktin tamami",
@@ -64,7 +64,7 @@
  },
  {
   "n": "Tesbih Sayacı",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/tasbih-counter/",
+  "u": "https://islamic.loonaautomation.com/tr/tasbih-counter/",
   "s": "Loona Islamic Tools",
   "d": "Zikir hazır ayarları, 33, 99 veya 100 hedefleri, tur sayımı ve kaydedilen ömür boyu toplamlar ile dijital bir tesbih.",
   "k": "tasbih counter tasbih counter tesbih sayaci zikir hazir ayarlari 33 99 veya 100 hedefleri tur sayimi ve kaydedilen omur boyu toplamlar ile dijital bir tesbih",
@@ -73,7 +73,7 @@
  },
  {
   "n": "Allah'ın 99 İsmi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/names-of-allah/",
+  "u": "https://islamic.loonaautomation.com/tr/names-of-allah/",
   "s": "Loona Islamic Tools",
   "d": "Esmaül Hüsna: 99 ismin tamamı; Arapça hat metni, transliterasyon ve Türkçe anlamlarıyla. Aranabilir.",
   "k": "names of allah 99 names of allah allah in 99 ismi esmaul husna 99 ismin tamami arapca hat metni transliterasyon ve turkce anlamlariyla aranabilir",
@@ -82,7 +82,7 @@
  },
  {
   "n": "Dualar Kütüphanesi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/duas-library/",
+  "u": "https://islamic.loonaautomation.com/tr/duas-library/",
   "s": "Loona Islamic Tools",
   "d": "Arapça metin, transliterasyon, Türkçe çeviri ve kaynaklarla sahih günlük dualar — ana göre sıralanmış.",
   "k": "duas library duas library dualar kutuphanesi arapca metin transliterasyon turkce ceviri ve kaynaklarla sahih gunluk dualar ana gore siralanmis",
@@ -91,7 +91,7 @@
  },
  {
   "n": "Namaz Vakti Ayarları Rehberi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-time-settings-guide/",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-time-settings-guide/",
   "s": "Loona Islamic Tools",
   "d": "Namaz vakti hesaplama yöntemleri nasıl çalışır, Hanefi ve Şafii İkindi ne demektir ve yüksek enlemler nasıl ele alınır.",
   "k": "prayer time settings guide prayer time settings guide namaz vakti ayarlari rehberi namaz vakti hesaplama yontemleri nasil calisir hanefi ve safii ikindi ne demektir ve yuksek enlemler nasil ele alinir",
@@ -100,7 +100,7 @@
  },
  {
   "n": "Umre Kontrol Listesi",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/umrah-checklist/",
+  "u": "https://islamic.loonaautomation.com/tr/umrah-checklist/",
   "s": "Loona Islamic Tools",
   "d": "İlerleme takibiyle eksiksiz, etkileşimli bir Umre hazırlık kontrol listesi — belgeler, bavul ve ibadet.",
   "k": "umrah checklist umrah checklist umre kontrol listesi ilerleme takibiyle eksiksiz etkilesimli bir umre hazirlik kontrol listesi belgeler bavul ve ibadet",
@@ -109,7 +109,7 @@
  },
  {
   "n": "Müslüman Bebek İsimleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/baby-names/",
+  "u": "https://islamic.loonaautomation.com/tr/baby-names/",
   "s": "Loona Islamic Tools",
   "d": "1197 İslami bebek ismi; erkek ve kız çocuklar için Arapça metin, anlamlar ve kökenlerle. Aranabilir, favoriler ve Günün İsmi ile.",
   "k": "muslim baby names müslüman bebek i simleri 1197 i slami bebek ismi erkek ve kız çocuklar için arapça metin anlamlar ve kökenlerle aranabilir favoriler ve günün i smi ile",
@@ -118,7 +118,7 @@
  },
  {
   "n": "Karachi Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-karachi.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-karachi.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Karachi, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in karachi.html prayer times in karachi karachi namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri karachi pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -127,7 +127,7 @@
  },
  {
   "n": "Lahore Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-lahore.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-lahore.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Lahore, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in lahore.html prayer times in lahore lahore namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri lahore pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -136,7 +136,7 @@
  },
  {
   "n": "Islamabad Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-islamabad.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-islamabad.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Islamabad, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in islamabad.html prayer times in islamabad islamabad namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri islamabad pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -145,7 +145,7 @@
  },
  {
   "n": "Faisalabad Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-faisalabad.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-faisalabad.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Faisalabad, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in faisalabad.html prayer times in faisalabad faisalabad namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri faisalabad pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -154,7 +154,7 @@
  },
  {
   "n": "Rawalpindi Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-rawalpindi.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-rawalpindi.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Rawalpindi, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in rawalpindi.html prayer times in rawalpindi rawalpindi namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri rawalpindi pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -163,7 +163,7 @@
  },
  {
   "n": "Multan Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-multan.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-multan.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Multan, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in multan.html prayer times in multan multan namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri multan pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -172,7 +172,7 @@
  },
  {
   "n": "Peshawar Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-peshawar.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-peshawar.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Peshawar, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in peshawar.html prayer times in peshawar peshawar namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri peshawar pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -181,7 +181,7 @@
  },
  {
   "n": "Quetta Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-quetta.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-quetta.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Quetta, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in quetta.html prayer times in quetta quetta namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri quetta pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -190,7 +190,7 @@
  },
  {
   "n": "Sialkot Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-sialkot.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-sialkot.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Sialkot, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in sialkot.html prayer times in sialkot sialkot namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri sialkot pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -199,7 +199,7 @@
  },
  {
   "n": "Hyderabad Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-hyderabad.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-hyderabad.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Hyderabad, Pakistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in hyderabad.html prayer times in hyderabad hyderabad namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri hyderabad pakistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -208,7 +208,7 @@
  },
  {
   "n": "Makkah Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-makkah.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-makkah.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Makkah, Suudi Arabistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in makkah.html prayer times in makkah makkah namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri makkah suudi arabistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -217,7 +217,7 @@
  },
  {
   "n": "Madinah Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-madinah.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-madinah.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Madinah, Suudi Arabistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in madinah.html prayer times in madinah madinah namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri madinah suudi arabistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -226,7 +226,7 @@
  },
  {
   "n": "Riyadh Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-riyadh.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-riyadh.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Riyadh, Suudi Arabistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in riyadh.html prayer times in riyadh riyadh namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri riyadh suudi arabistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -235,7 +235,7 @@
  },
  {
   "n": "Dubai Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-dubai.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-dubai.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Dubai, BAE — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in dubai.html prayer times in dubai dubai namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri dubai bae bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -244,7 +244,7 @@
  },
  {
   "n": "Abu Dhabi Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-abu-dhabi.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-abu-dhabi.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Abu Dhabi, BAE — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in abu dhabi.html prayer times in abu dhabi abu dhabi namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri abu dhabi bae bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -253,7 +253,7 @@
  },
  {
   "n": "Doha Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-doha.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-doha.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Doha, Katar — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in doha.html prayer times in doha doha namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri doha katar bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -262,7 +262,7 @@
  },
  {
   "n": "Kuveyt Şehri'nde Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-kuwait-city.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-kuwait-city.html",
   "s": "Loona Islamic Tools",
   "d": "Kuveyt City, Kuveyt için bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı saatleri &mdash; sonraki namaz geri sayımı, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in kuwait city.html prayer times in kuwait city kuveyt sehri nde namaz vakitleri kuveyt city kuveyt icin bugunun imsak ogle ikindi aksam ve yatsi saatleri mdash sonraki namaz geri sayimi kible yonu ve hicri tarih ile birlikte",
@@ -271,7 +271,7 @@
  },
  {
   "n": "Muscat Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-muscat.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-muscat.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Muscat, Umman — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in muscat.html prayer times in muscat muscat namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri muscat umman bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -280,7 +280,7 @@
  },
  {
   "n": "Istanbul Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-istanbul.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-istanbul.html",
   "s": "Loona Islamic Tools",
   "d": "İstanbul, Türkiye için bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — sonraki namaz geri sayımı, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in istanbul.html prayer times in istanbul istanbul namaz vakitleri istanbul turkiye icin bugunun imsak ogle ikindi aksam ve yatsi vakitleri sonraki namaz geri sayimi kible yonu ve hicri tarih ile birlikte",
@@ -289,7 +289,7 @@
  },
  {
   "n": "Cairo Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-cairo.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-cairo.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Cairo, Mısır — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in cairo.html prayer times in cairo cairo namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri cairo misir bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -298,7 +298,7 @@
  },
  {
   "n": "London Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-london.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-london.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — London, Birleşik Krallık — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in london.html prayer times in london london namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri london birlesik krallik bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -307,7 +307,7 @@
  },
  {
   "n": "Paris Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-paris.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-paris.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Paris, Fransa — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in paris.html prayer times in paris paris namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri paris fransa bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -316,7 +316,7 @@
  },
  {
   "n": "Berlin Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-berlin.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-berlin.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Berlin, Almanya — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in berlin.html prayer times in berlin berlin namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri berlin almanya bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -325,7 +325,7 @@
  },
  {
   "n": "New York Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-new-york.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-new-york.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — New York, Amerika Birleşik Devletleri — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in new york.html prayer times in new york new york namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri new york amerika birlesik devletleri bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -334,7 +334,7 @@
  },
  {
   "n": "Toronto Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-toronto.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-toronto.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Toronto, Kanada — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in toronto.html prayer times in toronto toronto namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri toronto kanada bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -343,7 +343,7 @@
  },
  {
   "n": "Kuala Lumpur Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-kuala-lumpur.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-kuala-lumpur.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Kuala Lumpur, Malezya — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in kuala lumpur.html prayer times in kuala lumpur kuala lumpur namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri kuala lumpur malezya bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -352,7 +352,7 @@
  },
  {
   "n": "Jakarta Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-jakarta.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-jakarta.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Jakarta, Endonezya — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in jakarta.html prayer times in jakarta jakarta namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri jakarta endonezya bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -361,7 +361,7 @@
  },
  {
   "n": "Dhaka Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-dhaka.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-dhaka.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Dhaka, Bangladeş — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in dhaka.html prayer times in dhaka dhaka namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri dhaka banglades bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -370,7 +370,7 @@
  },
  {
   "n": "Delhi Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-delhi.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-delhi.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Delhi, Hindistan — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in delhi.html prayer times in delhi delhi namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri delhi hindistan bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",
@@ -379,7 +379,7 @@
  },
  {
   "n": "Sydney Namaz Vakitleri",
-  "u": "https://loonaautomation.github.io/loona-islamic-tools/tr/prayer-times-in-sydney.html",
+  "u": "https://islamic.loonaautomation.com/tr/prayer-times-in-sydney.html",
   "s": "Loona Islamic Tools",
   "d": "Bugünün İmsak, Öğle, İkindi, Akşam ve Yatsı vakitleri — Sydney, Avustralya — bir sonraki namaza geri sayım, Kıble yönü ve Hicri tarih ile birlikte.",
   "k": "prayer times in sydney.html prayer times in sydney sydney namaz vakitleri bugunun imsak ogle ikindi aksam ve yatsi vakitleri sydney avustralya bir sonraki namaza geri sayim kible yonu ve hicri tarih ile birlikte",

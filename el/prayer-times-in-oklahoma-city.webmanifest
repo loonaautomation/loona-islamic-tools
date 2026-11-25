@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Oklahoma City",
   "short_name": "Ώρες Προσευχής στο Oklahoma City",
   "description": "Οι σημερινές ώρες προσευχής στο Oklahoma City, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Oklahoma City.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-oklahoma-city.html",
+  "id": "/el/prayer-times-in-oklahoma-city.html",
   "start_url": "./prayer-times-in-oklahoma-city.html",
   "scope": "./prayer-times-in-oklahoma-city.html",
   "display": "standalone",

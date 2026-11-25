@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jeddah",
   "short_name": "Ώρες Προσευχής στο Jeddah",
   "description": "Οι σημερινές ώρες προσευχής στο Jeddah, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Jeddah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jeddah.html",
+  "id": "/el/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

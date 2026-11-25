@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Malacca",
   "short_name": "Horarios de oración en Malacca",
   "description": "Horarios de oración de hoy en Malacca, Malasia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Malacca.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-malacca.html",
+  "id": "/es/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

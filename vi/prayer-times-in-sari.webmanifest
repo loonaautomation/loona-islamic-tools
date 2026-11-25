@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Sari",
   "short_name": "Giờ cầu nguyện tại Sari",
   "description": "Giờ cầu nguyện hôm nay tại Sari, Iran: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Muslim World League, được tính trực tiếp trên thiết bị của bạn cho Sari.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-sari.html",
+  "id": "/vi/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

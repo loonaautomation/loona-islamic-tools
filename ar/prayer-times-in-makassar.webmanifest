@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Makassar",
   "short_name": "مواقيت الصلاة في Makassar",
   "description": "مواقيت الصلاة اليوم في Makassar، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMakassar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-makassar.html",
+  "id": "/ar/prayer-times-in-makassar.html",
   "start_url": "./prayer-times-in-makassar.html",
   "scope": "./prayer-times-in-makassar.html",
   "display": "standalone",

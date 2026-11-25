@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Damietta",
   "short_name": "Час намазу в Damietta",
   "description": "Сьогоднішній час намазу в Damietta, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Damietta.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-damietta.html",
+  "id": "/uk/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

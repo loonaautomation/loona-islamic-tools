@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Durban",
   "short_name": "זמני תפילה בעיר Durban",
   "description": "זמני התפילה של היום בעיר Durban, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Durban.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-durban.html",
+  "id": "/he/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

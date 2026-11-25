@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Mathura",
   "short_name": "Heures de prière à Mathura",
   "description": "Les heures de prière d’aujourd’hui à Mathura, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Mathura.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-mathura.html",
+  "id": "/fr/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

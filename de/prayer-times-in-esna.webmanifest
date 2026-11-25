@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Esna",
   "short_name": "Gebetszeiten in Esna",
   "description": "Die heutigen Gebetszeiten in Esna, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Esna.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-esna.html",
+  "id": "/de/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

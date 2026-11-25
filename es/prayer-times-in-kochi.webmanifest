@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kochi",
   "short_name": "Horarios de oración en Kochi",
   "description": "Horarios de oración de hoy en Kochi, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kochi.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kochi.html",
+  "id": "/es/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

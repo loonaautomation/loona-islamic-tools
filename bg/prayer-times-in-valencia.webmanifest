@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Valencia",
   "short_name": "Часове за намаз в Valencia",
   "description": "Днешните часове за намаз в Valencia, Испания: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Valencia.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-valencia.html",
+  "id": "/bg/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

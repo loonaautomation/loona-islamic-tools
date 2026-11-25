@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Damietta Today",
   "short_name": "Prayer Times in Damietta Today",
   "description": "Today's prayer times in Damietta, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Damietta.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-damietta.html",
+  "id": "/en-gb/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pimpri",
   "short_name": "Vremena namaza u gradu Pimpri",
   "description": "Današnja vremena namaza u gradu Pimpri, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Pimpri.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pimpri.html",
+  "id": "/hr/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Buraydah",
   "short_name": "Waktu Salat di Buraydah",
   "description": "Waktu salat hari ini di Buraydah, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Buraydah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-buraydah.html",
+  "id": "/id/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

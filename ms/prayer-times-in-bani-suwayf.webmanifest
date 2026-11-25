@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Banī Suwayf",
   "short_name": "Waktu Solat di Banī Suwayf",
   "description": "Waktu solat hari ini di Banī Suwayf, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Banī Suwayf.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bani-suwayf.html",
+  "id": "/ms/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

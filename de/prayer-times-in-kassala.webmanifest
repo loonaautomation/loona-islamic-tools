@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kassala",
   "short_name": "Gebetszeiten in Kassala",
   "description": "Die heutigen Gebetszeiten in Kassala, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kassala.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kassala.html",
+  "id": "/de/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

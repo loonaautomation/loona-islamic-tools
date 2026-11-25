@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Adelaide",
   "short_name": "เวลาละหมาดใน Adelaide",
   "description": "เวลาละหมาดวันนี้ใน Adelaide, Australia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Adelaide",
-  "id": "/loona-islamic-tools/th/prayer-times-in-adelaide.html",
+  "id": "/th/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

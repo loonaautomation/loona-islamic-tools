@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bornova",
   "short_name": "Waktu Solat di Bornova",
   "description": "Waktu solat hari ini di Bornova, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Bornova.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bornova.html",
+  "id": "/ms/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

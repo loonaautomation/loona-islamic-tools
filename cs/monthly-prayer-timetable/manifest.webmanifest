@@ -2,7 +2,7 @@
   "name": "Loona Měsíční rozvrh modliteb",
   "short_name": "Měsíční rozvrh modliteb",
   "description": "Vygenerujte měsíční rozvrh modliteb k vytištění pro libovolné město: všech šest časů na celý měsíc, s vaší metodou výpočtu a školou Asru, zdarma a soukromě.",
-  "id": "/loona-islamic-tools/cs/monthly-prayer-timetable/",
+  "id": "/cs/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

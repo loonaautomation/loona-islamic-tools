@@ -2,7 +2,7 @@
   "name": "Loona Jacobabad Namaz Vakitleri",
   "short_name": "Jacobabad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Jacobabad, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Jacobabad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-jacobabad.html",
+  "id": "/tr/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

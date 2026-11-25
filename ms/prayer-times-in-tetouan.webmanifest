@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tétouan",
   "short_name": "Waktu Solat di Tétouan",
   "description": "Waktu solat hari ini di Tétouan, Maghribi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Tétouan.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tetouan.html",
+  "id": "/ms/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

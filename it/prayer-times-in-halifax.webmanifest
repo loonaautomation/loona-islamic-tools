@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Halifax",
   "short_name": "Orari di preghiera a Halifax",
   "description": "Orari di preghiera di oggi a Halifax, Canada: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Halifax.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-halifax.html",
+  "id": "/it/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Lubuklinggau",
   "short_name": "Время намаза в городе Lubuklinggau",
   "description": "Время намаза на сегодня: Lubuklinggau, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Lubuklinggau.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-lubuklinggau.html",
+  "id": "/ru/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

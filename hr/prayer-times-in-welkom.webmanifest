@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Welkom",
   "short_name": "Vremena namaza u gradu Welkom",
   "description": "Današnja vremena namaza u gradu Welkom, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Welkom.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-welkom.html",
+  "id": "/hr/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

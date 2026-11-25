@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Balıkesir",
   "short_name": "Horarios de oración en Balıkesir",
   "description": "Horarios de oración de hoy en Balıkesir, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Balıkesir.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-balikesir.html",
+  "id": "/es/prayer-times-in-balikesir.html",
   "start_url": "./prayer-times-in-balikesir.html",
   "scope": "./prayer-times-in-balikesir.html",
   "display": "standalone",

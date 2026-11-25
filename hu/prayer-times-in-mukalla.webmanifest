@@ -2,7 +2,7 @@
   "name": "Loona Mukalla imaidői",
   "short_name": "Mukalla imaidői",
   "description": "A mai imaidők: Mukalla, Jemen: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mukalla számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mukalla.html",
+  "id": "/hu/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Jalalpur Pirwala的礼拜时间",
   "short_name": "Jalalpur Pirwala的礼拜时间",
   "description": "Jalalpur Pirwala（巴基斯坦）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Jalalpur Pirwala实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-jalalpur-pirwala.html",
+  "id": "/zh/prayer-times-in-jalalpur-pirwala.html",
   "start_url": "./prayer-times-in-jalalpur-pirwala.html",
   "scope": "./prayer-times-in-jalalpur-pirwala.html",
   "display": "standalone",

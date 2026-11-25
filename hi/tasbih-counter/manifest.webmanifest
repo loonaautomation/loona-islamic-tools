@@ -2,7 +2,7 @@
   "name": "Loona तस्बीह काउंटर",
   "short_name": "तस्बीह काउंटर",
   "description": "डिजिटल तस्बीह काउंटर: सुब्हानअल्लाह, अल्हम्दुलिल्लाह और अन्य प्रीसेट, 33/99/100 लक्ष्य, राउंड ट्रैकिंग, कंपन और आपके डिवाइस पर सहेजे गए जीवनभर के कुल।",
-  "id": "/loona-islamic-tools/hi/tasbih-counter/",
+  "id": "/hi/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sacramento",
   "short_name": "Časy modliteb v Sacramento",
   "description": "Dnešní časy modliteb v Sacramento, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Sacramento.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sacramento.html",
+  "id": "/cs/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

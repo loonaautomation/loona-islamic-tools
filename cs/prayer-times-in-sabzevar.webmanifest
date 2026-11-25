@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sabzevar",
   "short_name": "Časy modliteb v Sabzevar",
   "description": "Dnešní časy modliteb v Sabzevar, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sabzevar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sabzevar.html",
+  "id": "/cs/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

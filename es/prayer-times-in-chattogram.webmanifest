@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Chattogram",
   "short_name": "Horarios de oración en Chattogram",
   "description": "Horarios de oración de hoy en Chattogram, Bangladés: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Chattogram.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-chattogram.html",
+  "id": "/es/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

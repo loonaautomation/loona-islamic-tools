@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Montréal",
   "short_name": "Ώρες Προσευχής στο Montréal",
   "description": "Οι σημερινές ώρες προσευχής στο Montréal, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Montréal.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-montreal.html",
+  "id": "/el/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

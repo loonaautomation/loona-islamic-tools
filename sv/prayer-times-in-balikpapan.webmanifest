@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Balikpapan",
   "short_name": "Bönetider i Balikpapan",
   "description": "Dagens bönetider i Balikpapan, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Balikpapan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-balikpapan.html",
+  "id": "/sv/prayer-times-in-balikpapan.html",
   "start_url": "./prayer-times-in-balikpapan.html",
   "scope": "./prayer-times-in-balikpapan.html",
   "display": "standalone",

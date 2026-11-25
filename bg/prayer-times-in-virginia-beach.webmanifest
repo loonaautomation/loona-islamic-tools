@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Virginia Beach",
   "short_name": "Часове за намаз в Virginia Beach",
   "description": "Днешните часове за намаз в Virginia Beach, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Virginia Beach.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-virginia-beach.html",
+  "id": "/bg/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

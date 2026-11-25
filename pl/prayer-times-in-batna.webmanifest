@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Batna",
   "short_name": "Czasy modlitw w miejscowości Batna",
   "description": "Dzisiejsze czasy modlitw w miejscowości Batna, kraj Algieria: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Batna.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-batna.html",
+  "id": "/pl/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

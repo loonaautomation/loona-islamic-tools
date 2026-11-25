@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banjarmasin",
   "short_name": "مواقيت الصلاة في Banjarmasin",
   "description": "مواقيت الصلاة اليوم في Banjarmasin، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBanjarmasin.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-banjarmasin.html",
+  "id": "/ar/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Pietermaritzburg",
   "short_name": "Время намаза в городе Pietermaritzburg",
   "description": "Время намаза на сегодня: Pietermaritzburg, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Pietermaritzburg.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-pietermaritzburg.html",
+  "id": "/ru/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

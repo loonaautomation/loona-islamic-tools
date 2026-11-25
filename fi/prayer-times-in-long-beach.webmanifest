@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Long Beach",
   "short_name": "Rukousajat: Long Beach",
   "description": "Tämän päivän rukousajat paikassa Long Beach, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Long Beach.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-long-beach.html",
+  "id": "/fi/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

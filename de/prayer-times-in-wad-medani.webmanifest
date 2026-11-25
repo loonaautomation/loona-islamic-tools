@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Wad Medani",
   "short_name": "Gebetszeiten in Wad Medani",
   "description": "Die heutigen Gebetszeiten in Wad Medani, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Wad Medani.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-wad-medani.html",
+  "id": "/de/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

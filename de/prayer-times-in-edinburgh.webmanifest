@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Edinburgh",
   "short_name": "Gebetszeiten in Edinburgh",
   "description": "Die heutigen Gebetszeiten in Edinburgh, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Edinburgh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-edinburgh.html",
+  "id": "/de/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Tulsa",
   "short_name": "Ore de rugăciune în Tulsa",
   "description": "Orele de rugăciune de azi în Tulsa, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Tulsa.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-tulsa.html",
+  "id": "/ro/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

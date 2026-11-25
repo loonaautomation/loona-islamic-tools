@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Malegaon",
   "short_name": "Время намаза в городе Malegaon",
   "description": "Время намаза на сегодня: Malegaon, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Malegaon.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-malegaon.html",
+  "id": "/ru/prayer-times-in-malegaon.html",
   "start_url": "./prayer-times-in-malegaon.html",
   "scope": "./prayer-times-in-malegaon.html",
   "display": "standalone",

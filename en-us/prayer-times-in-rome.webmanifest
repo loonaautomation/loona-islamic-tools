@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Rome Today",
   "short_name": "Prayer Times in Rome Today",
   "description": "Today's prayer times in Rome, Italy: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Rome.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-rome.html",
+  "id": "/en-us/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

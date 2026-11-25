@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rustenburg",
   "short_name": "Bønnetider i Rustenburg",
   "description": "Dagens bønnetider i Rustenburg, Sydafrika: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Rustenburg.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-rustenburg.html",
+  "id": "/da/prayer-times-in-rustenburg.html",
   "start_url": "./prayer-times-in-rustenburg.html",
   "scope": "./prayer-times-in-rustenburg.html",
   "display": "standalone",

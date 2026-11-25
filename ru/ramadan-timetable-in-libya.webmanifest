@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Ливия, 2027 (1448)",
   "short_name": "Расписание Рамадана: Ливия, 2027 (1448)",
   "description": "Расписание Рамадана 2027 для Ливия: время окончания сухура (Фаджр) и ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для Триполи. Ожидается с 8 февраля по 8 марта 2027, при условии наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-libya.html",
+  "id": "/ru/ramadan-timetable-in-libya.html",
   "start_url": "./ramadan-timetable-in-libya.html",
   "scope": "./ramadan-timetable-in-libya.html",
   "display": "standalone",

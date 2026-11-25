@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Gqeberha",
   "short_name": "Waktu Salat di Gqeberha",
   "description": "Waktu salat hari ini di Gqeberha, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Gqeberha.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-gqeberha.html",
+  "id": "/id/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Misratah",
   "short_name": "Rukousajat: Misratah",
   "description": "Tämän päivän rukousajat paikassa Misratah, Libya: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Misratah.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-misratah.html",
+  "id": "/fi/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Edmonton",
   "short_name": "เวลาละหมาดใน Edmonton",
   "description": "เวลาละหมาดวันนี้ใน Edmonton, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Edmonton",
-  "id": "/loona-islamic-tools/th/prayer-times-in-edmonton.html",
+  "id": "/th/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Quetta",
   "short_name": "Časy modliteb v Quetta",
   "description": "Dnešní časy modliteb v Quetta, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Quetta.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-quetta.html",
+  "id": "/cs/prayer-times-in-quetta.html",
   "start_url": "./prayer-times-in-quetta.html",
   "scope": "./prayer-times-in-quetta.html",
   "display": "standalone",

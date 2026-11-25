@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Soweto",
   "short_name": "Bønnetider i Soweto",
   "description": "Dagens bønnetider i Soweto, Sør-Afrika: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Soweto.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-soweto.html",
+  "id": "/nb/prayer-times-in-soweto.html",
   "start_url": "./prayer-times-in-soweto.html",
   "scope": "./prayer-times-in-soweto.html",
   "display": "standalone",

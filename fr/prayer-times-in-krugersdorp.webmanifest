@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Krugersdorp",
   "short_name": "Heures de prière à Krugersdorp",
   "description": "Les heures de prière d’aujourd’hui à Krugersdorp, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Krugersdorp.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-krugersdorp.html",
+  "id": "/fr/prayer-times-in-krugersdorp.html",
   "start_url": "./prayer-times-in-krugersdorp.html",
   "scope": "./prayer-times-in-krugersdorp.html",
   "display": "standalone",

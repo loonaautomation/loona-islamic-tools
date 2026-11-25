@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Shivamogga",
   "short_name": "Waktu Salat di Shivamogga",
   "description": "Waktu salat hari ini di Shivamogga, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Shivamogga.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-shivamogga.html",
+  "id": "/id/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

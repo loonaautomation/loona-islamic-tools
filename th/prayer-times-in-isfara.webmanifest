@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Isfara",
   "short_name": "เวลาละหมาดใน Isfara",
   "description": "เวลาละหมาดวันนี้ใน Isfara, Tajikistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Isfara",
-  "id": "/loona-islamic-tools/th/prayer-times-in-isfara.html",
+  "id": "/th/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

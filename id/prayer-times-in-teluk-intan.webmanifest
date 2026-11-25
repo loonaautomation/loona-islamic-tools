@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Teluk Intan",
   "short_name": "Waktu Salat di Teluk Intan",
   "description": "Waktu salat hari ini di Teluk Intan, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Teluk Intan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-teluk-intan.html",
+  "id": "/id/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน London (Canada)",
   "short_name": "เวลาละหมาดใน London (Canada)",
   "description": "เวลาละหมาดวันนี้ใน London, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ London",
-  "id": "/loona-islamic-tools/th/prayer-times-in-london-canada.html",
+  "id": "/th/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

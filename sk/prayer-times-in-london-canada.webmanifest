@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v London (Kanada)",
   "short_name": "Časy modlitieb v London (Kanada)",
   "description": "Dnešné časy modlitieb v London, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre London.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-london-canada.html",
+  "id": "/sk/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

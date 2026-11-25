@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dhanbad",
   "short_name": "Bønnetider i Dhanbad",
   "description": "Dagens bønnetider i Dhanbad, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Dhanbad.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-dhanbad.html",
+  "id": "/da/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

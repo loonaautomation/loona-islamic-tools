@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Hisar",
   "short_name": "Bönetider i Hisar",
   "description": "Dagens bönetider i Hisar, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Hisar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-hisar.html",
+  "id": "/sv/prayer-times-in-hisar.html",
   "start_url": "./prayer-times-in-hisar.html",
   "scope": "./prayer-times-in-hisar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Pikine",
   "short_name": "Rukousajat: Pikine",
   "description": "Tämän päivän rukousajat paikassa Pikine, Senegal: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Pikine.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-pikine.html",
+  "id": "/fi/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Islamisches Datum heute",
   "short_name": "Islamisches Datum heute",
   "description": "Was ist das islamische Datum heute? Sehen Sie das heutige Hidschri-Datum — Tag, Monat und Jahr (Umm al-Qura) — mit dem gregorianischen Datum, live auf Ihrem Gerät aktualisiert. Kostenlos.",
-  "id": "/loona-islamic-tools/de/islamic-date-today/",
+  "id": "/de/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bukit Mertajam",
   "short_name": "Waktu Salat di Bukit Mertajam",
   "description": "Waktu salat hari ini di Bukit Mertajam, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bukit Mertajam.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bukit-mertajam.html",
+  "id": "/id/prayer-times-in-bukit-mertajam.html",
   "start_url": "./prayer-times-in-bukit-mertajam.html",
   "scope": "./prayer-times-in-bukit-mertajam.html",
   "display": "standalone",

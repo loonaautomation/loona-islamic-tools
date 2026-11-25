@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Thāne",
   "short_name": "Vremena namaza u gradu Thāne",
   "description": "Današnja vremena namaza u gradu Thāne, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Thāne.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-thane.html",
+  "id": "/hr/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sfax",
   "short_name": "Vremena namaza u gradu Sfax",
   "description": "Današnja vremena namaza u gradu Sfax, Tunis: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Sfax.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sfax.html",
+  "id": "/hr/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Naples",
   "short_name": "Часове за намаз в Naples",
   "description": "Днешните часове за намаз в Naples, Италия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Naples.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-naples.html",
+  "id": "/bg/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

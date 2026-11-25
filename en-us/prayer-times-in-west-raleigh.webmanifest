@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in West Raleigh Today",
   "short_name": "Prayer Times in West Raleigh Today",
   "description": "Today's prayer times in West Raleigh, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for West Raleigh.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-west-raleigh.html",
+  "id": "/en-us/prayer-times-in-west-raleigh.html",
   "start_url": "./prayer-times-in-west-raleigh.html",
   "scope": "./prayer-times-in-west-raleigh.html",
   "display": "standalone",

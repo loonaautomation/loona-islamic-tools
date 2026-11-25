@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Gaza",
   "short_name": "Czasy modlitw w miejscowości Gaza",
   "description": "Dzisiejsze czasy modlitw w miejscowości Gaza, kraj Palestyna: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Gaza.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-gaza.html",
+  "id": "/pl/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

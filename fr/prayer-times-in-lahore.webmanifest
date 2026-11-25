@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Lahore",
   "short_name": "Heures de prière à Lahore",
   "description": "Les heures de prière d’aujourd’hui à Lahore, Pakistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Lahore.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-lahore.html",
+  "id": "/fr/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

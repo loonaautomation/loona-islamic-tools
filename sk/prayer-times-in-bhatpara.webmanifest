@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bhātpāra",
   "short_name": "Časy modlitieb v Bhātpāra",
   "description": "Dnešné časy modlitieb v Bhātpāra, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Bhātpāra.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bhatpara.html",
+  "id": "/sk/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в El Paso",
   "short_name": "Часове за намаз в El Paso",
   "description": "Днешните часове за намаз в El Paso, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за El Paso.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-el-paso.html",
+  "id": "/bg/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

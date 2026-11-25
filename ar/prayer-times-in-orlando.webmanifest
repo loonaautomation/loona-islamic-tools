@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Orlando",
   "short_name": "مواقيت الصلاة في Orlando",
   "description": "مواقيت الصلاة اليوم في Orlando، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـOrlando.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-orlando.html",
+  "id": "/ar/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

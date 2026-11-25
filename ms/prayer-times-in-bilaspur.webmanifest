@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bilāspur",
   "short_name": "Waktu Solat di Bilāspur",
   "description": "Waktu solat hari ini di Bilāspur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bilāspur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bilaspur.html",
+  "id": "/ms/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

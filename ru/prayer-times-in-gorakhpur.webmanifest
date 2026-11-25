@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Gorakhpur",
   "short_name": "Время намаза в городе Gorakhpur",
   "description": "Время намаза на сегодня: Gorakhpur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Gorakhpur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-gorakhpur.html",
+  "id": "/ru/prayer-times-in-gorakhpur.html",
   "start_url": "./prayer-times-in-gorakhpur.html",
   "scope": "./prayer-times-in-gorakhpur.html",
   "display": "standalone",

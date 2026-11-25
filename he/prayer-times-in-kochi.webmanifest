@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kochi",
   "short_name": "זמני תפילה בעיר Kochi",
   "description": "זמני התפילה של היום בעיר Kochi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kochi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kochi.html",
+  "id": "/he/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

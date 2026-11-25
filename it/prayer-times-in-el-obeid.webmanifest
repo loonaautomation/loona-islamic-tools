@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a El Obeid",
   "short_name": "Orari di preghiera a El Obeid",
   "description": "Orari di preghiera di oggi a El Obeid, Sudan: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per El Obeid.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-el-obeid.html",
+  "id": "/it/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

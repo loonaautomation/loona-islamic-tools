@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Damietta",
   "short_name": "Waktu Salat di Damietta",
   "description": "Waktu salat hari ini di Damietta, Mesir: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Egyptian General Authority, dihitung langsung di perangkat Anda untuk Damietta.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-damietta.html",
+  "id": "/id/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

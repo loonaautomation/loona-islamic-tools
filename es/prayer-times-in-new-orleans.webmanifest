@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en New Orleans",
   "short_name": "Horarios de oración en New Orleans",
   "description": "Horarios de oración de hoy en New Orleans, Estados Unidos: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para New Orleans.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-new-orleans.html",
+  "id": "/es/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

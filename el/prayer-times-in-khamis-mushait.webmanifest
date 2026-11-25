@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Khamis Mushait",
   "short_name": "Ώρες Προσευχής στο Khamis Mushait",
   "description": "Οι σημερινές ώρες προσευχής στο Khamis Mushait, Σαουδική Αραβία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Umm al-Qura, υπολογίζονται ζωντανά στη συσκευή σας για το Khamis Mushait.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-khamis-mushait.html",
+  "id": "/el/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

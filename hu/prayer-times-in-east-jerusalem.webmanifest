@@ -2,7 +2,7 @@
   "name": "Loona East Jerusalem imaidői",
   "short_name": "East Jerusalem imaidői",
   "description": "A mai imaidők: East Jerusalem, Palesztina: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén East Jerusalem számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-east-jerusalem.html",
+  "id": "/hu/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

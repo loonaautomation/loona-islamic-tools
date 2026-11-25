@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Situbondo",
   "short_name": "Ore de rugăciune în Situbondo",
   "description": "Orele de rugăciune de azi în Situbondo, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Situbondo.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-situbondo.html",
+  "id": "/ro/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

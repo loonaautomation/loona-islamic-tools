@@ -2,7 +2,7 @@
   "name": "Loona Long Beach Namaz Vakitleri",
   "short_name": "Long Beach Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Long Beach, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Long Beach için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-long-beach.html",
+  "id": "/tr/prayer-times-in-long-beach.html",
   "start_url": "./prayer-times-in-long-beach.html",
   "scope": "./prayer-times-in-long-beach.html",
   "display": "standalone",

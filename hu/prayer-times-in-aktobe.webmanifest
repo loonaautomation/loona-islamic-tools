@@ -2,7 +2,7 @@
   "name": "Loona Aktobe imaidői",
   "short_name": "Aktobe imaidői",
   "description": "A mai imaidők: Aktobe, Kazahsztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Aktobe számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-aktobe.html",
+  "id": "/hu/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

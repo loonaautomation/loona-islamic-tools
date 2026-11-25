@@ -2,7 +2,7 @@
   "name": "Loona Mysuru में नमाज़ के समय",
   "short_name": "Mysuru में नमाज़ के समय",
   "description": "Mysuru, भारत में आज के नमाज़ के समय: फ़ज्र, सूर्योदय, ज़ुहर, अस्र (हनफ़ी), मग़रिब और इशा, साथ में क़िबला की दिशा और आज की हिजरी तारीख़। Karachi विधि, Mysuru के लिए आपके डिवाइस पर लाइव गणना।",
-  "id": "/loona-islamic-tools/hi/prayer-times-in-mysuru.html",
+  "id": "/hi/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

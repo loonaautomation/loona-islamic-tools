@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Pimpri",
   "short_name": "Время намаза в городе Pimpri",
   "description": "Время намаза на сегодня: Pimpri, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Pimpri.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-pimpri.html",
+  "id": "/ru/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

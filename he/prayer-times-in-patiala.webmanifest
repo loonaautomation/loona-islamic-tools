@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Patiāla",
   "short_name": "זמני תפילה בעיר Patiāla",
   "description": "זמני התפילה של היום בעיר Patiāla, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Patiāla.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-patiala.html",
+  "id": "/he/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

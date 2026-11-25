@@ -2,7 +2,7 @@
   "name": "Loona Sandakan Namaz Vakitleri",
   "short_name": "Sandakan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sandakan, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sandakan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sandakan.html",
+  "id": "/tr/prayer-times-in-sandakan.html",
   "start_url": "./prayer-times-in-sandakan.html",
   "scope": "./prayer-times-in-sandakan.html",
   "display": "standalone",

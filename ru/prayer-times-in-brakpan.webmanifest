@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Brakpan",
   "short_name": "Время намаза в городе Brakpan",
   "description": "Время намаза на сегодня: Brakpan, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Brakpan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-brakpan.html",
+  "id": "/ru/prayer-times-in-brakpan.html",
   "start_url": "./prayer-times-in-brakpan.html",
   "scope": "./prayer-times-in-brakpan.html",
   "display": "standalone",

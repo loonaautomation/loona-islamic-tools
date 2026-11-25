@@ -2,7 +2,7 @@
   "name": "Loona Kākināda imaidői",
   "short_name": "Kākināda imaidői",
   "description": "A mai imaidők: Kākināda, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kākināda számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kakinada.html",
+  "id": "/hu/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

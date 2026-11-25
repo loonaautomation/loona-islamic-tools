@@ -2,7 +2,7 @@
   "name": "Loona Nashville Namaz Vakitleri",
   "short_name": "Nashville Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nashville, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Nashville için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nashville.html",
+  "id": "/tr/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

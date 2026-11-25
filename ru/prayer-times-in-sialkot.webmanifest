@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sialkot",
   "short_name": "Время намаза в городе Sialkot",
   "description": "Время намаза на сегодня: Sialkot, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Sialkot.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sialkot.html",
+  "id": "/ru/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

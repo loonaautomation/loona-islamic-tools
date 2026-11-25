@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mosul",
   "short_name": "Časy modliteb v Mosul",
   "description": "Dnešní časy modliteb v Mosul, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mosul.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mosul.html",
+  "id": "/cs/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

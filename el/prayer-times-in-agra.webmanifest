@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Agra",
   "short_name": "Ώρες Προσευχής στο Agra",
   "description": "Οι σημερινές ώρες προσευχής στο Agra, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Agra.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-agra.html",
+  "id": "/el/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ordu",
   "short_name": "Časy modlitieb v Ordu",
   "description": "Dnešné časy modlitieb v Ordu, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Ordu.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ordu.html",
+  "id": "/sk/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

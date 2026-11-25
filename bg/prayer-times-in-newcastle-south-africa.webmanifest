@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Newcastle (Южна Африка)",
   "short_name": "Часове за намаз в Newcastle (Южна Африка)",
   "description": "Днешните часове за намаз в Newcastle, Южна Африка: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислен на живо на вашето устройство за Newcastle.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-newcastle-south-africa.html",
+  "id": "/bg/prayer-times-in-newcastle-south-africa.html",
   "start_url": "./prayer-times-in-newcastle-south-africa.html",
   "scope": "./prayer-times-in-newcastle-south-africa.html",
   "display": "standalone",

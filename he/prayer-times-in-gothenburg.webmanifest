@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gothenburg",
   "short_name": "זמני תפילה בעיר Gothenburg",
   "description": "זמני התפילה של היום בעיר Gothenburg, שוודיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Gothenburg.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gothenburg.html",
+  "id": "/he/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

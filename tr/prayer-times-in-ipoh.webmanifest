@@ -2,7 +2,7 @@
   "name": "Loona Ipoh Namaz Vakitleri",
   "short_name": "Ipoh Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ipoh, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Ipoh için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ipoh.html",
+  "id": "/tr/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

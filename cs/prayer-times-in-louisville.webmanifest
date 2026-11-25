@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Louisville",
   "short_name": "Časy modliteb v Louisville",
   "description": "Dnešní časy modliteb v Louisville, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Louisville.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-louisville.html",
+  "id": "/cs/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

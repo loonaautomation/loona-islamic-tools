@@ -2,7 +2,7 @@
   "name": "Loona Najaf imaidői",
   "short_name": "Najaf imaidői",
   "description": "A mai imaidők: Najaf, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Najaf számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-najaf.html",
+  "id": "/hu/prayer-times-in-najaf.html",
   "start_url": "./prayer-times-in-najaf.html",
   "scope": "./prayer-times-in-najaf.html",
   "display": "standalone",

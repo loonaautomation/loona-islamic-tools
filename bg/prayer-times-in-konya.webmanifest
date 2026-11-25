@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Konya",
   "short_name": "Часове за намаз в Konya",
   "description": "Днешните часове за намаз в Konya, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Konya.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-konya.html",
+  "id": "/bg/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

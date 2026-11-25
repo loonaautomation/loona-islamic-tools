@@ -2,7 +2,7 @@
   "name": "Loona Baltimore Namaz Vakitleri",
   "short_name": "Baltimore Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Baltimore, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Baltimore için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-baltimore.html",
+  "id": "/tr/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sfax Today",
   "short_name": "Prayer Times in Sfax Today",
   "description": "Today's prayer times in Sfax, Tunisia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sfax.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-sfax.html",
+  "id": "/en-us/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

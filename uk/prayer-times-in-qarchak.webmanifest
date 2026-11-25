@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qarchak",
   "short_name": "Час намазу в Qarchak",
   "description": "Сьогоднішній час намазу в Qarchak, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Qarchak.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qarchak.html",
+  "id": "/uk/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Tangier Namaz Vakitleri",
   "short_name": "Tangier Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Tangier, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Tangier için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-tangier.html",
+  "id": "/tr/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Van",
   "short_name": "Gebetszeiten in Van",
   "description": "Die heutigen Gebetszeiten in Van, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Van.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-van.html",
+  "id": "/de/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

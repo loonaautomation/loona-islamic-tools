@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Adana",
   "short_name": "זמני תפילה בעיר Adana",
   "description": "זמני התפילה של היום בעיר Adana, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Adana.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-adana.html",
+  "id": "/he/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

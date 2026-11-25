@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Indianapolis",
   "short_name": "Vremena namaza u gradu Indianapolis",
   "description": "Današnja vremena namaza u gradu Indianapolis, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Indianapolis.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-indianapolis.html",
+  "id": "/hr/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

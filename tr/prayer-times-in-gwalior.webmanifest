@@ -2,7 +2,7 @@
   "name": "Loona Gwalior Namaz Vakitleri",
   "short_name": "Gwalior Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Gwalior, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Gwalior için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-gwalior.html",
+  "id": "/tr/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

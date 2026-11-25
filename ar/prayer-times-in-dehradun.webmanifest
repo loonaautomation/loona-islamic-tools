@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dehradun",
   "short_name": "مواقيت الصلاة في Dehradun",
   "description": "مواقيت الصلاة اليوم في Dehradun، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDehradun.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dehradun.html",
+  "id": "/ar/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

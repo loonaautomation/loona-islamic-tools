@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Qo‘qon",
   "short_name": "Rukousajat: Qo‘qon",
   "description": "Tämän päivän rukousajat paikassa Qo‘qon, Uzbekistan: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Qo‘qon.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-qo-qon.html",
+  "id": "/fi/prayer-times-in-qo-qon.html",
   "start_url": "./prayer-times-in-qo-qon.html",
   "scope": "./prayer-times-in-qo-qon.html",
   "display": "standalone",

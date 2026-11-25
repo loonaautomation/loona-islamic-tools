@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mataram",
   "short_name": "Časy modliteb v Mataram",
   "description": "Dnešní časy modliteb v Mataram, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mataram.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mataram.html",
+  "id": "/cs/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

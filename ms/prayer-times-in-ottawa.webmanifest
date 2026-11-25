@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Ottawa",
   "short_name": "Waktu Solat di Ottawa",
   "description": "Waktu solat hari ini di Ottawa, Kanada: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Ottawa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-ottawa.html",
+  "id": "/ms/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

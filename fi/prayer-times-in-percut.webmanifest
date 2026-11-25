@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Percut",
   "short_name": "Rukousajat: Percut",
   "description": "Tämän päivän rukousajat paikassa Percut, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Percut.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-percut.html",
+  "id": "/fi/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

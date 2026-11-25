@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sivas",
   "short_name": "Časy modlitieb v Sivas",
   "description": "Dnešné časy modlitieb v Sivas, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sivas.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sivas.html",
+  "id": "/sk/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

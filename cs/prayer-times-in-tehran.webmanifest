@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tehran",
   "short_name": "Časy modliteb v Tehran",
   "description": "Dnešní časy modliteb v Tehran, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tehran.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tehran.html",
+  "id": "/cs/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

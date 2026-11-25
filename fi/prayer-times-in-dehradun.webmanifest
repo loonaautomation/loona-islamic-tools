@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dehradun",
   "short_name": "Rukousajat: Dehradun",
   "description": "Tämän päivän rukousajat paikassa Dehradun, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Dehradun.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dehradun.html",
+  "id": "/fi/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

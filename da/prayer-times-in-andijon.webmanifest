@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Andijon",
   "short_name": "Bønnetider i Andijon",
   "description": "Dagens bønnetider i Andijon, Usbekistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Andijon.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-andijon.html",
+  "id": "/da/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ţarţūs",
   "short_name": "Часове за намаз в Ţarţūs",
   "description": "Днешните часове за намаз в Ţarţūs, Сирия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ţarţūs.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tartus.html",
+  "id": "/bg/prayer-times-in-tartus.html",
   "start_url": "./prayer-times-in-tartus.html",
   "scope": "./prayer-times-in-tartus.html",
   "display": "standalone",

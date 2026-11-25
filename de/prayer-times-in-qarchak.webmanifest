@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qarchak",
   "short_name": "Gebetszeiten in Qarchak",
   "description": "Die heutigen Gebetszeiten in Qarchak, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Qarchak.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qarchak.html",
+  "id": "/de/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

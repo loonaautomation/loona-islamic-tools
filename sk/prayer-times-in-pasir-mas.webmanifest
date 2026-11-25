@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Pasir Mas",
   "short_name": "Časy modlitieb v Pasir Mas",
   "description": "Dnešné časy modlitieb v Pasir Mas, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Pasir Mas.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-pasir-mas.html",
+  "id": "/sk/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

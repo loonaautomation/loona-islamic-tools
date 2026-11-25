@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kom Ombo",
   "short_name": "Часове за намаз в Kom Ombo",
   "description": "Днешните часове за намаз в Kom Ombo, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Kom Ombo.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kom-ombo.html",
+  "id": "/bg/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

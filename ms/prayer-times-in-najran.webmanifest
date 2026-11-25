@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Najrān",
   "short_name": "Waktu Solat di Najrān",
   "description": "Waktu solat hari ini di Najrān, Arab Saudi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Umm al-Qura, dikira secara langsung pada peranti anda untuk Najrān.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-najran.html",
+  "id": "/ms/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

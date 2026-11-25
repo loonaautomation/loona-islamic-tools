@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mathura",
   "short_name": "Czasy modlitw w miejscowości Mathura",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mathura, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Mathura.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mathura.html",
+  "id": "/pl/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

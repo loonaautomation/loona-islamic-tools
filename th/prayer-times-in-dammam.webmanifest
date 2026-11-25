@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Dammam",
   "short_name": "เวลาละหมาดใน Dammam",
   "description": "เวลาละหมาดวันนี้ใน Dammam, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Umm al-Qura คำนวณสดบนอุปกรณ์ของคุณสำหรับ Dammam",
-  "id": "/loona-islamic-tools/th/prayer-times-in-dammam.html",
+  "id": "/th/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

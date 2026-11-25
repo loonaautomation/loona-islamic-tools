@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kansas City",
   "short_name": "مواقيت الصلاة في Kansas City",
   "description": "مواقيت الصلاة اليوم في Kansas City، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـKansas City.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kansas-city.html",
+  "id": "/ar/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

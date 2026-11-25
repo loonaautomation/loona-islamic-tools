@@ -2,7 +2,7 @@
   "name": "Loona Czas modlitwy: Kuwait City",
   "short_name": "Czas modlitwy: Kuwait City",
   "description": "Dzisiejsze czasy modlitw w Kuwejt City, Kuwejt: Fajr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla Kuwejt City.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kuwait-city.html",
+  "id": "/pl/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

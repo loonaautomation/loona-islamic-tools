@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Balbala",
   "short_name": "Час намазу в Balbala",
   "description": "Сьогоднішній час намазу в Balbala, Джибуті: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Balbala.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-balbala.html",
+  "id": "/uk/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Benghazi",
   "short_name": "Gebedstijden in Benghazi",
   "description": "De gebedstijden van vandaag in Benghazi, Libië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Benghazi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-benghazi.html",
+  "id": "/nl/prayer-times-in-benghazi.html",
   "start_url": "./prayer-times-in-benghazi.html",
   "scope": "./prayer-times-in-benghazi.html",
   "display": "standalone",

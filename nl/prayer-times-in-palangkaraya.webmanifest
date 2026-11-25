@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Palangkaraya",
   "short_name": "Gebedstijden in Palangkaraya",
   "description": "De gebedstijden van vandaag in Palangkaraya, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Palangkaraya.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-palangkaraya.html",
+  "id": "/nl/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

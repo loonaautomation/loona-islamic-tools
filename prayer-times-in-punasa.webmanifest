@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Punāsa",
   "short_name": "Prayer Times in Punāsa",
   "description": "Today's prayer times in Punāsa, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Punāsa.",
-  "id": "/loona-islamic-tools/prayer-times-in-punasa.html",
+  "id": "/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

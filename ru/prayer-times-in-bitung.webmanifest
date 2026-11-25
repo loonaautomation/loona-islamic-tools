@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bitung",
   "short_name": "Время намаза в городе Bitung",
   "description": "Время намаза на сегодня: Bitung, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Bitung.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bitung.html",
+  "id": "/ru/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

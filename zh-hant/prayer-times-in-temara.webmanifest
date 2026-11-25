@@ -2,7 +2,7 @@
   "name": "Loona Temara的禮拜時間",
   "short_name": "Temara的禮拜時間",
   "description": "Temara（摩洛哥）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Temara實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-temara.html",
+  "id": "/zh-hant/prayer-times-in-temara.html",
   "start_url": "./prayer-times-in-temara.html",
   "scope": "./prayer-times-in-temara.html",
   "display": "standalone",

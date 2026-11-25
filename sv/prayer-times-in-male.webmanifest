@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Male",
   "short_name": "Bönetider i Male",
   "description": "Dagens bönetider i Male, Maldiverna: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Male.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-male.html",
+  "id": "/sv/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

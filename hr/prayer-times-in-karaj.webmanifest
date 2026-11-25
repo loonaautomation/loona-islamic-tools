@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Karaj",
   "short_name": "Vremena namaza u gradu Karaj",
   "description": "Današnja vremena namaza u gradu Karaj, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Karaj.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-karaj.html",
+  "id": "/hr/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

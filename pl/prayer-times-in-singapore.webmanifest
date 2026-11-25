@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Singapore",
   "short_name": "Czasy modlitw w miejscowości Singapore",
   "description": "Dzisiejsze czasy modlitw w miejscowości Singapore, kraj Singapur: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Singapore.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-singapore.html",
+  "id": "/pl/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

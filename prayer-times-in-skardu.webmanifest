@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Skardu",
   "short_name": "Prayer Times in Skardu",
   "description": "Today's prayer times in Skardu, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Skardu.",
-  "id": "/loona-islamic-tools/prayer-times-in-skardu.html",
+  "id": "/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Al Jubayl",
   "short_name": "เวลาละหมาดใน Al Jubayl",
   "description": "เวลาละหมาดวันนี้ใน Al Jubayl, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Umm al-Qura คำนวณสดบนอุปกรณ์ของคุณสำหรับ Al Jubayl",
-  "id": "/loona-islamic-tools/th/prayer-times-in-al-jubayl.html",
+  "id": "/th/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

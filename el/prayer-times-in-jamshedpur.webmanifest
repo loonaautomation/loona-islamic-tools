@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Jamshedpur",
   "short_name": "Ώρες Προσευχής στο Jamshedpur",
   "description": "Οι σημερινές ώρες προσευχής στο Jamshedpur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Jamshedpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-jamshedpur.html",
+  "id": "/el/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

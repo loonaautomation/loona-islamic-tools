@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kankan",
   "short_name": "זמני תפילה בעיר Kankan",
   "description": "זמני התפילה של היום בעיר Kankan, גינאה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kankan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kankan.html",
+  "id": "/he/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

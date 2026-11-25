@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Purwokerto",
   "short_name": "Bønnetider i Purwokerto",
   "description": "Dagens bønnetider i Purwokerto, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Purwokerto.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-purwokerto.html",
+  "id": "/nb/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

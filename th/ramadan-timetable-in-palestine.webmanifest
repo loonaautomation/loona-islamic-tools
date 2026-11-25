@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Palestine 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Palestine 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Palestine: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Ramallah. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-palestine.html",
+  "id": "/th/ramadan-timetable-in-palestine.html",
   "start_url": "./ramadan-timetable-in-palestine.html",
   "scope": "./ramadan-timetable-in-palestine.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kota Kinabalu",
   "short_name": "Bønnetider i Kota Kinabalu",
   "description": "Dagens bønnetider i Kota Kinabalu, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kota Kinabalu.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kota-kinabalu.html",
+  "id": "/da/prayer-times-in-kota-kinabalu.html",
   "start_url": "./prayer-times-in-kota-kinabalu.html",
   "scope": "./prayer-times-in-kota-kinabalu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh ramadánu v Tunisko 2027 (1448)",
   "short_name": "Rozvrh ramadánu v Tunisko 2027 (1448)",
   "description": "Rozvrh ramadánu 2027 pro Tunisko: časy konce Sehri (Fadžr) a Iftaru (Maghrib) na každý den ramadánu 1448, vypočítané pro Tunis. Očekáváno od 8 února do 8 března 2027, v závislosti na pozorování měsíce.",
-  "id": "/loona-islamic-tools/cs/ramadan-timetable-in-tunisia.html",
+  "id": "/cs/ramadan-timetable-in-tunisia.html",
   "start_url": "./ramadan-timetable-in-tunisia.html",
   "scope": "./ramadan-timetable-in-tunisia.html",
   "display": "standalone",

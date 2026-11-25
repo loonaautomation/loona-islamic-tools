@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Abu Dhabi",
   "short_name": "Bönetider i Abu Dhabi",
   "description": "Dagens bönetider i Abu Dhabi, Förenade Arabemiraten: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Abu Dhabi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-abu-dhabi.html",
+  "id": "/sv/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

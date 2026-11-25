@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Dinajpur",
   "short_name": "זמני תפילה בעיר Dinajpur",
   "description": "זמני התפילה של היום בעיר Dinajpur, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Dinajpur.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-dinajpur.html",
+  "id": "/he/prayer-times-in-dinajpur.html",
   "start_url": "./prayer-times-in-dinajpur.html",
   "scope": "./prayer-times-in-dinajpur.html",
   "display": "standalone",

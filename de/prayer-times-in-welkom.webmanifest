@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Welkom",
   "short_name": "Gebetszeiten in Welkom",
   "description": "Die heutigen Gebetszeiten in Welkom, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Welkom.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-welkom.html",
+  "id": "/de/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

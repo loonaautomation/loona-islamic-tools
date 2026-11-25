@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sadr City",
   "short_name": "Czasy modlitw w miejscowości Sadr City",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sadr City, kraj Irak: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Sadr City.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sadr-city.html",
+  "id": "/pl/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

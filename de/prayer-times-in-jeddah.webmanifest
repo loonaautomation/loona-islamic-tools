@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jeddah",
   "short_name": "Gebetszeiten in Jeddah",
   "description": "Die heutigen Gebetszeiten in Jeddah, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Jeddah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jeddah.html",
+  "id": "/de/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

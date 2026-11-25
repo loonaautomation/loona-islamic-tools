@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karaj",
   "short_name": "Gebetszeiten in Karaj",
   "description": "Die heutigen Gebetszeiten in Karaj, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Karaj.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karaj.html",
+  "id": "/de/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

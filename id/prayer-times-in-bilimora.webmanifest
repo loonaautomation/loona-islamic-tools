@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bilimora",
   "short_name": "Waktu Salat di Bilimora",
   "description": "Waktu salat hari ini di Bilimora, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Bilimora.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bilimora.html",
+  "id": "/id/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

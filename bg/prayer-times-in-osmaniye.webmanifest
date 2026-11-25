@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Osmaniye",
   "short_name": "Часове за намаз в Osmaniye",
   "description": "Днешните часове за намаз в Osmaniye, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Osmaniye.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-osmaniye.html",
+  "id": "/bg/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

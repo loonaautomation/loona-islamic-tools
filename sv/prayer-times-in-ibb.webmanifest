@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ibb",
   "short_name": "Bönetider i Ibb",
   "description": "Dagens bönetider i Ibb, Jemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ibb.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ibb.html",
+  "id": "/sv/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

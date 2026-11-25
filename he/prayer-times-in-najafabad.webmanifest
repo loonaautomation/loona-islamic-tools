@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Najafābād",
   "short_name": "זמני תפילה בעיר Najafābād",
   "description": "זמני התפילה של היום בעיר Najafābād, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Najafābād.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-najafabad.html",
+  "id": "/he/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

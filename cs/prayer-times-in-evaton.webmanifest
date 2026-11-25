@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Evaton",
   "short_name": "Časy modliteb v Evaton",
   "description": "Dnešní časy modliteb v Evaton, Jihoafrická republika: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Evaton.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-evaton.html",
+  "id": "/cs/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

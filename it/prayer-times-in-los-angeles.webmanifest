@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Los Angeles",
   "short_name": "Orari di preghiera a Los Angeles",
   "description": "Orari di preghiera di oggi a Los Angeles, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Los Angeles.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-los-angeles.html",
+  "id": "/it/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

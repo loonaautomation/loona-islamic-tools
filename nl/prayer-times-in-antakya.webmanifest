@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Antakya",
   "short_name": "Gebedstijden in Antakya",
   "description": "De gebedstijden van vandaag in Antakya, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Antakya.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-antakya.html",
+  "id": "/nl/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

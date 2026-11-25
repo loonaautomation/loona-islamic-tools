@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tétouan",
   "short_name": "Bønnetider i Tétouan",
   "description": "Dagens bønnetider i Tétouan, Marokko: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Tétouan.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-tetouan.html",
+  "id": "/da/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

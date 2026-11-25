@@ -2,7 +2,7 @@
   "name": "Loona Dushanbe の礼拝時刻",
   "short_name": "Dushanbe の礼拝時刻",
   "description": "Dushanbe（タジキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Dushanbe についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-dushanbe.html",
+  "id": "/ja/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

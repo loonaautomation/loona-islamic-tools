@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Münster",
   "short_name": "مواقيت الصلاة في Münster",
   "description": "مواقيت الصلاة اليوم في Münster، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMünster.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-muenster.html",
+  "id": "/ar/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

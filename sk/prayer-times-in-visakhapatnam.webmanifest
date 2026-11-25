@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Visakhapatnam",
   "short_name": "Časy modlitieb v Visakhapatnam",
   "description": "Dnešné časy modlitieb v Visakhapatnam, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Visakhapatnam.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-visakhapatnam.html",
+  "id": "/sk/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

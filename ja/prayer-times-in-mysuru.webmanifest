@@ -2,7 +2,7 @@
   "name": "Loona Mysuru の礼拝時刻",
   "short_name": "Mysuru の礼拝時刻",
   "description": "Mysuru（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Mysuru についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-mysuru.html",
+  "id": "/ja/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

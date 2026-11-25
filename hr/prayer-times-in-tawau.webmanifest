@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tawau",
   "short_name": "Vremena namaza u gradu Tawau",
   "description": "Današnja vremena namaza u gradu Tawau, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tawau.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tawau.html",
+  "id": "/hr/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

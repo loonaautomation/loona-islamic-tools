@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Ballari",
   "short_name": "Heures de prière à Ballari",
   "description": "Les heures de prière d’aujourd’hui à Ballari, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Ballari.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-ballari.html",
+  "id": "/fr/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

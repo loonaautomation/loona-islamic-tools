@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tasikmalaya",
   "short_name": "مواقيت الصلاة في Tasikmalaya",
   "description": "مواقيت الصلاة اليوم في Tasikmalaya، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTasikmalaya.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tasikmalaya.html",
+  "id": "/ar/prayer-times-in-tasikmalaya.html",
   "start_url": "./prayer-times-in-tasikmalaya.html",
   "scope": "./prayer-times-in-tasikmalaya.html",
   "display": "standalone",

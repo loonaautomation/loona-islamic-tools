@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kom Ombo",
   "short_name": "זמני תפילה בעיר Kom Ombo",
   "description": "זמני התפילה של היום בעיר Kom Ombo, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Kom Ombo.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kom-ombo.html",
+  "id": "/he/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Seattle Namaz Vakitleri",
   "short_name": "Seattle Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Seattle, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Seattle için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-seattle.html",
+  "id": "/tr/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

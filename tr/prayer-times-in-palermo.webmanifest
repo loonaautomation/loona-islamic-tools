@@ -2,7 +2,7 @@
   "name": "Loona Palermo Namaz Vakitleri",
   "short_name": "Palermo Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Palermo, İtalya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Palermo için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-palermo.html",
+  "id": "/tr/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

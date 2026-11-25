@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dajal",
   "short_name": "Bønnetider i Dajal",
   "description": "Dagens bønnetider i Dajal, Pakistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Dajal.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-dajal.html",
+  "id": "/da/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

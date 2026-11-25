@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Sahiwal",
   "short_name": "Heures de prière à Sahiwal",
   "description": "Les heures de prière d’aujourd’hui à Sahiwal, Pakistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Sahiwal.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-sahiwal.html",
+  "id": "/fr/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

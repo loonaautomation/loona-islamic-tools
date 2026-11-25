@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Memphis",
   "short_name": "זמני תפילה בעיר Memphis",
   "description": "זמני התפילה של היום בעיר Memphis, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Memphis.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-memphis.html",
+  "id": "/he/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

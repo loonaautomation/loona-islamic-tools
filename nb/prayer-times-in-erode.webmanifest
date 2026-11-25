@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Erode",
   "short_name": "Bønnetider i Erode",
   "description": "Dagens bønnetider i Erode, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Erode.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-erode.html",
+  "id": "/nb/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

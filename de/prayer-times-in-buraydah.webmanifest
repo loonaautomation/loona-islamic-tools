@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Buraydah",
   "short_name": "Gebetszeiten in Buraydah",
   "description": "Die heutigen Gebetszeiten in Buraydah, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Buraydah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-buraydah.html",
+  "id": "/de/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

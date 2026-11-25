@@ -2,7 +2,7 @@
   "name": "Loona Brussels Namaz Vakitleri",
   "short_name": "Brussels Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Brussels, Belçika: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Brussels için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-brussels.html",
+  "id": "/tr/prayer-times-in-brussels.html",
   "start_url": "./prayer-times-in-brussels.html",
   "scope": "./prayer-times-in-brussels.html",
   "display": "standalone",

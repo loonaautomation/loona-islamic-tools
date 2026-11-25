@@ -2,7 +2,7 @@
   "name": "Loona Al Hoceïma imaidői",
   "short_name": "Al Hoceïma imaidői",
   "description": "A mai imaidők: Al Hoceïma, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Al Hoceïma számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-hoceima.html",
+  "id": "/hu/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

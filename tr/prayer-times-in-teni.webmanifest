@@ -2,7 +2,7 @@
   "name": "Loona Teni Namaz Vakitleri",
   "short_name": "Teni Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Teni, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Teni için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-teni.html",
+  "id": "/tr/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

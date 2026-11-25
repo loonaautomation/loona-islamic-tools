@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cleveland",
   "short_name": "Gebetszeiten in Cleveland",
   "description": "Die heutigen Gebetszeiten in Cleveland, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Cleveland.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cleveland.html",
+  "id": "/de/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

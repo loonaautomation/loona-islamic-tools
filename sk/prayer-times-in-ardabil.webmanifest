@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ardabīl",
   "short_name": "Časy modlitieb v Ardabīl",
   "description": "Dnešné časy modlitieb v Ardabīl, Irán: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Ardabīl.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ardabil.html",
+  "id": "/sk/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

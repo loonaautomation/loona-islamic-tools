@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Washington",
   "short_name": "Časy modliteb v Washington",
   "description": "Dnešní časy modliteb v Washington, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Washington.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-washington.html",
+  "id": "/cs/prayer-times-in-washington.html",
   "start_url": "./prayer-times-in-washington.html",
   "scope": "./prayer-times-in-washington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Atlanta",
   "short_name": "Gebedstijden in Atlanta",
   "description": "De gebedstijden van vandaag in Atlanta, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Atlanta.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-atlanta.html",
+  "id": "/nl/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

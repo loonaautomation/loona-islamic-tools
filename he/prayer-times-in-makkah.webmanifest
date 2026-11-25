@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Makkah",
   "short_name": "זמני תפילה בעיר Makkah",
   "description": "זמני התפילה של היום בעיר Makkah, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Makkah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-makkah.html",
+  "id": "/he/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

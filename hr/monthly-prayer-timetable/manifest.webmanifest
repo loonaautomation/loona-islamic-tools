@@ -2,7 +2,7 @@
   "name": "Loona Mjesečni raspored namaza",
   "short_name": "Mjesečni raspored namaza",
   "description": "Izradite mjesečni raspored namaza za ispis za bilo koji grad: svih šest vremena za cijeli mjesec, s vašom metodom izračuna i školom Asra, besplatno i privatno.",
-  "id": "/loona-islamic-tools/hr/monthly-prayer-timetable/",
+  "id": "/hr/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

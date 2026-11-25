@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Pimpri",
   "short_name": "เวลาละหมาดใน Pimpri",
   "description": "เวลาละหมาดวันนี้ใน Pimpri, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Pimpri",
-  "id": "/loona-islamic-tools/th/prayer-times-in-pimpri.html",
+  "id": "/th/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

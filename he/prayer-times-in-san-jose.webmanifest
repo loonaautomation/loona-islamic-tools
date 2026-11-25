@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר San Jose",
   "short_name": "זמני תפילה בעיר San Jose",
   "description": "זמני התפילה של היום בעיר San Jose, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור San Jose.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-san-jose.html",
+  "id": "/he/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Rome",
   "short_name": "Orari di preghiera a Rome",
   "description": "Orari di preghiera di oggi a Rome, Italia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Rome.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-rome.html",
+  "id": "/it/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

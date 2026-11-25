@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Serang",
   "short_name": "Časy modliteb v Serang",
   "description": "Dnešní časy modliteb v Serang, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Serang.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-serang.html",
+  "id": "/cs/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

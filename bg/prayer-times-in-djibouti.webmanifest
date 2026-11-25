@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Djibouti",
   "short_name": "Часове за намаз в Djibouti",
   "description": "Днешните часове за намаз в Джибути, Джибути: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислен на живо на вашето устройство за Джибути.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-djibouti.html",
+  "id": "/bg/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

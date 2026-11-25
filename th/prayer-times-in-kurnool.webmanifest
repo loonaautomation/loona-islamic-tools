@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kurnool",
   "short_name": "เวลาละหมาดใน Kurnool",
   "description": "เวลาละหมาดวันนี้ใน Kurnool, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kurnool",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kurnool.html",
+  "id": "/th/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

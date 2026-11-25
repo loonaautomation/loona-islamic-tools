@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Valencia",
   "short_name": "مواقيت الصلاة في Valencia",
   "description": "مواقيت الصلاة اليوم في Valencia، إسبانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـValencia.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-valencia.html",
+  "id": "/ar/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Paris",
   "short_name": "Orari di preghiera a Paris",
   "description": "Orari di preghiera di oggi a Paris, Francia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Paris.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-paris.html",
+  "id": "/it/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

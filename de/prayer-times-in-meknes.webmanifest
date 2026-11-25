@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Meknes",
   "short_name": "Gebetszeiten in Meknes",
   "description": "Die heutigen Gebetszeiten in Meknes, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Meknes.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-meknes.html",
+  "id": "/de/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

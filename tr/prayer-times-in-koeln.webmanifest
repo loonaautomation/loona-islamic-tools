@@ -2,7 +2,7 @@
   "name": "Loona Köln Namaz Vakitleri",
   "short_name": "Köln Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Köln, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Köln için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-koeln.html",
+  "id": "/tr/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Orūmīyeh",
   "short_name": "Bönetider i Orūmīyeh",
   "description": "Dagens bönetider i Orūmīyeh, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Orūmīyeh.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-orumiyeh.html",
+  "id": "/sv/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

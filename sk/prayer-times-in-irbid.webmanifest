@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Irbid",
   "short_name": "Časy modlitieb v Irbid",
   "description": "Dnešné časy modlitieb v Irbid, Jordánsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Irbid.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-irbid.html",
+  "id": "/sk/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

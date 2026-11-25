@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mallawī",
   "short_name": "Vremena namaza u gradu Mallawī",
   "description": "Današnja vremena namaza u gradu Mallawī, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Egyptian General Authority, izračunato uživo na vašem uređaju za grad Mallawī.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mallawi.html",
+  "id": "/hr/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

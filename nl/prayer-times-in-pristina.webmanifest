@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Pristina",
   "short_name": "Gebedstijden in Pristina",
   "description": "De gebedstijden van vandaag in Pristina, Kosovo: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Pristina.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-pristina.html",
+  "id": "/nl/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

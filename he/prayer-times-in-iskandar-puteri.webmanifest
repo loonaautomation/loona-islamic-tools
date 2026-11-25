@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Iskandar Puteri",
   "short_name": "זמני תפילה בעיר Iskandar Puteri",
   "description": "זמני התפילה של היום בעיר Iskandar Puteri, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Iskandar Puteri.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-iskandar-puteri.html",
+  "id": "/he/prayer-times-in-iskandar-puteri.html",
   "start_url": "./prayer-times-in-iskandar-puteri.html",
   "scope": "./prayer-times-in-iskandar-puteri.html",
   "display": "standalone",

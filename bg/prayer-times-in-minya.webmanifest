@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Minya",
   "short_name": "Часове за намаз в Minya",
   "description": "Днешните часове за намаз в Minya, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Minya.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-minya.html",
+  "id": "/bg/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

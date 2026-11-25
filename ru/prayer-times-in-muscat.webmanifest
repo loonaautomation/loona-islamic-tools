@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Muscat",
   "short_name": "Время намаза в городе Muscat",
   "description": "Время намаза на сегодня: Muscat, Оман: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Muscat.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-muscat.html",
+  "id": "/ru/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

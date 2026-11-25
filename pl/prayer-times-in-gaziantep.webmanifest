@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Gaziantep",
   "short_name": "Czasy modlitw w miejscowości Gaziantep",
   "description": "Dzisiejsze czasy modlitw w miejscowości Gaziantep, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Gaziantep.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-gaziantep.html",
+  "id": "/pl/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

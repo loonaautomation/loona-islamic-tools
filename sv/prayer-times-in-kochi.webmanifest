@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kochi",
   "short_name": "Bönetider i Kochi",
   "description": "Dagens bönetider i Kochi, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Kochi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kochi.html",
+  "id": "/sv/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

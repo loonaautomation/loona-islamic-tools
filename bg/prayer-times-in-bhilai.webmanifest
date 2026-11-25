@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Bhilai",
   "short_name": "Часове за намаз в Bhilai",
   "description": "Днешните часове за намаз в Bhilai, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Bhilai.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-bhilai.html",
+  "id": "/bg/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

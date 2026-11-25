@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Surabaya",
   "short_name": "זמני תפילה בעיר Surabaya",
   "description": "זמני התפילה של היום בעיר Surabaya, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Surabaya.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-surabaya.html",
+  "id": "/he/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

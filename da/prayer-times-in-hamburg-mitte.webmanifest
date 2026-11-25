@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hamburg-Mitte",
   "short_name": "Bønnetider i Hamburg-Mitte",
   "description": "Dagens bønnetider i Hamburg-Mitte, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-hamburg-mitte.html",
+  "id": "/da/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Cincinnati",
   "short_name": "Časy modlitieb v Cincinnati",
   "description": "Dnešné časy modlitieb v Cincinnati, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Cincinnati.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cincinnati.html",
+  "id": "/sk/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

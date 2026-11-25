@@ -2,7 +2,7 @@
   "name": "Loona Calgary imaidői",
   "short_name": "Calgary imaidői",
   "description": "A mai imaidők: Calgary, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Calgary számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-calgary.html",
+  "id": "/hu/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

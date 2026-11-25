@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Banja Luka",
   "short_name": "Vremena namaza u gradu Banja Luka",
   "description": "Današnja vremena namaza u gradu Banja Luka, Bosna i Hercegovina: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Banja Luka.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-banja-luka.html",
+  "id": "/hr/prayer-times-in-banja-luka.html",
   "start_url": "./prayer-times-in-banja-luka.html",
   "scope": "./prayer-times-in-banja-luka.html",
   "display": "standalone",

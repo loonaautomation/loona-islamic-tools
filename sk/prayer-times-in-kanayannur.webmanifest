@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kanayannur",
   "short_name": "Časy modlitieb v Kanayannur",
   "description": "Dnešné časy modlitieb v Kanayannur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kanayannur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kanayannur.html",
+  "id": "/sk/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

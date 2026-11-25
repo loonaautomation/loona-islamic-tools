@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rangpur",
   "short_name": "Rukousajat: Rangpur",
   "description": "Tämän päivän rukousajat paikassa Rangpur, Bangladesh: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Rangpur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rangpur.html",
+  "id": "/fi/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

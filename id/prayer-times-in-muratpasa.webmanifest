@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Muratpaşa",
   "short_name": "Waktu Salat di Muratpaşa",
   "description": "Waktu salat hari ini di Muratpaşa, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Muratpaşa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-muratpasa.html",
+  "id": "/id/prayer-times-in-muratpasa.html",
   "start_url": "./prayer-times-in-muratpasa.html",
   "scope": "./prayer-times-in-muratpasa.html",
   "display": "standalone",

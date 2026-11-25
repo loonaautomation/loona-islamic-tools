@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Buraydah",
   "short_name": "Bönetider i Buraydah",
   "description": "Dagens bönetider i Buraydah, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Buraydah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-buraydah.html",
+  "id": "/sv/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

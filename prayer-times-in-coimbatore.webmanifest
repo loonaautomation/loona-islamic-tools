@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Coimbatore",
   "short_name": "Prayer Times in Coimbatore",
   "description": "Today's prayer times in Coimbatore, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Coimbatore.",
-  "id": "/loona-islamic-tools/prayer-times-in-coimbatore.html",
+  "id": "/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

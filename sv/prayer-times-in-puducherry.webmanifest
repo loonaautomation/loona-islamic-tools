@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Puducherry",
   "short_name": "Bönetider i Puducherry",
   "description": "Dagens bönetider i Puducherry, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Puducherry.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-puducherry.html",
+  "id": "/sv/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Stockholm Today",
   "short_name": "Prayer Times in Stockholm Today",
   "description": "Today's prayer times in Stockholm, Sweden: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Stockholm.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-stockholm.html",
+  "id": "/en-us/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

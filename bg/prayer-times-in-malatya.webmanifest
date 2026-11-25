@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Malatya",
   "short_name": "Часове за намаз в Malatya",
   "description": "Днешните часове за намаз в Malatya, Турция: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Malatya.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-malatya.html",
+  "id": "/bg/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

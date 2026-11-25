@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kalaburagi",
   "short_name": "เวลาละหมาดใน Kalaburagi",
   "description": "เวลาละหมาดวันนี้ใน Kalaburagi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kalaburagi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kalaburagi.html",
+  "id": "/th/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

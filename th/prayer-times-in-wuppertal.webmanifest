@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Wuppertal",
   "short_name": "เวลาละหมาดใน Wuppertal",
   "description": "เวลาละหมาดวันนี้ใน Wuppertal, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Wuppertal",
-  "id": "/loona-islamic-tools/th/prayer-times-in-wuppertal.html",
+  "id": "/th/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

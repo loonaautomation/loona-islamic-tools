@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Brāhmanbāria",
   "short_name": "Bønnetider i Brāhmanbāria",
   "description": "Dagens bønnetider i Brāhmanbāria, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Brāhmanbāria.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-brahmanbaria.html",
+  "id": "/nb/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

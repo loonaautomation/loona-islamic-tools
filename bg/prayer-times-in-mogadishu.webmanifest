@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mogadishu",
   "short_name": "Часове за намаз в Mogadishu",
   "description": "Днешните часове за намаз в Mogadishu, Сомалия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Mogadishu.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mogadishu.html",
+  "id": "/bg/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

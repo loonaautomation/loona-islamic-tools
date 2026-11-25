@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kota Kuala Muda",
   "short_name": "مواقيت الصلاة في Kota Kuala Muda",
   "description": "مواقيت الصلاة اليوم في Kota Kuala Muda، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKota Kuala Muda.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kota-kuala-muda.html",
+  "id": "/ar/prayer-times-in-kota-kuala-muda.html",
   "start_url": "./prayer-times-in-kota-kuala-muda.html",
   "scope": "./prayer-times-in-kota-kuala-muda.html",
   "display": "standalone",

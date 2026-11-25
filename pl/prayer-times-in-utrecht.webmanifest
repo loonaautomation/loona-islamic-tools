@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Utrecht",
   "short_name": "Czasy modlitw w miejscowości Utrecht",
   "description": "Dzisiejsze czasy modlitw w miejscowości Utrecht, kraj Niderlandy: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Utrecht.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-utrecht.html",
+  "id": "/pl/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

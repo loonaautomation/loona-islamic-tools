@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ranchi",
   "short_name": "Gebedstijden in Ranchi",
   "description": "De gebedstijden van vandaag in Ranchi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Ranchi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ranchi.html",
+  "id": "/nl/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

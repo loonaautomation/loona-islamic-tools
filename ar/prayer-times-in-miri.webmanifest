@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Miri",
   "short_name": "مواقيت الصلاة في Miri",
   "description": "مواقيت الصلاة اليوم في Miri، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMiri.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-miri.html",
+  "id": "/ar/prayer-times-in-miri.html",
   "start_url": "./prayer-times-in-miri.html",
   "scope": "./prayer-times-in-miri.html",
   "display": "standalone",

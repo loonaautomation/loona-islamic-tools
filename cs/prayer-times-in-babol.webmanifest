@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bābol",
   "short_name": "Časy modliteb v Bābol",
   "description": "Dnešní časy modliteb v Bābol, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bābol.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-babol.html",
+  "id": "/cs/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ra’s Bayrūt",
   "short_name": "مواقيت الصلاة في Ra’s Bayrūt",
   "description": "مواقيت الصلاة اليوم في Ra’s Bayrūt، لبنان: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRa’s Bayrūt.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ra-s-bayrut.html",
+  "id": "/ar/prayer-times-in-ra-s-bayrut.html",
   "start_url": "./prayer-times-in-ra-s-bayrut.html",
   "scope": "./prayer-times-in-ra-s-bayrut.html",
   "display": "standalone",

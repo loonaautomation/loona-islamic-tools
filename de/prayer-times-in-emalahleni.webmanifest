@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Emalahleni",
   "short_name": "Gebetszeiten in Emalahleni",
   "description": "Die heutigen Gebetszeiten in Emalahleni, Südafrika: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Emalahleni.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-emalahleni.html",
+  "id": "/de/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mazār-e Sharīf",
   "short_name": "Orari di preghiera a Mazār-e Sharīf",
   "description": "Orari di preghiera di oggi a Mazār-e Sharīf, Afghanistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Mazār-e Sharīf.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mazar-e-sharif.html",
+  "id": "/it/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

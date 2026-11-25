@@ -2,7 +2,7 @@
   "name": "Loona Diyarbakır的礼拜时间",
   "short_name": "Diyarbakır的礼拜时间",
   "description": "Diyarbakır（土耳其）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Diyarbakır实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-diyarbakir.html",
+  "id": "/zh/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

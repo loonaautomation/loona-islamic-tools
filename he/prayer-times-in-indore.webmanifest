@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Indore",
   "short_name": "זמני תפילה בעיר Indore",
   "description": "זמני התפילה של היום בעיר Indore, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Indore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-indore.html",
+  "id": "/he/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

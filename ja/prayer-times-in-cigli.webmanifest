@@ -2,7 +2,7 @@
   "name": "Loona Çiğli の礼拝時刻",
   "short_name": "Çiğli の礼拝時刻",
   "description": "Çiğli（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Çiğli についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-cigli.html",
+  "id": "/ja/prayer-times-in-cigli.html",
   "start_url": "./prayer-times-in-cigli.html",
   "scope": "./prayer-times-in-cigli.html",
   "display": "standalone",

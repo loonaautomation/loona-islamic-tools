@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Saddiqabad",
   "short_name": "Časy modlitieb v Saddiqabad",
   "description": "Dnešné časy modlitieb v Saddiqabad, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Saddiqabad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-saddiqabad.html",
+  "id": "/sk/prayer-times-in-saddiqabad.html",
   "start_url": "./prayer-times-in-saddiqabad.html",
   "scope": "./prayer-times-in-saddiqabad.html",
   "display": "standalone",

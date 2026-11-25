@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Naples",
   "short_name": "Gebetszeiten in Naples",
   "description": "Die heutigen Gebetszeiten in Naples, Italien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Naples.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-naples.html",
+  "id": "/de/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

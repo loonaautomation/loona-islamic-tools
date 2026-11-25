@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pikine",
   "short_name": "Bönetider i Pikine",
   "description": "Dagens bönetider i Pikine, Senegal: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pikine.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pikine.html",
+  "id": "/sv/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Al Khums",
   "short_name": "Časy modlitieb v Al Khums",
   "description": "Dnešné časy modlitieb v Al Khums, Líbya: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Al Khums.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-al-khums.html",
+  "id": "/sk/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

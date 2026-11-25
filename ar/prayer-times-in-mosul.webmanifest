@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mosul",
   "short_name": "مواقيت الصلاة في Mosul",
   "description": "مواقيت الصلاة اليوم في Mosul، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMosul.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mosul.html",
+  "id": "/ar/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

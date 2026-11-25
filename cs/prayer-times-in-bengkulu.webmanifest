@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bengkulu",
   "short_name": "Časy modliteb v Bengkulu",
   "description": "Dnešní časy modliteb v Bengkulu, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Bengkulu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bengkulu.html",
+  "id": "/cs/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

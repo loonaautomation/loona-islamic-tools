@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Stockholm",
   "short_name": "Waktu Salat di Stockholm",
   "description": "Waktu salat hari ini di Stockholm, Swedia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Stockholm.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-stockholm.html",
+  "id": "/id/prayer-times-in-stockholm.html",
   "start_url": "./prayer-times-in-stockholm.html",
   "scope": "./prayer-times-in-stockholm.html",
   "display": "standalone",

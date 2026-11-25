@@ -2,7 +2,7 @@
   "name": "Loona Data Islâmica de Hoje",
   "short_name": "Data Islâmica de Hoje",
   "description": "Qual é a data islâmica de hoje? Veja a data da Hégira de hoje — dia, mês e ano (Umm al-Qura) — com a data gregoriana, atualizada ao vivo no seu dispositivo. Grátis.",
-  "id": "/loona-islamic-tools/pt/islamic-date-today/",
+  "id": "/pt/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

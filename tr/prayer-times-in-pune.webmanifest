@@ -2,7 +2,7 @@
   "name": "Loona Pune Namaz Vakitleri",
   "short_name": "Pune Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Pune, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Pune için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-pune.html",
+  "id": "/tr/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

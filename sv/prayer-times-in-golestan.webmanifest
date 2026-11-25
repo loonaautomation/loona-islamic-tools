@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Golestān",
   "short_name": "Bönetider i Golestān",
   "description": "Dagens bönetider i Golestān, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Golestān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-golestan.html",
+  "id": "/sv/prayer-times-in-golestan.html",
   "start_url": "./prayer-times-in-golestan.html",
   "scope": "./prayer-times-in-golestan.html",
   "display": "standalone",

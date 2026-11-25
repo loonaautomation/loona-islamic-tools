@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mymensingh",
   "short_name": "Waktu Salat di Mymensingh",
   "description": "Waktu salat hari ini di Mymensingh, Bangladesh: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Mymensingh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mymensingh.html",
+  "id": "/id/prayer-times-in-mymensingh.html",
   "start_url": "./prayer-times-in-mymensingh.html",
   "scope": "./prayer-times-in-mymensingh.html",
   "display": "standalone",

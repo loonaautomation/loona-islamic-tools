@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kurnool",
   "short_name": "Bønnetider i Kurnool",
   "description": "Dagens bønnetider i Kurnool, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kurnool.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kurnool.html",
+  "id": "/nb/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

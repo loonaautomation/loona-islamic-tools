@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Borama",
   "short_name": "Часове за намаз в Borama",
   "description": "Днешните часове за намаз в Borama, Сомалия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Borama.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-borama.html",
+  "id": "/bg/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

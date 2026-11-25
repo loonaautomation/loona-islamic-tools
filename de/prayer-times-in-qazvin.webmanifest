@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qazvin",
   "short_name": "Gebetszeiten in Qazvin",
   "description": "Die heutigen Gebetszeiten in Qazvin, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Qazvin.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qazvin.html",
+  "id": "/de/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

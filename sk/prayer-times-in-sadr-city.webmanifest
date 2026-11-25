@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sadr City",
   "short_name": "Časy modlitieb v Sadr City",
   "description": "Dnešné časy modlitieb v Sadr City, Irak: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sadr City.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sadr-city.html",
+  "id": "/sk/prayer-times-in-sadr-city.html",
   "start_url": "./prayer-times-in-sadr-city.html",
   "scope": "./prayer-times-in-sadr-city.html",
   "display": "standalone",

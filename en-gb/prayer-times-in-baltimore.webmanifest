@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Baltimore Today",
   "short_name": "Prayer Times in Baltimore Today",
   "description": "Today's prayer times in Baltimore, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Baltimore.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-baltimore.html",
+  "id": "/en-gb/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

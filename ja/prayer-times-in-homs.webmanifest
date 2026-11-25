@@ -2,7 +2,7 @@
   "name": "Loona Homs の礼拝時刻",
   "short_name": "Homs の礼拝時刻",
   "description": "Homs（シリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Homs についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-homs.html",
+  "id": "/ja/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

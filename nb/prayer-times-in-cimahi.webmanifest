@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cimahi",
   "short_name": "Bønnetider i Cimahi",
   "description": "Dagens bønnetider i Cimahi, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Cimahi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-cimahi.html",
+  "id": "/nb/prayer-times-in-cimahi.html",
   "start_url": "./prayer-times-in-cimahi.html",
   "scope": "./prayer-times-in-cimahi.html",
   "display": "standalone",

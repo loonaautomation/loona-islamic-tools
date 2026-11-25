@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nasiriyah",
   "short_name": "זמני תפילה בעיר Nasiriyah",
   "description": "זמני התפילה של היום בעיר Nasiriyah, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Nasiriyah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nasiriyah.html",
+  "id": "/he/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

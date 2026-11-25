@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Banjarmasin",
   "short_name": "Časy modlitieb v Banjarmasin",
   "description": "Dnešné časy modlitieb v Banjarmasin, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Banjarmasin.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-banjarmasin.html",
+  "id": "/sk/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ambattur",
   "short_name": "Gebedstijden in Ambattur",
   "description": "De gebedstijden van vandaag in Ambattur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Ambattur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ambattur.html",
+  "id": "/nl/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

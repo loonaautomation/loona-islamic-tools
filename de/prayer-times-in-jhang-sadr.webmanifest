@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jhang Sadr",
   "short_name": "Gebetszeiten in Jhang Sadr",
   "description": "Die heutigen Gebetszeiten in Jhang Sadr, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jhang Sadr.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jhang-sadr.html",
+  "id": "/de/prayer-times-in-jhang-sadr.html",
   "start_url": "./prayer-times-in-jhang-sadr.html",
   "scope": "./prayer-times-in-jhang-sadr.html",
   "display": "standalone",

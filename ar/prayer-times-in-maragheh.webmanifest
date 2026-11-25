@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Marāgheh",
   "short_name": "مواقيت الصلاة في Marāgheh",
   "description": "مواقيت الصلاة اليوم في Marāgheh، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMarāgheh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-maragheh.html",
+  "id": "/ar/prayer-times-in-maragheh.html",
   "start_url": "./prayer-times-in-maragheh.html",
   "scope": "./prayer-times-in-maragheh.html",
   "display": "standalone",

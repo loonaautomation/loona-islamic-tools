@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Marrakesh",
   "short_name": "Ore de rugăciune în Marrakesh",
   "description": "Orele de rugăciune de azi în Marrakesh, Maroc: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Marrakesh.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-marrakesh.html",
+  "id": "/ro/prayer-times-in-marrakesh.html",
   "start_url": "./prayer-times-in-marrakesh.html",
   "scope": "./prayer-times-in-marrakesh.html",
   "display": "standalone",

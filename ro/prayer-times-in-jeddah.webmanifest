@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Jeddah",
   "short_name": "Ore de rugăciune în Jeddah",
   "description": "Orele de rugăciune de azi în Jeddah, Arabia Saudită: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Umm al-Qura, calculate live pe dispozitivul dvs. pentru Jeddah.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-jeddah.html",
+  "id": "/ro/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

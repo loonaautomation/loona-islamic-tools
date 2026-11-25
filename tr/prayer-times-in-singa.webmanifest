@@ -2,7 +2,7 @@
   "name": "Loona Singa Namaz Vakitleri",
   "short_name": "Singa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Singa, Sudan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Singa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-singa.html",
+  "id": "/tr/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

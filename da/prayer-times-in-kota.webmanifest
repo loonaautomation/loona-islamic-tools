@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kota",
   "short_name": "Bønnetider i Kota",
   "description": "Dagens bønnetider i Kota, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Kota.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kota.html",
+  "id": "/da/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

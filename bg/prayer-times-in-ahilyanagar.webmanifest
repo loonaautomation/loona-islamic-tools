@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ahilyanagar",
   "short_name": "Часове за намаз в Ahilyanagar",
   "description": "Днешните часове за намаз в Ahilyanagar, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Ahilyanagar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-ahilyanagar.html",
+  "id": "/bg/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Yazd",
   "short_name": "مواقيت الصلاة في Yazd",
   "description": "مواقيت الصلاة اليوم في Yazd، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـYazd.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-yazd.html",
+  "id": "/ar/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Surrey imaidői",
   "short_name": "Surrey imaidői",
   "description": "A mai imaidők: Surrey, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Surrey számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-surrey.html",
+  "id": "/hu/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

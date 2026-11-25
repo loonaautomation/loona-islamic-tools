@@ -2,7 +2,7 @@
   "name": "Loona Tarsus imaidői",
   "short_name": "Tarsus imaidői",
   "description": "A mai imaidők: Tarsus, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tarsus számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tarsus.html",
+  "id": "/hu/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

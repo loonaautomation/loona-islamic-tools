@@ -2,7 +2,7 @@
   "name": "Loona Serekunda imaidői",
   "short_name": "Serekunda imaidői",
   "description": "A mai imaidők: Serekunda, Gambia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Serekunda számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-serekunda.html",
+  "id": "/hu/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

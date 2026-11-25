@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Thoothukudi",
   "short_name": "Heures de prière à Thoothukudi",
   "description": "Les heures de prière d’aujourd’hui à Thoothukudi, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Thoothukudi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-thoothukudi.html",
+  "id": "/fr/prayer-times-in-thoothukudi.html",
   "start_url": "./prayer-times-in-thoothukudi.html",
   "scope": "./prayer-times-in-thoothukudi.html",
   "display": "standalone",

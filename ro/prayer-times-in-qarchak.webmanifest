@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Qarchak",
   "short_name": "Ore de rugăciune în Qarchak",
   "description": "Orele de rugăciune de azi în Qarchak, Iran: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Qarchak.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-qarchak.html",
+  "id": "/ro/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

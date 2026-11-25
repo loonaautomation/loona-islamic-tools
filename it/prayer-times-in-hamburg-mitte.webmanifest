@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Hamburg-Mitte",
   "short_name": "Orari di preghiera a Hamburg-Mitte",
   "description": "Orari di preghiera di oggi a Hamburg-Mitte, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Hamburg-Mitte.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-hamburg-mitte.html",
+  "id": "/it/prayer-times-in-hamburg-mitte.html",
   "start_url": "./prayer-times-in-hamburg-mitte.html",
   "scope": "./prayer-times-in-hamburg-mitte.html",
   "display": "standalone",

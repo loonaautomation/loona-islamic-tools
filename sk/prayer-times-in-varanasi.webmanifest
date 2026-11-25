@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Varanasi",
   "short_name": "Časy modlitieb v Varanasi",
   "description": "Dnešné časy modlitieb v Varanasi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Varanasi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-varanasi.html",
+  "id": "/sk/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

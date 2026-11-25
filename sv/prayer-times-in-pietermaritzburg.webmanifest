@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Pietermaritzburg",
   "short_name": "Bönetider i Pietermaritzburg",
   "description": "Dagens bönetider i Pietermaritzburg, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Pietermaritzburg.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-pietermaritzburg.html",
+  "id": "/sv/prayer-times-in-pietermaritzburg.html",
   "start_url": "./prayer-times-in-pietermaritzburg.html",
   "scope": "./prayer-times-in-pietermaritzburg.html",
   "display": "standalone",

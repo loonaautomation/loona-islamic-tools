@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Dallas",
   "short_name": "Ore de rugăciune în Dallas",
   "description": "Orele de rugăciune de azi în Dallas, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Dallas.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-dallas.html",
+  "id": "/ro/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

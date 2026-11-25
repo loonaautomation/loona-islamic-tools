@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Ottawa",
   "short_name": "Giờ cầu nguyện tại Ottawa",
   "description": "Giờ cầu nguyện hôm nay tại Ottawa, Canada: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Ottawa.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-ottawa.html",
+  "id": "/vi/prayer-times-in-ottawa.html",
   "start_url": "./prayer-times-in-ottawa.html",
   "scope": "./prayer-times-in-ottawa.html",
   "display": "standalone",

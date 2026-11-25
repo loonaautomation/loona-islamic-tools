@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sargodha",
   "short_name": "مواقيت الصلاة في Sargodha",
   "description": "مواقيت الصلاة اليوم في Sargodha، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSargodha.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sargodha.html",
+  "id": "/ar/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

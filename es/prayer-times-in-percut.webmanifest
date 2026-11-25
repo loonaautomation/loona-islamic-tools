@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Percut",
   "short_name": "Horarios de oración en Percut",
   "description": "Horarios de oración de hoy en Percut, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Percut.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-percut.html",
+  "id": "/es/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bochum",
   "short_name": "Ore de rugăciune în Bochum",
   "description": "Orele de rugăciune de azi în Bochum, Germania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Bochum.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bochum.html",
+  "id": "/ro/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

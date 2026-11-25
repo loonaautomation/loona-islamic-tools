@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Malacca",
   "short_name": "Bönetider i Malacca",
   "description": "Dagens bönetider i Malacca, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Malacca.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-malacca.html",
+  "id": "/sv/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

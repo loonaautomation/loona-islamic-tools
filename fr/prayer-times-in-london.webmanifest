@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à London",
   "short_name": "Heures de prière à London",
   "description": "Les heures de prière d’aujourd’hui à London, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour London.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-london.html",
+  "id": "/fr/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

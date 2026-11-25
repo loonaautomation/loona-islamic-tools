@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Köln",
   "short_name": "Waktu Salat di Köln",
   "description": "Waktu salat hari ini di Köln, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Köln.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-koeln.html",
+  "id": "/id/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

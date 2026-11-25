@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Makassar",
   "short_name": "Bönetider i Makassar",
   "description": "Dagens bönetider i Makassar, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Makassar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-makassar.html",
+  "id": "/sv/prayer-times-in-makassar.html",
   "start_url": "./prayer-times-in-makassar.html",
   "scope": "./prayer-times-in-makassar.html",
   "display": "standalone",

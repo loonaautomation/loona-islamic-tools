@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Doha",
   "short_name": "Gebedstijden in Doha",
   "description": "De gebedstijden van vandaag in Doha, Qatar: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Doha.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-doha.html",
+  "id": "/nl/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Rustenburg",
   "short_name": "Gebedstijden in Rustenburg",
   "description": "De gebedstijden van vandaag in Rustenburg, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Rustenburg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-rustenburg.html",
+  "id": "/nl/prayer-times-in-rustenburg.html",
   "start_url": "./prayer-times-in-rustenburg.html",
   "scope": "./prayer-times-in-rustenburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Sousse",
   "short_name": "Час намазу в Sousse",
   "description": "Сьогоднішній час намазу в Sousse, Туніс: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Sousse.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sousse.html",
+  "id": "/uk/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v İzmir",
   "short_name": "Časy modlitieb v İzmir",
   "description": "Dnešné časy modlitieb v İzmir, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre İzmir.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-izmir.html",
+  "id": "/sk/prayer-times-in-izmir.html",
   "start_url": "./prayer-times-in-izmir.html",
   "scope": "./prayer-times-in-izmir.html",
   "display": "standalone",

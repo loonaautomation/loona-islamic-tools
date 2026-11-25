@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Luxor",
   "short_name": "مواقيت الصلاة في Luxor",
   "description": "مواقيت الصلاة اليوم في Luxor، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـLuxor.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-luxor.html",
+  "id": "/ar/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

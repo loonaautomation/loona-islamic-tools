@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kostanay",
   "short_name": "Bønnetider i Kostanay",
   "description": "Dagens bønnetider i Kostanay, Kasakhstan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kostanay.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kostanay.html",
+  "id": "/nb/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

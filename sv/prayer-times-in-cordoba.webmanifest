@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Córdoba",
   "short_name": "Bönetider i Córdoba",
   "description": "Dagens bönetider i Córdoba, Spanien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Córdoba.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cordoba.html",
+  "id": "/sv/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Milan",
   "short_name": "Gebedstijden in Milan",
   "description": "De gebedstijden van vandaag in Milan, Italië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Milan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-milan.html",
+  "id": "/nl/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

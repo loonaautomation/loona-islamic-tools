@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tando Bago",
   "short_name": "مواقيت الصلاة في Tando Bago",
   "description": "مواقيت الصلاة اليوم في Tando Bago، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـTando Bago.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tando-bago.html",
+  "id": "/ar/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

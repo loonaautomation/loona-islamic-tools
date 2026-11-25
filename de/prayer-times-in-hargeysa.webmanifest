@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hargeysa",
   "short_name": "Gebetszeiten in Hargeysa",
   "description": "Die heutigen Gebetszeiten in Hargeysa, Somalia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Hargeysa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hargeysa.html",
+  "id": "/de/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

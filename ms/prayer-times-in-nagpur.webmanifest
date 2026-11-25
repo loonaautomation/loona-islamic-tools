@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nagpur",
   "short_name": "Waktu Solat di Nagpur",
   "description": "Waktu solat hari ini di Nagpur, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Nagpur.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nagpur.html",
+  "id": "/ms/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

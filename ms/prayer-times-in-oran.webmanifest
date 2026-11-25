@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Oran",
   "short_name": "Waktu Solat di Oran",
   "description": "Waktu solat hari ini di Oran, Algeria: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Oran.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-oran.html",
+  "id": "/ms/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kediri",
   "short_name": "مواقيت الصلاة في Kediri",
   "description": "مواقيت الصلاة اليوم في Kediri، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKediri.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kediri.html",
+  "id": "/ar/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

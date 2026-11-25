@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Toronto",
   "short_name": "Horarios de oración en Toronto",
   "description": "Horarios de oración de hoy en Toronto, Canadá: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Toronto.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-toronto.html",
+  "id": "/es/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

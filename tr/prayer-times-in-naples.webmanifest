@@ -2,7 +2,7 @@
   "name": "Loona Naples Namaz Vakitleri",
   "short_name": "Naples Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Naples, İtalya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Naples için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-naples.html",
+  "id": "/tr/prayer-times-in-naples.html",
   "start_url": "./prayer-times-in-naples.html",
   "scope": "./prayer-times-in-naples.html",
   "display": "standalone",

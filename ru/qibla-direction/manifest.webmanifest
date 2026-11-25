@@ -2,7 +2,7 @@
   "name": "Loona Направление Киблы",
   "short_name": "Направление Киблы",
   "description": "Найдите направление Киблы в градусах из любого города или вашего точного местоположения, с живым циферблатом компаса и расстоянием до Мекки. Бесплатно, точно и приватно.",
-  "id": "/loona-islamic-tools/ru/qibla-direction/",
+  "id": "/ru/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

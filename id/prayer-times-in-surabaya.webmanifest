@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Surabaya",
   "short_name": "Waktu Salat di Surabaya",
   "description": "Waktu salat hari ini di Surabaya, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Surabaya.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-surabaya.html",
+  "id": "/id/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

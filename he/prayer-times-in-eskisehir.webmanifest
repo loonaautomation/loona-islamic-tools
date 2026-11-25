@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Eskişehir",
   "short_name": "זמני תפילה בעיר Eskişehir",
   "description": "זמני התפילה של היום בעיר Eskişehir, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Eskişehir.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-eskisehir.html",
+  "id": "/he/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

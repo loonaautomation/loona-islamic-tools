@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Peshawar",
   "short_name": "זמני תפילה בעיר Peshawar",
   "description": "זמני התפילה של היום בעיר Peshawar, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Peshawar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-peshawar.html",
+  "id": "/he/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

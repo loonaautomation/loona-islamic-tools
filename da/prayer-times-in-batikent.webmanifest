@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Batikent",
   "short_name": "Bønnetider i Batikent",
   "description": "Dagens bønnetider i Batikent, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Batikent.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-batikent.html",
+  "id": "/da/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Adelaide",
   "short_name": "Час намазу в Adelaide",
   "description": "Сьогоднішній час намазу в Adelaide, Австралія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Adelaide.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-adelaide.html",
+  "id": "/uk/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Serekunda",
   "short_name": "Час намазу в Serekunda",
   "description": "Сьогоднішній час намазу в Serekunda, Гамбія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Serekunda.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-serekunda.html",
+  "id": "/uk/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Brisbane",
   "short_name": "Vremena namaza u gradu Brisbane",
   "description": "Današnja vremena namaza u gradu Brisbane, Australija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Brisbane.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-brisbane.html",
+  "id": "/hr/prayer-times-in-brisbane.html",
   "start_url": "./prayer-times-in-brisbane.html",
   "scope": "./prayer-times-in-brisbane.html",
   "display": "standalone",

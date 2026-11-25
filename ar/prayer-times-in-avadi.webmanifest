@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Avadi",
   "short_name": "مواقيت الصلاة في Avadi",
   "description": "مواقيت الصلاة اليوم في Avadi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAvadi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-avadi.html",
+  "id": "/ar/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jacksonville",
   "short_name": "Waktu Salat di Jacksonville",
   "description": "Waktu salat hari ini di Jacksonville, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Jacksonville.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jacksonville.html",
+  "id": "/id/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

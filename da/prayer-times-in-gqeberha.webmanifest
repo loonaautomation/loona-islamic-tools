@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gqeberha",
   "short_name": "Bønnetider i Gqeberha",
   "description": "Dagens bønnetider i Gqeberha, Sydafrika: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Gqeberha.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-gqeberha.html",
+  "id": "/da/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

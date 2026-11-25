@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Nashik",
   "short_name": "Orari di preghiera a Nashik",
   "description": "Orari di preghiera di oggi a Nashik, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Nashik.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-nashik.html",
+  "id": "/it/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

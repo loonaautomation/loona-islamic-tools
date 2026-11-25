@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Moroni",
   "short_name": "זמני תפילה בעיר Moroni",
   "description": "זמני התפילה של היום בעיר Moroni, קומורו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Moroni.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-moroni.html",
+  "id": "/he/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

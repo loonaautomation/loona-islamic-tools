@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mukalla",
   "short_name": "Vremena namaza u gradu Mukalla",
   "description": "Današnja vremena namaza u gradu Mukalla, Jemen: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Mukalla.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mukalla.html",
+  "id": "/hr/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

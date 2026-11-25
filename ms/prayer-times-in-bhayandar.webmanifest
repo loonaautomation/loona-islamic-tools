@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bhayandar",
   "short_name": "Waktu Solat di Bhayandar",
   "description": "Waktu solat hari ini di Bhayandar, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bhayandar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bhayandar.html",
+  "id": "/ms/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

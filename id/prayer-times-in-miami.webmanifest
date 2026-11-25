@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Miami",
   "short_name": "Waktu Salat di Miami",
   "description": "Waktu salat hari ini di Miami, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Miami.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-miami.html",
+  "id": "/id/prayer-times-in-miami.html",
   "start_url": "./prayer-times-in-miami.html",
   "scope": "./prayer-times-in-miami.html",
   "display": "standalone",

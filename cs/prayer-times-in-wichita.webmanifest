@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Wichita",
   "short_name": "Časy modliteb v Wichita",
   "description": "Dnešní časy modliteb v Wichita, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Wichita.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-wichita.html",
+  "id": "/cs/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

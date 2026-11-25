@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Port Said",
   "short_name": "Bönetider i Port Said",
   "description": "Dagens bönetider i Port Said, Egypten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Egyptian General Authority-metoden, beräknad live på din enhet för Port Said.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-port-said.html",
+  "id": "/sv/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dhaka Namaz Vakitleri",
   "short_name": "Dhaka Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dhaka, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dhaka için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dhaka.html",
+  "id": "/tr/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

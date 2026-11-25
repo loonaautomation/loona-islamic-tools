@@ -2,7 +2,7 @@
   "name": "Loona Brussels imaidői",
   "short_name": "Brussels imaidői",
   "description": "A mai imaidők: Brussels, Belgium: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Brussels számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-brussels.html",
+  "id": "/hu/prayer-times-in-brussels.html",
   "start_url": "./prayer-times-in-brussels.html",
   "scope": "./prayer-times-in-brussels.html",
   "display": "standalone",

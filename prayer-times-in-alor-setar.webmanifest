@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Alor Setar",
   "short_name": "Prayer Times in Alor Setar",
   "description": "Today's prayer times in Alor Setar, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Alor Setar.",
-  "id": "/loona-islamic-tools/prayer-times-in-alor-setar.html",
+  "id": "/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

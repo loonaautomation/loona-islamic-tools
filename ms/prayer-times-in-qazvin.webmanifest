@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Qazvin",
   "short_name": "Waktu Solat di Qazvin",
   "description": "Waktu solat hari ini di Qazvin, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Qazvin.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-qazvin.html",
+  "id": "/ms/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

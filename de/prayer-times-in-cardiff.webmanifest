@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cardiff",
   "short_name": "Gebetszeiten in Cardiff",
   "description": "Die heutigen Gebetszeiten in Cardiff, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Cardiff.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cardiff.html",
+  "id": "/de/prayer-times-in-cardiff.html",
   "start_url": "./prayer-times-in-cardiff.html",
   "scope": "./prayer-times-in-cardiff.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Madiun Today",
   "short_name": "Prayer Times in Madiun Today",
   "description": "Today's prayer times in Madiun, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Madiun.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-madiun.html",
+  "id": "/en-gb/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

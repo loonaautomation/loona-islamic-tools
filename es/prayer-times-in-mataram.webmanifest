@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Mataram",
   "short_name": "Horarios de oración en Mataram",
   "description": "Horarios de oración de hoy en Mataram, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Mataram.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-mataram.html",
+  "id": "/es/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

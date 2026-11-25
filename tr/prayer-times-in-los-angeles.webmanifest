@@ -2,7 +2,7 @@
   "name": "Loona Los Angeles Namaz Vakitleri",
   "short_name": "Los Angeles Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Los Angeles, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Los Angeles için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-los-angeles.html",
+  "id": "/tr/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

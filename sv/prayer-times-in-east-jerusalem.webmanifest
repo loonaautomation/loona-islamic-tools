@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i East Jerusalem",
   "short_name": "Bönetider i East Jerusalem",
   "description": "Dagens bönetider i East Jerusalem, Palestina: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för East Jerusalem.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-east-jerusalem.html",
+  "id": "/sv/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

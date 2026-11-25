@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Blida",
   "short_name": "Heures de prière à Blida",
   "description": "Les heures de prière d’aujourd’hui à Blida, Algérie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Blida.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-blida.html",
+  "id": "/fr/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

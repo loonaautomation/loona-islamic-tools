@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Lexington-Fayette",
   "short_name": "Ώρες Προσευχής στο Lexington-Fayette",
   "description": "Οι σημερινές ώρες προσευχής στο Lexington-Fayette, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Lexington-Fayette.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-lexington-fayette.html",
+  "id": "/el/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Paya Terubong Today",
   "short_name": "Prayer Times in Paya Terubong Today",
   "description": "Today's prayer times in Paya Terubong, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Paya Terubong.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-paya-terubong.html",
+  "id": "/en-gb/prayer-times-in-paya-terubong.html",
   "start_url": "./prayer-times-in-paya-terubong.html",
   "scope": "./prayer-times-in-paya-terubong.html",
   "display": "standalone",

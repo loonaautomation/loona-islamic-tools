@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Damietta",
   "short_name": "Časy modliteb v Damietta",
   "description": "Dnešní časy modliteb v Damietta, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Damietta.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-damietta.html",
+  "id": "/cs/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

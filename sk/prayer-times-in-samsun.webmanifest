@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Samsun",
   "short_name": "Časy modlitieb v Samsun",
   "description": "Dnešné časy modlitieb v Samsun, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Samsun.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-samsun.html",
+  "id": "/sk/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

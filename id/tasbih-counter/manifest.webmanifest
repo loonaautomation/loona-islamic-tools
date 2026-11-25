@@ -2,7 +2,7 @@
   "name": "Loona Penghitung Tasbih",
   "short_name": "Penghitung Tasbih",
   "description": "Penghitung tasbih digital: SubhanAllah, Alhamdulillah dan preset lainnya, target 33/99/100, pelacakan putaran, getaran dan total seumur hidup yang disimpan di perangkat Anda.",
-  "id": "/loona-islamic-tools/id/tasbih-counter/",
+  "id": "/id/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

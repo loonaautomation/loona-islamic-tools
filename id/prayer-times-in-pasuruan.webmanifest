@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pasuruan",
   "short_name": "Waktu Salat di Pasuruan",
   "description": "Waktu salat hari ini di Pasuruan, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Pasuruan.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pasuruan.html",
+  "id": "/id/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

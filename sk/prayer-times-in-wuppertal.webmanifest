@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Wuppertal",
   "short_name": "Časy modlitieb v Wuppertal",
   "description": "Dnešné časy modlitieb v Wuppertal, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Wuppertal.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-wuppertal.html",
+  "id": "/sk/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

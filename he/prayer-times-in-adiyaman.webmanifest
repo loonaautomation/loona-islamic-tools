@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Adıyaman",
   "short_name": "זמני תפילה בעיר Adıyaman",
   "description": "זמני התפילה של היום בעיר Adıyaman, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Adıyaman.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-adiyaman.html",
+  "id": "/he/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

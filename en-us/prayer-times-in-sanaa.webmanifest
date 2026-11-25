@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sanaa Today",
   "short_name": "Prayer Times in Sanaa Today",
   "description": "Today's prayer times in Sanaa, Yemen: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sanaa.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-sanaa.html",
+  "id": "/en-us/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

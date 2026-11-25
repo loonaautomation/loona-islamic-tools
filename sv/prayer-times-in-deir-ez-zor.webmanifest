@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Deir ez-Zor",
   "short_name": "Bönetider i Deir ez-Zor",
   "description": "Dagens bönetider i Deir ez-Zor, Syrien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Deir ez-Zor.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-deir-ez-zor.html",
+  "id": "/sv/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

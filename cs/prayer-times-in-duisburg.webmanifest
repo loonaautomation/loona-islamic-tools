@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Duisburg",
   "short_name": "Časy modliteb v Duisburg",
   "description": "Dnešní časy modliteb v Duisburg, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Duisburg.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-duisburg.html",
+  "id": "/cs/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

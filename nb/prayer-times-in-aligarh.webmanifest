@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Alīgarh",
   "short_name": "Bønnetider i Alīgarh",
   "description": "Dagens bønnetider i Alīgarh, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Alīgarh.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-aligarh.html",
+  "id": "/nb/prayer-times-in-aligarh.html",
   "start_url": "./prayer-times-in-aligarh.html",
   "scope": "./prayer-times-in-aligarh.html",
   "display": "standalone",

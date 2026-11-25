@@ -2,7 +2,7 @@
   "name": "Loona Karachi imaidői",
   "short_name": "Karachi imaidői",
   "description": "A mai imaidők: Karachi, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Karachi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-karachi.html",
+  "id": "/hu/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

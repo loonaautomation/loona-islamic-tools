@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sheffield",
   "short_name": "Waktu Salat di Sheffield",
   "description": "Waktu salat hari ini di Sheffield, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Sheffield.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sheffield.html",
+  "id": "/id/prayer-times-in-sheffield.html",
   "start_url": "./prayer-times-in-sheffield.html",
   "scope": "./prayer-times-in-sheffield.html",
   "display": "standalone",

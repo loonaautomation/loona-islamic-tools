@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Madurai",
   "short_name": "Gebetszeiten in Madurai",
   "description": "Die heutigen Gebetszeiten in Madurai, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Madurai.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-madurai.html",
+  "id": "/de/prayer-times-in-madurai.html",
   "start_url": "./prayer-times-in-madurai.html",
   "scope": "./prayer-times-in-madurai.html",
   "display": "standalone",

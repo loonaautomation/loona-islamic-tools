@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-tidtabell",
   "short_name": "Ramadan-tidtabell",
   "description": "Fullständig Ramadan-tidtabell för valfri stad och valfritt hijri-år: tider för sehris slut och iftar för varje dag i Ramadan med gregorianska datum och fastans längd. Gratis, utskrivbar.",
-  "id": "/loona-islamic-tools/sv/ramadan-timetable/",
+  "id": "/sv/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

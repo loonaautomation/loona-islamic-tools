@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Duisburg",
   "short_name": "Gebedstijden in Duisburg",
   "description": "De gebedstijden van vandaag in Duisburg, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Duisburg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-duisburg.html",
+  "id": "/nl/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

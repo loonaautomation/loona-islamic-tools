@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Cilegon",
   "short_name": "Gebetszeiten in Cilegon",
   "description": "Die heutigen Gebetszeiten in Cilegon, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Cilegon.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-cilegon.html",
+  "id": "/de/prayer-times-in-cilegon.html",
   "start_url": "./prayer-times-in-cilegon.html",
   "scope": "./prayer-times-in-cilegon.html",
   "display": "standalone",

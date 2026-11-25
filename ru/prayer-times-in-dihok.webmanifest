@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Dihok",
   "short_name": "Время намаза в городе Dihok",
   "description": "Время намаза на сегодня: Dihok, Ирак: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Dihok.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-dihok.html",
+  "id": "/ru/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

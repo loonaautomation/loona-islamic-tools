@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dajal",
   "short_name": "Gebetszeiten in Dajal",
   "description": "Die heutigen Gebetszeiten in Dajal, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Dajal.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dajal.html",
+  "id": "/de/prayer-times-in-dajal.html",
   "start_url": "./prayer-times-in-dajal.html",
   "scope": "./prayer-times-in-dajal.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Naz̧arābād",
   "short_name": "זמני תפילה בעיר Naz̧arābād",
   "description": "זמני התפילה של היום בעיר Naz̧arābād, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Naz̧arābād.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nazarabad.html",
+  "id": "/he/prayer-times-in-nazarabad.html",
   "start_url": "./prayer-times-in-nazarabad.html",
   "scope": "./prayer-times-in-nazarabad.html",
   "display": "standalone",

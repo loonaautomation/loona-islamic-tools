@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tulsa",
   "short_name": "Waktu Salat di Tulsa",
   "description": "Waktu salat hari ini di Tulsa, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Tulsa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tulsa.html",
+  "id": "/id/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

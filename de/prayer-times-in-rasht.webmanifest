@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rasht",
   "short_name": "Gebetszeiten in Rasht",
   "description": "Die heutigen Gebetszeiten in Rasht, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Rasht.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rasht.html",
+  "id": "/de/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

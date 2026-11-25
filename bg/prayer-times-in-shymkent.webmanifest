@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Shymkent",
   "short_name": "Часове за намаз в Shymkent",
   "description": "Днешните часове за намаз в Shymkent, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Shymkent.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-shymkent.html",
+  "id": "/bg/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona El Daein Namaz Vakitleri",
   "short_name": "El Daein Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — El Daein, Sudan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, El Daein için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-el-daein.html",
+  "id": "/tr/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

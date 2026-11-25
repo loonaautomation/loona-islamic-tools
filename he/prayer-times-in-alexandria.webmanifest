@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Alexandria",
   "short_name": "זמני תפילה בעיר Alexandria",
   "description": "זמני התפילה של היום בעיר Alexandria, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Alexandria.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-alexandria.html",
+  "id": "/he/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

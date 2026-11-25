@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Karagandy",
   "short_name": "Orari di preghiera a Karagandy",
   "description": "Orari di preghiera di oggi a Karagandy, Kazakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Karagandy.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-karagandy.html",
+  "id": "/it/prayer-times-in-karagandy.html",
   "start_url": "./prayer-times-in-karagandy.html",
   "scope": "./prayer-times-in-karagandy.html",
   "display": "standalone",

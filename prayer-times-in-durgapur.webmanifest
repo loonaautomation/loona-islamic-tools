@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Durgapur",
   "short_name": "Prayer Times in Durgapur",
   "description": "Today's prayer times in Durgapur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Durgapur.",
-  "id": "/loona-islamic-tools/prayer-times-in-durgapur.html",
+  "id": "/prayer-times-in-durgapur.html",
   "start_url": "./prayer-times-in-durgapur.html",
   "scope": "./prayer-times-in-durgapur.html",
   "display": "standalone",

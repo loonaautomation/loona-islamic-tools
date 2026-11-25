@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Homs",
   "short_name": "Gebedstijden in Homs",
   "description": "De gebedstijden van vandaag in Homs, Syrië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Homs.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-homs.html",
+  "id": "/nl/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

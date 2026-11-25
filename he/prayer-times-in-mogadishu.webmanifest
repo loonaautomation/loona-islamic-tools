@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mogadishu",
   "short_name": "זמני תפילה בעיר Mogadishu",
   "description": "זמני התפילה של היום בעיר Mogadishu, סומליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Mogadishu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mogadishu.html",
+  "id": "/he/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

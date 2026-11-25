@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Gqeberha",
   "short_name": "Časy modlitieb v Gqeberha",
   "description": "Dnešné časy modlitieb v Gqeberha, Juhoafrická republika: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Gqeberha.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-gqeberha.html",
+  "id": "/sk/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

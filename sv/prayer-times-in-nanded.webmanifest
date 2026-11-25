@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nanded",
   "short_name": "Bönetider i Nanded",
   "description": "Dagens bönetider i Nanded, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Nanded.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nanded.html",
+  "id": "/sv/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

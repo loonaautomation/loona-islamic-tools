@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bokāro",
   "short_name": "Časy modliteb v Bokāro",
   "description": "Dnešní časy modliteb v Bokāro, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bokāro.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bokaro.html",
+  "id": "/cs/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Borama",
   "short_name": "Rukousajat: Borama",
   "description": "Tämän päivän rukousajat paikassa Borama, Somalia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Borama.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-borama.html",
+  "id": "/fi/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sacramento",
   "short_name": "Gebedstijden in Sacramento",
   "description": "De gebedstijden van vandaag in Sacramento, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Sacramento.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sacramento.html",
+  "id": "/nl/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

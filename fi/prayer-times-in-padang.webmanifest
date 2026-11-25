@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Padang",
   "short_name": "Rukousajat: Padang",
   "description": "Tämän päivän rukousajat paikassa Padang, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Padang.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-padang.html",
+  "id": "/fi/prayer-times-in-padang.html",
   "start_url": "./prayer-times-in-padang.html",
   "scope": "./prayer-times-in-padang.html",
   "display": "standalone",

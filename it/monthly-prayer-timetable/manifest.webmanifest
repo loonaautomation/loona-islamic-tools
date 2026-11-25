@@ -2,7 +2,7 @@
   "name": "Loona Tabella mensile degli orari di preghiera",
   "short_name": "Tabella mensile degli orari di preghiera",
   "description": "Genera una tabella mensile stampabile degli orari di preghiera per qualsiasi città: tutti e sei gli orari per l'intero mese, con il tuo metodo di calcolo e la tua scuola Asr, gratuita e privata.",
-  "id": "/loona-islamic-tools/it/monthly-prayer-timetable/",
+  "id": "/it/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

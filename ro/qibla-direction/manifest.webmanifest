@@ -2,7 +2,7 @@
   "name": "Loona Direcția Qiblei",
   "short_name": "Direcția Qiblei",
   "description": "Găsește direcția Qiblei în grade, din orice oraș sau din locația ta exactă, cu un cadran de busolă live și distanța până la Makkah. Gratuit, precis și privat.",
-  "id": "/loona-islamic-tools/ro/qibla-direction/",
+  "id": "/ro/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

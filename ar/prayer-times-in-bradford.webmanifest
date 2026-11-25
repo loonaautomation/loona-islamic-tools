@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bradford",
   "short_name": "مواقيت الصلاة في Bradford",
   "description": "مواقيت الصلاة اليوم في Bradford، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBradford.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bradford.html",
+  "id": "/ar/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

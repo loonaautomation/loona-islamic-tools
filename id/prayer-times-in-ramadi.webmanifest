@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ramadi",
   "short_name": "Waktu Salat di Ramadi",
   "description": "Waktu salat hari ini di Ramadi, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ramadi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ramadi.html",
+  "id": "/id/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Aden",
   "short_name": "Rukousajat: Aden",
   "description": "Tämän päivän rukousajat paikassa Aden, Jemen: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Aden.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-aden.html",
+  "id": "/fi/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

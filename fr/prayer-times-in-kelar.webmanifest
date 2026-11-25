@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kelar",
   "short_name": "Heures de prière à Kelar",
   "description": "Les heures de prière d’aujourd’hui à Kelar, Irak : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kelar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kelar.html",
+  "id": "/fr/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

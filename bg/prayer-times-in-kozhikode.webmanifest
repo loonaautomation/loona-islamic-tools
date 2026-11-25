@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kozhikode",
   "short_name": "Часове за намаз в Kozhikode",
   "description": "Днешните часове за намаз в Kozhikode, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kozhikode.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kozhikode.html",
+  "id": "/bg/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Halifax",
   "short_name": "זמני תפילה בעיר Halifax",
   "description": "זמני התפילה של היום בעיר Halifax, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Halifax.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-halifax.html",
+  "id": "/he/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

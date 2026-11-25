@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Winnipeg",
   "short_name": "Bønnetider i Winnipeg",
   "description": "Dagens bønnetider i Winnipeg, Canada: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Winnipeg.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-winnipeg.html",
+  "id": "/nb/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

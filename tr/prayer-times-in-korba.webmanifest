@@ -2,7 +2,7 @@
   "name": "Loona Korba Namaz Vakitleri",
   "short_name": "Korba Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Korba, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Korba için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-korba.html",
+  "id": "/tr/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

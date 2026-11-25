@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bokāro",
   "short_name": "Gebedstijden in Bokāro",
   "description": "De gebedstijden van vandaag in Bokāro, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Bokāro.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bokaro.html",
+  "id": "/nl/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nilüfer",
   "short_name": "Gebedstijden in Nilüfer",
   "description": "De gebedstijden van vandaag in Nilüfer, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nilüfer.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-niluefer.html",
+  "id": "/nl/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

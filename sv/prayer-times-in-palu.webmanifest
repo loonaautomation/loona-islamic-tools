@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Palu",
   "short_name": "Bönetider i Palu",
   "description": "Dagens bönetider i Palu, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Palu.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-palu.html",
+  "id": "/sv/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kallakurichi",
   "short_name": "Gebedstijden in Kallakurichi",
   "description": "De gebedstijden van vandaag in Kallakurichi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kallakurichi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kallakurichi.html",
+  "id": "/nl/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

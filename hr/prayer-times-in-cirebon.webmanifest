@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Cirebon",
   "short_name": "Vremena namaza u gradu Cirebon",
   "description": "Današnja vremena namaza u gradu Cirebon, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Cirebon.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-cirebon.html",
+  "id": "/hr/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

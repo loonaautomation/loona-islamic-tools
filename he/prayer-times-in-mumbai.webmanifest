@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Mumbai",
   "short_name": "זמני תפילה בעיר Mumbai",
   "description": "זמני התפילה של היום בעיר Mumbai, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Mumbai.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-mumbai.html",
+  "id": "/he/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

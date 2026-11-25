@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tunis",
   "short_name": "Rukousajat: Tunis",
   "description": "Tämän päivän rukousajat paikassa Tunis, Tunisia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tunis.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tunis.html",
+  "id": "/fi/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

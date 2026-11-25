@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Semarang",
   "short_name": "Bønnetider i Semarang",
   "description": "Dagens bønnetider i Semarang, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Semarang.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-semarang.html",
+  "id": "/nb/prayer-times-in-semarang.html",
   "start_url": "./prayer-times-in-semarang.html",
   "scope": "./prayer-times-in-semarang.html",
   "display": "standalone",

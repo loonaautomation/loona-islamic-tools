@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Manama",
   "short_name": "مواقيت الصلاة في Manama",
   "description": "مواقيت الصلاة اليوم في Manama، البحرين: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـManama.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-manama.html",
+  "id": "/ar/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

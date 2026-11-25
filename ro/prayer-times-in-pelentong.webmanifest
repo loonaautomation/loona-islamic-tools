@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Pelentong",
   "short_name": "Ore de rugăciune în Pelentong",
   "description": "Orele de rugăciune de azi în Pelentong, Malaezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Pelentong.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-pelentong.html",
+  "id": "/ro/prayer-times-in-pelentong.html",
   "start_url": "./prayer-times-in-pelentong.html",
   "scope": "./prayer-times-in-pelentong.html",
   "display": "standalone",

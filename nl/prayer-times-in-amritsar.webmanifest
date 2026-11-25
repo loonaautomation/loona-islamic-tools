@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Amritsar",
   "short_name": "Gebedstijden in Amritsar",
   "description": "De gebedstijden van vandaag in Amritsar, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Amritsar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-amritsar.html",
+  "id": "/nl/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

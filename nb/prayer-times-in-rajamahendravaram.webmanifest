@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rajamahendravaram",
   "short_name": "Bønnetider i Rajamahendravaram",
   "description": "Dagens bønnetider i Rajamahendravaram, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Rajamahendravaram.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-rajamahendravaram.html",
+  "id": "/nb/prayer-times-in-rajamahendravaram.html",
   "start_url": "./prayer-times-in-rajamahendravaram.html",
   "scope": "./prayer-times-in-rajamahendravaram.html",
   "display": "standalone",

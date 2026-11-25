@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Chānda",
   "short_name": "مواقيت الصلاة في Chānda",
   "description": "مواقيت الصلاة اليوم في Chānda، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـChānda.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-chanda.html",
+  "id": "/ar/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

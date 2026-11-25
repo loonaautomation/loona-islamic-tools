@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Surat",
   "short_name": "Rukousajat: Surat",
   "description": "Tämän päivän rukousajat paikassa Surat, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Surat.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-surat.html",
+  "id": "/fi/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

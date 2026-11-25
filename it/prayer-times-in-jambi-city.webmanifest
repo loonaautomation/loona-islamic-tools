@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Jambi City",
   "short_name": "Orari di preghiera a Jambi City",
   "description": "Orari di preghiera di oggi a Jambi City, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Jambi City.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-jambi-city.html",
+  "id": "/it/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

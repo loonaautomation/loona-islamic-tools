@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Indianapolis",
   "short_name": "Bønnetider i Indianapolis",
   "description": "Dagens bønnetider i Indianapolis, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Indianapolis.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-indianapolis.html",
+  "id": "/da/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

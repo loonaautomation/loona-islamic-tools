@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nuremberg",
   "short_name": "Час намазу в Nuremberg",
   "description": "Сьогоднішній час намазу в Nuremberg, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Nuremberg.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nuremberg.html",
+  "id": "/uk/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

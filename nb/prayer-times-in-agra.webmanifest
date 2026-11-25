@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Agra",
   "short_name": "Bønnetider i Agra",
   "description": "Dagens bønnetider i Agra, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Agra.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-agra.html",
+  "id": "/nb/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

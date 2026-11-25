@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Neyshābūr",
   "short_name": "Bønnetider i Neyshābūr",
   "description": "Dagens bønnetider i Neyshābūr, Iran: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Neyshābūr.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-neyshabur.html",
+  "id": "/da/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

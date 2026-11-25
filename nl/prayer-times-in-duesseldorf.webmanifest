@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Düsseldorf",
   "short_name": "Gebedstijden in Düsseldorf",
   "description": "De gebedstijden van vandaag in Düsseldorf, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Düsseldorf.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-duesseldorf.html",
+  "id": "/nl/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

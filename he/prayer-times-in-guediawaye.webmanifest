@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Guédiawaye",
   "short_name": "זמני תפילה בעיר Guédiawaye",
   "description": "זמני התפילה של היום בעיר Guédiawaye, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Guédiawaye.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-guediawaye.html",
+  "id": "/he/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

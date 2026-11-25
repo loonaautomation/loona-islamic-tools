@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Edinburgh",
   "short_name": "Waktu Salat di Edinburgh",
   "description": "Waktu salat hari ini di Edinburgh, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Edinburgh.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-edinburgh.html",
+  "id": "/id/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

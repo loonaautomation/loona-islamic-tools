@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Münster",
   "short_name": "Horários de Oração em Münster",
   "description": "Horários de oração de hoje em Münster, Alemanha: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Münster.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-muenster.html",
+  "id": "/pt-br/prayer-times-in-muenster.html",
   "start_url": "./prayer-times-in-muenster.html",
   "scope": "./prayer-times-in-muenster.html",
   "display": "standalone",

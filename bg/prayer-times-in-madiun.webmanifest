@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Madiun",
   "short_name": "Часове за намаз в Madiun",
   "description": "Днешните часове за намаз в Madiun, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Madiun.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-madiun.html",
+  "id": "/bg/prayer-times-in-madiun.html",
   "start_url": "./prayer-times-in-madiun.html",
   "scope": "./prayer-times-in-madiun.html",
   "display": "standalone",

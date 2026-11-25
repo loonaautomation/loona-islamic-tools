@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Eslamshahr",
   "short_name": "Horários de Oração em Eslamshahr",
   "description": "Horários de oração de hoje em Eslamshahr, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Eslamshahr.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-eslamshahr.html",
+  "id": "/pt-br/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

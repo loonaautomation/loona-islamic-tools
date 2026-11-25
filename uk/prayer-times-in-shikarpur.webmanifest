@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Shikarpur",
   "short_name": "Час намазу в Shikarpur",
   "description": "Сьогоднішній час намазу в Shikarpur, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Shikarpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-shikarpur.html",
+  "id": "/uk/prayer-times-in-shikarpur.html",
   "start_url": "./prayer-times-in-shikarpur.html",
   "scope": "./prayer-times-in-shikarpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Banī Suwayf",
   "short_name": "Время намаза в городе Banī Suwayf",
   "description": "Время намаза на сегодня: Banī Suwayf, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Banī Suwayf.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bani-suwayf.html",
+  "id": "/ru/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

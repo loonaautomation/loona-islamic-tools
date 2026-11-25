@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Halifax",
   "short_name": "Rukousajat: Halifax",
   "description": "Tämän päivän rukousajat paikassa Halifax, Kanada: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Halifax.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-halifax.html",
+  "id": "/fi/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

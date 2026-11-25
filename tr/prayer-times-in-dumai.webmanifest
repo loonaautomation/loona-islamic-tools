@@ -2,7 +2,7 @@
   "name": "Loona Dumai Namaz Vakitleri",
   "short_name": "Dumai Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dumai, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Dumai için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dumai.html",
+  "id": "/tr/prayer-times-in-dumai.html",
   "start_url": "./prayer-times-in-dumai.html",
   "scope": "./prayer-times-in-dumai.html",
   "display": "standalone",

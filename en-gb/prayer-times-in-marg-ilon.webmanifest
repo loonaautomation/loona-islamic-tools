@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Marg‘ilon Today",
   "short_name": "Prayer Times in Marg‘ilon Today",
   "description": "Today's prayer times in Marg‘ilon, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Marg‘ilon.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-marg-ilon.html",
+  "id": "/en-gb/prayer-times-in-marg-ilon.html",
   "start_url": "./prayer-times-in-marg-ilon.html",
   "scope": "./prayer-times-in-marg-ilon.html",
   "display": "standalone",

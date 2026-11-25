@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Puducherry",
   "short_name": "Час намазу в Puducherry",
   "description": "Сьогоднішній час намазу в Puducherry, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Puducherry.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-puducherry.html",
+  "id": "/uk/prayer-times-in-puducherry.html",
   "start_url": "./prayer-times-in-puducherry.html",
   "scope": "./prayer-times-in-puducherry.html",
   "display": "standalone",

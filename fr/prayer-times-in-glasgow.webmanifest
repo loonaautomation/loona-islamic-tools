@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Glasgow",
   "short_name": "Heures de prière à Glasgow",
   "description": "Les heures de prière d’aujourd’hui à Glasgow, Royaume-Uni : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Glasgow.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-glasgow.html",
+  "id": "/fr/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

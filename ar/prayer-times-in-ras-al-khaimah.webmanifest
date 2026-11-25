@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ras Al Khaimah",
   "short_name": "مواقيت الصلاة في Ras Al Khaimah",
   "description": "مواقيت الصلاة اليوم في Ras Al Khaimah، الإمارات العربية المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـRas Al Khaimah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ras-al-khaimah.html",
+  "id": "/ar/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

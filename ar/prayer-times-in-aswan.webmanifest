@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Aswān",
   "short_name": "مواقيت الصلاة في Aswān",
   "description": "مواقيت الصلاة اليوم في Aswān، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـAswān.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-aswan.html",
+  "id": "/ar/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

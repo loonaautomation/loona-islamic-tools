@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bloemfontein",
   "short_name": "Bönetider i Bloemfontein",
   "description": "Dagens bönetider i Bloemfontein, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bloemfontein.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bloemfontein.html",
+  "id": "/sv/prayer-times-in-bloemfontein.html",
   "start_url": "./prayer-times-in-bloemfontein.html",
   "scope": "./prayer-times-in-bloemfontein.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Mallawī imaidői",
   "short_name": "Mallawī imaidői",
   "description": "A mai imaidők: Mallawī, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Mallawī számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mallawi.html",
+  "id": "/hu/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

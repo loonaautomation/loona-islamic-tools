@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Chattogram",
   "short_name": "Vremena namaza u gradu Chattogram",
   "description": "Današnja vremena namaza u gradu Chattogram, Bangladeš: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Chattogram.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-chattogram.html",
+  "id": "/hr/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

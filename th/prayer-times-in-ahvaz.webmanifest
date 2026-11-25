@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ahvaz",
   "short_name": "เวลาละหมาดใน Ahvaz",
   "description": "เวลาละหมาดวันนี้ใน Ahvaz, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ahvaz",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ahvaz.html",
+  "id": "/th/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

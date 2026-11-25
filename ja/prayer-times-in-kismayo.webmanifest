@@ -2,7 +2,7 @@
   "name": "Loona Kismayo の礼拝時刻",
   "short_name": "Kismayo の礼拝時刻",
   "description": "Kismayo（ソマリア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Kismayo についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kismayo.html",
+  "id": "/ja/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

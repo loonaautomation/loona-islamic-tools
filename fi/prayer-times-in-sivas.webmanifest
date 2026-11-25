@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sivas",
   "short_name": "Rukousajat: Sivas",
   "description": "Tämän päivän rukousajat paikassa Sivas, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sivas.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sivas.html",
+  "id": "/fi/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

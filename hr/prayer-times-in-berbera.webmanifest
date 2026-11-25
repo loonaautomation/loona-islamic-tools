@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Berbera",
   "short_name": "Vremena namaza u gradu Berbera",
   "description": "Današnja vremena namaza u gradu Berbera, Somalija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Berbera.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-berbera.html",
+  "id": "/hr/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

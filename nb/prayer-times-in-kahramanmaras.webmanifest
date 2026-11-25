@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kahramanmaraş",
   "short_name": "Bønnetider i Kahramanmaraş",
   "description": "Dagens bønnetider i Kahramanmaraş, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kahramanmaraş.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kahramanmaras.html",
+  "id": "/nb/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

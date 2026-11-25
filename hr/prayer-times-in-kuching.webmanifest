@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kuching",
   "short_name": "Vremena namaza u gradu Kuching",
   "description": "Današnja vremena namaza u gradu Kuching, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kuching.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kuching.html",
+  "id": "/hr/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

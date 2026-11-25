@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gorakhpur",
   "short_name": "Bønnetider i Gorakhpur",
   "description": "Dagens bønnetider i Gorakhpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Gorakhpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-gorakhpur.html",
+  "id": "/nb/prayer-times-in-gorakhpur.html",
   "start_url": "./prayer-times-in-gorakhpur.html",
   "scope": "./prayer-times-in-gorakhpur.html",
   "display": "standalone",

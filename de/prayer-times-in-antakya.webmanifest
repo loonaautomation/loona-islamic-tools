@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Antakya",
   "short_name": "Gebetszeiten in Antakya",
   "description": "Die heutigen Gebetszeiten in Antakya, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Antakya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-antakya.html",
+  "id": "/de/prayer-times-in-antakya.html",
   "start_url": "./prayer-times-in-antakya.html",
   "scope": "./prayer-times-in-antakya.html",
   "display": "standalone",

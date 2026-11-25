@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Leicester",
   "short_name": "Rukousajat: Leicester",
   "description": "Tämän päivän rukousajat paikassa Leicester, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Leicester.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-leicester.html",
+  "id": "/fi/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

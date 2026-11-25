@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sheffield",
   "short_name": "Bønnetider i Sheffield",
   "description": "Dagens bønnetider i Sheffield, Storbritannia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Sheffield.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sheffield.html",
+  "id": "/nb/prayer-times-in-sheffield.html",
   "start_url": "./prayer-times-in-sheffield.html",
   "scope": "./prayer-times-in-sheffield.html",
   "display": "standalone",

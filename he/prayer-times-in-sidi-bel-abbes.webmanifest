@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sidi Bel Abbes",
   "short_name": "זמני תפילה בעיר Sidi Bel Abbes",
   "description": "זמני התפילה של היום בעיר Sidi Bel Abbes, אלג'יריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/he/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

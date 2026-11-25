@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mashhad",
   "short_name": "Bönetider i Mashhad",
   "description": "Dagens bönetider i Mashhad, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mashhad.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mashhad.html",
+  "id": "/sv/prayer-times-in-mashhad.html",
   "start_url": "./prayer-times-in-mashhad.html",
   "scope": "./prayer-times-in-mashhad.html",
   "display": "standalone",

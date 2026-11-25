@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Munich Today",
   "short_name": "Prayer Times in Munich Today",
   "description": "Today's prayer times in Munich, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Munich.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-munich.html",
+  "id": "/en-us/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

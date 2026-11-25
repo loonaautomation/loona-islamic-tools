@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Afyonkarahisar",
   "short_name": "זמני תפילה בעיר Afyonkarahisar",
   "description": "זמני התפילה של היום בעיר Afyonkarahisar, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Afyonkarahisar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-afyonkarahisar.html",
+  "id": "/he/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

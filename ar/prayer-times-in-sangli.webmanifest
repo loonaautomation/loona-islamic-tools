@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sāngli",
   "short_name": "مواقيت الصلاة في Sāngli",
   "description": "مواقيت الصلاة اليوم في Sāngli، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSāngli.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sangli.html",
+  "id": "/ar/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

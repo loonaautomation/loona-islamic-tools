@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Isfahan",
   "short_name": "مواقيت الصلاة في Isfahan",
   "description": "مواقيت الصلاة اليوم في Isfahan، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـIsfahan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-isfahan.html",
+  "id": "/ar/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

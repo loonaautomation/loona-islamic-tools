@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Maḩallah al Kubrá",
   "short_name": "Bønnetider i Al Maḩallah al Kubrá",
   "description": "Dagens bønnetider i Al Maḩallah al Kubrá, Egypt: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Egyptian General Authority, beregnet direkte på enheten din for Al Maḩallah al Kubrá.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-al-mahallah-al-kubra.html",
+  "id": "/nb/prayer-times-in-al-mahallah-al-kubra.html",
   "start_url": "./prayer-times-in-al-mahallah-al-kubra.html",
   "scope": "./prayer-times-in-al-mahallah-al-kubra.html",
   "display": "standalone",

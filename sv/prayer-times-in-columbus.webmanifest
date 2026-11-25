@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Columbus",
   "short_name": "Bönetider i Columbus",
   "description": "Dagens bönetider i Columbus, USA: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. ISNA-metoden, beräknad live på din enhet för Columbus.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-columbus.html",
+  "id": "/sv/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rawalpindi",
   "short_name": "Bønnetider i Rawalpindi",
   "description": "Dagens bønnetider i Rawalpindi, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Rawalpindi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-rawalpindi.html",
+  "id": "/nb/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

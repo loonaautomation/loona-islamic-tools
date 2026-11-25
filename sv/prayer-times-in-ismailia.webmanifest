@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ismailia",
   "short_name": "Bönetider i Ismailia",
   "description": "Dagens bönetider i Ismailia, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Ismailia.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ismailia.html",
+  "id": "/sv/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

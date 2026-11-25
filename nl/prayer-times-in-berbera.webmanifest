@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Berbera",
   "short_name": "Gebedstijden in Berbera",
   "description": "De gebedstijden van vandaag in Berbera, Somalië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Berbera.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-berbera.html",
+  "id": "/nl/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

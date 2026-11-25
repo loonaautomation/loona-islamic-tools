@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Manama",
   "short_name": "Giờ cầu nguyện tại Manama",
   "description": "Giờ cầu nguyện hôm nay tại Manama, Bahrain: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Umm al-Qura, được tính trực tiếp trên thiết bị của bạn cho Manama.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-manama.html",
+  "id": "/vi/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

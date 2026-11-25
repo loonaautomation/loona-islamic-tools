@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bahawalnagar",
   "short_name": "Час намазу в Bahawalnagar",
   "description": "Сьогоднішній час намазу в Bahawalnagar, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Bahawalnagar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bahawalnagar.html",
+  "id": "/uk/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

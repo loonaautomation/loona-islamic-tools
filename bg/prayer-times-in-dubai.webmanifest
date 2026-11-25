@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dubai",
   "short_name": "Часове за намаз в Dubai",
   "description": "Днешните часове за намаз в Dubai, UAE: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислен на живо на вашето устройство за Dubai.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dubai.html",
+  "id": "/bg/prayer-times-in-dubai.html",
   "start_url": "./prayer-times-in-dubai.html",
   "scope": "./prayer-times-in-dubai.html",
   "display": "standalone",

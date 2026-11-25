@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Seattle",
   "short_name": "זמני תפילה בעיר Seattle",
   "description": "זמני התפילה של היום בעיר Seattle, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Seattle.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-seattle.html",
+  "id": "/he/prayer-times-in-seattle.html",
   "start_url": "./prayer-times-in-seattle.html",
   "scope": "./prayer-times-in-seattle.html",
   "display": "standalone",

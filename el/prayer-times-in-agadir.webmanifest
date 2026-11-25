@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Agadir",
   "short_name": "Ώρες Προσευχής στο Agadir",
   "description": "Οι σημερινές ώρες προσευχής στο Agadir, Μαρόκο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Agadir.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-agadir.html",
+  "id": "/el/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

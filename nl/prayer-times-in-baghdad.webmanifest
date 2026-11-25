@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Baghdad",
   "short_name": "Gebedstijden in Baghdad",
   "description": "De gebedstijden van vandaag in Baghdad, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Baghdad.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-baghdad.html",
+  "id": "/nl/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

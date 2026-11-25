@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Corpus Christi",
   "short_name": "Gebetszeiten in Corpus Christi",
   "description": "Die heutigen Gebetszeiten in Corpus Christi, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Corpus Christi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-corpus-christi.html",
+  "id": "/de/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

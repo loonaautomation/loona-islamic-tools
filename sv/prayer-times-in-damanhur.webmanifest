@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Damanhur",
   "short_name": "Bönetider i Damanhur",
   "description": "Dagens bönetider i Damanhur, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Damanhur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-damanhur.html",
+  "id": "/sv/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

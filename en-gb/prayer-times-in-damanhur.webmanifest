@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Damanhur Today",
   "short_name": "Prayer Times in Damanhur Today",
   "description": "Today's prayer times in Damanhur, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Damanhur.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-damanhur.html",
+  "id": "/en-gb/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

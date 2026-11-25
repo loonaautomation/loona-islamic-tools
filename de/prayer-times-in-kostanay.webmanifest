@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kostanay",
   "short_name": "Gebetszeiten in Kostanay",
   "description": "Die heutigen Gebetszeiten in Kostanay, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kostanay.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kostanay.html",
+  "id": "/de/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kahramanmaraş Namaz Vakitleri",
   "short_name": "Kahramanmaraş Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kahramanmaraş, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kahramanmaraş için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kahramanmaras.html",
+  "id": "/tr/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

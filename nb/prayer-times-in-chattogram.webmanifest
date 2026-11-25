@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Chattogram",
   "short_name": "Bønnetider i Chattogram",
   "description": "Dagens bønnetider i Chattogram, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Chattogram.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-chattogram.html",
+  "id": "/nb/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

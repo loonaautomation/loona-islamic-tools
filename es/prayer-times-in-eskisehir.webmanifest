@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Eskişehir",
   "short_name": "Horarios de oración en Eskişehir",
   "description": "Horarios de oración de hoy en Eskişehir, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Eskişehir.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-eskisehir.html",
+  "id": "/es/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

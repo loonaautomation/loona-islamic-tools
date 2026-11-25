@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sargodha",
   "short_name": "Czasy modlitw w miejscowości Sargodha",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sargodha, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Sargodha.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sargodha.html",
+  "id": "/pl/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

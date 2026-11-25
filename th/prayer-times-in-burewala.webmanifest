@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Burewala",
   "short_name": "เวลาละหมาดใน Burewala",
   "description": "เวลาละหมาดวันนี้ใน Burewala, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Burewala",
-  "id": "/loona-islamic-tools/th/prayer-times-in-burewala.html",
+  "id": "/th/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

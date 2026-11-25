@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Al Mubarraz",
   "short_name": "Waktu Solat di Al Mubarraz",
   "description": "Waktu solat hari ini di Al Mubarraz, Arab Saudi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Umm al-Qura, dikira secara langsung pada peranti anda untuk Al Mubarraz.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-al-mubarraz.html",
+  "id": "/ms/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

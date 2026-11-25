@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в East Jerusalem",
   "short_name": "Часове за намаз в East Jerusalem",
   "description": "Днешните часове за намаз в East Jerusalem, Палестина: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за East Jerusalem.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-east-jerusalem.html",
+  "id": "/bg/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

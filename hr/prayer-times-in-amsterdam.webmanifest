@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Amsterdam",
   "short_name": "Vremena namaza u gradu Amsterdam",
   "description": "Današnja vremena namaza u gradu Amsterdam, Nizozemska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Amsterdam.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-amsterdam.html",
+  "id": "/hr/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

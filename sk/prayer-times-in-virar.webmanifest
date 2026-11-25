@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Virār",
   "short_name": "Časy modlitieb v Virār",
   "description": "Dnešné časy modlitieb v Virār, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Virār.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-virar.html",
+  "id": "/sk/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

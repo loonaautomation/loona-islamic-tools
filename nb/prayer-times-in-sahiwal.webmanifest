@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sahiwal",
   "short_name": "Bønnetider i Sahiwal",
   "description": "Dagens bønnetider i Sahiwal, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Sahiwal.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sahiwal.html",
+  "id": "/nb/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

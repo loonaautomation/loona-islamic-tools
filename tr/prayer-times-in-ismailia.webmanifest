@@ -2,7 +2,7 @@
   "name": "Loona Ismailia Namaz Vakitleri",
   "short_name": "Ismailia Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Ismailia, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Ismailia için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-ismailia.html",
+  "id": "/tr/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

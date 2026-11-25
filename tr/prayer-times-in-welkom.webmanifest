@@ -2,7 +2,7 @@
   "name": "Loona Welkom Namaz Vakitleri",
   "short_name": "Welkom Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Welkom, Güney Afrika: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Welkom için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-welkom.html",
+  "id": "/tr/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

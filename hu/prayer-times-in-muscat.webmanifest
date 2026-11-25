@@ -2,7 +2,7 @@
   "name": "Loona Muscat imaidői",
   "short_name": "Muscat imaidői",
   "description": "A mai imaidők: Muscat, Omán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Muscat számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-muscat.html",
+  "id": "/hu/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

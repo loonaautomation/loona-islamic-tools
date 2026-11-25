@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Najrān",
   "short_name": "Время намаза в городе Najrān",
   "description": "Время намаза на сегодня: Najrān, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Najrān.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-najran.html",
+  "id": "/ru/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

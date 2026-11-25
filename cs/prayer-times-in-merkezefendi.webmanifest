@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Merkezefendi",
   "short_name": "Časy modliteb v Merkezefendi",
   "description": "Dnešní časy modliteb v Merkezefendi, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Merkezefendi.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-merkezefendi.html",
+  "id": "/cs/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kassala",
   "short_name": "Часове за намаз в Kassala",
   "description": "Днешните часове за намаз в Kassala, Судан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kassala.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kassala.html",
+  "id": "/bg/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

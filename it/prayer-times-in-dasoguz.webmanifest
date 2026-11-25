@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Daşoguz",
   "short_name": "Orari di preghiera a Daşoguz",
   "description": "Orari di preghiera di oggi a Daşoguz, Turkmenistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Daşoguz.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dasoguz.html",
+  "id": "/it/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

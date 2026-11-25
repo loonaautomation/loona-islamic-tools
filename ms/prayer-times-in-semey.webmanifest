@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Semey",
   "short_name": "Waktu Solat di Semey",
   "description": "Waktu solat hari ini di Semey, Kazakhstan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Semey.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-semey.html",
+  "id": "/ms/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

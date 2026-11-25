@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Peshawar",
   "short_name": "مواقيت الصلاة في Peshawar",
   "description": "مواقيت الصلاة اليوم في Peshawar، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـPeshawar.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-peshawar.html",
+  "id": "/ar/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

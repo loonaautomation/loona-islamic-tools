@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rājkot",
   "short_name": "Gebetszeiten in Rājkot",
   "description": "Die heutigen Gebetszeiten in Rājkot, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rājkot.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rajkot.html",
+  "id": "/de/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

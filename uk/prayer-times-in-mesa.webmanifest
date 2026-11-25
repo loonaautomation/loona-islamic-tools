@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mesa",
   "short_name": "Час намазу в Mesa",
   "description": "Сьогоднішній час намазу в Mesa, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Mesa.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mesa.html",
+  "id": "/uk/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

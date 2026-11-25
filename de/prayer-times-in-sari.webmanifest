@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sari",
   "short_name": "Gebetszeiten in Sari",
   "description": "Die heutigen Gebetszeiten in Sari, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sari.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sari.html",
+  "id": "/de/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

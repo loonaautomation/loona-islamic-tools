@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dhaka",
   "short_name": "مواقيت الصلاة في Dhaka",
   "description": "مواقيت الصلاة اليوم في Dhaka، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDhaka.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dhaka.html",
+  "id": "/ar/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

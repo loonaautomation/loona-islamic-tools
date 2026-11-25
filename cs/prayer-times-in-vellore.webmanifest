@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Vellore",
   "short_name": "Časy modliteb v Vellore",
   "description": "Dnešní časy modliteb v Vellore, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Vellore.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-vellore.html",
+  "id": "/cs/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

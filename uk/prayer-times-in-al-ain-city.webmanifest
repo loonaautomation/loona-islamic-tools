@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Al Ain City",
   "short_name": "Час намазу в Al Ain City",
   "description": "Сьогоднішній час намазу в Al Ain City, Об’єднані Арабські Емірати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Умм аль-Кура, розраховано наживо на вашому пристрої для Al Ain City.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-al-ain-city.html",
+  "id": "/uk/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

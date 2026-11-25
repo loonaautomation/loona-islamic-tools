@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bannu",
   "short_name": "Časy modliteb v Bannu",
   "description": "Dnešní časy modliteb v Bannu, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bannu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bannu.html",
+  "id": "/cs/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

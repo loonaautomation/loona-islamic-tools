@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Mohammedia",
   "short_name": "Heures de prière à Mohammedia",
   "description": "Les heures de prière d’aujourd’hui à Mohammedia, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Mohammedia.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-mohammedia.html",
+  "id": "/fr/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

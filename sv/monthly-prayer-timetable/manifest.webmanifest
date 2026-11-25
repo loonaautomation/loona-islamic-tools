@@ -2,7 +2,7 @@
   "name": "Loona Månatlig bönetidtabell",
   "short_name": "Månatlig bönetidtabell",
   "description": "Skapa en utskrivbar månatlig bönetidtabell för valfri stad: alla sex tider för hela månaden, med din beräkningsmetod och Asr-skola, gratis och privat.",
-  "id": "/loona-islamic-tools/sv/monthly-prayer-timetable/",
+  "id": "/sv/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

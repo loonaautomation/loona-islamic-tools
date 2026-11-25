@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Manukau City",
   "short_name": "Orari di preghiera a Manukau City",
   "description": "Orari di preghiera di oggi a Manukau City, Nuova Zelanda: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Manukau City.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-manukau-city.html",
+  "id": "/it/prayer-times-in-manukau-city.html",
   "start_url": "./prayer-times-in-manukau-city.html",
   "scope": "./prayer-times-in-manukau-city.html",
   "display": "standalone",

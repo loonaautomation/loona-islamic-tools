@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Hafizabad",
   "short_name": "Ώρες Προσευχής στο Hafizabad",
   "description": "Οι σημερινές ώρες προσευχής στο Hafizabad, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Hafizabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-hafizabad.html",
+  "id": "/el/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

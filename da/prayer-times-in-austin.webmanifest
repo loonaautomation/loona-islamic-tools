@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Austin",
   "short_name": "Bønnetider i Austin",
   "description": "Dagens bønnetider i Austin, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Austin.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-austin.html",
+  "id": "/da/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

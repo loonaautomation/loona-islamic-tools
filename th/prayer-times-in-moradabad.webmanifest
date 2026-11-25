@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Morādābād",
   "short_name": "เวลาละหมาดใน Morādābād",
   "description": "เวลาละหมาดวันนี้ใน Morādābād, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Morādābād",
-  "id": "/loona-islamic-tools/th/prayer-times-in-moradabad.html",
+  "id": "/th/prayer-times-in-moradabad.html",
   "start_url": "./prayer-times-in-moradabad.html",
   "scope": "./prayer-times-in-moradabad.html",
   "display": "standalone",

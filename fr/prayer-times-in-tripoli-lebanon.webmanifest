@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tripoli (Liban)",
   "short_name": "Heures de prière à Tripoli (Liban)",
   "description": "Les heures de prière d’aujourd’hui à Tripoli, Liban : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Tripoli.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tripoli-lebanon.html",
+  "id": "/fr/prayer-times-in-tripoli-lebanon.html",
   "start_url": "./prayer-times-in-tripoli-lebanon.html",
   "scope": "./prayer-times-in-tripoli-lebanon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Cirebon",
   "short_name": "Heures de prière à Cirebon",
   "description": "Les heures de prière d’aujourd’hui à Cirebon, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Cirebon.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-cirebon.html",
+  "id": "/fr/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

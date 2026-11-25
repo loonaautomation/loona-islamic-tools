@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Safi",
   "short_name": "Vremena namaza u gradu Safi",
   "description": "Današnja vremena namaza u gradu Safi, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Safi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-safi.html",
+  "id": "/hr/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

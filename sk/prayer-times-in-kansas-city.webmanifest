@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kansas City",
   "short_name": "Časy modlitieb v Kansas City",
   "description": "Dnešné časy modlitieb v Kansas City, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Kansas City.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kansas-city.html",
+  "id": "/sk/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

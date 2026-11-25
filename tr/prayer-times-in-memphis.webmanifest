@@ -2,7 +2,7 @@
   "name": "Loona Memphis Namaz Vakitleri",
   "short_name": "Memphis Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Memphis, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Memphis için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-memphis.html",
+  "id": "/tr/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

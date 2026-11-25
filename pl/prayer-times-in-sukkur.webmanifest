@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Sukkur",
   "short_name": "Czasy modlitw w miejscowości Sukkur",
   "description": "Dzisiejsze czasy modlitw w miejscowości Sukkur, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Sukkur.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-sukkur.html",
+  "id": "/pl/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

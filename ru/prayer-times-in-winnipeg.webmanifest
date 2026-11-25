@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Winnipeg",
   "short_name": "Время намаза в городе Winnipeg",
   "description": "Время намаза на сегодня: Winnipeg, Канада: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Winnipeg.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-winnipeg.html",
+  "id": "/ru/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

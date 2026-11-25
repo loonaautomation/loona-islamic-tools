@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Damascus",
   "short_name": "זמני תפילה בעיר Damascus",
   "description": "זמני התפילה של היום בעיר Damascus, סוריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Damascus.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-damascus.html",
+  "id": "/he/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

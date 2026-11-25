@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Tumkūr",
   "short_name": "Horários de Oração em Tumkūr",
   "description": "Horários de oração de hoje em Tumkūr, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Tumkūr.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-tumkur.html",
+  "id": "/pt/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

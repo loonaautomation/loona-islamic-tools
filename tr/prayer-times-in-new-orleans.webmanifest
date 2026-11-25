@@ -2,7 +2,7 @@
   "name": "Loona New Orleans Namaz Vakitleri",
   "short_name": "New Orleans Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — New Orleans, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, New Orleans için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-new-orleans.html",
+  "id": "/tr/prayer-times-in-new-orleans.html",
   "start_url": "./prayer-times-in-new-orleans.html",
   "scope": "./prayer-times-in-new-orleans.html",
   "display": "standalone",

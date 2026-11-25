@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Gilgit",
   "short_name": "Время намаза в городе Gilgit",
   "description": "Время намаза на сегодня: Gilgit, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Gilgit.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-gilgit.html",
+  "id": "/ru/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bogura",
   "short_name": "Gebetszeiten in Bogura",
   "description": "Die heutigen Gebetszeiten in Bogura, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bogura.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bogura.html",
+  "id": "/de/prayer-times-in-bogura.html",
   "start_url": "./prayer-times-in-bogura.html",
   "scope": "./prayer-times-in-bogura.html",
   "display": "standalone",

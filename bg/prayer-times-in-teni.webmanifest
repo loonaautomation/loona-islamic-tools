@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Teni",
   "short_name": "Часове за намаз в Teni",
   "description": "Днешните часове за намаз в Teni, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Teni.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-teni.html",
+  "id": "/bg/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

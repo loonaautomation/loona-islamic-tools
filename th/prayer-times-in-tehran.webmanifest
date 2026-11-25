@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tehran",
   "short_name": "เวลาละหมาดใน Tehran",
   "description": "เวลาละหมาดวันนี้ใน Tehran, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tehran",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tehran.html",
+  "id": "/th/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

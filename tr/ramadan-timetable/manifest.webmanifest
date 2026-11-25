@@ -2,7 +2,7 @@
   "name": "Loona Ramazan Takvimi",
   "short_name": "Ramazan Takvimi",
   "description": "Herhangi bir şehir ve Hicri yıl için eksiksiz Ramazan takvimi: Ramazan'ın her günü için Miladi tarihler ve oruç süresiyle birlikte Sahur bitişi ve İftar vakitleri. Ücretsiz, yazdırılabilir.",
-  "id": "/loona-islamic-tools/tr/ramadan-timetable/",
+  "id": "/tr/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

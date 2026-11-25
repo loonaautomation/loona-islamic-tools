@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Misratah",
   "short_name": "Часове за намаз в Misratah",
   "description": "Днешните часове за намаз в Misratah, Либия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Misratah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-misratah.html",
+  "id": "/bg/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Berlin",
   "short_name": "Časy modliteb v Berlin",
   "description": "Dnešní časy modliteb v Berlin, Německo: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Berlin.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-berlin.html",
+  "id": "/cs/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

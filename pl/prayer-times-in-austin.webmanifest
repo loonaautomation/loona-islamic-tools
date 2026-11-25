@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Austin",
   "short_name": "Czasy modlitw w miejscowości Austin",
   "description": "Dzisiejsze czasy modlitw w miejscowości Austin, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Austin.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-austin.html",
+  "id": "/pl/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

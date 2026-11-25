@@ -2,7 +2,7 @@
   "name": "Loona Knihovna duí",
   "short_name": "Knihovna duí",
   "description": "Knihovna autentických duí pro každý okamžik — ráno, jídlo, cestování, domov, úzkost, odpuštění — každá s arabským textem, transliterací, překladem a zdrojem.",
-  "id": "/loona-islamic-tools/cs/duas-library/",
+  "id": "/cs/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

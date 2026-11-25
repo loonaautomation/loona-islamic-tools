@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ajmer",
   "short_name": "เวลาละหมาดใน Ajmer",
   "description": "เวลาละหมาดวันนี้ใน Ajmer, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ajmer",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ajmer.html",
+  "id": "/th/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

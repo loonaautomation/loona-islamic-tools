@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ashgabat",
   "short_name": "Bönetider i Ashgabat",
   "description": "Dagens bönetider i Ashgabat, Turkmenistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Ashgabat.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ashgabat.html",
+  "id": "/sv/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

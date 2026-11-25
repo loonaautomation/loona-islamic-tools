@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mangaluru",
   "short_name": "Ώρες Προσευχής στο Mangaluru",
   "description": "Οι σημερινές ώρες προσευχής στο Mangaluru, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Mangaluru.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mangaluru.html",
+  "id": "/el/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Elazığ",
   "short_name": "Vremena namaza u gradu Elazığ",
   "description": "Današnja vremena namaza u gradu Elazığ, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Elazığ.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-elazig.html",
+  "id": "/hr/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

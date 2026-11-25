@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Batman",
   "short_name": "Час намазу в Batman",
   "description": "Сьогоднішній час намазу в Batman, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Batman.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-batman.html",
+  "id": "/uk/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

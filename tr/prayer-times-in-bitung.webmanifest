@@ -2,7 +2,7 @@
   "name": "Loona Bitung Namaz Vakitleri",
   "short_name": "Bitung Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bitung, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bitung için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bitung.html",
+  "id": "/tr/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

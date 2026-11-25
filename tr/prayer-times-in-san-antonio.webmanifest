@@ -2,7 +2,7 @@
   "name": "Loona San Antonio Namaz Vakitleri",
   "short_name": "San Antonio Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — San Antonio, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, San Antonio için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-san-antonio.html",
+  "id": "/tr/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

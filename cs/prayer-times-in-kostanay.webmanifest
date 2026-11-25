@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kostanay",
   "short_name": "Časy modliteb v Kostanay",
   "description": "Dnešní časy modliteb v Kostanay, Kazachstán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kostanay.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kostanay.html",
+  "id": "/cs/prayer-times-in-kostanay.html",
   "start_url": "./prayer-times-in-kostanay.html",
   "scope": "./prayer-times-in-kostanay.html",
   "display": "standalone",

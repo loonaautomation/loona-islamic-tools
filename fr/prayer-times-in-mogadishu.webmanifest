@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Mogadishu",
   "short_name": "Heures de prière à Mogadishu",
   "description": "Les heures de prière d’aujourd’hui à Mogadishu, Somalie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Mogadishu.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-mogadishu.html",
+  "id": "/fr/prayer-times-in-mogadishu.html",
   "start_url": "./prayer-times-in-mogadishu.html",
   "scope": "./prayer-times-in-mogadishu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kota",
   "short_name": "Rukousajat: Kota",
   "description": "Tämän päivän rukousajat paikassa Kota, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Kota.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kota.html",
+  "id": "/fi/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pekalongan",
   "short_name": "זמני תפילה בעיר Pekalongan",
   "description": "זמני התפילה של היום בעיר Pekalongan, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Pekalongan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pekalongan.html",
+  "id": "/he/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

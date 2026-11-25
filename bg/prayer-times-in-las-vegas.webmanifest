@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Las Vegas",
   "short_name": "Часове за намаз в Las Vegas",
   "description": "Днешните часове за намаз в Las Vegas, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Las Vegas.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-las-vegas.html",
+  "id": "/bg/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

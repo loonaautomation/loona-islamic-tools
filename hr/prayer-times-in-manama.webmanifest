@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Manama",
   "short_name": "Vremena namaza u gradu Manama",
   "description": "Današnja vremena namaza u gradu Manama, Bahrein: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Umm al-Qura, izračunato uživo na vašem uređaju za grad Manama.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-manama.html",
+  "id": "/hr/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

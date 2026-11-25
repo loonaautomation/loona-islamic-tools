@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Wad Medani",
   "short_name": "זמני תפילה בעיר Wad Medani",
   "description": "זמני התפילה של היום בעיר Wad Medani, סודאן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Wad Medani.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-wad-medani.html",
+  "id": "/he/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

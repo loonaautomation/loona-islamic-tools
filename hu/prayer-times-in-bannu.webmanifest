@@ -2,7 +2,7 @@
   "name": "Loona Bannu imaidői",
   "short_name": "Bannu imaidői",
   "description": "A mai imaidők: Bannu, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Bannu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bannu.html",
+  "id": "/hu/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

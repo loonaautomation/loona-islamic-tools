@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al Mansurah",
   "short_name": "זמני תפילה בעיר Al Mansurah",
   "description": "זמני התפילה של היום בעיר Al Mansurah, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Al Mansurah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-mansurah.html",
+  "id": "/he/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

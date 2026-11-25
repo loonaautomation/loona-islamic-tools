@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Lexington",
   "short_name": "Czasy modlitw w miejscowości Lexington",
   "description": "Dzisiejsze czasy modlitw w miejscowości Lexington, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Lexington.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-lexington.html",
+  "id": "/pl/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Banda Aceh",
   "short_name": "مواقيت الصلاة في Banda Aceh",
   "description": "مواقيت الصلاة اليوم في Banda Aceh، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBanda Aceh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-banda-aceh.html",
+  "id": "/ar/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

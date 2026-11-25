@@ -2,7 +2,7 @@
   "name": "Loona Kabul の礼拝時刻",
   "short_name": "Kabul の礼拝時刻",
   "description": "Kabul（アフガニスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Kabul についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kabul.html",
+  "id": "/ja/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

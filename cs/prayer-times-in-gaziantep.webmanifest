@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Gaziantep",
   "short_name": "Časy modliteb v Gaziantep",
   "description": "Dnešní časy modliteb v Gaziantep, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Gaziantep.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-gaziantep.html",
+  "id": "/cs/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

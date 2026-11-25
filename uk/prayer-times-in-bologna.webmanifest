@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bologna",
   "short_name": "Час намазу в Bologna",
   "description": "Сьогоднішній час намазу в Bologna, Італія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bologna.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bologna.html",
+  "id": "/uk/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

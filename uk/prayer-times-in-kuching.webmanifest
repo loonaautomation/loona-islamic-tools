@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kuching",
   "short_name": "Час намазу в Kuching",
   "description": "Сьогоднішній час намазу в Kuching, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Kuching.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kuching.html",
+  "id": "/uk/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

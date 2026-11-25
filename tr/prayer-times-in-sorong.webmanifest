@@ -2,7 +2,7 @@
   "name": "Loona Sorong Namaz Vakitleri",
   "short_name": "Sorong Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sorong, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sorong için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sorong.html",
+  "id": "/tr/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

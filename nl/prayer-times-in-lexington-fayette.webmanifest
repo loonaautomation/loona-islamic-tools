@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lexington-Fayette",
   "short_name": "Gebedstijden in Lexington-Fayette",
   "description": "De gebedstijden van vandaag in Lexington-Fayette, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Lexington-Fayette.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lexington-fayette.html",
+  "id": "/nl/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

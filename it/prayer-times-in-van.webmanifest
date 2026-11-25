@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Van",
   "short_name": "Orari di preghiera a Van",
   "description": "Orari di preghiera di oggi a Van, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Van.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-van.html",
+  "id": "/it/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kalyān",
   "short_name": "Prayer Times in Kalyān",
   "description": "Today's prayer times in Kalyān, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Kalyān.",
-  "id": "/loona-islamic-tools/prayer-times-in-kalyan.html",
+  "id": "/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

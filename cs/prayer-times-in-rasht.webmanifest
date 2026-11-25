@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Rasht",
   "short_name": "Časy modliteb v Rasht",
   "description": "Dnešní časy modliteb v Rasht, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Rasht.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-rasht.html",
+  "id": "/cs/prayer-times-in-rasht.html",
   "start_url": "./prayer-times-in-rasht.html",
   "scope": "./prayer-times-in-rasht.html",
   "display": "standalone",

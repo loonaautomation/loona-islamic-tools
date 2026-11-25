@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Copenhagen",
   "short_name": "Gebedstijden in Copenhagen",
   "description": "De gebedstijden van vandaag in Copenhagen, Denemarken: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Copenhagen.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-copenhagen.html",
+  "id": "/nl/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

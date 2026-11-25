@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tétouan",
   "short_name": "Vremena namaza u gradu Tétouan",
   "description": "Današnja vremena namaza u gradu Tétouan, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tétouan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tetouan.html",
+  "id": "/hr/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Dhaka",
   "short_name": "Ore de rugăciune în Dhaka",
   "description": "Orele de rugăciune de azi în Dhaka, Bangladesh: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Dhaka.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-dhaka.html",
+  "id": "/ro/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

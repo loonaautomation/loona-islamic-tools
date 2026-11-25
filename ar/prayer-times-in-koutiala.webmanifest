@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Koutiala",
   "short_name": "مواقيت الصلاة في Koutiala",
   "description": "مواقيت الصلاة اليوم في Koutiala، مالي: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKoutiala.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-koutiala.html",
+  "id": "/ar/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

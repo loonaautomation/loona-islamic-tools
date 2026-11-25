@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ségou",
   "short_name": "Ore de rugăciune în Ségou",
   "description": "Orele de rugăciune de azi în Ségou, Mali: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Ségou.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-segou.html",
+  "id": "/ro/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

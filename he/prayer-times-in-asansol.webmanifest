@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Āsansol",
   "short_name": "זמני תפילה בעיר Āsansol",
   "description": "זמני התפילה של היום בעיר Āsansol, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Āsansol.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-asansol.html",
+  "id": "/he/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

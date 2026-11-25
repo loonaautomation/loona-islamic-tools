@@ -2,7 +2,7 @@
   "name": "Loona Monatlicher Gebetsplan",
   "short_name": "Monatlicher Gebetsplan",
   "description": "Erstellen Sie einen ausdruckbaren monatlichen Gebetsplan für jede Stadt: alle sechs Zeiten für den ganzen Monat, mit Ihrer Berechnungsmethode und Asr-Schule, kostenlos und privat.",
-  "id": "/loona-islamic-tools/de/monthly-prayer-timetable/",
+  "id": "/de/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

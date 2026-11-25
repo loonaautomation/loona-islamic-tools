@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Çiğli",
   "short_name": "Gebedstijden in Çiğli",
   "description": "De gebedstijden van vandaag in Çiğli, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Çiğli.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cigli.html",
+  "id": "/nl/prayer-times-in-cigli.html",
   "start_url": "./prayer-times-in-cigli.html",
   "scope": "./prayer-times-in-cigli.html",
   "display": "standalone",

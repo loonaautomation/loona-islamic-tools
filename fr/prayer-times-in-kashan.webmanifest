@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kashan",
   "short_name": "Heures de prière à Kashan",
   "description": "Les heures de prière d’aujourd’hui à Kashan, Iran : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kashan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kashan.html",
+  "id": "/fr/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

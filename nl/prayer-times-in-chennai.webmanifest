@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Chennai",
   "short_name": "Gebedstijden in Chennai",
   "description": "De gebedstijden van vandaag in Chennai, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Chennai.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-chennai.html",
+  "id": "/nl/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

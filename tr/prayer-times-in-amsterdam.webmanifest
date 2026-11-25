@@ -2,7 +2,7 @@
   "name": "Loona Amsterdam Namaz Vakitleri",
   "short_name": "Amsterdam Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Amsterdam, Hollanda: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Amsterdam için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-amsterdam.html",
+  "id": "/tr/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

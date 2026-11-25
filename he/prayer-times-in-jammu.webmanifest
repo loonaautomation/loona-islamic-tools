@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jammu",
   "short_name": "זמני תפילה בעיר Jammu",
   "description": "זמני התפילה של היום בעיר Jammu, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jammu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jammu.html",
+  "id": "/he/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

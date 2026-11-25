@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Gatineau",
   "short_name": "Giờ cầu nguyện tại Gatineau",
   "description": "Giờ cầu nguyện hôm nay tại Gatineau, Canada: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Gatineau.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-gatineau.html",
+  "id": "/vi/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

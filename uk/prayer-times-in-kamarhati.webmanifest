@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kāmārhāti",
   "short_name": "Час намазу в Kāmārhāti",
   "description": "Сьогоднішній час намазу в Kāmārhāti, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kāmārhāti.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kamarhati.html",
+  "id": "/uk/prayer-times-in-kamarhati.html",
   "start_url": "./prayer-times-in-kamarhati.html",
   "scope": "./prayer-times-in-kamarhati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Amman",
   "short_name": "Heures de prière à Amman",
   "description": "Les heures de prière d’aujourd’hui à Amman, Jordanie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Amman.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-amman.html",
+  "id": "/fr/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

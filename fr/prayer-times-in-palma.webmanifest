@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Palma",
   "short_name": "Heures de prière à Palma",
   "description": "Les heures de prière d’aujourd’hui à Palma, Espagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Palma.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-palma.html",
+  "id": "/fr/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

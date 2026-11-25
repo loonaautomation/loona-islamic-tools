@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Las Vegas",
   "short_name": "Czasy modlitw w miejscowości Las Vegas",
   "description": "Dzisiejsze czasy modlitw w miejscowości Las Vegas, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Las Vegas.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-las-vegas.html",
+  "id": "/pl/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

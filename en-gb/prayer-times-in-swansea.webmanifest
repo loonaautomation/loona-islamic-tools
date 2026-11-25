@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Swansea Today",
   "short_name": "Prayer Times in Swansea Today",
   "description": "Today's prayer times in Swansea, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Swansea.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-swansea.html",
+  "id": "/en-gb/prayer-times-in-swansea.html",
   "start_url": "./prayer-times-in-swansea.html",
   "scope": "./prayer-times-in-swansea.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Valencia",
   "short_name": "Gebetszeiten in Valencia",
   "description": "Die heutigen Gebetszeiten in Valencia, Spanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Valencia.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-valencia.html",
+  "id": "/de/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

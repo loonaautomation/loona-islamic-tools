@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Samarkand",
   "short_name": "Ore de rugăciune în Samarkand",
   "description": "Orele de rugăciune de azi în Samarkand, Uzbekistan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Samarkand.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-samarkand.html",
+  "id": "/ro/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

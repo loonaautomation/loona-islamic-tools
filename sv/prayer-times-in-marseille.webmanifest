@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Marseille",
   "short_name": "Bönetider i Marseille",
   "description": "Dagens bönetider i Marseille, Frankrike: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Marseille.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-marseille.html",
+  "id": "/sv/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

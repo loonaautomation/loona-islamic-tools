@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Portland",
   "short_name": "Gebedstijden in Portland",
   "description": "De gebedstijden van vandaag in Portland, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Portland.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-portland.html",
+  "id": "/nl/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

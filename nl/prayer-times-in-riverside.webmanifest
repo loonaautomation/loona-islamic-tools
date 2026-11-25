@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Riverside",
   "short_name": "Gebedstijden in Riverside",
   "description": "De gebedstijden van vandaag in Riverside, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Riverside.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-riverside.html",
+  "id": "/nl/prayer-times-in-riverside.html",
   "start_url": "./prayer-times-in-riverside.html",
   "scope": "./prayer-times-in-riverside.html",
   "display": "standalone",

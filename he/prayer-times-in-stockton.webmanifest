@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Stockton",
   "short_name": "זמני תפילה בעיר Stockton",
   "description": "זמני התפילה של היום בעיר Stockton, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Stockton.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-stockton.html",
+  "id": "/he/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Chicago Namaz Vakitleri",
   "short_name": "Chicago Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Chicago, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Chicago için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-chicago.html",
+  "id": "/tr/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

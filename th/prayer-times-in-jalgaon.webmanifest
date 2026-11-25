@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jalgaon",
   "short_name": "เวลาละหมาดใน Jalgaon",
   "description": "เวลาละหมาดวันนี้ใน Jalgaon, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jalgaon",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jalgaon.html",
+  "id": "/th/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

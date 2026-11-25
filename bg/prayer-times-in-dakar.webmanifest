@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Dakar",
   "short_name": "Часове за намаз в Dakar",
   "description": "Днешните часове за намаз в Dakar, Сенегал: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Dakar.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-dakar.html",
+  "id": "/bg/prayer-times-in-dakar.html",
   "start_url": "./prayer-times-in-dakar.html",
   "scope": "./prayer-times-in-dakar.html",
   "display": "standalone",

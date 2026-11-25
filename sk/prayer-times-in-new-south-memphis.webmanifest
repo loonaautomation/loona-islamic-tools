@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v New South Memphis",
   "short_name": "Časy modlitieb v New South Memphis",
   "description": "Dnešné časy modlitieb v New South Memphis, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre New South Memphis.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-new-south-memphis.html",
+  "id": "/sk/prayer-times-in-new-south-memphis.html",
   "start_url": "./prayer-times-in-new-south-memphis.html",
   "scope": "./prayer-times-in-new-south-memphis.html",
   "display": "standalone",

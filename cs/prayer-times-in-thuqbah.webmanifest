@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Thuqbah",
   "short_name": "Časy modliteb v Thuqbah",
   "description": "Dnešní časy modliteb v Thuqbah, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Thuqbah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-thuqbah.html",
+  "id": "/cs/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

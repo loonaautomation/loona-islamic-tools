@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tanta",
   "short_name": "Час намазу в Tanta",
   "description": "Сьогоднішній час намазу в Tanta, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Tanta.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tanta.html",
+  "id": "/uk/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Zanjan",
   "short_name": "Prayer Times in Zanjan",
   "description": "Today's prayer times in Zanjan, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Zanjan.",
-  "id": "/loona-islamic-tools/prayer-times-in-zanjan.html",
+  "id": "/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

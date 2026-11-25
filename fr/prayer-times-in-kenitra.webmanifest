@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kenitra",
   "short_name": "Heures de prière à Kenitra",
   "description": "Les heures de prière d’aujourd’hui à Kenitra, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Kenitra.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kenitra.html",
+  "id": "/fr/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

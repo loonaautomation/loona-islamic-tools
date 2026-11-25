@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rāmgundam",
   "short_name": "Gebetszeiten in Rāmgundam",
   "description": "Die heutigen Gebetszeiten in Rāmgundam, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rāmgundam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ramgundam.html",
+  "id": "/de/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

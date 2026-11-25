@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Batam",
   "short_name": "Vremena namaza u gradu Batam",
   "description": "Današnja vremena namaza u gradu Batam, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Batam.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-batam.html",
+  "id": "/hr/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nasiriyah",
   "short_name": "Gebedstijden in Nasiriyah",
   "description": "De gebedstijden van vandaag in Nasiriyah, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nasiriyah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nasiriyah.html",
+  "id": "/nl/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

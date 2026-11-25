@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Alicante",
   "short_name": "Prayer Times in Alicante",
   "description": "Today's prayer times in Alicante, Spain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Alicante.",
-  "id": "/loona-islamic-tools/prayer-times-in-alicante.html",
+  "id": "/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

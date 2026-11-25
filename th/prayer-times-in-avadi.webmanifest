@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Avadi",
   "short_name": "เวลาละหมาดใน Avadi",
   "description": "เวลาละหมาดวันนี้ใน Avadi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Avadi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-avadi.html",
+  "id": "/th/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

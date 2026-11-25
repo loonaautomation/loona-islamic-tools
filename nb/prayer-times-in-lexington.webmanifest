@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lexington",
   "short_name": "Bønnetider i Lexington",
   "description": "Dagens bønnetider i Lexington, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Lexington.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-lexington.html",
+  "id": "/nb/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

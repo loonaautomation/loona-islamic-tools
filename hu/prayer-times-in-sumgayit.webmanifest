@@ -2,7 +2,7 @@
   "name": "Loona Sumgayit imaidői",
   "short_name": "Sumgayit imaidői",
   "description": "A mai imaidők: Sumgayit, Azerbajdzsán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sumgayit számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sumgayit.html",
+  "id": "/hu/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

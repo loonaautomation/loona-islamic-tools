@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bengkulu",
   "short_name": "Vremena namaza u gradu Bengkulu",
   "description": "Današnja vremena namaza u gradu Bengkulu, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bengkulu.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bengkulu.html",
+  "id": "/hr/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

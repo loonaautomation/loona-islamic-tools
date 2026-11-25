@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Columbus 2027 (1448)",
   "short_name": "Расписание Рамадана: Columbus 2027 (1448)",
   "description": "Расписание Рамадана 2027 года для города Columbus, США: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-columbus.html",
+  "id": "/ru/ramadan-timetable-in-columbus.html",
   "start_url": "./ramadan-timetable-in-columbus.html",
   "scope": "./ramadan-timetable-in-columbus.html",
   "display": "standalone",

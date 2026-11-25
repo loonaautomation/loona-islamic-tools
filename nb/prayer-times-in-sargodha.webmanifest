@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sargodha",
   "short_name": "Bønnetider i Sargodha",
   "description": "Dagens bønnetider i Sargodha, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Sargodha.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sargodha.html",
+  "id": "/nb/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

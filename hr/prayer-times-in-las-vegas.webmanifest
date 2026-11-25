@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Las Vegas",
   "short_name": "Vremena namaza u gradu Las Vegas",
   "description": "Današnja vremena namaza u gradu Las Vegas, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Las Vegas.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-las-vegas.html",
+  "id": "/hr/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

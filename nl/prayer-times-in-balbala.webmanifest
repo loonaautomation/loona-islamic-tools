@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Balbala",
   "short_name": "Gebedstijden in Balbala",
   "description": "De gebedstijden van vandaag in Balbala, Djibouti: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Balbala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-balbala.html",
+  "id": "/nl/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

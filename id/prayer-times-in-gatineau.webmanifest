@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Gatineau",
   "short_name": "Waktu Salat di Gatineau",
   "description": "Waktu salat hari ini di Gatineau, Kanada: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Gatineau.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-gatineau.html",
+  "id": "/id/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

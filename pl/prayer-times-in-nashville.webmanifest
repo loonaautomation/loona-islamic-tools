@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Nashville",
   "short_name": "Czasy modlitw w miejscowości Nashville",
   "description": "Dzisiejsze czasy modlitw w miejscowości Nashville, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Nashville.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-nashville.html",
+  "id": "/pl/prayer-times-in-nashville.html",
   "start_url": "./prayer-times-in-nashville.html",
   "scope": "./prayer-times-in-nashville.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bremen Namaz Vakitleri",
   "short_name": "Bremen Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bremen, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Bremen için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bremen.html",
+  "id": "/tr/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

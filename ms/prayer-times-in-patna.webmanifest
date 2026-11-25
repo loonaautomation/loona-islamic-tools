@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Patna",
   "short_name": "Waktu Solat di Patna",
   "description": "Waktu solat hari ini di Patna, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Patna.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-patna.html",
+  "id": "/ms/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nashik",
   "short_name": "Час намазу в Nashik",
   "description": "Сьогоднішній час намазу в Nashik, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Nashik.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nashik.html",
+  "id": "/uk/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

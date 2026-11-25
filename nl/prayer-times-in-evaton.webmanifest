@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Evaton",
   "short_name": "Gebedstijden in Evaton",
   "description": "De gebedstijden van vandaag in Evaton, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Evaton.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-evaton.html",
+  "id": "/nl/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

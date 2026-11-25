@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Constantine",
   "short_name": "Gebedstijden in Constantine",
   "description": "De gebedstijden van vandaag in Constantine, Algerije: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Constantine.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-constantine.html",
+  "id": "/nl/prayer-times-in-constantine.html",
   "start_url": "./prayer-times-in-constantine.html",
   "scope": "./prayer-times-in-constantine.html",
   "display": "standalone",

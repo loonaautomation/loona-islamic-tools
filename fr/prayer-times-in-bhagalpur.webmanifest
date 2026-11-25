@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bhāgalpur",
   "short_name": "Heures de prière à Bhāgalpur",
   "description": "Les heures de prière d’aujourd’hui à Bhāgalpur, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Bhāgalpur.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bhagalpur.html",
+  "id": "/fr/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

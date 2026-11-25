@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Aurora",
   "short_name": "Ώρες Προσευχής στο Aurora",
   "description": "Οι σημερινές ώρες προσευχής στο Aurora, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Aurora.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-aurora.html",
+  "id": "/el/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

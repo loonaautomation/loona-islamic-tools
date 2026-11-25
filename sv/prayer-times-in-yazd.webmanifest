@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Yazd",
   "short_name": "Bönetider i Yazd",
   "description": "Dagens bönetider i Yazd, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Yazd.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-yazd.html",
+  "id": "/sv/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

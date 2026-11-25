@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pimpri-Chinchwad",
   "short_name": "Heures de prière à Pimpri-Chinchwad",
   "description": "Les heures de prière d’aujourd’hui à Pimpri-Chinchwad, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Pimpri-Chinchwad.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pimpri-chinchwad.html",
+  "id": "/fr/prayer-times-in-pimpri-chinchwad.html",
   "start_url": "./prayer-times-in-pimpri-chinchwad.html",
   "scope": "./prayer-times-in-pimpri-chinchwad.html",
   "display": "standalone",

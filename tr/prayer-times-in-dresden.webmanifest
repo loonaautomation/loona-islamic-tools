@@ -2,7 +2,7 @@
   "name": "Loona Dresden Namaz Vakitleri",
   "short_name": "Dresden Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dresden, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Dresden için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dresden.html",
+  "id": "/tr/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

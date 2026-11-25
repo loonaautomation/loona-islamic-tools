@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Colorado Springs",
   "short_name": "Bønnetider i Colorado Springs",
   "description": "Dagens bønnetider i Colorado Springs, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Colorado Springs.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-colorado-springs.html",
+  "id": "/nb/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

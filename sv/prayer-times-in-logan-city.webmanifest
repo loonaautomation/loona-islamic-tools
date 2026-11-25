@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Logan City",
   "short_name": "Bönetider i Logan City",
   "description": "Dagens bönetider i Logan City, Australien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Logan City.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-logan-city.html",
+  "id": "/sv/prayer-times-in-logan-city.html",
   "start_url": "./prayer-times-in-logan-city.html",
   "scope": "./prayer-times-in-logan-city.html",
   "display": "standalone",

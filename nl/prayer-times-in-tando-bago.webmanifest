@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tando Bago",
   "short_name": "Gebedstijden in Tando Bago",
   "description": "De gebedstijden van vandaag in Tando Bago, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Tando Bago.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tando-bago.html",
+  "id": "/nl/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

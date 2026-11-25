@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bandar Seri Alam",
   "short_name": "Waktu Salat di Bandar Seri Alam",
   "description": "Waktu salat hari ini di Bandar Seri Alam, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bandar Seri Alam.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bandar-seri-alam.html",
+  "id": "/id/prayer-times-in-bandar-seri-alam.html",
   "start_url": "./prayer-times-in-bandar-seri-alam.html",
   "scope": "./prayer-times-in-bandar-seri-alam.html",
   "display": "standalone",

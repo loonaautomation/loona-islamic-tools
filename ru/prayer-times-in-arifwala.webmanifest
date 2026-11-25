@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Arifwala",
   "short_name": "Время намаза в городе Arifwala",
   "description": "Время намаза на сегодня: Arifwala, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Arifwala.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-arifwala.html",
+  "id": "/ru/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

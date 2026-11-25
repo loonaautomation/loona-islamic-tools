@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Rawalpindi",
   "short_name": "Vremena namaza u gradu Rawalpindi",
   "description": "Današnja vremena namaza u gradu Rawalpindi, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Rawalpindi.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-rawalpindi.html",
+  "id": "/hr/prayer-times-in-rawalpindi.html",
   "start_url": "./prayer-times-in-rawalpindi.html",
   "scope": "./prayer-times-in-rawalpindi.html",
   "display": "standalone",

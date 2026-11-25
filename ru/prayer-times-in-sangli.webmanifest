@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sāngli",
   "short_name": "Время намаза в городе Sāngli",
   "description": "Время намаза на сегодня: Sāngli, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Sāngli.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sangli.html",
+  "id": "/ru/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

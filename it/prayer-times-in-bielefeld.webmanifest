@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bielefeld",
   "short_name": "Orari di preghiera a Bielefeld",
   "description": "Orari di preghiera di oggi a Bielefeld, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bielefeld.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bielefeld.html",
+  "id": "/it/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

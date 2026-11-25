@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Marka",
   "short_name": "Время намаза в городе Marka",
   "description": "Время намаза на сегодня: Marka, Сомали: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Marka.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-marka.html",
+  "id": "/ru/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

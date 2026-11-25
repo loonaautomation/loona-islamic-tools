@@ -2,7 +2,7 @@
   "name": "Loona Preston Namaz Vakitleri",
   "short_name": "Preston Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Preston, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Preston için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-preston.html",
+  "id": "/tr/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

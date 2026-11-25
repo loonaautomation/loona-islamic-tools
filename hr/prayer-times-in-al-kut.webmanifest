@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Al-Kut",
   "short_name": "Vremena namaza u gradu Al-Kut",
   "description": "Današnja vremena namaza u gradu Al-Kut, Irak: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Al-Kut.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-al-kut.html",
+  "id": "/hr/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tiruppur",
   "short_name": "Bønnetider i Tiruppur",
   "description": "Dagens bønnetider i Tiruppur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Tiruppur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-tiruppur.html",
+  "id": "/da/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

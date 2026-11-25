@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pekanbaru",
   "short_name": "Часове за намаз в Pekanbaru",
   "description": "Днешните часове за намаз в Pekanbaru, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Pekanbaru.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pekanbaru.html",
+  "id": "/bg/prayer-times-in-pekanbaru.html",
   "start_url": "./prayer-times-in-pekanbaru.html",
   "scope": "./prayer-times-in-pekanbaru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Male",
   "short_name": "Rukousajat: Male",
   "description": "Tämän päivän rukousajat paikassa Male, Malediivit: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Male.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-male.html",
+  "id": "/fi/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

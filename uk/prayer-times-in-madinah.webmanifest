@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Madinah",
   "short_name": "Час намазу в Madinah",
   "description": "Сьогоднішній час намазу в Madinah, Саудівська Аравія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Madinah.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-madinah.html",
+  "id": "/uk/prayer-times-in-madinah.html",
   "start_url": "./prayer-times-in-madinah.html",
   "scope": "./prayer-times-in-madinah.html",
   "display": "standalone",

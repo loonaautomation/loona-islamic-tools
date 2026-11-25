@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Medan",
   "short_name": "مواقيت الصلاة في Medan",
   "description": "مواقيت الصلاة اليوم في Medan، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMedan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-medan.html",
+  "id": "/ar/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

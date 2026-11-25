@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Situbondo",
   "short_name": "Waktu Solat di Situbondo",
   "description": "Waktu solat hari ini di Situbondo, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Situbondo.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-situbondo.html",
+  "id": "/ms/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

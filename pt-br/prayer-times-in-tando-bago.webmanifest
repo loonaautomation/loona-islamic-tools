@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Tando Bago",
   "short_name": "Horários de Oração em Tando Bago",
   "description": "Horários de oração de hoje em Tando Bago, Paquistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Tando Bago.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-tando-bago.html",
+  "id": "/pt-br/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

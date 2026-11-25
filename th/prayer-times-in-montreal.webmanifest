@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Montréal",
   "short_name": "เวลาละหมาดใน Montréal",
   "description": "เวลาละหมาดวันนี้ใน Montréal, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Montréal",
-  "id": "/loona-islamic-tools/th/prayer-times-in-montreal.html",
+  "id": "/th/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

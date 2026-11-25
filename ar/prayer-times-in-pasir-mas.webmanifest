@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pasir Mas",
   "short_name": "مواقيت الصلاة في Pasir Mas",
   "description": "مواقيت الصلاة اليوم في Pasir Mas، ماليزيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPasir Mas.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pasir-mas.html",
+  "id": "/ar/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

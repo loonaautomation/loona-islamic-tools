@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Zinder",
   "short_name": "Časy modlitieb v Zinder",
   "description": "Dnešné časy modlitieb v Zinder, Niger: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Zinder.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-zinder.html",
+  "id": "/sk/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

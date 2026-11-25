@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-tabell i Sveits 2027 (1448)",
   "short_name": "Ramadan-tabell i Sveits 2027 (1448)",
   "description": "Ramadan 2027-tabell for Sveits: tider for Sehri-slutt (Fajr) og Iftar (Maghrib) for hver dag i Ramadan 1448, beregnet for Bern. Ventet 8. februar til 8. mars 2027, med forbehold om måneobservasjon.",
-  "id": "/loona-islamic-tools/nb/ramadan-timetable-in-switzerland.html",
+  "id": "/nb/ramadan-timetable-in-switzerland.html",
   "start_url": "./ramadan-timetable-in-switzerland.html",
   "scope": "./ramadan-timetable-in-switzerland.html",
   "display": "standalone",

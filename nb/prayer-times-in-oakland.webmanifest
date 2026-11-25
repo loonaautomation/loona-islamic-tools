@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Oakland",
   "short_name": "Bønnetider i Oakland",
   "description": "Dagens bønnetider i Oakland, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Oakland.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-oakland.html",
+  "id": "/nb/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

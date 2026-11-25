@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Salé Al Jadida",
   "short_name": "Vremena namaza u gradu Salé Al Jadida",
   "description": "Današnja vremena namaza u gradu Salé Al Jadida, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Salé Al Jadida.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sale-al-jadida.html",
+  "id": "/hr/prayer-times-in-sale-al-jadida.html",
   "start_url": "./prayer-times-in-sale-al-jadida.html",
   "scope": "./prayer-times-in-sale-al-jadida.html",
   "display": "standalone",

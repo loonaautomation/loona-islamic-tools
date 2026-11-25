@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Meknes",
   "short_name": "Bönetider i Meknes",
   "description": "Dagens bönetider i Meknes, Marocko: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Meknes.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-meknes.html",
+  "id": "/sv/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

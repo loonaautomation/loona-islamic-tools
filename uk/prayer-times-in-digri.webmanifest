@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Digri",
   "short_name": "Час намазу в Digri",
   "description": "Сьогоднішній час намазу в Digri, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Digri.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-digri.html",
+  "id": "/uk/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

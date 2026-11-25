@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bonn",
   "short_name": "Bønnetider i Bonn",
   "description": "Dagens bønnetider i Bonn, Tyskland: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Bonn.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bonn.html",
+  "id": "/da/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

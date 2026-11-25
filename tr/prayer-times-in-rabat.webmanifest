@@ -2,7 +2,7 @@
   "name": "Loona Rabat Namaz Vakitleri",
   "short_name": "Rabat Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rabat, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Rabat için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rabat.html",
+  "id": "/tr/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

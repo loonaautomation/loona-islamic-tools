@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Tanta",
   "short_name": "مواقيت الصلاة في Tanta",
   "description": "مواقيت الصلاة اليوم في Tanta، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـTanta.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-tanta.html",
+  "id": "/ar/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Port Said",
   "short_name": "Ore de rugăciune în Port Said",
   "description": "Orele de rugăciune de azi în Port Said, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Port Said.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-port-said.html",
+  "id": "/ro/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

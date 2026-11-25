@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pākdasht",
   "short_name": "Waktu Salat di Pākdasht",
   "description": "Waktu salat hari ini di Pākdasht, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Pākdasht.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pakdasht.html",
+  "id": "/id/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sāngli imaidői",
   "short_name": "Sāngli imaidői",
   "description": "A mai imaidők: Sāngli, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Sāngli számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sangli.html",
+  "id": "/hu/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

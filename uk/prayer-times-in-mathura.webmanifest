@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mathura",
   "short_name": "Час намазу в Mathura",
   "description": "Сьогоднішній час намазу в Mathura, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Mathura.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mathura.html",
+  "id": "/uk/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

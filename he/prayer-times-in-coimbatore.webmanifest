@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Coimbatore",
   "short_name": "זמני תפילה בעיר Coimbatore",
   "description": "זמני התפילה של היום בעיר Coimbatore, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Coimbatore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-coimbatore.html",
+  "id": "/he/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kankan imaidői",
   "short_name": "Kankan imaidői",
   "description": "A mai imaidők: Kankan, Guinea: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kankan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kankan.html",
+  "id": "/hu/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

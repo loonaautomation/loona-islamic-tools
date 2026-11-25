@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Lahore",
   "short_name": "Časy modlitieb v Lahore",
   "description": "Dnešné časy modlitieb v Lahore, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Lahore.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-lahore.html",
+  "id": "/sk/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

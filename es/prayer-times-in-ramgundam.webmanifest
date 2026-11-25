@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rāmgundam",
   "short_name": "Horarios de oración en Rāmgundam",
   "description": "Horarios de oración de hoy en Rāmgundam, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rāmgundam.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-ramgundam.html",
+  "id": "/es/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

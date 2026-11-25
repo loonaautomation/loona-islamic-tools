@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-tidsplan",
   "short_name": "Ramadan-tidsplan",
   "description": "Fuld Ramadan-tidsplan for enhver by og ethvert Hijri-år: Sehri-slut og Iftar-tider for hver dag i Ramadan med gregorianske datoer og fastens varighed. Gratis og udskriftsvenlig.",
-  "id": "/loona-islamic-tools/da/ramadan-timetable/",
+  "id": "/da/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

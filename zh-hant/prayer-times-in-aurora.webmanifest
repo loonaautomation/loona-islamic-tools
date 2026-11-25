@@ -2,7 +2,7 @@
   "name": "Loona Aurora的禮拜時間",
   "short_name": "Aurora的禮拜時間",
   "description": "Aurora（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Aurora實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-aurora.html",
+  "id": "/zh-hant/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Banī Suwayf",
   "short_name": "Час намазу в Banī Suwayf",
   "description": "Сьогоднішній час намазу в Banī Suwayf, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Banī Suwayf.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bani-suwayf.html",
+  "id": "/uk/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

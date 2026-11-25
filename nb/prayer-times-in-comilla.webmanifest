@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Comilla",
   "short_name": "Bønnetider i Comilla",
   "description": "Dagens bønnetider i Comilla, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Comilla.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-comilla.html",
+  "id": "/nb/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Taraz",
   "short_name": "Gebedstijden in Taraz",
   "description": "De gebedstijden van vandaag in Taraz, Kazachstan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Taraz.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-taraz.html",
+  "id": "/nl/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

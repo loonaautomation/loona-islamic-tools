@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Fes",
   "short_name": "مواقيت الصلاة في Fes",
   "description": "مواقيت الصلاة اليوم في Fes، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـFes.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-fes.html",
+  "id": "/ar/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

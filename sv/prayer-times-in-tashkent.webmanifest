@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tashkent",
   "short_name": "Bönetider i Tashkent",
   "description": "Dagens bönetider i Tashkent, Uzbekistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Tashkent.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tashkent.html",
+  "id": "/sv/prayer-times-in-tashkent.html",
   "start_url": "./prayer-times-in-tashkent.html",
   "scope": "./prayer-times-in-tashkent.html",
   "display": "standalone",

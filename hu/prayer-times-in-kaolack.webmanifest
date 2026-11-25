@@ -2,7 +2,7 @@
   "name": "Loona Kaolack imaidői",
   "short_name": "Kaolack imaidői",
   "description": "A mai imaidők: Kaolack, Szenegál: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kaolack számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kaolack.html",
+  "id": "/hu/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

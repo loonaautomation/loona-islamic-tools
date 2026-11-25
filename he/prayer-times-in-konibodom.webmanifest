@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Konibodom",
   "short_name": "זמני תפילה בעיר Konibodom",
   "description": "זמני התפילה של היום בעיר Konibodom, טג'יקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Konibodom.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-konibodom.html",
+  "id": "/he/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

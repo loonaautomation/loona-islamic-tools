@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bengaluru",
   "short_name": "Horarios de oración en Bengaluru",
   "description": "Horarios de oración de hoy en Bengaluru, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bengaluru.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bengaluru.html",
+  "id": "/es/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v El Fasher",
   "short_name": "Časy modlitieb v El Fasher",
   "description": "Dnešné časy modlitieb v El Fasher, Sudán: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre El Fasher.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-el-fasher.html",
+  "id": "/sk/prayer-times-in-el-fasher.html",
   "start_url": "./prayer-times-in-el-fasher.html",
   "scope": "./prayer-times-in-el-fasher.html",
   "display": "standalone",

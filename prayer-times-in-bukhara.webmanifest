@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bukhara",
   "short_name": "Prayer Times in Bukhara",
   "description": "Today's prayer times in Bukhara, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bukhara.",
-  "id": "/loona-islamic-tools/prayer-times-in-bukhara.html",
+  "id": "/prayer-times-in-bukhara.html",
   "start_url": "./prayer-times-in-bukhara.html",
   "scope": "./prayer-times-in-bukhara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Agra",
   "short_name": "זמני תפילה בעיר Agra",
   "description": "זמני התפילה של היום בעיר Agra, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Agra.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-agra.html",
+  "id": "/he/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

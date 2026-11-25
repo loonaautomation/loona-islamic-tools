@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Isfahan",
   "short_name": "Gebedstijden in Isfahan",
   "description": "De gebedstijden van vandaag in Isfahan, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Isfahan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-isfahan.html",
+  "id": "/nl/prayer-times-in-isfahan.html",
   "start_url": "./prayer-times-in-isfahan.html",
   "scope": "./prayer-times-in-isfahan.html",
   "display": "standalone",

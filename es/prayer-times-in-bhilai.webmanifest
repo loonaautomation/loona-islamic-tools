@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bhilai",
   "short_name": "Horarios de oración en Bhilai",
   "description": "Horarios de oración de hoy en Bhilai, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bhilai.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bhilai.html",
+  "id": "/es/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

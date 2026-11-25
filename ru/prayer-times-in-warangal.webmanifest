@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Warangal",
   "short_name": "Время намаза в городе Warangal",
   "description": "Время намаза на сегодня: Warangal, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Warangal.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-warangal.html",
+  "id": "/ru/prayer-times-in-warangal.html",
   "start_url": "./prayer-times-in-warangal.html",
   "scope": "./prayer-times-in-warangal.html",
   "display": "standalone",

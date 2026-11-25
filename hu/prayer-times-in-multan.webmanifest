@@ -2,7 +2,7 @@
   "name": "Loona Multan imaidői",
   "short_name": "Multan imaidői",
   "description": "A mai imaidők: Multan, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Multan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-multan.html",
+  "id": "/hu/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

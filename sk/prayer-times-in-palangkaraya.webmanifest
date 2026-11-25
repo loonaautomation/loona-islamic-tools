@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Palangkaraya",
   "short_name": "Časy modlitieb v Palangkaraya",
   "description": "Dnešné časy modlitieb v Palangkaraya, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Palangkaraya.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-palangkaraya.html",
+  "id": "/sk/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

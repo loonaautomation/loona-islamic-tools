@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Tiruppur",
   "short_name": "Ώρες Προσευχής στο Tiruppur",
   "description": "Οι σημερινές ώρες προσευχής στο Tiruppur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Tiruppur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tiruppur.html",
+  "id": "/el/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

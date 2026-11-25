@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ganja",
   "short_name": "Gebetszeiten in Ganja",
   "description": "Die heutigen Gebetszeiten in Ganja, Aserbaidschan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ganja.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ganja.html",
+  "id": "/de/prayer-times-in-ganja.html",
   "start_url": "./prayer-times-in-ganja.html",
   "scope": "./prayer-times-in-ganja.html",
   "display": "standalone",

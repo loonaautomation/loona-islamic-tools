@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Düsseldorf Today",
   "short_name": "Prayer Times in Düsseldorf Today",
   "description": "Today's prayer times in Düsseldorf, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Düsseldorf.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-duesseldorf.html",
+  "id": "/en-gb/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v The Hague",
   "short_name": "Časy modliteb v The Hague",
   "description": "Dnešní časy modliteb v The Hague, Nizozemsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro The Hague.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-the-hague.html",
+  "id": "/cs/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

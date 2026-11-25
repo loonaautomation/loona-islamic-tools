@@ -2,7 +2,7 @@
   "name": "Loona Amritsar imaidői",
   "short_name": "Amritsar imaidői",
   "description": "A mai imaidők: Amritsar, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Amritsar számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-amritsar.html",
+  "id": "/hu/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

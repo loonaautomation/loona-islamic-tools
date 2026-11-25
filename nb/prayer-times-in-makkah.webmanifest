@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Makkah",
   "short_name": "Bønnetider i Makkah",
   "description": "Dagens bønnetider i Makkah, Saudi-Arabia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Makkah.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-makkah.html",
+  "id": "/nb/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

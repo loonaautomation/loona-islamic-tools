@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Marseille",
   "short_name": "Waktu Solat di Marseille",
   "description": "Waktu solat hari ini di Marseille, Perancis: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Marseille.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-marseille.html",
+  "id": "/ms/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Probolinggo",
   "short_name": "Час намазу в Probolinggo",
   "description": "Сьогоднішній час намазу в Probolinggo, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Probolinggo.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-probolinggo.html",
+  "id": "/uk/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

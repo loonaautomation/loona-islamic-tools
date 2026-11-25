@@ -2,7 +2,7 @@
   "name": "Loona Isfara的禮拜時間",
   "short_name": "Isfara的禮拜時間",
   "description": "Isfara（塔吉克）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Isfara實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-isfara.html",
+  "id": "/zh-hant/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

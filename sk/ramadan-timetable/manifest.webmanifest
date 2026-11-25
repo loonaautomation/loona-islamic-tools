@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh Ramadánu",
   "short_name": "Rozvrh Ramadánu",
   "description": "Úplný rozvrh Ramadánu pre ktorékoľvek mesto a rok hidžry: časy konca Sehri a Iftaru na každý deň Ramadánu s gregoriánskymi dátumami a dĺžkou pôstu. Zadarmo, na vytlačenie.",
-  "id": "/loona-islamic-tools/sk/ramadan-timetable/",
+  "id": "/sk/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

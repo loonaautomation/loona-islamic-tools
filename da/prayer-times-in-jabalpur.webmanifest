@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jabalpur",
   "short_name": "Bønnetider i Jabalpur",
   "description": "Dagens bønnetider i Jabalpur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jabalpur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jabalpur.html",
+  "id": "/da/prayer-times-in-jabalpur.html",
   "start_url": "./prayer-times-in-jabalpur.html",
   "scope": "./prayer-times-in-jabalpur.html",
   "display": "standalone",

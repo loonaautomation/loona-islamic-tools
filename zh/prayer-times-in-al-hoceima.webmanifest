@@ -2,7 +2,7 @@
   "name": "Loona Al Hoceïma的礼拜时间",
   "short_name": "Al Hoceïma的礼拜时间",
   "description": "Al Hoceïma（摩洛哥）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Al Hoceïma实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-al-hoceima.html",
+  "id": "/zh/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

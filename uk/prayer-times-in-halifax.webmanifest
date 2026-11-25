@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Halifax",
   "short_name": "Час намазу в Halifax",
   "description": "Сьогоднішній час намазу в Halifax, Канада: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Halifax.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-halifax.html",
+  "id": "/uk/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

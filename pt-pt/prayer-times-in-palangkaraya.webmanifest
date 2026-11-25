@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Palangkaraya",
   "short_name": "Horários de Oração em Palangkaraya",
   "description": "Horários de oração de hoje em Palangkaraya, Indonésia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Palangkaraya.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-palangkaraya.html",
+  "id": "/pt-pt/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

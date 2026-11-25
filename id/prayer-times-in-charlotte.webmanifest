@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Charlotte",
   "short_name": "Waktu Salat di Charlotte",
   "description": "Waktu salat hari ini di Charlotte, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Charlotte.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-charlotte.html",
+  "id": "/id/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Rohtak",
   "short_name": "Czasy modlitw w miejscowości Rohtak",
   "description": "Dzisiejsze czasy modlitw w miejscowości Rohtak, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Rohtak.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-rohtak.html",
+  "id": "/pl/prayer-times-in-rohtak.html",
   "start_url": "./prayer-times-in-rohtak.html",
   "scope": "./prayer-times-in-rohtak.html",
   "display": "standalone",

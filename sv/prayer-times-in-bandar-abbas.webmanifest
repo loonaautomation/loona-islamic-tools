@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bandar Abbas",
   "short_name": "Bönetider i Bandar Abbas",
   "description": "Dagens bönetider i Bandar Abbas, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bandar Abbas.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bandar-abbas.html",
+  "id": "/sv/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

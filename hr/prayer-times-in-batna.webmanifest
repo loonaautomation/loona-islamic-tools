@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Batna",
   "short_name": "Vremena namaza u gradu Batna",
   "description": "Današnja vremena namaza u gradu Batna, Alžir: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Batna.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-batna.html",
+  "id": "/hr/prayer-times-in-batna.html",
   "start_url": "./prayer-times-in-batna.html",
   "scope": "./prayer-times-in-batna.html",
   "display": "standalone",

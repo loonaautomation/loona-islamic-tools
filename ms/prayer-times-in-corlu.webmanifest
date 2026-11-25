@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Çorlu",
   "short_name": "Waktu Solat di Çorlu",
   "description": "Waktu solat hari ini di Çorlu, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Çorlu.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-corlu.html",
+  "id": "/ms/prayer-times-in-corlu.html",
   "start_url": "./prayer-times-in-corlu.html",
   "scope": "./prayer-times-in-corlu.html",
   "display": "standalone",

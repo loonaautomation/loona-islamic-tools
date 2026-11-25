@@ -2,7 +2,7 @@
   "name": "Loona Blida Namaz Vakitleri",
   "short_name": "Blida Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Blida, Cezayir: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Blida için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-blida.html",
+  "id": "/tr/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

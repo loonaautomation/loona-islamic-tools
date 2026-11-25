@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ardabīl",
   "short_name": "זמני תפילה בעיר Ardabīl",
   "description": "זמני התפילה של היום בעיר Ardabīl, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ardabīl.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ardabil.html",
+  "id": "/he/prayer-times-in-ardabil.html",
   "start_url": "./prayer-times-in-ardabil.html",
   "scope": "./prayer-times-in-ardabil.html",
   "display": "standalone",

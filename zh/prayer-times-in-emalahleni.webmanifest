@@ -2,7 +2,7 @@
   "name": "Loona Emalahleni的礼拜时间",
   "short_name": "Emalahleni的礼拜时间",
   "description": "Emalahleni（南非）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Emalahleni实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-emalahleni.html",
+  "id": "/zh/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

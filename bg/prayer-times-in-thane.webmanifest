@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Thāne",
   "short_name": "Часове за намаз в Thāne",
   "description": "Днешните часове за намаз в Thāne, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Thāne.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-thane.html",
+  "id": "/bg/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

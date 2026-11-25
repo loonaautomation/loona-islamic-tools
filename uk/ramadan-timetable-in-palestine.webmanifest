@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в країні Палестина 2027 (1448)",
   "short_name": "Розклад Рамадану в країні Палестина 2027 (1448)",
   "description": "Розклад Рамадану 2027 року для країни Палестина: часи закінчення сехрі (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448 року, розраховані для Рамалли. Очікується з 8 лютого до 8 березня 2027 року, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-palestine.html",
+  "id": "/uk/ramadan-timetable-in-palestine.html",
   "start_url": "./ramadan-timetable-in-palestine.html",
   "scope": "./ramadan-timetable-in-palestine.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Ha'il",
   "short_name": "Giờ cầu nguyện tại Ha'il",
   "description": "Giờ cầu nguyện hôm nay tại Ha'il, Ả Rập Xê Út: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Umm al-Qura, được tính trực tiếp trên thiết bị của bạn cho Ha'il.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-ha-il.html",
+  "id": "/vi/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

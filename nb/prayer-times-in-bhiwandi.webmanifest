@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bhiwandi",
   "short_name": "Bønnetider i Bhiwandi",
   "description": "Dagens bønnetider i Bhiwandi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bhiwandi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bhiwandi.html",
+  "id": "/nb/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

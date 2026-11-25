@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qarshi",
   "short_name": "Gebetszeiten in Qarshi",
   "description": "Die heutigen Gebetszeiten in Qarshi, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Qarshi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qarshi.html",
+  "id": "/de/prayer-times-in-qarshi.html",
   "start_url": "./prayer-times-in-qarshi.html",
   "scope": "./prayer-times-in-qarshi.html",
   "display": "standalone",

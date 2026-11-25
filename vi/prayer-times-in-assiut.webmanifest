@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Assiut",
   "short_name": "Giờ cầu nguyện tại Assiut",
   "description": "Giờ cầu nguyện hôm nay tại Assiut, Ai Cập: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Egyptian General Authority, được tính trực tiếp trên thiết bị của bạn cho Assiut.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-assiut.html",
+  "id": "/vi/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

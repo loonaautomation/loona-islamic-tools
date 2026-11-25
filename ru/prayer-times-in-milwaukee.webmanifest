@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Milwaukee",
   "short_name": "Время намаза в городе Milwaukee",
   "description": "Время намаза на сегодня: Milwaukee, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Milwaukee.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-milwaukee.html",
+  "id": "/ru/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Bilimora",
   "short_name": "Ore de rugăciune în Bilimora",
   "description": "Orele de rugăciune de azi în Bilimora, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Bilimora.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-bilimora.html",
+  "id": "/ro/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

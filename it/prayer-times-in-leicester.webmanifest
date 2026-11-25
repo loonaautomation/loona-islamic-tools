@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Leicester",
   "short_name": "Orari di preghiera a Leicester",
   "description": "Orari di preghiera di oggi a Leicester, Regno Unito: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Leicester.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-leicester.html",
+  "id": "/it/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

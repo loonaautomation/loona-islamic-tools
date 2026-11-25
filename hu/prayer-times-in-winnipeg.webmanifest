@@ -2,7 +2,7 @@
   "name": "Loona Winnipeg imaidői",
   "short_name": "Winnipeg imaidői",
   "description": "A mai imaidők: Winnipeg, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Winnipeg számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-winnipeg.html",
+  "id": "/hu/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

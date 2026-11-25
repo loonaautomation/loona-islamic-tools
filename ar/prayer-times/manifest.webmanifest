@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة اليوم",
   "short_name": "مواقيت الصلاة اليوم",
   "description": "احصل على مواقيت الفجر والظهر والعصر والمغرب والعشاء اليوم لأي مدينة: طرق كراتشي وISNA وMWL وغيرها، والعصر حنفي أو شافعي، وإحداثيات دقيقة مدعومة.",
-  "id": "/loona-islamic-tools/ar/prayer-times/",
+  "id": "/ar/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Emalahleni",
   "short_name": "Час намазу в Emalahleni",
   "description": "Сьогоднішній час намазу в Emalahleni, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Emalahleni.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-emalahleni.html",
+  "id": "/uk/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

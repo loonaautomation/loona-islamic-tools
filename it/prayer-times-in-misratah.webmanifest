@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Misratah",
   "short_name": "Orari di preghiera a Misratah",
   "description": "Orari di preghiera di oggi a Misratah, Libia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Misratah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-misratah.html",
+  "id": "/it/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

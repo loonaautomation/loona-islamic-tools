@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bornova",
   "short_name": "Bønnetider i Bornova",
   "description": "Dagens bønnetider i Bornova, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Bornova.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bornova.html",
+  "id": "/da/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Vellore",
   "short_name": "เวลาละหมาดใน Vellore",
   "description": "เวลาละหมาดวันนี้ใน Vellore, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Vellore",
-  "id": "/loona-islamic-tools/th/prayer-times-in-vellore.html",
+  "id": "/th/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

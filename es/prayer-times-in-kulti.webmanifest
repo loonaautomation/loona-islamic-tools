@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kulti",
   "short_name": "Horarios de oración en Kulti",
   "description": "Horarios de oración de hoy en Kulti, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kulti.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kulti.html",
+  "id": "/es/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

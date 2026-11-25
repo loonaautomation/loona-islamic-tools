@@ -2,7 +2,7 @@
   "name": "Loona Patiāla の礼拝時刻",
   "short_name": "Patiāla の礼拝時刻",
   "description": "Patiāla（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Patiāla についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-patiala.html",
+  "id": "/ja/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

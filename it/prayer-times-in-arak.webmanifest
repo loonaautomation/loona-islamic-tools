@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Arāk",
   "short_name": "Orari di preghiera a Arāk",
   "description": "Orari di preghiera di oggi a Arāk, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Arāk.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-arak.html",
+  "id": "/it/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

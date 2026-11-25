@@ -2,7 +2,7 @@
   "name": "Loona اتجاه القبلة",
   "short_name": "اتجاه القبلة",
   "description": "اعثر على اتجاه القبلة بالدرجات من أي مدينة أو موقعك الدقيق، مع قرص بوصلة مباشر والمسافة إلى مكة. مجاني ودقيق وخاص.",
-  "id": "/loona-islamic-tools/ar/qibla-direction/",
+  "id": "/ar/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

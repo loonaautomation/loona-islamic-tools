@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Surat",
   "short_name": "Heures de prière à Surat",
   "description": "Les heures de prière d’aujourd’hui à Surat, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Surat.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-surat.html",
+  "id": "/fr/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

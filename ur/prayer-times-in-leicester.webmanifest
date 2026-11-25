@@ -2,7 +2,7 @@
   "name": "Loona لیسٹر میں نماز کے اوقات",
   "short_name": "لیسٹر میں نماز کے اوقات",
   "description": "لیسٹر، برطانیہ میں آج کے نماز اوقات: فجر، طلوعِ آفتاب، ظہر، عصر (شافعی)، مغرب اور عشاء، نیز قبلہ سمت اور آج کی ہجری تاریخ۔ مسلم ورلڈ لیگ طریقہ، آپ کی ڈیوائس پر لیسٹر کے لیے براہ راست حساب۔",
-  "id": "/loona-islamic-tools/ur/prayer-times-in-leicester.html",
+  "id": "/ur/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Basrah",
   "short_name": "Waktu Salat di Basrah",
   "description": "Waktu salat hari ini di Basrah, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Basrah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-basrah.html",
+  "id": "/id/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

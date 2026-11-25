@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Larkana",
   "short_name": "Gebetszeiten in Larkana",
   "description": "Die heutigen Gebetszeiten in Larkana, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Larkana.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-larkana.html",
+  "id": "/de/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

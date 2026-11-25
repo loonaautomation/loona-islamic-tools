@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Osmaniye",
   "short_name": "Gebedstijden in Osmaniye",
   "description": "De gebedstijden van vandaag in Osmaniye, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Osmaniye.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-osmaniye.html",
+  "id": "/nl/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

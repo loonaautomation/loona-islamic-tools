@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sāngli",
   "short_name": "Vremena namaza u gradu Sāngli",
   "description": "Današnja vremena namaza u gradu Sāngli, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Sāngli.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sangli.html",
+  "id": "/hr/prayer-times-in-sangli.html",
   "start_url": "./prayer-times-in-sangli.html",
   "scope": "./prayer-times-in-sangli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rajshahi的礼拜时间",
   "short_name": "Rajshahi的礼拜时间",
   "description": "Rajshahi（孟加拉国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Rajshahi实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-rajshahi.html",
+  "id": "/zh/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

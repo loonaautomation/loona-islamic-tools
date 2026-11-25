@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Nasiriyah",
   "short_name": "Prayer Times in Nasiriyah",
   "description": "Today's prayer times in Nasiriyah, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Nasiriyah.",
-  "id": "/loona-islamic-tools/prayer-times-in-nasiriyah.html",
+  "id": "/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

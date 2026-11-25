@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sukkur",
   "short_name": "مواقيت الصلاة في Sukkur",
   "description": "مواقيت الصلاة اليوم في Sukkur، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSukkur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sukkur.html",
+  "id": "/ar/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

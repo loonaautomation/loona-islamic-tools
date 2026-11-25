@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Aurora",
   "short_name": "Časy modlitieb v Aurora",
   "description": "Dnešné časy modlitieb v Aurora, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Aurora.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-aurora.html",
+  "id": "/sk/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

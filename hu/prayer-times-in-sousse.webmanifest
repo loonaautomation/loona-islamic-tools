@@ -2,7 +2,7 @@
   "name": "Loona Sousse imaidői",
   "short_name": "Sousse imaidői",
   "description": "A mai imaidők: Sousse, Tunézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Sousse számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sousse.html",
+  "id": "/hu/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

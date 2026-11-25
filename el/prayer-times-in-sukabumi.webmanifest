@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sukabumi",
   "short_name": "Ώρες Προσευχής στο Sukabumi",
   "description": "Οι σημερινές ώρες προσευχής στο Sukabumi, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Sukabumi.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sukabumi.html",
+  "id": "/el/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

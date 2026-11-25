@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tirunelveli",
   "short_name": "Vremena namaza u gradu Tirunelveli",
   "description": "Današnja vremena namaza u gradu Tirunelveli, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Tirunelveli.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tirunelveli.html",
+  "id": "/hr/prayer-times-in-tirunelveli.html",
   "start_url": "./prayer-times-in-tirunelveli.html",
   "scope": "./prayer-times-in-tirunelveli.html",
   "display": "standalone",

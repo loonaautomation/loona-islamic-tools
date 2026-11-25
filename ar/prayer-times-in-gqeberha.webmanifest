@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gqeberha",
   "short_name": "مواقيت الصلاة في Gqeberha",
   "description": "مواقيت الصلاة اليوم في Gqeberha، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـGqeberha.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gqeberha.html",
+  "id": "/ar/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

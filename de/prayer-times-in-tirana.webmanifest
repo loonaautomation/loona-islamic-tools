@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tirana",
   "short_name": "Gebetszeiten in Tirana",
   "description": "Die heutigen Gebetszeiten in Tirana, Albanien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tirana.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tirana.html",
+  "id": "/de/prayer-times-in-tirana.html",
   "start_url": "./prayer-times-in-tirana.html",
   "scope": "./prayer-times-in-tirana.html",
   "display": "standalone",

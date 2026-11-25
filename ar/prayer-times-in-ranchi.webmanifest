@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ranchi",
   "short_name": "مواقيت الصلاة في Ranchi",
   "description": "مواقيت الصلاة اليوم في Ranchi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRanchi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ranchi.html",
+  "id": "/ar/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

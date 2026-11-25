@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten heute",
   "short_name": "Gebetszeiten heute",
   "description": "Erhalten Sie die heutigen Gebetszeiten für Fajr, Dhuhr, Asr, Maghrib und Isha für jede Stadt: Karachi-, ISNA-, MWL- und weitere Methoden, Hanafi- oder Shafi-Asr, genaue Koordinaten werden unterstützt.",
-  "id": "/loona-islamic-tools/de/prayer-times/",
+  "id": "/de/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

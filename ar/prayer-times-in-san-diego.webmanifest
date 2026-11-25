@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في San Diego",
   "short_name": "مواقيت الصلاة في San Diego",
   "description": "مواقيت الصلاة اليوم في San Diego، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـSan Diego.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-san-diego.html",
+  "id": "/ar/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

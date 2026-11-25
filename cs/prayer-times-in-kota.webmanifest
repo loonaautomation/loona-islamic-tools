@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kota",
   "short_name": "Časy modliteb v Kota",
   "description": "Dnešní časy modliteb v Kota, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kota.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kota.html",
+  "id": "/cs/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

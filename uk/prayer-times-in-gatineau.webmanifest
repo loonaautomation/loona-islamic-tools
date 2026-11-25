@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gatineau",
   "short_name": "Час намазу в Gatineau",
   "description": "Сьогоднішній час намазу в Gatineau, Канада: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Gatineau.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gatineau.html",
+  "id": "/uk/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

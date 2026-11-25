@@ -2,7 +2,7 @@
   "name": "Loona Khartoum imaidői",
   "short_name": "Khartoum imaidői",
   "description": "A mai imaidők: Khartoum, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Khartoum számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-khartoum.html",
+  "id": "/hu/prayer-times-in-khartoum.html",
   "start_url": "./prayer-times-in-khartoum.html",
   "scope": "./prayer-times-in-khartoum.html",
   "display": "standalone",

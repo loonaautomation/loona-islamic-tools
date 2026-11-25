@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Yogyakarta",
   "short_name": "Waktu Solat di Yogyakarta",
   "description": "Waktu solat hari ini di Yogyakarta, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Yogyakarta.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-yogyakarta.html",
+  "id": "/ms/prayer-times-in-yogyakarta.html",
   "start_url": "./prayer-times-in-yogyakarta.html",
   "scope": "./prayer-times-in-yogyakarta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Singkawang",
   "short_name": "Час намазу в Singkawang",
   "description": "Сьогоднішній час намазу в Singkawang, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Singkawang.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-singkawang.html",
+  "id": "/uk/prayer-times-in-singkawang.html",
   "start_url": "./prayer-times-in-singkawang.html",
   "scope": "./prayer-times-in-singkawang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Thiès",
   "short_name": "Heures de prière à Thiès",
   "description": "Les heures de prière d’aujourd’hui à Thiès, Sénégal : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Thiès.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-thies.html",
+  "id": "/fr/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

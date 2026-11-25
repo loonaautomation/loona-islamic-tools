@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Alanya",
   "short_name": "Rukousajat: Alanya",
   "description": "Tämän päivän rukousajat paikassa Alanya, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Alanya.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-alanya.html",
+  "id": "/fi/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

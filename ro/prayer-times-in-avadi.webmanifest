@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Avadi",
   "short_name": "Ore de rugăciune în Avadi",
   "description": "Orele de rugăciune de azi în Avadi, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Avadi.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-avadi.html",
+  "id": "/ro/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

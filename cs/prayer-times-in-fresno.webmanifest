@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Fresno",
   "short_name": "Časy modliteb v Fresno",
   "description": "Dnešní časy modliteb v Fresno, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Fresno.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-fresno.html",
+  "id": "/cs/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

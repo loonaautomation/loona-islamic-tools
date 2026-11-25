@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Astana",
   "short_name": "Часове за намаз в Astana",
   "description": "Днешните часове за намаз в Astana, Казахстан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Astana.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-astana.html",
+  "id": "/bg/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

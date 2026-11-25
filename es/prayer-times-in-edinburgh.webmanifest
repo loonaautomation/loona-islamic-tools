@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Edinburgh",
   "short_name": "Horarios de oración en Edinburgh",
   "description": "Horarios de oración de hoy en Edinburgh, Reino Unido: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Edinburgh.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-edinburgh.html",
+  "id": "/es/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

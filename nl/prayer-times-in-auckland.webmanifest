@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Auckland",
   "short_name": "Gebedstijden in Auckland",
   "description": "De gebedstijden van vandaag in Auckland, Nieuw-Zeeland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Auckland.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-auckland.html",
+  "id": "/nl/prayer-times-in-auckland.html",
   "start_url": "./prayer-times-in-auckland.html",
   "scope": "./prayer-times-in-auckland.html",
   "display": "standalone",

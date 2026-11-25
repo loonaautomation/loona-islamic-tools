@@ -2,7 +2,7 @@
   "name": "Loona Sohag Namaz Vakitleri",
   "short_name": "Sohag Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sohag, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Sohag için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sohag.html",
+  "id": "/tr/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

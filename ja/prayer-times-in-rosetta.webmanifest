@@ -2,7 +2,7 @@
   "name": "Loona Rosetta の礼拝時刻",
   "short_name": "Rosetta の礼拝時刻",
   "description": "Rosetta、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Rosetta についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-rosetta.html",
+  "id": "/ja/prayer-times-in-rosetta.html",
   "start_url": "./prayer-times-in-rosetta.html",
   "scope": "./prayer-times-in-rosetta.html",
   "display": "standalone",

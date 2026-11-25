@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Samarinda",
   "short_name": "Ώρες Προσευχής στο Samarinda",
   "description": "Οι σημερινές ώρες προσευχής στο Samarinda, Ινδονησία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Samarinda.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-samarinda.html",
+  "id": "/el/prayer-times-in-samarinda.html",
   "start_url": "./prayer-times-in-samarinda.html",
   "scope": "./prayer-times-in-samarinda.html",
   "display": "standalone",

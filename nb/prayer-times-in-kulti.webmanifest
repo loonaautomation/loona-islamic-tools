@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kulti",
   "short_name": "Bønnetider i Kulti",
   "description": "Dagens bønnetider i Kulti, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kulti.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kulti.html",
+  "id": "/nb/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

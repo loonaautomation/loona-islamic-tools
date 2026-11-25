@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ziguinchor",
   "short_name": "Bønnetider i Ziguinchor",
   "description": "Dagens bønnetider i Ziguinchor, Senegal: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Ziguinchor.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-ziguinchor.html",
+  "id": "/da/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

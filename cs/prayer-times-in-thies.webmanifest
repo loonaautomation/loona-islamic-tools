@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Thiès",
   "short_name": "Časy modliteb v Thiès",
   "description": "Dnešní časy modliteb v Thiès, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Thiès.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-thies.html",
+  "id": "/cs/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

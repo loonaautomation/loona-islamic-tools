@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Florence",
   "short_name": "Prayer Times in Florence",
   "description": "Today's prayer times in Florence, Italy: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Florence.",
-  "id": "/loona-islamic-tools/prayer-times-in-florence.html",
+  "id": "/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

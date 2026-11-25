@@ -2,7 +2,7 @@
   "name": "Loona Nuremberg Namaz Vakitleri",
   "short_name": "Nuremberg Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nuremberg, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Nuremberg için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nuremberg.html",
+  "id": "/tr/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

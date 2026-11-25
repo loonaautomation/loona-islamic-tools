@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rabat",
   "short_name": "مواقيت الصلاة في Rabat",
   "description": "مواقيت الصلاة اليوم في Rabat، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـRabat.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rabat.html",
+  "id": "/ar/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

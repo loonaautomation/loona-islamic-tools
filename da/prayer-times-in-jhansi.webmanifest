@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jhānsi",
   "short_name": "Bønnetider i Jhānsi",
   "description": "Dagens bønnetider i Jhānsi, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jhānsi.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jhansi.html",
+  "id": "/da/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

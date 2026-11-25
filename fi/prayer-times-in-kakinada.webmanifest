@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kākināda",
   "short_name": "Rukousajat: Kākināda",
   "description": "Tämän päivän rukousajat paikassa Kākināda, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Kākināda.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kakinada.html",
+  "id": "/fi/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

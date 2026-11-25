@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Astana",
   "short_name": "Bønnetider i Astana",
   "description": "Dagens bønnetider i Astana, Kasakhstan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Astana.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-astana.html",
+  "id": "/da/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

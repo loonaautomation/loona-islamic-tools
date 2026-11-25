@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Alicante",
   "short_name": "Vremena namaza u gradu Alicante",
   "description": "Današnja vremena namaza u gradu Alicante, Španjolska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Alicante.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-alicante.html",
+  "id": "/hr/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

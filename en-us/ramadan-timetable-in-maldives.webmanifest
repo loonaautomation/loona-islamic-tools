@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable in Maldives 2027",
   "short_name": "Ramadan Timetable in Maldives 2027",
   "description": "Ramadan 2027 timetable for Maldives: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Male. Expected February 8 to March 8, 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/en-us/ramadan-timetable-in-maldives.html",
+  "id": "/en-us/ramadan-timetable-in-maldives.html",
   "start_url": "./ramadan-timetable-in-maldives.html",
   "scope": "./ramadan-timetable-in-maldives.html",
   "display": "standalone",

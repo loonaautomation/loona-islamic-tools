@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sanandaj",
   "short_name": "Bönetider i Sanandaj",
   "description": "Dagens bönetider i Sanandaj, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sanandaj.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sanandaj.html",
+  "id": "/sv/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

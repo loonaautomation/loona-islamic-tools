@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Emalahleni",
   "short_name": "זמני תפילה בעיר Emalahleni",
   "description": "זמני התפילה של היום בעיר Emalahleni, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Emalahleni.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-emalahleni.html",
+  "id": "/he/prayer-times-in-emalahleni.html",
   "start_url": "./prayer-times-in-emalahleni.html",
   "scope": "./prayer-times-in-emalahleni.html",
   "display": "standalone",

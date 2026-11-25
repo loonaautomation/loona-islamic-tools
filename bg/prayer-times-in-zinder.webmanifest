@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Zinder",
   "short_name": "Часове за намаз в Zinder",
   "description": "Днешните часове за намаз в Zinder, Нигер: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Zinder.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-zinder.html",
+  "id": "/bg/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

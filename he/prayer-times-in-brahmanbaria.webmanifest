@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Brāhmanbāria",
   "short_name": "זמני תפילה בעיר Brāhmanbāria",
   "description": "זמני התפילה של היום בעיר Brāhmanbāria, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Brāhmanbāria.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-brahmanbaria.html",
+  "id": "/he/prayer-times-in-brahmanbaria.html",
   "start_url": "./prayer-times-in-brahmanbaria.html",
   "scope": "./prayer-times-in-brahmanbaria.html",
   "display": "standalone",

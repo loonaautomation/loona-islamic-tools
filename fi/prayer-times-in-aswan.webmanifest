@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Aswān",
   "short_name": "Rukousajat: Aswān",
   "description": "Tämän päivän rukousajat paikassa Aswān, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Aswān.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-aswan.html",
+  "id": "/fi/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

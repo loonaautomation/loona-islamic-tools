@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb podle zemí",
   "short_name": "Časy modliteb podle zemí",
   "description": "Časy modliteb pro 871 měst po celém světě, seskupených podle země: Fadžr, východ slunce, Dhuhr, Asr, Maghrib a Išá na dnešek, rozvrhy na celý měsíc, směr qibly a rozvrhy ramadánu 2027 podle zemí.",
-  "id": "/loona-islamic-tools/cs/prayer-times-by-country.html",
+  "id": "/cs/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
   "display": "standalone",

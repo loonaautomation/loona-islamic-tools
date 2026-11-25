@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Graz",
   "short_name": "זמני תפילה בעיר Graz",
   "description": "זמני התפילה של היום בעיר Graz, אוסטריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Graz.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-graz.html",
+  "id": "/he/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

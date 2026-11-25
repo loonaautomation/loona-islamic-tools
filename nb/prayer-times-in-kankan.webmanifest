@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kankan",
   "short_name": "Bønnetider i Kankan",
   "description": "Dagens bønnetider i Kankan, Guinea: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kankan.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kankan.html",
+  "id": "/nb/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

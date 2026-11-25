@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Port Said",
   "short_name": "Час намазу в Port Said",
   "description": "Сьогоднішній час намазу в Port Said, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Port Said.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-port-said.html",
+  "id": "/uk/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

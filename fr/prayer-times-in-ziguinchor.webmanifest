@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Ziguinchor",
   "short_name": "Heures de prière à Ziguinchor",
   "description": "Les heures de prière d’aujourd’hui à Ziguinchor, Sénégal : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Ziguinchor.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-ziguinchor.html",
+  "id": "/fr/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

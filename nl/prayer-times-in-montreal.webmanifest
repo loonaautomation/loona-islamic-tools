@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Montréal",
   "short_name": "Gebedstijden in Montréal",
   "description": "De gebedstijden van vandaag in Montréal, Canada: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Montréal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-montreal.html",
+  "id": "/nl/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

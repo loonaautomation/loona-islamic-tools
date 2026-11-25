@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bandung",
   "short_name": "Vremena namaza u gradu Bandung",
   "description": "Današnja vremena namaza u gradu Bandung, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bandung.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bandung.html",
+  "id": "/hr/prayer-times-in-bandung.html",
   "start_url": "./prayer-times-in-bandung.html",
   "scope": "./prayer-times-in-bandung.html",
   "display": "standalone",

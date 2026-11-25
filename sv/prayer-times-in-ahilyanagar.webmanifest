@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ahilyanagar",
   "short_name": "Bönetider i Ahilyanagar",
   "description": "Dagens bönetider i Ahilyanagar, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Ahilyanagar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ahilyanagar.html",
+  "id": "/sv/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

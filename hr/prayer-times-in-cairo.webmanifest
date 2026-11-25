@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Cairo",
   "short_name": "Vremena namaza u gradu Cairo",
   "description": "Današnja vremena namaza u gradu Cairo, Egipat: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Cairo.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-cairo.html",
+  "id": "/hr/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

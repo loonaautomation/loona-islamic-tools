@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Varanasi",
   "short_name": "זמני תפילה בעיר Varanasi",
   "description": "זמני התפילה של היום בעיר Varanasi, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Varanasi.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-varanasi.html",
+  "id": "/he/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

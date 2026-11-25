@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Jakarta",
   "short_name": "Orari di preghiera a Jakarta",
   "description": "Orari di preghiera di oggi a Jakarta, Indonesia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Jakarta.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-jakarta.html",
+  "id": "/it/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

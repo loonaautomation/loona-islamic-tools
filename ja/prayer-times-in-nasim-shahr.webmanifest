@@ -2,7 +2,7 @@
   "name": "Loona Nasīm Shahr の礼拝時刻",
   "short_name": "Nasīm Shahr の礼拝時刻",
   "description": "Nasīm Shahr（イラン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Nasīm Shahr についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-nasim-shahr.html",
+  "id": "/ja/prayer-times-in-nasim-shahr.html",
   "start_url": "./prayer-times-in-nasim-shahr.html",
   "scope": "./prayer-times-in-nasim-shahr.html",
   "display": "standalone",

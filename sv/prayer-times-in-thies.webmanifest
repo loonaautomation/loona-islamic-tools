@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Thiès",
   "short_name": "Bönetider i Thiès",
   "description": "Dagens bönetider i Thiès, Senegal: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Thiès.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-thies.html",
+  "id": "/sv/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

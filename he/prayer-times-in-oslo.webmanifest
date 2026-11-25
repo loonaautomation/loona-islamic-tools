@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Oslo",
   "short_name": "זמני תפילה בעיר Oslo",
   "description": "זמני התפילה של היום בעיר Oslo, נורבגיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Oslo.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-oslo.html",
+  "id": "/he/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

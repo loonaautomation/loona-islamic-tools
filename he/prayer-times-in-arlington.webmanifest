@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Arlington",
   "short_name": "זמני תפילה בעיר Arlington",
   "description": "זמני התפילה של היום בעיר Arlington, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Arlington.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-arlington.html",
+  "id": "/he/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

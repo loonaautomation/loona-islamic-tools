@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ashgabat",
   "short_name": "Gebetszeiten in Ashgabat",
   "description": "Die heutigen Gebetszeiten in Ashgabat, Turkmenistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ashgabat.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ashgabat.html",
+  "id": "/de/prayer-times-in-ashgabat.html",
   "start_url": "./prayer-times-in-ashgabat.html",
   "scope": "./prayer-times-in-ashgabat.html",
   "display": "standalone",

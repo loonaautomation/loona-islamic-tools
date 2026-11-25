@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Banja Luka",
   "short_name": "Gebedstijden in Banja Luka",
   "description": "De gebedstijden van vandaag in Banja Luka, Bosnië en Herzegovina: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Banja Luka.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-banja-luka.html",
+  "id": "/nl/prayer-times-in-banja-luka.html",
   "start_url": "./prayer-times-in-banja-luka.html",
   "scope": "./prayer-times-in-banja-luka.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר El Paso",
   "short_name": "זמני תפילה בעיר El Paso",
   "description": "זמני התפילה של היום בעיר El Paso, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור El Paso.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-el-paso.html",
+  "id": "/he/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

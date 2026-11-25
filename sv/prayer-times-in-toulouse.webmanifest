@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Toulouse",
   "short_name": "Bönetider i Toulouse",
   "description": "Dagens bönetider i Toulouse, Frankrike: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Toulouse.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-toulouse.html",
+  "id": "/sv/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

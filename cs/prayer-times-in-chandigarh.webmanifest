@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Chandigarh",
   "short_name": "Časy modliteb v Chandigarh",
   "description": "Dnešní časy modliteb v Chandigarh, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Chandigarh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-chandigarh.html",
+  "id": "/cs/prayer-times-in-chandigarh.html",
   "start_url": "./prayer-times-in-chandigarh.html",
   "scope": "./prayer-times-in-chandigarh.html",
   "display": "standalone",

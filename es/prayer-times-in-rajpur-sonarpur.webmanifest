@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rajpur Sonarpur",
   "short_name": "Horarios de oración en Rajpur Sonarpur",
   "description": "Horarios de oración de hoy en Rajpur Sonarpur, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rajpur Sonarpur.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rajpur-sonarpur.html",
+  "id": "/es/prayer-times-in-rajpur-sonarpur.html",
   "start_url": "./prayer-times-in-rajpur-sonarpur.html",
   "scope": "./prayer-times-in-rajpur-sonarpur.html",
   "display": "standalone",

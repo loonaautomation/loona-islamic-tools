@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Skardu",
   "short_name": "Bønnetider i Skardu",
   "description": "Dagens bønnetider i Skardu, Pakistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Skardu.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-skardu.html",
+  "id": "/da/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

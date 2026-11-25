@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Alexandria",
   "short_name": "Heures de prière à Alexandria",
   "description": "Les heures de prière d’aujourd’hui à Alexandria, Égypte : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Egyptian General Authority, calculées en direct sur votre appareil pour Alexandria.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-alexandria.html",
+  "id": "/fr/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

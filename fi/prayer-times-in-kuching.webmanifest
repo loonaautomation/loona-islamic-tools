@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kuching",
   "short_name": "Rukousajat: Kuching",
   "description": "Tämän päivän rukousajat paikassa Kuching, Malesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kuching.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kuching.html",
+  "id": "/fi/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

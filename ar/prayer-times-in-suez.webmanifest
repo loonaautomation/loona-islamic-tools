@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Suez",
   "short_name": "مواقيت الصلاة في Suez",
   "description": "مواقيت الصلاة اليوم في Suez، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـSuez.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-suez.html",
+  "id": "/ar/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

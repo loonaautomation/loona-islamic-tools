@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Al-Kut",
   "short_name": "Časy modliteb v Al-Kut",
   "description": "Dnešní časy modliteb v Al-Kut, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Al-Kut.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-al-kut.html",
+  "id": "/cs/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

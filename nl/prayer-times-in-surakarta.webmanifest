@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Surakarta",
   "short_name": "Gebedstijden in Surakarta",
   "description": "De gebedstijden van vandaag in Surakarta, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Surakarta.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-surakarta.html",
+  "id": "/nl/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jeddah",
   "short_name": "Waktu Salat di Jeddah",
   "description": "Waktu salat hari ini di Jeddah, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Jeddah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jeddah.html",
+  "id": "/id/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

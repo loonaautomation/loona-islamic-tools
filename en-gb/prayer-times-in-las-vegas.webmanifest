@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Las Vegas Today",
   "short_name": "Prayer Times in Las Vegas Today",
   "description": "Today's prayer times in Las Vegas, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Las Vegas.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-las-vegas.html",
+  "id": "/en-gb/prayer-times-in-las-vegas.html",
   "start_url": "./prayer-times-in-las-vegas.html",
   "scope": "./prayer-times-in-las-vegas.html",
   "display": "standalone",

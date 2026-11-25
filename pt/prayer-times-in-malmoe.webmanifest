@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Malmö",
   "short_name": "Horários de Oração em Malmö",
   "description": "Horários de oração de hoje em Malmö, Suécia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Malmö.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-malmoe.html",
+  "id": "/pt/prayer-times-in-malmoe.html",
   "start_url": "./prayer-times-in-malmoe.html",
   "scope": "./prayer-times-in-malmoe.html",
   "display": "standalone",

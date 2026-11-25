@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jayapura",
   "short_name": "Gebetszeiten in Jayapura",
   "description": "Die heutigen Gebetszeiten in Jayapura, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Jayapura.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jayapura.html",
+  "id": "/de/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

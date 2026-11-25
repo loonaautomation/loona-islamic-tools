@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sousse",
   "short_name": "Gebetszeiten in Sousse",
   "description": "Die heutigen Gebetszeiten in Sousse, Tunesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sousse.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sousse.html",
+  "id": "/de/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

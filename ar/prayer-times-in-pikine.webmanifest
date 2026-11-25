@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pikine",
   "short_name": "مواقيت الصلاة في Pikine",
   "description": "مواقيت الصلاة اليوم في Pikine، السنغال: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPikine.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pikine.html",
+  "id": "/ar/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

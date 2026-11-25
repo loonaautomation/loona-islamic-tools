@@ -2,7 +2,7 @@
   "name": "Loona Rabat imaidői",
   "short_name": "Rabat imaidői",
   "description": "A mai imaidők: Rabat, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Rabat számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-rabat.html",
+  "id": "/hu/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

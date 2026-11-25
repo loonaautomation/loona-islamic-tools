@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Adıyaman",
   "short_name": "Czasy modlitw w miejscowości Adıyaman",
   "description": "Dzisiejsze czasy modlitw w miejscowości Adıyaman, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Adıyaman.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-adiyaman.html",
+  "id": "/pl/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في نيوكاسل (أستراليا)",
   "short_name": "مواقيت الصلاة في نيوكاسل (أستراليا)",
   "description": "مواقيت الصلاة اليوم في نيوكاسل، أستراليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لنيوكاسل.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-newcastle.html",
+  "id": "/ar/prayer-times-in-newcastle.html",
   "start_url": "./prayer-times-in-newcastle.html",
   "scope": "./prayer-times-in-newcastle.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Patiāla",
   "short_name": "Gebedstijden in Patiāla",
   "description": "De gebedstijden van vandaag in Patiāla, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Patiāla.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-patiala.html",
+  "id": "/nl/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ankara",
   "short_name": "Ore de rugăciune în Ankara",
   "description": "Orele de rugăciune de azi în Ankara, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Ankara.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-ankara.html",
+  "id": "/ro/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

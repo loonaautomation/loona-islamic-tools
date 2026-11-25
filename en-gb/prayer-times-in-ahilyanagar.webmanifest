@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ahilyanagar Today",
   "short_name": "Prayer Times in Ahilyanagar Today",
   "description": "Today's prayer times in Ahilyanagar, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Ahilyanagar.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-ahilyanagar.html",
+  "id": "/en-gb/prayer-times-in-ahilyanagar.html",
   "start_url": "./prayer-times-in-ahilyanagar.html",
   "scope": "./prayer-times-in-ahilyanagar.html",
   "display": "standalone",

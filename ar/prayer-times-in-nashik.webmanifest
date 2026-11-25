@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nashik",
   "short_name": "مواقيت الصلاة في Nashik",
   "description": "مواقيت الصلاة اليوم في Nashik، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـNashik.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nashik.html",
+  "id": "/ar/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

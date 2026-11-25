@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Ludhiana",
   "short_name": "Czasy modlitw w miejscowości Ludhiana",
   "description": "Dzisiejsze czasy modlitw w miejscowości Ludhiana, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Ludhiana.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-ludhiana.html",
+  "id": "/pl/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

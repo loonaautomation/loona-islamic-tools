@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhiwandi",
   "short_name": "Gebetszeiten in Bhiwandi",
   "description": "Die heutigen Gebetszeiten in Bhiwandi, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhiwandi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhiwandi.html",
+  "id": "/de/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

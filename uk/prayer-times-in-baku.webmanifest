@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Baku",
   "short_name": "Час намазу в Baku",
   "description": "Сьогоднішній час намазу в Baku, Азербайджан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Baku.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-baku.html",
+  "id": "/uk/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

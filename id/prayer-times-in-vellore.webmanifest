@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Vellore",
   "short_name": "Waktu Salat di Vellore",
   "description": "Waktu salat hari ini di Vellore, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Vellore.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-vellore.html",
+  "id": "/id/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

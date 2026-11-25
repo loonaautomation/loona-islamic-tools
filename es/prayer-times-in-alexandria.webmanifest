@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Alexandria",
   "short_name": "Horarios de oración en Alexandria",
   "description": "Horarios de oración de hoy en Alexandria, Egipto: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Egyptian General Authority, calculado en vivo en tu dispositivo para Alexandria.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-alexandria.html",
+  "id": "/es/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

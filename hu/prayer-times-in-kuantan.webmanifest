@@ -2,7 +2,7 @@
   "name": "Loona Kuantan imaidői",
   "short_name": "Kuantan imaidői",
   "description": "A mai imaidők: Kuantan, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kuantan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kuantan.html",
+  "id": "/hu/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jammu",
   "short_name": "Časy modlitieb v Jammu",
   "description": "Dnešné časy modlitieb v Jammu, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jammu.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-jammu.html",
+  "id": "/sk/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

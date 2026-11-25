@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Portland",
   "short_name": "Час намазу в Portland",
   "description": "Сьогоднішній час намазу в Portland, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Portland.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-portland.html",
+  "id": "/uk/prayer-times-in-portland.html",
   "start_url": "./prayer-times-in-portland.html",
   "scope": "./prayer-times-in-portland.html",
   "display": "standalone",

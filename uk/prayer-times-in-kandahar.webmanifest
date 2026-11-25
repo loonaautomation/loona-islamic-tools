@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kandahār",
   "short_name": "Час намазу в Kandahār",
   "description": "Сьогоднішній час намазу в Kandahār, Афганістан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kandahār.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kandahar.html",
+  "id": "/uk/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

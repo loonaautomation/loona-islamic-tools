@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Nagpur",
   "short_name": "Ώρες Προσευχής στο Nagpur",
   "description": "Οι σημερινές ώρες προσευχής στο Nagpur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Nagpur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-nagpur.html",
+  "id": "/el/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Malacca の礼拝時刻",
   "short_name": "Malacca の礼拝時刻",
   "description": "Malacca（マレーシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Malacca についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-malacca.html",
+  "id": "/ja/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

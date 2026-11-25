@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Al ‘Amārah",
   "short_name": "مواقيت الصلاة في Al ‘Amārah",
   "description": "مواقيت الصلاة اليوم في Al ‘Amārah، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAl ‘Amārah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-al-amarah.html",
+  "id": "/ar/prayer-times-in-al-amarah.html",
   "start_url": "./prayer-times-in-al-amarah.html",
   "scope": "./prayer-times-in-al-amarah.html",
   "display": "standalone",

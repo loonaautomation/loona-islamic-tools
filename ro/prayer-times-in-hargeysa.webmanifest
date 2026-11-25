@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Hargeysa",
   "short_name": "Ore de rugăciune în Hargeysa",
   "description": "Orele de rugăciune de azi în Hargeysa, Somalia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Hargeysa.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-hargeysa.html",
+  "id": "/ro/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

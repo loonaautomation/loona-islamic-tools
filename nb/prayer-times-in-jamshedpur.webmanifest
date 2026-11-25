@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jamshedpur",
   "short_name": "Bønnetider i Jamshedpur",
   "description": "Dagens bønnetider i Jamshedpur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Jamshedpur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jamshedpur.html",
+  "id": "/nb/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

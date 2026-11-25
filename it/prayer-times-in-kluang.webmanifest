@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kluang",
   "short_name": "Orari di preghiera a Kluang",
   "description": "Orari di preghiera di oggi a Kluang, Malesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kluang.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kluang.html",
+  "id": "/it/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Coventry",
   "short_name": "Gebetszeiten in Coventry",
   "description": "Die heutigen Gebetszeiten in Coventry, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Coventry.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-coventry.html",
+  "id": "/de/prayer-times-in-coventry.html",
   "start_url": "./prayer-times-in-coventry.html",
   "scope": "./prayer-times-in-coventry.html",
   "display": "standalone",

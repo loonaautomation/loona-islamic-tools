@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Nottingham",
   "short_name": "Waktu Salat di Nottingham",
   "description": "Waktu salat hari ini di Nottingham, Inggris: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Nottingham.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-nottingham.html",
+  "id": "/id/prayer-times-in-nottingham.html",
   "start_url": "./prayer-times-in-nottingham.html",
   "scope": "./prayer-times-in-nottingham.html",
   "display": "standalone",

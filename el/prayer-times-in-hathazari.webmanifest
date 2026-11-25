@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Hāthazāri",
   "short_name": "Ώρες Προσευχής στο Hāthazāri",
   "description": "Οι σημερινές ώρες προσευχής στο Hāthazāri, Μπανγκλαντές: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Hāthazāri.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-hathazari.html",
+  "id": "/el/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

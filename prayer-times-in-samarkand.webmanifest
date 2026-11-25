@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Samarkand",
   "short_name": "Prayer Times in Samarkand",
   "description": "Today's prayer times in Samarkand, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Samarkand.",
-  "id": "/loona-islamic-tools/prayer-times-in-samarkand.html",
+  "id": "/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

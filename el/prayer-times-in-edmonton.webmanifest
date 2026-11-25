@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Edmonton",
   "short_name": "Ώρες Προσευχής στο Edmonton",
   "description": "Οι σημερινές ώρες προσευχής στο Edmonton, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Edmonton.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-edmonton.html",
+  "id": "/el/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

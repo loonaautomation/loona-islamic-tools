@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bhāgalpur",
   "short_name": "Horarios de oración en Bhāgalpur",
   "description": "Horarios de oración de hoy en Bhāgalpur, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bhāgalpur.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bhagalpur.html",
+  "id": "/es/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

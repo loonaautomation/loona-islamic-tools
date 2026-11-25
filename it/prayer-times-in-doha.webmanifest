@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Doha",
   "short_name": "Orari di preghiera a Doha",
   "description": "Orari di preghiera di oggi a Doha, Qatar: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Doha.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-doha.html",
+  "id": "/it/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Raipur Today",
   "short_name": "Prayer Times in Raipur Today",
   "description": "Today's prayer times in Raipur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Raipur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-raipur.html",
+  "id": "/en-us/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

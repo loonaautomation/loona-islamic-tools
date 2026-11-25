@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dhule",
   "short_name": "Bönetider i Dhule",
   "description": "Dagens bönetider i Dhule, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Dhule.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dhule.html",
+  "id": "/sv/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

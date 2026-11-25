@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Los Angeles",
   "short_name": "Waktu Salat di Los Angeles",
   "description": "Waktu salat hari ini di Los Angeles, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Los Angeles.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-los-angeles.html",
+  "id": "/id/prayer-times-in-los-angeles.html",
   "start_url": "./prayer-times-in-los-angeles.html",
   "scope": "./prayer-times-in-los-angeles.html",
   "display": "standalone",

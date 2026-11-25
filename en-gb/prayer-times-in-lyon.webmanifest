@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Lyon Today",
   "short_name": "Prayer Times in Lyon Today",
   "description": "Today's prayer times in Lyon, France: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Lyon.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-lyon.html",
+  "id": "/en-gb/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

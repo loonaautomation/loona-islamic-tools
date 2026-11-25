@@ -2,7 +2,7 @@
   "name": "Loona Месечен график за намаз",
   "short_name": "Месечен график за намаз",
   "description": "Създайте месечен график за намаз за печат за всеки град: всички шест часа за целия месец, с вашия метод на изчисление и школа за Аср, безплатно и поверително.",
-  "id": "/loona-islamic-tools/bg/monthly-prayer-timetable/",
+  "id": "/bg/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

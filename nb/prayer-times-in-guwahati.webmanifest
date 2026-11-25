@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Guwahati",
   "short_name": "Bønnetider i Guwahati",
   "description": "Dagens bønnetider i Guwahati, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Guwahati.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-guwahati.html",
+  "id": "/nb/prayer-times-in-guwahati.html",
   "start_url": "./prayer-times-in-guwahati.html",
   "scope": "./prayer-times-in-guwahati.html",
   "display": "standalone",

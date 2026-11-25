@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Salé",
   "short_name": "Час намазу в Salé",
   "description": "Сьогоднішній час намазу в Salé, Марокко: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Salé.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-sale.html",
+  "id": "/uk/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

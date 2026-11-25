@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Chicago",
   "short_name": "Ώρες Προσευχής στο Chicago",
   "description": "Οι σημερινές ώρες προσευχής στο Chicago, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Chicago.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-chicago.html",
+  "id": "/el/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

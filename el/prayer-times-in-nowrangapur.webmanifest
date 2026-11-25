@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Nowrangapur",
   "short_name": "Ώρες Προσευχής στο Nowrangapur",
   "description": "Οι σημερινές ώρες προσευχής στο Nowrangapur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Nowrangapur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-nowrangapur.html",
+  "id": "/el/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

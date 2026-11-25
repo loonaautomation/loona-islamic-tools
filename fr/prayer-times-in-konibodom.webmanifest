@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Konibodom",
   "short_name": "Heures de prière à Konibodom",
   "description": "Les heures de prière d’aujourd’hui à Konibodom, Tadjikistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Konibodom.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-konibodom.html",
+  "id": "/fr/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

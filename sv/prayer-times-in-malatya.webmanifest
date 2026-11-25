@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Malatya",
   "short_name": "Bönetider i Malatya",
   "description": "Dagens bönetider i Malatya, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Malatya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-malatya.html",
+  "id": "/sv/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

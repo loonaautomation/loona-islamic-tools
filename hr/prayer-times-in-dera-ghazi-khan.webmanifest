@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dera Ghazi Khan",
   "short_name": "Vremena namaza u gradu Dera Ghazi Khan",
   "description": "Današnja vremena namaza u gradu Dera Ghazi Khan, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Dera Ghazi Khan.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dera-ghazi-khan.html",
+  "id": "/hr/prayer-times-in-dera-ghazi-khan.html",
   "start_url": "./prayer-times-in-dera-ghazi-khan.html",
   "scope": "./prayer-times-in-dera-ghazi-khan.html",
   "display": "standalone",

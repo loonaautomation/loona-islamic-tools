@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Abha",
   "short_name": "Gebedstijden in Abha",
   "description": "De gebedstijden van vandaag in Abha, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Abha.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-abha.html",
+  "id": "/nl/prayer-times-in-abha.html",
   "start_url": "./prayer-times-in-abha.html",
   "scope": "./prayer-times-in-abha.html",
   "display": "standalone",

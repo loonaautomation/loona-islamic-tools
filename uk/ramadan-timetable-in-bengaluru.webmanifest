@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Bengaluru 2027 (1448)",
   "short_name": "Розклад Рамадану в Bengaluru 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Bengaluru, Індія: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-bengaluru.html",
+  "id": "/uk/ramadan-timetable-in-bengaluru.html",
   "start_url": "./ramadan-timetable-in-bengaluru.html",
   "scope": "./ramadan-timetable-in-bengaluru.html",
   "display": "standalone",

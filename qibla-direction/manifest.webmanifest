@@ -2,7 +2,7 @@
   "name": "Loona Qibla Direction",
   "short_name": "Qibla Direction",
   "description": "Find the Qibla direction in degrees from any city or your exact location, with a live compass dial and the distance to Makkah. Free, accurate and private.",
-  "id": "/loona-islamic-tools/qibla-direction/",
+  "id": "/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

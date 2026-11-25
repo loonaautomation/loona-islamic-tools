@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Varanasi",
   "short_name": "Gebetszeiten in Varanasi",
   "description": "Die heutigen Gebetszeiten in Varanasi, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Varanasi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-varanasi.html",
+  "id": "/de/prayer-times-in-varanasi.html",
   "start_url": "./prayer-times-in-varanasi.html",
   "scope": "./prayer-times-in-varanasi.html",
   "display": "standalone",

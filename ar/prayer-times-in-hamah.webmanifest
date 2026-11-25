@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ḩamāh",
   "short_name": "مواقيت الصلاة في Ḩamāh",
   "description": "مواقيت الصلاة اليوم في Ḩamāh، سوريا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـḨamāh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-hamah.html",
+  "id": "/ar/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Essen",
   "short_name": "Bönetider i Essen",
   "description": "Dagens bönetider i Essen, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Essen.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-essen.html",
+  "id": "/sv/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

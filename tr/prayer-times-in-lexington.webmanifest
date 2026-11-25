@@ -2,7 +2,7 @@
   "name": "Loona Lexington Namaz Vakitleri",
   "short_name": "Lexington Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Lexington, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Lexington için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-lexington.html",
+  "id": "/tr/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

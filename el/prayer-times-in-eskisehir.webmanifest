@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Eskişehir",
   "short_name": "Ώρες Προσευχής στο Eskişehir",
   "description": "Οι σημερινές ώρες προσευχής στο Eskişehir, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Eskişehir.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-eskisehir.html",
+  "id": "/el/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

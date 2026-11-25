@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à N'Djamena",
   "short_name": "Heures de prière à N'Djamena",
   "description": "Les heures de prière d’aujourd’hui à N'Djamena, Tchad : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour N'Djamena.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-n-djamena.html",
+  "id": "/fr/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

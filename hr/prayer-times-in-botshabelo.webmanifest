@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Botshabelo",
   "short_name": "Vremena namaza u gradu Botshabelo",
   "description": "Današnja vremena namaza u gradu Botshabelo, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Botshabelo.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-botshabelo.html",
+  "id": "/hr/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

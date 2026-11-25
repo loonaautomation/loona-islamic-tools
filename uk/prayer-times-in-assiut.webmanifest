@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Assiut",
   "short_name": "Час намазу в Assiut",
   "description": "Сьогоднішній час намазу в Assiut, Єгипет: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Єгипетського генерального управління, розраховано наживо на вашому пристрої для Assiut.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-assiut.html",
+  "id": "/uk/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Agartala",
   "short_name": "Время намаза в городе Agartala",
   "description": "Время намаза на сегодня: Agartala, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Agartala.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-agartala.html",
+  "id": "/ru/prayer-times-in-agartala.html",
   "start_url": "./prayer-times-in-agartala.html",
   "scope": "./prayer-times-in-agartala.html",
   "display": "standalone",

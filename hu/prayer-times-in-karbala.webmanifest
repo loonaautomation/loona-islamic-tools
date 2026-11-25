@@ -2,7 +2,7 @@
   "name": "Loona Karbala imaidői",
   "short_name": "Karbala imaidői",
   "description": "A mai imaidők: Karbala, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Karbala számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-karbala.html",
+  "id": "/hu/prayer-times-in-karbala.html",
   "start_url": "./prayer-times-in-karbala.html",
   "scope": "./prayer-times-in-karbala.html",
   "display": "standalone",

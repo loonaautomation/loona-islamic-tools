@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Samarkand",
   "short_name": "זמני תפילה בעיר Samarkand",
   "description": "זמני התפילה של היום בעיר Samarkand, אוזבקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Samarkand.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-samarkand.html",
+  "id": "/he/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

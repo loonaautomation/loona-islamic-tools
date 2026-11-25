@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Van",
   "short_name": "مواقيت الصلاة في Van",
   "description": "مواقيت الصلاة اليوم في Van، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـVan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-van.html",
+  "id": "/ar/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

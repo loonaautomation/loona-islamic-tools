@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Raleigh",
   "short_name": "Orari di preghiera a Raleigh",
   "description": "Orari di preghiera di oggi a Raleigh, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Raleigh.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-raleigh.html",
+  "id": "/it/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

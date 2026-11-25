@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mathura",
   "short_name": "Часове за намаз в Mathura",
   "description": "Днешните часове за намаз в Mathura, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Mathura.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mathura.html",
+  "id": "/bg/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

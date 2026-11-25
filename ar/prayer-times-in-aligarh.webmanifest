@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Alīgarh",
   "short_name": "مواقيت الصلاة في Alīgarh",
   "description": "مواقيت الصلاة اليوم في Alīgarh، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAlīgarh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-aligarh.html",
+  "id": "/ar/prayer-times-in-aligarh.html",
   "start_url": "./prayer-times-in-aligarh.html",
   "scope": "./prayer-times-in-aligarh.html",
   "display": "standalone",

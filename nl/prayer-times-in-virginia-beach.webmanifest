@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Virginia Beach",
   "short_name": "Gebedstijden in Virginia Beach",
   "description": "De gebedstijden van vandaag in Virginia Beach, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Virginia Beach.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-virginia-beach.html",
+  "id": "/nl/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

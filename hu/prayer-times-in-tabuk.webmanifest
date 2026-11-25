@@ -2,7 +2,7 @@
   "name": "Loona Tabuk imaidői",
   "short_name": "Tabuk imaidői",
   "description": "A mai imaidők: Tabuk, Szaúd-Arábia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Umm al-Qura módszer, élőben számítva az Ön eszközén Tabuk számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tabuk.html",
+  "id": "/hu/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

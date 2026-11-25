@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sulaymaniyah",
   "short_name": "Bönetider i Sulaymaniyah",
   "description": "Dagens bönetider i Sulaymaniyah, Irak: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sulaymaniyah.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sulaymaniyah.html",
+  "id": "/sv/prayer-times-in-sulaymaniyah.html",
   "start_url": "./prayer-times-in-sulaymaniyah.html",
   "scope": "./prayer-times-in-sulaymaniyah.html",
   "display": "standalone",

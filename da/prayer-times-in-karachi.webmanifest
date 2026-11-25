@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Karachi",
   "short_name": "Bønnetider i Karachi",
   "description": "Dagens bønnetider i Karachi, Pakistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Karachi.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-karachi.html",
+  "id": "/da/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

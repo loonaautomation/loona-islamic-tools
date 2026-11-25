@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Bandar Abbas",
   "short_name": "Horários de Oração em Bandar Abbas",
   "description": "Horários de oração de hoje em Bandar Abbas, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Bandar Abbas.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-bandar-abbas.html",
+  "id": "/pt/prayer-times-in-bandar-abbas.html",
   "start_url": "./prayer-times-in-bandar-abbas.html",
   "scope": "./prayer-times-in-bandar-abbas.html",
   "display": "standalone",

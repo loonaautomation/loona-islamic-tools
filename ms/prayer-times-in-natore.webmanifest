@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Natore",
   "short_name": "Waktu Solat di Natore",
   "description": "Waktu solat hari ini di Natore, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Natore.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-natore.html",
+  "id": "/ms/prayer-times-in-natore.html",
   "start_url": "./prayer-times-in-natore.html",
   "scope": "./prayer-times-in-natore.html",
   "display": "standalone",

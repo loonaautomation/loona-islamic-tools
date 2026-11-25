@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kalaburagi",
   "short_name": "Gebedstijden in Kalaburagi",
   "description": "De gebedstijden van vandaag in Kalaburagi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kalaburagi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kalaburagi.html",
+  "id": "/nl/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

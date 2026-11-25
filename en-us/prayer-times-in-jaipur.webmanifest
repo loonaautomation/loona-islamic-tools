@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jaipur Today",
   "short_name": "Prayer Times in Jaipur Today",
   "description": "Today's prayer times in Jaipur, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Jaipur.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-jaipur.html",
+  "id": "/en-us/prayer-times-in-jaipur.html",
   "start_url": "./prayer-times-in-jaipur.html",
   "scope": "./prayer-times-in-jaipur.html",
   "display": "standalone",

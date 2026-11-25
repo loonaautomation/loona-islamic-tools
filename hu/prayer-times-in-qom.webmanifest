@@ -2,7 +2,7 @@
   "name": "Loona Qom imaidői",
   "short_name": "Qom imaidői",
   "description": "A mai imaidők: Qom, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Qom számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-qom.html",
+  "id": "/hu/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

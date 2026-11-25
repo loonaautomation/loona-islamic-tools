@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kenitra",
   "short_name": "مواقيت الصلاة في Kenitra",
   "description": "مواقيت الصلاة اليوم في Kenitra، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKenitra.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kenitra.html",
+  "id": "/ar/prayer-times-in-kenitra.html",
   "start_url": "./prayer-times-in-kenitra.html",
   "scope": "./prayer-times-in-kenitra.html",
   "display": "standalone",

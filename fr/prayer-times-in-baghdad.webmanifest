@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Baghdad",
   "short_name": "Heures de prière à Baghdad",
   "description": "Les heures de prière d’aujourd’hui à Baghdad, Irak : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Baghdad.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-baghdad.html",
+  "id": "/fr/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

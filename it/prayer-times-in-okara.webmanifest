@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Okara",
   "short_name": "Orari di preghiera a Okara",
   "description": "Orari di preghiera di oggi a Okara, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Okara.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-okara.html",
+  "id": "/it/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

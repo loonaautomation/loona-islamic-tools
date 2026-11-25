@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Sukabumi",
   "short_name": "เวลาละหมาดใน Sukabumi",
   "description": "เวลาละหมาดวันนี้ใน Sukabumi, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Sukabumi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-sukabumi.html",
+  "id": "/th/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jember",
   "short_name": "Часове за намаз в Jember",
   "description": "Днешните часове за намаз в Jember, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Jember.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jember.html",
+  "id": "/bg/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

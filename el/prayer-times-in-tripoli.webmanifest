@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στην Tripoli (Λιβύη)",
   "short_name": "Ώρες Προσευχής στην Tripoli (Λιβύη)",
   "description": "Οι σημερινές ώρες προσευχής στην Tripoli, Λιβύη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογισμένες ζωντανά στη συσκευή σας για την Tripoli.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-tripoli.html",
+  "id": "/el/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

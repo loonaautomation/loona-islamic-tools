@@ -2,7 +2,7 @@
   "name": "Loona Nyakati za Swala katika Mesa",
   "short_name": "Nyakati za Swala katika Mesa",
   "description": "Nyakati za swala za leo katika Mesa, Marekani: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Shafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya ISNA, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Mesa.",
-  "id": "/loona-islamic-tools/sw/prayer-times-in-mesa.html",
+  "id": "/sw/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

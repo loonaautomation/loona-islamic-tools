@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in San Antonio",
   "short_name": "Gebedstijden in San Antonio",
   "description": "De gebedstijden van vandaag in San Antonio, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor San Antonio.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-san-antonio.html",
+  "id": "/nl/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

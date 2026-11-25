@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Shyamnagar",
   "short_name": "זמני תפילה בעיר Shyamnagar",
   "description": "זמני התפילה של היום בעיר Shyamnagar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Shyamnagar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-shyamnagar.html",
+  "id": "/he/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

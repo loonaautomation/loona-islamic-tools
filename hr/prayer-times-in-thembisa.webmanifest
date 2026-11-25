@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Thembisa",
   "short_name": "Vremena namaza u gradu Thembisa",
   "description": "Današnja vremena namaza u gradu Thembisa, Južna Afrika: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Thembisa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-thembisa.html",
+  "id": "/hr/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

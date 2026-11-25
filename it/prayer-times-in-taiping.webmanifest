@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Taiping",
   "short_name": "Orari di preghiera a Taiping",
   "description": "Orari di preghiera di oggi a Taiping, Malesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Taiping.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-taiping.html",
+  "id": "/it/prayer-times-in-taiping.html",
   "start_url": "./prayer-times-in-taiping.html",
   "scope": "./prayer-times-in-taiping.html",
   "display": "standalone",

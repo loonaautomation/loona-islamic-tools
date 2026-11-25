@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Gauriganj",
   "short_name": "זמני תפילה בעיר Gauriganj",
   "description": "זמני התפילה של היום בעיר Gauriganj, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Gauriganj.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-gauriganj.html",
+  "id": "/he/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

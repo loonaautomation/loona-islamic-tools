@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kingston upon Hull",
   "short_name": "Часове за намаз в Kingston upon Hull",
   "description": "Днешните часове за намаз в Kingston upon Hull, Обединено кралство: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kingston upon Hull.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kingston-upon-hull.html",
+  "id": "/bg/prayer-times-in-kingston-upon-hull.html",
   "start_url": "./prayer-times-in-kingston-upon-hull.html",
   "scope": "./prayer-times-in-kingston-upon-hull.html",
   "display": "standalone",

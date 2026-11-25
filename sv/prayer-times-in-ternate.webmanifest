@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Ternate",
   "short_name": "Bönetider i Ternate",
   "description": "Dagens bönetider i Ternate, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Ternate.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-ternate.html",
+  "id": "/sv/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

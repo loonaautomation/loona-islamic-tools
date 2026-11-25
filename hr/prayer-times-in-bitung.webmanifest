@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Bitung",
   "short_name": "Vremena namaza u gradu Bitung",
   "description": "Današnja vremena namaza u gradu Bitung, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Bitung.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-bitung.html",
+  "id": "/hr/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

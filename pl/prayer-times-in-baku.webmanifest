@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Baku",
   "short_name": "Czasy modlitw w miejscowości Baku",
   "description": "Dzisiejsze czasy modlitw w miejscowości Baku, kraj Azerbejdżan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Baku.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-baku.html",
+  "id": "/pl/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

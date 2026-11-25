@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kurnool",
   "short_name": "Waktu Salat di Kurnool",
   "description": "Waktu salat hari ini di Kurnool, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Kurnool.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kurnool.html",
+  "id": "/id/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Salé",
   "short_name": "Waktu Salat di Salé",
   "description": "Waktu salat hari ini di Salé, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Salé.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sale.html",
+  "id": "/id/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

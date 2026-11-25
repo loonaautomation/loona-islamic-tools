@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sétif",
   "short_name": "Rukousajat: Sétif",
   "description": "Tämän päivän rukousajat paikassa Sétif, Algeria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sétif.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-setif.html",
+  "id": "/fi/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

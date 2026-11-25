@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Афганистан, 2027 (1448)",
   "short_name": "Расписание Рамадана: Афганистан, 2027 (1448)",
   "description": "Расписание Рамадана 2027 года для страны Афганистан: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для города Kabul. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-afghanistan.html",
+  "id": "/ru/ramadan-timetable-in-afghanistan.html",
   "start_url": "./ramadan-timetable-in-afghanistan.html",
   "scope": "./ramadan-timetable-in-afghanistan.html",
   "display": "standalone",

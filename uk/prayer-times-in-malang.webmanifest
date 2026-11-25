@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Malang",
   "short_name": "Час намазу в Malang",
   "description": "Сьогоднішній час намазу в Malang, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Malang.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-malang.html",
+  "id": "/uk/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

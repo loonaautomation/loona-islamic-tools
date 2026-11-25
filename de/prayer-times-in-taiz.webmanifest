@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Taiz",
   "short_name": "Gebetszeiten in Taiz",
   "description": "Die heutigen Gebetszeiten in Taiz, Jemen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Taiz.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-taiz.html",
+  "id": "/de/prayer-times-in-taiz.html",
   "start_url": "./prayer-times-in-taiz.html",
   "scope": "./prayer-times-in-taiz.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dua-kirjasto",
   "short_name": "Dua-kirjasto",
   "description": "Kirjasto aitoja duaita joka hetkeen — aamuun, ruokaan, matkustamiseen, kotiin, ahdistukseen ja anteeksiantoon — jokainen arabiaksi, translitteroituna, käännettynä ja lähteineen.",
-  "id": "/loona-islamic-tools/fi/duas-library/",
+  "id": "/fi/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

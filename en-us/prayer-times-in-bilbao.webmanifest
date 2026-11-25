@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bilbao Today",
   "short_name": "Prayer Times in Bilbao Today",
   "description": "Today's prayer times in Bilbao, Spain: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bilbao.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-bilbao.html",
+  "id": "/en-us/prayer-times-in-bilbao.html",
   "start_url": "./prayer-times-in-bilbao.html",
   "scope": "./prayer-times-in-bilbao.html",
   "display": "standalone",

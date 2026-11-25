@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lucknow",
   "short_name": "Bønnetider i Lucknow",
   "description": "Dagens bønnetider i Lucknow, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Lucknow.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-lucknow.html",
+  "id": "/nb/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bonn Today",
   "short_name": "Prayer Times in Bonn Today",
   "description": "Today's prayer times in Bonn, Germany: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bonn.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-bonn.html",
+  "id": "/en-gb/prayer-times-in-bonn.html",
   "start_url": "./prayer-times-in-bonn.html",
   "scope": "./prayer-times-in-bonn.html",
   "display": "standalone",

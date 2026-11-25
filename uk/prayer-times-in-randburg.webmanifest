@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Randburg",
   "short_name": "Час намазу в Randburg",
   "description": "Сьогоднішній час намазу в Randburg, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Randburg.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-randburg.html",
+  "id": "/uk/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

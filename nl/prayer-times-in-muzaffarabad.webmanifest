@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Muzaffarābād",
   "short_name": "Gebedstijden in Muzaffarābād",
   "description": "De gebedstijden van vandaag in Muzaffarābād, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Muzaffarābād.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-muzaffarabad.html",
+  "id": "/nl/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

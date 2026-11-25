@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Marseille",
   "short_name": "Rukousajat: Marseille",
   "description": "Tämän päivän rukousajat paikassa Marseille, Ranska: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Marseille.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-marseille.html",
+  "id": "/fi/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

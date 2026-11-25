@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Uşak",
   "short_name": "Час намазу в Uşak",
   "description": "Сьогоднішній час намазу в Uşak, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Uşak.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-usak.html",
+  "id": "/uk/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

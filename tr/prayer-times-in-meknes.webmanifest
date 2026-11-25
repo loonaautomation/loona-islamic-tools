@@ -2,7 +2,7 @@
   "name": "Loona Meknes Namaz Vakitleri",
   "short_name": "Meknes Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Meknes, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Meknes için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-meknes.html",
+  "id": "/tr/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

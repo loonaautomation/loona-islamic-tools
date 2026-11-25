@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Detroit",
   "short_name": "Часове за намаз в Detroit",
   "description": "Днешните часове за намаз в Detroit, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Detroit.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-detroit.html",
+  "id": "/bg/prayer-times-in-detroit.html",
   "start_url": "./prayer-times-in-detroit.html",
   "scope": "./prayer-times-in-detroit.html",
   "display": "standalone",

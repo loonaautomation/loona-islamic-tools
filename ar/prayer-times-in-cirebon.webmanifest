@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cirebon",
   "short_name": "مواقيت الصلاة في Cirebon",
   "description": "مواقيت الصلاة اليوم في Cirebon، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCirebon.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cirebon.html",
+  "id": "/ar/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

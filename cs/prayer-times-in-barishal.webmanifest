@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Barishal",
   "short_name": "Časy modliteb v Barishal",
   "description": "Dnešní časy modliteb v Barishal, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Barishal.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-barishal.html",
+  "id": "/cs/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

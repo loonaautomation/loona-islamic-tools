@@ -2,7 +2,7 @@
   "name": "Loona Zürich imaidői",
   "short_name": "Zürich imaidői",
   "description": "A mai imaidők: Zürich, Svájc: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Zürich számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-zuerich.html",
+  "id": "/hu/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

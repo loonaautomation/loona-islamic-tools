@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Perth",
   "short_name": "Gebetszeiten in Perth",
   "description": "Die heutigen Gebetszeiten in Perth, Australien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Perth.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-perth.html",
+  "id": "/de/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

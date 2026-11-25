@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jakarta",
   "short_name": "مواقيت الصلاة في Jakarta",
   "description": "مواقيت الصلاة اليوم في Jakarta، إندونيسيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـJakarta.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jakarta.html",
+  "id": "/ar/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

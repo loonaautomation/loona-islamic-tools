@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Wandsbek",
   "short_name": "Gebedstijden in Wandsbek",
   "description": "De gebedstijden van vandaag in Wandsbek, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Wandsbek.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-wandsbek.html",
+  "id": "/nl/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

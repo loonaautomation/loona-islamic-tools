@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Qina",
   "short_name": "Ώρες Προσευχής στο Qina",
   "description": "Οι σημερινές ώρες προσευχής στο Qina, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Qina.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-qina.html",
+  "id": "/el/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

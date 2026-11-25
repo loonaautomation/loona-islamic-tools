@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Duisburg",
   "short_name": "זמני תפילה בעיר Duisburg",
   "description": "זמני התפילה של היום בעיר Duisburg, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Duisburg.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-duisburg.html",
+  "id": "/he/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

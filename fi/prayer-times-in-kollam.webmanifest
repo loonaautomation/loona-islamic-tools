@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kollam",
   "short_name": "Rukousajat: Kollam",
   "description": "Tämän päivän rukousajat paikassa Kollam, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Kollam.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kollam.html",
+  "id": "/fi/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

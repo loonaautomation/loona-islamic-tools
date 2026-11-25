@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Āsansol",
   "short_name": "Časy modlitieb v Āsansol",
   "description": "Dnešné časy modlitieb v Āsansol, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Āsansol.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-asansol.html",
+  "id": "/sk/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

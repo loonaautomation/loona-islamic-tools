@@ -2,7 +2,7 @@
   "name": "Loona Pasuruan の礼拝時刻",
   "short_name": "Pasuruan の礼拝時刻",
   "description": "Pasuruan（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Pasuruan についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-pasuruan.html",
+  "id": "/ja/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

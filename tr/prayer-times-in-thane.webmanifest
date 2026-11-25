@@ -2,7 +2,7 @@
   "name": "Loona Thāne Namaz Vakitleri",
   "short_name": "Thāne Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Thāne, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Thāne için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-thane.html",
+  "id": "/tr/prayer-times-in-thane.html",
   "start_url": "./prayer-times-in-thane.html",
   "scope": "./prayer-times-in-thane.html",
   "display": "standalone",

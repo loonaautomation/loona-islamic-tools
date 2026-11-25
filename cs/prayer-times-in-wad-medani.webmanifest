@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Wad Medani",
   "short_name": "Časy modliteb v Wad Medani",
   "description": "Dnešní časy modliteb v Wad Medani, Súdán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Wad Medani.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-wad-medani.html",
+  "id": "/cs/prayer-times-in-wad-medani.html",
   "start_url": "./prayer-times-in-wad-medani.html",
   "scope": "./prayer-times-in-wad-medani.html",
   "display": "standalone",

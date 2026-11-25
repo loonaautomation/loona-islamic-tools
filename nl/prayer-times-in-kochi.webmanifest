@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kochi",
   "short_name": "Gebedstijden in Kochi",
   "description": "De gebedstijden van vandaag in Kochi, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kochi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kochi.html",
+  "id": "/nl/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

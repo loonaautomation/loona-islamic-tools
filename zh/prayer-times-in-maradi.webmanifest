@@ -2,7 +2,7 @@
   "name": "Loona Maradi的礼拜时间",
   "short_name": "Maradi的礼拜时间",
   "description": "Maradi（尼日尔）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Maradi实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-maradi.html",
+  "id": "/zh/prayer-times-in-maradi.html",
   "start_url": "./prayer-times-in-maradi.html",
   "scope": "./prayer-times-in-maradi.html",
   "display": "standalone",

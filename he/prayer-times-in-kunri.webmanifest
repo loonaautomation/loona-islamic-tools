@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kunri",
   "short_name": "זמני תפילה בעיר Kunri",
   "description": "זמני התפילה של היום בעיר Kunri, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kunri.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kunri.html",
+  "id": "/he/prayer-times-in-kunri.html",
   "start_url": "./prayer-times-in-kunri.html",
   "scope": "./prayer-times-in-kunri.html",
   "display": "standalone",

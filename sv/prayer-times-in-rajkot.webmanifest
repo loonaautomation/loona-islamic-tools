@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rājkot",
   "short_name": "Bönetider i Rājkot",
   "description": "Dagens bönetider i Rājkot, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Rājkot.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rajkot.html",
+  "id": "/sv/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

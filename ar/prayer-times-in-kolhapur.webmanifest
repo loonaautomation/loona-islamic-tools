@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kolhāpur",
   "short_name": "مواقيت الصلاة في Kolhāpur",
   "description": "مواقيت الصلاة اليوم في Kolhāpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKolhāpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kolhapur.html",
+  "id": "/ar/prayer-times-in-kolhapur.html",
   "start_url": "./prayer-times-in-kolhapur.html",
   "scope": "./prayer-times-in-kolhapur.html",
   "display": "standalone",

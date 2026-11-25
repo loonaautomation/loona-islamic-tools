@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bakersfield",
   "short_name": "Rukousajat: Bakersfield",
   "description": "Tämän päivän rukousajat paikassa Bakersfield, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Bakersfield.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bakersfield.html",
+  "id": "/fi/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

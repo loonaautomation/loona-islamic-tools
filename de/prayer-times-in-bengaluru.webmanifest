@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bengaluru",
   "short_name": "Gebetszeiten in Bengaluru",
   "description": "Die heutigen Gebetszeiten in Bengaluru, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bengaluru.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bengaluru.html",
+  "id": "/de/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dhule",
   "short_name": "مواقيت الصلاة في Dhule",
   "description": "مواقيت الصلاة اليوم في Dhule، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDhule.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dhule.html",
+  "id": "/ar/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Damanhur",
   "short_name": "เวลาละหมาดใน Damanhur",
   "description": "เวลาละหมาดวันนี้ใน Damanhur, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Damanhur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-damanhur.html",
+  "id": "/th/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

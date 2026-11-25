@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Chānda",
   "short_name": "เวลาละหมาดใน Chānda",
   "description": "เวลาละหมาดวันนี้ใน Chānda, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Chānda",
-  "id": "/loona-islamic-tools/th/prayer-times-in-chanda.html",
+  "id": "/th/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

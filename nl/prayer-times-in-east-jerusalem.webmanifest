@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in East Jerusalem",
   "short_name": "Gebedstijden in East Jerusalem",
   "description": "De gebedstijden van vandaag in East Jerusalem, Palestina: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor East Jerusalem.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-east-jerusalem.html",
+  "id": "/nl/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

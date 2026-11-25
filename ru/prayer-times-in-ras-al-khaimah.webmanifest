@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ras Al Khaimah",
   "short_name": "Время намаза в городе Ras Al Khaimah",
   "description": "Время намаза на сегодня: Ras Al Khaimah, Объединённые Арабские Эмираты: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ras-al-khaimah.html",
+  "id": "/ru/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

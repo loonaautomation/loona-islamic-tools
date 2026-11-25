@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Banjul",
   "short_name": "Часове за намаз в Banjul",
   "description": "Днешните часове за намаз в Banjul, Гамбия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Banjul.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-banjul.html",
+  "id": "/bg/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

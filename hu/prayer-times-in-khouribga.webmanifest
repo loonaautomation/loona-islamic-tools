@@ -2,7 +2,7 @@
   "name": "Loona Khouribga imaidői",
   "short_name": "Khouribga imaidői",
   "description": "A mai imaidők: Khouribga, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Khouribga számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-khouribga.html",
+  "id": "/hu/prayer-times-in-khouribga.html",
   "start_url": "./prayer-times-in-khouribga.html",
   "scope": "./prayer-times-in-khouribga.html",
   "display": "standalone",

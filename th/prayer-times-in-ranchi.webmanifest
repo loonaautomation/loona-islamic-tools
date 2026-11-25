@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Ranchi",
   "short_name": "เวลาละหมาดใน Ranchi",
   "description": "เวลาละหมาดวันนี้ใน Ranchi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Ranchi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-ranchi.html",
+  "id": "/th/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

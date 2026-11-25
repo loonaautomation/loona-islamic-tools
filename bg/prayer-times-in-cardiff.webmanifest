@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Cardiff",
   "short_name": "Часове за намаз в Cardiff",
   "description": "Днешните часове за намаз в Cardiff, Обединено кралство: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Cardiff.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-cardiff.html",
+  "id": "/bg/prayer-times-in-cardiff.html",
   "start_url": "./prayer-times-in-cardiff.html",
   "scope": "./prayer-times-in-cardiff.html",
   "display": "standalone",

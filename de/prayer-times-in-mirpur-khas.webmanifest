@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mirpur Khas",
   "short_name": "Gebetszeiten in Mirpur Khas",
   "description": "Die heutigen Gebetszeiten in Mirpur Khas, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Mirpur Khas.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mirpur-khas.html",
+  "id": "/de/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

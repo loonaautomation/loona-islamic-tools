@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Milwaukee",
   "short_name": "Časy modlitieb v Milwaukee",
   "description": "Dnešné časy modlitieb v Milwaukee, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Milwaukee.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-milwaukee.html",
+  "id": "/sk/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

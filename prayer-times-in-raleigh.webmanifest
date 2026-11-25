@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Raleigh",
   "short_name": "Prayer Times in Raleigh",
   "description": "Today's prayer times in Raleigh, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Raleigh.",
-  "id": "/loona-islamic-tools/prayer-times-in-raleigh.html",
+  "id": "/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

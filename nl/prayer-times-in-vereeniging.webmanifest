@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Vereeniging",
   "short_name": "Gebedstijden in Vereeniging",
   "description": "De gebedstijden van vandaag in Vereeniging, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Vereeniging.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-vereeniging.html",
+  "id": "/nl/prayer-times-in-vereeniging.html",
   "start_url": "./prayer-times-in-vereeniging.html",
   "scope": "./prayer-times-in-vereeniging.html",
   "display": "standalone",

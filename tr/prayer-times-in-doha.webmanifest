@@ -2,7 +2,7 @@
   "name": "Loona Doha Namaz Vakitleri",
   "short_name": "Doha Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Doha, Katar: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Doha için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-doha.html",
+  "id": "/tr/prayer-times-in-doha.html",
   "start_url": "./prayer-times-in-doha.html",
   "scope": "./prayer-times-in-doha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Blida",
   "short_name": "Rukousajat: Blida",
   "description": "Tämän päivän rukousajat paikassa Blida, Algeria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Blida.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-blida.html",
+  "id": "/fi/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

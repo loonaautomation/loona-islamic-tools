@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di El Paso",
   "short_name": "Waktu Salat di El Paso",
   "description": "Waktu salat hari ini di El Paso, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk El Paso.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-el-paso.html",
+  "id": "/id/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

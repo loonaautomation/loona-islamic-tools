@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Suez",
   "short_name": "Gebetszeiten in Suez",
   "description": "Die heutigen Gebetszeiten in Suez, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Suez.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-suez.html",
+  "id": "/de/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

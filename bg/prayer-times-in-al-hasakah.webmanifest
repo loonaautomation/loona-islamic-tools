@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Al Ḩasakah",
   "short_name": "Часове за намаз в Al Ḩasakah",
   "description": "Днешните часове за намаз в Al Ḩasakah, Сирия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Al Ḩasakah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-al-hasakah.html",
+  "id": "/bg/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

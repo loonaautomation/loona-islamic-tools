@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Thuqbah",
   "short_name": "Часове за намаз в Thuqbah",
   "description": "Днешните часове за намаз в Thuqbah, Саудитска Арабия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Thuqbah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-thuqbah.html",
+  "id": "/bg/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

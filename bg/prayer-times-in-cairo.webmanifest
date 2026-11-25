@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Cairo",
   "short_name": "Часове за намаз в Cairo",
   "description": "Днешните часове за намаз в Cairo, Египет: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Cairo.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-cairo.html",
+  "id": "/bg/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

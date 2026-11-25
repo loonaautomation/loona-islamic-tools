@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sargodha",
   "short_name": "Gebedstijden in Sargodha",
   "description": "De gebedstijden van vandaag in Sargodha, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sargodha.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sargodha.html",
+  "id": "/nl/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

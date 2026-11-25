@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Oslo",
   "short_name": "Час намазу в Oslo",
   "description": "Сьогоднішній час намазу в Oslo, Норвегія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Oslo.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-oslo.html",
+  "id": "/uk/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

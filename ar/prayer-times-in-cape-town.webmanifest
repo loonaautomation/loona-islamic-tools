@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Cape Town",
   "short_name": "مواقيت الصلاة في Cape Town",
   "description": "مواقيت الصلاة اليوم في Cape Town، جنوب أفريقيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـCape Town.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-cape-town.html",
+  "id": "/ar/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

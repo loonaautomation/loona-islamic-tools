@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bābol",
   "short_name": "Gebedstijden in Bābol",
   "description": "De gebedstijden van vandaag in Bābol, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bābol.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-babol.html",
+  "id": "/nl/prayer-times-in-babol.html",
   "start_url": "./prayer-times-in-babol.html",
   "scope": "./prayer-times-in-babol.html",
   "display": "standalone",

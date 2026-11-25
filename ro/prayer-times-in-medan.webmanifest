@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Medan",
   "short_name": "Ore de rugăciune în Medan",
   "description": "Orele de rugăciune de azi în Medan, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Medan.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-medan.html",
+  "id": "/ro/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

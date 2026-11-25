@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Dihok",
   "short_name": "Waktu Salat di Dihok",
   "description": "Waktu salat hari ini di Dihok, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Dihok.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-dihok.html",
+  "id": "/id/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Gaza",
   "short_name": "Orari di preghiera a Gaza",
   "description": "Orari di preghiera di oggi a Gaza, Palestina: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Gaza.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-gaza.html",
+  "id": "/it/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

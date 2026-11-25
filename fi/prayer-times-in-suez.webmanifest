@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Suez",
   "short_name": "Rukousajat: Suez",
   "description": "Tämän päivän rukousajat paikassa Suez, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Suez.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-suez.html",
+  "id": "/fi/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

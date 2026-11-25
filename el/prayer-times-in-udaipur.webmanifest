@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Udaipur",
   "short_name": "Ώρες Προσευχής στο Udaipur",
   "description": "Οι σημερινές ώρες προσευχής στο Udaipur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Udaipur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-udaipur.html",
+  "id": "/el/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

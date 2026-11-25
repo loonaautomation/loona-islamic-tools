@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Merkezefendi",
   "short_name": "Gebedstijden in Merkezefendi",
   "description": "De gebedstijden van vandaag in Merkezefendi, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Merkezefendi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-merkezefendi.html",
+  "id": "/nl/prayer-times-in-merkezefendi.html",
   "start_url": "./prayer-times-in-merkezefendi.html",
   "scope": "./prayer-times-in-merkezefendi.html",
   "display": "standalone",

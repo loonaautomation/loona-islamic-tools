@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Turin",
   "short_name": "Prayer Times in Turin",
   "description": "Today's prayer times in Turin, Italy: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Turin.",
-  "id": "/loona-islamic-tools/prayer-times-in-turin.html",
+  "id": "/prayer-times-in-turin.html",
   "start_url": "./prayer-times-in-turin.html",
   "scope": "./prayer-times-in-turin.html",
   "display": "standalone",

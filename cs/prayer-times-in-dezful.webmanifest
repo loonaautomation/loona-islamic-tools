@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Dezful",
   "short_name": "Časy modliteb v Dezful",
   "description": "Dnešní časy modliteb v Dezful, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Dezful.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-dezful.html",
+  "id": "/cs/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kashan",
   "short_name": "Czasy modlitw w miejscowości Kashan",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kashan, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Kashan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kashan.html",
+  "id": "/pl/prayer-times-in-kashan.html",
   "start_url": "./prayer-times-in-kashan.html",
   "scope": "./prayer-times-in-kashan.html",
   "display": "standalone",

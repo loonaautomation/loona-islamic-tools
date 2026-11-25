@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sousse",
   "short_name": "Časy modlitieb v Sousse",
   "description": "Dnešné časy modlitieb v Sousse, Tunisko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Sousse.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sousse.html",
+  "id": "/sk/prayer-times-in-sousse.html",
   "start_url": "./prayer-times-in-sousse.html",
   "scope": "./prayer-times-in-sousse.html",
   "display": "standalone",

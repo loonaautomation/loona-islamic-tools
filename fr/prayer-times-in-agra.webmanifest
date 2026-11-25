@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Agra",
   "short_name": "Heures de prière à Agra",
   "description": "Les heures de prière d’aujourd’hui à Agra, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Agra.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-agra.html",
+  "id": "/fr/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

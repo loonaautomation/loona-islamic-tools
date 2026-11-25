@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière par pays",
   "short_name": "Heures de prière par pays",
   "description": "Heures de prière pour 871 villes dans le monde, regroupées par pays : Fajr, lever du soleil, Dhuhr, Asr, Maghrib et Isha pour aujourd’hui, calendriers d’un mois complet, direction de la Qibla et calendriers du Ramadan 2027 par pays.",
-  "id": "/loona-islamic-tools/fr/prayer-times-by-country.html",
+  "id": "/fr/prayer-times-by-country.html",
   "start_url": "./prayer-times-by-country.html",
   "scope": "./prayer-times-by-country.html",
   "display": "standalone",

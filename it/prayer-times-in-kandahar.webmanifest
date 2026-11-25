@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kandahār",
   "short_name": "Orari di preghiera a Kandahār",
   "description": "Orari di preghiera di oggi a Kandahār, Afghanistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Kandahār.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kandahar.html",
+  "id": "/it/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

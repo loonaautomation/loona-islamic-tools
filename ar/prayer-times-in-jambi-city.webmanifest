@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jambi City",
   "short_name": "مواقيت الصلاة في Jambi City",
   "description": "مواقيت الصلاة اليوم في Jambi City، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـJambi City.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jambi-city.html",
+  "id": "/ar/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sholapur",
   "short_name": "Ώρες Προσευχής στο Sholapur",
   "description": "Οι σημερινές ώρες προσευχής στο Sholapur, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Sholapur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sholapur.html",
+  "id": "/el/prayer-times-in-sholapur.html",
   "start_url": "./prayer-times-in-sholapur.html",
   "scope": "./prayer-times-in-sholapur.html",
   "display": "standalone",

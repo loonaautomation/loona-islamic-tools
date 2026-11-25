@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tanta",
   "short_name": "Bönetider i Tanta",
   "description": "Dagens bönetider i Tanta, Egypten: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Egyptian General Authority-metoden, beräknad live på din enhet för Tanta.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tanta.html",
+  "id": "/sv/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

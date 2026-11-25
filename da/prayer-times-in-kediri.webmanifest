@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kediri",
   "short_name": "Bønnetider i Kediri",
   "description": "Dagens bønnetider i Kediri, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Kediri.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kediri.html",
+  "id": "/da/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

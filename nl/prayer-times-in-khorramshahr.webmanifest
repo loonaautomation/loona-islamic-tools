@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Khorramshahr",
   "short_name": "Gebedstijden in Khorramshahr",
   "description": "De gebedstijden van vandaag in Khorramshahr, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Khorramshahr.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-khorramshahr.html",
+  "id": "/nl/prayer-times-in-khorramshahr.html",
   "start_url": "./prayer-times-in-khorramshahr.html",
   "scope": "./prayer-times-in-khorramshahr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Swansea",
   "short_name": "זמני תפילה בעיר Swansea",
   "description": "זמני התפילה של היום בעיר Swansea, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Swansea.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-swansea.html",
+  "id": "/he/prayer-times-in-swansea.html",
   "start_url": "./prayer-times-in-swansea.html",
   "scope": "./prayer-times-in-swansea.html",
   "display": "standalone",

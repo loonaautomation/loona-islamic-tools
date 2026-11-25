@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Dehradun",
   "short_name": "Heures de prière à Dehradun",
   "description": "Les heures de prière d’aujourd’hui à Dehradun, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Dehradun.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-dehradun.html",
+  "id": "/fr/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

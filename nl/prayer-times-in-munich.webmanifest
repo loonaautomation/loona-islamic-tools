@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Munich",
   "short_name": "Gebedstijden in Munich",
   "description": "De gebedstijden van vandaag in Munich, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Munich.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-munich.html",
+  "id": "/nl/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dushanbe",
   "short_name": "Waktu Solat di Dushanbe",
   "description": "Waktu solat hari ini di Dushanbe, Tajikistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Dushanbe.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dushanbe.html",
+  "id": "/ms/prayer-times-in-dushanbe.html",
   "start_url": "./prayer-times-in-dushanbe.html",
   "scope": "./prayer-times-in-dushanbe.html",
   "display": "standalone",

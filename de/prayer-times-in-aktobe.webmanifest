@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Aktobe",
   "short_name": "Gebetszeiten in Aktobe",
   "description": "Die heutigen Gebetszeiten in Aktobe, Kasachstan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Aktobe.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-aktobe.html",
+  "id": "/de/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Prayagraj",
   "short_name": "Časy modlitieb v Prayagraj",
   "description": "Dnešné časy modlitieb v Prayagraj, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Prayagraj.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-prayagraj.html",
+  "id": "/sk/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

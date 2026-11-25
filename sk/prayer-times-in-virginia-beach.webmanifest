@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Virginia Beach",
   "short_name": "Časy modlitieb v Virginia Beach",
   "description": "Dnešné časy modlitieb v Virginia Beach, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Virginia Beach.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-virginia-beach.html",
+  "id": "/sk/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Wandsbek",
   "short_name": "Waktu Salat di Wandsbek",
   "description": "Waktu salat hari ini di Wandsbek, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Wandsbek.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-wandsbek.html",
+  "id": "/id/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

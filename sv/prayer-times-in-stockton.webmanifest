@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Stockton",
   "short_name": "Bönetider i Stockton",
   "description": "Dagens bönetider i Stockton, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Stockton.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-stockton.html",
+  "id": "/sv/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

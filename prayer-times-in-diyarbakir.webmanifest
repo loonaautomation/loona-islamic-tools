@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Diyarbakır",
   "short_name": "Prayer Times in Diyarbakır",
   "description": "Today's prayer times in Diyarbakır, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Diyarbakır.",
-  "id": "/loona-islamic-tools/prayer-times-in-diyarbakir.html",
+  "id": "/prayer-times-in-diyarbakir.html",
   "start_url": "./prayer-times-in-diyarbakir.html",
   "scope": "./prayer-times-in-diyarbakir.html",
   "display": "standalone",

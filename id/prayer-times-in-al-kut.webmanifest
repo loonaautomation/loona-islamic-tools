@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Al-Kut",
   "short_name": "Waktu Salat di Al-Kut",
   "description": "Waktu salat hari ini di Al-Kut, Irak: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Al-Kut.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-al-kut.html",
+  "id": "/id/prayer-times-in-al-kut.html",
   "start_url": "./prayer-times-in-al-kut.html",
   "scope": "./prayer-times-in-al-kut.html",
   "display": "standalone",

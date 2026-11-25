@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Chicago",
   "short_name": "Bønnetider i Chicago",
   "description": "Dagens bønnetider i Chicago, USA: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Chicago.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-chicago.html",
+  "id": "/nb/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

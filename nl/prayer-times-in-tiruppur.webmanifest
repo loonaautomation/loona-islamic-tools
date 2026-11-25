@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tiruppur",
   "short_name": "Gebedstijden in Tiruppur",
   "description": "De gebedstijden van vandaag in Tiruppur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Tiruppur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tiruppur.html",
+  "id": "/nl/prayer-times-in-tiruppur.html",
   "start_url": "./prayer-times-in-tiruppur.html",
   "scope": "./prayer-times-in-tiruppur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Data islamică de astăzi",
   "short_name": "Data islamică de astăzi",
   "description": "Care este data islamică astăzi? Vezi data Hijri de astăzi — ziua, luna și anul (Umm al-Qura) — alături de data gregoriană, actualizată live pe dispozitivul tău. Gratuit.",
-  "id": "/loona-islamic-tools/ro/islamic-date-today/",
+  "id": "/ro/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

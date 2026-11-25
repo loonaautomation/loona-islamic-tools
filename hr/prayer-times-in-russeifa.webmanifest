@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Russeifa",
   "short_name": "Vremena namaza u gradu Russeifa",
   "description": "Današnja vremena namaza u gradu Russeifa, Jordan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Russeifa.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-russeifa.html",
+  "id": "/hr/prayer-times-in-russeifa.html",
   "start_url": "./prayer-times-in-russeifa.html",
   "scope": "./prayer-times-in-russeifa.html",
   "display": "standalone",

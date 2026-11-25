@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Belagavi",
   "short_name": "Waktu Salat di Belagavi",
   "description": "Waktu salat hari ini di Belagavi, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Belagavi.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-belagavi.html",
+  "id": "/id/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

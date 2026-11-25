@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Toulouse",
   "short_name": "Часове за намаз в Toulouse",
   "description": "Днешните часове за намаз в Toulouse, Франция: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Toulouse.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-toulouse.html",
+  "id": "/bg/prayer-times-in-toulouse.html",
   "start_url": "./prayer-times-in-toulouse.html",
   "scope": "./prayer-times-in-toulouse.html",
   "display": "standalone",

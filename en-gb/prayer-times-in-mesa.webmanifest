@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mesa Today",
   "short_name": "Prayer Times in Mesa Today",
   "description": "Today's prayer times in Mesa, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Mesa.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-mesa.html",
+  "id": "/en-gb/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

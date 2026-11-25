@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Al Jubayl",
   "short_name": "Horarios de oración en Al Jubayl",
   "description": "Horarios de oración de hoy en Al Jubayl, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Al Jubayl.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-al-jubayl.html",
+  "id": "/es/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

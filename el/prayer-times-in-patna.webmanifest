@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Patna",
   "short_name": "Ώρες Προσευχής στο Patna",
   "description": "Οι σημερινές ώρες προσευχής στο Patna, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Patna.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-patna.html",
+  "id": "/el/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

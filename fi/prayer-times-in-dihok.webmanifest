@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Dihok",
   "short_name": "Rukousajat: Dihok",
   "description": "Tämän päivän rukousajat paikassa Dihok, Irak: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Dihok.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-dihok.html",
+  "id": "/fi/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

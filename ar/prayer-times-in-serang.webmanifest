@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Serang",
   "short_name": "مواقيت الصلاة في Serang",
   "description": "مواقيت الصلاة اليوم في Serang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSerang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-serang.html",
+  "id": "/ar/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

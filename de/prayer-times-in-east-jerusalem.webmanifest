@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in East Jerusalem",
   "short_name": "Gebetszeiten in East Jerusalem",
   "description": "Die heutigen Gebetszeiten in East Jerusalem, Palästina: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für East Jerusalem.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-east-jerusalem.html",
+  "id": "/de/prayer-times-in-east-jerusalem.html",
   "start_url": "./prayer-times-in-east-jerusalem.html",
   "scope": "./prayer-times-in-east-jerusalem.html",
   "display": "standalone",

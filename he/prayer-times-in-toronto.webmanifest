@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Toronto",
   "short_name": "זמני תפילה בעיר Toronto",
   "description": "זמני התפילה של היום בעיר Toronto, קנדה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Toronto.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-toronto.html",
+  "id": "/he/prayer-times-in-toronto.html",
   "start_url": "./prayer-times-in-toronto.html",
   "scope": "./prayer-times-in-toronto.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Raipur",
   "short_name": "مواقيت الصلاة في Raipur",
   "description": "مواقيت الصلاة اليوم في Raipur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRaipur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-raipur.html",
+  "id": "/ar/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

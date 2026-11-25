@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sacramento",
   "short_name": "Bönetider i Sacramento",
   "description": "Dagens bönetider i Sacramento, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Sacramento.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sacramento.html",
+  "id": "/sv/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

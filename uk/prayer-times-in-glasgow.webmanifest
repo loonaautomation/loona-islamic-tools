@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Glasgow",
   "short_name": "Час намазу в Glasgow",
   "description": "Сьогоднішній час намазу в Glasgow, Сполучене Королівство: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Glasgow.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-glasgow.html",
+  "id": "/uk/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

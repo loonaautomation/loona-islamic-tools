@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rāmgundam",
   "short_name": "זמני תפילה בעיר Rāmgundam",
   "description": "זמני התפילה של היום בעיר Rāmgundam, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rāmgundam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ramgundam.html",
+  "id": "/he/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

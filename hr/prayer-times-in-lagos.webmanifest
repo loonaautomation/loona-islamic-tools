@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Lagos",
   "short_name": "Vremena namaza u gradu Lagos",
   "description": "Današnja vremena namaza u gradu Lagos, Nigerija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Lagos.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-lagos.html",
+  "id": "/hr/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

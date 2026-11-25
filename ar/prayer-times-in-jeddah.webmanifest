@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jeddah",
   "short_name": "مواقيت الصلاة في Jeddah",
   "description": "مواقيت الصلاة اليوم في Jeddah، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـJeddah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jeddah.html",
+  "id": "/ar/prayer-times-in-jeddah.html",
   "start_url": "./prayer-times-in-jeddah.html",
   "scope": "./prayer-times-in-jeddah.html",
   "display": "standalone",

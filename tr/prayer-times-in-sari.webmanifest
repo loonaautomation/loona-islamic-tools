@@ -2,7 +2,7 @@
   "name": "Loona Sari Namaz Vakitleri",
   "short_name": "Sari Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sari, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sari için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sari.html",
+  "id": "/tr/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

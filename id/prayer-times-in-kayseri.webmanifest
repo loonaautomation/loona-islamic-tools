@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kayseri",
   "short_name": "Waktu Salat di Kayseri",
   "description": "Waktu salat hari ini di Kayseri, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Kayseri.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kayseri.html",
+  "id": "/id/prayer-times-in-kayseri.html",
   "start_url": "./prayer-times-in-kayseri.html",
   "scope": "./prayer-times-in-kayseri.html",
   "display": "standalone",

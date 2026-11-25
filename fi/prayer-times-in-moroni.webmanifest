@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Moroni",
   "short_name": "Rukousajat: Moroni",
   "description": "Tämän päivän rukousajat paikassa Moroni, Komorit: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Moroni.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-moroni.html",
+  "id": "/fi/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

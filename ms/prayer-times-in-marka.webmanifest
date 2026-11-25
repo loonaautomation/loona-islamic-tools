@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Marka",
   "short_name": "Waktu Solat di Marka",
   "description": "Waktu solat hari ini di Marka, Somalia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Marka.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-marka.html",
+  "id": "/ms/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sinjhoro",
   "short_name": "Gebetszeiten in Sinjhoro",
   "description": "Die heutigen Gebetszeiten in Sinjhoro, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Sinjhoro.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sinjhoro.html",
+  "id": "/de/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

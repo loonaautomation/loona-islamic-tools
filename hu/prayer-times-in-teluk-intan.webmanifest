@@ -2,7 +2,7 @@
   "name": "Loona Teluk Intan imaidői",
   "short_name": "Teluk Intan imaidői",
   "description": "A mai imaidők: Teluk Intan, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Teluk Intan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-teluk-intan.html",
+  "id": "/hu/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

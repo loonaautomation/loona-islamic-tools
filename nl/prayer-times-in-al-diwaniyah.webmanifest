@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Diwaniyah",
   "short_name": "Gebedstijden in Al Diwaniyah",
   "description": "De gebedstijden van vandaag in Al Diwaniyah, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Diwaniyah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-diwaniyah.html",
+  "id": "/nl/prayer-times-in-al-diwaniyah.html",
   "start_url": "./prayer-times-in-al-diwaniyah.html",
   "scope": "./prayer-times-in-al-diwaniyah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Arlington Namaz Vakitleri",
   "short_name": "Arlington Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Arlington, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Arlington için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-arlington.html",
+  "id": "/tr/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

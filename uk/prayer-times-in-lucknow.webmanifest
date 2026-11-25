@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Lucknow",
   "short_name": "Час намазу в Lucknow",
   "description": "Сьогоднішній час намазу в Lucknow, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Lucknow.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-lucknow.html",
+  "id": "/uk/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

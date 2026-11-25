@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Erbil",
   "short_name": "مواقيت الصلاة في Erbil",
   "description": "مواقيت الصلاة اليوم في Erbil، العراق: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـErbil.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-erbil.html",
+  "id": "/ar/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Marka",
   "short_name": "Orari di preghiera a Marka",
   "description": "Orari di preghiera di oggi a Marka, Somalia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Marka.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-marka.html",
+  "id": "/it/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

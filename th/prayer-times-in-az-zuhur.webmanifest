@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Az-Zuhūr",
   "short_name": "เวลาละหมาดใน Az-Zuhūr",
   "description": "เวลาละหมาดวันนี้ใน Az-Zuhūr, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Az-Zuhūr",
-  "id": "/loona-islamic-tools/th/prayer-times-in-az-zuhur.html",
+  "id": "/th/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

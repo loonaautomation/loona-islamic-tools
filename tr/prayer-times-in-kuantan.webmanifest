@@ -2,7 +2,7 @@
   "name": "Loona Kuantan Namaz Vakitleri",
   "short_name": "Kuantan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kuantan, Malezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kuantan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kuantan.html",
+  "id": "/tr/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

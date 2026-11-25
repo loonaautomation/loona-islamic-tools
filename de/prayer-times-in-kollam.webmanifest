@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kollam",
   "short_name": "Gebetszeiten in Kollam",
   "description": "Die heutigen Gebetszeiten in Kollam, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kollam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kollam.html",
+  "id": "/de/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

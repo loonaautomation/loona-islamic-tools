@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Atlanta",
   "short_name": "Ώρες Προσευχής στο Atlanta",
   "description": "Οι σημερινές ώρες προσευχής στο Atlanta, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Atlanta.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-atlanta.html",
+  "id": "/el/prayer-times-in-atlanta.html",
   "start_url": "./prayer-times-in-atlanta.html",
   "scope": "./prayer-times-in-atlanta.html",
   "display": "standalone",

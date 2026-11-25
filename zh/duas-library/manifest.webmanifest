@@ -2,7 +2,7 @@
   "name": "Loona 杜阿文库",
   "short_name": "杜阿文库",
   "description": "一个收录每个时刻真实杜阿的文库——清晨、用餐、旅行、居家、焦虑、求饶恕——每篇都附有阿拉伯原文、音译、翻译和出处。",
-  "id": "/loona-islamic-tools/zh/duas-library/",
+  "id": "/zh/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

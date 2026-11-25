@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Najrān",
   "short_name": "Horarios de oración en Najrān",
   "description": "Horarios de oración de hoy en Najrān, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Najrān.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-najran.html",
+  "id": "/es/prayer-times-in-najran.html",
   "start_url": "./prayer-times-in-najran.html",
   "scope": "./prayer-times-in-najran.html",
   "display": "standalone",

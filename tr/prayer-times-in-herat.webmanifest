@@ -2,7 +2,7 @@
   "name": "Loona Herāt Namaz Vakitleri",
   "short_name": "Herāt Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Herāt, Afganistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Herāt için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-herat.html",
+  "id": "/tr/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

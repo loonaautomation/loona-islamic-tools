@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kahramanmaraş",
   "short_name": "Время намаза в городе Kahramanmaraş",
   "description": "Время намаза на сегодня: Kahramanmaraş, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Kahramanmaraş.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kahramanmaras.html",
+  "id": "/ru/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

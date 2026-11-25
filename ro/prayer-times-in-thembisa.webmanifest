@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Thembisa",
   "short_name": "Ore de rugăciune în Thembisa",
   "description": "Orele de rugăciune de azi în Thembisa, Africa de Sud: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Thembisa.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-thembisa.html",
+  "id": "/ro/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

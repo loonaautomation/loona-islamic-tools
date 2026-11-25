@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Thrissur",
   "short_name": "Gebetszeiten in Thrissur",
   "description": "Die heutigen Gebetszeiten in Thrissur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Thrissur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-thrissur.html",
+  "id": "/de/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

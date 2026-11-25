@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Akola",
   "short_name": "Ώρες Προσευχής στο Akola",
   "description": "Οι σημερινές ώρες προσευχής στο Akola, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Akola.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-akola.html",
+  "id": "/el/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Manado",
   "short_name": "مواقيت الصلاة في Manado",
   "description": "مواقيت الصلاة اليوم في Manado، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـManado.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-manado.html",
+  "id": "/ar/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

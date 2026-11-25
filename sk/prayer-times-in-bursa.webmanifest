@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bursa",
   "short_name": "Časy modlitieb v Bursa",
   "description": "Dnešné časy modlitieb v Bursa, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Bursa.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bursa.html",
+  "id": "/sk/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

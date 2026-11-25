@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Kelar",
   "short_name": "Ore de rugăciune în Kelar",
   "description": "Orele de rugăciune de azi în Kelar, Irak: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Kelar.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-kelar.html",
+  "id": "/ro/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Hargeysa",
   "short_name": "Waktu Salat di Hargeysa",
   "description": "Waktu salat hari ini di Hargeysa, Somalia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Hargeysa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-hargeysa.html",
+  "id": "/id/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

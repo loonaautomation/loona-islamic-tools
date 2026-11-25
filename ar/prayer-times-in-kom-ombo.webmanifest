@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kom Ombo",
   "short_name": "مواقيت الصلاة في Kom Ombo",
   "description": "مواقيت الصلاة اليوم في Kom Ombo، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـKom Ombo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kom-ombo.html",
+  "id": "/ar/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Khomeynī Shahr的禮拜時間",
   "short_name": "Khomeynī Shahr的禮拜時間",
   "description": "Khomeynī Shahr（伊朗）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Khomeynī Shahr實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-khomeyni-shahr.html",
+  "id": "/zh-hant/prayer-times-in-khomeyni-shahr.html",
   "start_url": "./prayer-times-in-khomeyni-shahr.html",
   "scope": "./prayer-times-in-khomeyni-shahr.html",
   "display": "standalone",

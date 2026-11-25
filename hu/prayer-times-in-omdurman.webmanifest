@@ -2,7 +2,7 @@
   "name": "Loona Omdurman imaidői",
   "short_name": "Omdurman imaidői",
   "description": "A mai imaidők: Omdurman, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Omdurman számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-omdurman.html",
+  "id": "/hu/prayer-times-in-omdurman.html",
   "start_url": "./prayer-times-in-omdurman.html",
   "scope": "./prayer-times-in-omdurman.html",
   "display": "standalone",

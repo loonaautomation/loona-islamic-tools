@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Samarinda",
   "short_name": "Gebedstijden in Samarinda",
   "description": "De gebedstijden van vandaag in Samarinda, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Samarinda.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-samarinda.html",
+  "id": "/nl/prayer-times-in-samarinda.html",
   "start_url": "./prayer-times-in-samarinda.html",
   "scope": "./prayer-times-in-samarinda.html",
   "display": "standalone",

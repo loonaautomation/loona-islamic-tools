@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Memphis",
   "short_name": "Waktu Salat di Memphis",
   "description": "Waktu salat hari ini di Memphis, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Memphis.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-memphis.html",
+  "id": "/id/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

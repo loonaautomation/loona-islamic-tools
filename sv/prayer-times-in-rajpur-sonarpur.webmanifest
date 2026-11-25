@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Rajpur Sonarpur",
   "short_name": "Bönetider i Rajpur Sonarpur",
   "description": "Dagens bönetider i Rajpur Sonarpur, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Rajpur Sonarpur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-rajpur-sonarpur.html",
+  "id": "/sv/prayer-times-in-rajpur-sonarpur.html",
   "start_url": "./prayer-times-in-rajpur-sonarpur.html",
   "scope": "./prayer-times-in-rajpur-sonarpur.html",
   "display": "standalone",

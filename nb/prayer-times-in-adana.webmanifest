@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Adana",
   "short_name": "Bønnetider i Adana",
   "description": "Dagens bønnetider i Adana, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Adana.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-adana.html",
+  "id": "/nb/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

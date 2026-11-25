@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nagpur",
   "short_name": "Час намазу в Nagpur",
   "description": "Сьогоднішній час намазу в Nagpur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Nagpur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nagpur.html",
+  "id": "/uk/prayer-times-in-nagpur.html",
   "start_url": "./prayer-times-in-nagpur.html",
   "scope": "./prayer-times-in-nagpur.html",
   "display": "standalone",

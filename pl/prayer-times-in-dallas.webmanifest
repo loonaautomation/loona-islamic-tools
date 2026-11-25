@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dallas",
   "short_name": "Czasy modlitw w miejscowości Dallas",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dallas, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Dallas.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dallas.html",
+  "id": "/pl/prayer-times-in-dallas.html",
   "start_url": "./prayer-times-in-dallas.html",
   "scope": "./prayer-times-in-dallas.html",
   "display": "standalone",

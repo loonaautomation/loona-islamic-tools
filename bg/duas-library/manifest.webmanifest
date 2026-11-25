@@ -2,7 +2,7 @@
   "name": "Loona Библиотека с дуи",
   "short_name": "Библиотека с дуи",
   "description": "Библиотека с автентични дуи за всеки момент — сутрин, храна, пътуване, дом, тревога, прошка — всяка с арабски текст, транслитерация, превод и източник.",
-  "id": "/loona-islamic-tools/bg/duas-library/",
+  "id": "/bg/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

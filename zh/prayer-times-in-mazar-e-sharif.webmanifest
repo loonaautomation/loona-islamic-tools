@@ -2,7 +2,7 @@
   "name": "Loona Mazār-e Sharīf的礼拜时间",
   "short_name": "Mazār-e Sharīf的礼拜时间",
   "description": "Mazār-e Sharīf（阿富汗）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Mazār-e Sharīf实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-mazar-e-sharif.html",
+  "id": "/zh/prayer-times-in-mazar-e-sharif.html",
   "start_url": "./prayer-times-in-mazar-e-sharif.html",
   "scope": "./prayer-times-in-mazar-e-sharif.html",
   "display": "standalone",

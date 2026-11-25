@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kota Bharu",
   "short_name": "Horarios de oración en Kota Bharu",
   "description": "Horarios de oración de hoy en Kota Bharu, Malasia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Kota Bharu.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kota-bharu.html",
+  "id": "/es/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Yazd",
   "short_name": "Rukousajat: Yazd",
   "description": "Tämän päivän rukousajat paikassa Yazd, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Yazd.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-yazd.html",
+  "id": "/fi/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

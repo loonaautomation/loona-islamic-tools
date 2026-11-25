@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Pimpri-Chinchwad 2027 (1448)",
   "short_name": "Розклад Рамадану в Pimpri-Chinchwad 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Pimpri-Chinchwad, Індія: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-pimpri-chinchwad.html",
+  "id": "/uk/ramadan-timetable-in-pimpri-chinchwad.html",
   "start_url": "./ramadan-timetable-in-pimpri-chinchwad.html",
   "scope": "./ramadan-timetable-in-pimpri-chinchwad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Počítadlo tasbíhu",
   "short_name": "Počítadlo tasbíhu",
   "description": "Digitálne počítadlo tasbíhu: SubhanAllah, Alhamdulillah a ďalšie predvoľby, ciele 33/99/100, sledovanie kôl, vibrácie a celoživotné súčty uložené vo vašom zariadení.",
-  "id": "/loona-islamic-tools/sk/tasbih-counter/",
+  "id": "/sk/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

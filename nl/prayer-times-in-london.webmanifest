@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in London",
   "short_name": "Gebedstijden in London",
   "description": "De gebedstijden van vandaag in London, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor London.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-london.html",
+  "id": "/nl/prayer-times-in-london.html",
   "start_url": "./prayer-times-in-london.html",
   "scope": "./prayer-times-in-london.html",
   "display": "standalone",

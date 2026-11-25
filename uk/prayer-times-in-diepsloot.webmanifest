@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Diepsloot",
   "short_name": "Час намазу в Diepsloot",
   "description": "Сьогоднішній час намазу в Diepsloot, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Diepsloot.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-diepsloot.html",
+  "id": "/uk/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Tunis",
   "short_name": "Prayer Times in Tunis",
   "description": "Today's prayer times in Tunis, Tunisia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Tunis.",
-  "id": "/loona-islamic-tools/prayer-times-in-tunis.html",
+  "id": "/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

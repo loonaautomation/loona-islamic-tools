@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jayapura",
   "short_name": "Horarios de oración en Jayapura",
   "description": "Horarios de oración de hoy en Jayapura, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Jayapura.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jayapura.html",
+  "id": "/es/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

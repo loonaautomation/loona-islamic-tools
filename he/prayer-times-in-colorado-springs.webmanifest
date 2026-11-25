@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Colorado Springs",
   "short_name": "זמני תפילה בעיר Colorado Springs",
   "description": "זמני התפילה של היום בעיר Colorado Springs, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Colorado Springs.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-colorado-springs.html",
+  "id": "/he/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

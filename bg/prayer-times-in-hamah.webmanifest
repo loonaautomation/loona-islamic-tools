@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ḩamāh",
   "short_name": "Часове за намаз в Ḩamāh",
   "description": "Днешните часове за намаз в Ḩamāh, Сирия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ḩamāh.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-hamah.html",
+  "id": "/bg/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

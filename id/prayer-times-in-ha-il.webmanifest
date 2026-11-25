@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ha'il",
   "short_name": "Waktu Salat di Ha'il",
   "description": "Waktu salat hari ini di Ha'il, Arab Saudi: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Umm al-Qura, dihitung langsung di perangkat Anda untuk Ha'il.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ha-il.html",
+  "id": "/id/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

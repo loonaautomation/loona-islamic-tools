@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Andijon",
   "short_name": "Bönetider i Andijon",
   "description": "Dagens bönetider i Andijon, Uzbekistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Andijon.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-andijon.html",
+  "id": "/sv/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

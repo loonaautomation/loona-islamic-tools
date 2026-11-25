@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Lubuklinggau",
   "short_name": "Bønnetider i Lubuklinggau",
   "description": "Dagens bønnetider i Lubuklinggau, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Lubuklinggau.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-lubuklinggau.html",
+  "id": "/nb/prayer-times-in-lubuklinggau.html",
   "start_url": "./prayer-times-in-lubuklinggau.html",
   "scope": "./prayer-times-in-lubuklinggau.html",
   "display": "standalone",

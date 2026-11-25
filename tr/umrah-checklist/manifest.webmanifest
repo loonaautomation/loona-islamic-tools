@@ -2,7 +2,7 @@
   "name": "Loona Umre Kontrol Listesi",
   "short_name": "Umre Kontrol Listesi",
   "description": "Etkileşimli bir Umre kontrol listesi: belgeler, rezervasyonlar, bavul, sağlık ve ibadet hazırlığı; ilerleme çubuğu, yazdırma seçeneği ve cihazınızda saklanan ilerleme ile.",
-  "id": "/loona-islamic-tools/tr/umrah-checklist/",
+  "id": "/tr/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

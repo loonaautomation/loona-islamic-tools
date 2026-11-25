@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Berlin",
   "short_name": "זמני תפילה בעיר Berlin",
   "description": "זמני התפילה של היום בעיר Berlin, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Berlin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-berlin.html",
+  "id": "/he/prayer-times-in-berlin.html",
   "start_url": "./prayer-times-in-berlin.html",
   "scope": "./prayer-times-in-berlin.html",
   "display": "standalone",

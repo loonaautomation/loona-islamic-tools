@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Lyon",
   "short_name": "Ore de rugăciune în Lyon",
   "description": "Orele de rugăciune de azi în Lyon, Franța: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Lyon.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-lyon.html",
+  "id": "/ro/prayer-times-in-lyon.html",
   "start_url": "./prayer-times-in-lyon.html",
   "scope": "./prayer-times-in-lyon.html",
   "display": "standalone",

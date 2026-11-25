@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Qazvin",
   "short_name": "Časy modliteb v Qazvin",
   "description": "Dnešní časy modliteb v Qazvin, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Qazvin.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-qazvin.html",
+  "id": "/cs/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

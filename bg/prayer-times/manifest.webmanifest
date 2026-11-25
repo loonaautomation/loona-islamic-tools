@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз днес",
   "short_name": "Часове за намаз днес",
   "description": "Получете днешните часове за Фаджр, Зухр, Аср, Магриб и Иша за всеки град: методи Karachi, ISNA, MWL и още, Аср по Ханафи или Шафи, поддържат се точни координати.",
-  "id": "/loona-islamic-tools/bg/prayer-times/",
+  "id": "/bg/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

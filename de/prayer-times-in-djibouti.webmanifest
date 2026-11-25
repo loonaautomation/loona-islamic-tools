@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Djibouti",
   "short_name": "Gebetszeiten in Djibouti",
   "description": "Die heutigen Gebetszeiten in Dschibuti, Dschibuti: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode der Muslim World League, live auf Ihrem Gerät berechnet für Dschibuti.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-djibouti.html",
+  "id": "/de/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

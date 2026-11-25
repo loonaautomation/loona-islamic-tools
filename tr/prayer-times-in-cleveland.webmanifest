@@ -2,7 +2,7 @@
   "name": "Loona Cleveland Namaz Vakitleri",
   "short_name": "Cleveland Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Cleveland, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Cleveland için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-cleveland.html",
+  "id": "/tr/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Rangpur",
   "short_name": "مواقيت الصلاة في Rangpur",
   "description": "مواقيت الصلاة اليوم في Rangpur، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـRangpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-rangpur.html",
+  "id": "/ar/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

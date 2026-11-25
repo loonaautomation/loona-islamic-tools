@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Karnaphuli",
   "short_name": "เวลาละหมาดใน Karnaphuli",
   "description": "เวลาละหมาดวันนี้ใน Karnaphuli, Bangladesh: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Karnaphuli",
-  "id": "/loona-islamic-tools/th/prayer-times-in-karnaphuli.html",
+  "id": "/th/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

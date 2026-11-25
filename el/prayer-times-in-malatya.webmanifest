@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Malatya",
   "short_name": "Ώρες Προσευχής στο Malatya",
   "description": "Οι σημερινές ώρες προσευχής στο Malatya, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Malatya.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-malatya.html",
+  "id": "/el/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

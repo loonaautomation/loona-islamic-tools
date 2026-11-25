@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Burewala",
   "short_name": "Время намаза в городе Burewala",
   "description": "Время намаза на сегодня: Burewala, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Burewala.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-burewala.html",
+  "id": "/ru/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bilimora Namaz Vakitleri",
   "short_name": "Bilimora Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Bilimora, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Bilimora için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-bilimora.html",
+  "id": "/tr/prayer-times-in-bilimora.html",
   "start_url": "./prayer-times-in-bilimora.html",
   "scope": "./prayer-times-in-bilimora.html",
   "display": "standalone",

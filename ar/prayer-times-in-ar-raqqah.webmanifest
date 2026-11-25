@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ar Raqqah",
   "short_name": "مواقيت الصلاة في Ar Raqqah",
   "description": "مواقيت الصلاة اليوم في Ar Raqqah، سوريا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAr Raqqah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ar-raqqah.html",
+  "id": "/ar/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

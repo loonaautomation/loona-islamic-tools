@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Logan City",
   "short_name": "مواقيت الصلاة في Logan City",
   "description": "مواقيت الصلاة اليوم في Logan City، أستراليا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـLogan City.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-logan-city.html",
+  "id": "/ar/prayer-times-in-logan-city.html",
   "start_url": "./prayer-times-in-logan-city.html",
   "scope": "./prayer-times-in-logan-city.html",
   "display": "standalone",

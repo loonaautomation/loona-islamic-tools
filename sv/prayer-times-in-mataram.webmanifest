@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mataram",
   "short_name": "Bönetider i Mataram",
   "description": "Dagens bönetider i Mataram, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mataram.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mataram.html",
+  "id": "/sv/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

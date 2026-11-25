@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kota",
   "short_name": "Waktu Solat di Kota",
   "description": "Waktu solat hari ini di Kota, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Kota.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kota.html",
+  "id": "/ms/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

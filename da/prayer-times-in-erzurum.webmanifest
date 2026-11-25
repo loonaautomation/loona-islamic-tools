@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Erzurum",
   "short_name": "Bønnetider i Erzurum",
   "description": "Dagens bønnetider i Erzurum, Tyrkiet: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Erzurum.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-erzurum.html",
+  "id": "/da/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

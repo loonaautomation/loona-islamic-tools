@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Assiut",
   "short_name": "Orari di preghiera a Assiut",
   "description": "Orari di preghiera di oggi a Assiut, Egitto: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Egyptian General Authority, calcolati live sul tuo dispositivo per Assiut.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-assiut.html",
+  "id": "/it/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

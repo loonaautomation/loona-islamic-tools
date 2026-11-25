@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Kismayo",
   "short_name": "Rukousajat: Kismayo",
   "description": "Tämän päivän rukousajat paikassa Kismayo, Somalia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Kismayo.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-kismayo.html",
+  "id": "/fi/prayer-times-in-kismayo.html",
   "start_url": "./prayer-times-in-kismayo.html",
   "scope": "./prayer-times-in-kismayo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bornova",
   "short_name": "Orari di preghiera a Bornova",
   "description": "Orari di preghiera di oggi a Bornova, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bornova.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bornova.html",
+  "id": "/it/prayer-times-in-bornova.html",
   "start_url": "./prayer-times-in-bornova.html",
   "scope": "./prayer-times-in-bornova.html",
   "display": "standalone",

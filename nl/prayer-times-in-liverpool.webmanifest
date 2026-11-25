@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Liverpool",
   "short_name": "Gebedstijden in Liverpool",
   "description": "De gebedstijden van vandaag in Liverpool, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Liverpool.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-liverpool.html",
+  "id": "/nl/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

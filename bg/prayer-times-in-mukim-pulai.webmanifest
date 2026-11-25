@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mukim Pulai",
   "short_name": "Часове за намаз в Mukim Pulai",
   "description": "Днешните часове за намаз в Mukim Pulai, Малайзия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Mukim Pulai.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mukim-pulai.html",
+  "id": "/bg/prayer-times-in-mukim-pulai.html",
   "start_url": "./prayer-times-in-mukim-pulai.html",
   "scope": "./prayer-times-in-mukim-pulai.html",
   "display": "standalone",

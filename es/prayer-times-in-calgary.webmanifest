@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Calgary",
   "short_name": "Horarios de oración en Calgary",
   "description": "Horarios de oración de hoy en Calgary, Canadá: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método ISNA, calculado en vivo en tu dispositivo para Calgary.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-calgary.html",
+  "id": "/es/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

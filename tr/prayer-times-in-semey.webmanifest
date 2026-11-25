@@ -2,7 +2,7 @@
   "name": "Loona Semey Namaz Vakitleri",
   "short_name": "Semey Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Semey, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Semey için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-semey.html",
+  "id": "/tr/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

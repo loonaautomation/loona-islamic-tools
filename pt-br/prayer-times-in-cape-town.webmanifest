@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Cape Town",
   "short_name": "Horários de Oração em Cape Town",
   "description": "Horários de oração de hoje em Cape Town, África do Sul: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Cape Town.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-cape-town.html",
+  "id": "/pt-br/prayer-times-in-cape-town.html",
   "start_url": "./prayer-times-in-cape-town.html",
   "scope": "./prayer-times-in-cape-town.html",
   "display": "standalone",

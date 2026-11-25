@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sacramento",
   "short_name": "Waktu Salat di Sacramento",
   "description": "Waktu salat hari ini di Sacramento, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Sacramento.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sacramento.html",
+  "id": "/id/prayer-times-in-sacramento.html",
   "start_url": "./prayer-times-in-sacramento.html",
   "scope": "./prayer-times-in-sacramento.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Ségou",
   "short_name": "Часове за намаз в Ségou",
   "description": "Днешните часове за намаз в Ségou, Мали: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Ségou.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-segou.html",
+  "id": "/bg/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

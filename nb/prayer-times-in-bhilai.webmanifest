@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bhilai",
   "short_name": "Bønnetider i Bhilai",
   "description": "Dagens bønnetider i Bhilai, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bhilai.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bhilai.html",
+  "id": "/nb/prayer-times-in-bhilai.html",
   "start_url": "./prayer-times-in-bhilai.html",
   "scope": "./prayer-times-in-bhilai.html",
   "display": "standalone",

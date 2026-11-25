@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Alicante",
   "short_name": "Время намаза в городе Alicante",
   "description": "Время намаза на сегодня: Alicante, Испания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Alicante.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-alicante.html",
+  "id": "/ru/prayer-times-in-alicante.html",
   "start_url": "./prayer-times-in-alicante.html",
   "scope": "./prayer-times-in-alicante.html",
   "display": "standalone",

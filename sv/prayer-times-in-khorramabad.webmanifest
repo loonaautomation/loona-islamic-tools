@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Khorramabad",
   "short_name": "Bönetider i Khorramabad",
   "description": "Dagens bönetider i Khorramabad, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Khorramabad.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-khorramabad.html",
+  "id": "/sv/prayer-times-in-khorramabad.html",
   "start_url": "./prayer-times-in-khorramabad.html",
   "scope": "./prayer-times-in-khorramabad.html",
   "display": "standalone",

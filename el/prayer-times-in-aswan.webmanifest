@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Aswān",
   "short_name": "Ώρες Προσευχής στο Aswān",
   "description": "Οι σημερινές ώρες προσευχής στο Aswān, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Aswān.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-aswan.html",
+  "id": "/el/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Assiut Namaz Vakitleri",
   "short_name": "Assiut Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Assiut, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Assiut için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-assiut.html",
+  "id": "/tr/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

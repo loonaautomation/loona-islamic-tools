@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Muar",
   "short_name": "Horários de Oração em Muar",
   "description": "Horários de oração de hoje em Muar, Malásia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Muar.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-muar.html",
+  "id": "/pt/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

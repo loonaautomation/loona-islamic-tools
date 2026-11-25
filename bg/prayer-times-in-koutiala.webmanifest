@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Koutiala",
   "short_name": "Часове за намаз в Koutiala",
   "description": "Днешните часове за намаз в Koutiala, Мали: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Koutiala.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-koutiala.html",
+  "id": "/bg/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

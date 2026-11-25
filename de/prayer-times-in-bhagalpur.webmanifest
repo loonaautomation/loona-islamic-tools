@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhāgalpur",
   "short_name": "Gebetszeiten in Bhāgalpur",
   "description": "Die heutigen Gebetszeiten in Bhāgalpur, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhāgalpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhagalpur.html",
+  "id": "/de/prayer-times-in-bhagalpur.html",
   "start_url": "./prayer-times-in-bhagalpur.html",
   "scope": "./prayer-times-in-bhagalpur.html",
   "display": "standalone",

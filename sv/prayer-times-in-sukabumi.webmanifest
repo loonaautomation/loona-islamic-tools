@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sukabumi",
   "short_name": "Bönetider i Sukabumi",
   "description": "Dagens bönetider i Sukabumi, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sukabumi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sukabumi.html",
+  "id": "/sv/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

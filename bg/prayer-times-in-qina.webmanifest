@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Qina",
   "short_name": "Часове за намаз в Qina",
   "description": "Днешните часове за намаз в Qina, Египет: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Египетския генерален орган, изчислени на живо на вашето устройство за Qina.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-qina.html",
+  "id": "/bg/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

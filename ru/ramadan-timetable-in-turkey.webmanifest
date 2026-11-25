@@ -2,7 +2,7 @@
   "name": "Loona Расписание Рамадана: Турция, 2027 (1448)",
   "short_name": "Расписание Рамадана: Турция, 2027 (1448)",
   "description": "Расписание Рамадана 2027 года для страны Турция: время окончания Сухура (Фаджр) и Ифтара (Магриб) на каждый день Рамадана 1448, рассчитанное для города Ankara. Ожидается с 8 февраля по 8 марта 2027, в зависимости от наблюдения луны.",
-  "id": "/loona-islamic-tools/ru/ramadan-timetable-in-turkey.html",
+  "id": "/ru/ramadan-timetable-in-turkey.html",
   "start_url": "./ramadan-timetable-in-turkey.html",
   "scope": "./ramadan-timetable-in-turkey.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Gilgit",
   "short_name": "Gebedstijden in Gilgit",
   "description": "De gebedstijden van vandaag in Gilgit, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Gilgit.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-gilgit.html",
+  "id": "/nl/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

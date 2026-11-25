@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nasiriyah",
   "short_name": "Vremena namaza u gradu Nasiriyah",
   "description": "Današnja vremena namaza u gradu Nasiriyah, Irak: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Nasiriyah.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nasiriyah.html",
+  "id": "/hr/prayer-times-in-nasiriyah.html",
   "start_url": "./prayer-times-in-nasiriyah.html",
   "scope": "./prayer-times-in-nasiriyah.html",
   "display": "standalone",

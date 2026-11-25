@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Raipur",
   "short_name": "Время намаза в городе Raipur",
   "description": "Время намаза на сегодня: Raipur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Raipur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-raipur.html",
+  "id": "/ru/prayer-times-in-raipur.html",
   "start_url": "./prayer-times-in-raipur.html",
   "scope": "./prayer-times-in-raipur.html",
   "display": "standalone",

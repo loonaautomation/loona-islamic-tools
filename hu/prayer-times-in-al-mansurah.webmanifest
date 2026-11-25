@@ -2,7 +2,7 @@
   "name": "Loona Al Mansurah imaidői",
   "short_name": "Al Mansurah imaidői",
   "description": "A mai imaidők: Al Mansurah, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Al Mansurah számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-mansurah.html",
+  "id": "/hu/prayer-times-in-al-mansurah.html",
   "start_url": "./prayer-times-in-al-mansurah.html",
   "scope": "./prayer-times-in-al-mansurah.html",
   "display": "standalone",

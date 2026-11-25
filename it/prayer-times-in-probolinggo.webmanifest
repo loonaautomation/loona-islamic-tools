@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Probolinggo",
   "short_name": "Orari di preghiera a Probolinggo",
   "description": "Orari di preghiera di oggi a Probolinggo, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Probolinggo.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-probolinggo.html",
+  "id": "/it/prayer-times-in-probolinggo.html",
   "start_url": "./prayer-times-in-probolinggo.html",
   "scope": "./prayer-times-in-probolinggo.html",
   "display": "standalone",

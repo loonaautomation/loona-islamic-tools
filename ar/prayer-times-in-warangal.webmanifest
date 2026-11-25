@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Warangal",
   "short_name": "مواقيت الصلاة في Warangal",
   "description": "مواقيت الصلاة اليوم في Warangal، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـWarangal.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-warangal.html",
+  "id": "/ar/prayer-times-in-warangal.html",
   "start_url": "./prayer-times-in-warangal.html",
   "scope": "./prayer-times-in-warangal.html",
   "display": "standalone",

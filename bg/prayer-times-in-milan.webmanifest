@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Milan",
   "short_name": "Часове за намаз в Milan",
   "description": "Днешните часове за намаз в Milan, Италия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Milan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-milan.html",
+  "id": "/bg/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

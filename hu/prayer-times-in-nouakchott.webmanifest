@@ -2,7 +2,7 @@
   "name": "Loona Nouakchott imaidői",
   "short_name": "Nouakchott imaidői",
   "description": "A mai imaidők: Nouakchott, Mauritánia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Nouakchott számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-nouakchott.html",
+  "id": "/hu/prayer-times-in-nouakchott.html",
   "start_url": "./prayer-times-in-nouakchott.html",
   "scope": "./prayer-times-in-nouakchott.html",
   "display": "standalone",

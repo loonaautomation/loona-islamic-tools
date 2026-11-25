@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ballari",
   "short_name": "Ώρες Προσευχής στο Ballari",
   "description": "Οι σημερινές ώρες προσευχής στο Ballari, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Ballari.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ballari.html",
+  "id": "/el/prayer-times-in-ballari.html",
   "start_url": "./prayer-times-in-ballari.html",
   "scope": "./prayer-times-in-ballari.html",
   "display": "standalone",

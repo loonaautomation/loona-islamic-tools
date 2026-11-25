@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Āmol",
   "short_name": "Gebetszeiten in Āmol",
   "description": "Die heutigen Gebetszeiten in Āmol, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Āmol.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-amol.html",
+  "id": "/de/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

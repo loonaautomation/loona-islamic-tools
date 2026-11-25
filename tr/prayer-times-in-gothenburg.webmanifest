@@ -2,7 +2,7 @@
   "name": "Loona Gothenburg Namaz Vakitleri",
   "short_name": "Gothenburg Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Gothenburg, İsveç: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Gothenburg için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-gothenburg.html",
+  "id": "/tr/prayer-times-in-gothenburg.html",
   "start_url": "./prayer-times-in-gothenburg.html",
   "scope": "./prayer-times-in-gothenburg.html",
   "display": "standalone",

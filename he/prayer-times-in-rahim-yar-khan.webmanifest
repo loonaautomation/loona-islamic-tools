@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rahim Yar Khan",
   "short_name": "זמני תפילה בעיר Rahim Yar Khan",
   "description": "זמני התפילה של היום בעיר Rahim Yar Khan, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rahim Yar Khan.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rahim-yar-khan.html",
+  "id": "/he/prayer-times-in-rahim-yar-khan.html",
   "start_url": "./prayer-times-in-rahim-yar-khan.html",
   "scope": "./prayer-times-in-rahim-yar-khan.html",
   "display": "standalone",

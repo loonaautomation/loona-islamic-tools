@@ -2,7 +2,7 @@
   "name": "Loona 巴勒斯坦 2027斋月时间表（1448）— Sehri &amp; Iftar时间",
   "short_name": "巴勒斯坦 2027斋月时间表（1448）— Sehri &amp; Iftar时间",
   "description": "巴勒斯坦的Ramadan 2027时间表：Ramadan 1448每一天的Sehri结束（Fajr）和Iftar（Maghrib）时间，为拉马拉计算。预计2027年2月8日至3月8日，取决于见月。",
-  "id": "/loona-islamic-tools/zh/ramadan-timetable-in-palestine.html",
+  "id": "/zh/ramadan-timetable-in-palestine.html",
   "start_url": "./ramadan-timetable-in-palestine.html",
   "scope": "./ramadan-timetable-in-palestine.html",
   "display": "standalone",

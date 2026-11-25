@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Punāsa",
   "short_name": "Gebedstijden in Punāsa",
   "description": "De gebedstijden van vandaag in Punāsa, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Punāsa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-punasa.html",
+  "id": "/nl/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

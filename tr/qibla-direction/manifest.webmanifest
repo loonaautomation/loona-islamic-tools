@@ -2,7 +2,7 @@
   "name": "Loona Kıble Yönü",
   "short_name": "Kıble Yönü",
   "description": "Herhangi bir şehirden veya tam konumunuzdan derece cinsinden Kıble yönünü bulun; canlı bir pusula kadranı ve Mekke'ye olan mesafe ile. Ücretsiz, doğru ve gizli.",
-  "id": "/loona-islamic-tools/tr/qibla-direction/",
+  "id": "/tr/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

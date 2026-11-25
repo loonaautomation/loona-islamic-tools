@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Batikent",
   "short_name": "Czasy modlitw w miejscowości Batikent",
   "description": "Dzisiejsze czasy modlitw w miejscowości Batikent, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Batikent.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-batikent.html",
+  "id": "/pl/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

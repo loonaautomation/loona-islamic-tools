@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Percut",
   "short_name": "זמני תפילה בעיר Percut",
   "description": "זמני התפילה של היום בעיר Percut, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Percut.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-percut.html",
+  "id": "/he/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

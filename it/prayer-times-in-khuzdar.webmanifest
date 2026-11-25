@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Khuzdar",
   "short_name": "Orari di preghiera a Khuzdar",
   "description": "Orari di preghiera di oggi a Khuzdar, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Khuzdar.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-khuzdar.html",
+  "id": "/it/prayer-times-in-khuzdar.html",
   "start_url": "./prayer-times-in-khuzdar.html",
   "scope": "./prayer-times-in-khuzdar.html",
   "display": "standalone",

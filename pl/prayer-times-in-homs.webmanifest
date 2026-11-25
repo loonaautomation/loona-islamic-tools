@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Homs",
   "short_name": "Czasy modlitw w miejscowości Homs",
   "description": "Dzisiejsze czasy modlitw w miejscowości Homs, kraj Syria: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Homs.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-homs.html",
+  "id": "/pl/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

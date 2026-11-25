@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Qina Today",
   "short_name": "Prayer Times in Qina Today",
   "description": "Today's prayer times in Qina, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Qina.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-qina.html",
+  "id": "/en-gb/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

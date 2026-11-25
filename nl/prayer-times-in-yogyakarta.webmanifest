@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Yogyakarta",
   "short_name": "Gebedstijden in Yogyakarta",
   "description": "De gebedstijden van vandaag in Yogyakarta, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Yogyakarta.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-yogyakarta.html",
+  "id": "/nl/prayer-times-in-yogyakarta.html",
   "start_url": "./prayer-times-in-yogyakarta.html",
   "scope": "./prayer-times-in-yogyakarta.html",
   "display": "standalone",

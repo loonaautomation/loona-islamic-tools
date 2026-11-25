@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bremen",
   "short_name": "مواقيت الصلاة في Bremen",
   "description": "مواقيت الصلاة اليوم في Bremen، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBremen.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bremen.html",
+  "id": "/ar/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

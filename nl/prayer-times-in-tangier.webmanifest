@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tangier",
   "short_name": "Gebedstijden in Tangier",
   "description": "De gebedstijden van vandaag in Tangier, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tangier.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tangier.html",
+  "id": "/nl/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

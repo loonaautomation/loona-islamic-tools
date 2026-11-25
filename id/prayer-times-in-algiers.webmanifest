@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Algiers",
   "short_name": "Waktu Salat di Algiers",
   "description": "Waktu salat hari ini di Algiers, Aljazair: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Algiers.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-algiers.html",
+  "id": "/id/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

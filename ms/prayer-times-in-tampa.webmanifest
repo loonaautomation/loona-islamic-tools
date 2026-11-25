@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Tampa",
   "short_name": "Waktu Solat di Tampa",
   "description": "Waktu solat hari ini di Tampa, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Tampa.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-tampa.html",
+  "id": "/ms/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

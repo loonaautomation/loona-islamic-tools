@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tarsus",
   "short_name": "เวลาละหมาดใน Tarsus",
   "description": "เวลาละหมาดวันนี้ใน Tarsus, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tarsus",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tarsus.html",
+  "id": "/th/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

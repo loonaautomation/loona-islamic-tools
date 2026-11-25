@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Luxor",
   "short_name": "Ώρες Προσευχής στο Luxor",
   "description": "Οι σημερινές ώρες προσευχής στο Luxor, Αίγυπτος: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Egyptian General Authority, υπολογίζονται ζωντανά στη συσκευή σας για το Luxor.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-luxor.html",
+  "id": "/el/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

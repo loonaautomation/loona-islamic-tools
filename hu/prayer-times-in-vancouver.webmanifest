@@ -2,7 +2,7 @@
   "name": "Loona Vancouver imaidői",
   "short_name": "Vancouver imaidői",
   "description": "A mai imaidők: Vancouver, Kanada: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Vancouver számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-vancouver.html",
+  "id": "/hu/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

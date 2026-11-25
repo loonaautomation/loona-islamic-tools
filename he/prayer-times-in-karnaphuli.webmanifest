@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Karnaphuli",
   "short_name": "זמני תפילה בעיר Karnaphuli",
   "description": "זמני התפילה של היום בעיר Karnaphuli, בנגלדש: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Karnaphuli.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-karnaphuli.html",
+  "id": "/he/prayer-times-in-karnaphuli.html",
   "start_url": "./prayer-times-in-karnaphuli.html",
   "scope": "./prayer-times-in-karnaphuli.html",
   "display": "standalone",

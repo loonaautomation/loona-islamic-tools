@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pematangsiantar",
   "short_name": "Vremena namaza u gradu Pematangsiantar",
   "description": "Današnja vremena namaza u gradu Pematangsiantar, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pematangsiantar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pematangsiantar.html",
+  "id": "/hr/prayer-times-in-pematangsiantar.html",
   "start_url": "./prayer-times-in-pematangsiantar.html",
   "scope": "./prayer-times-in-pematangsiantar.html",
   "display": "standalone",

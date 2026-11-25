@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Agra",
   "short_name": "Время намаза в городе Agra",
   "description": "Время намаза на сегодня: Agra, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Agra.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-agra.html",
+  "id": "/ru/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

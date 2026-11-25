@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Virginia Beach Today",
   "short_name": "Prayer Times in Virginia Beach Today",
   "description": "Today's prayer times in Virginia Beach, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Virginia Beach.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-virginia-beach.html",
+  "id": "/en-gb/prayer-times-in-virginia-beach.html",
   "start_url": "./prayer-times-in-virginia-beach.html",
   "scope": "./prayer-times-in-virginia-beach.html",
   "display": "standalone",

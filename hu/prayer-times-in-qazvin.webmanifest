@@ -2,7 +2,7 @@
   "name": "Loona Qazvin imaidői",
   "short_name": "Qazvin imaidői",
   "description": "A mai imaidők: Qazvin, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Qazvin számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-qazvin.html",
+  "id": "/hu/prayer-times-in-qazvin.html",
   "start_url": "./prayer-times-in-qazvin.html",
   "scope": "./prayer-times-in-qazvin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Manado imaidői",
   "short_name": "Manado imaidői",
   "description": "A mai imaidők: Manado, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Manado számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-manado.html",
+  "id": "/hu/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

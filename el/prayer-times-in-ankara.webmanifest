@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ankara",
   "short_name": "Ώρες Προσευχής στο Ankara",
   "description": "Οι σημερινές ώρες προσευχής στο Ankara, Τουρκία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Ankara.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ankara.html",
+  "id": "/el/prayer-times-in-ankara.html",
   "start_url": "./prayer-times-in-ankara.html",
   "scope": "./prayer-times-in-ankara.html",
   "display": "standalone",

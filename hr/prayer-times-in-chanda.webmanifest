@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Chānda",
   "short_name": "Vremena namaza u gradu Chānda",
   "description": "Današnja vremena namaza u gradu Chānda, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Chānda.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-chanda.html",
+  "id": "/hr/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

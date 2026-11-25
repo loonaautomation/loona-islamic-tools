@@ -2,7 +2,7 @@
   "name": "Loona Philadelphia imaidői",
   "short_name": "Philadelphia imaidői",
   "description": "A mai imaidők: Philadelphia, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Philadelphia számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-philadelphia.html",
+  "id": "/hu/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

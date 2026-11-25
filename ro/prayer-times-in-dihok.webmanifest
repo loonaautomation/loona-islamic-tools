@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Dihok",
   "short_name": "Ore de rugăciune în Dihok",
   "description": "Orele de rugăciune de azi în Dihok, Irak: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Dihok.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-dihok.html",
+  "id": "/ro/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

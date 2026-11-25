@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thuqbah",
   "short_name": "זמני תפילה בעיר Thuqbah",
   "description": "זמני התפילה של היום בעיר Thuqbah, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Thuqbah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thuqbah.html",
+  "id": "/he/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Colorado Springs",
   "short_name": "Часове за намаз в Colorado Springs",
   "description": "Днешните часове за намаз в Colorado Springs, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Colorado Springs.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-colorado-springs.html",
+  "id": "/bg/prayer-times-in-colorado-springs.html",
   "start_url": "./prayer-times-in-colorado-springs.html",
   "scope": "./prayer-times-in-colorado-springs.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Samsun",
   "short_name": "Bönetider i Samsun",
   "description": "Dagens bönetider i Samsun, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Samsun.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-samsun.html",
+  "id": "/sv/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

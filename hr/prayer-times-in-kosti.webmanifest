@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kosti",
   "short_name": "Vremena namaza u gradu Kosti",
   "description": "Današnja vremena namaza u gradu Kosti, Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kosti.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kosti.html",
+  "id": "/hr/prayer-times-in-kosti.html",
   "start_url": "./prayer-times-in-kosti.html",
   "scope": "./prayer-times-in-kosti.html",
   "display": "standalone",

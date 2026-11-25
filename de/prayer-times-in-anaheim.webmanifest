@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Anaheim",
   "short_name": "Gebetszeiten in Anaheim",
   "description": "Die heutigen Gebetszeiten in Anaheim, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Anaheim.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-anaheim.html",
+  "id": "/de/prayer-times-in-anaheim.html",
   "start_url": "./prayer-times-in-anaheim.html",
   "scope": "./prayer-times-in-anaheim.html",
   "display": "standalone",

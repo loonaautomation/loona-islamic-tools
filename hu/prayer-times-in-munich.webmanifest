@@ -2,7 +2,7 @@
   "name": "Loona Munich imaidői",
   "short_name": "Munich imaidői",
   "description": "A mai imaidők: Munich, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Munich számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-munich.html",
+  "id": "/hu/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

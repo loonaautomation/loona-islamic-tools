@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Dammam",
   "short_name": "Gebetszeiten in Dammam",
   "description": "Die heutigen Gebetszeiten in Dammam, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Dammam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-dammam.html",
+  "id": "/de/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

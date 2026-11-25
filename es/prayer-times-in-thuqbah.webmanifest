@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Thuqbah",
   "short_name": "Horarios de oración en Thuqbah",
   "description": "Horarios de oración de hoy en Thuqbah, Arabia Saudita: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método Umm al-Qura, calculado en vivo en tu dispositivo para Thuqbah.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-thuqbah.html",
+  "id": "/es/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

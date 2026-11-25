@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Najafābād",
   "short_name": "Vremena namaza u gradu Najafābād",
   "description": "Današnja vremena namaza u gradu Najafābād, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Najafābād.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-najafabad.html",
+  "id": "/hr/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

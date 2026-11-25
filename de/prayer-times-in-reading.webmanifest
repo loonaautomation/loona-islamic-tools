@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Reading",
   "short_name": "Gebetszeiten in Reading",
   "description": "Die heutigen Gebetszeiten in Reading, Vereinigtes Königreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Reading.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-reading.html",
+  "id": "/de/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Wandsbek",
   "short_name": "Orari di preghiera a Wandsbek",
   "description": "Orari di preghiera di oggi a Wandsbek, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Wandsbek.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-wandsbek.html",
+  "id": "/it/prayer-times-in-wandsbek.html",
   "start_url": "./prayer-times-in-wandsbek.html",
   "scope": "./prayer-times-in-wandsbek.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Oran",
   "short_name": "Waktu Salat di Oran",
   "description": "Waktu salat hari ini di Oran, Aljazair: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Oran.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-oran.html",
+  "id": "/id/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nawabshah",
   "short_name": "Vremena namaza u gradu Nawabshah",
   "description": "Današnja vremena namaza u gradu Nawabshah, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Nawabshah.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nawabshah.html",
+  "id": "/hr/prayer-times-in-nawabshah.html",
   "start_url": "./prayer-times-in-nawabshah.html",
   "scope": "./prayer-times-in-nawabshah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sfax",
   "short_name": "Gebedstijden in Sfax",
   "description": "De gebedstijden van vandaag in Sfax, Tunesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sfax.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sfax.html",
+  "id": "/nl/prayer-times-in-sfax.html",
   "start_url": "./prayer-times-in-sfax.html",
   "scope": "./prayer-times-in-sfax.html",
   "display": "standalone",

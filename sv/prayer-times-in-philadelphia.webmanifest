@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Philadelphia",
   "short_name": "Bönetider i Philadelphia",
   "description": "Dagens bönetider i Philadelphia, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Philadelphia.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-philadelphia.html",
+  "id": "/sv/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Fort Worth",
   "short_name": "Час намазу в Fort Worth",
   "description": "Сьогоднішній час намазу в Fort Worth, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Fort Worth.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-fort-worth.html",
+  "id": "/uk/prayer-times-in-fort-worth.html",
   "start_url": "./prayer-times-in-fort-worth.html",
   "scope": "./prayer-times-in-fort-worth.html",
   "display": "standalone",

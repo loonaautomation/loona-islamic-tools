@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Howrah",
   "short_name": "เวลาละหมาดใน Howrah",
   "description": "เวลาละหมาดวันนี้ใน Howrah, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Howrah",
-  "id": "/loona-islamic-tools/th/prayer-times-in-howrah.html",
+  "id": "/th/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

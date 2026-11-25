@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Fresno",
   "short_name": "Prayer Times in Fresno",
   "description": "Today's prayer times in Fresno, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Fresno.",
-  "id": "/loona-islamic-tools/prayer-times-in-fresno.html",
+  "id": "/prayer-times-in-fresno.html",
   "start_url": "./prayer-times-in-fresno.html",
   "scope": "./prayer-times-in-fresno.html",
   "display": "standalone",

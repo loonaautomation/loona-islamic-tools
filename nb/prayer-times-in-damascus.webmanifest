@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Damascus",
   "short_name": "Bønnetider i Damascus",
   "description": "Dagens bønnetider i Damascus, Syria: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Damascus.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-damascus.html",
+  "id": "/nb/prayer-times-in-damascus.html",
   "start_url": "./prayer-times-in-damascus.html",
   "scope": "./prayer-times-in-damascus.html",
   "display": "standalone",

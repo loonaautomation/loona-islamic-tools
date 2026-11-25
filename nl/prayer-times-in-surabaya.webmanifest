@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Surabaya",
   "short_name": "Gebedstijden in Surabaya",
   "description": "De gebedstijden van vandaag in Surabaya, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Surabaya.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-surabaya.html",
+  "id": "/nl/prayer-times-in-surabaya.html",
   "start_url": "./prayer-times-in-surabaya.html",
   "scope": "./prayer-times-in-surabaya.html",
   "display": "standalone",

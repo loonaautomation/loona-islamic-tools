@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Makkah",
   "short_name": "Giờ cầu nguyện tại Makkah",
   "description": "Giờ cầu nguyện hôm nay tại Makkah, Ả Rập Xê Út: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Makkah.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-makkah.html",
+  "id": "/vi/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

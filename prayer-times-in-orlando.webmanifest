@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Orlando",
   "short_name": "Prayer Times in Orlando",
   "description": "Today's prayer times in Orlando, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Orlando.",
-  "id": "/loona-islamic-tools/prayer-times-in-orlando.html",
+  "id": "/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

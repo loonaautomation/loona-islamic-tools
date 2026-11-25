@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Aden",
   "short_name": "Gebetszeiten in Aden",
   "description": "Die heutigen Gebetszeiten in Aden, Jemen: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Aden.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-aden.html",
+  "id": "/de/prayer-times-in-aden.html",
   "start_url": "./prayer-times-in-aden.html",
   "scope": "./prayer-times-in-aden.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Pekalongan",
   "short_name": "Orari di preghiera a Pekalongan",
   "description": "Orari di preghiera di oggi a Pekalongan, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Pekalongan.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-pekalongan.html",
+  "id": "/it/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

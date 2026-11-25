@@ -2,7 +2,7 @@
   "name": "Loona Patna的禮拜時間",
   "short_name": "Patna的禮拜時間",
   "description": "Patna（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Patna實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-patna.html",
+  "id": "/zh-hant/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

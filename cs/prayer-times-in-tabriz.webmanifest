@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tabriz",
   "short_name": "Časy modliteb v Tabriz",
   "description": "Dnešní časy modliteb v Tabriz, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Tabriz.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tabriz.html",
+  "id": "/cs/prayer-times-in-tabriz.html",
   "start_url": "./prayer-times-in-tabriz.html",
   "scope": "./prayer-times-in-tabriz.html",
   "display": "standalone",

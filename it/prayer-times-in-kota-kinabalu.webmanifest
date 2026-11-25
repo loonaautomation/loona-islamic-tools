@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kota Kinabalu",
   "short_name": "Orari di preghiera a Kota Kinabalu",
   "description": "Orari di preghiera di oggi a Kota Kinabalu, Malesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kota Kinabalu.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kota-kinabalu.html",
+  "id": "/it/prayer-times-in-kota-kinabalu.html",
   "start_url": "./prayer-times-in-kota-kinabalu.html",
   "scope": "./prayer-times-in-kota-kinabalu.html",
   "display": "standalone",

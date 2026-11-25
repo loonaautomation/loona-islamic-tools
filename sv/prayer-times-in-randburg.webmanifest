@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Randburg",
   "short_name": "Bönetider i Randburg",
   "description": "Dagens bönetider i Randburg, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Randburg.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-randburg.html",
+  "id": "/sv/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ramadi",
   "short_name": "Časy modliteb v Ramadi",
   "description": "Dnešní časy modliteb v Ramadi, Irák: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ramadi.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ramadi.html",
+  "id": "/cs/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pikine",
   "short_name": "Vremena namaza u gradu Pikine",
   "description": "Današnja vremena namaza u gradu Pikine, Senegal: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pikine.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pikine.html",
+  "id": "/hr/prayer-times-in-pikine.html",
   "start_url": "./prayer-times-in-pikine.html",
   "scope": "./prayer-times-in-pikine.html",
   "display": "standalone",

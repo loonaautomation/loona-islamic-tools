@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Welkom",
   "short_name": "เวลาละหมาดใน Welkom",
   "description": "เวลาละหมาดวันนี้ใน Welkom, South Africa: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Welkom",
-  "id": "/loona-islamic-tools/th/prayer-times-in-welkom.html",
+  "id": "/th/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

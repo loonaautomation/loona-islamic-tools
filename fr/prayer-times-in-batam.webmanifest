@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Batam",
   "short_name": "Heures de prière à Batam",
   "description": "Les heures de prière d’aujourd’hui à Batam, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Batam.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-batam.html",
+  "id": "/fr/prayer-times-in-batam.html",
   "start_url": "./prayer-times-in-batam.html",
   "scope": "./prayer-times-in-batam.html",
   "display": "standalone",

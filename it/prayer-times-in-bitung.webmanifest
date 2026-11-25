@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bitung",
   "short_name": "Orari di preghiera a Bitung",
   "description": "Orari di preghiera di oggi a Bitung, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bitung.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bitung.html",
+  "id": "/it/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

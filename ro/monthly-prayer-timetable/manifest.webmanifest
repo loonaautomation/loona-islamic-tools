@@ -2,7 +2,7 @@
   "name": "Loona Orar lunar al rugăciunilor",
   "short_name": "Orar lunar al rugăciunilor",
   "description": "Generează un orar lunar tipăribil al rugăciunilor pentru orice oraș: toate cele șase ore pentru întreaga lună, cu metoda ta de calcul și școala Asr, gratuit și privat.",
-  "id": "/loona-islamic-tools/ro/monthly-prayer-timetable/",
+  "id": "/ro/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

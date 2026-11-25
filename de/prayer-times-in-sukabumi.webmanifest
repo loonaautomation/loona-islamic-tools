@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sukabumi",
   "short_name": "Gebetszeiten in Sukabumi",
   "description": "Die heutigen Gebetszeiten in Sukabumi, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Sukabumi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sukabumi.html",
+  "id": "/de/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

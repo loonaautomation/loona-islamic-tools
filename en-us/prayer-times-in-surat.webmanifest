@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Surat Today",
   "short_name": "Prayer Times in Surat Today",
   "description": "Today's prayer times in Surat, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Surat.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-surat.html",
+  "id": "/en-us/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Punāsa",
   "short_name": "เวลาละหมาดใน Punāsa",
   "description": "เวลาละหมาดวันนี้ใน Punāsa, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Punāsa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-punasa.html",
+  "id": "/th/prayer-times-in-punasa.html",
   "start_url": "./prayer-times-in-punasa.html",
   "scope": "./prayer-times-in-punasa.html",
   "display": "standalone",

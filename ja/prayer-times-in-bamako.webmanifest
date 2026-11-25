@@ -2,7 +2,7 @@
   "name": "Loona Bamako の礼拝時刻",
   "short_name": "Bamako の礼拝時刻",
   "description": "Bamako（マリ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Bamako についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-bamako.html",
+  "id": "/ja/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

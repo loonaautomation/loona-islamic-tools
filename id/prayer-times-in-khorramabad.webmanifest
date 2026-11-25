@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Khorramabad",
   "short_name": "Waktu Salat di Khorramabad",
   "description": "Waktu salat hari ini di Khorramabad, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Khorramabad.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-khorramabad.html",
+  "id": "/id/prayer-times-in-khorramabad.html",
   "start_url": "./prayer-times-in-khorramabad.html",
   "scope": "./prayer-times-in-khorramabad.html",
   "display": "standalone",

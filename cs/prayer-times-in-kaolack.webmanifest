@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kaolack",
   "short_name": "Časy modliteb v Kaolack",
   "description": "Dnešní časy modliteb v Kaolack, Senegal: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Kaolack.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kaolack.html",
+  "id": "/cs/prayer-times-in-kaolack.html",
   "start_url": "./prayer-times-in-kaolack.html",
   "scope": "./prayer-times-in-kaolack.html",
   "display": "standalone",

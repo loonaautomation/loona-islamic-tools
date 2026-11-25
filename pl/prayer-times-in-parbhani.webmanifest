@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Parbhani",
   "short_name": "Czasy modlitw w miejscowości Parbhani",
   "description": "Dzisiejsze czasy modlitw w miejscowości Parbhani, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Parbhani.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-parbhani.html",
+  "id": "/pl/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

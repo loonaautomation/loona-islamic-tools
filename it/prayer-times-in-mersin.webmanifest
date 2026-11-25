@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mersin",
   "short_name": "Orari di preghiera a Mersin",
   "description": "Orari di preghiera di oggi a Mersin, Turchia: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Mersin.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mersin.html",
+  "id": "/it/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

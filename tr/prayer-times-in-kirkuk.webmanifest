@@ -2,7 +2,7 @@
   "name": "Loona Kirkuk Namaz Vakitleri",
   "short_name": "Kirkuk Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kirkuk, Irak: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kirkuk için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kirkuk.html",
+  "id": "/tr/prayer-times-in-kirkuk.html",
   "start_url": "./prayer-times-in-kirkuk.html",
   "scope": "./prayer-times-in-kirkuk.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Kurnool",
   "short_name": "Время намаза в городе Kurnool",
   "description": "Время намаза на сегодня: Kurnool, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Kurnool.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kurnool.html",
+  "id": "/ru/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Gwalior",
   "short_name": "Časy modlitieb v Gwalior",
   "description": "Dnešné časy modlitieb v Gwalior, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Gwalior.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-gwalior.html",
+  "id": "/sk/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

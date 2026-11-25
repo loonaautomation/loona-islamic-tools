@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Misratah",
   "short_name": "Časy modliteb v Misratah",
   "description": "Dnešní časy modliteb v Misratah, Libye: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Misratah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-misratah.html",
+  "id": "/cs/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

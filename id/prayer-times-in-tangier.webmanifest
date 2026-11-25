@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Tangier",
   "short_name": "Waktu Salat di Tangier",
   "description": "Waktu salat hari ini di Tangier, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Tangier.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tangier.html",
+  "id": "/id/prayer-times-in-tangier.html",
   "start_url": "./prayer-times-in-tangier.html",
   "scope": "./prayer-times-in-tangier.html",
   "display": "standalone",

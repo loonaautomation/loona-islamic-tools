@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ambattur",
   "short_name": "Bønnetider i Ambattur",
   "description": "Dagens bønnetider i Ambattur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Ambattur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-ambattur.html",
+  "id": "/da/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

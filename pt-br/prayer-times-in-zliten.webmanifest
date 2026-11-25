@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Zliten",
   "short_name": "Horários de Oração em Zliten",
   "description": "Horários de oração de hoje em Zliten, Líbia: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Zliten.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-zliten.html",
+  "id": "/pt-br/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

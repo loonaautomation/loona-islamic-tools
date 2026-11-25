@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Karaj",
   "short_name": "Waktu Solat di Karaj",
   "description": "Waktu solat hari ini di Karaj, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Karaj.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-karaj.html",
+  "id": "/ms/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

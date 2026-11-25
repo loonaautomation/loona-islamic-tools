@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Eslamshahr",
   "short_name": "Gebetszeiten in Eslamshahr",
   "description": "Die heutigen Gebetszeiten in Eslamshahr, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Eslamshahr.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-eslamshahr.html",
+  "id": "/de/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bristol",
   "short_name": "مواقيت الصلاة في Bristol",
   "description": "مواقيت الصلاة اليوم في Bristol، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBristol.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bristol.html",
+  "id": "/ar/prayer-times-in-bristol.html",
   "start_url": "./prayer-times-in-bristol.html",
   "scope": "./prayer-times-in-bristol.html",
   "display": "standalone",

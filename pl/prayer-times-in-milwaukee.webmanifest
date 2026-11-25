@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Milwaukee",
   "short_name": "Czasy modlitw w miejscowości Milwaukee",
   "description": "Dzisiejsze czasy modlitw w miejscowości Milwaukee, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości Milwaukee.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-milwaukee.html",
+  "id": "/pl/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

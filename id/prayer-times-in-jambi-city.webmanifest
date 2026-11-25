@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Jambi City",
   "short_name": "Waktu Salat di Jambi City",
   "description": "Waktu salat hari ini di Jambi City, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Jambi City.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-jambi-city.html",
+  "id": "/id/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

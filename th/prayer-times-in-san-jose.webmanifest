@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน San Jose",
   "short_name": "เวลาละหมาดใน San Jose",
   "description": "เวลาละหมาดวันนี้ใน San Jose, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ San Jose",
-  "id": "/loona-islamic-tools/th/prayer-times-in-san-jose.html",
+  "id": "/th/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

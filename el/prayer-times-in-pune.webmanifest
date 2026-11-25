@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pune",
   "short_name": "Ώρες Προσευχής στο Pune",
   "description": "Οι σημερινές ώρες προσευχής στο Pune, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Pune.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pune.html",
+  "id": "/el/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Manama",
   "short_name": "זמני תפילה בעיר Manama",
   "description": "זמני התפילה של היום בעיר Manama, בחריין: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Manama.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-manama.html",
+  "id": "/he/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

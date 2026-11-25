@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nantes",
   "short_name": "Waktu Solat di Nantes",
   "description": "Waktu solat hari ini di Nantes, Perancis: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Nantes.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nantes.html",
+  "id": "/ms/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

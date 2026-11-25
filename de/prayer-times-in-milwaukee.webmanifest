@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Milwaukee",
   "short_name": "Gebetszeiten in Milwaukee",
   "description": "Die heutigen Gebetszeiten in Milwaukee, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Milwaukee.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-milwaukee.html",
+  "id": "/de/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

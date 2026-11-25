@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Malacca",
   "short_name": "Časy modlitieb v Malacca",
   "description": "Dnešné časy modlitieb v Malacca, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Malacca.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-malacca.html",
+  "id": "/sk/prayer-times-in-malacca.html",
   "start_url": "./prayer-times-in-malacca.html",
   "scope": "./prayer-times-in-malacca.html",
   "display": "standalone",

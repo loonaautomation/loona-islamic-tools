@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Cairo",
   "short_name": "Ore de rugăciune în Cairo",
   "description": "Orele de rugăciune de azi în Cairo, Egipt: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Cairo.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-cairo.html",
+  "id": "/ro/prayer-times-in-cairo.html",
   "start_url": "./prayer-times-in-cairo.html",
   "scope": "./prayer-times-in-cairo.html",
   "display": "standalone",

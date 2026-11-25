@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Al Hufūf",
   "short_name": "Gebetszeiten in Al Hufūf",
   "description": "Die heutigen Gebetszeiten in Al Hufūf, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Al Hufūf.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-al-hufuf.html",
+  "id": "/de/prayer-times-in-al-hufuf.html",
   "start_url": "./prayer-times-in-al-hufuf.html",
   "scope": "./prayer-times-in-al-hufuf.html",
   "display": "standalone",

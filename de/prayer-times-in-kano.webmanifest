@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kano",
   "short_name": "Gebetszeiten in Kano",
   "description": "Die heutigen Gebetszeiten in Kano, Nigeria: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kano.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kano.html",
+  "id": "/de/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

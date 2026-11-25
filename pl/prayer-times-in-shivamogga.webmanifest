@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Shivamogga",
   "short_name": "Czasy modlitw w miejscowości Shivamogga",
   "description": "Dzisiejsze czasy modlitw w miejscowości Shivamogga, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Shivamogga.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-shivamogga.html",
+  "id": "/pl/prayer-times-in-shivamogga.html",
   "start_url": "./prayer-times-in-shivamogga.html",
   "scope": "./prayer-times-in-shivamogga.html",
   "display": "standalone",

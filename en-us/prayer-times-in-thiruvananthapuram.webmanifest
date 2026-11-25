@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Thiruvananthapuram Today",
   "short_name": "Prayer Times in Thiruvananthapuram Today",
   "description": "Today's prayer times in Thiruvananthapuram, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Thiruvananthapuram.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-thiruvananthapuram.html",
+  "id": "/en-us/prayer-times-in-thiruvananthapuram.html",
   "start_url": "./prayer-times-in-thiruvananthapuram.html",
   "scope": "./prayer-times-in-thiruvananthapuram.html",
   "display": "standalone",

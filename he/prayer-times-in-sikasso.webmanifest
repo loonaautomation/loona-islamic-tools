@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sikasso",
   "short_name": "זמני תפילה בעיר Sikasso",
   "description": "זמני התפילה של היום בעיר Sikasso, מאלי: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sikasso.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-sikasso.html",
+  "id": "/he/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bhopal",
   "short_name": "Bönetider i Bhopal",
   "description": "Dagens bönetider i Bhopal, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Bhopal.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bhopal.html",
+  "id": "/sv/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

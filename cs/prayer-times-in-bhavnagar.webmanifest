@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Bhavnagar",
   "short_name": "Časy modliteb v Bhavnagar",
   "description": "Dnešní časy modliteb v Bhavnagar, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Bhavnagar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-bhavnagar.html",
+  "id": "/cs/prayer-times-in-bhavnagar.html",
   "start_url": "./prayer-times-in-bhavnagar.html",
   "scope": "./prayer-times-in-bhavnagar.html",
   "display": "standalone",

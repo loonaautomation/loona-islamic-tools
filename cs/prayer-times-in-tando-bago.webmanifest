@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tando Bago",
   "short_name": "Časy modliteb v Tando Bago",
   "description": "Dnešní časy modliteb v Tando Bago, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Tando Bago.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tando-bago.html",
+  "id": "/cs/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

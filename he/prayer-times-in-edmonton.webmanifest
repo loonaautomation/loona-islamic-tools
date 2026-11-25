@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Edmonton",
   "short_name": "זמני תפילה בעיר Edmonton",
   "description": "זמני התפילה של היום בעיר Edmonton, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Edmonton.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-edmonton.html",
+  "id": "/he/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

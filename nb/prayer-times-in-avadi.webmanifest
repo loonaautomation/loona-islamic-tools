@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Avadi",
   "short_name": "Bønnetider i Avadi",
   "description": "Dagens bønnetider i Avadi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Avadi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-avadi.html",
+  "id": "/nb/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

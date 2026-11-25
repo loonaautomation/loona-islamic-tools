@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nowrangapur",
   "short_name": "Vremena namaza u gradu Nowrangapur",
   "description": "Današnja vremena namaza u gradu Nowrangapur, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Nowrangapur.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nowrangapur.html",
+  "id": "/hr/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

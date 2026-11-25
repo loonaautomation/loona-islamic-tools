@@ -2,7 +2,7 @@
   "name": "Loona Shymkent Namaz Vakitleri",
   "short_name": "Shymkent Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Shymkent, Kazakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Shymkent için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-shymkent.html",
+  "id": "/tr/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

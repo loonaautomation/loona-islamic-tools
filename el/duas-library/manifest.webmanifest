@@ -2,7 +2,7 @@
   "name": "Loona Βιβλιοθήκη Ντουά",
   "short_name": "Βιβλιοθήκη Ντουά",
   "description": "Μια βιβλιοθήκη αυθεντικών ντουά για κάθε στιγμή — πρωί, φαγητό, ταξίδι, σπίτι, άγχος, συγχώρεση — η καθεμία με αραβικό κείμενο, μεταγραφή, μετάφραση και πηγή.",
-  "id": "/loona-islamic-tools/el/duas-library/",
+  "id": "/el/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

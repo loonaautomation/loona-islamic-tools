@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Aswān",
   "short_name": "Časy modliteb v Aswān",
   "description": "Dnešní časy modliteb v Aswān, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Aswān.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-aswan.html",
+  "id": "/cs/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

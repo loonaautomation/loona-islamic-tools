@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Singapore",
   "short_name": "مواقيت الصلاة في Singapore",
   "description": "مواقيت الصلاة اليوم في Singapore، سنغافورة: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSingapore.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-singapore.html",
+  "id": "/ar/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

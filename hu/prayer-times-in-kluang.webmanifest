@@ -2,7 +2,7 @@
   "name": "Loona Kluang imaidői",
   "short_name": "Kluang imaidői",
   "description": "A mai imaidők: Kluang, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kluang számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kluang.html",
+  "id": "/hu/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

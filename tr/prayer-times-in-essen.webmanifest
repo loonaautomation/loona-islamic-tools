@@ -2,7 +2,7 @@
   "name": "Loona Essen Namaz Vakitleri",
   "short_name": "Essen Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Essen, Almanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Essen için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-essen.html",
+  "id": "/tr/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

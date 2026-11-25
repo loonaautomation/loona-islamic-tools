@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Perth",
   "short_name": "Rukousajat: Perth",
   "description": "Tämän päivän rukousajat paikassa Perth, Australia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Perth.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-perth.html",
+  "id": "/fi/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

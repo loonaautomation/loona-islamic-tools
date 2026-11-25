@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thembisa",
   "short_name": "זמני תפילה בעיר Thembisa",
   "description": "זמני התפילה של היום בעיר Thembisa, דרום אפריקה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Thembisa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thembisa.html",
+  "id": "/he/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

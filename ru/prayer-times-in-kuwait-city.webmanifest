@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в Кувейте",
   "short_name": "Время намаза в Кувейте",
   "description": "Сегодняшнее время намазов в городе Кувейт, Кувейт: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по хиджре. Метод Karachi, рассчитывается в реальном времени на вашем устройстве для города Кувейт.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-kuwait-city.html",
+  "id": "/ru/prayer-times-in-kuwait-city.html",
   "start_url": "./prayer-times-in-kuwait-city.html",
   "scope": "./prayer-times-in-kuwait-city.html",
   "display": "standalone",

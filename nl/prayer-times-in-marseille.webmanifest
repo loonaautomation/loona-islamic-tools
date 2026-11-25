@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Marseille",
   "short_name": "Gebedstijden in Marseille",
   "description": "De gebedstijden van vandaag in Marseille, Frankrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Marseille.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-marseille.html",
+  "id": "/nl/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

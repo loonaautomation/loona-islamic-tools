@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Muzaffarnagar",
   "short_name": "Ώρες Προσευχής στο Muzaffarnagar",
   "description": "Οι σημερινές ώρες προσευχής στο Muzaffarnagar, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Muzaffarnagar.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-muzaffarnagar.html",
+  "id": "/el/prayer-times-in-muzaffarnagar.html",
   "start_url": "./prayer-times-in-muzaffarnagar.html",
   "scope": "./prayer-times-in-muzaffarnagar.html",
   "display": "standalone",

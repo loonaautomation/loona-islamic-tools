@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Qarchak",
   "short_name": "Часове за намаз в Qarchak",
   "description": "Днешните часове за намаз в Qarchak, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Qarchak.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-qarchak.html",
+  "id": "/bg/prayer-times-in-qarchak.html",
   "start_url": "./prayer-times-in-qarchak.html",
   "scope": "./prayer-times-in-qarchak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kadapa",
   "short_name": "Gebetszeiten in Kadapa",
   "description": "Die heutigen Gebetszeiten in Kadapa, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Kadapa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kadapa.html",
+  "id": "/de/prayer-times-in-kadapa.html",
   "start_url": "./prayer-times-in-kadapa.html",
   "scope": "./prayer-times-in-kadapa.html",
   "display": "standalone",

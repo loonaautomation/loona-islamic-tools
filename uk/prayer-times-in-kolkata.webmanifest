@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kolkata",
   "short_name": "Час намазу в Kolkata",
   "description": "Сьогоднішній час намазу в Kolkata, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kolkata.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kolkata.html",
+  "id": "/uk/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

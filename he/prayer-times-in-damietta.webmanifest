@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Damietta",
   "short_name": "זמני תפילה בעיר Damietta",
   "description": "זמני התפילה של היום בעיר Damietta, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Damietta.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-damietta.html",
+  "id": "/he/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

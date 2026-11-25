@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mathura",
   "short_name": "Časy modliteb v Mathura",
   "description": "Dnešní časy modliteb v Mathura, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Mathura.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mathura.html",
+  "id": "/cs/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

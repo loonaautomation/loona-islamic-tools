@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Hafizabad",
   "short_name": "Prayer Times in Hafizabad",
   "description": "Today's prayer times in Hafizabad, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Hafizabad.",
-  "id": "/loona-islamic-tools/prayer-times-in-hafizabad.html",
+  "id": "/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

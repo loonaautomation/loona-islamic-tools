@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sylhet Today",
   "short_name": "Prayer Times in Sylhet Today",
   "description": "Today's prayer times in Sylhet, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Sylhet.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-sylhet.html",
+  "id": "/en-us/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

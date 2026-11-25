@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Thrissur",
   "short_name": "Bønnetider i Thrissur",
   "description": "Dagens bønnetider i Thrissur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Thrissur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-thrissur.html",
+  "id": "/nb/prayer-times-in-thrissur.html",
   "start_url": "./prayer-times-in-thrissur.html",
   "scope": "./prayer-times-in-thrissur.html",
   "display": "standalone",

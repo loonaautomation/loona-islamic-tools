@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Palu",
   "short_name": "Ore de rugăciune în Palu",
   "description": "Orele de rugăciune de azi în Palu, Indonezia: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Palu.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-palu.html",
+  "id": "/ro/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

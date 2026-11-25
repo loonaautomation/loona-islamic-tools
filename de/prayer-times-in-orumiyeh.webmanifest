@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Orūmīyeh",
   "short_name": "Gebetszeiten in Orūmīyeh",
   "description": "Die heutigen Gebetszeiten in Orūmīyeh, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Orūmīyeh.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-orumiyeh.html",
+  "id": "/de/prayer-times-in-orumiyeh.html",
   "start_url": "./prayer-times-in-orumiyeh.html",
   "scope": "./prayer-times-in-orumiyeh.html",
   "display": "standalone",

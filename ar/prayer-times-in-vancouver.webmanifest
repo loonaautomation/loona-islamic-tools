@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Vancouver",
   "short_name": "مواقيت الصلاة في Vancouver",
   "description": "مواقيت الصلاة اليوم في Vancouver، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـVancouver.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-vancouver.html",
+  "id": "/ar/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Sorong",
   "short_name": "Časy modliteb v Sorong",
   "description": "Dnešní časy modliteb v Sorong, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Sorong.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-sorong.html",
+  "id": "/cs/prayer-times-in-sorong.html",
   "start_url": "./prayer-times-in-sorong.html",
   "scope": "./prayer-times-in-sorong.html",
   "display": "standalone",

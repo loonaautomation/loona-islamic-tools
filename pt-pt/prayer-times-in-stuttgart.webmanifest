@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Stuttgart",
   "short_name": "Horários de Oração em Stuttgart",
   "description": "Horários de oração de hoje em Stuttgart, Alemanha: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Stuttgart.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-stuttgart.html",
+  "id": "/pt-pt/prayer-times-in-stuttgart.html",
   "start_url": "./prayer-times-in-stuttgart.html",
   "scope": "./prayer-times-in-stuttgart.html",
   "display": "standalone",

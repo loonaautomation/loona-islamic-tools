@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Orlando",
   "short_name": "Waktu Solat di Orlando",
   "description": "Waktu solat hari ini di Orlando, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Orlando.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-orlando.html",
+  "id": "/ms/prayer-times-in-orlando.html",
   "start_url": "./prayer-times-in-orlando.html",
   "scope": "./prayer-times-in-orlando.html",
   "display": "standalone",

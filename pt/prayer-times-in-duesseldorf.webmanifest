@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Düsseldorf",
   "short_name": "Horários de Oração em Düsseldorf",
   "description": "Horários de oração de hoje em Düsseldorf, Alemanha: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Düsseldorf.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-duesseldorf.html",
+  "id": "/pt/prayer-times-in-duesseldorf.html",
   "start_url": "./prayer-times-in-duesseldorf.html",
   "scope": "./prayer-times-in-duesseldorf.html",
   "display": "standalone",

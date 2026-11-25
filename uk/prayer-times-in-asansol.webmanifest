@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Āsansol",
   "short_name": "Час намазу в Āsansol",
   "description": "Сьогоднішній час намазу в Āsansol, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Āsansol.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-asansol.html",
+  "id": "/uk/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

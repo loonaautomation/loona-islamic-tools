@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Banjarmasin",
   "short_name": "Gebetszeiten in Banjarmasin",
   "description": "Die heutigen Gebetszeiten in Banjarmasin, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Banjarmasin.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-banjarmasin.html",
+  "id": "/de/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

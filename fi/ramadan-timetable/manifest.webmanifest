@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-aikataulu",
   "short_name": "Ramadan-aikataulu",
   "description": "Täysi Ramadan-aikataulu mille tahansa kaupungille ja hijri-vuodelle: Sehrin päättymis- ja Iftar-ajat Ramadanin jokaiselle päivälle gregoriaanisilla päivämäärillä ja paaston kestolla. Ilmainen, tulostettava.",
-  "id": "/loona-islamic-tools/fi/ramadan-timetable/",
+  "id": "/fi/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

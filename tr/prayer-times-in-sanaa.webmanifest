@@ -2,7 +2,7 @@
   "name": "Loona Sanaa Namaz Vakitleri",
   "short_name": "Sanaa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sanaa, Yemen: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sanaa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sanaa.html",
+  "id": "/tr/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

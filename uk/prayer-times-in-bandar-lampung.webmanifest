@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bandar Lampung",
   "short_name": "Час намазу в Bandar Lampung",
   "description": "Сьогоднішній час намазу в Bandar Lampung, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bandar Lampung.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bandar-lampung.html",
+  "id": "/uk/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

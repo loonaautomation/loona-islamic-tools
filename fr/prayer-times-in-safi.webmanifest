@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Safi",
   "short_name": "Heures de prière à Safi",
   "description": "Les heures de prière d’aujourd’hui à Safi, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Safi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-safi.html",
+  "id": "/fr/prayer-times-in-safi.html",
   "start_url": "./prayer-times-in-safi.html",
   "scope": "./prayer-times-in-safi.html",
   "display": "standalone",

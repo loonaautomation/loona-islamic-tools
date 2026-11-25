@@ -2,7 +2,7 @@
   "name": "Loona Moroni imaidői",
   "short_name": "Moroni imaidői",
   "description": "A mai imaidők: Moroni, Comore-szigetek: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Moroni számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-moroni.html",
+  "id": "/hu/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Surakarta",
   "short_name": "Bönetider i Surakarta",
   "description": "Dagens bönetider i Surakarta, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Surakarta.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-surakarta.html",
+  "id": "/sv/prayer-times-in-surakarta.html",
   "start_url": "./prayer-times-in-surakarta.html",
   "scope": "./prayer-times-in-surakarta.html",
   "display": "standalone",

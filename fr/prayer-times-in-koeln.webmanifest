@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Köln",
   "short_name": "Heures de prière à Köln",
   "description": "Les heures de prière d’aujourd’hui à Köln, Allemagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Köln.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-koeln.html",
+  "id": "/fr/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

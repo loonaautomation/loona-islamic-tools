@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Diepsloot",
   "short_name": "Bönetider i Diepsloot",
   "description": "Dagens bönetider i Diepsloot, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Diepsloot.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-diepsloot.html",
+  "id": "/sv/prayer-times-in-diepsloot.html",
   "start_url": "./prayer-times-in-diepsloot.html",
   "scope": "./prayer-times-in-diepsloot.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ar Raqqah",
   "short_name": "Waktu Salat di Ar Raqqah",
   "description": "Waktu salat hari ini di Ar Raqqah, Suriah: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ar Raqqah.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-ar-raqqah.html",
+  "id": "/id/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

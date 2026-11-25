@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Niamey",
   "short_name": "Heures de prière à Niamey",
   "description": "Les heures de prière d’aujourd’hui à Niamey, Niger : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Niamey.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-niamey.html",
+  "id": "/fr/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

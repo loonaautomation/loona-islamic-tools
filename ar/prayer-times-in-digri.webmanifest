@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Digri",
   "short_name": "مواقيت الصلاة في Digri",
   "description": "مواقيت الصلاة اليوم في Digri، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـDigri.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-digri.html",
+  "id": "/ar/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

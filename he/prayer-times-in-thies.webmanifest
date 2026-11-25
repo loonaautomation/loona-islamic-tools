@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Thiès",
   "short_name": "זמני תפילה בעיר Thiès",
   "description": "זמני התפילה של היום בעיר Thiès, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Thiès.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-thies.html",
+  "id": "/he/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

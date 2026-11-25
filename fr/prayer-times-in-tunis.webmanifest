@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Tunis",
   "short_name": "Heures de prière à Tunis",
   "description": "Les heures de prière d’aujourd’hui à Tunis, Tunisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Tunis.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-tunis.html",
+  "id": "/fr/prayer-times-in-tunis.html",
   "start_url": "./prayer-times-in-tunis.html",
   "scope": "./prayer-times-in-tunis.html",
   "display": "standalone",

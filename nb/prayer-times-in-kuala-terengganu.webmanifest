@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kuala Terengganu",
   "short_name": "Bønnetider i Kuala Terengganu",
   "description": "Dagens bønnetider i Kuala Terengganu, Malaysia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Kuala Terengganu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kuala-terengganu.html",
+  "id": "/nb/prayer-times-in-kuala-terengganu.html",
   "start_url": "./prayer-times-in-kuala-terengganu.html",
   "scope": "./prayer-times-in-kuala-terengganu.html",
   "display": "standalone",

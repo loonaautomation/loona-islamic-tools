@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Belfast",
   "short_name": "Prayer Times in Belfast",
   "description": "Today's prayer times in Belfast, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Belfast.",
-  "id": "/loona-islamic-tools/prayer-times-in-belfast.html",
+  "id": "/prayer-times-in-belfast.html",
   "start_url": "./prayer-times-in-belfast.html",
   "scope": "./prayer-times-in-belfast.html",
   "display": "standalone",

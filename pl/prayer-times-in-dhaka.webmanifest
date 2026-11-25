@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dhaka",
   "short_name": "Czasy modlitw w miejscowości Dhaka",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dhaka, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Dhaka.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dhaka.html",
+  "id": "/pl/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

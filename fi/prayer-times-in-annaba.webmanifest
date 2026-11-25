@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Annaba",
   "short_name": "Rukousajat: Annaba",
   "description": "Tämän päivän rukousajat paikassa Annaba, Algeria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Annaba.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-annaba.html",
+  "id": "/fi/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

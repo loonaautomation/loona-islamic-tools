@@ -2,7 +2,7 @@
   "name": "Loona El Fasher imaidői",
   "short_name": "El Fasher imaidői",
   "description": "A mai imaidők: El Fasher, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén El Fasher számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-el-fasher.html",
+  "id": "/hu/prayer-times-in-el-fasher.html",
   "start_url": "./prayer-times-in-el-fasher.html",
   "scope": "./prayer-times-in-el-fasher.html",
   "display": "standalone",

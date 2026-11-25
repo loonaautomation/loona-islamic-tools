@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Raleigh",
   "short_name": "Časy modliteb v Raleigh",
   "description": "Dnešní časy modliteb v Raleigh, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Raleigh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-raleigh.html",
+  "id": "/cs/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

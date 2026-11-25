@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dresden",
   "short_name": "Bønnetider i Dresden",
   "description": "Dagens bønnetider i Dresden, Tyskland: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Dresden.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dresden.html",
+  "id": "/nb/prayer-times-in-dresden.html",
   "start_url": "./prayer-times-in-dresden.html",
   "scope": "./prayer-times-in-dresden.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jalandhar",
   "short_name": "Časy modliteb v Jalandhar",
   "description": "Dnešní časy modliteb v Jalandhar, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Jalandhar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jalandhar.html",
+  "id": "/cs/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

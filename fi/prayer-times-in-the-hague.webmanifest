@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: The Hague",
   "short_name": "Rukousajat: The Hague",
   "description": "Tämän päivän rukousajat paikassa The Hague, Alankomaat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle The Hague.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-the-hague.html",
+  "id": "/fi/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

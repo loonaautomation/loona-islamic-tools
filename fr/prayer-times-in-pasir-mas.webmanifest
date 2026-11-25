@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pasir Mas",
   "short_name": "Heures de prière à Pasir Mas",
   "description": "Les heures de prière d’aujourd’hui à Pasir Mas, Malaisie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Pasir Mas.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pasir-mas.html",
+  "id": "/fr/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

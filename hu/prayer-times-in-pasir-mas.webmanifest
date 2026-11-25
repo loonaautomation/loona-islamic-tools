@@ -2,7 +2,7 @@
   "name": "Loona Pasir Mas imaidői",
   "short_name": "Pasir Mas imaidői",
   "description": "A mai imaidők: Pasir Mas, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Pasir Mas számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-pasir-mas.html",
+  "id": "/hu/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

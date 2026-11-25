@@ -2,7 +2,7 @@
   "name": "Loona Manisa Namaz Vakitleri",
   "short_name": "Manisa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Manisa, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Manisa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-manisa.html",
+  "id": "/tr/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

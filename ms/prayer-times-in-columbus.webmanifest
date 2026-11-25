@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Columbus",
   "short_name": "Waktu Solat di Columbus",
   "description": "Waktu solat hari ini di Columbus, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Columbus.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-columbus.html",
+  "id": "/ms/prayer-times-in-columbus.html",
   "start_url": "./prayer-times-in-columbus.html",
   "scope": "./prayer-times-in-columbus.html",
   "display": "standalone",

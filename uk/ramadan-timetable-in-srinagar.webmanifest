@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Srinagar 2027 (1448)",
   "short_name": "Розклад Рамадану в Srinagar 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Srinagar, Індія: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-srinagar.html",
+  "id": "/uk/ramadan-timetable-in-srinagar.html",
   "start_url": "./ramadan-timetable-in-srinagar.html",
   "scope": "./ramadan-timetable-in-srinagar.html",
   "display": "standalone",

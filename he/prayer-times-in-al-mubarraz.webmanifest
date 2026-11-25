@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al Mubarraz",
   "short_name": "זמני תפילה בעיר Al Mubarraz",
   "description": "זמני התפילה של היום בעיר Al Mubarraz, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Al Mubarraz.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-mubarraz.html",
+  "id": "/he/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

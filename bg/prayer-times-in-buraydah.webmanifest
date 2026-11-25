@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Buraydah",
   "short_name": "Часове за намаз в Buraydah",
   "description": "Днешните часове за намаз в Buraydah, Саудитска Арабия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Buraydah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-buraydah.html",
+  "id": "/bg/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

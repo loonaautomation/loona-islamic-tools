@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Cleveland",
   "short_name": "Časy modlitieb v Cleveland",
   "description": "Dnešné časy modlitieb v Cleveland, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Cleveland.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-cleveland.html",
+  "id": "/sk/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

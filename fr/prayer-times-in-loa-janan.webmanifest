@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Loa Janan",
   "short_name": "Heures de prière à Loa Janan",
   "description": "Les heures de prière d’aujourd’hui à Loa Janan, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Loa Janan.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-loa-janan.html",
+  "id": "/fr/prayer-times-in-loa-janan.html",
   "start_url": "./prayer-times-in-loa-janan.html",
   "scope": "./prayer-times-in-loa-janan.html",
   "display": "standalone",

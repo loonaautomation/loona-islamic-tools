@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Borivli",
   "short_name": "Prayer Times in Borivli",
   "description": "Today's prayer times in Borivli, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Borivli.",
-  "id": "/loona-islamic-tools/prayer-times-in-borivli.html",
+  "id": "/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

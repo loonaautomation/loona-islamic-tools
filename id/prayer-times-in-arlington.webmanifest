@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Arlington",
   "short_name": "Waktu Salat di Arlington",
   "description": "Waktu salat hari ini di Arlington, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Arlington.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-arlington.html",
+  "id": "/id/prayer-times-in-arlington.html",
   "start_url": "./prayer-times-in-arlington.html",
   "scope": "./prayer-times-in-arlington.html",
   "display": "standalone",

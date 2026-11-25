@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Tanta",
   "short_name": "Časy modlitieb v Tanta",
   "description": "Dnešné časy modlitieb v Tanta, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Tanta.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-tanta.html",
+  "id": "/sk/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

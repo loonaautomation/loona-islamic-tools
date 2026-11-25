@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Cilegon",
   "short_name": "Часове за намаз в Cilegon",
   "description": "Днешните часове за намаз в Cilegon, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Cilegon.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-cilegon.html",
+  "id": "/bg/prayer-times-in-cilegon.html",
   "start_url": "./prayer-times-in-cilegon.html",
   "scope": "./prayer-times-in-cilegon.html",
   "display": "standalone",

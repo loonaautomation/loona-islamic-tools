@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Tarsus",
   "short_name": "Ore de rugăciune în Tarsus",
   "description": "Orele de rugăciune de azi în Tarsus, Turcia: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Tarsus.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-tarsus.html",
+  "id": "/ro/prayer-times-in-tarsus.html",
   "start_url": "./prayer-times-in-tarsus.html",
   "scope": "./prayer-times-in-tarsus.html",
   "display": "standalone",

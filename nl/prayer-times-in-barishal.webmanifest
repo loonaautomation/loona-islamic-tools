@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Barishal",
   "short_name": "Gebedstijden in Barishal",
   "description": "De gebedstijden van vandaag in Barishal, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Barishal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-barishal.html",
+  "id": "/nl/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

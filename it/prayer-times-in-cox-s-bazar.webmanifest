@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Cox’s Bāzār",
   "short_name": "Orari di preghiera a Cox’s Bāzār",
   "description": "Orari di preghiera di oggi a Cox’s Bāzār, Bangladesh: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-cox-s-bazar.html",
+  "id": "/it/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

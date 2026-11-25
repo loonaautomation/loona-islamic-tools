@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Palma",
   "short_name": "זמני תפילה בעיר Palma",
   "description": "זמני התפילה של היום בעיר Palma, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Palma.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-palma.html",
+  "id": "/he/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

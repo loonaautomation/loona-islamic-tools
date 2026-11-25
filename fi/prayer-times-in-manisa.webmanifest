@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Manisa",
   "short_name": "Rukousajat: Manisa",
   "description": "Tämän päivän rukousajat paikassa Manisa, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Manisa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-manisa.html",
+  "id": "/fi/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

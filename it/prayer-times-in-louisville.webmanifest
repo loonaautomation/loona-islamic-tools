@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Louisville",
   "short_name": "Orari di preghiera a Louisville",
   "description": "Orari di preghiera di oggi a Louisville, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Louisville.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-louisville.html",
+  "id": "/it/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

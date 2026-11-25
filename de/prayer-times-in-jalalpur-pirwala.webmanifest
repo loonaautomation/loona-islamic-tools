@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jalalpur Pirwala",
   "short_name": "Gebetszeiten in Jalalpur Pirwala",
   "description": "Die heutigen Gebetszeiten in Jalalpur Pirwala, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jalalpur Pirwala.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jalalpur-pirwala.html",
+  "id": "/de/prayer-times-in-jalalpur-pirwala.html",
   "start_url": "./prayer-times-in-jalalpur-pirwala.html",
   "scope": "./prayer-times-in-jalalpur-pirwala.html",
   "display": "standalone",

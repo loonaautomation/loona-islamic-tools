@@ -2,7 +2,7 @@
   "name": "Loona Ramadan-Zeitplan",
   "short_name": "Ramadan-Zeitplan",
   "description": "Vollständiger Ramadan-Zeitplan für jede Stadt und jedes Hidschri-Jahr: Sehri-Ende und Iftar-Zeiten für jeden Tag des Ramadan mit gregorianischen Daten und Fastendauer. Kostenlos, ausdruckbar.",
-  "id": "/loona-islamic-tools/de/ramadan-timetable/",
+  "id": "/de/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

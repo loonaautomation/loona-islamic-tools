@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Shyamnagar",
   "short_name": "Waktu Solat di Shyamnagar",
   "description": "Waktu solat hari ini di Shyamnagar, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Shyamnagar.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-shyamnagar.html",
+  "id": "/ms/prayer-times-in-shyamnagar.html",
   "start_url": "./prayer-times-in-shyamnagar.html",
   "scope": "./prayer-times-in-shyamnagar.html",
   "display": "standalone",

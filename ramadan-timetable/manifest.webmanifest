@@ -2,7 +2,7 @@
   "name": "Loona Ramadan Timetable",
   "short_name": "Ramadan Timetable",
   "description": "Full Ramadan timetable for any city and Hijri year: Sehri end and Iftar times for every day of Ramadan with Gregorian dates and fast duration. Free, printable.",
-  "id": "/loona-islamic-tools/ramadan-timetable/",
+  "id": "/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

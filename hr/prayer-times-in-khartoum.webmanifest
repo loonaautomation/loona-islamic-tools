@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Khartoum",
   "short_name": "Vremena namaza u gradu Khartoum",
   "description": "Današnja vremena namaza u gradu Khartoum, Sudan: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Khartoum.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-khartoum.html",
+  "id": "/hr/prayer-times-in-khartoum.html",
   "start_url": "./prayer-times-in-khartoum.html",
   "scope": "./prayer-times-in-khartoum.html",
   "display": "standalone",

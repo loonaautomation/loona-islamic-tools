@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Surat",
   "short_name": "Часове за намаз в Surat",
   "description": "Днешните часове за намаз в Surat, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Surat.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-surat.html",
+  "id": "/bg/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

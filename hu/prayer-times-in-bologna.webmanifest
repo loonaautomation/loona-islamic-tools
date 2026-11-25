@@ -2,7 +2,7 @@
   "name": "Loona Bologna imaidői",
   "short_name": "Bologna imaidői",
   "description": "A mai imaidők: Bologna, Olaszország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Bologna számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-bologna.html",
+  "id": "/hu/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

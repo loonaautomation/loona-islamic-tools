@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sari",
   "short_name": "Ώρες Προσευχής στο Sari",
   "description": "Οι σημερινές ώρες προσευχής στο Sari, Ιράν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Sari.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sari.html",
+  "id": "/el/prayer-times-in-sari.html",
   "start_url": "./prayer-times-in-sari.html",
   "scope": "./prayer-times-in-sari.html",
   "display": "standalone",

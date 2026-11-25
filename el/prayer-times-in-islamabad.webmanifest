@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Islamabad",
   "short_name": "Ώρες Προσευχής στο Islamabad",
   "description": "Οι σημερινές ώρες προσευχής στο Islamabad, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Islamabad.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-islamabad.html",
+  "id": "/el/prayer-times-in-islamabad.html",
   "start_url": "./prayer-times-in-islamabad.html",
   "scope": "./prayer-times-in-islamabad.html",
   "display": "standalone",

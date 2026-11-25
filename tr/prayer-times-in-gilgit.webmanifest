@@ -2,7 +2,7 @@
   "name": "Loona Gilgit Namaz Vakitleri",
   "short_name": "Gilgit Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Gilgit, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Gilgit için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-gilgit.html",
+  "id": "/tr/prayer-times-in-gilgit.html",
   "start_url": "./prayer-times-in-gilgit.html",
   "scope": "./prayer-times-in-gilgit.html",
   "display": "standalone",

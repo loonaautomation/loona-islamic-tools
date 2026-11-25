@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Siliguri",
   "short_name": "זמני תפילה בעיר Siliguri",
   "description": "זמני התפילה של היום בעיר Siliguri, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Siliguri.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-siliguri.html",
+  "id": "/he/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Halifax的礼拜时间",
   "short_name": "Halifax的礼拜时间",
   "description": "Halifax（加拿大）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Halifax实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-halifax.html",
+  "id": "/zh/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

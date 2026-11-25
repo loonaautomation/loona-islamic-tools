@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Cox’s Bāzār",
   "short_name": "Bønnetider i Cox’s Bāzār",
   "description": "Dagens bønnetider i Cox’s Bāzār, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-cox-s-bazar.html",
+  "id": "/nb/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

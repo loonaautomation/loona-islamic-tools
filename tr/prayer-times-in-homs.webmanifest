@@ -2,7 +2,7 @@
   "name": "Loona Homs Namaz Vakitleri",
   "short_name": "Homs Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Homs, Suriye: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Homs için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-homs.html",
+  "id": "/tr/prayer-times-in-homs.html",
   "start_url": "./prayer-times-in-homs.html",
   "scope": "./prayer-times-in-homs.html",
   "display": "standalone",

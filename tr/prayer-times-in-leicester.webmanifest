@@ -2,7 +2,7 @@
   "name": "Loona Leicester Namaz Vakitleri",
   "short_name": "Leicester Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Leicester, Birleşik Krallık: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Leicester için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-leicester.html",
+  "id": "/tr/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

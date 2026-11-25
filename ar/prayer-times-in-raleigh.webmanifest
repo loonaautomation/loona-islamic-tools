@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Raleigh",
   "short_name": "مواقيت الصلاة في Raleigh",
   "description": "مواقيت الصلاة اليوم في Raleigh، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـRaleigh.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-raleigh.html",
+  "id": "/ar/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

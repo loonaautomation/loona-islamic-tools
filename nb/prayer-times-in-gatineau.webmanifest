@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Gatineau",
   "short_name": "Bønnetider i Gatineau",
   "description": "Dagens bønnetider i Gatineau, Canada: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet direkte på enheten din for Gatineau.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-gatineau.html",
+  "id": "/nb/prayer-times-in-gatineau.html",
   "start_url": "./prayer-times-in-gatineau.html",
   "scope": "./prayer-times-in-gatineau.html",
   "display": "standalone",

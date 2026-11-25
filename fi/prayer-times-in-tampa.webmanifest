@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Tampa",
   "short_name": "Rukousajat: Tampa",
   "description": "Tämän päivän rukousajat paikassa Tampa, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Tampa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-tampa.html",
+  "id": "/fi/prayer-times-in-tampa.html",
   "start_url": "./prayer-times-in-tampa.html",
   "scope": "./prayer-times-in-tampa.html",
   "display": "standalone",

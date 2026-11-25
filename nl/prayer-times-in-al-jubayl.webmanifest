@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Jubayl",
   "short_name": "Gebedstijden in Al Jubayl",
   "description": "De gebedstijden van vandaag in Al Jubayl, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Al Jubayl.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-jubayl.html",
+  "id": "/nl/prayer-times-in-al-jubayl.html",
   "start_url": "./prayer-times-in-al-jubayl.html",
   "scope": "./prayer-times-in-al-jubayl.html",
   "display": "standalone",

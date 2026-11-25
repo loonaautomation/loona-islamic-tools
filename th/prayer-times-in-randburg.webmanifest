@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Randburg",
   "short_name": "เวลาละหมาดใน Randburg",
   "description": "เวลาละหมาดวันนี้ใน Randburg, South Africa: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Randburg",
-  "id": "/loona-islamic-tools/th/prayer-times-in-randburg.html",
+  "id": "/th/prayer-times-in-randburg.html",
   "start_url": "./prayer-times-in-randburg.html",
   "scope": "./prayer-times-in-randburg.html",
   "display": "standalone",

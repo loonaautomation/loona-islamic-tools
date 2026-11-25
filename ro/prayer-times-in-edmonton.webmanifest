@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Edmonton",
   "short_name": "Ore de rugăciune în Edmonton",
   "description": "Orele de rugăciune de azi în Edmonton, Canada: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Edmonton.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-edmonton.html",
+  "id": "/ro/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

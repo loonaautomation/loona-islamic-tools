@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Manisa",
   "short_name": "Gebedstijden in Manisa",
   "description": "De gebedstijden van vandaag in Manisa, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Manisa.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-manisa.html",
+  "id": "/nl/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

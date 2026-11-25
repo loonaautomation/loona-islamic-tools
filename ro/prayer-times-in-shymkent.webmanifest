@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Shymkent",
   "short_name": "Ore de rugăciune în Shymkent",
   "description": "Orele de rugăciune de azi în Shymkent, Kazahstan: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Shymkent.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-shymkent.html",
+  "id": "/ro/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

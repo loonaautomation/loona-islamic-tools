@@ -2,7 +2,7 @@
   "name": "Loona Adıyaman Namaz Vakitleri",
   "short_name": "Adıyaman Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Adıyaman, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Adıyaman için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-adiyaman.html",
+  "id": "/tr/prayer-times-in-adiyaman.html",
   "start_url": "./prayer-times-in-adiyaman.html",
   "scope": "./prayer-times-in-adiyaman.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Eskişehir",
   "short_name": "Časy modliteb v Eskişehir",
   "description": "Dnešní časy modliteb v Eskişehir, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Eskişehir.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-eskisehir.html",
+  "id": "/cs/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

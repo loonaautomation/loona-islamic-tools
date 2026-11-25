@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Parbhani",
   "short_name": "Prayer Times in Parbhani",
   "description": "Today's prayer times in Parbhani, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Parbhani.",
-  "id": "/loona-islamic-tools/prayer-times-in-parbhani.html",
+  "id": "/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

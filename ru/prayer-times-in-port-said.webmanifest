@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Port Said",
   "short_name": "Время намаза в городе Port Said",
   "description": "Время намаза на сегодня: Port Said, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Port Said.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-port-said.html",
+  "id": "/ru/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

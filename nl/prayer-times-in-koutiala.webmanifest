@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Koutiala",
   "short_name": "Gebedstijden in Koutiala",
   "description": "De gebedstijden van vandaag in Koutiala, Mali: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Koutiala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-koutiala.html",
+  "id": "/nl/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

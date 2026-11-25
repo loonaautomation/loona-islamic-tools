@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Balikpapan",
   "short_name": "مواقيت الصلاة في Balikpapan",
   "description": "مواقيت الصلاة اليوم في Balikpapan، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBalikpapan.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-balikpapan.html",
+  "id": "/ar/prayer-times-in-balikpapan.html",
   "start_url": "./prayer-times-in-balikpapan.html",
   "scope": "./prayer-times-in-balikpapan.html",
   "display": "standalone",

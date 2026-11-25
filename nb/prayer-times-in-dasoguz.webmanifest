@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Daşoguz",
   "short_name": "Bønnetider i Daşoguz",
   "description": "Dagens bønnetider i Daşoguz, Turkmenistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Daşoguz.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dasoguz.html",
+  "id": "/nb/prayer-times-in-dasoguz.html",
   "start_url": "./prayer-times-in-dasoguz.html",
   "scope": "./prayer-times-in-dasoguz.html",
   "display": "standalone",

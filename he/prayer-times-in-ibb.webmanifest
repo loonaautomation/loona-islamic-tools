@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ibb",
   "short_name": "זמני תפילה בעיר Ibb",
   "description": "זמני התפילה של היום בעיר Ibb, תימן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ibb.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ibb.html",
+  "id": "/he/prayer-times-in-ibb.html",
   "start_url": "./prayer-times-in-ibb.html",
   "scope": "./prayer-times-in-ibb.html",
   "display": "standalone",

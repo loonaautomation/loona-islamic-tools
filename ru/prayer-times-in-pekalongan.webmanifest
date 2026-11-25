@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Pekalongan",
   "short_name": "Время намаза в городе Pekalongan",
   "description": "Время намаза на сегодня: Pekalongan, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Pekalongan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-pekalongan.html",
+  "id": "/ru/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

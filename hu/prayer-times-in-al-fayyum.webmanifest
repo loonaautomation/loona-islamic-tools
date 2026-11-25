@@ -2,7 +2,7 @@
   "name": "Loona Al Fayyum imaidői",
   "short_name": "Al Fayyum imaidői",
   "description": "A mai imaidők: Al Fayyum, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Al Fayyum számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-al-fayyum.html",
+  "id": "/hu/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

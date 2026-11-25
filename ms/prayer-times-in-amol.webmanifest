@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Āmol",
   "short_name": "Waktu Solat di Āmol",
   "description": "Waktu solat hari ini di Āmol, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Āmol.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-amol.html",
+  "id": "/ms/prayer-times-in-amol.html",
   "start_url": "./prayer-times-in-amol.html",
   "scope": "./prayer-times-in-amol.html",
   "display": "standalone",

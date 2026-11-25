@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Roodepoort",
   "short_name": "Bönetider i Roodepoort",
   "description": "Dagens bönetider i Roodepoort, Sydafrika: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Roodepoort.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-roodepoort.html",
+  "id": "/sv/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

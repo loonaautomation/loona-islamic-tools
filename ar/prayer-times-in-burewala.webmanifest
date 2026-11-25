@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Burewala",
   "short_name": "مواقيت الصلاة في Burewala",
   "description": "مواقيت الصلاة اليوم في Burewala، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBurewala.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-burewala.html",
+  "id": "/ar/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

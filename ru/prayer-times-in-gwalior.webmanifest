@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Gwalior",
   "short_name": "Время намаза в городе Gwalior",
   "description": "Время намаза на сегодня: Gwalior, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Gwalior.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-gwalior.html",
+  "id": "/ru/prayer-times-in-gwalior.html",
   "start_url": "./prayer-times-in-gwalior.html",
   "scope": "./prayer-times-in-gwalior.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ras Al Khaimah",
   "short_name": "Gebetszeiten in Ras Al Khaimah",
   "description": "Die heutigen Gebetszeiten in Ras Al Khaimah, Vereinigte Arabische Emirate: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ras-al-khaimah.html",
+  "id": "/de/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Valencia",
   "short_name": "Gebedstijden in Valencia",
   "description": "De gebedstijden van vandaag in Valencia, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Valencia.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-valencia.html",
+  "id": "/nl/prayer-times-in-valencia.html",
   "start_url": "./prayer-times-in-valencia.html",
   "scope": "./prayer-times-in-valencia.html",
   "display": "standalone",

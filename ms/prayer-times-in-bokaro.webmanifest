@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bokāro",
   "short_name": "Waktu Solat di Bokāro",
   "description": "Waktu solat hari ini di Bokāro, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bokāro.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bokaro.html",
+  "id": "/ms/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

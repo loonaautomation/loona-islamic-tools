@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mallawī Today",
   "short_name": "Prayer Times in Mallawī Today",
   "description": "Today's prayer times in Mallawī, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Mallawī.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-mallawi.html",
+  "id": "/en-us/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

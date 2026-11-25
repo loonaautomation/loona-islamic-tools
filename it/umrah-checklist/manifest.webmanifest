@@ -2,7 +2,7 @@
   "name": "Loona Lista di controllo Umrah",
   "short_name": "Lista di controllo Umrah",
   "description": "Una lista di controllo interattiva per l'Umrah: documenti, prenotazioni, bagagli, salute e preparazione dell'ibadah, con barra di avanzamento, opzione di stampa e progressi salvati sul tuo dispositivo.",
-  "id": "/loona-islamic-tools/it/umrah-checklist/",
+  "id": "/it/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

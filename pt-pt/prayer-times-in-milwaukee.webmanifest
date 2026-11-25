@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Milwaukee",
   "short_name": "Horários de Oração em Milwaukee",
   "description": "Horários de oração de hoje em Milwaukee, Estados Unidos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método ISNA, calculado ao vivo no seu dispositivo para Milwaukee.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-milwaukee.html",
+  "id": "/pt-pt/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

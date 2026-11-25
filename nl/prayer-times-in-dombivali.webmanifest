@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Dombivali",
   "short_name": "Gebedstijden in Dombivali",
   "description": "De gebedstijden van vandaag in Dombivali, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Dombivali.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-dombivali.html",
+  "id": "/nl/prayer-times-in-dombivali.html",
   "start_url": "./prayer-times-in-dombivali.html",
   "scope": "./prayer-times-in-dombivali.html",
   "display": "standalone",

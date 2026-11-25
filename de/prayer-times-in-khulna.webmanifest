@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Khulna",
   "short_name": "Gebetszeiten in Khulna",
   "description": "Die heutigen Gebetszeiten in Khulna, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Khulna.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-khulna.html",
+  "id": "/de/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

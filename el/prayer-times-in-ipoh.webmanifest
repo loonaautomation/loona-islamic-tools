@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Ipoh",
   "short_name": "Ώρες Προσευχής στο Ipoh",
   "description": "Οι σημερινές ώρες προσευχής στο Ipoh, Μαλαισία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Ipoh.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ipoh.html",
+  "id": "/el/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

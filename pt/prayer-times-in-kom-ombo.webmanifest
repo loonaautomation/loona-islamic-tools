@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Kom Ombo",
   "short_name": "Horários de Oração em Kom Ombo",
   "description": "Horários de oração de hoje em Kom Ombo, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Kom Ombo.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-kom-ombo.html",
+  "id": "/pt/prayer-times-in-kom-ombo.html",
   "start_url": "./prayer-times-in-kom-ombo.html",
   "scope": "./prayer-times-in-kom-ombo.html",
   "display": "standalone",

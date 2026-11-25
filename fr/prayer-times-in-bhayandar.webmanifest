@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Bhayandar",
   "short_name": "Heures de prière à Bhayandar",
   "description": "Les heures de prière d’aujourd’hui à Bhayandar, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Bhayandar.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-bhayandar.html",
+  "id": "/fr/prayer-times-in-bhayandar.html",
   "start_url": "./prayer-times-in-bhayandar.html",
   "scope": "./prayer-times-in-bhayandar.html",
   "display": "standalone",

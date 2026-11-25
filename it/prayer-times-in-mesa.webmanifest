@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mesa",
   "short_name": "Orari di preghiera a Mesa",
   "description": "Orari di preghiera di oggi a Mesa, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Mesa.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mesa.html",
+  "id": "/it/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

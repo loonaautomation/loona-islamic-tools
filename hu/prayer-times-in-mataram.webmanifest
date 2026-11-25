@@ -2,7 +2,7 @@
   "name": "Loona Mataram imaidői",
   "short_name": "Mataram imaidői",
   "description": "A mai imaidők: Mataram, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Mataram számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-mataram.html",
+  "id": "/hu/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

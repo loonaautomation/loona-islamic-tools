@@ -2,7 +2,7 @@
   "name": "Loona Az imaidő-számítási módszerek magyarázata: Karachi, ISNA, MWL, Hanafi és Shafi",
   "short_name": "Az imaidő-számítási módszerek magyarázata:",
   "description": "Közérthető útmutató az imaidők számításához: a Fajr és az Isha szürkületi szögei, az öt fő módszer, a hanafi és a sáfi Asr, valamint a magas földrajzi szélességekre vonatkozó szabályok.",
-  "id": "/loona-islamic-tools/hu/prayer-time-settings-guide/",
+  "id": "/hu/prayer-time-settings-guide/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

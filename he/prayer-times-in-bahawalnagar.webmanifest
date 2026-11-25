@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bahawalnagar",
   "short_name": "זמני תפילה בעיר Bahawalnagar",
   "description": "זמני התפילה של היום בעיר Bahawalnagar, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bahawalnagar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bahawalnagar.html",
+  "id": "/he/prayer-times-in-bahawalnagar.html",
   "start_url": "./prayer-times-in-bahawalnagar.html",
   "scope": "./prayer-times-in-bahawalnagar.html",
   "display": "standalone",

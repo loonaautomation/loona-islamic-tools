@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Antalya",
   "short_name": "Heures de prière à Antalya",
   "description": "Les heures de prière d’aujourd’hui à Antalya, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Antalya.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-antalya.html",
+  "id": "/fr/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Nashik",
   "short_name": "Časy modlitieb v Nashik",
   "description": "Dnešné časy modlitieb v Nashik, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Nashik.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-nashik.html",
+  "id": "/sk/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

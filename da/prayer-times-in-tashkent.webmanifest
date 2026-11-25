@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Tashkent",
   "short_name": "Bønnetider i Tashkent",
   "description": "Dagens bønnetider i Tashkent, Usbekistan: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Tashkent.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-tashkent.html",
+  "id": "/da/prayer-times-in-tashkent.html",
   "start_url": "./prayer-times-in-tashkent.html",
   "scope": "./prayer-times-in-tashkent.html",
   "display": "standalone",

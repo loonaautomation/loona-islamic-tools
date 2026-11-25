@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Andijon",
   "short_name": "Gebetszeiten in Andijon",
   "description": "Die heutigen Gebetszeiten in Andijon, Usbekistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Andijon.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-andijon.html",
+  "id": "/de/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

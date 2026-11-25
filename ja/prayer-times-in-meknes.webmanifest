@@ -2,7 +2,7 @@
   "name": "Loona Meknes の礼拝時刻",
   "short_name": "Meknes の礼拝時刻",
   "description": "Meknes（モロッコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Meknes についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-meknes.html",
+  "id": "/ja/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

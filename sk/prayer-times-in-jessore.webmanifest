@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jessore",
   "short_name": "Časy modlitieb v Jessore",
   "description": "Dnešné časy modlitieb v Jessore, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jessore.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-jessore.html",
+  "id": "/sk/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

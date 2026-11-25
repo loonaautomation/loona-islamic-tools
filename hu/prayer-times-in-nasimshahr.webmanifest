@@ -2,7 +2,7 @@
   "name": "Loona Nasimshahr imaidői",
   "short_name": "Nasimshahr imaidői",
   "description": "A mai imaidők: Nasimshahr, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Nasimshahr számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-nasimshahr.html",
+  "id": "/hu/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

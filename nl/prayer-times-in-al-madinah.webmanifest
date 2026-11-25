@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Madīnah",
   "short_name": "Gebedstijden in Al Madīnah",
   "description": "De gebedstijden van vandaag in Al Madīnah, Irak: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Madīnah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-madinah.html",
+  "id": "/nl/prayer-times-in-al-madinah.html",
   "start_url": "./prayer-times-in-al-madinah.html",
   "scope": "./prayer-times-in-al-madinah.html",
   "display": "standalone",

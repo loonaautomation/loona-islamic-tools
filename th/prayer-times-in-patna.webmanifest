@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Patna",
   "short_name": "เวลาละหมาดใน Patna",
   "description": "เวลาละหมาดวันนี้ใน Patna, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Patna",
-  "id": "/loona-islamic-tools/th/prayer-times-in-patna.html",
+  "id": "/th/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

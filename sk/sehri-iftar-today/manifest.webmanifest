@@ -2,7 +2,7 @@
   "name": "Loona Čas Sehri a Iftaru dnes",
   "short_name": "Čas Sehri a Iftaru dnes",
   "description": "Dnešné časy konca Sehri (Fadžr) a Iftaru (Magrib) pre vaše mesto so živým odpočítavaním k ďalšiemu z nich. Metóda Karáčí, v predvolenom nastavení hanafijský Asr, nastaviteľné.",
-  "id": "/loona-islamic-tools/sk/sehri-iftar-today/",
+  "id": "/sk/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

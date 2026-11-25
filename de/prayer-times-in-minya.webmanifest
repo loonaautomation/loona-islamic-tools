@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Minya",
   "short_name": "Gebetszeiten in Minya",
   "description": "Die heutigen Gebetszeiten in Minya, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Minya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-minya.html",
+  "id": "/de/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

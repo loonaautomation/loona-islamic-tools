@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Şabyā",
   "short_name": "Gebetszeiten in Şabyā",
   "description": "Die heutigen Gebetszeiten in Şabyā, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Şabyā.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sabya.html",
+  "id": "/de/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

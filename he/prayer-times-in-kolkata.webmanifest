@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kolkata",
   "short_name": "זמני תפילה בעיר Kolkata",
   "description": "זמני התפילה של היום בעיר Kolkata, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kolkata.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kolkata.html",
+  "id": "/he/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

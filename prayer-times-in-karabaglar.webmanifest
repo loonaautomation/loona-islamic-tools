@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Karabağlar",
   "short_name": "Prayer Times in Karabağlar",
   "description": "Today's prayer times in Karabağlar, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Karabağlar.",
-  "id": "/loona-islamic-tools/prayer-times-in-karabaglar.html",
+  "id": "/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

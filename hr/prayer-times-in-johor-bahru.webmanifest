@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Johor Bahru",
   "short_name": "Vremena namaza u gradu Johor Bahru",
   "description": "Današnja vremena namaza u gradu Johor Bahru, Malezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Johor Bahru.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-johor-bahru.html",
+  "id": "/hr/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

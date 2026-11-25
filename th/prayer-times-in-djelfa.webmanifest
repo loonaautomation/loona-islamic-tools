@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Djelfa",
   "short_name": "เวลาละหมาดใน Djelfa",
   "description": "เวลาละหมาดวันนี้ใน Djelfa, Algeria: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Djelfa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-djelfa.html",
+  "id": "/th/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

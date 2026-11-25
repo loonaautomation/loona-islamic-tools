@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di San Jose",
   "short_name": "Waktu Salat di San Jose",
   "description": "Waktu salat hari ini di San Jose, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk San Jose.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-san-jose.html",
+  "id": "/id/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

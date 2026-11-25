@@ -2,7 +2,7 @@
   "name": "Loona Yazd Namaz Vakitleri",
   "short_name": "Yazd Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Yazd, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Yazd için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-yazd.html",
+  "id": "/tr/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

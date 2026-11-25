@@ -2,7 +2,7 @@
   "name": "Loona Surat imaidői",
   "short_name": "Surat imaidői",
   "description": "A mai imaidők: Surat, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Surat számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-surat.html",
+  "id": "/hu/prayer-times-in-surat.html",
   "start_url": "./prayer-times-in-surat.html",
   "scope": "./prayer-times-in-surat.html",
   "display": "standalone",

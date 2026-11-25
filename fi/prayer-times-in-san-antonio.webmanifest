@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: San Antonio",
   "short_name": "Rukousajat: San Antonio",
   "description": "Tämän päivän rukousajat paikassa San Antonio, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle San Antonio.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-san-antonio.html",
+  "id": "/fi/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

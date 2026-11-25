@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Baltimore",
   "short_name": "זמני תפילה בעיר Baltimore",
   "description": "זמני התפילה של היום בעיר Baltimore, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Baltimore.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-baltimore.html",
+  "id": "/he/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

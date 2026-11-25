@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Stockton",
   "short_name": "Ώρες Προσευχής στο Stockton",
   "description": "Οι σημερινές ώρες προσευχής στο Stockton, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Stockton.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-stockton.html",
+  "id": "/el/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

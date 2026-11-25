@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ar Raqqah",
   "short_name": "Prayer Times in Ar Raqqah",
   "description": "Today's prayer times in Ar Raqqah, Syria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ar Raqqah.",
-  "id": "/loona-islamic-tools/prayer-times-in-ar-raqqah.html",
+  "id": "/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

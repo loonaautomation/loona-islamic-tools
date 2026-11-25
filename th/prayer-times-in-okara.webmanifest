@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Okara",
   "short_name": "เวลาละหมาดใน Okara",
   "description": "เวลาละหมาดวันนี้ใน Okara, Pakistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Okara",
-  "id": "/loona-islamic-tools/th/prayer-times-in-okara.html",
+  "id": "/th/prayer-times-in-okara.html",
   "start_url": "./prayer-times-in-okara.html",
   "scope": "./prayer-times-in-okara.html",
   "display": "standalone",

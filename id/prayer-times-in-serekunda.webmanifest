@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Serekunda",
   "short_name": "Waktu Salat di Serekunda",
   "description": "Waktu salat hari ini di Serekunda, Gambia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Serekunda.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-serekunda.html",
+  "id": "/id/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

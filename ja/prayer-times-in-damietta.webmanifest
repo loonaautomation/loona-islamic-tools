@@ -2,7 +2,7 @@
   "name": "Loona Damietta の礼拝時刻",
   "short_name": "Damietta の礼拝時刻",
   "description": "Damietta、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Damietta についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-damietta.html",
+  "id": "/ja/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

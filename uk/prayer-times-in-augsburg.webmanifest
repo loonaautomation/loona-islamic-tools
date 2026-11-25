@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Augsburg",
   "short_name": "Час намазу в Augsburg",
   "description": "Сьогоднішній час намазу в Augsburg, Німеччина: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Augsburg.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-augsburg.html",
+  "id": "/uk/prayer-times-in-augsburg.html",
   "start_url": "./prayer-times-in-augsburg.html",
   "scope": "./prayer-times-in-augsburg.html",
   "display": "standalone",

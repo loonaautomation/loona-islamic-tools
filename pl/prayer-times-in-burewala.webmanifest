@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Burewala",
   "short_name": "Czasy modlitw w miejscowości Burewala",
   "description": "Dzisiejsze czasy modlitw w miejscowości Burewala, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Burewala.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-burewala.html",
+  "id": "/pl/prayer-times-in-burewala.html",
   "start_url": "./prayer-times-in-burewala.html",
   "scope": "./prayer-times-in-burewala.html",
   "display": "standalone",

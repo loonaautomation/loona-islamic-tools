@@ -2,7 +2,7 @@
   "name": "Loona Saint Paul的禮拜時間",
   "short_name": "Saint Paul的禮拜時間",
   "description": "Saint Paul（美國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。ISNA方法，在您的裝置上為Saint Paul實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-saint-paul.html",
+  "id": "/zh-hant/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

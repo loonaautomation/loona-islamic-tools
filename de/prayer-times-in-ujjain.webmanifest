@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ujjain",
   "short_name": "Gebetszeiten in Ujjain",
   "description": "Die heutigen Gebetszeiten in Ujjain, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Ujjain.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ujjain.html",
+  "id": "/de/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

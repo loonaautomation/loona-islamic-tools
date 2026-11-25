@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Marseille",
   "short_name": "Vremena namaza u gradu Marseille",
   "description": "Današnja vremena namaza u gradu Marseille, Francuska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Marseille.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-marseille.html",
+  "id": "/hr/prayer-times-in-marseille.html",
   "start_url": "./prayer-times-in-marseille.html",
   "scope": "./prayer-times-in-marseille.html",
   "display": "standalone",

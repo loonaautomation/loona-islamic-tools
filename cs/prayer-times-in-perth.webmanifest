@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Perth",
   "short_name": "Časy modliteb v Perth",
   "description": "Dnešní časy modliteb v Perth, Austrálie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Perth.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-perth.html",
+  "id": "/cs/prayer-times-in-perth.html",
   "start_url": "./prayer-times-in-perth.html",
   "scope": "./prayer-times-in-perth.html",
   "display": "standalone",

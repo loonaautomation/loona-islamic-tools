@@ -2,7 +2,7 @@
   "name": "Loona Astana imaidői",
   "short_name": "Astana imaidői",
   "description": "A mai imaidők: Astana, Kazahsztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Astana számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-astana.html",
+  "id": "/hu/prayer-times-in-astana.html",
   "start_url": "./prayer-times-in-astana.html",
   "scope": "./prayer-times-in-astana.html",
   "display": "standalone",

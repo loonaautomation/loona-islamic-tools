@@ -2,7 +2,7 @@
   "name": "Loona El Obeid Namaz Vakitleri",
   "short_name": "El Obeid Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — El Obeid, Sudan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, El Obeid için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-el-obeid.html",
+  "id": "/tr/prayer-times-in-el-obeid.html",
   "start_url": "./prayer-times-in-el-obeid.html",
   "scope": "./prayer-times-in-el-obeid.html",
   "display": "standalone",

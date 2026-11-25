@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Kansas City",
   "short_name": "Waktu Salat di Kansas City",
   "description": "Waktu salat hari ini di Kansas City, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Kansas City.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-kansas-city.html",
+  "id": "/id/prayer-times-in-kansas-city.html",
   "start_url": "./prayer-times-in-kansas-city.html",
   "scope": "./prayer-times-in-kansas-city.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Deir ez-Zor",
   "short_name": "Gebedstijden in Deir ez-Zor",
   "description": "De gebedstijden van vandaag in Deir ez-Zor, Syrië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Deir ez-Zor.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-deir-ez-zor.html",
+  "id": "/nl/prayer-times-in-deir-ez-zor.html",
   "start_url": "./prayer-times-in-deir-ez-zor.html",
   "scope": "./prayer-times-in-deir-ez-zor.html",
   "display": "standalone",

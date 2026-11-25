@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Delhi",
   "short_name": "Bønnetider i Delhi",
   "description": "Dagens bønnetider i Delhi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Delhi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-delhi.html",
+  "id": "/nb/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Laval",
   "short_name": "เวลาละหมาดใน Laval",
   "description": "เวลาละหมาดวันนี้ใน Laval, Canada: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Laval",
-  "id": "/loona-islamic-tools/th/prayer-times-in-laval.html",
+  "id": "/th/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

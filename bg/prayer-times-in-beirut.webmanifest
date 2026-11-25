@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Beirut",
   "short_name": "Часове за намаз в Beirut",
   "description": "Днешните часове за намаз в Beirut, Ливан: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Beirut.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-beirut.html",
+  "id": "/bg/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

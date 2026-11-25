@@ -2,7 +2,7 @@
   "name": "Loona Baltimore imaidői",
   "short_name": "Baltimore imaidői",
   "description": "A mai imaidők: Baltimore, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Baltimore számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-baltimore.html",
+  "id": "/hu/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

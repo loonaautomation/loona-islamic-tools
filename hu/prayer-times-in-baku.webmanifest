@@ -2,7 +2,7 @@
   "name": "Loona Baku imaidői",
   "short_name": "Baku imaidői",
   "description": "A mai imaidők: Baku, Azerbajdzsán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Baku számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-baku.html",
+  "id": "/hu/prayer-times-in-baku.html",
   "start_url": "./prayer-times-in-baku.html",
   "scope": "./prayer-times-in-baku.html",
   "display": "standalone",

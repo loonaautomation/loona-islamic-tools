@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Belagavi",
   "short_name": "เวลาละหมาดใน Belagavi",
   "description": "เวลาละหมาดวันนี้ใน Belagavi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Belagavi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-belagavi.html",
+  "id": "/th/prayer-times-in-belagavi.html",
   "start_url": "./prayer-times-in-belagavi.html",
   "scope": "./prayer-times-in-belagavi.html",
   "display": "standalone",

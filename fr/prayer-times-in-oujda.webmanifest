@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Oujda",
   "short_name": "Heures de prière à Oujda",
   "description": "Les heures de prière d’aujourd’hui à Oujda, Maroc : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Oujda.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-oujda.html",
+  "id": "/fr/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

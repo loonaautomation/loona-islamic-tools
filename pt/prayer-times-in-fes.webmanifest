@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Fes",
   "short_name": "Horários de Oração em Fes",
   "description": "Horários de oração de hoje em Fes, Marrocos: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Fes.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-fes.html",
+  "id": "/pt/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

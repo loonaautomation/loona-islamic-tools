@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Esna",
   "short_name": "Ore de rugăciune în Esna",
   "description": "Orele de rugăciune de azi în Esna, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Esna.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-esna.html",
+  "id": "/ro/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

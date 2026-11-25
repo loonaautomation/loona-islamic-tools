@@ -2,7 +2,7 @@
   "name": "Loona Khulna的礼拜时间",
   "short_name": "Khulna的礼拜时间",
   "description": "Khulna（孟加拉国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Khulna实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-khulna.html",
+  "id": "/zh/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

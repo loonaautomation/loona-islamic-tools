@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mataram",
   "short_name": "Время намаза в городе Mataram",
   "description": "Время намаза на сегодня: Mataram, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Mataram.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mataram.html",
+  "id": "/ru/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

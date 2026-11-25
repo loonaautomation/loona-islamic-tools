@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Córdoba",
   "short_name": "Час намазу в Córdoba",
   "description": "Сьогоднішній час намазу в Córdoba, Іспанія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Córdoba.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-cordoba.html",
+  "id": "/uk/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

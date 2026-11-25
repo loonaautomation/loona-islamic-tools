@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Memphis",
   "short_name": "Bønnetider i Memphis",
   "description": "Dagens bønnetider i Memphis, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Memphis.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-memphis.html",
+  "id": "/da/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

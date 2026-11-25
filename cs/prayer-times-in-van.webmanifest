@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Van",
   "short_name": "Časy modliteb v Van",
   "description": "Dnešní časy modliteb v Van, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Van.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-van.html",
+  "id": "/cs/prayer-times-in-van.html",
   "start_url": "./prayer-times-in-van.html",
   "scope": "./prayer-times-in-van.html",
   "display": "standalone",

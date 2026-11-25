@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sikasso",
   "short_name": "Vremena namaza u gradu Sikasso",
   "description": "Današnja vremena namaza u gradu Sikasso, Mali: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Sikasso.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sikasso.html",
+  "id": "/hr/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

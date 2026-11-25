@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Pasuruan",
   "short_name": "Gebetszeiten in Pasuruan",
   "description": "Die heutigen Gebetszeiten in Pasuruan, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Pasuruan.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-pasuruan.html",
+  "id": "/de/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

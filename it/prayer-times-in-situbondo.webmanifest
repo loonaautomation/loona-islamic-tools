@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Situbondo",
   "short_name": "Orari di preghiera a Situbondo",
   "description": "Orari di preghiera di oggi a Situbondo, Indonesia: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Situbondo.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-situbondo.html",
+  "id": "/it/prayer-times-in-situbondo.html",
   "start_url": "./prayer-times-in-situbondo.html",
   "scope": "./prayer-times-in-situbondo.html",
   "display": "standalone",

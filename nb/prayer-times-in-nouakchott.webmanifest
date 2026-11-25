@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nouakchott",
   "short_name": "Bønnetider i Nouakchott",
   "description": "Dagens bønnetider i Nouakchott, Mauritania: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Nouakchott.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-nouakchott.html",
+  "id": "/nb/prayer-times-in-nouakchott.html",
   "start_url": "./prayer-times-in-nouakchott.html",
   "scope": "./prayer-times-in-nouakchott.html",
   "display": "standalone",

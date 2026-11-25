@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Algiers",
   "short_name": "Gebetszeiten in Algiers",
   "description": "Die heutigen Gebetszeiten in Algiers, Algerien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Algiers.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-algiers.html",
+  "id": "/de/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

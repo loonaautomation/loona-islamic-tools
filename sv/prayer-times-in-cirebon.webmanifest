@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Cirebon",
   "short_name": "Bönetider i Cirebon",
   "description": "Dagens bönetider i Cirebon, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Cirebon.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-cirebon.html",
+  "id": "/sv/prayer-times-in-cirebon.html",
   "start_url": "./prayer-times-in-cirebon.html",
   "scope": "./prayer-times-in-cirebon.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in El Daein",
   "short_name": "Gebetszeiten in El Daein",
   "description": "Die heutigen Gebetszeiten in El Daein, Sudan: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für El Daein.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-el-daein.html",
+  "id": "/de/prayer-times-in-el-daein.html",
   "start_url": "./prayer-times-in-el-daein.html",
   "scope": "./prayer-times-in-el-daein.html",
   "display": "standalone",

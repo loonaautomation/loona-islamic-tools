@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Shymkent",
   "short_name": "Prayer Times in Shymkent",
   "description": "Today's prayer times in Shymkent, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Shymkent.",
-  "id": "/loona-islamic-tools/prayer-times-in-shymkent.html",
+  "id": "/prayer-times-in-shymkent.html",
   "start_url": "./prayer-times-in-shymkent.html",
   "scope": "./prayer-times-in-shymkent.html",
   "display": "standalone",

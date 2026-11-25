@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Meknes",
   "short_name": "مواقيت الصلاة في Meknes",
   "description": "مواقيت الصلاة اليوم في Meknes، المغرب: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMeknes.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-meknes.html",
+  "id": "/ar/prayer-times-in-meknes.html",
   "start_url": "./prayer-times-in-meknes.html",
   "scope": "./prayer-times-in-meknes.html",
   "display": "standalone",

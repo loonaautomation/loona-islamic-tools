@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tucson",
   "short_name": "Gebedstijden in Tucson",
   "description": "De gebedstijden van vandaag in Tucson, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Tucson.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tucson.html",
+  "id": "/nl/prayer-times-in-tucson.html",
   "start_url": "./prayer-times-in-tucson.html",
   "scope": "./prayer-times-in-tucson.html",
   "display": "standalone",

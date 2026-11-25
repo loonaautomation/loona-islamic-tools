@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Oran Today",
   "short_name": "Prayer Times in Oran Today",
   "description": "Today's prayer times in Oran, Algeria: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Oran.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-oran.html",
+  "id": "/en-us/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

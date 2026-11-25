@@ -2,7 +2,7 @@
   "name": "Loona Batman imaidői",
   "short_name": "Batman imaidői",
   "description": "A mai imaidők: Batman, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Batman számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-batman.html",
+  "id": "/hu/prayer-times-in-batman.html",
   "start_url": "./prayer-times-in-batman.html",
   "scope": "./prayer-times-in-batman.html",
   "display": "standalone",

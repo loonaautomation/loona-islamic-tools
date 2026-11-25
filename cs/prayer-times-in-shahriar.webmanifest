@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Shahrīār",
   "short_name": "Časy modliteb v Shahrīār",
   "description": "Dnešní časy modliteb v Shahrīār, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Shahrīār.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-shahriar.html",
+  "id": "/cs/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

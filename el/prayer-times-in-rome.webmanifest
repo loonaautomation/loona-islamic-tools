@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Rome",
   "short_name": "Ώρες Προσευχής στο Rome",
   "description": "Οι σημερινές ώρες προσευχής στο Rome, Ιταλία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Rome.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-rome.html",
+  "id": "/el/prayer-times-in-rome.html",
   "start_url": "./prayer-times-in-rome.html",
   "scope": "./prayer-times-in-rome.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sehri és iftár időpont ma",
   "short_name": "Sehri és iftár időpont ma",
   "description": "A mai sehri vége (Fajr) és iftár (Maghrib) időpontok az Ön városához élő visszaszámlálással a következőig. Karachi módszer, alapértelmezésként hanafi Asr, állítható.",
-  "id": "/loona-islamic-tools/hu/sehri-iftar-today/",
+  "id": "/hu/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

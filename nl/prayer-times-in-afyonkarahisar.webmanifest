@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Afyonkarahisar",
   "short_name": "Gebedstijden in Afyonkarahisar",
   "description": "De gebedstijden van vandaag in Afyonkarahisar, Turkije: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Afyonkarahisar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-afyonkarahisar.html",
+  "id": "/nl/prayer-times-in-afyonkarahisar.html",
   "start_url": "./prayer-times-in-afyonkarahisar.html",
   "scope": "./prayer-times-in-afyonkarahisar.html",
   "display": "standalone",

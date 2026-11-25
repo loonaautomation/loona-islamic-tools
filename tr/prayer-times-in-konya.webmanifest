@@ -2,7 +2,7 @@
   "name": "Loona Konya Namaz Vakitleri",
   "short_name": "Konya Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Konya, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Konya için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-konya.html",
+  "id": "/tr/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

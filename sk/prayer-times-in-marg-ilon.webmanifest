@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Marg‘ilon",
   "short_name": "Časy modlitieb v Marg‘ilon",
   "description": "Dnešné časy modlitieb v Marg‘ilon, Uzbekistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Marg‘ilon.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-marg-ilon.html",
+  "id": "/sk/prayer-times-in-marg-ilon.html",
   "start_url": "./prayer-times-in-marg-ilon.html",
   "scope": "./prayer-times-in-marg-ilon.html",
   "display": "standalone",

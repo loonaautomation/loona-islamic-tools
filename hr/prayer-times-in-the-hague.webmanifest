@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu The Hague",
   "short_name": "Vremena namaza u gradu The Hague",
   "description": "Današnja vremena namaza u gradu The Hague, Nizozemska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad The Hague.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-the-hague.html",
+  "id": "/hr/prayer-times-in-the-hague.html",
   "start_url": "./prayer-times-in-the-hague.html",
   "scope": "./prayer-times-in-the-hague.html",
   "display": "standalone",

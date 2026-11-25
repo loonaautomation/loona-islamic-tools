@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in El Paso",
   "short_name": "Gebedstijden in El Paso",
   "description": "De gebedstijden van vandaag in El Paso, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor El Paso.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-el-paso.html",
+  "id": "/nl/prayer-times-in-el-paso.html",
   "start_url": "./prayer-times-in-el-paso.html",
   "scope": "./prayer-times-in-el-paso.html",
   "display": "standalone",

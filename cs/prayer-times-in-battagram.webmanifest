@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Battagram",
   "short_name": "Časy modliteb v Battagram",
   "description": "Dnešní časy modliteb v Battagram, Pákistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Battagram.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-battagram.html",
+  "id": "/cs/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

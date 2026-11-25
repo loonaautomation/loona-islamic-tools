@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mysuru",
   "short_name": "Czasy modlitw w miejscowości Mysuru",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mysuru, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Mysuru.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mysuru.html",
+  "id": "/pl/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

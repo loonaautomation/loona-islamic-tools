@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Gaya",
   "short_name": "Waktu Salat di Gaya",
   "description": "Waktu salat hari ini di Gaya, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Gaya.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-gaya.html",
+  "id": "/id/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

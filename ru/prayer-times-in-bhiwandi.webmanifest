@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bhiwandi",
   "short_name": "Время намаза в городе Bhiwandi",
   "description": "Время намаза на сегодня: Bhiwandi, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Bhiwandi.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bhiwandi.html",
+  "id": "/ru/prayer-times-in-bhiwandi.html",
   "start_url": "./prayer-times-in-bhiwandi.html",
   "scope": "./prayer-times-in-bhiwandi.html",
   "display": "standalone",

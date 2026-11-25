@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Qods",
   "short_name": "Gebedstijden in Qods",
   "description": "De gebedstijden van vandaag in Qods, Iran: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Qods.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-qods.html",
+  "id": "/nl/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

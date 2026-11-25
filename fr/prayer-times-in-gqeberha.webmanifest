@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Gqeberha",
   "short_name": "Heures de prière à Gqeberha",
   "description": "Les heures de prière d’aujourd’hui à Gqeberha, Afrique du Sud : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Gqeberha.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-gqeberha.html",
+  "id": "/fr/prayer-times-in-gqeberha.html",
   "start_url": "./prayer-times-in-gqeberha.html",
   "scope": "./prayer-times-in-gqeberha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Laval",
   "short_name": "זמני תפילה בעיר Laval",
   "description": "זמני התפילה של היום בעיר Laval, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Laval.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-laval.html",
+  "id": "/he/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

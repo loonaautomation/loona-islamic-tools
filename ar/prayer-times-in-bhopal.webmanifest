@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bhopal",
   "short_name": "مواقيت الصلاة في Bhopal",
   "description": "مواقيت الصلاة اليوم في Bhopal، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBhopal.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bhopal.html",
+  "id": "/ar/prayer-times-in-bhopal.html",
   "start_url": "./prayer-times-in-bhopal.html",
   "scope": "./prayer-times-in-bhopal.html",
   "display": "standalone",

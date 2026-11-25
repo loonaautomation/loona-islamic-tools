@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tabuk",
   "short_name": "Часове за намаз в Tabuk",
   "description": "Днешните часове за намаз в Tabuk, Саудитска Арабия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Umm al-Qura, изчислени на живо на вашето устройство за Tabuk.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tabuk.html",
+  "id": "/bg/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Amravati的禮拜時間",
   "short_name": "Amravati的禮拜時間",
   "description": "Amravati（印度）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Amravati實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-amravati.html",
+  "id": "/zh-hant/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jūnāgadh",
   "short_name": "Bønnetider i Jūnāgadh",
   "description": "Dagens bønnetider i Jūnāgadh, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jūnāgadh.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-junagadh.html",
+  "id": "/da/prayer-times-in-junagadh.html",
   "start_url": "./prayer-times-in-junagadh.html",
   "scope": "./prayer-times-in-junagadh.html",
   "display": "standalone",

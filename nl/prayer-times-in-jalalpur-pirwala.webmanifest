@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Jalalpur Pirwala",
   "short_name": "Gebedstijden in Jalalpur Pirwala",
   "description": "De gebedstijden van vandaag in Jalalpur Pirwala, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Jalalpur Pirwala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-jalalpur-pirwala.html",
+  "id": "/nl/prayer-times-in-jalalpur-pirwala.html",
   "start_url": "./prayer-times-in-jalalpur-pirwala.html",
   "scope": "./prayer-times-in-jalalpur-pirwala.html",
   "display": "standalone",

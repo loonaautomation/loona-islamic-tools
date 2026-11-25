@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Kanpur",
   "short_name": "Gebedstijden in Kanpur",
   "description": "De gebedstijden van vandaag in Kanpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Kanpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-kanpur.html",
+  "id": "/nl/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

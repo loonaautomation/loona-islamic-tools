@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Omdurman",
   "short_name": "Gebedstijden in Omdurman",
   "description": "De gebedstijden van vandaag in Omdurman, Soedan: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Omdurman.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-omdurman.html",
+  "id": "/nl/prayer-times-in-omdurman.html",
   "start_url": "./prayer-times-in-omdurman.html",
   "scope": "./prayer-times-in-omdurman.html",
   "display": "standalone",

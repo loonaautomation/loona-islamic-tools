@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rufisque est",
   "short_name": "Gebetszeiten in Rufisque est",
   "description": "Die heutigen Gebetszeiten in Rufisque est, Senegal: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Rufisque est.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rufisque-est.html",
+  "id": "/de/prayer-times-in-rufisque-est.html",
   "start_url": "./prayer-times-in-rufisque-est.html",
   "scope": "./prayer-times-in-rufisque-est.html",
   "display": "standalone",

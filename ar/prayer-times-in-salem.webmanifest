@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Salem",
   "short_name": "مواقيت الصلاة في Salem",
   "description": "مواقيت الصلاة اليوم في Salem، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSalem.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-salem.html",
+  "id": "/ar/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Al Ḩudaydah",
   "short_name": "Время намаза в городе Al Ḩudaydah",
   "description": "Время намаза на сегодня: Al Ḩudaydah, Йемен: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Al Ḩudaydah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-al-hudaydah.html",
+  "id": "/ru/prayer-times-in-al-hudaydah.html",
   "start_url": "./prayer-times-in-al-hudaydah.html",
   "scope": "./prayer-times-in-al-hudaydah.html",
   "display": "standalone",

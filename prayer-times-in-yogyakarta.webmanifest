@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Yogyakarta",
   "short_name": "Prayer Times in Yogyakarta",
   "description": "Today's prayer times in Yogyakarta, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Yogyakarta.",
-  "id": "/loona-islamic-tools/prayer-times-in-yogyakarta.html",
+  "id": "/prayer-times-in-yogyakarta.html",
   "start_url": "./prayer-times-in-yogyakarta.html",
   "scope": "./prayer-times-in-yogyakarta.html",
   "display": "standalone",

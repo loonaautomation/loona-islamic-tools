@@ -2,7 +2,7 @@
   "name": "Loona คลังดุอาอ์",
   "short_name": "คลังดุอาอ์",
   "description": "คลังดุอาอ์ที่ถูกต้องสำหรับทุกช่วงเวลา — ยามเช้า อาหาร การเดินทาง บ้าน ความวิตกกังวล การขออภัย — แต่ละบทพร้อมภาษาอาหรับ คำอ่านทับศัพท์ คำแปล และแหล่งที่มา",
-  "id": "/loona-islamic-tools/th/duas-library/",
+  "id": "/th/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

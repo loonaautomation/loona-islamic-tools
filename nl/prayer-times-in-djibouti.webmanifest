@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Djibouti",
   "short_name": "Gebedstijden in Djibouti",
   "description": "Gebedstijden van vandaag in Djibouti, Djibouti: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Djibouti.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-djibouti.html",
+  "id": "/nl/prayer-times-in-djibouti.html",
   "start_url": "./prayer-times-in-djibouti.html",
   "scope": "./prayer-times-in-djibouti.html",
   "display": "standalone",

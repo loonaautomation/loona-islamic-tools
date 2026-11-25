@@ -2,7 +2,7 @@
   "name": "Loona Sevilla Namaz Vakitleri",
   "short_name": "Sevilla Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sevilla, İspanya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sevilla için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sevilla.html",
+  "id": "/tr/prayer-times-in-sevilla.html",
   "start_url": "./prayer-times-in-sevilla.html",
   "scope": "./prayer-times-in-sevilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Boston",
   "short_name": "Časy modliteb v Boston",
   "description": "Dnešní časy modliteb v Boston, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Boston.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-boston.html",
+  "id": "/cs/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

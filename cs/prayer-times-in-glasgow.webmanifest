@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Glasgow",
   "short_name": "Časy modliteb v Glasgow",
   "description": "Dnešní časy modliteb v Glasgow, Spojené království: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Glasgow.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-glasgow.html",
+  "id": "/cs/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

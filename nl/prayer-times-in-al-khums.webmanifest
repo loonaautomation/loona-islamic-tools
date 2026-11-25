@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Al Khums",
   "short_name": "Gebedstijden in Al Khums",
   "description": "De gebedstijden van vandaag in Al Khums, Libië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Al Khums.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-al-khums.html",
+  "id": "/nl/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

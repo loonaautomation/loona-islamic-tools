@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Visakhapatnam",
   "short_name": "זמני תפילה בעיר Visakhapatnam",
   "description": "זמני התפילה של היום בעיר Visakhapatnam, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Visakhapatnam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-visakhapatnam.html",
+  "id": "/he/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

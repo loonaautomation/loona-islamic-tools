@@ -2,7 +2,7 @@
   "name": "Loona Santa Ana の礼拝時刻",
   "short_name": "Santa Ana の礼拝時刻",
   "description": "Santa Ana（アメリカ合衆国）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で Santa Ana についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-santa-ana.html",
+  "id": "/ja/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

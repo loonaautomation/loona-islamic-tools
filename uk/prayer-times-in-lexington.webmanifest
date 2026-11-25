@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Lexington",
   "short_name": "Час намазу в Lexington",
   "description": "Сьогоднішній час намазу в Lexington, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Lexington.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-lexington.html",
+  "id": "/uk/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fergana imaidői",
   "short_name": "Fergana imaidői",
   "description": "A mai imaidők: Fergana, Üzbegisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Fergana számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-fergana.html",
+  "id": "/hu/prayer-times-in-fergana.html",
   "start_url": "./prayer-times-in-fergana.html",
   "scope": "./prayer-times-in-fergana.html",
   "display": "standalone",

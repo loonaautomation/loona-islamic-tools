@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Phoenix",
   "short_name": "เวลาละหมาดใน Phoenix",
   "description": "เวลาละหมาดวันนี้ใน Phoenix, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Phoenix",
-  "id": "/loona-islamic-tools/th/prayer-times-in-phoenix.html",
+  "id": "/th/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

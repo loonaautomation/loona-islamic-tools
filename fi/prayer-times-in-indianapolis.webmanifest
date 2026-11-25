@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Indianapolis",
   "short_name": "Rukousajat: Indianapolis",
   "description": "Tämän päivän rukousajat paikassa Indianapolis, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Indianapolis.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-indianapolis.html",
+  "id": "/fi/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

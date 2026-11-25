@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Peshawar",
   "short_name": "Orari di preghiera a Peshawar",
   "description": "Orari di preghiera di oggi a Peshawar, Pakistan: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Peshawar.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-peshawar.html",
+  "id": "/it/prayer-times-in-peshawar.html",
   "start_url": "./prayer-times-in-peshawar.html",
   "scope": "./prayer-times-in-peshawar.html",
   "display": "standalone",

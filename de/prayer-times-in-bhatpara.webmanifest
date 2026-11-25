@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Bhātpāra",
   "short_name": "Gebetszeiten in Bhātpāra",
   "description": "Die heutigen Gebetszeiten in Bhātpāra, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Bhātpāra.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-bhatpara.html",
+  "id": "/de/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

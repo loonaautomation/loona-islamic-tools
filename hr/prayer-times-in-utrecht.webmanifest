@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Utrecht",
   "short_name": "Vremena namaza u gradu Utrecht",
   "description": "Današnja vremena namaza u gradu Utrecht, Nizozemska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Utrecht.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-utrecht.html",
+  "id": "/hr/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

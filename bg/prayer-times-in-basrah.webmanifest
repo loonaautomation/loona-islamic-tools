@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Basrah",
   "short_name": "Часове за намаз в Basrah",
   "description": "Днешните часове за намаз в Basrah, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Basrah.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-basrah.html",
+  "id": "/bg/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

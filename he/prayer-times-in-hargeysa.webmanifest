@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hargeysa",
   "short_name": "זמני תפילה בעיר Hargeysa",
   "description": "זמני התפילה של היום בעיר Hargeysa, סומליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Hargeysa.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hargeysa.html",
+  "id": "/he/prayer-times-in-hargeysa.html",
   "start_url": "./prayer-times-in-hargeysa.html",
   "scope": "./prayer-times-in-hargeysa.html",
   "display": "standalone",

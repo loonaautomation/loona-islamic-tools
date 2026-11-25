@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Mesa",
   "short_name": "Giờ cầu nguyện tại Mesa",
   "description": "Giờ cầu nguyện hôm nay tại Mesa, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Mesa.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-mesa.html",
+  "id": "/vi/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

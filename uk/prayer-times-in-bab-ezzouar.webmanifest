@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Bab Ezzouar",
   "short_name": "Час намазу в Bab Ezzouar",
   "description": "Сьогоднішній час намазу в Bab Ezzouar, Алжир: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Bab Ezzouar.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-bab-ezzouar.html",
+  "id": "/uk/prayer-times-in-bab-ezzouar.html",
   "start_url": "./prayer-times-in-bab-ezzouar.html",
   "scope": "./prayer-times-in-bab-ezzouar.html",
   "display": "standalone",

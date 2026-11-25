@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Cardiff",
   "short_name": "זמני תפילה בעיר Cardiff",
   "description": "זמני התפילה של היום בעיר Cardiff, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Cardiff.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-cardiff.html",
+  "id": "/he/prayer-times-in-cardiff.html",
   "start_url": "./prayer-times-in-cardiff.html",
   "scope": "./prayer-times-in-cardiff.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Milan",
   "short_name": "Czasy modlitw w miejscowości Milan",
   "description": "Dzisiejsze czasy modlitw w miejscowości Milan, kraj Włochy: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Milan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-milan.html",
+  "id": "/pl/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

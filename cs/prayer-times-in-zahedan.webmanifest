@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Zahedan",
   "short_name": "Časy modliteb v Zahedan",
   "description": "Dnešní časy modliteb v Zahedan, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Zahedan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-zahedan.html",
+  "id": "/cs/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

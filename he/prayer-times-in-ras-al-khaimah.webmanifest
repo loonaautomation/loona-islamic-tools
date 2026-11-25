@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ras Al Khaimah",
   "short_name": "זמני תפילה בעיר Ras Al Khaimah",
   "description": "זמני התפילה של היום בעיר Ras Al Khaimah, איחוד האמירויות הערביות: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ras-al-khaimah.html",
+  "id": "/he/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

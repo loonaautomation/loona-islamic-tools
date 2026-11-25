@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Bamako",
   "short_name": "Gebedstijden in Bamako",
   "description": "De gebedstijden van vandaag in Bamako, Mali: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Bamako.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-bamako.html",
+  "id": "/nl/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

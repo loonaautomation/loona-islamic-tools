@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Houston",
   "short_name": "Waktu Salat di Houston",
   "description": "Waktu salat hari ini di Houston, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Houston.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-houston.html",
+  "id": "/id/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

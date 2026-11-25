@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Koutiala",
   "short_name": "Bønnetider i Koutiala",
   "description": "Dagens bønnetider i Koutiala, Mali: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Koutiala.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-koutiala.html",
+  "id": "/da/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

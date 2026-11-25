@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Saint Paul",
   "short_name": "Prayer Times in Saint Paul",
   "description": "Today's prayer times in Saint Paul, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Saint Paul.",
-  "id": "/loona-islamic-tools/prayer-times-in-saint-paul.html",
+  "id": "/prayer-times-in-saint-paul.html",
   "start_url": "./prayer-times-in-saint-paul.html",
   "scope": "./prayer-times-in-saint-paul.html",
   "display": "standalone",

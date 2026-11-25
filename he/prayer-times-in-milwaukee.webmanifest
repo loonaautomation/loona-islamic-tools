@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Milwaukee",
   "short_name": "זמני תפילה בעיר Milwaukee",
   "description": "זמני התפילה של היום בעיר Milwaukee, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Milwaukee.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-milwaukee.html",
+  "id": "/he/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

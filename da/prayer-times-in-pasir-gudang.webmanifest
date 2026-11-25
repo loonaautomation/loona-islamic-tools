@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pasir Gudang",
   "short_name": "Bønnetider i Pasir Gudang",
   "description": "Dagens bønnetider i Pasir Gudang, Malaysia: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Pasir Gudang.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-pasir-gudang.html",
+  "id": "/da/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

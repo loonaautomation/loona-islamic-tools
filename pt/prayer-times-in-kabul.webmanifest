@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Kabul",
   "short_name": "Horários de Oração em Kabul",
   "description": "Horários de oração de hoje em Kabul, Afeganistão: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Kabul.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-kabul.html",
+  "id": "/pt/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

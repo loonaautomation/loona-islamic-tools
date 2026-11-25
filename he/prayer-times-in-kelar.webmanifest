@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kelar",
   "short_name": "זמני תפילה בעיר Kelar",
   "description": "זמני התפילה של היום בעיר Kelar, עיראק: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kelar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kelar.html",
+  "id": "/he/prayer-times-in-kelar.html",
   "start_url": "./prayer-times-in-kelar.html",
   "scope": "./prayer-times-in-kelar.html",
   "display": "standalone",

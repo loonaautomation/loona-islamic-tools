@@ -2,7 +2,7 @@
   "name": "Loona Madrid imaidői",
   "short_name": "Madrid imaidői",
   "description": "A mai imaidők: Madrid, Spanyolország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Madrid számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-madrid.html",
+  "id": "/hu/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Malatya Namaz Vakitleri",
   "short_name": "Malatya Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Malatya, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Malatya için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-malatya.html",
+  "id": "/tr/prayer-times-in-malatya.html",
   "start_url": "./prayer-times-in-malatya.html",
   "scope": "./prayer-times-in-malatya.html",
   "display": "standalone",

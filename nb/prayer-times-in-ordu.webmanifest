@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ordu",
   "short_name": "Bønnetider i Ordu",
   "description": "Dagens bønnetider i Ordu, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Ordu.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ordu.html",
+  "id": "/nb/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Barddhamān",
   "short_name": "Час намазу в Barddhamān",
   "description": "Сьогоднішній час намазу в Barddhamān, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Barddhamān.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-barddhaman.html",
+  "id": "/uk/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

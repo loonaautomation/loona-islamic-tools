@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Shivaji Nagar",
   "short_name": "Vremena namaza u gradu Shivaji Nagar",
   "description": "Današnja vremena namaza u gradu Shivaji Nagar, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Shivaji Nagar.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-shivaji-nagar.html",
+  "id": "/hr/prayer-times-in-shivaji-nagar.html",
   "start_url": "./prayer-times-in-shivaji-nagar.html",
   "scope": "./prayer-times-in-shivaji-nagar.html",
   "display": "standalone",

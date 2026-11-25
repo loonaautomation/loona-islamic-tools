@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Jayapura",
   "short_name": "Časy modliteb v Jayapura",
   "description": "Dnešní časy modliteb v Jayapura, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Jayapura.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-jayapura.html",
+  "id": "/cs/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

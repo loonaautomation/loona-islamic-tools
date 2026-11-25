@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Qods",
   "short_name": "Horários de Oração em Qods",
   "description": "Horários de oração de hoje em Qods, Irão: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Qods.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-qods.html",
+  "id": "/pt/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

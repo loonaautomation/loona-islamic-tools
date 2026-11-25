@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Batu",
   "short_name": "Časy modliteb v Batu",
   "description": "Dnešní časy modliteb v Batu, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Batu.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-batu.html",
+  "id": "/cs/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

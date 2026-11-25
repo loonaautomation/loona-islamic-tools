@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Wellington",
   "short_name": "זמני תפילה בעיר Wellington",
   "description": "זמני התפילה של היום בעיר Wellington, ניו זילנד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Wellington.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-wellington.html",
+  "id": "/he/prayer-times-in-wellington.html",
   "start_url": "./prayer-times-in-wellington.html",
   "scope": "./prayer-times-in-wellington.html",
   "display": "standalone",

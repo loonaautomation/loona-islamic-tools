@@ -2,7 +2,7 @@
   "name": "Loona Hicri Takvim",
   "short_name": "Hicri Takvim",
   "description": "Her günün Miladi tarihini de gösteren temiz bir İslami takvimde herhangi bir Hicri ay ve yıla göz atın. Umm al-Qura takvimi, ücretsiz ve her zaman güncel.",
-  "id": "/loona-islamic-tools/tr/hijri-calendar/",
+  "id": "/tr/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

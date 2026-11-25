@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Mosul",
   "short_name": "Orari di preghiera a Mosul",
   "description": "Orari di preghiera di oggi a Mosul, Iraq: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Mosul.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-mosul.html",
+  "id": "/it/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Al Kharj",
   "short_name": "Horários de Oração em Al Kharj",
   "description": "Horários de oração de hoje em Al Kharj, Arábia Saudita: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Umm al-Qura, calculado ao vivo no seu dispositivo para Al Kharj.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-al-kharj.html",
+  "id": "/pt/prayer-times-in-al-kharj.html",
   "start_url": "./prayer-times-in-al-kharj.html",
   "scope": "./prayer-times-in-al-kharj.html",
   "display": "standalone",

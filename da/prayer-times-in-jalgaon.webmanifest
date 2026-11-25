@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jalgaon",
   "short_name": "Bønnetider i Jalgaon",
   "description": "Dagens bønnetider i Jalgaon, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Jalgaon.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-jalgaon.html",
+  "id": "/da/prayer-times-in-jalgaon.html",
   "start_url": "./prayer-times-in-jalgaon.html",
   "scope": "./prayer-times-in-jalgaon.html",
   "display": "standalone",

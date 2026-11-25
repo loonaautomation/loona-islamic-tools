@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Aurangabad",
   "short_name": "مواقيت الصلاة في Aurangabad",
   "description": "مواقيت الصلاة اليوم في Aurangabad، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAurangabad.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-aurangabad.html",
+  "id": "/ar/prayer-times-in-aurangabad.html",
   "start_url": "./prayer-times-in-aurangabad.html",
   "scope": "./prayer-times-in-aurangabad.html",
   "display": "standalone",

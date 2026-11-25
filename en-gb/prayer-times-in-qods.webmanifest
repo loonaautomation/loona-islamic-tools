@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Qods Today",
   "short_name": "Prayer Times in Qods Today",
   "description": "Today's prayer times in Qods, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Qods.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-qods.html",
+  "id": "/en-gb/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

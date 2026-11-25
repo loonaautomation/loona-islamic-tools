@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Reading",
   "short_name": "Gebedstijden in Reading",
   "description": "De gebedstijden van vandaag in Reading, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Reading.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-reading.html",
+  "id": "/nl/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

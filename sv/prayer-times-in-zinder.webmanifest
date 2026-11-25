@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Zinder",
   "short_name": "Bönetider i Zinder",
   "description": "Dagens bönetider i Zinder, Niger: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Zinder.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-zinder.html",
+  "id": "/sv/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

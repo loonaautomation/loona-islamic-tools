@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Fes",
   "short_name": "Rukousajat: Fes",
   "description": "Tämän päivän rukousajat paikassa Fes, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Fes.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-fes.html",
+  "id": "/fi/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

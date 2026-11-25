@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kandahār",
   "short_name": "זמני תפילה בעיר Kandahār",
   "description": "זמני התפילה של היום בעיר Kandahār, אפגניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kandahār.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kandahar.html",
+  "id": "/he/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

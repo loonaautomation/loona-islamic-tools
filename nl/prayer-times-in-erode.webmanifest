@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Erode",
   "short_name": "Gebedstijden in Erode",
   "description": "De gebedstijden van vandaag in Erode, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Erode.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-erode.html",
+  "id": "/nl/prayer-times-in-erode.html",
   "start_url": "./prayer-times-in-erode.html",
   "scope": "./prayer-times-in-erode.html",
   "display": "standalone",

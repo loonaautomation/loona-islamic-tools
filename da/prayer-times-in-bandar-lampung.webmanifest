@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bandar Lampung",
   "short_name": "Bønnetider i Bandar Lampung",
   "description": "Dagens bønnetider i Bandar Lampung, Indonesien: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Bandar Lampung.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bandar-lampung.html",
+  "id": "/da/prayer-times-in-bandar-lampung.html",
   "start_url": "./prayer-times-in-bandar-lampung.html",
   "scope": "./prayer-times-in-bandar-lampung.html",
   "display": "standalone",

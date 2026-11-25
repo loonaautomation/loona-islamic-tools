@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Eslamshahr",
   "short_name": "Vremena namaza u gradu Eslamshahr",
   "description": "Današnja vremena namaza u gradu Eslamshahr, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Eslamshahr.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-eslamshahr.html",
+  "id": "/hr/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Beirut",
   "short_name": "Orari di preghiera a Beirut",
   "description": "Orari di preghiera di oggi a Beirut, Libano: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Beirut.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-beirut.html",
+  "id": "/it/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

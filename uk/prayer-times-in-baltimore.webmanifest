@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Baltimore",
   "short_name": "Час намазу в Baltimore",
   "description": "Сьогоднішній час намазу в Baltimore, Сполучені Штати: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод ISNA, розраховано наживо на вашому пристрої для Baltimore.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-baltimore.html",
+  "id": "/uk/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

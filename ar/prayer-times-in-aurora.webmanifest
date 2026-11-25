@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Aurora",
   "short_name": "مواقيت الصلاة في Aurora",
   "description": "مواقيت الصلاة اليوم في Aurora، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـAurora.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-aurora.html",
+  "id": "/ar/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

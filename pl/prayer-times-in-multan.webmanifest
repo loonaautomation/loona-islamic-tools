@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Multan",
   "short_name": "Czasy modlitw w miejscowości Multan",
   "description": "Dzisiejsze czasy modlitw w miejscowości Multan, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Multan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-multan.html",
+  "id": "/pl/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

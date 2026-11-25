@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mannheim",
   "short_name": "Časy modliteb v Mannheim",
   "description": "Dnešní časy modliteb v Mannheim, Německo: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Mannheim.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mannheim.html",
+  "id": "/cs/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

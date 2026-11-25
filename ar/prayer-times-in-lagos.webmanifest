@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Lagos",
   "short_name": "مواقيت الصلاة في Lagos",
   "description": "مواقيت الصلاة اليوم في Lagos، نيجيريا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـLagos.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-lagos.html",
+  "id": "/ar/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

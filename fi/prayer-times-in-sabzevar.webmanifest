@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sabzevar",
   "short_name": "Rukousajat: Sabzevar",
   "description": "Tämän päivän rukousajat paikassa Sabzevar, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sabzevar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sabzevar.html",
+  "id": "/fi/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Faisalabad",
   "short_name": "Časy modlitieb v Faisalabad",
   "description": "Dnešné časy modlitieb v Faisalabad, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Faisalabad.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-faisalabad.html",
+  "id": "/sk/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

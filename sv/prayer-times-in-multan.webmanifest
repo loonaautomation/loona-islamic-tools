@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Multan",
   "short_name": "Bönetider i Multan",
   "description": "Dagens bönetider i Multan, Pakistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Multan.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-multan.html",
+  "id": "/sv/prayer-times-in-multan.html",
   "start_url": "./prayer-times-in-multan.html",
   "scope": "./prayer-times-in-multan.html",
   "display": "standalone",

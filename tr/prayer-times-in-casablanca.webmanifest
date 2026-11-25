@@ -2,7 +2,7 @@
   "name": "Loona Casablanca Namaz Vakitleri",
   "short_name": "Casablanca Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Casablanca, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Casablanca için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-casablanca.html",
+  "id": "/tr/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

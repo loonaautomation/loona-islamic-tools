@@ -2,7 +2,7 @@
   "name": "Loona Ternate的禮拜時間",
   "short_name": "Ternate的禮拜時間",
   "description": "Ternate（印度尼西亞）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。穆斯林世界聯盟方法，在您的裝置上為Ternate實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-ternate.html",
+  "id": "/zh-hant/prayer-times-in-ternate.html",
   "start_url": "./prayer-times-in-ternate.html",
   "scope": "./prayer-times-in-ternate.html",
   "display": "standalone",

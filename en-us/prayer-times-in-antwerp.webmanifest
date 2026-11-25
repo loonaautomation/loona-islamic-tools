@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Antwerp Today",
   "short_name": "Prayer Times in Antwerp Today",
   "description": "Today's prayer times in Antwerp, Belgium: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Antwerp.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-antwerp.html",
+  "id": "/en-us/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

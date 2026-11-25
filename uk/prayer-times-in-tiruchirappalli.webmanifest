@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Tiruchirappalli",
   "short_name": "Час намазу в Tiruchirappalli",
   "description": "Сьогоднішній час намазу в Tiruchirappalli, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Tiruchirappalli.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-tiruchirappalli.html",
+  "id": "/uk/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ismailia",
   "short_name": "Ore de rugăciune în Ismailia",
   "description": "Orele de rugăciune de azi în Ismailia, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Ismailia.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-ismailia.html",
+  "id": "/ro/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

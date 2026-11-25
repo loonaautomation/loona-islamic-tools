@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Milwaukee",
   "short_name": "Rukousajat: Milwaukee",
   "description": "Tämän päivän rukousajat paikassa Milwaukee, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Milwaukee.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-milwaukee.html",
+  "id": "/fi/prayer-times-in-milwaukee.html",
   "start_url": "./prayer-times-in-milwaukee.html",
   "scope": "./prayer-times-in-milwaukee.html",
   "display": "standalone",

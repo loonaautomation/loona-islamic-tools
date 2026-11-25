@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Denpasar",
   "short_name": "Gebedstijden in Denpasar",
   "description": "De gebedstijden van vandaag in Denpasar, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Denpasar.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-denpasar.html",
+  "id": "/nl/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

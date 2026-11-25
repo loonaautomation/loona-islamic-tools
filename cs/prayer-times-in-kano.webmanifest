@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kano",
   "short_name": "Časy modliteb v Kano",
   "description": "Dnešní časy modliteb v Kano, Nigérie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kano.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kano.html",
+  "id": "/cs/prayer-times-in-kano.html",
   "start_url": "./prayer-times-in-kano.html",
   "scope": "./prayer-times-in-kano.html",
   "display": "standalone",

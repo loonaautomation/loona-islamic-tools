@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Birkenhead",
   "short_name": "مواقيت الصلاة في Birkenhead",
   "description": "مواقيت الصلاة اليوم في Birkenhead، المملكة المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBirkenhead.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-birkenhead.html",
+  "id": "/ar/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

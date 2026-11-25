@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Palembang",
   "short_name": "Час намазу в Palembang",
   "description": "Сьогоднішній час намазу в Palembang, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Palembang.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-palembang.html",
+  "id": "/uk/prayer-times-in-palembang.html",
   "start_url": "./prayer-times-in-palembang.html",
   "scope": "./prayer-times-in-palembang.html",
   "display": "standalone",

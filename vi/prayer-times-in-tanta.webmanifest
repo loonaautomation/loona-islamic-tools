@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Tanta",
   "short_name": "Giờ cầu nguyện tại Tanta",
   "description": "Giờ cầu nguyện hôm nay tại Tanta, Ai Cập: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Egyptian General Authority, được tính trực tiếp trên thiết bị của bạn cho Tanta.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-tanta.html",
+  "id": "/vi/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

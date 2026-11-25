@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Borivli",
   "short_name": "Время намаза в городе Borivli",
   "description": "Время намаза на сегодня: Borivli, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Borivli.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-borivli.html",
+  "id": "/ru/prayer-times-in-borivli.html",
   "start_url": "./prayer-times-in-borivli.html",
   "scope": "./prayer-times-in-borivli.html",
   "display": "standalone",

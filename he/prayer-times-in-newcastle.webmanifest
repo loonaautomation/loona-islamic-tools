@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה ב-Newcastle (אוסטרליה)",
   "short_name": "זמני תפילה ב-Newcastle (אוסטרליה)",
   "description": "זמני התפילה של היום ב-Newcastle, אוסטרליה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Newcastle.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-newcastle.html",
+  "id": "/he/prayer-times-in-newcastle.html",
   "start_url": "./prayer-times-in-newcastle.html",
   "scope": "./prayer-times-in-newcastle.html",
   "display": "standalone",

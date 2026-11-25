@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Nzérékoré",
   "short_name": "Heures de prière à Nzérékoré",
   "description": "Les heures de prière d’aujourd’hui à Nzérékoré, Guinée : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Nzérékoré.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-nzerekore.html",
+  "id": "/fr/prayer-times-in-nzerekore.html",
   "start_url": "./prayer-times-in-nzerekore.html",
   "scope": "./prayer-times-in-nzerekore.html",
   "display": "standalone",

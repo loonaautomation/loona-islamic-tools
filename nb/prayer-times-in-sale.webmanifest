@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Salé",
   "short_name": "Bønnetider i Salé",
   "description": "Dagens bønnetider i Salé, Marokko: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Salé.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-sale.html",
+  "id": "/nb/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

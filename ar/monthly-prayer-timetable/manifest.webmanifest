@@ -2,7 +2,7 @@
   "name": "Loona جدول مواقيت الصلاة الشهري",
   "short_name": "جدول مواقيت الصلاة الشهري",
   "description": "ولّد جدول مواقيت صلاة شهريًا قابلًا للطباعة لأي مدينة: المواقيت الستة للشهر كله، بطريقة حسابك ومذهب عصرك، مجاني وخاص.",
-  "id": "/loona-islamic-tools/ar/monthly-prayer-timetable/",
+  "id": "/ar/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

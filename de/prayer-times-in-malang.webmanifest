@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Malang",
   "short_name": "Gebetszeiten in Malang",
   "description": "Die heutigen Gebetszeiten in Malang, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Malang.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-malang.html",
+  "id": "/de/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

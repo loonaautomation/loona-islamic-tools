@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kota Bharu",
   "short_name": "เวลาละหมาดใน Kota Bharu",
   "description": "เวลาละหมาดวันนี้ใน Kota Bharu, Malaysia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kota Bharu",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kota-bharu.html",
+  "id": "/th/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

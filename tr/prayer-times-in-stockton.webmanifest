@@ -2,7 +2,7 @@
   "name": "Loona Stockton Namaz Vakitleri",
   "short_name": "Stockton Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Stockton, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Stockton için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-stockton.html",
+  "id": "/tr/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

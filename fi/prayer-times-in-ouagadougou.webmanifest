@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ouagadougou",
   "short_name": "Rukousajat: Ouagadougou",
   "description": "Tämän päivän rukousajat paikassa Ouagadougou, Burkina Faso: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ouagadougou.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ouagadougou.html",
+  "id": "/fi/prayer-times-in-ouagadougou.html",
   "start_url": "./prayer-times-in-ouagadougou.html",
   "scope": "./prayer-times-in-ouagadougou.html",
   "display": "standalone",

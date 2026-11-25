@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tawau",
   "short_name": "Gebetszeiten in Tawau",
   "description": "Die heutigen Gebetszeiten in Tawau, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Tawau.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tawau.html",
+  "id": "/de/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

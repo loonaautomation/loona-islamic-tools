@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mesa",
   "short_name": "Bönetider i Mesa",
   "description": "Dagens bönetider i Mesa, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Mesa.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mesa.html",
+  "id": "/sv/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

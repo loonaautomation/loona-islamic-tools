@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Tawau",
   "short_name": "זמני תפילה בעיר Tawau",
   "description": "זמני התפילה של היום בעיר Tawau, מלזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tawau.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tawau.html",
+  "id": "/he/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

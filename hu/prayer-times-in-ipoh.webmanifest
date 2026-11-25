@@ -2,7 +2,7 @@
   "name": "Loona Ipoh imaidői",
   "short_name": "Ipoh imaidői",
   "description": "A mai imaidők: Ipoh, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Ipoh számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ipoh.html",
+  "id": "/hu/prayer-times-in-ipoh.html",
   "start_url": "./prayer-times-in-ipoh.html",
   "scope": "./prayer-times-in-ipoh.html",
   "display": "standalone",

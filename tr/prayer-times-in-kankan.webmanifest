@@ -2,7 +2,7 @@
   "name": "Loona Kankan Namaz Vakitleri",
   "short_name": "Kankan Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kankan, Gine: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kankan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kankan.html",
+  "id": "/tr/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

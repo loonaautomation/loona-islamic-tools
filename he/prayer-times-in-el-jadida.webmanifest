@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר El Jadida",
   "short_name": "זמני תפילה בעיר El Jadida",
   "description": "זמני התפילה של היום בעיר El Jadida, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור El Jadida.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-el-jadida.html",
+  "id": "/he/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

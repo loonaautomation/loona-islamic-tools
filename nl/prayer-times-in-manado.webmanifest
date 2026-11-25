@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Manado",
   "short_name": "Gebedstijden in Manado",
   "description": "De gebedstijden van vandaag in Manado, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Manado.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-manado.html",
+  "id": "/nl/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sargodha",
   "short_name": "Ώρες Προσευχής στο Sargodha",
   "description": "Οι σημερινές ώρες προσευχής στο Sargodha, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Sargodha.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sargodha.html",
+  "id": "/el/prayer-times-in-sargodha.html",
   "start_url": "./prayer-times-in-sargodha.html",
   "scope": "./prayer-times-in-sargodha.html",
   "display": "standalone",

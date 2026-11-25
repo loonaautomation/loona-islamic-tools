@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Montréal",
   "short_name": "Časy modliteb v Montréal",
   "description": "Dnešní časy modliteb v Montréal, Kanada: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Montréal.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-montreal.html",
+  "id": "/cs/prayer-times-in-montreal.html",
   "start_url": "./prayer-times-in-montreal.html",
   "scope": "./prayer-times-in-montreal.html",
   "display": "standalone",

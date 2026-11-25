@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Atyrau Today",
   "short_name": "Prayer Times in Atyrau Today",
   "description": "Today's prayer times in Atyrau, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Atyrau.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-atyrau.html",
+  "id": "/en-us/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

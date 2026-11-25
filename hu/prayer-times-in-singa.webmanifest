@@ -2,7 +2,7 @@
   "name": "Loona Singa imaidői",
   "short_name": "Singa imaidői",
   "description": "A mai imaidők: Singa, Szudán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Singa számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-singa.html",
+  "id": "/hu/prayer-times-in-singa.html",
   "start_url": "./prayer-times-in-singa.html",
   "scope": "./prayer-times-in-singa.html",
   "display": "standalone",

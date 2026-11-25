@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bochum",
   "short_name": "Ώρες Προσευχής στο Bochum",
   "description": "Οι σημερινές ώρες προσευχής στο Bochum, Γερμανία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Bochum.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bochum.html",
+  "id": "/el/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

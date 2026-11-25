@@ -2,7 +2,7 @@
   "name": "Loona Kota imaidői",
   "short_name": "Kota imaidői",
   "description": "A mai imaidők: Kota, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kota számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kota.html",
+  "id": "/hu/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

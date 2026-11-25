@@ -2,7 +2,7 @@
   "name": "Loona Islamilainen päivämäärä tänään",
   "short_name": "Islamilainen päivämäärä tänään",
   "description": "Mikä on islamilainen päivämäärä tänään? Katso tämän päivän hijri-päivämäärä — päivä, kuukausi ja vuosi (Umm al-Qura) — gregoriaanisen päivämäärän kanssa, päivitettynä reaaliajassa laitteellasi. Ilmaiseksi.",
-  "id": "/loona-islamic-tools/fi/islamic-date-today/",
+  "id": "/fi/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

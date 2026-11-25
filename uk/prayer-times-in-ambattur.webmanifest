@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ambattur",
   "short_name": "Час намазу в Ambattur",
   "description": "Сьогоднішній час намазу в Ambattur, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Ambattur.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ambattur.html",
+  "id": "/uk/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

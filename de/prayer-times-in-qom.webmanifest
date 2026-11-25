@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Qom",
   "short_name": "Gebetszeiten in Qom",
   "description": "Die heutigen Gebetszeiten in Qom, Iran: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Qom.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-qom.html",
+  "id": "/de/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

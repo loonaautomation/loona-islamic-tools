@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο South Boston",
   "short_name": "Ώρες Προσευχής στο South Boston",
   "description": "Οι σημερινές ώρες προσευχής στο South Boston, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το South Boston.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-south-boston.html",
+  "id": "/el/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

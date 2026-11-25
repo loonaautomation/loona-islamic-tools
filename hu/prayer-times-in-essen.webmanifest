@@ -2,7 +2,7 @@
   "name": "Loona Essen imaidői",
   "short_name": "Essen imaidői",
   "description": "A mai imaidők: Essen, Németország: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Essen számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-essen.html",
+  "id": "/hu/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

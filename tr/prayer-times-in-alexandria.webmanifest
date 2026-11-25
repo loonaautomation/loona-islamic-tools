@@ -2,7 +2,7 @@
   "name": "Loona Alexandria Namaz Vakitleri",
   "short_name": "Alexandria Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Alexandria, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Alexandria için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-alexandria.html",
+  "id": "/tr/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

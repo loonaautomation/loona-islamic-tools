@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Birkenhead",
   "short_name": "Bönetider i Birkenhead",
   "description": "Dagens bönetider i Birkenhead, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Birkenhead.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-birkenhead.html",
+  "id": "/sv/prayer-times-in-birkenhead.html",
   "start_url": "./prayer-times-in-birkenhead.html",
   "scope": "./prayer-times-in-birkenhead.html",
   "display": "standalone",

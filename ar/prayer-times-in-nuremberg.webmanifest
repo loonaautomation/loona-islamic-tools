@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Nuremberg",
   "short_name": "مواقيت الصلاة في Nuremberg",
   "description": "مواقيت الصلاة اليوم في Nuremberg، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNuremberg.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-nuremberg.html",
+  "id": "/ar/prayer-times-in-nuremberg.html",
   "start_url": "./prayer-times-in-nuremberg.html",
   "scope": "./prayer-times-in-nuremberg.html",
   "display": "standalone",

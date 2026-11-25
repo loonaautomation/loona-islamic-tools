@@ -2,7 +2,7 @@
   "name": "Loona Eskişehir Namaz Vakitleri",
   "short_name": "Eskişehir Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Eskişehir, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Eskişehir için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-eskisehir.html",
+  "id": "/tr/prayer-times-in-eskisehir.html",
   "start_url": "./prayer-times-in-eskisehir.html",
   "scope": "./prayer-times-in-eskisehir.html",
   "display": "standalone",

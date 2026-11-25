@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Delhi",
   "short_name": "Heures de prière à Delhi",
   "description": "Les heures de prière d’aujourd’hui à Delhi, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Delhi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-delhi.html",
+  "id": "/fr/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

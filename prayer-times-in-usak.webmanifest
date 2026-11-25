@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Uşak",
   "short_name": "Prayer Times in Uşak",
   "description": "Today's prayer times in Uşak, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Uşak.",
-  "id": "/loona-islamic-tools/prayer-times-in-usak.html",
+  "id": "/prayer-times-in-usak.html",
   "start_url": "./prayer-times-in-usak.html",
   "scope": "./prayer-times-in-usak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Karnāl",
   "short_name": "Horários de Oração em Karnāl",
   "description": "Horários de oração de hoje em Karnāl, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Karnāl.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-karnal.html",
+  "id": "/pt-br/prayer-times-in-karnal.html",
   "start_url": "./prayer-times-in-karnal.html",
   "scope": "./prayer-times-in-karnal.html",
   "display": "standalone",

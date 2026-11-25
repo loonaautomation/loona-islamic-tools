@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Berbera",
   "short_name": "Bønnetider i Berbera",
   "description": "Dagens bønnetider i Berbera, Somalia: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Berbera.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-berbera.html",
+  "id": "/nb/prayer-times-in-berbera.html",
   "start_url": "./prayer-times-in-berbera.html",
   "scope": "./prayer-times-in-berbera.html",
   "display": "standalone",

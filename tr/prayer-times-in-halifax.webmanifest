@@ -2,7 +2,7 @@
   "name": "Loona Halifax Namaz Vakitleri",
   "short_name": "Halifax Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Halifax, Kanada: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Halifax için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-halifax.html",
+  "id": "/tr/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

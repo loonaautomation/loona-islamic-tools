@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Virār",
   "short_name": "Waktu Salat di Virār",
   "description": "Waktu salat hari ini di Virār, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Virār.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-virar.html",
+  "id": "/id/prayer-times-in-virar.html",
   "start_url": "./prayer-times-in-virar.html",
   "scope": "./prayer-times-in-virar.html",
   "display": "standalone",

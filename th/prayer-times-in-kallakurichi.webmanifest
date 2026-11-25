@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kallakurichi",
   "short_name": "เวลาละหมาดใน Kallakurichi",
   "description": "เวลาละหมาดวันนี้ใน Kallakurichi, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kallakurichi",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kallakurichi.html",
+  "id": "/th/prayer-times-in-kallakurichi.html",
   "start_url": "./prayer-times-in-kallakurichi.html",
   "scope": "./prayer-times-in-kallakurichi.html",
   "display": "standalone",

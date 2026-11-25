@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Tulsa",
   "short_name": "Часове за намаз в Tulsa",
   "description": "Днешните часове за намаз в Tulsa, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Tulsa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-tulsa.html",
+  "id": "/bg/prayer-times-in-tulsa.html",
   "start_url": "./prayer-times-in-tulsa.html",
   "scope": "./prayer-times-in-tulsa.html",
   "display": "standalone",

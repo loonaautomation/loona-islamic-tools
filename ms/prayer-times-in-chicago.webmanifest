@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Chicago",
   "short_name": "Waktu Solat di Chicago",
   "description": "Waktu solat hari ini di Chicago, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Chicago.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-chicago.html",
+  "id": "/ms/prayer-times-in-chicago.html",
   "start_url": "./prayer-times-in-chicago.html",
   "scope": "./prayer-times-in-chicago.html",
   "display": "standalone",

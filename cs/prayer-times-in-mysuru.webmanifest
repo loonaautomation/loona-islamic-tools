@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Mysuru",
   "short_name": "Časy modliteb v Mysuru",
   "description": "Dnešní časy modliteb v Mysuru, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Mysuru.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-mysuru.html",
+  "id": "/cs/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

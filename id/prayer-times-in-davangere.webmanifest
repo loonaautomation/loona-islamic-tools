@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Davangere",
   "short_name": "Waktu Salat di Davangere",
   "description": "Waktu salat hari ini di Davangere, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Davangere.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-davangere.html",
+  "id": "/id/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

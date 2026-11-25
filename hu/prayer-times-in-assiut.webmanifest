@@ -2,7 +2,7 @@
   "name": "Loona Assiut imaidői",
   "short_name": "Assiut imaidői",
   "description": "A mai imaidők: Assiut, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Assiut számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-assiut.html",
+  "id": "/hu/prayer-times-in-assiut.html",
   "start_url": "./prayer-times-in-assiut.html",
   "scope": "./prayer-times-in-assiut.html",
   "display": "standalone",

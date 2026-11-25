@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Baltimore",
   "short_name": "Ore de rugăciune în Baltimore",
   "description": "Orele de rugăciune de azi în Baltimore, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Baltimore.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-baltimore.html",
+  "id": "/ro/prayer-times-in-baltimore.html",
   "start_url": "./prayer-times-in-baltimore.html",
   "scope": "./prayer-times-in-baltimore.html",
   "display": "standalone",

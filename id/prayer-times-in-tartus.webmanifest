@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Ţarţūs",
   "short_name": "Waktu Salat di Ţarţūs",
   "description": "Waktu salat hari ini di Ţarţūs, Suriah: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Ţarţūs.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-tartus.html",
+  "id": "/id/prayer-times-in-tartus.html",
   "start_url": "./prayer-times-in-tartus.html",
   "scope": "./prayer-times-in-tartus.html",
   "display": "standalone",

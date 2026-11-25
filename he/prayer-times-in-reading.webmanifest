@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Reading",
   "short_name": "זמני תפילה בעיר Reading",
   "description": "זמני התפילה של היום בעיר Reading, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Reading.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-reading.html",
+  "id": "/he/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Copenhagen",
   "short_name": "Prayer Times in Copenhagen",
   "description": "Today's prayer times in Copenhagen, Denmark: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Copenhagen.",
-  "id": "/loona-islamic-tools/prayer-times-in-copenhagen.html",
+  "id": "/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

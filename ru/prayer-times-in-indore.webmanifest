@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Indore",
   "short_name": "Время намаза в городе Indore",
   "description": "Время намаза на сегодня: Indore, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Indore.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-indore.html",
+  "id": "/ru/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

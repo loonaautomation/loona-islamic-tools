@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Mallawī",
   "short_name": "Czasy modlitw w miejscowości Mallawī",
   "description": "Dzisiejsze czasy modlitw w miejscowości Mallawī, kraj Egipt: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Egyptian General Authority, obliczane na żywo na Twoim urządzeniu dla miejscowości Mallawī.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-mallawi.html",
+  "id": "/pl/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Dihok",
   "short_name": "Prayer Times in Dihok",
   "description": "Today's prayer times in Dihok, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Dihok.",
-  "id": "/loona-islamic-tools/prayer-times-in-dihok.html",
+  "id": "/prayer-times-in-dihok.html",
   "start_url": "./prayer-times-in-dihok.html",
   "scope": "./prayer-times-in-dihok.html",
   "display": "standalone",

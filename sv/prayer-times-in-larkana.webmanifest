@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Larkana",
   "short_name": "Bönetider i Larkana",
   "description": "Dagens bönetider i Larkana, Pakistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Larkana.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-larkana.html",
+  "id": "/sv/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

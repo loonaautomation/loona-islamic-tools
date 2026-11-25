@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Rāmgundam",
   "short_name": "Bønnetider i Rāmgundam",
   "description": "Dagens bønnetider i Rāmgundam, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Rāmgundam.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-ramgundam.html",
+  "id": "/da/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

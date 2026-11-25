@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Roodepoort",
   "short_name": "Время намаза в городе Roodepoort",
   "description": "Время намаза на сегодня: Roodepoort, ЮАР: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Roodepoort.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-roodepoort.html",
+  "id": "/ru/prayer-times-in-roodepoort.html",
   "start_url": "./prayer-times-in-roodepoort.html",
   "scope": "./prayer-times-in-roodepoort.html",
   "display": "standalone",

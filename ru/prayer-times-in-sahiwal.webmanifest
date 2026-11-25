@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Sahiwal",
   "short_name": "Время намаза в городе Sahiwal",
   "description": "Время намаза на сегодня: Sahiwal, Пакистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Sahiwal.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-sahiwal.html",
+  "id": "/ru/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

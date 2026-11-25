@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Luxor",
   "short_name": "เวลาละหมาดใน Luxor",
   "description": "เวลาละหมาดวันนี้ใน Luxor, Egypt: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Egyptian General Authority คำนวณสดบนอุปกรณ์ของคุณสำหรับ Luxor",
-  "id": "/loona-islamic-tools/th/prayer-times-in-luxor.html",
+  "id": "/th/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

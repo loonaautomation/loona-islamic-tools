@@ -2,7 +2,7 @@
   "name": "Loona Rangpur Namaz Vakitleri",
   "short_name": "Rangpur Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Rangpur, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Rangpur için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-rangpur.html",
+  "id": "/tr/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Vienna",
   "short_name": "Orari di preghiera a Vienna",
   "description": "Orari di preghiera di oggi a Vienna, Austria: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Vienna.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-vienna.html",
+  "id": "/it/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

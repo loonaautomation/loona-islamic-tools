@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hyderabad (הודו)",
   "short_name": "זמני תפילה בעיר Hyderabad (הודו)",
   "description": "זמני התפילה של היום בעיר Hyderabad, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Hyderabad.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hyderabad-india.html",
+  "id": "/he/prayer-times-in-hyderabad-india.html",
   "start_url": "./prayer-times-in-hyderabad-india.html",
   "scope": "./prayer-times-in-hyderabad-india.html",
   "display": "standalone",

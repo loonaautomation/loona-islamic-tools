@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Hamburg",
   "short_name": "Gebedstijden in Hamburg",
   "description": "De gebedstijden van vandaag in Hamburg, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Hamburg.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-hamburg.html",
+  "id": "/nl/prayer-times-in-hamburg.html",
   "start_url": "./prayer-times-in-hamburg.html",
   "scope": "./prayer-times-in-hamburg.html",
   "display": "standalone",

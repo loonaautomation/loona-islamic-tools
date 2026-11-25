@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Hāthazāri",
   "short_name": "Bønnetider i Hāthazāri",
   "description": "Dagens bønnetider i Hāthazāri, Bangladesh: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Hāthazāri.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-hathazari.html",
+  "id": "/nb/prayer-times-in-hathazari.html",
   "start_url": "./prayer-times-in-hathazari.html",
   "scope": "./prayer-times-in-hathazari.html",
   "display": "standalone",

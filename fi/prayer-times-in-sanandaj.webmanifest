@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sanandaj",
   "short_name": "Rukousajat: Sanandaj",
   "description": "Tämän päivän rukousajat paikassa Sanandaj, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sanandaj.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sanandaj.html",
+  "id": "/fi/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ha'il",
   "short_name": "Gebetszeiten in Ha'il",
   "description": "Die heutigen Gebetszeiten in Ha'il, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Ha'il.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ha-il.html",
+  "id": "/de/prayer-times-in-ha-il.html",
   "start_url": "./prayer-times-in-ha-il.html",
   "scope": "./prayer-times-in-ha-il.html",
   "display": "standalone",

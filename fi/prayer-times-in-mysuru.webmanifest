@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Mysuru",
   "short_name": "Rukousajat: Mysuru",
   "description": "Tämän päivän rukousajat paikassa Mysuru, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Mysuru.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-mysuru.html",
+  "id": "/fi/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

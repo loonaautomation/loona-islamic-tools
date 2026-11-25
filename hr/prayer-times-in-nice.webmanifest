@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nice",
   "short_name": "Vremena namaza u gradu Nice",
   "description": "Današnja vremena namaza u gradu Nice, Francuska: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Nice.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nice.html",
+  "id": "/hr/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

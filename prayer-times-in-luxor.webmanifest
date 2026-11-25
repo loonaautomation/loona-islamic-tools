@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Luxor",
   "short_name": "Prayer Times in Luxor",
   "description": "Today's prayer times in Luxor, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Luxor.",
-  "id": "/loona-islamic-tools/prayer-times-in-luxor.html",
+  "id": "/prayer-times-in-luxor.html",
   "start_url": "./prayer-times-in-luxor.html",
   "scope": "./prayer-times-in-luxor.html",
   "display": "standalone",

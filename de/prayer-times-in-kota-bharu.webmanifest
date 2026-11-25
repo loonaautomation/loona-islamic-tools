@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kota Bharu",
   "short_name": "Gebetszeiten in Kota Bharu",
   "description": "Die heutigen Gebetszeiten in Kota Bharu, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kota Bharu.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kota-bharu.html",
+  "id": "/de/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

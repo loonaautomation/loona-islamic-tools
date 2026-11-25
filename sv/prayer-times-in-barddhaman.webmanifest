@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Barddhamān",
   "short_name": "Bönetider i Barddhamān",
   "description": "Dagens bönetider i Barddhamān, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Barddhamān.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-barddhaman.html",
+  "id": "/sv/prayer-times-in-barddhaman.html",
   "start_url": "./prayer-times-in-barddhaman.html",
   "scope": "./prayer-times-in-barddhaman.html",
   "display": "standalone",

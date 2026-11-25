@@ -2,7 +2,7 @@
   "name": "Loona Pontianak の礼拝時刻",
   "short_name": "Pontianak の礼拝時刻",
   "description": "Pontianak（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Pontianak についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-pontianak.html",
+  "id": "/ja/prayer-times-in-pontianak.html",
   "start_url": "./prayer-times-in-pontianak.html",
   "scope": "./prayer-times-in-pontianak.html",
   "display": "standalone",

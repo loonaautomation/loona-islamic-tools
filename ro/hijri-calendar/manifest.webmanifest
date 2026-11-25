@@ -2,7 +2,7 @@
   "name": "Loona Calendarul Hijri",
   "short_name": "Calendarul Hijri",
   "description": "Răsfoiește orice lună și an Hijri într-un calendar islamic curat, în care fiecare zi își arată și data gregoriană. Calendar Umm al-Qura, gratuit și mereu actual.",
-  "id": "/loona-islamic-tools/ro/hijri-calendar/",
+  "id": "/ro/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

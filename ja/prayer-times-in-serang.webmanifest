@@ -2,7 +2,7 @@
   "name": "Loona Serang の礼拝時刻",
   "short_name": "Serang の礼拝時刻",
   "description": "Serang（インドネシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Serang についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-serang.html",
+  "id": "/ja/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

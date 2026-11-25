@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Hamadān",
   "short_name": "เวลาละหมาดใน Hamadān",
   "description": "เวลาละหมาดวันนี้ใน Hamadān, Iran: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Hamadān",
-  "id": "/loona-islamic-tools/th/prayer-times-in-hamadan.html",
+  "id": "/th/prayer-times-in-hamadan.html",
   "start_url": "./prayer-times-in-hamadan.html",
   "scope": "./prayer-times-in-hamadan.html",
   "display": "standalone",

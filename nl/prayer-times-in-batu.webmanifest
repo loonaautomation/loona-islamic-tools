@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Batu",
   "short_name": "Gebedstijden in Batu",
   "description": "De gebedstijden van vandaag in Batu, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Batu.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-batu.html",
+  "id": "/nl/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

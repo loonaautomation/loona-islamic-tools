@@ -2,7 +2,7 @@
   "name": "Loona Hurghada の礼拝時刻",
   "short_name": "Hurghada の礼拝時刻",
   "description": "Hurghada、エジプト の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha。さらにキブラの方向と今日のヒジュラ暦日付。Egyptian General Authority 方式で、Hurghada についてあなたのデバイス上でライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-hurghada.html",
+  "id": "/ja/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

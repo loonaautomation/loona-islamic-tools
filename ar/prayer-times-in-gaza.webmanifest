@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Gaza",
   "short_name": "مواقيت الصلاة في Gaza",
   "description": "مواقيت الصلاة اليوم في Gaza، فلسطين: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـGaza.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-gaza.html",
+  "id": "/ar/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Alexandria",
   "short_name": "Waktu Solat di Alexandria",
   "description": "Waktu solat hari ini di Alexandria, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Alexandria.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-alexandria.html",
+  "id": "/ms/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

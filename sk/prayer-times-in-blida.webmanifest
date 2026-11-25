@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Blida",
   "short_name": "Časy modlitieb v Blida",
   "description": "Dnešné časy modlitieb v Blida, Alžírsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Blida.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-blida.html",
+  "id": "/sk/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tiruchirappalli",
   "short_name": "Vremena namaza u gradu Tiruchirappalli",
   "description": "Današnja vremena namaza u gradu Tiruchirappalli, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Tiruchirappalli.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tiruchirappalli.html",
+  "id": "/hr/prayer-times-in-tiruchirappalli.html",
   "start_url": "./prayer-times-in-tiruchirappalli.html",
   "scope": "./prayer-times-in-tiruchirappalli.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Fīrozābād",
   "short_name": "Gebedstijden in Fīrozābād",
   "description": "De gebedstijden van vandaag in Fīrozābād, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Fīrozābād.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-firozabad.html",
+  "id": "/nl/prayer-times-in-firozabad.html",
   "start_url": "./prayer-times-in-firozabad.html",
   "scope": "./prayer-times-in-firozabad.html",
   "display": "standalone",

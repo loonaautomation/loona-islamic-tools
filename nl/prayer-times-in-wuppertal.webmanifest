@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Wuppertal",
   "short_name": "Gebedstijden in Wuppertal",
   "description": "De gebedstijden van vandaag in Wuppertal, Duitsland: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Wuppertal.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-wuppertal.html",
+  "id": "/nl/prayer-times-in-wuppertal.html",
   "start_url": "./prayer-times-in-wuppertal.html",
   "scope": "./prayer-times-in-wuppertal.html",
   "display": "standalone",

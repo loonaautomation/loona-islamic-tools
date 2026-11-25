@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Herāt",
   "short_name": "Heures de prière à Herāt",
   "description": "Les heures de prière d’aujourd’hui à Herāt, Afghanistan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Herāt.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-herat.html",
+  "id": "/fr/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Kerman Namaz Vakitleri",
   "short_name": "Kerman Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Kerman, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Kerman için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-kerman.html",
+  "id": "/tr/prayer-times-in-kerman.html",
   "start_url": "./prayer-times-in-kerman.html",
   "scope": "./prayer-times-in-kerman.html",
   "display": "standalone",

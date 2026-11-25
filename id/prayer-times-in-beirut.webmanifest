@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Beirut",
   "short_name": "Waktu Salat di Beirut",
   "description": "Waktu salat hari ini di Beirut, Libanon: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Beirut.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-beirut.html",
+  "id": "/id/prayer-times-in-beirut.html",
   "start_url": "./prayer-times-in-beirut.html",
   "scope": "./prayer-times-in-beirut.html",
   "display": "standalone",

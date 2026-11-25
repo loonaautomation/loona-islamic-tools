@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nantes",
   "short_name": "Gebedstijden in Nantes",
   "description": "De gebedstijden van vandaag in Nantes, Frankrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nantes.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nantes.html",
+  "id": "/nl/prayer-times-in-nantes.html",
   "start_url": "./prayer-times-in-nantes.html",
   "scope": "./prayer-times-in-nantes.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bikaner",
   "short_name": "Bønnetider i Bikaner",
   "description": "Dagens bønnetider i Bikaner, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bikaner.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bikaner.html",
+  "id": "/nb/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

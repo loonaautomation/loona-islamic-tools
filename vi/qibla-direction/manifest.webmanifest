@@ -2,7 +2,7 @@
   "name": "Loona Hướng Qibla",
   "short_name": "Hướng Qibla",
   "description": "Tìm hướng Qibla theo độ từ bất kỳ thành phố nào hoặc vị trí chính xác của bạn, với mặt số la bàn trực tiếp và khoảng cách đến Makkah. Miễn phí, chính xác và riêng tư.",
-  "id": "/loona-islamic-tools/vi/qibla-direction/",
+  "id": "/vi/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

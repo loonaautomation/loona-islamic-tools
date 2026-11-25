@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Vadodara",
   "short_name": "Rukousajat: Vadodara",
   "description": "Tämän päivän rukousajat paikassa Vadodara, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Vadodara.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-vadodara.html",
+  "id": "/fi/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

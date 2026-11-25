@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Guntur",
   "short_name": "Bönetider i Guntur",
   "description": "Dagens bönetider i Guntur, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Guntur.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-guntur.html",
+  "id": "/sv/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

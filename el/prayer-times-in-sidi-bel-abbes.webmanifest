@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sidi Bel Abbes",
   "short_name": "Ώρες Προσευχής στο Sidi Bel Abbes",
   "description": "Οι σημερινές ώρες προσευχής στο Sidi Bel Abbes, Αλγερία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Sidi Bel Abbes.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sidi-bel-abbes.html",
+  "id": "/el/prayer-times-in-sidi-bel-abbes.html",
   "start_url": "./prayer-times-in-sidi-bel-abbes.html",
   "scope": "./prayer-times-in-sidi-bel-abbes.html",
   "display": "standalone",

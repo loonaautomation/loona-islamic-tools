@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Houston",
   "short_name": "Gebedstijden in Houston",
   "description": "De gebedstijden van vandaag in Houston, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Houston.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-houston.html",
+  "id": "/nl/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

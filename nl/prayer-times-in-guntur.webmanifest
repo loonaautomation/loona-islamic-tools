@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Guntur",
   "short_name": "Gebedstijden in Guntur",
   "description": "De gebedstijden van vandaag in Guntur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Guntur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-guntur.html",
+  "id": "/nl/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

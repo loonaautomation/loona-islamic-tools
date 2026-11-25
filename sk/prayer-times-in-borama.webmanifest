@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Borama",
   "short_name": "Časy modlitieb v Borama",
   "description": "Dnešné časy modlitieb v Borama, Somálsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Borama.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-borama.html",
+  "id": "/sk/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

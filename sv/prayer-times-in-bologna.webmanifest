@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bologna",
   "short_name": "Bönetider i Bologna",
   "description": "Dagens bönetider i Bologna, Italien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bologna.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bologna.html",
+  "id": "/sv/prayer-times-in-bologna.html",
   "start_url": "./prayer-times-in-bologna.html",
   "scope": "./prayer-times-in-bologna.html",
   "display": "standalone",

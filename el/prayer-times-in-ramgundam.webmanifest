@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Rāmgundam",
   "short_name": "Ώρες Προσευχής στο Rāmgundam",
   "description": "Οι σημερινές ώρες προσευχής στο Rāmgundam, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Rāmgundam.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-ramgundam.html",
+  "id": "/el/prayer-times-in-ramgundam.html",
   "start_url": "./prayer-times-in-ramgundam.html",
   "scope": "./prayer-times-in-ramgundam.html",
   "display": "standalone",

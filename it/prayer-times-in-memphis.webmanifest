@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Memphis",
   "short_name": "Orari di preghiera a Memphis",
   "description": "Orari di preghiera di oggi a Memphis, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Memphis.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-memphis.html",
+  "id": "/it/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

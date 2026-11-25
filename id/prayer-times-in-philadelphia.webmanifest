@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Philadelphia",
   "short_name": "Waktu Salat di Philadelphia",
   "description": "Waktu salat hari ini di Philadelphia, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Philadelphia.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-philadelphia.html",
+  "id": "/id/prayer-times-in-philadelphia.html",
   "start_url": "./prayer-times-in-philadelphia.html",
   "scope": "./prayer-times-in-philadelphia.html",
   "display": "standalone",

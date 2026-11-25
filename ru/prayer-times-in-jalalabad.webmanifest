@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Jalālābād",
   "short_name": "Время намаза в городе Jalālābād",
   "description": "Время намаза на сегодня: Jalālābād, Афганистан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Jalālābād.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-jalalabad.html",
+  "id": "/ru/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

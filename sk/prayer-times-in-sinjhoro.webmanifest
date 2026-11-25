@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Sinjhoro",
   "short_name": "Časy modlitieb v Sinjhoro",
   "description": "Dnešné časy modlitieb v Sinjhoro, Pakistan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Sinjhoro.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-sinjhoro.html",
+  "id": "/sk/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

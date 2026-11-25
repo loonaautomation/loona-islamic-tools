@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mannheim",
   "short_name": "مواقيت الصلاة في Mannheim",
   "description": "مواقيت الصلاة اليوم في Mannheim، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMannheim.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mannheim.html",
+  "id": "/ar/prayer-times-in-mannheim.html",
   "start_url": "./prayer-times-in-mannheim.html",
   "scope": "./prayer-times-in-mannheim.html",
   "display": "standalone",

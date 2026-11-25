@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Teluk Intan",
   "short_name": "Час намазу в Teluk Intan",
   "description": "Сьогоднішній час намазу в Teluk Intan, Малайзія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Teluk Intan.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-teluk-intan.html",
+  "id": "/uk/prayer-times-in-teluk-intan.html",
   "start_url": "./prayer-times-in-teluk-intan.html",
   "scope": "./prayer-times-in-teluk-intan.html",
   "display": "standalone",

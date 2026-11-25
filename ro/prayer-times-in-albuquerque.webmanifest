@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Albuquerque",
   "short_name": "Ore de rugăciune în Albuquerque",
   "description": "Orele de rugăciune de azi în Albuquerque, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Albuquerque.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-albuquerque.html",
+  "id": "/ro/prayer-times-in-albuquerque.html",
   "start_url": "./prayer-times-in-albuquerque.html",
   "scope": "./prayer-times-in-albuquerque.html",
   "display": "standalone",

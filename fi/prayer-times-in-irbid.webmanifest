@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Irbid",
   "short_name": "Rukousajat: Irbid",
   "description": "Tämän päivän rukousajat paikassa Irbid, Jordania: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Irbid.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-irbid.html",
+  "id": "/fi/prayer-times-in-irbid.html",
   "start_url": "./prayer-times-in-irbid.html",
   "scope": "./prayer-times-in-irbid.html",
   "display": "standalone",

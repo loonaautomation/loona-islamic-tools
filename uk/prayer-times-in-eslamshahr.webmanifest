@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Eslamshahr",
   "short_name": "Час намазу в Eslamshahr",
   "description": "Сьогоднішній час намазу в Eslamshahr, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Eslamshahr.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-eslamshahr.html",
+  "id": "/uk/prayer-times-in-eslamshahr.html",
   "start_url": "./prayer-times-in-eslamshahr.html",
   "scope": "./prayer-times-in-eslamshahr.html",
   "display": "standalone",

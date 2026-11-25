@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Muzaffarpur",
   "short_name": "Horarios de oración en Muzaffarpur",
   "description": "Horarios de oración de hoy en Muzaffarpur, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Muzaffarpur.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-muzaffarpur.html",
+  "id": "/es/prayer-times-in-muzaffarpur.html",
   "start_url": "./prayer-times-in-muzaffarpur.html",
   "scope": "./prayer-times-in-muzaffarpur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sylhet",
   "short_name": "مواقيت الصلاة في Sylhet",
   "description": "مواقيت الصلاة اليوم في Sylhet، بنغلاديش: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـSylhet.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sylhet.html",
+  "id": "/ar/prayer-times-in-sylhet.html",
   "start_url": "./prayer-times-in-sylhet.html",
   "scope": "./prayer-times-in-sylhet.html",
   "display": "standalone",

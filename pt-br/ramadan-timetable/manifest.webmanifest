@@ -2,7 +2,7 @@
   "name": "Loona Tabela do Ramadã",
   "short_name": "Tabela do Ramadã",
   "description": "Tabela completa do Ramadã para qualquer cidade e ano da Hégira: fim do Sehri e horários de Iftar para cada dia do Ramadã, com datas gregorianas e duração do jejum. Grátis, imprimível.",
-  "id": "/loona-islamic-tools/pt-br/ramadan-timetable/",
+  "id": "/pt-br/ramadan-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

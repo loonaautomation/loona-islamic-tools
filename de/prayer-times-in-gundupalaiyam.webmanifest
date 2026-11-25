@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Gundupālaiyam",
   "short_name": "Gebetszeiten in Gundupālaiyam",
   "description": "Die heutigen Gebetszeiten in Gundupālaiyam, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Gundupālaiyam.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-gundupalaiyam.html",
+  "id": "/de/prayer-times-in-gundupalaiyam.html",
   "start_url": "./prayer-times-in-gundupalaiyam.html",
   "scope": "./prayer-times-in-gundupalaiyam.html",
   "display": "standalone",

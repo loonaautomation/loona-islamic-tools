@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Korba",
   "short_name": "זמני תפילה בעיר Korba",
   "description": "זמני התפילה של היום בעיר Korba, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Korba.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-korba.html",
+  "id": "/he/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

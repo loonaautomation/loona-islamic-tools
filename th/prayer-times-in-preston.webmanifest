@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Preston",
   "short_name": "เวลาละหมาดใน Preston",
   "description": "เวลาละหมาดวันนี้ใน Preston, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Preston",
-  "id": "/loona-islamic-tools/th/prayer-times-in-preston.html",
+  "id": "/th/prayer-times-in-preston.html",
   "start_url": "./prayer-times-in-preston.html",
   "scope": "./prayer-times-in-preston.html",
   "display": "standalone",

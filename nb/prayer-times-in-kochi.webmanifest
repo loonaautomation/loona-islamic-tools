@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kochi",
   "short_name": "Bønnetider i Kochi",
   "description": "Dagens bønnetider i Kochi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kochi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kochi.html",
+  "id": "/nb/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

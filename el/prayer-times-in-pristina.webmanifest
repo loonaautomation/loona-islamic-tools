@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Pristina",
   "short_name": "Ώρες Προσευχής στο Pristina",
   "description": "Οι σημερινές ώρες προσευχής στο Pristina, Κόσοβο: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Pristina.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-pristina.html",
+  "id": "/el/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

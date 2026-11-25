@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Battagram",
   "short_name": "Gebetszeiten in Battagram",
   "description": "Die heutigen Gebetszeiten in Battagram, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Battagram.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-battagram.html",
+  "id": "/de/prayer-times-in-battagram.html",
   "start_url": "./prayer-times-in-battagram.html",
   "scope": "./prayer-times-in-battagram.html",
   "display": "standalone",

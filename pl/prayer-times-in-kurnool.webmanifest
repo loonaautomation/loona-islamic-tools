@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kurnool",
   "short_name": "Czasy modlitw w miejscowości Kurnool",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kurnool, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kurnool.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kurnool.html",
+  "id": "/pl/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

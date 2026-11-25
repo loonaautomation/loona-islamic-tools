@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Siliguri",
   "short_name": "Ώρες Προσευχής στο Siliguri",
   "description": "Οι σημερινές ώρες προσευχής στο Siliguri, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Siliguri.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-siliguri.html",
+  "id": "/el/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

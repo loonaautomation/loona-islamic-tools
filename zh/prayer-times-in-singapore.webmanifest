@@ -2,7 +2,7 @@
   "name": "Loona Singapore的礼拜时间",
   "short_name": "Singapore的礼拜时间",
   "description": "Singapore（新加坡）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。Karachi方法，在您的设备上为Singapore实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-singapore.html",
+  "id": "/zh/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

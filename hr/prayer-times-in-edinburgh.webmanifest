@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Edinburgh",
   "short_name": "Vremena namaza u gradu Edinburgh",
   "description": "Današnja vremena namaza u gradu Edinburgh, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Edinburgh.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-edinburgh.html",
+  "id": "/hr/prayer-times-in-edinburgh.html",
   "start_url": "./prayer-times-in-edinburgh.html",
   "scope": "./prayer-times-in-edinburgh.html",
   "display": "standalone",

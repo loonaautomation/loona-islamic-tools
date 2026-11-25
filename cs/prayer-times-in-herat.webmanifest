@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Herāt",
   "short_name": "Časy modliteb v Herāt",
   "description": "Dnešní časy modliteb v Herāt, Afghánistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Herāt.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-herat.html",
+  "id": "/cs/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

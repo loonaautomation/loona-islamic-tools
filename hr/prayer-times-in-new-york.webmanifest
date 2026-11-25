@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu New York",
   "short_name": "Vremena namaza u gradu New York",
   "description": "Današnja vremena namaza u gradu New York, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad New York.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-new-york.html",
+  "id": "/hr/prayer-times-in-new-york.html",
   "start_url": "./prayer-times-in-new-york.html",
   "scope": "./prayer-times-in-new-york.html",
   "display": "standalone",

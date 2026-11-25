@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ganja Today",
   "short_name": "Prayer Times in Ganja Today",
   "description": "Today's prayer times in Ganja, Azerbaijan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ganja.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-ganja.html",
+  "id": "/en-gb/prayer-times-in-ganja.html",
   "start_url": "./prayer-times-in-ganja.html",
   "scope": "./prayer-times-in-ganja.html",
   "display": "standalone",

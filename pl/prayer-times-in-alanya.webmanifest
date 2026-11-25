@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Alanya",
   "short_name": "Czasy modlitw w miejscowości Alanya",
   "description": "Dzisiejsze czasy modlitw w miejscowości Alanya, kraj Turcja: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Alanya.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-alanya.html",
+  "id": "/pl/prayer-times-in-alanya.html",
   "start_url": "./prayer-times-in-alanya.html",
   "scope": "./prayer-times-in-alanya.html",
   "display": "standalone",

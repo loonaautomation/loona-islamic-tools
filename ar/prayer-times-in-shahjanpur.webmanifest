@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Shāhjānpur",
   "short_name": "مواقيت الصلاة في Shāhjānpur",
   "description": "مواقيت الصلاة اليوم في Shāhjānpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـShāhjānpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-shahjanpur.html",
+  "id": "/ar/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

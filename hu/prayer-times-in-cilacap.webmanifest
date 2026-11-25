@@ -2,7 +2,7 @@
   "name": "Loona Cilacap imaidői",
   "short_name": "Cilacap imaidői",
   "description": "A mai imaidők: Cilacap, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Cilacap számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-cilacap.html",
+  "id": "/hu/prayer-times-in-cilacap.html",
   "start_url": "./prayer-times-in-cilacap.html",
   "scope": "./prayer-times-in-cilacap.html",
   "display": "standalone",

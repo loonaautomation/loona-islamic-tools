@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Vijayapura",
   "short_name": "Bønnetider i Vijayapura",
   "description": "Dagens bønnetider i Vijayapura, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Vijayapura.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-vijayapura.html",
+  "id": "/nb/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

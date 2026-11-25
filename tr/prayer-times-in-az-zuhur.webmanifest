@@ -2,7 +2,7 @@
   "name": "Loona Az-Zuhūr Namaz Vakitleri",
   "short_name": "Az-Zuhūr Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Az-Zuhūr, Mısır: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Mısır Genel Otoritesi yöntemi, Az-Zuhūr için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-az-zuhur.html",
+  "id": "/tr/prayer-times-in-az-zuhur.html",
   "start_url": "./prayer-times-in-az-zuhur.html",
   "scope": "./prayer-times-in-az-zuhur.html",
   "display": "standalone",

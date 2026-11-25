@@ -2,7 +2,7 @@
   "name": "Loona Yazd imaidői",
   "short_name": "Yazd imaidői",
   "description": "A mai imaidők: Yazd, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Yazd számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-yazd.html",
+  "id": "/hu/prayer-times-in-yazd.html",
   "start_url": "./prayer-times-in-yazd.html",
   "scope": "./prayer-times-in-yazd.html",
   "display": "standalone",

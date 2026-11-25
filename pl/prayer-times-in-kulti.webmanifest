@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Kulti",
   "short_name": "Czasy modlitw w miejscowości Kulti",
   "description": "Dzisiejsze czasy modlitw w miejscowości Kulti, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Kulti.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-kulti.html",
+  "id": "/pl/prayer-times-in-kulti.html",
   "start_url": "./prayer-times-in-kulti.html",
   "scope": "./prayer-times-in-kulti.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sanandaj",
   "short_name": "Waktu Solat di Sanandaj",
   "description": "Waktu solat hari ini di Sanandaj, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Sanandaj.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sanandaj.html",
+  "id": "/ms/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

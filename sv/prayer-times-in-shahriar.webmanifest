@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Shahrīār",
   "short_name": "Bönetider i Shahrīār",
   "description": "Dagens bönetider i Shahrīār, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Shahrīār.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-shahriar.html",
+  "id": "/sv/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

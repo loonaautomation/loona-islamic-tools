@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Genoa",
   "short_name": "Часове за намаз в Genoa",
   "description": "Днешните часове за намаз в Genoa, Италия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Genoa.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-genoa.html",
+  "id": "/bg/prayer-times-in-genoa.html",
   "start_url": "./prayer-times-in-genoa.html",
   "scope": "./prayer-times-in-genoa.html",
   "display": "standalone",

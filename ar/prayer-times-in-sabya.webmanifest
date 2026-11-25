@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Şabyā",
   "short_name": "مواقيت الصلاة في Şabyā",
   "description": "مواقيت الصلاة اليوم في Şabyā، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـŞabyā.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sabya.html",
+  "id": "/ar/prayer-times-in-sabya.html",
   "start_url": "./prayer-times-in-sabya.html",
   "scope": "./prayer-times-in-sabya.html",
   "display": "standalone",

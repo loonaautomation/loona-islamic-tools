@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i dag",
   "short_name": "Bönetider i dag",
   "description": "Få dagens Fajr-, Dhuhr-, Asr-, Maghrib- och Isha-bönetider för valfri stad: Karachi, ISNA, MWL med flera metoder, Hanafi eller Shafi Asr, exakta koordinater stöds.",
-  "id": "/loona-islamic-tools/sv/prayer-times/",
+  "id": "/sv/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

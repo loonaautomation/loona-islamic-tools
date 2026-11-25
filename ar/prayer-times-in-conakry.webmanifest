@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Conakry",
   "short_name": "مواقيت الصلاة في Conakry",
   "description": "مواقيت الصلاة اليوم في Conakry، غينيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـConakry.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-conakry.html",
+  "id": "/ar/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

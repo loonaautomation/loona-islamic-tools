@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Durban",
   "short_name": "Waktu Salat di Durban",
   "description": "Waktu salat hari ini di Durban, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Durban.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-durban.html",
+  "id": "/id/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

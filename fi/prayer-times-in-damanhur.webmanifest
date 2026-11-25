@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Damanhur",
   "short_name": "Rukousajat: Damanhur",
   "description": "Tämän päivän rukousajat paikassa Damanhur, Egypti: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Egyptin yleisen viranomaisen menetelmä, laskettuna reaaliajassa laitteellasi paikalle Damanhur.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-damanhur.html",
+  "id": "/fi/prayer-times-in-damanhur.html",
   "start_url": "./prayer-times-in-damanhur.html",
   "scope": "./prayer-times-in-damanhur.html",
   "display": "standalone",

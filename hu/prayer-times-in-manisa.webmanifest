@@ -2,7 +2,7 @@
   "name": "Loona Manisa imaidői",
   "short_name": "Manisa imaidői",
   "description": "A mai imaidők: Manisa, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Manisa számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-manisa.html",
+  "id": "/hu/prayer-times-in-manisa.html",
   "start_url": "./prayer-times-in-manisa.html",
   "scope": "./prayer-times-in-manisa.html",
   "display": "standalone",

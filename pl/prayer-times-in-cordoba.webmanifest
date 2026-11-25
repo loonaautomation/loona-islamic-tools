@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Córdoba",
   "short_name": "Czasy modlitw w miejscowości Córdoba",
   "description": "Dzisiejsze czasy modlitw w miejscowości Córdoba, kraj Hiszpania: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Córdoba.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-cordoba.html",
+  "id": "/pl/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

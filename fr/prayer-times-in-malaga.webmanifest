@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Málaga",
   "short_name": "Heures de prière à Málaga",
   "description": "Les heures de prière d’aujourd’hui à Málaga, Espagne : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Málaga.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-malaga.html",
+  "id": "/fr/prayer-times-in-malaga.html",
   "start_url": "./prayer-times-in-malaga.html",
   "scope": "./prayer-times-in-malaga.html",
   "display": "standalone",

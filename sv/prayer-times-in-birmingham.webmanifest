@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Birmingham",
   "short_name": "Bönetider i Birmingham",
   "description": "Dagens bönetider i Birmingham, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Birmingham.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-birmingham.html",
+  "id": "/sv/prayer-times-in-birmingham.html",
   "start_url": "./prayer-times-in-birmingham.html",
   "scope": "./prayer-times-in-birmingham.html",
   "display": "standalone",

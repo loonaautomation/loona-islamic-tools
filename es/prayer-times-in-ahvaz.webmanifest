@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Ahvaz",
   "short_name": "Horarios de oración en Ahvaz",
   "description": "Horarios de oración de hoy en Ahvaz, Irán: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Ahvaz.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-ahvaz.html",
+  "id": "/es/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

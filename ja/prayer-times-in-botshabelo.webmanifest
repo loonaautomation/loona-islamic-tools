@@ -2,7 +2,7 @@
   "name": "Loona Botshabelo の礼拝時刻",
   "short_name": "Botshabelo の礼拝時刻",
   "description": "Botshabelo（南アフリカ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Botshabelo についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-botshabelo.html",
+  "id": "/ja/prayer-times-in-botshabelo.html",
   "start_url": "./prayer-times-in-botshabelo.html",
   "scope": "./prayer-times-in-botshabelo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Al Mubarraz",
   "short_name": "Время намаза в городе Al Mubarraz",
   "description": "Время намаза на сегодня: Al Mubarraz, Саудовская Аравия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Умм аль-Кура, расчёт в реальном времени на вашем устройстве для города Al Mubarraz.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-al-mubarraz.html",
+  "id": "/ru/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

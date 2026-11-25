@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Percut",
   "short_name": "Час намазу в Percut",
   "description": "Сьогоднішній час намазу в Percut, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Percut.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-percut.html",
+  "id": "/uk/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

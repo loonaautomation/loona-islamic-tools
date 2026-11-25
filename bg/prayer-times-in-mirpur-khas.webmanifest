@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mirpur Khas",
   "short_name": "Часове за намаз в Mirpur Khas",
   "description": "Днешните часове за намаз в Mirpur Khas, Пакистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Mirpur Khas.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mirpur-khas.html",
+  "id": "/bg/prayer-times-in-mirpur-khas.html",
   "start_url": "./prayer-times-in-mirpur-khas.html",
   "scope": "./prayer-times-in-mirpur-khas.html",
   "display": "standalone",

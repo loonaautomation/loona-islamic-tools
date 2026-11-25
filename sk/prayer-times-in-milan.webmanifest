@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Milan",
   "short_name": "Časy modlitieb v Milan",
   "description": "Dnešné časy modlitieb v Milan, Taliansko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Milan.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-milan.html",
+  "id": "/sk/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

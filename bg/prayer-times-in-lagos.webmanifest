@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Lagos",
   "short_name": "Часове за намаз в Lagos",
   "description": "Днешните часове за намаз в Lagos, Нигерия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Lagos.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-lagos.html",
+  "id": "/bg/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

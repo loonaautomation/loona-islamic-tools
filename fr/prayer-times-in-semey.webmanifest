@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Semey",
   "short_name": "Heures de prière à Semey",
   "description": "Les heures de prière d’aujourd’hui à Semey, Kazakhstan : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Semey.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-semey.html",
+  "id": "/fr/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

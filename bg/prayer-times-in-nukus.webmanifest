@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nukus",
   "short_name": "Часове за намаз в Nukus",
   "description": "Днешните часове за намаз в Nukus, Узбекистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Nukus.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nukus.html",
+  "id": "/bg/prayer-times-in-nukus.html",
   "start_url": "./prayer-times-in-nukus.html",
   "scope": "./prayer-times-in-nukus.html",
   "display": "standalone",

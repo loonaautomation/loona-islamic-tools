@@ -2,7 +2,7 @@
   "name": "Loona Uelekeo wa Kibla",
   "short_name": "Uelekeo wa Kibla",
   "description": "Tafuta uelekeo wa Kibla kwa digrii kutoka mji wowote au eneo lako halisi, ukiwa na diali ya dira ya moja kwa moja na umbali wa Makka. Bure, sahihi na ya faragha.",
-  "id": "/loona-islamic-tools/sw/qibla-direction/",
+  "id": "/sw/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

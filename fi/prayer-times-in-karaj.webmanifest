@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Karaj",
   "short_name": "Rukousajat: Karaj",
   "description": "Tämän päivän rukousajat paikassa Karaj, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Karaj.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-karaj.html",
+  "id": "/fi/prayer-times-in-karaj.html",
   "start_url": "./prayer-times-in-karaj.html",
   "scope": "./prayer-times-in-karaj.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Binjai imaidői",
   "short_name": "Binjai imaidői",
   "description": "A mai imaidők: Binjai, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Binjai számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-binjai.html",
+  "id": "/hu/prayer-times-in-binjai.html",
   "start_url": "./prayer-times-in-binjai.html",
   "scope": "./prayer-times-in-binjai.html",
   "display": "standalone",

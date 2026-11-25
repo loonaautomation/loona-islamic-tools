@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Oral Today",
   "short_name": "Prayer Times in Oral Today",
   "description": "Today's prayer times in Oral, Kazakhstan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Oral.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-oral.html",
+  "id": "/en-us/prayer-times-in-oral.html",
   "start_url": "./prayer-times-in-oral.html",
   "scope": "./prayer-times-in-oral.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ludhiana の礼拝時刻",
   "short_name": "Ludhiana の礼拝時刻",
   "description": "Ludhiana（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Ludhiana についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-ludhiana.html",
+  "id": "/ja/prayer-times-in-ludhiana.html",
   "start_url": "./prayer-times-in-ludhiana.html",
   "scope": "./prayer-times-in-ludhiana.html",
   "display": "standalone",

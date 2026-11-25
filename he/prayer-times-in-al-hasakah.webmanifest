@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al Ḩasakah",
   "short_name": "זמני תפילה בעיר Al Ḩasakah",
   "description": "זמני התפילה של היום בעיר Al Ḩasakah, סוריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Al Ḩasakah.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-hasakah.html",
+  "id": "/he/prayer-times-in-al-hasakah.html",
   "start_url": "./prayer-times-in-al-hasakah.html",
   "scope": "./prayer-times-in-al-hasakah.html",
   "display": "standalone",

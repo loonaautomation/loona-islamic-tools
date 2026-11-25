@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gaya",
   "short_name": "Час намазу в Gaya",
   "description": "Сьогоднішній час намазу в Gaya, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Gaya.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gaya.html",
+  "id": "/uk/prayer-times-in-gaya.html",
   "start_url": "./prayer-times-in-gaya.html",
   "scope": "./prayer-times-in-gaya.html",
   "display": "standalone",

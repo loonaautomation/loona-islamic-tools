@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jammu Today",
   "short_name": "Prayer Times in Jammu Today",
   "description": "Today's prayer times in Jammu, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Jammu.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-jammu.html",
+  "id": "/en-gb/prayer-times-in-jammu.html",
   "start_url": "./prayer-times-in-jammu.html",
   "scope": "./prayer-times-in-jammu.html",
   "display": "standalone",

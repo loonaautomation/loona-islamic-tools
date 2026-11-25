@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kŭlob",
   "short_name": "مواقيت الصلاة في Kŭlob",
   "description": "مواقيت الصلاة اليوم في Kŭlob، طاجيكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKŭlob.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kulob.html",
+  "id": "/ar/prayer-times-in-kulob.html",
   "start_url": "./prayer-times-in-kulob.html",
   "scope": "./prayer-times-in-kulob.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kupang",
   "short_name": "Bönetider i Kupang",
   "description": "Dagens bönetider i Kupang, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kupang.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kupang.html",
+  "id": "/sv/prayer-times-in-kupang.html",
   "start_url": "./prayer-times-in-kupang.html",
   "scope": "./prayer-times-in-kupang.html",
   "display": "standalone",

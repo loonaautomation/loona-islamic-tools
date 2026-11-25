@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nellore",
   "short_name": "Bønnetider i Nellore",
   "description": "Dagens bønnetider i Nellore, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Nellore.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-nellore.html",
+  "id": "/nb/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

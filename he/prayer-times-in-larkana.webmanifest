@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Larkana",
   "short_name": "זמני תפילה בעיר Larkana",
   "description": "זמני התפילה של היום בעיר Larkana, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Larkana.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-larkana.html",
+  "id": "/he/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

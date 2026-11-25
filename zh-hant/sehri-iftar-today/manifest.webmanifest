@@ -2,7 +2,7 @@
   "name": "Loona 今日Sehri與Iftar時間",
   "short_name": "今日Sehri與Iftar時間",
   "description": "您所在城市今天的Sehri結束（Fajr）和Iftar（Maghrib）時間，並實時倒計時到下一個。預設為Karachi方法、Hanafi的Asr，可調整。",
-  "id": "/loona-islamic-tools/zh-hant/sehri-iftar-today/",
+  "id": "/zh-hant/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Kollam",
   "short_name": "Horarios de oración en Kollam",
   "description": "Horarios de oración de hoy en Kollam, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Kollam.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-kollam.html",
+  "id": "/es/prayer-times-in-kollam.html",
   "start_url": "./prayer-times-in-kollam.html",
   "scope": "./prayer-times-in-kollam.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Cincinnati",
   "short_name": "Rukousajat: Cincinnati",
   "description": "Tämän päivän rukousajat paikassa Cincinnati, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Cincinnati.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-cincinnati.html",
+  "id": "/fi/prayer-times-in-cincinnati.html",
   "start_url": "./prayer-times-in-cincinnati.html",
   "scope": "./prayer-times-in-cincinnati.html",
   "display": "standalone",

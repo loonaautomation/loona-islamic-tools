@@ -2,7 +2,7 @@
   "name": "Loona Palu imaidői",
   "short_name": "Palu imaidői",
   "description": "A mai imaidők: Palu, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Palu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-palu.html",
+  "id": "/hu/prayer-times-in-palu.html",
   "start_url": "./prayer-times-in-palu.html",
   "scope": "./prayer-times-in-palu.html",
   "display": "standalone",

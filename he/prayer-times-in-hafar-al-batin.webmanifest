@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Hafar Al-Batin",
   "short_name": "זמני תפילה בעיר Hafar Al-Batin",
   "description": "זמני התפילה של היום בעיר Hafar Al-Batin, ערב הסעודית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Umm al-Qura, מחושב בשידור חי במכשיר שלך עבור Hafar Al-Batin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-hafar-al-batin.html",
+  "id": "/he/prayer-times-in-hafar-al-batin.html",
   "start_url": "./prayer-times-in-hafar-al-batin.html",
   "scope": "./prayer-times-in-hafar-al-batin.html",
   "display": "standalone",

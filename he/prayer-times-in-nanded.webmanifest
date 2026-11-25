@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nanded",
   "short_name": "זמני תפילה בעיר Nanded",
   "description": "זמני התפילה של היום בעיר Nanded, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Nanded.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nanded.html",
+  "id": "/he/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

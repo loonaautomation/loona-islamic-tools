@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Pimpri",
   "short_name": "Giờ cầu nguyện tại Pimpri",
   "description": "Giờ cầu nguyện hôm nay tại Pimpri, Ấn Độ: Fajr, Bình minh, Dhuhr, Asr (Hanafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Karachi, được tính trực tiếp trên thiết bị của bạn cho Pimpri.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-pimpri.html",
+  "id": "/vi/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

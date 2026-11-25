@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Mysuru",
   "short_name": "مواقيت الصلاة في Mysuru",
   "description": "مواقيت الصلاة اليوم في Mysuru، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـMysuru.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-mysuru.html",
+  "id": "/ar/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

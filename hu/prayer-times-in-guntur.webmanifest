@@ -2,7 +2,7 @@
   "name": "Loona Guntur imaidői",
   "short_name": "Guntur imaidői",
   "description": "A mai imaidők: Guntur, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Guntur számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-guntur.html",
+  "id": "/hu/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Blida",
   "short_name": "Ώρες Προσευχής στο Blida",
   "description": "Οι σημερινές ώρες προσευχής στο Blida, Αλγερία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Blida.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-blida.html",
+  "id": "/el/prayer-times-in-blida.html",
   "start_url": "./prayer-times-in-blida.html",
   "scope": "./prayer-times-in-blida.html",
   "display": "standalone",

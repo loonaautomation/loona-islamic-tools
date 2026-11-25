@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Barishal",
   "short_name": "Heures de prière à Barishal",
   "description": "Les heures de prière d’aujourd’hui à Barishal, Bangladesh : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Barishal.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-barishal.html",
+  "id": "/fr/prayer-times-in-barishal.html",
   "start_url": "./prayer-times-in-barishal.html",
   "scope": "./prayer-times-in-barishal.html",
   "display": "standalone",

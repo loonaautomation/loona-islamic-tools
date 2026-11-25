@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Alor Setar",
   "short_name": "Bönetider i Alor Setar",
   "description": "Dagens bönetider i Alor Setar, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Alor Setar.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-alor-setar.html",
+  "id": "/sv/prayer-times-in-alor-setar.html",
   "start_url": "./prayer-times-in-alor-setar.html",
   "scope": "./prayer-times-in-alor-setar.html",
   "display": "standalone",

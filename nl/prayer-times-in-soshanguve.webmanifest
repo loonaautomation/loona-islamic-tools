@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Soshanguve",
   "short_name": "Gebedstijden in Soshanguve",
   "description": "De gebedstijden van vandaag in Soshanguve, Zuid-Afrika: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Soshanguve.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-soshanguve.html",
+  "id": "/nl/prayer-times-in-soshanguve.html",
   "start_url": "./prayer-times-in-soshanguve.html",
   "scope": "./prayer-times-in-soshanguve.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Akola",
   "short_name": "Bønnetider i Akola",
   "description": "Dagens bønnetider i Akola, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Akola.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-akola.html",
+  "id": "/da/prayer-times-in-akola.html",
   "start_url": "./prayer-times-in-akola.html",
   "scope": "./prayer-times-in-akola.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kandahār",
   "short_name": "Часове за намаз в Kandahār",
   "description": "Днешните часове за намаз в Kandahār, Афганистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kandahār.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kandahar.html",
+  "id": "/bg/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

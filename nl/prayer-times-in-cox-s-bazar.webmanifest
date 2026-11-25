@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Cox’s Bāzār",
   "short_name": "Gebedstijden in Cox’s Bāzār",
   "description": "De gebedstijden van vandaag in Cox’s Bāzār, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-cox-s-bazar.html",
+  "id": "/nl/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

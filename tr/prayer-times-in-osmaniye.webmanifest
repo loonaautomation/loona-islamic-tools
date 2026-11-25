@@ -2,7 +2,7 @@
   "name": "Loona Osmaniye Namaz Vakitleri",
   "short_name": "Osmaniye Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Osmaniye, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Osmaniye için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-osmaniye.html",
+  "id": "/tr/prayer-times-in-osmaniye.html",
   "start_url": "./prayer-times-in-osmaniye.html",
   "scope": "./prayer-times-in-osmaniye.html",
   "display": "standalone",

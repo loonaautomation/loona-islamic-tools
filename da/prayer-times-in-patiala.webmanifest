@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Patiāla",
   "short_name": "Bønnetider i Patiāla",
   "description": "Dagens bønnetider i Patiāla, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Patiāla.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-patiala.html",
+  "id": "/da/prayer-times-in-patiala.html",
   "start_url": "./prayer-times-in-patiala.html",
   "scope": "./prayer-times-in-patiala.html",
   "display": "standalone",

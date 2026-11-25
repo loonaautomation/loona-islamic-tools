@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Atyrau",
   "short_name": "مواقيت الصلاة في Atyrau",
   "description": "مواقيت الصلاة اليوم في Atyrau، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAtyrau.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-atyrau.html",
+  "id": "/ar/prayer-times-in-atyrau.html",
   "start_url": "./prayer-times-in-atyrau.html",
   "scope": "./prayer-times-in-atyrau.html",
   "display": "standalone",

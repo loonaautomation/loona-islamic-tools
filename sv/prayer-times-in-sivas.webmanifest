@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sivas",
   "short_name": "Bönetider i Sivas",
   "description": "Dagens bönetider i Sivas, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sivas.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sivas.html",
+  "id": "/sv/prayer-times-in-sivas.html",
   "start_url": "./prayer-times-in-sivas.html",
   "scope": "./prayer-times-in-sivas.html",
   "display": "standalone",

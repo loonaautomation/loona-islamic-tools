@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bobo-Dioulasso Today",
   "short_name": "Prayer Times in Bobo-Dioulasso Today",
   "description": "Today's prayer times in Bobo-Dioulasso, Burkina Faso: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bobo-Dioulasso.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-bobo-dioulasso.html",
+  "id": "/en-us/prayer-times-in-bobo-dioulasso.html",
   "start_url": "./prayer-times-in-bobo-dioulasso.html",
   "scope": "./prayer-times-in-bobo-dioulasso.html",
   "display": "standalone",

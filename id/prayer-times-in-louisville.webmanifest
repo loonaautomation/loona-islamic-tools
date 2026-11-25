@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Louisville",
   "short_name": "Waktu Salat di Louisville",
   "description": "Waktu salat hari ini di Louisville, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Louisville.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-louisville.html",
+  "id": "/id/prayer-times-in-louisville.html",
   "start_url": "./prayer-times-in-louisville.html",
   "scope": "./prayer-times-in-louisville.html",
   "display": "standalone",

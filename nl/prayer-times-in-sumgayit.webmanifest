@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sumgayit",
   "short_name": "Gebedstijden in Sumgayit",
   "description": "De gebedstijden van vandaag in Sumgayit, Azerbeidzjan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sumgayit.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sumgayit.html",
+  "id": "/nl/prayer-times-in-sumgayit.html",
   "start_url": "./prayer-times-in-sumgayit.html",
   "scope": "./prayer-times-in-sumgayit.html",
   "display": "standalone",

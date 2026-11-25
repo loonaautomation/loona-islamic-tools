@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Vancouver",
   "short_name": "Heures de prière à Vancouver",
   "description": "Les heures de prière d’aujourd’hui à Vancouver, Canada : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode ISNA, calculées en direct sur votre appareil pour Vancouver.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-vancouver.html",
+  "id": "/fr/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

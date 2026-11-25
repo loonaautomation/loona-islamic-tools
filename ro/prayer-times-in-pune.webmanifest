@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Pune",
   "short_name": "Ore de rugăciune în Pune",
   "description": "Orele de rugăciune de azi în Pune, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Pune.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-pune.html",
+  "id": "/ro/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

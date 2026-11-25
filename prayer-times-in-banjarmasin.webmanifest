@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Banjarmasin",
   "short_name": "Prayer Times in Banjarmasin",
   "description": "Today's prayer times in Banjarmasin, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Banjarmasin.",
-  "id": "/loona-islamic-tools/prayer-times-in-banjarmasin.html",
+  "id": "/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

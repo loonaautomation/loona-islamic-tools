@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Aksaray",
   "short_name": "เวลาละหมาดใน Aksaray",
   "description": "เวลาละหมาดวันนี้ใน Aksaray, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Aksaray",
-  "id": "/loona-islamic-tools/th/prayer-times-in-aksaray.html",
+  "id": "/th/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

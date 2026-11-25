@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Korba",
   "short_name": "Časy modlitieb v Korba",
   "description": "Dnešné časy modlitieb v Korba, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Korba.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-korba.html",
+  "id": "/sk/prayer-times-in-korba.html",
   "start_url": "./prayer-times-in-korba.html",
   "scope": "./prayer-times-in-korba.html",
   "display": "standalone",

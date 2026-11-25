@@ -2,7 +2,7 @@
   "name": "Loona Elazığ Namaz Vakitleri",
   "short_name": "Elazığ Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Elazığ, Türkiye: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Elazığ için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-elazig.html",
+  "id": "/tr/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

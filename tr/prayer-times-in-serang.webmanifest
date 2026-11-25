@@ -2,7 +2,7 @@
   "name": "Loona Serang Namaz Vakitleri",
   "short_name": "Serang Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Serang, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Serang için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-serang.html",
+  "id": "/tr/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาเซฮรีและอิฟตารวันนี้",
   "short_name": "เวลาเซฮรีและอิฟตารวันนี้",
   "description": "เวลาสิ้นสุดซะฮูร (ฟัจญ์ร) และอิฟตาร (มัฆริบ) ของวันนี้สำหรับเมืองของคุณ พร้อมการนับถอยหลังแบบสดไปยังเวลาถัดไป วิธี Karachi อัศร์แบบฮานาฟีเป็นค่าตั้งต้น ปรับได้",
-  "id": "/loona-islamic-tools/th/sehri-iftar-today/",
+  "id": "/th/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

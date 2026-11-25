@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Rangpur",
   "short_name": "Gebedstijden in Rangpur",
   "description": "De gebedstijden van vandaag in Rangpur, Bangladesh: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Rangpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-rangpur.html",
+  "id": "/nl/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

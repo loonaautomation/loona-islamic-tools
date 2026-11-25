@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Banī Suwayf",
   "short_name": "Horários de Oração em Banī Suwayf",
   "description": "Horários de oração de hoje em Banī Suwayf, Egito: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Egyptian General Authority, calculado ao vivo no seu dispositivo para Banī Suwayf.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-bani-suwayf.html",
+  "id": "/pt-br/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

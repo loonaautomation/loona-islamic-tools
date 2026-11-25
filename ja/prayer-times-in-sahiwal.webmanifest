@@ -2,7 +2,7 @@
   "name": "Loona Sahiwal の礼拝時刻",
   "short_name": "Sahiwal の礼拝時刻",
   "description": "Sahiwal（パキスタン）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Sahiwal についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-sahiwal.html",
+  "id": "/ja/prayer-times-in-sahiwal.html",
   "start_url": "./prayer-times-in-sahiwal.html",
   "scope": "./prayer-times-in-sahiwal.html",
   "display": "standalone",

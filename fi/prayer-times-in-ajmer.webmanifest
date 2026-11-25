@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ajmer",
   "short_name": "Rukousajat: Ajmer",
   "description": "Tämän päivän rukousajat paikassa Ajmer, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Ajmer.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ajmer.html",
+  "id": "/fi/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

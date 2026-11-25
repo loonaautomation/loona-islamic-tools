@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Manado",
   "short_name": "Časy modlitieb v Manado",
   "description": "Dnešné časy modlitieb v Manado, Indonézia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Manado.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-manado.html",
+  "id": "/sk/prayer-times-in-manado.html",
   "start_url": "./prayer-times-in-manado.html",
   "scope": "./prayer-times-in-manado.html",
   "display": "standalone",

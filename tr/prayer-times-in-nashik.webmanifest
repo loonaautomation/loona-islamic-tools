@@ -2,7 +2,7 @@
   "name": "Loona Nashik Namaz Vakitleri",
   "short_name": "Nashik Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Nashik, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Nashik için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-nashik.html",
+  "id": "/tr/prayer-times-in-nashik.html",
   "start_url": "./prayer-times-in-nashik.html",
   "scope": "./prayer-times-in-nashik.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Havi ima-menetrend",
   "short_name": "Havi ima-menetrend",
   "description": "Készítsen nyomtatható havi ima-menetrendet bármely városhoz: mind a hat időpont az egész hónapra, az Ön számítási módszerével és Asr iskolájával, ingyenesen és privát módon.",
-  "id": "/loona-islamic-tools/hu/monthly-prayer-timetable/",
+  "id": "/hu/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

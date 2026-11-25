@@ -2,7 +2,7 @@
   "name": "Loona Larkana imaidői",
   "short_name": "Larkana imaidői",
   "description": "A mai imaidők: Larkana, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Larkana számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-larkana.html",
+  "id": "/hu/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

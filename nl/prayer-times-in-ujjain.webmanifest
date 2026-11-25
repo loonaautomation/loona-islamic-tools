@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Ujjain",
   "short_name": "Gebedstijden in Ujjain",
   "description": "De gebedstijden van vandaag in Ujjain, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Ujjain.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-ujjain.html",
+  "id": "/nl/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

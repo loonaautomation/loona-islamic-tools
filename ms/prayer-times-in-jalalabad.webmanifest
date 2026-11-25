@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Jalālābād",
   "short_name": "Waktu Solat di Jalālābād",
   "description": "Waktu solat hari ini di Jalālābād, Afghanistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Jalālābād.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-jalalabad.html",
+  "id": "/ms/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

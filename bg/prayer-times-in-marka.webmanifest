@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Marka",
   "short_name": "Часове за намаз в Marka",
   "description": "Днешните часове за намаз в Marka, Сомалия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Marka.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-marka.html",
+  "id": "/bg/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

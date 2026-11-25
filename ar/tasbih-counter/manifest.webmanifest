@@ -2,7 +2,7 @@
   "name": "Loona عداد التسبيح",
   "short_name": "عداد التسبيح",
   "description": "عداد تسبيح رقمي: سبحان الله والحمد لله وإعدادات مسبقة أخرى، أهداف 33/99/100، تتبع الجولات، اهتزاز، ومجاميع عمرية محفوظة على جهازك.",
-  "id": "/loona-islamic-tools/ar/tasbih-counter/",
+  "id": "/ar/tasbih-counter/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

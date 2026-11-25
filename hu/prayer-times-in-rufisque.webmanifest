@@ -2,7 +2,7 @@
   "name": "Loona Rufisque imaidői",
   "short_name": "Rufisque imaidői",
   "description": "A mai imaidők: Rufisque, Szenegál: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Rufisque számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-rufisque.html",
+  "id": "/hu/prayer-times-in-rufisque.html",
   "start_url": "./prayer-times-in-rufisque.html",
   "scope": "./prayer-times-in-rufisque.html",
   "display": "standalone",

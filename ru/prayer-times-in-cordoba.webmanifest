@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Córdoba",
   "short_name": "Время намаза в городе Córdoba",
   "description": "Время намаза на сегодня: Córdoba, Испания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Córdoba.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-cordoba.html",
+  "id": "/ru/prayer-times-in-cordoba.html",
   "start_url": "./prayer-times-in-cordoba.html",
   "scope": "./prayer-times-in-cordoba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Çorum",
   "short_name": "Waktu Solat di Çorum",
   "description": "Waktu solat hari ini di Çorum, Turki: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Çorum.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-corum.html",
+  "id": "/ms/prayer-times-in-corum.html",
   "start_url": "./prayer-times-in-corum.html",
   "scope": "./prayer-times-in-corum.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Amravati",
   "short_name": "Časy modlitieb v Amravati",
   "description": "Dnešné časy modlitieb v Amravati, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Amravati.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-amravati.html",
+  "id": "/sk/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

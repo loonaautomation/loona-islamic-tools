@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Austin",
   "short_name": "זמני תפילה בעיר Austin",
   "description": "זמני התפילה של היום בעיר Austin, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Austin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-austin.html",
+  "id": "/he/prayer-times-in-austin.html",
   "start_url": "./prayer-times-in-austin.html",
   "scope": "./prayer-times-in-austin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kingston upon Hull",
   "short_name": "זמני תפילה בעיר Kingston upon Hull",
   "description": "זמני התפילה של היום בעיר Kingston upon Hull, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Kingston upon Hull.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kingston-upon-hull.html",
+  "id": "/he/prayer-times-in-kingston-upon-hull.html",
   "start_url": "./prayer-times-in-kingston-upon-hull.html",
   "scope": "./prayer-times-in-kingston-upon-hull.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Istanbul",
   "short_name": "Bønnetider i Istanbul",
   "description": "Dagens bønnetider i Istanbul, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Istanbul.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-istanbul.html",
+  "id": "/nb/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

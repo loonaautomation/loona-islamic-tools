@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bannu",
   "short_name": "مواقيت الصلاة في Bannu",
   "description": "مواقيت الصلاة اليوم في Bannu، باكستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـBannu.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bannu.html",
+  "id": "/ar/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

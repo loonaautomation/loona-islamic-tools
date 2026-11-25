@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i San Diego",
   "short_name": "Bønnetider i San Diego",
   "description": "Dagens bønnetider i San Diego, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for San Diego.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-san-diego.html",
+  "id": "/da/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

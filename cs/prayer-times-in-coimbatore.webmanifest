@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Coimbatore",
   "short_name": "Časy modliteb v Coimbatore",
   "description": "Dnešní časy modliteb v Coimbatore, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Coimbatore.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-coimbatore.html",
+  "id": "/cs/prayer-times-in-coimbatore.html",
   "start_url": "./prayer-times-in-coimbatore.html",
   "scope": "./prayer-times-in-coimbatore.html",
   "display": "standalone",

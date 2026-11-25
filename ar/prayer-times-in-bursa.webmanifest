@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bursa",
   "short_name": "مواقيت الصلاة في Bursa",
   "description": "مواقيت الصلاة اليوم في Bursa، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBursa.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bursa.html",
+  "id": "/ar/prayer-times-in-bursa.html",
   "start_url": "./prayer-times-in-bursa.html",
   "scope": "./prayer-times-in-bursa.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Misratah",
   "short_name": "Ώρες Προσευχής στο Misratah",
   "description": "Οι σημερινές ώρες προσευχής στο Misratah, Λιβύη: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Misratah.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-misratah.html",
+  "id": "/el/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

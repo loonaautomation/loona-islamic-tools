@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Vancouver",
   "short_name": "זמני תפילה בעיר Vancouver",
   "description": "זמני התפילה של היום בעיר Vancouver, קנדה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Vancouver.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-vancouver.html",
+  "id": "/he/prayer-times-in-vancouver.html",
   "start_url": "./prayer-times-in-vancouver.html",
   "scope": "./prayer-times-in-vancouver.html",
   "display": "standalone",

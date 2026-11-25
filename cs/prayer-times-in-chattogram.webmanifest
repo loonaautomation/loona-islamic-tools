@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Chattogram",
   "short_name": "Časy modliteb v Chattogram",
   "description": "Dnešní časy modliteb v Chattogram, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Chattogram.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-chattogram.html",
+  "id": "/cs/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

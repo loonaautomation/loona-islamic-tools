@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Aksaray",
   "short_name": "Prayer Times in Aksaray",
   "description": "Today's prayer times in Aksaray, Turkey: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Aksaray.",
-  "id": "/loona-islamic-tools/prayer-times-in-aksaray.html",
+  "id": "/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

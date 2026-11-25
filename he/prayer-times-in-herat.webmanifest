@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Herāt",
   "short_name": "זמני תפילה בעיר Herāt",
   "description": "זמני התפילה של היום בעיר Herāt, אפגניסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Herāt.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-herat.html",
+  "id": "/he/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

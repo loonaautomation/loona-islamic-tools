@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Visakhapatnam",
   "short_name": "เวลาละหมาดใน Visakhapatnam",
   "description": "เวลาละหมาดวันนี้ใน Visakhapatnam, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Visakhapatnam",
-  "id": "/loona-islamic-tools/th/prayer-times-in-visakhapatnam.html",
+  "id": "/th/prayer-times-in-visakhapatnam.html",
   "start_url": "./prayer-times-in-visakhapatnam.html",
   "scope": "./prayer-times-in-visakhapatnam.html",
   "display": "standalone",

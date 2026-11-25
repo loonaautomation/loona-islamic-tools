@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Sikasso",
   "short_name": "Orari di preghiera a Sikasso",
   "description": "Orari di preghiera di oggi a Sikasso, Mali: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Sikasso.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-sikasso.html",
+  "id": "/it/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

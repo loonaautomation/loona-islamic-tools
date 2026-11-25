@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Salé",
   "short_name": "Rukousajat: Salé",
   "description": "Tämän päivän rukousajat paikassa Salé, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Salé.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-sale.html",
+  "id": "/fi/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

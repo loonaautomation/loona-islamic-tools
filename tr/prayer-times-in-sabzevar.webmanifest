@@ -2,7 +2,7 @@
   "name": "Loona Sabzevar Namaz Vakitleri",
   "short_name": "Sabzevar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Sabzevar, İran: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Sabzevar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-sabzevar.html",
+  "id": "/tr/prayer-times-in-sabzevar.html",
   "start_url": "./prayer-times-in-sabzevar.html",
   "scope": "./prayer-times-in-sabzevar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Québec",
   "short_name": "Časy modlitieb v Québec",
   "description": "Dnešné časy modlitieb v Québec, Kanada: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Québec.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-quebec.html",
+  "id": "/sk/prayer-times-in-quebec.html",
   "start_url": "./prayer-times-in-quebec.html",
   "scope": "./prayer-times-in-quebec.html",
   "display": "standalone",

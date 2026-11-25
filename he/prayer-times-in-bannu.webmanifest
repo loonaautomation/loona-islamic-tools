@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bannu",
   "short_name": "זמני תפילה בעיר Bannu",
   "description": "זמני התפילה של היום בעיר Bannu, פקיסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bannu.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bannu.html",
+  "id": "/he/prayer-times-in-bannu.html",
   "start_url": "./prayer-times-in-bannu.html",
   "scope": "./prayer-times-in-bannu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Jacksonville",
   "short_name": "Vremena namaza u gradu Jacksonville",
   "description": "Današnja vremena namaza u gradu Jacksonville, Sjedinjene Države: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda ISNA, izračunato uživo na vašem uređaju za grad Jacksonville.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-jacksonville.html",
+  "id": "/hr/prayer-times-in-jacksonville.html",
   "start_url": "./prayer-times-in-jacksonville.html",
   "scope": "./prayer-times-in-jacksonville.html",
   "display": "standalone",

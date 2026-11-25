@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Lexington",
   "short_name": "Waktu Salat di Lexington",
   "description": "Waktu salat hari ini di Lexington, Amerika Serikat: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Lexington.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-lexington.html",
+  "id": "/id/prayer-times-in-lexington.html",
   "start_url": "./prayer-times-in-lexington.html",
   "scope": "./prayer-times-in-lexington.html",
   "display": "standalone",

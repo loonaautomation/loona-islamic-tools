@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Nizāmābād",
   "short_name": "Час намазу в Nizāmābād",
   "description": "Сьогоднішній час намазу в Nizāmābād, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Nizāmābād.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-nizamabad.html",
+  "id": "/uk/prayer-times-in-nizamabad.html",
   "start_url": "./prayer-times-in-nizamabad.html",
   "scope": "./prayer-times-in-nizamabad.html",
   "display": "standalone",

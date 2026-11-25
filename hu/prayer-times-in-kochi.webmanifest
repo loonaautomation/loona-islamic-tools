@@ -2,7 +2,7 @@
   "name": "Loona Kochi imaidői",
   "short_name": "Kochi imaidői",
   "description": "A mai imaidők: Kochi, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Kochi számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kochi.html",
+  "id": "/hu/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

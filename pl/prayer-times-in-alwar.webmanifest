@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Alwar",
   "short_name": "Czasy modlitw w miejscowości Alwar",
   "description": "Dzisiejsze czasy modlitw w miejscowości Alwar, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Alwar.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-alwar.html",
+  "id": "/pl/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

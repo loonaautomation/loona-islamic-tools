@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Santa Ana",
   "short_name": "זמני תפילה בעיר Santa Ana",
   "description": "זמני התפילה של היום בעיר Santa Ana, ארצות הברית: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת ISNA, מחושב בשידור חי במכשיר שלך עבור Santa Ana.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-santa-ana.html",
+  "id": "/he/prayer-times-in-santa-ana.html",
   "start_url": "./prayer-times-in-santa-ana.html",
   "scope": "./prayer-times-in-santa-ana.html",
   "display": "standalone",

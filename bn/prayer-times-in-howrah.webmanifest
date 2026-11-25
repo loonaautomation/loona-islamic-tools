@@ -2,7 +2,7 @@
   "name": "Loona Howrah-এ নামাজের সময়",
   "short_name": "Howrah-এ নামাজের সময়",
   "description": "Howrah, ভারত-এ আজকের নামাজের সময়: ফজর, সূর্যোদয়, যোহর, আসর (হানাফি), মাগরিব ও এশা, সঙ্গে কিবলার দিক এবং আজকের হিজরি তারিখ। Karachi পদ্ধতি, আপনার ডিভাইসে Howrah-এর জন্য লাইভ হিসাব করা হয়েছে।",
-  "id": "/loona-islamic-tools/bn/prayer-times-in-howrah.html",
+  "id": "/bn/prayer-times-in-howrah.html",
   "start_url": "./prayer-times-in-howrah.html",
   "scope": "./prayer-times-in-howrah.html",
   "display": "standalone",

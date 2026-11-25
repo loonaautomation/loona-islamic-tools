@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Ambon",
   "short_name": "Gebetszeiten in Ambon",
   "description": "Die heutigen Gebetszeiten in Ambon, Indonesien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Ambon.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-ambon.html",
+  "id": "/de/prayer-times-in-ambon.html",
   "start_url": "./prayer-times-in-ambon.html",
   "scope": "./prayer-times-in-ambon.html",
   "display": "standalone",

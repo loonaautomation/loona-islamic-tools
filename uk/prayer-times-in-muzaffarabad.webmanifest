@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Muzaffarābād",
   "short_name": "Час намазу в Muzaffarābād",
   "description": "Сьогоднішній час намазу в Muzaffarābād, Пакистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Muzaffarābād.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-muzaffarabad.html",
+  "id": "/uk/prayer-times-in-muzaffarabad.html",
   "start_url": "./prayer-times-in-muzaffarabad.html",
   "scope": "./prayer-times-in-muzaffarabad.html",
   "display": "standalone",

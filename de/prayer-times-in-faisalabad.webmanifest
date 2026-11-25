@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Faisalabad",
   "short_name": "Gebetszeiten in Faisalabad",
   "description": "Die heutigen Gebetszeiten in Faisalabad, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Faisalabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-faisalabad.html",
+  "id": "/de/prayer-times-in-faisalabad.html",
   "start_url": "./prayer-times-in-faisalabad.html",
   "scope": "./prayer-times-in-faisalabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Arāk",
   "short_name": "Vremena namaza u gradu Arāk",
   "description": "Današnja vremena namaza u gradu Arāk, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Arāk.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-arak.html",
+  "id": "/hr/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Jember",
   "short_name": "مواقيت الصلاة في Jember",
   "description": "مواقيت الصلاة اليوم في Jember، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـJember.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-jember.html",
+  "id": "/ar/prayer-times-in-jember.html",
   "start_url": "./prayer-times-in-jember.html",
   "scope": "./prayer-times-in-jember.html",
   "display": "standalone",

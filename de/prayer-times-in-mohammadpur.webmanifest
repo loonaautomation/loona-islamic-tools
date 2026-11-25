@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mohammadpur",
   "short_name": "Gebetszeiten in Mohammadpur",
   "description": "Die heutigen Gebetszeiten in Mohammadpur, Bangladesch: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Mohammadpur.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mohammadpur.html",
+  "id": "/de/prayer-times-in-mohammadpur.html",
   "start_url": "./prayer-times-in-mohammadpur.html",
   "scope": "./prayer-times-in-mohammadpur.html",
   "display": "standalone",

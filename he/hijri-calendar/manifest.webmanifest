@@ -2,7 +2,7 @@
   "name": "Loona לוח היג'רי",
   "short_name": "לוח היג'רי",
   "description": "עיין בכל חודש ושנה היג'ריים בלוח אסלאמי נקי שבו כל יום מציג גם את התאריך הגרגוריאני שלו. לוח Umm al-Qura, חינמי ותמיד עדכני.",
-  "id": "/loona-islamic-tools/he/hijri-calendar/",
+  "id": "/he/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

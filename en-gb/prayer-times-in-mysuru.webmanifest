@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Mysuru Today",
   "short_name": "Prayer Times in Mysuru Today",
   "description": "Today's prayer times in Mysuru, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Mysuru.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-mysuru.html",
+  "id": "/en-gb/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

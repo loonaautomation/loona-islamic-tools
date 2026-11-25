@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Guédiawaye",
   "short_name": "Bønnetider i Guédiawaye",
   "description": "Dagens bønnetider i Guédiawaye, Senegal: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Guédiawaye.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-guediawaye.html",
+  "id": "/da/prayer-times-in-guediawaye.html",
   "start_url": "./prayer-times-in-guediawaye.html",
   "scope": "./prayer-times-in-guediawaye.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Ismailia",
   "short_name": "مواقيت الصلاة في Ismailia",
   "description": "مواقيت الصلاة اليوم في Ismailia، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـIsmailia.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-ismailia.html",
+  "id": "/ar/prayer-times-in-ismailia.html",
   "start_url": "./prayer-times-in-ismailia.html",
   "scope": "./prayer-times-in-ismailia.html",
   "display": "standalone",

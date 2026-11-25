@@ -2,7 +2,7 @@
   "name": "Loona Aksaray imaidői",
   "short_name": "Aksaray imaidői",
   "description": "A mai imaidők: Aksaray, Törökország: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Aksaray számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-aksaray.html",
+  "id": "/hu/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

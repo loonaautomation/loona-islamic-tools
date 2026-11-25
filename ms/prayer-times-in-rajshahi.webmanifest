@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Rajshahi",
   "short_name": "Waktu Solat di Rajshahi",
   "description": "Waktu solat hari ini di Rajshahi, Bangladesh: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Rajshahi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-rajshahi.html",
+  "id": "/ms/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

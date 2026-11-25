@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Oakland",
   "short_name": "Rukousajat: Oakland",
   "description": "Tämän päivän rukousajat paikassa Oakland, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Oakland.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-oakland.html",
+  "id": "/fi/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

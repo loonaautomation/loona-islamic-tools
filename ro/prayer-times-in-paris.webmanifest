@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Paris",
   "short_name": "Ore de rugăciune în Paris",
   "description": "Orele de rugăciune de azi în Paris, Franța: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Paris.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-paris.html",
+  "id": "/ro/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

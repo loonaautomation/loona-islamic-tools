@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Thembisa",
   "short_name": "Waktu Salat di Thembisa",
   "description": "Waktu salat hari ini di Thembisa, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Thembisa.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-thembisa.html",
+  "id": "/id/prayer-times-in-thembisa.html",
   "start_url": "./prayer-times-in-thembisa.html",
   "scope": "./prayer-times-in-thembisa.html",
   "display": "standalone",

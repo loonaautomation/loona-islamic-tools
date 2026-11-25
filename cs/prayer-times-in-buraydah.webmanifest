@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Buraydah",
   "short_name": "Časy modliteb v Buraydah",
   "description": "Dnešní časy modliteb v Buraydah, Saúdská Arábie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Umm al-Qura, počítáno živě ve vašem zařízení pro Buraydah.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-buraydah.html",
+  "id": "/cs/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

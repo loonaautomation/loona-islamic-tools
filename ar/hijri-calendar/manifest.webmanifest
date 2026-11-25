@@ -2,7 +2,7 @@
   "name": "Loona التقويم الهجري",
   "short_name": "التقويم الهجري",
   "description": "تصفح أي شهر وسنة هجرية في تقويم إسلامي نظيف حيث يعرض كل يوم تاريخه الميلادي أيضًا. تقويم أم القرى، مجاني ومحدّث دائمًا.",
-  "id": "/loona-islamic-tools/ar/hijri-calendar/",
+  "id": "/ar/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

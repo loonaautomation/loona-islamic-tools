@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Damietta",
   "short_name": "Czasy modlitw w miejscowości Damietta",
   "description": "Dzisiejsze czasy modlitw w miejscowości Damietta, kraj Egipt: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Egyptian General Authority, obliczane na żywo na Twoim urządzeniu dla miejscowości Damietta.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-damietta.html",
+  "id": "/pl/prayer-times-in-damietta.html",
   "start_url": "./prayer-times-in-damietta.html",
   "scope": "./prayer-times-in-damietta.html",
   "display": "standalone",

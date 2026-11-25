@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Madrid",
   "short_name": "זמני תפילה בעיר Madrid",
   "description": "זמני התפילה של היום בעיר Madrid, ספרד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Madrid.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-madrid.html",
+  "id": "/he/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

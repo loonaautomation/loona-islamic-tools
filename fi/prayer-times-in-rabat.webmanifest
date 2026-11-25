@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Rabat",
   "short_name": "Rukousajat: Rabat",
   "description": "Tämän päivän rukousajat paikassa Rabat, Marokko: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Rabat.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-rabat.html",
+  "id": "/fi/prayer-times-in-rabat.html",
   "start_url": "./prayer-times-in-rabat.html",
   "scope": "./prayer-times-in-rabat.html",
   "display": "standalone",

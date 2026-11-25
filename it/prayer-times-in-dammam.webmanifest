@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dammam",
   "short_name": "Orari di preghiera a Dammam",
   "description": "Orari di preghiera di oggi a Dammam, Arabia Saudita: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Dammam.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dammam.html",
+  "id": "/it/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

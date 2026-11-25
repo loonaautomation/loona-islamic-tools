@@ -2,7 +2,7 @@
   "name": "Loona جدول رمضان في Suez 2027 (1448)",
   "short_name": "جدول رمضان في Suez 2027 (1448)",
   "description": "جدول رمضان 2027 لـSuez، مصر: مواقيت انتهاء السحور (الفجر) والإفطار (المغرب) لكل يوم من رمضان 1448. متوقع من 8 فبراير إلى 8 مارس 2027، رهنًا برؤية الهلال.",
-  "id": "/loona-islamic-tools/ar/ramadan-timetable-in-suez.html",
+  "id": "/ar/ramadan-timetable-in-suez.html",
   "start_url": "./ramadan-timetable-in-suez.html",
   "scope": "./ramadan-timetable-in-suez.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Karachi",
   "short_name": "Gebetszeiten in Karachi",
   "description": "Die heutigen Gebetszeiten in Karachi, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Karachi.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-karachi.html",
+  "id": "/de/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

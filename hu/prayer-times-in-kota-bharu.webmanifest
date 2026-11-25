@@ -2,7 +2,7 @@
   "name": "Loona Kota Bharu imaidői",
   "short_name": "Kota Bharu imaidői",
   "description": "A mai imaidők: Kota Bharu, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Kota Bharu számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-kota-bharu.html",
+  "id": "/hu/prayer-times-in-kota-bharu.html",
   "start_url": "./prayer-times-in-kota-bharu.html",
   "scope": "./prayer-times-in-kota-bharu.html",
   "display": "standalone",

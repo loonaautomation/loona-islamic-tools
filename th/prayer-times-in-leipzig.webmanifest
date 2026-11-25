@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Leipzig",
   "short_name": "เวลาละหมาดใน Leipzig",
   "description": "เวลาละหมาดวันนี้ใน Leipzig, Germany: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Leipzig",
-  "id": "/loona-islamic-tools/th/prayer-times-in-leipzig.html",
+  "id": "/th/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

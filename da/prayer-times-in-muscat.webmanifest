@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Muscat",
   "short_name": "Bønnetider i Muscat",
   "description": "Dagens bønnetider i Muscat, Oman: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Muscat.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-muscat.html",
+  "id": "/da/prayer-times-in-muscat.html",
   "start_url": "./prayer-times-in-muscat.html",
   "scope": "./prayer-times-in-muscat.html",
   "display": "standalone",

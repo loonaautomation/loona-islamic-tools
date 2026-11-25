@@ -2,7 +2,7 @@
   "name": "Loona Chattogram Namaz Vakitleri",
   "short_name": "Chattogram Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Chattogram, Bangladeş: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Chattogram için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-chattogram.html",
+  "id": "/tr/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

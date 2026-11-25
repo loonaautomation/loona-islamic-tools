@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Aurora",
   "short_name": "Время намаза в городе Aurora",
   "description": "Время намаза на сегодня: Aurora, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Aurora.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-aurora.html",
+  "id": "/ru/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

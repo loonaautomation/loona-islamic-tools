@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Cleveland Today",
   "short_name": "Prayer Times in Cleveland Today",
   "description": "Today's prayer times in Cleveland, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Cleveland.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-cleveland.html",
+  "id": "/en-gb/prayer-times-in-cleveland.html",
   "start_url": "./prayer-times-in-cleveland.html",
   "scope": "./prayer-times-in-cleveland.html",
   "display": "standalone",

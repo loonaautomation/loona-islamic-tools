@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kandahār",
   "short_name": "Časy modliteb v Kandahār",
   "description": "Dnešní časy modliteb v Kandahār, Afghánistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kandahār.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kandahar.html",
+  "id": "/cs/prayer-times-in-kandahar.html",
   "start_url": "./prayer-times-in-kandahar.html",
   "scope": "./prayer-times-in-kandahar.html",
   "display": "standalone",

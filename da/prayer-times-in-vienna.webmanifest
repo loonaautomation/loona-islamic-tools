@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Vienna",
   "short_name": "Bønnetider i Vienna",
   "description": "Dagens bønnetider i Vienna, Østrig: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Vienna.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-vienna.html",
+  "id": "/da/prayer-times-in-vienna.html",
   "start_url": "./prayer-times-in-vienna.html",
   "scope": "./prayer-times-in-vienna.html",
   "display": "standalone",

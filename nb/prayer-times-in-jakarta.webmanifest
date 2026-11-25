@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Jakarta",
   "short_name": "Bønnetider i Jakarta",
   "description": "Dagens bønnetider i Jakarta, Indonesia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Jakarta.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-jakarta.html",
+  "id": "/nb/prayer-times-in-jakarta.html",
   "start_url": "./prayer-times-in-jakarta.html",
   "scope": "./prayer-times-in-jakarta.html",
   "display": "standalone",

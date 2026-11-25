@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Pune",
   "short_name": "Czasy modlitw w miejscowości Pune",
   "description": "Dzisiejsze czasy modlitw w miejscowości Pune, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Pune.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-pune.html",
+  "id": "/pl/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

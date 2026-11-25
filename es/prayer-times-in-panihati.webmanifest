@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Pānihāti",
   "short_name": "Horarios de oración en Pānihāti",
   "description": "Horarios de oración de hoy en Pānihāti, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Pānihāti.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-panihati.html",
+  "id": "/es/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

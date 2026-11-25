@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Herāt",
   "short_name": "Час намазу в Herāt",
   "description": "Сьогоднішній час намазу в Herāt, Афганістан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Herāt.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-herat.html",
+  "id": "/uk/prayer-times-in-herat.html",
   "start_url": "./prayer-times-in-herat.html",
   "scope": "./prayer-times-in-herat.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Charlotte",
   "short_name": "Giờ cầu nguyện tại Charlotte",
   "description": "Giờ cầu nguyện hôm nay tại Charlotte, Hoa Kỳ: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp ISNA, được tính trực tiếp trên thiết bị của bạn cho Charlotte.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-charlotte.html",
+  "id": "/vi/prayer-times-in-charlotte.html",
   "start_url": "./prayer-times-in-charlotte.html",
   "scope": "./prayer-times-in-charlotte.html",
   "display": "standalone",

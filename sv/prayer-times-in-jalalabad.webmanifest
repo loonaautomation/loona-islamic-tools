@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Jalālābād",
   "short_name": "Bönetider i Jalālābād",
   "description": "Dagens bönetider i Jalālābād, Afghanistan: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Jalālābād.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-jalalabad.html",
+  "id": "/sv/prayer-times-in-jalalabad.html",
   "start_url": "./prayer-times-in-jalalabad.html",
   "scope": "./prayer-times-in-jalalabad.html",
   "display": "standalone",

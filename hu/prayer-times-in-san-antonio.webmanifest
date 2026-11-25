@@ -2,7 +2,7 @@
   "name": "Loona San Antonio imaidői",
   "short_name": "San Antonio imaidői",
   "description": "A mai imaidők: San Antonio, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén San Antonio számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-san-antonio.html",
+  "id": "/hu/prayer-times-in-san-antonio.html",
   "start_url": "./prayer-times-in-san-antonio.html",
   "scope": "./prayer-times-in-san-antonio.html",
   "display": "standalone",

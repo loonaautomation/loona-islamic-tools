@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tumkūr",
   "short_name": "Bönetider i Tumkūr",
   "description": "Dagens bönetider i Tumkūr, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Tumkūr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tumkur.html",
+  "id": "/sv/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

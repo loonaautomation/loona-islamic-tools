@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Qom",
   "short_name": "مواقيت الصلاة في Qom",
   "description": "مواقيت الصلاة اليوم في Qom، إيران: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـQom.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-qom.html",
+  "id": "/ar/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

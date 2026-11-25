@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Agra",
   "short_name": "Časy modlitieb v Agra",
   "description": "Dnešné časy modlitieb v Agra, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Agra.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-agra.html",
+  "id": "/sk/prayer-times-in-agra.html",
   "start_url": "./prayer-times-in-agra.html",
   "scope": "./prayer-times-in-agra.html",
   "display": "standalone",

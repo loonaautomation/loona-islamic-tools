@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Pasuruan",
   "short_name": "Часове за намаз в Pasuruan",
   "description": "Днешните часове за намаз в Pasuruan, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Pasuruan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-pasuruan.html",
+  "id": "/bg/prayer-times-in-pasuruan.html",
   "start_url": "./prayer-times-in-pasuruan.html",
   "scope": "./prayer-times-in-pasuruan.html",
   "display": "standalone",

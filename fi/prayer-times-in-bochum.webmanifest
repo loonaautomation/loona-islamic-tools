@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Bochum",
   "short_name": "Rukousajat: Bochum",
   "description": "Tämän päivän rukousajat paikassa Bochum, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Bochum.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-bochum.html",
+  "id": "/fi/prayer-times-in-bochum.html",
   "start_url": "./prayer-times-in-bochum.html",
   "scope": "./prayer-times-in-bochum.html",
   "display": "standalone",

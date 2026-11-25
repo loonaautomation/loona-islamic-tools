@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Sukkur",
   "short_name": "Ώρες Προσευχής στο Sukkur",
   "description": "Οι σημερινές ώρες προσευχής στο Sukkur, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Sukkur.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-sukkur.html",
+  "id": "/el/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

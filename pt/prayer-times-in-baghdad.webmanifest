@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Baghdad",
   "short_name": "Horários de Oração em Baghdad",
   "description": "Horários de oração de hoje em Baghdad, Iraque: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Baghdad.",
-  "id": "/loona-islamic-tools/pt/prayer-times-in-baghdad.html",
+  "id": "/pt/prayer-times-in-baghdad.html",
   "start_url": "./prayer-times-in-baghdad.html",
   "scope": "./prayer-times-in-baghdad.html",
   "display": "standalone",

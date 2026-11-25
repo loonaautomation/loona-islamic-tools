@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Koutiala",
   "short_name": "זמני תפילה בעיר Koutiala",
   "description": "זמני התפילה של היום בעיר Koutiala, מאלי: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Koutiala.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-koutiala.html",
+  "id": "/he/prayer-times-in-koutiala.html",
   "start_url": "./prayer-times-in-koutiala.html",
   "scope": "./prayer-times-in-koutiala.html",
   "display": "standalone",

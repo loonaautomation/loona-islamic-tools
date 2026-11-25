@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ramadi",
   "short_name": "Bønnetider i Ramadi",
   "description": "Dagens bønnetider i Ramadi, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Ramadi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ramadi.html",
+  "id": "/nb/prayer-times-in-ramadi.html",
   "start_url": "./prayer-times-in-ramadi.html",
   "scope": "./prayer-times-in-ramadi.html",
   "display": "standalone",

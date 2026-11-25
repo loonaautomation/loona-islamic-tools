@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Ranchi",
   "short_name": "Bønnetider i Ranchi",
   "description": "Dagens bønnetider i Ranchi, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Ranchi.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-ranchi.html",
+  "id": "/nb/prayer-times-in-ranchi.html",
   "start_url": "./prayer-times-in-ranchi.html",
   "scope": "./prayer-times-in-ranchi.html",
   "display": "standalone",

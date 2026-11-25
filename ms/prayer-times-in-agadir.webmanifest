@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Agadir",
   "short_name": "Waktu Solat di Agadir",
   "description": "Waktu solat hari ini di Agadir, Maghribi: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Agadir.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-agadir.html",
+  "id": "/ms/prayer-times-in-agadir.html",
   "start_url": "./prayer-times-in-agadir.html",
   "scope": "./prayer-times-in-agadir.html",
   "display": "standalone",

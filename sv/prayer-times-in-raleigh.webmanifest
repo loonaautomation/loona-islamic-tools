@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Raleigh",
   "short_name": "Bönetider i Raleigh",
   "description": "Dagens bönetider i Raleigh, USA: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. ISNA-metoden, beräknad live på din enhet för Raleigh.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-raleigh.html",
+  "id": "/sv/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

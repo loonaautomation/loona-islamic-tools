@@ -2,7 +2,7 @@
   "name": "Loona Manama的禮拜時間",
   "short_name": "Manama的禮拜時間",
   "description": "Manama（巴林）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Umm al-Qura方法，在您的裝置上為Manama實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-manama.html",
+  "id": "/zh-hant/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

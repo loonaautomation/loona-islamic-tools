@@ -2,7 +2,7 @@
   "name": "Loona মাসিক নামাজের সময়সূচি",
   "short_name": "মাসিক নামাজের সময়সূচি",
   "description": "যেকোনো শহরের জন্য ছাপানোর উপযোগী একটি মাসিক নামাজের সময়সূচি তৈরি করুন: পুরো মাসের ছয়টি সময়ই, আপনার গণনা পদ্ধতি ও আসরের মাজহাবসহ, ফ্রি ও ব্যক্তিগত।",
-  "id": "/loona-islamic-tools/bn/monthly-prayer-timetable/",
+  "id": "/bn/monthly-prayer-timetable/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

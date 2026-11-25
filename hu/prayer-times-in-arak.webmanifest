@@ -2,7 +2,7 @@
   "name": "Loona Arāk imaidői",
   "short_name": "Arāk imaidői",
   "description": "A mai imaidők: Arāk, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Arāk számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-arak.html",
+  "id": "/hu/prayer-times-in-arak.html",
   "start_url": "./prayer-times-in-arak.html",
   "scope": "./prayer-times-in-arak.html",
   "display": "standalone",

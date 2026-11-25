@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Denpasar",
   "short_name": "เวลาละหมาดใน Denpasar",
   "description": "เวลาละหมาดวันนี้ใน Denpasar, Indonesia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Denpasar",
-  "id": "/loona-islamic-tools/th/prayer-times-in-denpasar.html",
+  "id": "/th/prayer-times-in-denpasar.html",
   "start_url": "./prayer-times-in-denpasar.html",
   "scope": "./prayer-times-in-denpasar.html",
   "display": "standalone",

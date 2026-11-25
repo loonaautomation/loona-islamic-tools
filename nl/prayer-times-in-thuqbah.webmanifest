@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Thuqbah",
   "short_name": "Gebedstijden in Thuqbah",
   "description": "De gebedstijden van vandaag in Thuqbah, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Thuqbah.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-thuqbah.html",
+  "id": "/nl/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Bhilwara",
   "short_name": "זמני תפילה בעיר Bhilwara",
   "description": "זמני התפילה של היום בעיר Bhilwara, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Bhilwara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-bhilwara.html",
+  "id": "/he/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

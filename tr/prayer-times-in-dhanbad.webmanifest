@@ -2,7 +2,7 @@
   "name": "Loona Dhanbad Namaz Vakitleri",
   "short_name": "Dhanbad Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Dhanbad, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Dhanbad için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-dhanbad.html",
+  "id": "/tr/prayer-times-in-dhanbad.html",
   "start_url": "./prayer-times-in-dhanbad.html",
   "scope": "./prayer-times-in-dhanbad.html",
   "display": "standalone",

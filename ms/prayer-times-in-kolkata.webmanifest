@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kolkata",
   "short_name": "Waktu Solat di Kolkata",
   "description": "Waktu solat hari ini di Kolkata, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Kolkata.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kolkata.html",
+  "id": "/ms/prayer-times-in-kolkata.html",
   "start_url": "./prayer-times-in-kolkata.html",
   "scope": "./prayer-times-in-kolkata.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Fes Namaz Vakitleri",
   "short_name": "Fes Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Fes, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Fes için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-fes.html",
+  "id": "/tr/prayer-times-in-fes.html",
   "start_url": "./prayer-times-in-fes.html",
   "scope": "./prayer-times-in-fes.html",
   "display": "standalone",

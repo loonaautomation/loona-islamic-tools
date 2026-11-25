@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości San Diego",
   "short_name": "Czasy modlitw w miejscowości San Diego",
   "description": "Dzisiejsze czasy modlitw w miejscowości San Diego, kraj Stany Zjednoczone: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda ISNA, obliczane na żywo na Twoim urządzeniu dla miejscowości San Diego.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-san-diego.html",
+  "id": "/pl/prayer-times-in-san-diego.html",
   "start_url": "./prayer-times-in-san-diego.html",
   "scope": "./prayer-times-in-san-diego.html",
   "display": "standalone",

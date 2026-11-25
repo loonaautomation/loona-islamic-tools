@@ -2,7 +2,7 @@
   "name": "Loona Nairobi的禮拜時間",
   "short_name": "Nairobi的禮拜時間",
   "description": "Nairobi（肯尼亞）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Hanafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Karachi方法，在您的裝置上為Nairobi實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-nairobi.html",
+  "id": "/zh-hant/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

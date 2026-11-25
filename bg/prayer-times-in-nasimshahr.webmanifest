@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Nasimshahr",
   "short_name": "Часове за намаз в Nasimshahr",
   "description": "Днешните часове за намаз в Nasimshahr, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Nasimshahr.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-nasimshahr.html",
+  "id": "/bg/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

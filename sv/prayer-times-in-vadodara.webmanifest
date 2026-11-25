@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Vadodara",
   "short_name": "Bönetider i Vadodara",
   "description": "Dagens bönetider i Vadodara, Indien: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Vadodara.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-vadodara.html",
+  "id": "/sv/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

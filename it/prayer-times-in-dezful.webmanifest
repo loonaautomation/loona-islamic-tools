@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Dezful",
   "short_name": "Orari di preghiera a Dezful",
   "description": "Orari di preghiera di oggi a Dezful, Iran: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Dezful.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-dezful.html",
+  "id": "/it/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

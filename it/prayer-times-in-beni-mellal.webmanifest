@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Beni Mellal",
   "short_name": "Orari di preghiera a Beni Mellal",
   "description": "Orari di preghiera di oggi a Beni Mellal, Marocco: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Beni Mellal.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-beni-mellal.html",
+  "id": "/it/prayer-times-in-beni-mellal.html",
   "start_url": "./prayer-times-in-beni-mellal.html",
   "scope": "./prayer-times-in-beni-mellal.html",
   "display": "standalone",

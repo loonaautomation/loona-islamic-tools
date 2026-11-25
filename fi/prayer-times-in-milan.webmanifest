@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Milan",
   "short_name": "Rukousajat: Milan",
   "description": "Tämän päivän rukousajat paikassa Milan, Italia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Milan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-milan.html",
+  "id": "/fi/prayer-times-in-milan.html",
   "start_url": "./prayer-times-in-milan.html",
   "scope": "./prayer-times-in-milan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Banjarmasin",
   "short_name": "זמני תפילה בעיר Banjarmasin",
   "description": "זמני התפילה של היום בעיר Banjarmasin, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Banjarmasin.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-banjarmasin.html",
+  "id": "/he/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

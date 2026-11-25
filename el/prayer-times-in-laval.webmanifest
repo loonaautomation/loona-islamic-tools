@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Laval",
   "short_name": "Ώρες Προσευχής στο Laval",
   "description": "Οι σημερινές ώρες προσευχής στο Laval, Καναδάς: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το Laval.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-laval.html",
+  "id": "/el/prayer-times-in-laval.html",
   "start_url": "./prayer-times-in-laval.html",
   "scope": "./prayer-times-in-laval.html",
   "display": "standalone",

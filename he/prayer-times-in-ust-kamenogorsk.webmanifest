@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ust-Kamenogorsk",
   "short_name": "זמני תפילה בעיר Ust-Kamenogorsk",
   "description": "זמני התפילה של היום בעיר Ust-Kamenogorsk, קזחסטן: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ust-Kamenogorsk.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ust-kamenogorsk.html",
+  "id": "/he/prayer-times-in-ust-kamenogorsk.html",
   "start_url": "./prayer-times-in-ust-kamenogorsk.html",
   "scope": "./prayer-times-in-ust-kamenogorsk.html",
   "display": "standalone",

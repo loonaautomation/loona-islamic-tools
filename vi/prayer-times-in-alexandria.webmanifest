@@ -2,7 +2,7 @@
   "name": "Loona Giờ cầu nguyện tại Alexandria",
   "short_name": "Giờ cầu nguyện tại Alexandria",
   "description": "Giờ cầu nguyện hôm nay tại Alexandria, Ai Cập: Fajr, Bình minh, Dhuhr, Asr (Shafi), Maghrib và Isha, cộng thêm hướng Qibla và ngày Hijri hôm nay. Phương pháp Egyptian General Authority, được tính trực tiếp trên thiết bị của bạn cho Alexandria.",
-  "id": "/loona-islamic-tools/vi/prayer-times-in-alexandria.html",
+  "id": "/vi/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

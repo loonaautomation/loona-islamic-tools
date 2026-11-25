@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Indore",
   "short_name": "Gebetszeiten in Indore",
   "description": "Die heutigen Gebetszeiten in Indore, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Indore.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-indore.html",
+  "id": "/de/prayer-times-in-indore.html",
   "start_url": "./prayer-times-in-indore.html",
   "scope": "./prayer-times-in-indore.html",
   "display": "standalone",

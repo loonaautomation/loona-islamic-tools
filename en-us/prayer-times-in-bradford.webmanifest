@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Bradford Today",
   "short_name": "Prayer Times in Bradford Today",
   "description": "Today's prayer times in Bradford, United Kingdom: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Bradford.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-bradford.html",
+  "id": "/en-us/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

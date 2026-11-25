@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat Hari Ini",
   "short_name": "Waktu Solat Hari Ini",
   "description": "Dapatkan waktu solat Subuh, Zohor, Asar, Maghrib dan Isyak hari ini untuk mana-mana bandar: kaedah Karachi, ISNA, MWL dan banyak lagi, Asar Hanafi atau Syafi&rsquo;i, koordinat tepat disokong.",
-  "id": "/loona-islamic-tools/ms/prayer-times/",
+  "id": "/ms/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

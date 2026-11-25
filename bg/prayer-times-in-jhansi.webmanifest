@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Jhānsi",
   "short_name": "Часове за намаз в Jhānsi",
   "description": "Днешните часове за намаз в Jhānsi, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Jhānsi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-jhansi.html",
+  "id": "/bg/prayer-times-in-jhansi.html",
   "start_url": "./prayer-times-in-jhansi.html",
   "scope": "./prayer-times-in-jhansi.html",
   "display": "standalone",

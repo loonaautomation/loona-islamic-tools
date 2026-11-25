@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mumbai",
   "short_name": "Bønnetider i Mumbai",
   "description": "Dagens bønnetider i Mumbai, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Mumbai.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-mumbai.html",
+  "id": "/da/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

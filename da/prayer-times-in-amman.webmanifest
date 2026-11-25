@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Amman",
   "short_name": "Bønnetider i Amman",
   "description": "Dagens bønnetider i Amman, Jordan: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Amman.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-amman.html",
+  "id": "/da/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

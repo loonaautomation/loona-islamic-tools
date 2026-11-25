@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bokāro",
   "short_name": "Ώρες Προσευχής στο Bokāro",
   "description": "Οι σημερινές ώρες προσευχής στο Bokāro, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Bokāro.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bokaro.html",
+  "id": "/el/prayer-times-in-bokaro.html",
   "start_url": "./prayer-times-in-bokaro.html",
   "scope": "./prayer-times-in-bokaro.html",
   "display": "standalone",

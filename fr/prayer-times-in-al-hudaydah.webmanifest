@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Al Ḩudaydah",
   "short_name": "Heures de prière à Al Ḩudaydah",
   "description": "Les heures de prière d’aujourd’hui à Al Ḩudaydah, Yémen : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Al Ḩudaydah.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-al-hudaydah.html",
+  "id": "/fr/prayer-times-in-al-hudaydah.html",
   "start_url": "./prayer-times-in-al-hudaydah.html",
   "scope": "./prayer-times-in-al-hudaydah.html",
   "display": "standalone",

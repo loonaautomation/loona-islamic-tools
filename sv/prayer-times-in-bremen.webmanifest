@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bremen",
   "short_name": "Bönetider i Bremen",
   "description": "Dagens bönetider i Bremen, Tyskland: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bremen.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bremen.html",
+  "id": "/sv/prayer-times-in-bremen.html",
   "start_url": "./prayer-times-in-bremen.html",
   "scope": "./prayer-times-in-bremen.html",
   "display": "standalone",

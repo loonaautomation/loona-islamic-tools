@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al Hoceïma",
   "short_name": "זמני תפילה בעיר Al Hoceïma",
   "description": "זמני התפילה של היום בעיר Al Hoceïma, מרוקו: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Al Hoceïma.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-hoceima.html",
+  "id": "/he/prayer-times-in-al-hoceima.html",
   "start_url": "./prayer-times-in-al-hoceima.html",
   "scope": "./prayer-times-in-al-hoceima.html",
   "display": "standalone",

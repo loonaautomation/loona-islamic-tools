@@ -2,7 +2,7 @@
   "name": "Loona Winnipeg的礼拜时间",
   "short_name": "Winnipeg的礼拜时间",
   "description": "Winnipeg（加拿大）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Winnipeg实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-winnipeg.html",
+  "id": "/zh/prayer-times-in-winnipeg.html",
   "start_url": "./prayer-times-in-winnipeg.html",
   "scope": "./prayer-times-in-winnipeg.html",
   "display": "standalone",

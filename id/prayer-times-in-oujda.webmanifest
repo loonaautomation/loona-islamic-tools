@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Oujda",
   "short_name": "Waktu Salat di Oujda",
   "description": "Waktu salat hari ini di Oujda, Maroko: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Oujda.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-oujda.html",
+  "id": "/id/prayer-times-in-oujda.html",
   "start_url": "./prayer-times-in-oujda.html",
   "scope": "./prayer-times-in-oujda.html",
   "display": "standalone",

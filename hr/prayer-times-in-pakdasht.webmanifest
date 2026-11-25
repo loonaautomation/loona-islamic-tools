@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pākdasht",
   "short_name": "Vremena namaza u gradu Pākdasht",
   "description": "Današnja vremena namaza u gradu Pākdasht, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pākdasht.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pakdasht.html",
+  "id": "/hr/prayer-times-in-pakdasht.html",
   "start_url": "./prayer-times-in-pakdasht.html",
   "scope": "./prayer-times-in-pakdasht.html",
   "display": "standalone",

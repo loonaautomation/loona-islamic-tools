@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Niamey",
   "short_name": "مواقيت الصلاة في Niamey",
   "description": "مواقيت الصلاة اليوم في Niamey، النيجر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـNiamey.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-niamey.html",
+  "id": "/ar/prayer-times-in-niamey.html",
   "start_url": "./prayer-times-in-niamey.html",
   "scope": "./prayer-times-in-niamey.html",
   "display": "standalone",

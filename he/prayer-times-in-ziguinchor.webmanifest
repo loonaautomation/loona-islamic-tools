@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Ziguinchor",
   "short_name": "זמני תפילה בעיר Ziguinchor",
   "description": "זמני התפילה של היום בעיר Ziguinchor, סנגל: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Ziguinchor.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-ziguinchor.html",
+  "id": "/he/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

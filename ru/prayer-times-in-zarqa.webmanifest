@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Zarqa",
   "short_name": "Время намаза в городе Zarqa",
   "description": "Время намаза на сегодня: Zarqa, Иордания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Zarqa.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-zarqa.html",
+  "id": "/ru/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

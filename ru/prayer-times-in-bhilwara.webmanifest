@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bhilwara",
   "short_name": "Время намаза в городе Bhilwara",
   "description": "Время намаза на сегодня: Bhilwara, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Bhilwara.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bhilwara.html",
+  "id": "/ru/prayer-times-in-bhilwara.html",
   "start_url": "./prayer-times-in-bhilwara.html",
   "scope": "./prayer-times-in-bhilwara.html",
   "display": "standalone",

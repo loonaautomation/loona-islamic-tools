@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Zanjan",
   "short_name": "Časy modlitieb v Zanjan",
   "description": "Dnešné časy modlitieb v Zanjan, Irán: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Zanjan.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-zanjan.html",
+  "id": "/sk/prayer-times-in-zanjan.html",
   "start_url": "./prayer-times-in-zanjan.html",
   "scope": "./prayer-times-in-zanjan.html",
   "display": "standalone",

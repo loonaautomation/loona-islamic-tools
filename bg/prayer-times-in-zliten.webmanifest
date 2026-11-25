@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Zliten",
   "short_name": "Часове за намаз в Zliten",
   "description": "Днешните часове за намаз в Zliten, Либия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Zliten.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-zliten.html",
+  "id": "/bg/prayer-times-in-zliten.html",
   "start_url": "./prayer-times-in-zliten.html",
   "scope": "./prayer-times-in-zliten.html",
   "display": "standalone",

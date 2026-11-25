@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Annaba",
   "short_name": "Часове за намаз в Annaba",
   "description": "Днешните часове за намаз в Annaba, Алжир: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Annaba.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-annaba.html",
+  "id": "/bg/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

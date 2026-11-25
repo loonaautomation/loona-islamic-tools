@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Prayagraj",
   "short_name": "Bønnetider i Prayagraj",
   "description": "Dagens bønnetider i Prayagraj, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Prayagraj.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-prayagraj.html",
+  "id": "/nb/prayer-times-in-prayagraj.html",
   "start_url": "./prayer-times-in-prayagraj.html",
   "scope": "./prayer-times-in-prayagraj.html",
   "display": "standalone",

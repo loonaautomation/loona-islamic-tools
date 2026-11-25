@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Madrid",
   "short_name": "Časy modlitieb v Madrid",
   "description": "Dnešné časy modlitieb v Madrid, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Madrid.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-madrid.html",
+  "id": "/sk/prayer-times-in-madrid.html",
   "start_url": "./prayer-times-in-madrid.html",
   "scope": "./prayer-times-in-madrid.html",
   "display": "standalone",

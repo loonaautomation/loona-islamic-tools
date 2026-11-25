@@ -2,7 +2,7 @@
   "name": "Loona Πρόγραμμα Ραμαζανιού στο Ιράν 2027 (1448)",
   "short_name": "Πρόγραμμα Ραμαζανιού στο Ιράν 2027 (1448)",
   "description": "Πρόγραμμα Ραμαζανιού 2027 για Ιράν: ώρες τέλους Σεχρί (Φατζρ) και Ιφτάρ (Μαγκρίμπ) για κάθε ημέρα του Ραμαζανιού 1448, υπολογισμένες για Tehran. Αναμένεται 8 Φεβρουαρίου έως 8 Μαρτίου 2027, υπό την επιφύλαξη της παρατήρησης της σελήνης.",
-  "id": "/loona-islamic-tools/el/ramadan-timetable-in-iran.html",
+  "id": "/el/ramadan-timetable-in-iran.html",
   "start_url": "./ramadan-timetable-in-iran.html",
   "scope": "./ramadan-timetable-in-iran.html",
   "display": "standalone",

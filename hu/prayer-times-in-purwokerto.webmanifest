@@ -2,7 +2,7 @@
   "name": "Loona Purwokerto imaidői",
   "short_name": "Purwokerto imaidői",
   "description": "A mai imaidők: Purwokerto, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Purwokerto számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-purwokerto.html",
+  "id": "/hu/prayer-times-in-purwokerto.html",
   "start_url": "./prayer-times-in-purwokerto.html",
   "scope": "./prayer-times-in-purwokerto.html",
   "display": "standalone",

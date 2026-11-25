@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ar Raqqah",
   "short_name": "Время намаза в городе Ar Raqqah",
   "description": "Время намаза на сегодня: Ar Raqqah, Сирия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Ar Raqqah.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ar-raqqah.html",
+  "id": "/ru/prayer-times-in-ar-raqqah.html",
   "start_url": "./prayer-times-in-ar-raqqah.html",
   "scope": "./prayer-times-in-ar-raqqah.html",
   "display": "standalone",

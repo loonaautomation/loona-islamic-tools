@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Touba",
   "short_name": "Rukousajat: Touba",
   "description": "Tämän päivän rukousajat paikassa Touba, Senegal: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Touba.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-touba.html",
+  "id": "/fi/prayer-times-in-touba.html",
   "start_url": "./prayer-times-in-touba.html",
   "scope": "./prayer-times-in-touba.html",
   "display": "standalone",

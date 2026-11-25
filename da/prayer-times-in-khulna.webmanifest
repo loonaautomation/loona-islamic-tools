@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Khulna",
   "short_name": "Bønnetider i Khulna",
   "description": "Dagens bønnetider i Khulna, Bangladesh: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Khulna.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-khulna.html",
+  "id": "/da/prayer-times-in-khulna.html",
   "start_url": "./prayer-times-in-khulna.html",
   "scope": "./prayer-times-in-khulna.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Thuqbah",
   "short_name": "เวลาละหมาดใน Thuqbah",
   "description": "เวลาละหมาดวันนี้ใน Thuqbah, Saudi Arabia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Umm al-Qura คำนวณสดบนอุปกรณ์ของคุณสำหรับ Thuqbah",
-  "id": "/loona-islamic-tools/th/prayer-times-in-thuqbah.html",
+  "id": "/th/prayer-times-in-thuqbah.html",
   "start_url": "./prayer-times-in-thuqbah.html",
   "scope": "./prayer-times-in-thuqbah.html",
   "display": "standalone",

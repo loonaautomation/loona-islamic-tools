@@ -2,7 +2,7 @@
   "name": "Loona Dhaka imaidői",
   "short_name": "Dhaka imaidői",
   "description": "A mai imaidők: Dhaka, Banglades: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Dhaka számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-dhaka.html",
+  "id": "/hu/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

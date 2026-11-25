@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kankan",
   "short_name": "Часове за намаз в Kankan",
   "description": "Днешните часове за намаз в Kankan, Гвинея: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Kankan.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kankan.html",
+  "id": "/bg/prayer-times-in-kankan.html",
   "start_url": "./prayer-times-in-kankan.html",
   "scope": "./prayer-times-in-kankan.html",
   "display": "standalone",

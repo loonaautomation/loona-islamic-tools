@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Ahvaz",
   "short_name": "Czasy modlitw w miejscowości Ahvaz",
   "description": "Dzisiejsze czasy modlitw w miejscowości Ahvaz, kraj Iran: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla miejscowości Ahvaz.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-ahvaz.html",
+  "id": "/pl/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

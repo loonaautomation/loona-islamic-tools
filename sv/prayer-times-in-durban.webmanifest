@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Durban",
   "short_name": "Bönetider i Durban",
   "description": "Dagens bönetider i Durban, Sydafrika: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Durban.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-durban.html",
+  "id": "/sv/prayer-times-in-durban.html",
   "start_url": "./prayer-times-in-durban.html",
   "scope": "./prayer-times-in-durban.html",
   "display": "standalone",

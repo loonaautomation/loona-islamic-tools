@@ -2,7 +2,7 @@
   "name": "Loona Port Sudan'da Namaz Vakitleri",
   "short_name": "Port Sudan'da Namaz Vakitleri",
   "description": "Port Sudan, Sudan için bugünün namaz vakitleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Port Sudan için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-port-sudan.html",
+  "id": "/tr/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

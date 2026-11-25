@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Aktobe",
   "short_name": "เวลาละหมาดใน Aktobe",
   "description": "เวลาละหมาดวันนี้ใน Aktobe, Kazakhstan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Aktobe",
-  "id": "/loona-islamic-tools/th/prayer-times-in-aktobe.html",
+  "id": "/th/prayer-times-in-aktobe.html",
   "start_url": "./prayer-times-in-aktobe.html",
   "scope": "./prayer-times-in-aktobe.html",
   "display": "standalone",

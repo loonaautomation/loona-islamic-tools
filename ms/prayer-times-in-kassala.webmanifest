@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kassala",
   "short_name": "Waktu Solat di Kassala",
   "description": "Waktu solat hari ini di Kassala, Sudan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kassala.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kassala.html",
+  "id": "/ms/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

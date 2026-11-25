@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Evaton",
   "short_name": "Horários de Oração em Evaton",
   "description": "Horários de oração de hoje em Evaton, África do Sul: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Evaton.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-evaton.html",
+  "id": "/pt-pt/prayer-times-in-evaton.html",
   "start_url": "./prayer-times-in-evaton.html",
   "scope": "./prayer-times-in-evaton.html",
   "display": "standalone",

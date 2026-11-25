@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Balbala",
   "short_name": "Bönetider i Balbala",
   "description": "Dagens bönetider i Balbala, Djibouti: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Balbala.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-balbala.html",
+  "id": "/sv/prayer-times-in-balbala.html",
   "start_url": "./prayer-times-in-balbala.html",
   "scope": "./prayer-times-in-balbala.html",
   "display": "standalone",

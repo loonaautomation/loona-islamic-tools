@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Antwerp",
   "short_name": "Waktu Salat di Antwerp",
   "description": "Waktu salat hari ini di Antwerp, Belgia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Antwerp.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-antwerp.html",
+  "id": "/id/prayer-times-in-antwerp.html",
   "start_url": "./prayer-times-in-antwerp.html",
   "scope": "./prayer-times-in-antwerp.html",
   "display": "standalone",

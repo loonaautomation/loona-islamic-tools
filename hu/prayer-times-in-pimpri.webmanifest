@@ -2,7 +2,7 @@
   "name": "Loona Pimpri imaidői",
   "short_name": "Pimpri imaidői",
   "description": "A mai imaidők: Pimpri, India: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Pimpri számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-pimpri.html",
+  "id": "/hu/prayer-times-in-pimpri.html",
   "start_url": "./prayer-times-in-pimpri.html",
   "scope": "./prayer-times-in-pimpri.html",
   "display": "standalone",

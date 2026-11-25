@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Shahrīār",
   "short_name": "Waktu Salat di Shahrīār",
   "description": "Waktu salat hari ini di Shahrīār, Iran: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Shahrīār.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-shahriar.html",
+  "id": "/id/prayer-times-in-shahriar.html",
   "start_url": "./prayer-times-in-shahriar.html",
   "scope": "./prayer-times-in-shahriar.html",
   "display": "standalone",

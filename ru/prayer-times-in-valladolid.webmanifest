@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Valladolid",
   "short_name": "Время намаза в городе Valladolid",
   "description": "Время намаза на сегодня: Valladolid, Испания: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Valladolid.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-valladolid.html",
+  "id": "/ru/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

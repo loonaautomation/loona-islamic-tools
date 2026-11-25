@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Oran",
   "short_name": "Bönetider i Oran",
   "description": "Dagens bönetider i Oran, Algeriet: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Oran.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-oran.html",
+  "id": "/sv/prayer-times-in-oran.html",
   "start_url": "./prayer-times-in-oran.html",
   "scope": "./prayer-times-in-oran.html",
   "display": "standalone",

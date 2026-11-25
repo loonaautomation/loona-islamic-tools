@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ḩayy Khildā Today",
   "short_name": "Prayer Times in Ḩayy Khildā Today",
   "description": "Today's prayer times in Ḩayy Khildā, Jordan: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ḩayy Khildā.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-hayy-khilda.html",
+  "id": "/en-us/prayer-times-in-hayy-khilda.html",
   "start_url": "./prayer-times-in-hayy-khilda.html",
   "scope": "./prayer-times-in-hayy-khilda.html",
   "display": "standalone",

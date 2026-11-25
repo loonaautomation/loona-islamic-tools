@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dera Ismail Khan",
   "short_name": "Bønnetider i Dera Ismail Khan",
   "description": "Dagens bønnetider i Dera Ismail Khan, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Dera Ismail Khan.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dera-ismail-khan.html",
+  "id": "/nb/prayer-times-in-dera-ismail-khan.html",
   "start_url": "./prayer-times-in-dera-ismail-khan.html",
   "scope": "./prayer-times-in-dera-ismail-khan.html",
   "display": "standalone",

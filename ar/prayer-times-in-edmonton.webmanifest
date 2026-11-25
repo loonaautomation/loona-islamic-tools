@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Edmonton",
   "short_name": "مواقيت الصلاة في Edmonton",
   "description": "مواقيت الصلاة اليوم في Edmonton، كندا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـEdmonton.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-edmonton.html",
+  "id": "/ar/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

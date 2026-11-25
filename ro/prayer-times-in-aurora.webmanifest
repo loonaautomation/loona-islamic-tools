@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Aurora",
   "short_name": "Ore de rugăciune în Aurora",
   "description": "Orele de rugăciune de azi în Aurora, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Aurora.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-aurora.html",
+  "id": "/ro/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

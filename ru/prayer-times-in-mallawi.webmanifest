@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Mallawī",
   "short_name": "Время намаза в городе Mallawī",
   "description": "Время намаза на сегодня: Mallawī, Египет: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Египетского генерального управления, расчёт в реальном времени на вашем устройстве для города Mallawī.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-mallawi.html",
+  "id": "/ru/prayer-times-in-mallawi.html",
   "start_url": "./prayer-times-in-mallawi.html",
   "scope": "./prayer-times-in-mallawi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Neyshābūr",
   "short_name": "Časy modliteb v Neyshābūr",
   "description": "Dnešní časy modliteb v Neyshābūr, Írán: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Neyshābūr.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-neyshabur.html",
+  "id": "/cs/prayer-times-in-neyshabur.html",
   "start_url": "./prayer-times-in-neyshabur.html",
   "scope": "./prayer-times-in-neyshabur.html",
   "display": "standalone",

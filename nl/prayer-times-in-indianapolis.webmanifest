@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Indianapolis",
   "short_name": "Gebedstijden in Indianapolis",
   "description": "De gebedstijden van vandaag in Indianapolis, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Indianapolis.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-indianapolis.html",
+  "id": "/nl/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

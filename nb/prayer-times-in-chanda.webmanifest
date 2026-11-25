@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Chānda",
   "short_name": "Bønnetider i Chānda",
   "description": "Dagens bønnetider i Chānda, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Chānda.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-chanda.html",
+  "id": "/nb/prayer-times-in-chanda.html",
   "start_url": "./prayer-times-in-chanda.html",
   "scope": "./prayer-times-in-chanda.html",
   "display": "standalone",

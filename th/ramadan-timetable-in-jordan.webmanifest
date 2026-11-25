@@ -2,7 +2,7 @@
   "name": "Loona ตารางเวลารอมฎอนใน Jordan 2027 (1448)",
   "short_name": "ตารางเวลารอมฎอนใน Jordan 2027 (1448)",
   "description": "ตารางเวลารอมฎอน 2027 สำหรับ Jordan: Sehri end (Fajr) and Iftar (Maghrib) times for every day of Ramadan 1448, calculated for Amman. Expected 8 February to 8 March 2027, subject to moon sighting.",
-  "id": "/loona-islamic-tools/th/ramadan-timetable-in-jordan.html",
+  "id": "/th/ramadan-timetable-in-jordan.html",
   "start_url": "./ramadan-timetable-in-jordan.html",
   "scope": "./ramadan-timetable-in-jordan.html",
   "display": "standalone",

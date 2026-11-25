@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Arifwala",
   "short_name": "Horarios de oración en Arifwala",
   "description": "Horarios de oración de hoy en Arifwala, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Arifwala.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-arifwala.html",
+  "id": "/es/prayer-times-in-arifwala.html",
   "start_url": "./prayer-times-in-arifwala.html",
   "scope": "./prayer-times-in-arifwala.html",
   "display": "standalone",

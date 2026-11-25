@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Kalyān",
   "short_name": "זמני תפילה בעיר Kalyān",
   "description": "זמני התפילה של היום בעיר Kalyān, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Kalyān.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-kalyan.html",
+  "id": "/he/prayer-times-in-kalyan.html",
   "start_url": "./prayer-times-in-kalyan.html",
   "scope": "./prayer-times-in-kalyan.html",
   "display": "standalone",

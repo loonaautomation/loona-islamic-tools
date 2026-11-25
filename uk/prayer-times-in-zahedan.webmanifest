@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Zahedan",
   "short_name": "Час намазу в Zahedan",
   "description": "Сьогоднішній час намазу в Zahedan, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Zahedan.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-zahedan.html",
+  "id": "/uk/prayer-times-in-zahedan.html",
   "start_url": "./prayer-times-in-zahedan.html",
   "scope": "./prayer-times-in-zahedan.html",
   "display": "standalone",

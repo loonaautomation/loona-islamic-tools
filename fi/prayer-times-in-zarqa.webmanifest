@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Zarqa",
   "short_name": "Rukousajat: Zarqa",
   "description": "Tämän päivän rukousajat paikassa Zarqa, Jordania: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Zarqa.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-zarqa.html",
+  "id": "/fi/prayer-times-in-zarqa.html",
   "start_url": "./prayer-times-in-zarqa.html",
   "scope": "./prayer-times-in-zarqa.html",
   "display": "standalone",

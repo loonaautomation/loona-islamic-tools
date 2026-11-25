@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mukalla",
   "short_name": "Bönetider i Mukalla",
   "description": "Dagens bönetider i Mukalla, Jemen: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mukalla.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mukalla.html",
+  "id": "/sv/prayer-times-in-mukalla.html",
   "start_url": "./prayer-times-in-mukalla.html",
   "scope": "./prayer-times-in-mukalla.html",
   "display": "standalone",

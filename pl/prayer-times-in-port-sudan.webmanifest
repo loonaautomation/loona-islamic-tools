@@ -2,7 +2,7 @@
   "name": "Loona Czas modlitwy: Port Sudan",
   "short_name": "Czas modlitwy: Port Sudan",
   "description": "Dzisiejsze czasy modlitw w Port Sudan, Sudan: Fajr, wschód słońca, Dhuhr, Asr (szafiicki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Muslim World League, obliczane na żywo na Twoim urządzeniu dla Port Sudan.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-port-sudan.html",
+  "id": "/pl/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

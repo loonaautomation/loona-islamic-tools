@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Samsun",
   "short_name": "זמני תפילה בעיר Samsun",
   "description": "זמני התפילה של היום בעיר Samsun, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Samsun.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-samsun.html",
+  "id": "/he/prayer-times-in-samsun.html",
   "start_url": "./prayer-times-in-samsun.html",
   "scope": "./prayer-times-in-samsun.html",
   "display": "standalone",

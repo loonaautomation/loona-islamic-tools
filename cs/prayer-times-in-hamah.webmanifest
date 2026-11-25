@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ḩamāh",
   "short_name": "Časy modliteb v Ḩamāh",
   "description": "Dnešní časy modliteb v Ḩamāh, Sýrie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ḩamāh.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-hamah.html",
+  "id": "/cs/prayer-times-in-hamah.html",
   "start_url": "./prayer-times-in-hamah.html",
   "scope": "./prayer-times-in-hamah.html",
   "display": "standalone",

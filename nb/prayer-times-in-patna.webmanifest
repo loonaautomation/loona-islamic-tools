@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Patna",
   "short_name": "Bønnetider i Patna",
   "description": "Dagens bønnetider i Patna, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Patna.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-patna.html",
+  "id": "/nb/prayer-times-in-patna.html",
   "start_url": "./prayer-times-in-patna.html",
   "scope": "./prayer-times-in-patna.html",
   "display": "standalone",

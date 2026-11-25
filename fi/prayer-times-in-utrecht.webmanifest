@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Utrecht",
   "short_name": "Rukousajat: Utrecht",
   "description": "Tämän päivän rukousajat paikassa Utrecht, Alankomaat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Utrecht.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-utrecht.html",
+  "id": "/fi/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

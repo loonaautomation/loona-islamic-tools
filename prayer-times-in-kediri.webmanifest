@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Kediri",
   "short_name": "Prayer Times in Kediri",
   "description": "Today's prayer times in Kediri, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Kediri.",
-  "id": "/loona-islamic-tools/prayer-times-in-kediri.html",
+  "id": "/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

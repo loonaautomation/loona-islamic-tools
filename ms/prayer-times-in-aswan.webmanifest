@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Aswān",
   "short_name": "Waktu Solat di Aswān",
   "description": "Waktu solat hari ini di Aswān, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Aswān.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-aswan.html",
+  "id": "/ms/prayer-times-in-aswan.html",
   "start_url": "./prayer-times-in-aswan.html",
   "scope": "./prayer-times-in-aswan.html",
   "display": "standalone",

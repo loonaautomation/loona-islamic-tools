@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Jacobabad",
   "short_name": "Gebetszeiten in Jacobabad",
   "description": "Die heutigen Gebetszeiten in Jacobabad, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Jacobabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-jacobabad.html",
+  "id": "/de/prayer-times-in-jacobabad.html",
   "start_url": "./prayer-times-in-jacobabad.html",
   "scope": "./prayer-times-in-jacobabad.html",
   "display": "standalone",

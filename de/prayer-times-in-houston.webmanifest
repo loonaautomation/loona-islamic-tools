@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Houston",
   "short_name": "Gebetszeiten in Houston",
   "description": "Die heutigen Gebetszeiten in Houston, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Houston.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-houston.html",
+  "id": "/de/prayer-times-in-houston.html",
   "start_url": "./prayer-times-in-houston.html",
   "scope": "./prayer-times-in-houston.html",
   "display": "standalone",

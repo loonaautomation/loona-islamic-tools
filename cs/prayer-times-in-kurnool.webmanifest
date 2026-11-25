@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Kurnool",
   "short_name": "Časy modliteb v Kurnool",
   "description": "Dnešní časy modliteb v Kurnool, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Kurnool.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-kurnool.html",
+  "id": "/cs/prayer-times-in-kurnool.html",
   "start_url": "./prayer-times-in-kurnool.html",
   "scope": "./prayer-times-in-kurnool.html",
   "display": "standalone",

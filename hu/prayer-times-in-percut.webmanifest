@@ -2,7 +2,7 @@
   "name": "Loona Percut imaidői",
   "short_name": "Percut imaidői",
   "description": "A mai imaidők: Percut, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Percut számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-percut.html",
+  "id": "/hu/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

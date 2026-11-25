@@ -2,7 +2,7 @@
   "name": "Loona Rozvrh Ramadánu v Švajčiarsko 2027 (1448)",
   "short_name": "Rozvrh Ramadánu v Švajčiarsko 2027 (1448)",
   "description": "Rozvrh Ramadánu 2027 pre Švajčiarsko: časy konca Sehri (Fadžr) a Iftaru (Magrib) na každý deň Ramadánu 1448, vypočítané pre Bern. Očakávané od 8 februára do 8 marca 2027, v závislosti od pozorovania mesiaca.",
-  "id": "/loona-islamic-tools/sk/ramadan-timetable-in-switzerland.html",
+  "id": "/sk/ramadan-timetable-in-switzerland.html",
   "start_url": "./ramadan-timetable-in-switzerland.html",
   "scope": "./ramadan-timetable-in-switzerland.html",
   "display": "standalone",

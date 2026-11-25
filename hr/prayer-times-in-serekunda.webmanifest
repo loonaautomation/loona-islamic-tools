@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Serekunda",
   "short_name": "Vremena namaza u gradu Serekunda",
   "description": "Današnja vremena namaza u gradu Serekunda, Gambija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Serekunda.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-serekunda.html",
+  "id": "/hr/prayer-times-in-serekunda.html",
   "start_url": "./prayer-times-in-serekunda.html",
   "scope": "./prayer-times-in-serekunda.html",
   "display": "standalone",

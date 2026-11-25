@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Bandar Seri Begawan",
   "short_name": "Время намаза в городе Bandar Seri Begawan",
   "description": "Время намаза на сегодня: Bandar Seri Begawan, Бруней: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Bandar Seri Begawan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-bandar-seri-begawan.html",
+  "id": "/ru/prayer-times-in-bandar-seri-begawan.html",
   "start_url": "./prayer-times-in-bandar-seri-begawan.html",
   "scope": "./prayer-times-in-bandar-seri-begawan.html",
   "display": "standalone",

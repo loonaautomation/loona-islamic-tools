@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Munich",
   "short_name": "Ore de rugăciune în Munich",
   "description": "Orele de rugăciune de azi în Munich, Germania: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Munich.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-munich.html",
+  "id": "/ro/prayer-times-in-munich.html",
   "start_url": "./prayer-times-in-munich.html",
   "scope": "./prayer-times-in-munich.html",
   "display": "standalone",

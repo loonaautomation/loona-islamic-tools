@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Kuching",
   "short_name": "Bönetider i Kuching",
   "description": "Dagens bönetider i Kuching, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Kuching.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-kuching.html",
+  "id": "/sv/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

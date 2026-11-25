@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Birmingham",
   "short_name": "Gebedstijden in Birmingham",
   "description": "De gebedstijden van vandaag in Birmingham, Verenigd Koninkrijk: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Birmingham.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-birmingham.html",
+  "id": "/nl/prayer-times-in-birmingham.html",
   "start_url": "./prayer-times-in-birmingham.html",
   "scope": "./prayer-times-in-birmingham.html",
   "display": "standalone",

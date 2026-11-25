@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Pristina",
   "short_name": "Vremena namaza u gradu Pristina",
   "description": "Današnja vremena namaza u gradu Pristina, Kosovo: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Pristina.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-pristina.html",
+  "id": "/hr/prayer-times-in-pristina.html",
   "start_url": "./prayer-times-in-pristina.html",
   "scope": "./prayer-times-in-pristina.html",
   "display": "standalone",

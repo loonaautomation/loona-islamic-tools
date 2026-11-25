@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Glasgow",
   "short_name": "Vremena namaza u gradu Glasgow",
   "description": "Današnja vremena namaza u gradu Glasgow, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Glasgow.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-glasgow.html",
+  "id": "/hr/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

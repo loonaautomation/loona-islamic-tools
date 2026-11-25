@@ -2,7 +2,7 @@
   "name": "Loona Hijri-kalender",
   "short_name": "Hijri-kalender",
   "description": "Gennemse enhver Hijri-måned og ethvert Hijri-år i en ren islamisk kalender, hvor hver dag også viser sin gregorianske dato. Umm al-Qura-kalender, gratis og altid aktuel.",
-  "id": "/loona-islamic-tools/da/hijri-calendar/",
+  "id": "/da/hijri-calendar/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

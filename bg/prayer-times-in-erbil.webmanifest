@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Erbil",
   "short_name": "Часове за намаз в Erbil",
   "description": "Днешните часове за намаз в Erbil, Ирак: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Erbil.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-erbil.html",
+  "id": "/bg/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

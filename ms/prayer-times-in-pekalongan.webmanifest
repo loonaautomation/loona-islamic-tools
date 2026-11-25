@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Pekalongan",
   "short_name": "Waktu Solat di Pekalongan",
   "description": "Waktu solat hari ini di Pekalongan, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Pekalongan.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-pekalongan.html",
+  "id": "/ms/prayer-times-in-pekalongan.html",
   "start_url": "./prayer-times-in-pekalongan.html",
   "scope": "./prayer-times-in-pekalongan.html",
   "display": "standalone",

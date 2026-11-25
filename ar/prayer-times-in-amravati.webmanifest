@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Amravati",
   "short_name": "مواقيت الصلاة في Amravati",
   "description": "مواقيت الصلاة اليوم في Amravati، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـAmravati.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-amravati.html",
+  "id": "/ar/prayer-times-in-amravati.html",
   "start_url": "./prayer-times-in-amravati.html",
   "scope": "./prayer-times-in-amravati.html",
   "display": "standalone",

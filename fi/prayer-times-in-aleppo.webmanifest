@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Aleppo",
   "short_name": "Rukousajat: Aleppo",
   "description": "Tämän päivän rukousajat paikassa Aleppo, Syyria: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Aleppo.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-aleppo.html",
+  "id": "/fi/prayer-times-in-aleppo.html",
   "start_url": "./prayer-times-in-aleppo.html",
   "scope": "./prayer-times-in-aleppo.html",
   "display": "standalone",

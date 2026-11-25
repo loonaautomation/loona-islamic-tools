@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Al Ain City",
   "short_name": "Bønnetider i Al Ain City",
   "description": "Dagens bønnetider i Al Ain City, De forente arabiske emirater: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Umm al-Qura-metoden, beregnet direkte på enheten din for Al Ain City.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-al-ain-city.html",
+  "id": "/nb/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Singapore",
   "short_name": "Waktu Salat di Singapore",
   "description": "Waktu salat hari ini di Singapore, Singapura: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Singapore.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-singapore.html",
+  "id": "/id/prayer-times-in-singapore.html",
   "start_url": "./prayer-times-in-singapore.html",
   "scope": "./prayer-times-in-singapore.html",
   "display": "standalone",

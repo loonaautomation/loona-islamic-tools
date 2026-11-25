@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Srinagar",
   "short_name": "Časy modlitieb v Srinagar",
   "description": "Dnešné časy modlitieb v Srinagar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Srinagar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-srinagar.html",
+  "id": "/sk/prayer-times-in-srinagar.html",
   "start_url": "./prayer-times-in-srinagar.html",
   "scope": "./prayer-times-in-srinagar.html",
   "display": "standalone",

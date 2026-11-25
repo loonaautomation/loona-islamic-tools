@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Mersin",
   "short_name": "Bönetider i Mersin",
   "description": "Dagens bönetider i Mersin, Turkiet: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Mersin.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-mersin.html",
+  "id": "/sv/prayer-times-in-mersin.html",
   "start_url": "./prayer-times-in-mersin.html",
   "scope": "./prayer-times-in-mersin.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Lucknow",
   "short_name": "Gebedstijden in Lucknow",
   "description": "De gebedstijden van vandaag in Lucknow, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Lucknow.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-lucknow.html",
+  "id": "/nl/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

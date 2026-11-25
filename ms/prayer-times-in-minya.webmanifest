@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Minya",
   "short_name": "Waktu Solat di Minya",
   "description": "Waktu solat hari ini di Minya, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Minya.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-minya.html",
+  "id": "/ms/prayer-times-in-minya.html",
   "start_url": "./prayer-times-in-minya.html",
   "scope": "./prayer-times-in-minya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Makkah",
   "short_name": "Gebetszeiten in Makkah",
   "description": "Die heutigen Gebetszeiten in Makkah, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Makkah.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-makkah.html",
+  "id": "/de/prayer-times-in-makkah.html",
   "start_url": "./prayer-times-in-makkah.html",
   "scope": "./prayer-times-in-makkah.html",
   "display": "standalone",

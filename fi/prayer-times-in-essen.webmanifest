@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Essen",
   "short_name": "Rukousajat: Essen",
   "description": "Tämän päivän rukousajat paikassa Essen, Saksa: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Essen.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-essen.html",
+  "id": "/fi/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Tabuk",
   "short_name": "Gebetszeiten in Tabuk",
   "description": "Die heutigen Gebetszeiten in Tabuk, Saudi-Arabien: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Umm al-Qura, live auf Ihrem Gerät berechnet für Tabuk.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-tabuk.html",
+  "id": "/de/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

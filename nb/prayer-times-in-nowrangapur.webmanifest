@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Nowrangapur",
   "short_name": "Bønnetider i Nowrangapur",
   "description": "Dagens bønnetider i Nowrangapur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Nowrangapur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-nowrangapur.html",
+  "id": "/nb/prayer-times-in-nowrangapur.html",
   "start_url": "./prayer-times-in-nowrangapur.html",
   "scope": "./prayer-times-in-nowrangapur.html",
   "display": "standalone",

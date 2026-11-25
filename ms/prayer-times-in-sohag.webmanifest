@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Sohag",
   "short_name": "Waktu Solat di Sohag",
   "description": "Waktu solat hari ini di Sohag, Mesir: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Egyptian General Authority, dikira secara langsung pada peranti anda untuk Sohag.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-sohag.html",
+  "id": "/ms/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nyala",
   "short_name": "Gebedstijden in Nyala",
   "description": "De gebedstijden van vandaag in Nyala, Soedan: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nyala.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nyala.html",
+  "id": "/nl/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

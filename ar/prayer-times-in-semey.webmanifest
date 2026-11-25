@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Semey",
   "short_name": "مواقيت الصلاة في Semey",
   "description": "مواقيت الصلاة اليوم في Semey، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـSemey.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-semey.html",
+  "id": "/ar/prayer-times-in-semey.html",
   "start_url": "./prayer-times-in-semey.html",
   "scope": "./prayer-times-in-semey.html",
   "display": "standalone",

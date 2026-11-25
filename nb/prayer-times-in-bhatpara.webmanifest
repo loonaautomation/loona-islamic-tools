@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bhātpāra",
   "short_name": "Bønnetider i Bhātpāra",
   "description": "Dagens bønnetider i Bhātpāra, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bhātpāra.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bhatpara.html",
+  "id": "/nb/prayer-times-in-bhatpara.html",
   "start_url": "./prayer-times-in-bhatpara.html",
   "scope": "./prayer-times-in-bhatpara.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Parbhani",
   "short_name": "זמני תפילה בעיר Parbhani",
   "description": "זמני התפילה של היום בעיר Parbhani, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Parbhani.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-parbhani.html",
+  "id": "/he/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

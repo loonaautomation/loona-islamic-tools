@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Vadodara",
   "short_name": "זמני תפילה בעיר Vadodara",
   "description": "זמני התפילה של היום בעיר Vadodara, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Vadodara.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-vadodara.html",
+  "id": "/he/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

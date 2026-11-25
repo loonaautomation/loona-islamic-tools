@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Bengkulu",
   "short_name": "Bönetider i Bengkulu",
   "description": "Dagens bönetider i Bengkulu, Indonesien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Bengkulu.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bengkulu.html",
+  "id": "/sv/prayer-times-in-bengkulu.html",
   "start_url": "./prayer-times-in-bengkulu.html",
   "scope": "./prayer-times-in-bengkulu.html",
   "display": "standalone",

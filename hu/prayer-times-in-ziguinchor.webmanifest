@@ -2,7 +2,7 @@
   "name": "Loona Ziguinchor imaidői",
   "short_name": "Ziguinchor imaidői",
   "description": "A mai imaidők: Ziguinchor, Szenegál: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Ziguinchor számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-ziguinchor.html",
+  "id": "/hu/prayer-times-in-ziguinchor.html",
   "start_url": "./prayer-times-in-ziguinchor.html",
   "scope": "./prayer-times-in-ziguinchor.html",
   "display": "standalone",

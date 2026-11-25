@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Sohag",
   "short_name": "Gebetszeiten in Sohag",
   "description": "Die heutigen Gebetszeiten in Sohag, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Sohag.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-sohag.html",
+  "id": "/de/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

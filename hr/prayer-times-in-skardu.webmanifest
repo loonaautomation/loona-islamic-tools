@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Skardu",
   "short_name": "Vremena namaza u gradu Skardu",
   "description": "Današnja vremena namaza u gradu Skardu, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Skardu.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-skardu.html",
+  "id": "/hr/prayer-times-in-skardu.html",
   "start_url": "./prayer-times-in-skardu.html",
   "scope": "./prayer-times-in-skardu.html",
   "display": "standalone",

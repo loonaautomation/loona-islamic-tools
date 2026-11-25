@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Algiers",
   "short_name": "مواقيت الصلاة في Algiers",
   "description": "مواقيت الصلاة اليوم في Algiers، الجزائر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـAlgiers.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-algiers.html",
+  "id": "/ar/prayer-times-in-algiers.html",
   "start_url": "./prayer-times-in-algiers.html",
   "scope": "./prayer-times-in-algiers.html",
   "display": "standalone",

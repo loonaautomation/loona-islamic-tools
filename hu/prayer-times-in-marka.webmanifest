@@ -2,7 +2,7 @@
   "name": "Loona Marka imaidői",
   "short_name": "Marka imaidői",
   "description": "A mai imaidők: Marka, Szomália: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Marka számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-marka.html",
+  "id": "/hu/prayer-times-in-marka.html",
   "start_url": "./prayer-times-in-marka.html",
   "scope": "./prayer-times-in-marka.html",
   "display": "standalone",

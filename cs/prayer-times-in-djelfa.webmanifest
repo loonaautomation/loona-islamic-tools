@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Djelfa",
   "short_name": "Časy modliteb v Djelfa",
   "description": "Dnešní časy modliteb v Djelfa, Alžírsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Djelfa.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-djelfa.html",
+  "id": "/cs/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

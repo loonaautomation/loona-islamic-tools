@@ -2,7 +2,7 @@
   "name": "Loona Kuching の礼拝時刻",
   "short_name": "Kuching の礼拝時刻",
   "description": "Kuching（マレーシア）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Kuching についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-kuching.html",
+  "id": "/ja/prayer-times-in-kuching.html",
   "start_url": "./prayer-times-in-kuching.html",
   "scope": "./prayer-times-in-kuching.html",
   "display": "standalone",

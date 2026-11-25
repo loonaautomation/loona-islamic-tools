@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Qom",
   "short_name": "Час намазу в Qom",
   "description": "Сьогоднішній час намазу в Qom, Іран: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Qom.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-qom.html",
+  "id": "/uk/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

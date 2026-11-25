@@ -2,7 +2,7 @@
   "name": "Loona Tehran imaidői",
   "short_name": "Tehran imaidői",
   "description": "A mai imaidők: Tehran, Irán: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tehran számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tehran.html",
+  "id": "/hu/prayer-times-in-tehran.html",
   "start_url": "./prayer-times-in-tehran.html",
   "scope": "./prayer-times-in-tehran.html",
   "display": "standalone",

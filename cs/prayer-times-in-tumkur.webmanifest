@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Tumkūr",
   "short_name": "Časy modliteb v Tumkūr",
   "description": "Dnešní časy modliteb v Tumkūr, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Tumkūr.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-tumkur.html",
+  "id": "/cs/prayer-times-in-tumkur.html",
   "start_url": "./prayer-times-in-tumkur.html",
   "scope": "./prayer-times-in-tumkur.html",
   "display": "standalone",

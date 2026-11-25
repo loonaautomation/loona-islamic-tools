@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza",
   "short_name": "Vremena namaza",
   "description": "Današnja vremena namaza u gradu Tripoli, Libanon: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Tripoli.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tripoli-lebanon.html",
+  "id": "/hr/prayer-times-in-tripoli-lebanon.html",
   "start_url": "./prayer-times-in-tripoli-lebanon.html",
   "scope": "./prayer-times-in-tripoli-lebanon.html",
   "display": "standalone",

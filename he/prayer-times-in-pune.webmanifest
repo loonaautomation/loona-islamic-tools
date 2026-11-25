@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Pune",
   "short_name": "זמני תפילה בעיר Pune",
   "description": "זמני התפילה של היום בעיר Pune, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Pune.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-pune.html",
+  "id": "/he/prayer-times-in-pune.html",
   "start_url": "./prayer-times-in-pune.html",
   "scope": "./prayer-times-in-pune.html",
   "display": "standalone",

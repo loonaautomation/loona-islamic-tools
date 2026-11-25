@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Ordu",
   "short_name": "Час намазу в Ordu",
   "description": "Сьогоднішній час намазу в Ordu, Туреччина: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Ordu.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-ordu.html",
+  "id": "/uk/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

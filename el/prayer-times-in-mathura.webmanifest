@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Mathura",
   "short_name": "Ώρες Προσευχής στο Mathura",
   "description": "Οι σημερινές ώρες προσευχής στο Mathura, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Mathura.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-mathura.html",
+  "id": "/el/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

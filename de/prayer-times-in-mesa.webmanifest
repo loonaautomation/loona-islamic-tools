@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Mesa",
   "short_name": "Gebetszeiten in Mesa",
   "description": "Die heutigen Gebetszeiten in Mesa, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Mesa.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-mesa.html",
+  "id": "/de/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

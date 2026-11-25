@@ -2,7 +2,7 @@
   "name": "Loona Balikpapan imaidői",
   "short_name": "Balikpapan imaidői",
   "description": "A mai imaidők: Balikpapan, Indonézia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Balikpapan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-balikpapan.html",
+  "id": "/hu/prayer-times-in-balikpapan.html",
   "start_url": "./prayer-times-in-balikpapan.html",
   "scope": "./prayer-times-in-balikpapan.html",
   "display": "standalone",

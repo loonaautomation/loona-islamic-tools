@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Moroni",
   "short_name": "Bönetider i Moroni",
   "description": "Dagens bönetider i Moroni, Komorerna: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Moroni.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-moroni.html",
+  "id": "/sv/prayer-times-in-moroni.html",
   "start_url": "./prayer-times-in-moroni.html",
   "scope": "./prayer-times-in-moroni.html",
   "display": "standalone",

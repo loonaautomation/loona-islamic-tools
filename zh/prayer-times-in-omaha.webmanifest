@@ -2,7 +2,7 @@
   "name": "Loona Omaha的礼拜时间",
   "short_name": "Omaha的礼拜时间",
   "description": "Omaha（美国）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。ISNA方法，在您的设备上为Omaha实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-omaha.html",
+  "id": "/zh/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

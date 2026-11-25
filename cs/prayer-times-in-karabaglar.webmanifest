@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Karabağlar",
   "short_name": "Časy modliteb v Karabağlar",
   "description": "Dnešní časy modliteb v Karabağlar, Turecko: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Karabağlar.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-karabaglar.html",
+  "id": "/cs/prayer-times-in-karabaglar.html",
   "start_url": "./prayer-times-in-karabaglar.html",
   "scope": "./prayer-times-in-karabaglar.html",
   "display": "standalone",

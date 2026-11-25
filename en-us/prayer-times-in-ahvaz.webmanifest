@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Ahvaz Today",
   "short_name": "Prayer Times in Ahvaz Today",
   "description": "Today's prayer times in Ahvaz, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Ahvaz.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-ahvaz.html",
+  "id": "/en-us/prayer-times-in-ahvaz.html",
   "start_url": "./prayer-times-in-ahvaz.html",
   "scope": "./prayer-times-in-ahvaz.html",
   "display": "standalone",

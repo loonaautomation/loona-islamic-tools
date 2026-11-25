@@ -2,7 +2,7 @@
   "name": "Loona כיוון קיבלה",
   "short_name": "כיוון קיבלה",
   "description": "מצא את כיוון הקיבלה במעלות מכל עיר או מהמיקום המדויק שלך, עם חוגת מצפן חיה והמרחק למכה. חינמי, מדויק ופרטי.",
-  "id": "/loona-islamic-tools/he/qibla-direction/",
+  "id": "/he/qibla-direction/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

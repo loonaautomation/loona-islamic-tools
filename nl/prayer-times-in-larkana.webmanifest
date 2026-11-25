@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Larkana",
   "short_name": "Gebedstijden in Larkana",
   "description": "De gebedstijden van vandaag in Larkana, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Larkana.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-larkana.html",
+  "id": "/nl/prayer-times-in-larkana.html",
   "start_url": "./prayer-times-in-larkana.html",
   "scope": "./prayer-times-in-larkana.html",
   "display": "standalone",

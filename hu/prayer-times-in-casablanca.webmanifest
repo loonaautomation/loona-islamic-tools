@@ -2,7 +2,7 @@
   "name": "Loona Casablanca imaidői",
   "short_name": "Casablanca imaidői",
   "description": "A mai imaidők: Casablanca, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Casablanca számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-casablanca.html",
+  "id": "/hu/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

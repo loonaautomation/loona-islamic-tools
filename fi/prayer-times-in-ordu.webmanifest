@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Ordu",
   "short_name": "Rukousajat: Ordu",
   "description": "Tämän päivän rukousajat paikassa Ordu, Turkki: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Ordu.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-ordu.html",
+  "id": "/fi/prayer-times-in-ordu.html",
   "start_url": "./prayer-times-in-ordu.html",
   "scope": "./prayer-times-in-ordu.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Dezful",
   "short_name": "Waktu Solat di Dezful",
   "description": "Waktu solat hari ini di Dezful, Iran: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Dezful.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-dezful.html",
+  "id": "/ms/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

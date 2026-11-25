@@ -2,7 +2,7 @@
   "name": "Loona N'Djamena imaidői",
   "short_name": "N'Djamena imaidői",
   "description": "A mai imaidők: N'Djamena, Csád: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén N'Djamena számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-n-djamena.html",
+  "id": "/hu/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

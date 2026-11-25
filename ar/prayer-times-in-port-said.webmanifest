@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Port Said",
   "short_name": "مواقيت الصلاة في Port Said",
   "description": "مواقيت الصلاة اليوم في Port Said، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـPort Said.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-port-said.html",
+  "id": "/ar/prayer-times-in-port-said.html",
   "start_url": "./prayer-times-in-port-said.html",
   "scope": "./prayer-times-in-port-said.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Sukkur imaidői",
   "short_name": "Sukkur imaidői",
   "description": "A mai imaidők: Sukkur, Pakisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Karachi módszer, élőben számítva az Ön eszközén Sukkur számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-sukkur.html",
+  "id": "/hu/prayer-times-in-sukkur.html",
   "start_url": "./prayer-times-in-sukkur.html",
   "scope": "./prayer-times-in-sukkur.html",
   "display": "standalone",

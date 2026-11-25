@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Kochi",
   "short_name": "Časy modlitieb v Kochi",
   "description": "Dnešné časy modlitieb v Kochi, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Kochi.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-kochi.html",
+  "id": "/sk/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

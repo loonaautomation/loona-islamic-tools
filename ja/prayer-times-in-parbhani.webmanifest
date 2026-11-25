@@ -2,7 +2,7 @@
   "name": "Loona Parbhani の礼拝時刻",
   "short_name": "Parbhani の礼拝時刻",
   "description": "Parbhani（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Parbhani についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-parbhani.html",
+  "id": "/ja/prayer-times-in-parbhani.html",
   "start_url": "./prayer-times-in-parbhani.html",
   "scope": "./prayer-times-in-parbhani.html",
   "display": "standalone",

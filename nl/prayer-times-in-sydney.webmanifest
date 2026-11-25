@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sydney",
   "short_name": "Gebedstijden in Sydney",
   "description": "De gebedstijden van vandaag in Sydney, Australië: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Sydney.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sydney.html",
+  "id": "/nl/prayer-times-in-sydney.html",
   "start_url": "./prayer-times-in-sydney.html",
   "scope": "./prayer-times-in-sydney.html",
   "display": "standalone",

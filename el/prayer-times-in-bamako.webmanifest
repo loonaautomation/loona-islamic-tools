@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Bamako",
   "short_name": "Ώρες Προσευχής στο Bamako",
   "description": "Οι σημερινές ώρες προσευχής στο Bamako, Μάλι: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Bamako.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-bamako.html",
+  "id": "/el/prayer-times-in-bamako.html",
   "start_url": "./prayer-times-in-bamako.html",
   "scope": "./prayer-times-in-bamako.html",
   "display": "standalone",

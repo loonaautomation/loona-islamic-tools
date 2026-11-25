@@ -2,7 +2,7 @@
   "name": "Loona Djelfa Namaz Vakitleri",
   "short_name": "Djelfa Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Djelfa, Cezayir: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Djelfa için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-djelfa.html",
+  "id": "/tr/prayer-times-in-djelfa.html",
   "start_url": "./prayer-times-in-djelfa.html",
   "scope": "./prayer-times-in-djelfa.html",
   "display": "standalone",

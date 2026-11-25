@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Muar Today",
   "short_name": "Prayer Times in Muar Today",
   "description": "Today's prayer times in Muar, Malaysia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Muar.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-muar.html",
+  "id": "/en-gb/prayer-times-in-muar.html",
   "start_url": "./prayer-times-in-muar.html",
   "scope": "./prayer-times-in-muar.html",
   "display": "standalone",

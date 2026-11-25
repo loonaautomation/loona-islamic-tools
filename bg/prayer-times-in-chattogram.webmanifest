@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Chattogram",
   "short_name": "Часове за намаз в Chattogram",
   "description": "Днешните часове за намаз в Chattogram, Бангладеш: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Chattogram.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-chattogram.html",
+  "id": "/bg/prayer-times-in-chattogram.html",
   "start_url": "./prayer-times-in-chattogram.html",
   "scope": "./prayer-times-in-chattogram.html",
   "display": "standalone",

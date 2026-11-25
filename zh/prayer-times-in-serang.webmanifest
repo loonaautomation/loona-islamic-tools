@@ -2,7 +2,7 @@
   "name": "Loona Serang的礼拜时间",
   "short_name": "Serang的礼拜时间",
   "description": "Serang（印度尼西亚）今天的礼拜时间：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯兰历日期。穆斯林世界联盟方法，在您的设备上为Serang实时计算。",
-  "id": "/loona-islamic-tools/zh/prayer-times-in-serang.html",
+  "id": "/zh/prayer-times-in-serang.html",
   "start_url": "./prayer-times-in-serang.html",
   "scope": "./prayer-times-in-serang.html",
   "display": "standalone",

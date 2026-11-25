@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bilāspur",
   "short_name": "Bønnetider i Bilāspur",
   "description": "Dagens bønnetider i Bilāspur, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Bilāspur.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-bilaspur.html",
+  "id": "/nb/prayer-times-in-bilaspur.html",
   "start_url": "./prayer-times-in-bilaspur.html",
   "scope": "./prayer-times-in-bilaspur.html",
   "display": "standalone",

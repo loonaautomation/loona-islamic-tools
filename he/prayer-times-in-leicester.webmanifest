@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Leicester",
   "short_name": "זמני תפילה בעיר Leicester",
   "description": "זמני התפילה של היום בעיר Leicester, בריטניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Leicester.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-leicester.html",
+  "id": "/he/prayer-times-in-leicester.html",
   "start_url": "./prayer-times-in-leicester.html",
   "scope": "./prayer-times-in-leicester.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Osh",
   "short_name": "Время намаза в городе Osh",
   "description": "Время намаза на сегодня: Osh, Кыргызстан: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Osh.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-osh.html",
+  "id": "/ru/prayer-times-in-osh.html",
   "start_url": "./prayer-times-in-osh.html",
   "scope": "./prayer-times-in-osh.html",
   "display": "standalone",

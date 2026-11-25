@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Florence",
   "short_name": "Bönetider i Florence",
   "description": "Dagens bönetider i Florence, Italien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Florence.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-florence.html",
+  "id": "/sv/prayer-times-in-florence.html",
   "start_url": "./prayer-times-in-florence.html",
   "scope": "./prayer-times-in-florence.html",
   "display": "standalone",

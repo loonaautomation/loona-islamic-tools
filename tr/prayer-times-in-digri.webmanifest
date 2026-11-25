@@ -2,7 +2,7 @@
   "name": "Loona Digri Namaz Vakitleri",
   "short_name": "Digri Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Digri, Pakistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Digri için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-digri.html",
+  "id": "/tr/prayer-times-in-digri.html",
   "start_url": "./prayer-times-in-digri.html",
   "scope": "./prayer-times-in-digri.html",
   "display": "standalone",

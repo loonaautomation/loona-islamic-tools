@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Bielefeld",
   "short_name": "مواقيت الصلاة في Bielefeld",
   "description": "مواقيت الصلاة اليوم في Bielefeld، ألمانيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـBielefeld.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-bielefeld.html",
+  "id": "/ar/prayer-times-in-bielefeld.html",
   "start_url": "./prayer-times-in-bielefeld.html",
   "scope": "./prayer-times-in-bielefeld.html",
   "display": "standalone",

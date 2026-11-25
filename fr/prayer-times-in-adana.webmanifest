@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Adana",
   "short_name": "Heures de prière à Adana",
   "description": "Les heures de prière d’aujourd’hui à Adana, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Adana.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-adana.html",
+  "id": "/fr/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

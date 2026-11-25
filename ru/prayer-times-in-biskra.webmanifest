@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Biskra",
   "short_name": "Время намаза в городе Biskra",
   "description": "Время намаза на сегодня: Biskra, Алжир: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Biskra.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-biskra.html",
+  "id": "/ru/prayer-times-in-biskra.html",
   "start_url": "./prayer-times-in-biskra.html",
   "scope": "./prayer-times-in-biskra.html",
   "display": "standalone",

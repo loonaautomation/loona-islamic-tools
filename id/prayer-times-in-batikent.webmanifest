@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Batikent",
   "short_name": "Waktu Salat di Batikent",
   "description": "Waktu salat hari ini di Batikent, Turki: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Batikent.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-batikent.html",
+  "id": "/id/prayer-times-in-batikent.html",
   "start_url": "./prayer-times-in-batikent.html",
   "scope": "./prayer-times-in-batikent.html",
   "display": "standalone",

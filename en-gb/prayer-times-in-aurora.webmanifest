@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Aurora Today",
   "short_name": "Prayer Times in Aurora Today",
   "description": "Today's prayer times in Aurora, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Aurora.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-aurora.html",
+  "id": "/en-gb/prayer-times-in-aurora.html",
   "start_url": "./prayer-times-in-aurora.html",
   "scope": "./prayer-times-in-aurora.html",
   "display": "standalone",

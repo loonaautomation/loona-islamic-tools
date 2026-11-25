@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Elazığ",
   "short_name": "Heures de prière à Elazığ",
   "description": "Les heures de prière d’aujourd’hui à Elazığ, Turquie : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Elazığ.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-elazig.html",
+  "id": "/fr/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

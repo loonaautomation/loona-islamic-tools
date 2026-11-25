@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Köln",
   "short_name": "זמני תפילה בעיר Köln",
   "description": "זמני התפילה של היום בעיר Köln, גרמניה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Köln.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-koeln.html",
+  "id": "/he/prayer-times-in-koeln.html",
   "start_url": "./prayer-times-in-koeln.html",
   "scope": "./prayer-times-in-koeln.html",
   "display": "standalone",

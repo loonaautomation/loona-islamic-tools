@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Elazığ",
   "short_name": "Horarios de oración en Elazığ",
   "description": "Horarios de oración de hoy en Elazığ, Turquía: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Elazığ.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-elazig.html",
+  "id": "/es/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

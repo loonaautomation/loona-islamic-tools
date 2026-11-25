@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kanayannur",
   "short_name": "Orari di preghiera a Kanayannur",
   "description": "Orari di preghiera di oggi a Kanayannur, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Kanayannur.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kanayannur.html",
+  "id": "/it/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

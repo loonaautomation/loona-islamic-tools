@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Bengaluru",
   "short_name": "Waktu Solat di Bengaluru",
   "description": "Waktu solat hari ini di Bengaluru, India: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Bengaluru.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-bengaluru.html",
+  "id": "/ms/prayer-times-in-bengaluru.html",
   "start_url": "./prayer-times-in-bengaluru.html",
   "scope": "./prayer-times-in-bengaluru.html",
   "display": "standalone",

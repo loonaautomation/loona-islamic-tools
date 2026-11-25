@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Honolulu",
   "short_name": "Rukousajat: Honolulu",
   "description": "Tämän päivän rukousajat paikassa Honolulu, Yhdysvallat: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. ISNA-menetelmä, laskettuna reaaliajassa laitteellasi paikalle Honolulu.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-honolulu.html",
+  "id": "/fi/prayer-times-in-honolulu.html",
   "start_url": "./prayer-times-in-honolulu.html",
   "scope": "./prayer-times-in-honolulu.html",
   "display": "standalone",

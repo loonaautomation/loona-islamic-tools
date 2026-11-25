@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Dehradun",
   "short_name": "Bønnetider i Dehradun",
   "description": "Dagens bønnetider i Dehradun, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Dehradun.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-dehradun.html",
+  "id": "/nb/prayer-times-in-dehradun.html",
   "start_url": "./prayer-times-in-dehradun.html",
   "scope": "./prayer-times-in-dehradun.html",
   "display": "standalone",

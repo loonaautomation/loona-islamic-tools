@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Alexandria",
   "short_name": "Prayer Times in Alexandria",
   "description": "Today's prayer times in Alexandria, Egypt: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Egyptian General Authority method, calculated live on your device for Alexandria.",
-  "id": "/loona-islamic-tools/prayer-times-in-alexandria.html",
+  "id": "/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

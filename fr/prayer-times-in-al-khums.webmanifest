@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Al Khums",
   "short_name": "Heures de prière à Al Khums",
   "description": "Les heures de prière d’aujourd’hui à Al Khums, Libye : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Al Khums.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-al-khums.html",
+  "id": "/fr/prayer-times-in-al-khums.html",
   "start_url": "./prayer-times-in-al-khums.html",
   "scope": "./prayer-times-in-al-khums.html",
   "display": "standalone",

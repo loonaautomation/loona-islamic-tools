@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Mosul",
   "short_name": "Bønnetider i Mosul",
   "description": "Dagens bønnetider i Mosul, Irak: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Mosul.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-mosul.html",
+  "id": "/nb/prayer-times-in-mosul.html",
   "start_url": "./prayer-times-in-mosul.html",
   "scope": "./prayer-times-in-mosul.html",
   "display": "standalone",

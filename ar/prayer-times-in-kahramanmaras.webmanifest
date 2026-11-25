@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kahramanmaraş",
   "short_name": "مواقيت الصلاة في Kahramanmaraş",
   "description": "مواقيت الصلاة اليوم في Kahramanmaraş، تركيا: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـKahramanmaraş.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kahramanmaras.html",
+  "id": "/ar/prayer-times-in-kahramanmaras.html",
   "start_url": "./prayer-times-in-kahramanmaras.html",
   "scope": "./prayer-times-in-kahramanmaras.html",
   "display": "standalone",

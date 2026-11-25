@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Edmonton",
   "short_name": "Время намаза в городе Edmonton",
   "description": "Время намаза на сегодня: Edmonton, Канада: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Edmonton.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-edmonton.html",
+  "id": "/ru/prayer-times-in-edmonton.html",
   "start_url": "./prayer-times-in-edmonton.html",
   "scope": "./prayer-times-in-edmonton.html",
   "display": "standalone",

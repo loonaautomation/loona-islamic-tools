@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kediri",
   "short_name": "Vremena namaza u gradu Kediri",
   "description": "Današnja vremena namaza u gradu Kediri, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Kediri.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kediri.html",
+  "id": "/hr/prayer-times-in-kediri.html",
   "start_url": "./prayer-times-in-kediri.html",
   "scope": "./prayer-times-in-kediri.html",
   "display": "standalone",

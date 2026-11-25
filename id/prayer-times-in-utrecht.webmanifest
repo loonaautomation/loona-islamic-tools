@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Utrecht",
   "short_name": "Waktu Salat di Utrecht",
   "description": "Waktu salat hari ini di Utrecht, Belanda: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Utrecht.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-utrecht.html",
+  "id": "/id/prayer-times-in-utrecht.html",
   "start_url": "./prayer-times-in-utrecht.html",
   "scope": "./prayer-times-in-utrecht.html",
   "display": "standalone",

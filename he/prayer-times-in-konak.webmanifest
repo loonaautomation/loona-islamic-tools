@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Konak",
   "short_name": "זמני תפילה בעיר Konak",
   "description": "זמני התפילה של היום בעיר Konak, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Konak.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-konak.html",
+  "id": "/he/prayer-times-in-konak.html",
   "start_url": "./prayer-times-in-konak.html",
   "scope": "./prayer-times-in-konak.html",
   "display": "standalone",

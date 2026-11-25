@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Wichita",
   "short_name": "Gebedstijden in Wichita",
   "description": "De gebedstijden van vandaag in Wichita, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Wichita.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-wichita.html",
+  "id": "/nl/prayer-times-in-wichita.html",
   "start_url": "./prayer-times-in-wichita.html",
   "scope": "./prayer-times-in-wichita.html",
   "display": "standalone",

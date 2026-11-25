@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Pontianak",
   "short_name": "Heures de prière à Pontianak",
   "description": "Les heures de prière d’aujourd’hui à Pontianak, Indonésie : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Pontianak.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-pontianak.html",
+  "id": "/fr/prayer-times-in-pontianak.html",
   "start_url": "./prayer-times-in-pontianak.html",
   "scope": "./prayer-times-in-pontianak.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Andijon",
   "short_name": "Ώρες Προσευχής στο Andijon",
   "description": "Οι σημερινές ώρες προσευχής στο Andijon, Ουζμπεκιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Muslim World League, υπολογίζονται ζωντανά στη συσκευή σας για το Andijon.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-andijon.html",
+  "id": "/el/prayer-times-in-andijon.html",
   "start_url": "./prayer-times-in-andijon.html",
   "scope": "./prayer-times-in-andijon.html",
   "display": "standalone",

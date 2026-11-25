@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nasimshahr",
   "short_name": "Vremena namaza u gradu Nasimshahr",
   "description": "Današnja vremena namaza u gradu Nasimshahr, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Nasimshahr.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-nasimshahr.html",
+  "id": "/hr/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

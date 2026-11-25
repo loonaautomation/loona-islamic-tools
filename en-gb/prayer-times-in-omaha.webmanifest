@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Omaha Today",
   "short_name": "Prayer Times in Omaha Today",
   "description": "Today's prayer times in Omaha, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Omaha.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-omaha.html",
+  "id": "/en-gb/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

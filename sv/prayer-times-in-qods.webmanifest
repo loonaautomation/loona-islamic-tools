@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Qods",
   "short_name": "Bönetider i Qods",
   "description": "Dagens bönetider i Qods, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Qods.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-qods.html",
+  "id": "/sv/prayer-times-in-qods.html",
   "start_url": "./prayer-times-in-qods.html",
   "scope": "./prayer-times-in-qods.html",
   "display": "standalone",

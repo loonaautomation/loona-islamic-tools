@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Rājkot",
   "short_name": "זמני תפילה בעיר Rājkot",
   "description": "זמני התפילה של היום בעיר Rājkot, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Rājkot.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-rajkot.html",
+  "id": "/he/prayer-times-in-rajkot.html",
   "start_url": "./prayer-times-in-rajkot.html",
   "scope": "./prayer-times-in-rajkot.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Essen",
   "short_name": "Časy modlitieb v Essen",
   "description": "Dnešné časy modlitieb v Essen, Nemecko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Essen.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-essen.html",
+  "id": "/sk/prayer-times-in-essen.html",
   "start_url": "./prayer-times-in-essen.html",
   "scope": "./prayer-times-in-essen.html",
   "display": "standalone",

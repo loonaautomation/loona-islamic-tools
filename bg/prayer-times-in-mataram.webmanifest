@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mataram",
   "short_name": "Часове за намаз в Mataram",
   "description": "Днешните часове за намаз в Mataram, Индонезия: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Mataram.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mataram.html",
+  "id": "/bg/prayer-times-in-mataram.html",
   "start_url": "./prayer-times-in-mataram.html",
   "scope": "./prayer-times-in-mataram.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bugünün Sahur & İftar Vakti",
   "short_name": "Bugünün Sahur & İftar Vakti",
   "description": "Şehriniz için bugünün Sahur bitişi (İmsak) ve İftar (Akşam) vakitleri, bir sonrakine canlı geri sayımla. Varsayılan olarak Karachi yöntemi, Hanefi İkindi; ayarlanabilir.",
-  "id": "/loona-islamic-tools/tr/sehri-iftar-today/",
+  "id": "/tr/sehri-iftar-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

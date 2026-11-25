@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Mesa",
   "short_name": "เวลาละหมาดใน Mesa",
   "description": "เวลาละหมาดวันนี้ใน Mesa, United States: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี ISNA คำนวณสดบนอุปกรณ์ของคุณสำหรับ Mesa",
-  "id": "/loona-islamic-tools/th/prayer-times-in-mesa.html",
+  "id": "/th/prayer-times-in-mesa.html",
   "start_url": "./prayer-times-in-mesa.html",
   "scope": "./prayer-times-in-mesa.html",
   "display": "standalone",

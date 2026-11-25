@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Vijayapura",
   "short_name": "Časy modliteb v Vijayapura",
   "description": "Dnešní časy modliteb v Vijayapura, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Vijayapura.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-vijayapura.html",
+  "id": "/cs/prayer-times-in-vijayapura.html",
   "start_url": "./prayer-times-in-vijayapura.html",
   "scope": "./prayer-times-in-vijayapura.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Sanandaj",
   "short_name": "Vremena namaza u gradu Sanandaj",
   "description": "Današnja vremena namaza u gradu Sanandaj, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Sanandaj.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-sanandaj.html",
+  "id": "/hr/prayer-times-in-sanandaj.html",
   "start_url": "./prayer-times-in-sanandaj.html",
   "scope": "./prayer-times-in-sanandaj.html",
   "display": "standalone",

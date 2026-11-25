@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Nairobi",
   "short_name": "Bönetider i Nairobi",
   "description": "Dagens bönetider i Nairobi, Kenya: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Nairobi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-nairobi.html",
+  "id": "/sv/prayer-times-in-nairobi.html",
   "start_url": "./prayer-times-in-nairobi.html",
   "scope": "./prayer-times-in-nairobi.html",
   "display": "standalone",

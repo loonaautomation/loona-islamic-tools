@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Phoenix",
   "short_name": "Waktu Solat di Phoenix",
   "description": "Waktu solat hari ini di Phoenix, Amerika Syarikat: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah ISNA, dikira secara langsung pada peranti anda untuk Phoenix.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-phoenix.html",
+  "id": "/ms/prayer-times-in-phoenix.html",
   "start_url": "./prayer-times-in-phoenix.html",
   "scope": "./prayer-times-in-phoenix.html",
   "display": "standalone",

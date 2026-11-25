@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Ambattur",
   "short_name": "Время намаза в городе Ambattur",
   "description": "Время намаза на сегодня: Ambattur, Индия: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Karachi, расчёт в реальном времени на вашем устройстве для города Ambattur.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-ambattur.html",
+  "id": "/ru/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

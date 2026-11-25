@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Batu",
   "short_name": "Rukousajat: Batu",
   "description": "Tämän päivän rukousajat paikassa Batu, Indonesia: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Batu.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-batu.html",
+  "id": "/fi/prayer-times-in-batu.html",
   "start_url": "./prayer-times-in-batu.html",
   "scope": "./prayer-times-in-batu.html",
   "display": "standalone",

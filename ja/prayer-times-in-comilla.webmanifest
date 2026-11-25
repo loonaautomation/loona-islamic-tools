@@ -2,7 +2,7 @@
   "name": "Loona Comilla の礼拝時刻",
   "short_name": "Comilla の礼拝時刻",
   "description": "Comilla（バングラデシュ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Comilla についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-comilla.html",
+  "id": "/ja/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

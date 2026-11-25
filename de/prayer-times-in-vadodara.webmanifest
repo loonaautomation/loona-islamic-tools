@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Vadodara",
   "short_name": "Gebetszeiten in Vadodara",
   "description": "Die heutigen Gebetszeiten in Vadodara, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Vadodara.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-vadodara.html",
+  "id": "/de/prayer-times-in-vadodara.html",
   "start_url": "./prayer-times-in-vadodara.html",
   "scope": "./prayer-times-in-vadodara.html",
   "display": "standalone",

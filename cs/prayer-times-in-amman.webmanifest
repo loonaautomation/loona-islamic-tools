@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Amman",
   "short_name": "Časy modliteb v Amman",
   "description": "Dnešní časy modliteb v Amman, Jordánsko: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Amman.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-amman.html",
+  "id": "/cs/prayer-times-in-amman.html",
   "start_url": "./prayer-times-in-amman.html",
   "scope": "./prayer-times-in-amman.html",
   "display": "standalone",

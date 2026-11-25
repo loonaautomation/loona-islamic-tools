@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kanayannur",
   "short_name": "Bønnetider i Kanayannur",
   "description": "Dagens bønnetider i Kanayannur, Indien: Fajr, Solopgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet live på din enhed for Kanayannur.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-kanayannur.html",
+  "id": "/da/prayer-times-in-kanayannur.html",
   "start_url": "./prayer-times-in-kanayannur.html",
   "scope": "./prayer-times-in-kanayannur.html",
   "display": "standalone",

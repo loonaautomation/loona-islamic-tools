@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jodhpur",
   "short_name": "Časy modlitieb v Jodhpur",
   "description": "Dnešné časy modlitieb v Jodhpur, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jodhpur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-jodhpur.html",
+  "id": "/sk/prayer-times-in-jodhpur.html",
   "start_url": "./prayer-times-in-jodhpur.html",
   "scope": "./prayer-times-in-jodhpur.html",
   "display": "standalone",

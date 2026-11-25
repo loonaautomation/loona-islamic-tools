@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Johor Bahru",
   "short_name": "Časy modlitieb v Johor Bahru",
   "description": "Dnešné časy modlitieb v Johor Bahru, Malajzia: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Johor Bahru.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-johor-bahru.html",
+  "id": "/sk/prayer-times-in-johor-bahru.html",
   "start_url": "./prayer-times-in-johor-bahru.html",
   "scope": "./prayer-times-in-johor-bahru.html",
   "display": "standalone",

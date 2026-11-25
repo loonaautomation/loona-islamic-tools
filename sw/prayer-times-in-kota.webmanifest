@@ -2,7 +2,7 @@
   "name": "Loona Nyakati za Swala katika Kota",
   "short_name": "Nyakati za Swala katika Kota",
   "description": "Nyakati za swala za leo katika Kota, India: Alfajiri, Kuchomoza kwa jua, Adhuhuri, Alasiri (Hanafi), Magharibi na Isha, pamoja na uelekeo wa Kibla na tarehe ya Hijria ya leo. Mbinu ya Karachi, imekokotolewa moja kwa moja kwenye kifaa chako kwa ajili ya Kota.",
-  "id": "/loona-islamic-tools/sw/prayer-times-in-kota.html",
+  "id": "/sw/prayer-times-in-kota.html",
   "start_url": "./prayer-times-in-kota.html",
   "scope": "./prayer-times-in-kota.html",
   "display": "standalone",

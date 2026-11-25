@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kalaburagi",
   "short_name": "مواقيت الصلاة في Kalaburagi",
   "description": "مواقيت الصلاة اليوم في Kalaburagi، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKalaburagi.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kalaburagi.html",
+  "id": "/ar/prayer-times-in-kalaburagi.html",
   "start_url": "./prayer-times-in-kalaburagi.html",
   "scope": "./prayer-times-in-kalaburagi.html",
   "display": "standalone",

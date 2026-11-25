@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في South Boston",
   "short_name": "مواقيت الصلاة في South Boston",
   "description": "مواقيت الصلاة اليوم في South Boston، الولايات المتحدة: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة ISNA، تُحسب مباشرة على جهازك لـSouth Boston.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-south-boston.html",
+  "id": "/ar/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

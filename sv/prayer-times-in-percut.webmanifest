@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Percut",
   "short_name": "Bönetider i Percut",
   "description": "Dagens bönetider i Percut, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Percut.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-percut.html",
+  "id": "/sv/prayer-times-in-percut.html",
   "start_url": "./prayer-times-in-percut.html",
   "scope": "./prayer-times-in-percut.html",
   "display": "standalone",

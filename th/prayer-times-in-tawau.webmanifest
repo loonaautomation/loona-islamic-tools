@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Tawau",
   "short_name": "เวลาละหมาดใน Tawau",
   "description": "เวลาละหมาดวันนี้ใน Tawau, Malaysia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Tawau",
-  "id": "/loona-islamic-tools/th/prayer-times-in-tawau.html",
+  "id": "/th/prayer-times-in-tawau.html",
   "start_url": "./prayer-times-in-tawau.html",
   "scope": "./prayer-times-in-tawau.html",
   "display": "standalone",

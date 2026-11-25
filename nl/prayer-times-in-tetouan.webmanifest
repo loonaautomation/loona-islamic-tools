@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Tétouan",
   "short_name": "Gebedstijden in Tétouan",
   "description": "De gebedstijden van vandaag in Tétouan, Marokko: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Tétouan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-tetouan.html",
+  "id": "/nl/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

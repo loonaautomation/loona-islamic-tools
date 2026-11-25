@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Banda Aceh",
   "short_name": "Horarios de oración en Banda Aceh",
   "description": "Horarios de oración de hoy en Banda Aceh, Indonesia: Fajr, amanecer, Dhuhr, Asr (Shafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de la Muslim World League, calculado en vivo en tu dispositivo para Banda Aceh.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-banda-aceh.html",
+  "id": "/es/prayer-times-in-banda-aceh.html",
   "start_url": "./prayer-times-in-banda-aceh.html",
   "scope": "./prayer-times-in-banda-aceh.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Omaha imaidői",
   "short_name": "Omaha imaidői",
   "description": "A mai imaidők: Omaha, Egyesült Államok: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. ISNA módszer, élőben számítva az Ön eszközén Omaha számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-omaha.html",
+  "id": "/hu/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

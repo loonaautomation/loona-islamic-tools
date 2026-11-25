@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Teni",
   "short_name": "Časy modliteb v Teni",
   "description": "Dnešní časy modliteb v Teni, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Teni.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-teni.html",
+  "id": "/cs/prayer-times-in-teni.html",
   "start_url": "./prayer-times-in-teni.html",
   "scope": "./prayer-times-in-teni.html",
   "display": "standalone",

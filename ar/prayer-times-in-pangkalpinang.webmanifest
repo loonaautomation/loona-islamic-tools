@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Pangkalpinang",
   "short_name": "مواقيت الصلاة في Pangkalpinang",
   "description": "مواقيت الصلاة اليوم في Pangkalpinang، إندونيسيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـPangkalpinang.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-pangkalpinang.html",
+  "id": "/ar/prayer-times-in-pangkalpinang.html",
   "start_url": "./prayer-times-in-pangkalpinang.html",
   "scope": "./prayer-times-in-pangkalpinang.html",
   "display": "standalone",

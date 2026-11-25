@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Copenhagen",
   "short_name": "Bønnetider i Copenhagen",
   "description": "Dagens bønnetider i Copenhagen, Danmark: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Copenhagen.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-copenhagen.html",
+  "id": "/da/prayer-times-in-copenhagen.html",
   "start_url": "./prayer-times-in-copenhagen.html",
   "scope": "./prayer-times-in-copenhagen.html",
   "display": "standalone",

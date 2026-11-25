@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Gorontalo",
   "short_name": "Prayer Times in Gorontalo",
   "description": "Today's prayer times in Gorontalo, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Gorontalo.",
-  "id": "/loona-islamic-tools/prayer-times-in-gorontalo.html",
+  "id": "/prayer-times-in-gorontalo.html",
   "start_url": "./prayer-times-in-gorontalo.html",
   "scope": "./prayer-times-in-gorontalo.html",
   "display": "standalone",

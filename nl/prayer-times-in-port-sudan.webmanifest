@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Port Sudan",
   "short_name": "Gebedstijden in Port Sudan",
   "description": "Gebedstijden van vandaag in Port Soedan, Soedan: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Port Soedan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-port-sudan.html",
+  "id": "/nl/prayer-times-in-port-sudan.html",
   "start_url": "./prayer-times-in-port-sudan.html",
   "scope": "./prayer-times-in-port-sudan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Omaha",
   "short_name": "Časy modlitieb v Omaha",
   "description": "Dnešné časy modlitieb v Omaha, Spojené štáty: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda ISNA, počítané naživo vo vašom zariadení pre Omaha.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-omaha.html",
+  "id": "/sk/prayer-times-in-omaha.html",
   "start_url": "./prayer-times-in-omaha.html",
   "scope": "./prayer-times-in-omaha.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Corpus Christi Today",
   "short_name": "Prayer Times in Corpus Christi Today",
   "description": "Today's prayer times in Corpus Christi, United States: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. ISNA method, calculated live on your device for Corpus Christi.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-corpus-christi.html",
+  "id": "/en-gb/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

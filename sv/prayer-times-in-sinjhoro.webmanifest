@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sinjhoro",
   "short_name": "Bönetider i Sinjhoro",
   "description": "Dagens bönetider i Sinjhoro, Pakistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Karachi-metoden, beräknad live på din enhet för Sinjhoro.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sinjhoro.html",
+  "id": "/sv/prayer-times-in-sinjhoro.html",
   "start_url": "./prayer-times-in-sinjhoro.html",
   "scope": "./prayer-times-in-sinjhoro.html",
   "display": "standalone",

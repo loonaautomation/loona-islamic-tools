@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Erbil",
   "short_name": "Ore de rugăciune în Erbil",
   "description": "Orele de rugăciune de azi în Erbil, Irak: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Erbil.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-erbil.html",
+  "id": "/ro/prayer-times-in-erbil.html",
   "start_url": "./prayer-times-in-erbil.html",
   "scope": "./prayer-times-in-erbil.html",
   "display": "standalone",

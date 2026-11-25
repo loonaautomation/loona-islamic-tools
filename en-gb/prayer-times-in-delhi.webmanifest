@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Delhi Today",
   "short_name": "Prayer Times in Delhi Today",
   "description": "Today's prayer times in Delhi, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Delhi.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-delhi.html",
+  "id": "/en-gb/prayer-times-in-delhi.html",
   "start_url": "./prayer-times-in-delhi.html",
   "scope": "./prayer-times-in-delhi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Konya",
   "short_name": "זמני תפילה בעיר Konya",
   "description": "זמני התפילה של היום בעיר Konya, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Konya.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-konya.html",
+  "id": "/he/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

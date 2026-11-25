@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Buraydah",
   "short_name": "Czasy modlitw w miejscowości Buraydah",
   "description": "Dzisiejsze czasy modlitw w miejscowości Buraydah, kraj Arabia Saudyjska: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Umm al-Qura, obliczane na żywo na Twoim urządzeniu dla miejscowości Buraydah.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-buraydah.html",
+  "id": "/pl/prayer-times-in-buraydah.html",
   "start_url": "./prayer-times-in-buraydah.html",
   "scope": "./prayer-times-in-buraydah.html",
   "display": "standalone",

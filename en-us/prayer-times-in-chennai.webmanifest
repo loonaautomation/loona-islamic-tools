@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Chennai Today",
   "short_name": "Prayer Times in Chennai Today",
   "description": "Today's prayer times in Chennai, India: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Chennai.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-chennai.html",
+  "id": "/en-us/prayer-times-in-chennai.html",
   "start_url": "./prayer-times-in-chennai.html",
   "scope": "./prayer-times-in-chennai.html",
   "display": "standalone",

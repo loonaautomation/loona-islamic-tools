@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Ras Al Khaimah",
   "short_name": "Orari di preghiera a Ras Al Khaimah",
   "description": "Orari di preghiera di oggi a Ras Al Khaimah, Emirati Arabi Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Umm al-Qura, calcolati live sul tuo dispositivo per Ras Al Khaimah.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-ras-al-khaimah.html",
+  "id": "/it/prayer-times-in-ras-al-khaimah.html",
   "start_url": "./prayer-times-in-ras-al-khaimah.html",
   "scope": "./prayer-times-in-ras-al-khaimah.html",
   "display": "standalone",

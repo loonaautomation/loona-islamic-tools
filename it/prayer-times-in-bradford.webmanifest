@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Bradford",
   "short_name": "Orari di preghiera a Bradford",
   "description": "Orari di preghiera di oggi a Bradford, Regno Unito: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Bradford.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-bradford.html",
+  "id": "/it/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

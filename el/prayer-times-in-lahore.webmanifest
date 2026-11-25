@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Lahore",
   "short_name": "Ώρες Προσευχής στο Lahore",
   "description": "Οι σημερινές ώρες προσευχής στο Lahore, Πακιστάν: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Lahore.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-lahore.html",
+  "id": "/el/prayer-times-in-lahore.html",
   "start_url": "./prayer-times-in-lahore.html",
   "scope": "./prayer-times-in-lahore.html",
   "display": "standalone",

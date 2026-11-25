@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Kozhikode",
   "short_name": "Vremena namaza u gradu Kozhikode",
   "description": "Današnja vremena namaza u gradu Kozhikode, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Kozhikode.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-kozhikode.html",
+  "id": "/hr/prayer-times-in-kozhikode.html",
   "start_url": "./prayer-times-in-kozhikode.html",
   "scope": "./prayer-times-in-kozhikode.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Qina",
   "short_name": "Časy modlitieb v Qina",
   "description": "Dnešné časy modlitieb v Qina, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Qina.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-qina.html",
+  "id": "/sk/prayer-times-in-qina.html",
   "start_url": "./prayer-times-in-qina.html",
   "scope": "./prayer-times-in-qina.html",
   "display": "standalone",

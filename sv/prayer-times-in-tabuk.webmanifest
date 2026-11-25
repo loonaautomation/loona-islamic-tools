@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Tabuk",
   "short_name": "Bönetider i Tabuk",
   "description": "Dagens bönetider i Tabuk, Saudiarabien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Umm al-Qura-metoden, beräknad live på din enhet för Tabuk.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-tabuk.html",
+  "id": "/sv/prayer-times-in-tabuk.html",
   "start_url": "./prayer-times-in-tabuk.html",
   "scope": "./prayer-times-in-tabuk.html",
   "display": "standalone",

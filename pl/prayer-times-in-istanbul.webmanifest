@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Istanbul",
   "short_name": "Czasy modlitw w miejscowości Istanbul",
   "description": "Dzisiejsze czasy modlitw w Istanbul, Turcja: Fajr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla Istanbul.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-istanbul.html",
+  "id": "/pl/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

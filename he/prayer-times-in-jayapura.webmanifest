@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jayapura",
   "short_name": "זמני תפילה בעיר Jayapura",
   "description": "זמני התפילה של היום בעיר Jayapura, אינדונזיה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Jayapura.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jayapura.html",
+  "id": "/he/prayer-times-in-jayapura.html",
   "start_url": "./prayer-times-in-jayapura.html",
   "scope": "./prayer-times-in-jayapura.html",
   "display": "standalone",

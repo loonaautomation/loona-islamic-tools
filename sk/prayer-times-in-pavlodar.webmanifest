@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Pavlodar",
   "short_name": "Časy modlitieb v Pavlodar",
   "description": "Dnešné časy modlitieb v Pavlodar, Kazachstan: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Pavlodar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-pavlodar.html",
+  "id": "/sk/prayer-times-in-pavlodar.html",
   "start_url": "./prayer-times-in-pavlodar.html",
   "scope": "./prayer-times-in-pavlodar.html",
   "display": "standalone",

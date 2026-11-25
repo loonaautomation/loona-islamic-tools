@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Lagos Today",
   "short_name": "Prayer Times in Lagos Today",
   "description": "Today's prayer times in Lagos, Nigeria: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Karachi method, calculated live on your device for Lagos.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-lagos.html",
+  "id": "/en-us/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

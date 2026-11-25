@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Najafābād",
   "short_name": "Bönetider i Najafābād",
   "description": "Dagens bönetider i Najafābād, Iran: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Najafābād.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-najafabad.html",
+  "id": "/sv/prayer-times-in-najafabad.html",
   "start_url": "./prayer-times-in-najafabad.html",
   "scope": "./prayer-times-in-najafabad.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Glasgow",
   "short_name": "Rukousajat: Glasgow",
   "description": "Tämän päivän rukousajat paikassa Glasgow, Yhdistynyt kuningaskunta: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Glasgow.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-glasgow.html",
+  "id": "/fi/prayer-times-in-glasgow.html",
   "start_url": "./prayer-times-in-glasgow.html",
   "scope": "./prayer-times-in-glasgow.html",
   "display": "standalone",

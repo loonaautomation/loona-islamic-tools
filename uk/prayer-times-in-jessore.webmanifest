@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Jessore",
   "short_name": "Час намазу в Jessore",
   "description": "Сьогоднішній час намазу в Jessore, Бангладеш: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Jessore.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-jessore.html",
+  "id": "/uk/prayer-times-in-jessore.html",
   "start_url": "./prayer-times-in-jessore.html",
   "scope": "./prayer-times-in-jessore.html",
   "display": "standalone",

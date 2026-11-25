@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Jūnāgadh",
   "short_name": "Časy modlitieb v Jūnāgadh",
   "description": "Dnešné časy modlitieb v Jūnāgadh, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Jūnāgadh.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-junagadh.html",
+  "id": "/sk/prayer-times-in-junagadh.html",
   "start_url": "./prayer-times-in-junagadh.html",
   "scope": "./prayer-times-in-junagadh.html",
   "display": "standalone",

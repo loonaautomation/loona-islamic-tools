@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Bakersfield",
   "short_name": "Bønnetider i Bakersfield",
   "description": "Dagens bønnetider i Bakersfield, USA: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. ISNA-metoden, beregnet live på din enhed for Bakersfield.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-bakersfield.html",
+  "id": "/da/prayer-times-in-bakersfield.html",
   "start_url": "./prayer-times-in-bakersfield.html",
   "scope": "./prayer-times-in-bakersfield.html",
   "display": "standalone",

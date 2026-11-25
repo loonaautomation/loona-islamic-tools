@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Istanbul",
   "short_name": "Horarios de oración en Istanbul",
   "description": "Los horarios de oración de hoy en Istanbul, Türkiye: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Istanbul.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-istanbul.html",
+  "id": "/es/prayer-times-in-istanbul.html",
   "start_url": "./prayer-times-in-istanbul.html",
   "scope": "./prayer-times-in-istanbul.html",
   "display": "standalone",

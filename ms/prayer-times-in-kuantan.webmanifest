@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kuantan",
   "short_name": "Waktu Solat di Kuantan",
   "description": "Waktu solat hari ini di Kuantan, Malaysia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kuantan.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kuantan.html",
+  "id": "/ms/prayer-times-in-kuantan.html",
   "start_url": "./prayer-times-in-kuantan.html",
   "scope": "./prayer-times-in-kuantan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Dhaka",
   "short_name": "Bönetider i Dhaka",
   "description": "Dagens bönetider i Dhaka, Bangladesh: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Dhaka.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-dhaka.html",
+  "id": "/sv/prayer-times-in-dhaka.html",
   "start_url": "./prayer-times-in-dhaka.html",
   "scope": "./prayer-times-in-dhaka.html",
   "display": "standalone",

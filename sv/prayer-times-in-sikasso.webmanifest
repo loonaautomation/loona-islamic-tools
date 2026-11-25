@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Sikasso",
   "short_name": "Bönetider i Sikasso",
   "description": "Dagens bönetider i Sikasso, Mali: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Sikasso.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-sikasso.html",
+  "id": "/sv/prayer-times-in-sikasso.html",
   "start_url": "./prayer-times-in-sikasso.html",
   "scope": "./prayer-times-in-sikasso.html",
   "display": "standalone",

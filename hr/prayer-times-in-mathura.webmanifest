@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Mathura",
   "short_name": "Vremena namaza u gradu Mathura",
   "description": "Današnja vremena namaza u gradu Mathura, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Mathura.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-mathura.html",
+  "id": "/hr/prayer-times-in-mathura.html",
   "start_url": "./prayer-times-in-mathura.html",
   "scope": "./prayer-times-in-mathura.html",
   "display": "standalone",

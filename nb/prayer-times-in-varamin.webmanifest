@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Varāmīn",
   "short_name": "Bønnetider i Varāmīn",
   "description": "Dagens bønnetider i Varāmīn, Iran: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Varāmīn.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-varamin.html",
+  "id": "/nb/prayer-times-in-varamin.html",
   "start_url": "./prayer-times-in-varamin.html",
   "scope": "./prayer-times-in-varamin.html",
   "display": "standalone",

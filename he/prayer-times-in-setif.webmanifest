@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Sétif",
   "short_name": "זמני תפילה בעיר Sétif",
   "description": "זמני התפילה של היום בעיר Sétif, אלג'יריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Sétif.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-setif.html",
+  "id": "/he/prayer-times-in-setif.html",
   "start_url": "./prayer-times-in-setif.html",
   "scope": "./prayer-times-in-setif.html",
   "display": "standalone",

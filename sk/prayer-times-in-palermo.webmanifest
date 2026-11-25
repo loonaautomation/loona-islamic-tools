@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Palermo",
   "short_name": "Časy modlitieb v Palermo",
   "description": "Dnešné časy modlitieb v Palermo, Taliansko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Palermo.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-palermo.html",
+  "id": "/sk/prayer-times-in-palermo.html",
   "start_url": "./prayer-times-in-palermo.html",
   "scope": "./prayer-times-in-palermo.html",
   "display": "standalone",

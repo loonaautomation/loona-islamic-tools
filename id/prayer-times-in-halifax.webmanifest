@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Halifax",
   "short_name": "Waktu Salat di Halifax",
   "description": "Waktu salat hari ini di Halifax, Kanada: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Halifax.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-halifax.html",
+  "id": "/id/prayer-times-in-halifax.html",
   "start_url": "./prayer-times-in-halifax.html",
   "scope": "./prayer-times-in-halifax.html",
   "display": "standalone",

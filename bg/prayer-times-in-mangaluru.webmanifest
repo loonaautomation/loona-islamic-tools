@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mangaluru",
   "short_name": "Часове за намаз в Mangaluru",
   "description": "Днешните часове за намаз в Mangaluru, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Mangaluru.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mangaluru.html",
+  "id": "/bg/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

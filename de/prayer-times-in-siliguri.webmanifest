@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Siliguri",
   "short_name": "Gebetszeiten in Siliguri",
   "description": "Die heutigen Gebetszeiten in Siliguri, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Siliguri.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-siliguri.html",
+  "id": "/de/prayer-times-in-siliguri.html",
   "start_url": "./prayer-times-in-siliguri.html",
   "scope": "./prayer-times-in-siliguri.html",
   "display": "standalone",

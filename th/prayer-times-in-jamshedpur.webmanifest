@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Jamshedpur",
   "short_name": "เวลาละหมาดใน Jamshedpur",
   "description": "เวลาละหมาดวันนี้ใน Jamshedpur, India: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Jamshedpur",
-  "id": "/loona-islamic-tools/th/prayer-times-in-jamshedpur.html",
+  "id": "/th/prayer-times-in-jamshedpur.html",
   "start_url": "./prayer-times-in-jamshedpur.html",
   "scope": "./prayer-times-in-jamshedpur.html",
   "display": "standalone",

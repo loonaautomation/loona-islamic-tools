@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Cox’s Bāzār",
   "short_name": "Časy modliteb v Cox’s Bāzār",
   "description": "Dnešní časy modliteb v Cox’s Bāzār, Bangladéš: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Cox’s Bāzār.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-cox-s-bazar.html",
+  "id": "/cs/prayer-times-in-cox-s-bazar.html",
   "start_url": "./prayer-times-in-cox-s-bazar.html",
   "scope": "./prayer-times-in-cox-s-bazar.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Bradford",
   "short_name": "เวลาละหมาดใน Bradford",
   "description": "เวลาละหมาดวันนี้ใน Bradford, United Kingdom: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Bradford",
-  "id": "/loona-islamic-tools/th/prayer-times-in-bradford.html",
+  "id": "/th/prayer-times-in-bradford.html",
   "start_url": "./prayer-times-in-bradford.html",
   "scope": "./prayer-times-in-bradford.html",
   "display": "standalone",

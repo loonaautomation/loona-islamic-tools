@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Gorontalo",
   "short_name": "Час намазу в Gorontalo",
   "description": "Сьогоднішній час намазу в Gorontalo, Індонезія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Gorontalo.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-gorontalo.html",
+  "id": "/uk/prayer-times-in-gorontalo.html",
   "start_url": "./prayer-times-in-gorontalo.html",
   "scope": "./prayer-times-in-gorontalo.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Kanpur",
   "short_name": "مواقيت الصلاة في Kanpur",
   "description": "مواقيت الصلاة اليوم في Kanpur، الهند: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة Karachi، تُحسب مباشرة على جهازك لـKanpur.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-kanpur.html",
+  "id": "/ar/prayer-times-in-kanpur.html",
   "start_url": "./prayer-times-in-kanpur.html",
   "scope": "./prayer-times-in-kanpur.html",
   "display": "standalone",

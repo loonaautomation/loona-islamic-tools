@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nanded",
   "short_name": "Gebetszeiten in Nanded",
   "description": "Die heutigen Gebetszeiten in Nanded, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Nanded.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nanded.html",
+  "id": "/de/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

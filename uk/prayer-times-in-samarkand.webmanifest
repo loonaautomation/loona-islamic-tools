@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Samarkand",
   "short_name": "Час намазу в Samarkand",
   "description": "Сьогоднішній час намазу в Samarkand, Узбекистан: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Samarkand.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-samarkand.html",
+  "id": "/uk/prayer-times-in-samarkand.html",
   "start_url": "./prayer-times-in-samarkand.html",
   "scope": "./prayer-times-in-samarkand.html",
   "display": "standalone",

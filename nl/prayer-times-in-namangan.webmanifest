@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Namangan",
   "short_name": "Gebedstijden in Namangan",
   "description": "De gebedstijden van vandaag in Namangan, Oezbekistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Namangan.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-namangan.html",
+  "id": "/nl/prayer-times-in-namangan.html",
   "start_url": "./prayer-times-in-namangan.html",
   "scope": "./prayer-times-in-namangan.html",
   "display": "standalone",

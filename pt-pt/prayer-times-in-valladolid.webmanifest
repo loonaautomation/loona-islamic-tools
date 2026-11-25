@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Valladolid",
   "short_name": "Horários de Oração em Valladolid",
   "description": "Horários de oração de hoje em Valladolid, Espanha: Fajr, nascer do sol, Dhuhr, Asr (Shafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Muslim World League, calculado ao vivo no seu dispositivo para Valladolid.",
-  "id": "/loona-islamic-tools/pt-pt/prayer-times-in-valladolid.html",
+  "id": "/pt-pt/prayer-times-in-valladolid.html",
   "start_url": "./prayer-times-in-valladolid.html",
   "scope": "./prayer-times-in-valladolid.html",
   "display": "standalone",

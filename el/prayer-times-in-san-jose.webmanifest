@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο San Jose",
   "short_name": "Ώρες Προσευχής στο San Jose",
   "description": "Οι σημερινές ώρες προσευχής στο San Jose, Ηνωμένες Πολιτείες: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Shafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος ISNA, υπολογίζονται ζωντανά στη συσκευή σας για το San Jose.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-san-jose.html",
+  "id": "/el/prayer-times-in-san-jose.html",
   "start_url": "./prayer-times-in-san-jose.html",
   "scope": "./prayer-times-in-san-jose.html",
   "display": "standalone",

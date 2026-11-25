@@ -2,7 +2,7 @@
   "name": "Loona Konibodom imaidői",
   "short_name": "Konibodom imaidői",
   "description": "A mai imaidők: Konibodom, Tádzsikisztán: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Konibodom számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-konibodom.html",
+  "id": "/hu/prayer-times-in-konibodom.html",
   "start_url": "./prayer-times-in-konibodom.html",
   "scope": "./prayer-times-in-konibodom.html",
   "display": "standalone",

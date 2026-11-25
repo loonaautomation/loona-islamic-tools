@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Palma",
   "short_name": "Časy modlitieb v Palma",
   "description": "Dnešné časy modlitieb v Palma, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Palma.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-palma.html",
+  "id": "/sk/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

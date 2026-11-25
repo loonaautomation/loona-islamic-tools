@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Conakry",
   "short_name": "Orari di preghiera a Conakry",
   "description": "Orari di preghiera di oggi a Conakry, Guinea: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Conakry.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-conakry.html",
+  "id": "/it/prayer-times-in-conakry.html",
   "start_url": "./prayer-times-in-conakry.html",
   "scope": "./prayer-times-in-conakry.html",
   "display": "standalone",

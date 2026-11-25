@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Karachi",
   "short_name": "Waktu Solat di Karachi",
   "description": "Waktu solat hari ini di Karachi, Pakistan: Subuh, Matahari Terbit, Zohor, Asar (Hanafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Karachi, dikira secara langsung pada peranti anda untuk Karachi.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-karachi.html",
+  "id": "/ms/prayer-times-in-karachi.html",
   "start_url": "./prayer-times-in-karachi.html",
   "scope": "./prayer-times-in-karachi.html",
   "display": "standalone",

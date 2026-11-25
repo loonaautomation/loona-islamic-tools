@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Salem",
   "short_name": "Vremena namaza u gradu Salem",
   "description": "Današnja vremena namaza u gradu Salem, Indija: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Salem.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-salem.html",
+  "id": "/hr/prayer-times-in-salem.html",
   "start_url": "./prayer-times-in-salem.html",
   "scope": "./prayer-times-in-salem.html",
   "display": "standalone",

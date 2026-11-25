@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Medan",
   "short_name": "Časy modliteb v Medan",
   "description": "Dnešní časy modliteb v Medan, Indonésie: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Medan.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-medan.html",
+  "id": "/cs/prayer-times-in-medan.html",
   "start_url": "./prayer-times-in-medan.html",
   "scope": "./prayer-times-in-medan.html",
   "display": "standalone",

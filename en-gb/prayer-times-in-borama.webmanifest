@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Borama Today",
   "short_name": "Prayer Times in Borama Today",
   "description": "Today's prayer times in Borama, Somalia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Borama.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-borama.html",
+  "id": "/en-gb/prayer-times-in-borama.html",
   "start_url": "./prayer-times-in-borama.html",
   "scope": "./prayer-times-in-borama.html",
   "display": "standalone",

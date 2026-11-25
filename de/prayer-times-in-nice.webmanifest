@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Nice",
   "short_name": "Gebetszeiten in Nice",
   "description": "Die heutigen Gebetszeiten in Nice, Frankreich: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Nice.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-nice.html",
+  "id": "/de/prayer-times-in-nice.html",
   "start_url": "./prayer-times-in-nice.html",
   "scope": "./prayer-times-in-nice.html",
   "display": "standalone",

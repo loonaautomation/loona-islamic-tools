@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Ujjain",
   "short_name": "Časy modlitieb v Ujjain",
   "description": "Dnešné časy modlitieb v Ujjain, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Ujjain.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-ujjain.html",
+  "id": "/sk/prayer-times-in-ujjain.html",
   "start_url": "./prayer-times-in-ujjain.html",
   "scope": "./prayer-times-in-ujjain.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Dhule",
   "short_name": "Czasy modlitw w miejscowości Dhule",
   "description": "Dzisiejsze czasy modlitw w miejscowości Dhule, kraj Indie: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Dhule.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-dhule.html",
+  "id": "/pl/prayer-times-in-dhule.html",
   "start_url": "./prayer-times-in-dhule.html",
   "scope": "./prayer-times-in-dhule.html",
   "display": "standalone",

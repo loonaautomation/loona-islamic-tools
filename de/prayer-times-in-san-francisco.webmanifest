@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in San Francisco",
   "short_name": "Gebetszeiten in San Francisco",
   "description": "Die heutigen Gebetszeiten in San Francisco, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für San Francisco.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-san-francisco.html",
+  "id": "/de/prayer-times-in-san-francisco.html",
   "start_url": "./prayer-times-in-san-francisco.html",
   "scope": "./prayer-times-in-san-francisco.html",
   "display": "standalone",

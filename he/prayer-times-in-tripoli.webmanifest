@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה ב-Tripoli (לוב)",
   "short_name": "זמני תפילה ב-Tripoli (לוב)",
   "description": "זמני התפילה של היום ב-Tripoli, לוב: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Tripoli.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-tripoli.html",
+  "id": "/he/prayer-times-in-tripoli.html",
   "start_url": "./prayer-times-in-tripoli.html",
   "scope": "./prayer-times-in-tripoli.html",
   "display": "standalone",

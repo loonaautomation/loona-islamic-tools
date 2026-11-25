@@ -2,7 +2,7 @@
   "name": "Loona Zürich の礼拝時刻",
   "short_name": "Zürich の礼拝時刻",
   "description": "Zürich（スイス）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Zürich についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-zuerich.html",
+  "id": "/ja/prayer-times-in-zuerich.html",
   "start_url": "./prayer-times-in-zuerich.html",
   "scope": "./prayer-times-in-zuerich.html",
   "display": "standalone",

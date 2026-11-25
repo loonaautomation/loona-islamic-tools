@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Adana",
   "short_name": "Časy modlitieb v Adana",
   "description": "Dnešné časy modlitieb v Adana, Turecko: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Adana.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-adana.html",
+  "id": "/sk/prayer-times-in-adana.html",
   "start_url": "./prayer-times-in-adana.html",
   "scope": "./prayer-times-in-adana.html",
   "display": "standalone",

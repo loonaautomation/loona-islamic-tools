@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Warangal",
   "short_name": "Bønnetider i Warangal",
   "description": "Dagens bønnetider i Warangal, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Warangal.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-warangal.html",
+  "id": "/nb/prayer-times-in-warangal.html",
   "start_url": "./prayer-times-in-warangal.html",
   "scope": "./prayer-times-in-warangal.html",
   "display": "standalone",

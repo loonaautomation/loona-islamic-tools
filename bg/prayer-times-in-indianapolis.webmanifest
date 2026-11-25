@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Indianapolis",
   "short_name": "Часове за намаз в Indianapolis",
   "description": "Днешните часове за намаз в Indianapolis, САЩ: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод ISNA, изчислени на живо на вашето устройство за Indianapolis.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-indianapolis.html",
+  "id": "/bg/prayer-times-in-indianapolis.html",
   "start_url": "./prayer-times-in-indianapolis.html",
   "scope": "./prayer-times-in-indianapolis.html",
   "display": "standalone",

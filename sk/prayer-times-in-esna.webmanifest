@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Esna",
   "short_name": "Časy modlitieb v Esna",
   "description": "Dnešné časy modlitieb v Esna, Egypt: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Egyptian General Authority, počítané naživo vo vašom zariadení pre Esna.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-esna.html",
+  "id": "/sk/prayer-times-in-esna.html",
   "start_url": "./prayer-times-in-esna.html",
   "scope": "./prayer-times-in-esna.html",
   "display": "standalone",

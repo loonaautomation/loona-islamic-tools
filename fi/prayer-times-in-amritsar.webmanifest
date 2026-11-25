@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Amritsar",
   "short_name": "Rukousajat: Amritsar",
   "description": "Tämän päivän rukousajat paikassa Amritsar, Intia: Fajr, Auringonnousu, Dhuhr, Asr (Hanafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Menetelmä Karachi, laskettuna reaaliajassa laitteellasi paikalle Amritsar.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-amritsar.html",
+  "id": "/fi/prayer-times-in-amritsar.html",
   "start_url": "./prayer-times-in-amritsar.html",
   "scope": "./prayer-times-in-amritsar.html",
   "display": "standalone",

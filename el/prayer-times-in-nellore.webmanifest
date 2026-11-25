@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Nellore",
   "short_name": "Ώρες Προσευχής στο Nellore",
   "description": "Οι σημερινές ώρες προσευχής στο Nellore, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Nellore.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-nellore.html",
+  "id": "/el/prayer-times-in-nellore.html",
   "start_url": "./prayer-times-in-nellore.html",
   "scope": "./prayer-times-in-nellore.html",
   "display": "standalone",

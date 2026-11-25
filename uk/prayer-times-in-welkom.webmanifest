@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Welkom",
   "short_name": "Час намазу в Welkom",
   "description": "Сьогоднішній час намазу в Welkom, Південна Африка: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Welkom.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-welkom.html",
+  "id": "/uk/prayer-times-in-welkom.html",
   "start_url": "./prayer-times-in-welkom.html",
   "scope": "./prayer-times-in-welkom.html",
   "display": "standalone",

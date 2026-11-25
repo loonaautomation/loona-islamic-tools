@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in South Boston",
   "short_name": "Gebedstijden in South Boston",
   "description": "De gebedstijden van vandaag in South Boston, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor South Boston.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-south-boston.html",
+  "id": "/nl/prayer-times-in-south-boston.html",
   "start_url": "./prayer-times-in-south-boston.html",
   "scope": "./prayer-times-in-south-boston.html",
   "display": "standalone",

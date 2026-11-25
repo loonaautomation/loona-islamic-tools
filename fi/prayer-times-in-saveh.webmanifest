@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Sāveh",
   "short_name": "Rukousajat: Sāveh",
   "description": "Tämän päivän rukousajat paikassa Sāveh, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Sāveh.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-saveh.html",
+  "id": "/fi/prayer-times-in-saveh.html",
   "start_url": "./prayer-times-in-saveh.html",
   "scope": "./prayer-times-in-saveh.html",
   "display": "standalone",

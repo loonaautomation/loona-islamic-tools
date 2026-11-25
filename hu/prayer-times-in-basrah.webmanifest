@@ -2,7 +2,7 @@
   "name": "Loona Basrah imaidői",
   "short_name": "Basrah imaidői",
   "description": "A mai imaidők: Basrah, Irak: Fajr, napkelte, Dhuhr, Asr (hanafi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Basrah számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-basrah.html",
+  "id": "/hu/prayer-times-in-basrah.html",
   "start_url": "./prayer-times-in-basrah.html",
   "scope": "./prayer-times-in-basrah.html",
   "display": "standalone",

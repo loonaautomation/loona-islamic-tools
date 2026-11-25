@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Malang",
   "short_name": "Vremena namaza u gradu Malang",
   "description": "Današnja vremena namaza u gradu Malang, Indonezija: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Malang.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-malang.html",
+  "id": "/hr/prayer-times-in-malang.html",
   "start_url": "./prayer-times-in-malang.html",
   "scope": "./prayer-times-in-malang.html",
   "display": "standalone",

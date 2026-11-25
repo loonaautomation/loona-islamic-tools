@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Casablanca",
   "short_name": "Vremena namaza u gradu Casablanca",
   "description": "Današnja vremena namaza u gradu Casablanca, Maroko: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Casablanca.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-casablanca.html",
+  "id": "/hr/prayer-times-in-casablanca.html",
   "start_url": "./prayer-times-in-casablanca.html",
   "scope": "./prayer-times-in-casablanca.html",
   "display": "standalone",

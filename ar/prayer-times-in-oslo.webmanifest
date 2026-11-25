@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Oslo",
   "short_name": "مواقيت الصلاة في Oslo",
   "description": "مواقيت الصلاة اليوم في Oslo، النرويج: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـOslo.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-oslo.html",
+  "id": "/ar/prayer-times-in-oslo.html",
   "start_url": "./prayer-times-in-oslo.html",
   "scope": "./prayer-times-in-oslo.html",
   "display": "standalone",

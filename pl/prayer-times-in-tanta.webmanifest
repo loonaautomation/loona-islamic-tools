@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Tanta",
   "short_name": "Czasy modlitw w miejscowości Tanta",
   "description": "Dzisiejsze czasy modlitw w miejscowości Tanta, kraj Egipt: Fadżr, wschód słońca, Dhuhr, Asr (szaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Egyptian General Authority, obliczane na żywo na Twoim urządzeniu dla miejscowości Tanta.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-tanta.html",
+  "id": "/pl/prayer-times-in-tanta.html",
   "start_url": "./prayer-times-in-tanta.html",
   "scope": "./prayer-times-in-tanta.html",
   "display": "standalone",

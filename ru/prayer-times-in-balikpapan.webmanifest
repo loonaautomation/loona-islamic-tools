@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Balikpapan",
   "short_name": "Время намаза в городе Balikpapan",
   "description": "Время намаза на сегодня: Balikpapan, Индонезия: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Balikpapan.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-balikpapan.html",
+  "id": "/ru/prayer-times-in-balikpapan.html",
   "start_url": "./prayer-times-in-balikpapan.html",
   "scope": "./prayer-times-in-balikpapan.html",
   "display": "standalone",

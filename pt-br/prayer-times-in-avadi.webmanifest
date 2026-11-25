@@ -2,7 +2,7 @@
   "name": "Loona Horários de Oração em Avadi",
   "short_name": "Horários de Oração em Avadi",
   "description": "Horários de oração de hoje em Avadi, Índia: Fajr, nascer do sol, Dhuhr, Asr (Hanafi), Maghrib e Isha, mais a direção da Qibla e a data da Hégira de hoje. Método Karachi, calculado ao vivo no seu dispositivo para Avadi.",
-  "id": "/loona-islamic-tools/pt-br/prayer-times-in-avadi.html",
+  "id": "/pt-br/prayer-times-in-avadi.html",
   "start_url": "./prayer-times-in-avadi.html",
   "scope": "./prayer-times-in-avadi.html",
   "display": "standalone",

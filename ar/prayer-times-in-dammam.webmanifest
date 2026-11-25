@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Dammam",
   "short_name": "مواقيت الصلاة في Dammam",
   "description": "مواقيت الصلاة اليوم في Dammam، السعودية: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة أم القرى، تُحسب مباشرة على جهازك لـDammam.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-dammam.html",
+  "id": "/ar/prayer-times-in-dammam.html",
   "start_url": "./prayer-times-in-dammam.html",
   "scope": "./prayer-times-in-dammam.html",
   "display": "standalone",

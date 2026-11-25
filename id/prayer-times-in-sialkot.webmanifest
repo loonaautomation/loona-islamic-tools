@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Sialkot",
   "short_name": "Waktu Salat di Sialkot",
   "description": "Waktu salat hari ini di Sialkot, Pakistan: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Sialkot.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-sialkot.html",
+  "id": "/id/prayer-times-in-sialkot.html",
   "start_url": "./prayer-times-in-sialkot.html",
   "scope": "./prayer-times-in-sialkot.html",
   "display": "standalone",

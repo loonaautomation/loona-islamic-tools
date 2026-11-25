@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Qā’em Shahr",
   "short_name": "זמני תפילה בעיר Qā’em Shahr",
   "description": "זמני התפילה של היום בעיר Qā’em Shahr, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Qā’em Shahr.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-qa-em-shahr.html",
+  "id": "/he/prayer-times-in-qa-em-shahr.html",
   "start_url": "./prayer-times-in-qa-em-shahr.html",
   "scope": "./prayer-times-in-qa-em-shahr.html",
   "display": "standalone",

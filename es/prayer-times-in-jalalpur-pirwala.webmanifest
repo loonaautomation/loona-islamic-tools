@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Jalalpur Pirwala",
   "short_name": "Horarios de oración en Jalalpur Pirwala",
   "description": "Horarios de oración de hoy en Jalalpur Pirwala, Pakistán: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Jalalpur Pirwala.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-jalalpur-pirwala.html",
+  "id": "/es/prayer-times-in-jalalpur-pirwala.html",
   "start_url": "./prayer-times-in-jalalpur-pirwala.html",
   "scope": "./prayer-times-in-jalalpur-pirwala.html",
   "display": "standalone",

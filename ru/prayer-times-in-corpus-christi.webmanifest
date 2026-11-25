@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Corpus Christi",
   "short_name": "Время намаза в городе Corpus Christi",
   "description": "Время намаза на сегодня: Corpus Christi, США: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод ISNA, расчёт в реальном времени на вашем устройстве для города Corpus Christi.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-corpus-christi.html",
+  "id": "/ru/prayer-times-in-corpus-christi.html",
   "start_url": "./prayer-times-in-corpus-christi.html",
   "scope": "./prayer-times-in-corpus-christi.html",
   "display": "standalone",

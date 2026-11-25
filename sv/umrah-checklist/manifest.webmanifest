@@ -2,7 +2,7 @@
   "name": "Loona Checklista för umrah",
   "short_name": "Checklista för umrah",
   "description": "En interaktiv umrah-lista: dokument, bokningar, packning, hälsa och ibadah-förberedelser, med framstegsfält, utskriftsalternativ och framsteg som sparas på din enhet.",
-  "id": "/loona-islamic-tools/sv/umrah-checklist/",
+  "id": "/sv/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

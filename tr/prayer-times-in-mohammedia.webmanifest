@@ -2,7 +2,7 @@
   "name": "Loona Mohammedia Namaz Vakitleri",
   "short_name": "Mohammedia Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Mohammedia, Fas: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Mohammedia için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-mohammedia.html",
+  "id": "/tr/prayer-times-in-mohammedia.html",
   "start_url": "./prayer-times-in-mohammedia.html",
   "scope": "./prayer-times-in-mohammedia.html",
   "display": "standalone",

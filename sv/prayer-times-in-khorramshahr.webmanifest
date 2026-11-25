@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Khorramshahr",
   "short_name": "Bönetider i Khorramshahr",
   "description": "Dagens bönetider i Khorramshahr, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Khorramshahr.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-khorramshahr.html",
+  "id": "/sv/prayer-times-in-khorramshahr.html",
   "start_url": "./prayer-times-in-khorramshahr.html",
   "scope": "./prayer-times-in-khorramshahr.html",
   "display": "standalone",

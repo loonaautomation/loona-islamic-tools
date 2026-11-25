@@ -2,7 +2,7 @@
   "name": "Loona Thiès imaidői",
   "short_name": "Thiès imaidői",
   "description": "A mai imaidők: Thiès, Szenegál: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Thiès számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-thies.html",
+  "id": "/hu/prayer-times-in-thies.html",
   "start_url": "./prayer-times-in-thies.html",
   "scope": "./prayer-times-in-thies.html",
   "display": "standalone",

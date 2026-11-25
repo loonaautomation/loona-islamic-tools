@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Palma",
   "short_name": "Час намазу в Palma",
   "description": "Сьогоднішній час намазу в Palma, Іспанія: Фаджр, схід сонця, Зугр, Аср (шафіїтський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Мусульманської світової ліги, розраховано наживо на вашому пристрої для Palma.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-palma.html",
+  "id": "/uk/prayer-times-in-palma.html",
   "start_url": "./prayer-times-in-palma.html",
   "scope": "./prayer-times-in-palma.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vellore Namaz Vakitleri",
   "short_name": "Vellore Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Vellore, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Vellore için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-vellore.html",
+  "id": "/tr/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

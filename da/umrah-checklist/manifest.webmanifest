@@ -2,7 +2,7 @@
   "name": "Loona Umrah-tjekliste",
   "short_name": "Umrah-tjekliste",
   "description": "En interaktiv Umrah-tjekliste: dokumenter, bookinger, pakning, sundhed og forberedelse af ibadah med statuslinje, udskriftsmulighed og status gemt på din enhed.",
-  "id": "/loona-islamic-tools/da/umrah-checklist/",
+  "id": "/da/umrah-checklist/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

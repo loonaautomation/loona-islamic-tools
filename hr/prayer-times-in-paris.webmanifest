@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Paris",
   "short_name": "Vremena namaza u gradu Paris",
   "description": "Današnja vremena namaza u gradu Paris, Francuska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Paris.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-paris.html",
+  "id": "/hr/prayer-times-in-paris.html",
   "start_url": "./prayer-times-in-paris.html",
   "scope": "./prayer-times-in-paris.html",
   "display": "standalone",

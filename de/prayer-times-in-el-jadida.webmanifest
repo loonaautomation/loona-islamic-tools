@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in El Jadida",
   "short_name": "Gebetszeiten in El Jadida",
   "description": "Die heutigen Gebetszeiten in El Jadida, Marokko: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für El Jadida.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-el-jadida.html",
+  "id": "/de/prayer-times-in-el-jadida.html",
   "start_url": "./prayer-times-in-el-jadida.html",
   "scope": "./prayer-times-in-el-jadida.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Dua-bibliotheek",
   "short_name": "Dua-bibliotheek",
   "description": "Een bibliotheek met authentieke dua's voor elk moment — ochtend, eten, reizen, thuis, angst, vergeving — elk met Arabisch, transliteratie, vertaling en bron.",
-  "id": "/loona-islamic-tools/nl/duas-library/",
+  "id": "/nl/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

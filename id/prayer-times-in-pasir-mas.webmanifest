@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Pasir Mas",
   "short_name": "Waktu Salat di Pasir Mas",
   "description": "Waktu salat hari ini di Pasir Mas, Malaysia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Pasir Mas.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-pasir-mas.html",
+  "id": "/id/prayer-times-in-pasir-mas.html",
   "start_url": "./prayer-times-in-pasir-mas.html",
   "scope": "./prayer-times-in-pasir-mas.html",
   "display": "standalone",

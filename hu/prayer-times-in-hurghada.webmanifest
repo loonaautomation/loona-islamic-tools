@@ -2,7 +2,7 @@
   "name": "Loona Hurghada imaidői",
   "short_name": "Hurghada imaidői",
   "description": "A mai imaidők: Hurghada, Egyiptom: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Egyiptomi Általános Hatóság módszer, élőben számítva az Ön eszközén Hurghada számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-hurghada.html",
+  "id": "/hu/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

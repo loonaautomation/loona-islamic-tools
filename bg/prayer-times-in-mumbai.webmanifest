@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Mumbai",
   "short_name": "Часове за намаз в Mumbai",
   "description": "Днешните часове за намаз в Mumbai, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Mumbai.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-mumbai.html",
+  "id": "/bg/prayer-times-in-mumbai.html",
   "start_url": "./prayer-times-in-mumbai.html",
   "scope": "./prayer-times-in-mumbai.html",
   "display": "standalone",

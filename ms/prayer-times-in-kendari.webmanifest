@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Kendari",
   "short_name": "Waktu Solat di Kendari",
   "description": "Waktu solat hari ini di Kendari, Indonesia: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Kendari.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-kendari.html",
+  "id": "/ms/prayer-times-in-kendari.html",
   "start_url": "./prayer-times-in-kendari.html",
   "scope": "./prayer-times-in-kendari.html",
   "display": "standalone",

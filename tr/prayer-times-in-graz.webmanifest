@@ -2,7 +2,7 @@
   "name": "Loona Graz Namaz Vakitleri",
   "short_name": "Graz Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Graz, Avusturya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Graz için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-graz.html",
+  "id": "/tr/prayer-times-in-graz.html",
   "start_url": "./prayer-times-in-graz.html",
   "scope": "./prayer-times-in-graz.html",
   "display": "standalone",

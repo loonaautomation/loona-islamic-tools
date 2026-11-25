@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Nzérékoré",
   "short_name": "Gebedstijden in Nzérékoré",
   "description": "De gebedstijden van vandaag in Nzérékoré, Guinee: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Nzérékoré.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-nzerekore.html",
+  "id": "/nl/prayer-times-in-nzerekore.html",
   "start_url": "./prayer-times-in-nzerekore.html",
   "scope": "./prayer-times-in-nzerekore.html",
   "display": "standalone",

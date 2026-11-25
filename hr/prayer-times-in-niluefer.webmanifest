@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Nilüfer",
   "short_name": "Vremena namaza u gradu Nilüfer",
   "description": "Današnja vremena namaza u gradu Nilüfer, Turska: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Nilüfer.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-niluefer.html",
+  "id": "/hr/prayer-times-in-niluefer.html",
   "start_url": "./prayer-times-in-niluefer.html",
   "scope": "./prayer-times-in-niluefer.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Leipzig",
   "short_name": "Waktu Salat di Leipzig",
   "description": "Waktu salat hari ini di Leipzig, Jerman: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Leipzig.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-leipzig.html",
+  "id": "/id/prayer-times-in-leipzig.html",
   "start_url": "./prayer-times-in-leipzig.html",
   "scope": "./prayer-times-in-leipzig.html",
   "display": "standalone",

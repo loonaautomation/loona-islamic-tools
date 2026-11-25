@@ -2,7 +2,7 @@
   "name": "Loona Data islamica di oggi",
   "short_name": "Data islamica di oggi",
   "description": "Qual è la data islamica di oggi? Vedi la data dell'egira di oggi — giorno, mese e anno (Umm al-Qura) — con la data gregoriana, aggiornata live sul tuo dispositivo. Gratuito.",
-  "id": "/loona-islamic-tools/it/islamic-date-today/",
+  "id": "/it/islamic-date-today/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

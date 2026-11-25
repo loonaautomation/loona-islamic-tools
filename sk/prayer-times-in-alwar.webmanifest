@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Alwar",
   "short_name": "Časy modlitieb v Alwar",
   "description": "Dnešné časy modlitieb v Alwar, India: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Alwar.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-alwar.html",
+  "id": "/sk/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

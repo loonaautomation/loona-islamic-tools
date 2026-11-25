@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Rustenburg",
   "short_name": "Waktu Salat di Rustenburg",
   "description": "Waktu salat hari ini di Rustenburg, Afrika Selatan: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Rustenburg.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-rustenburg.html",
+  "id": "/id/prayer-times-in-rustenburg.html",
   "start_url": "./prayer-times-in-rustenburg.html",
   "scope": "./prayer-times-in-rustenburg.html",
   "display": "standalone",

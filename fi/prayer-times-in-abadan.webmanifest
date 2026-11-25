@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Abadan",
   "short_name": "Rukousajat: Abadan",
   "description": "Tämän päivän rukousajat paikassa Abadan, Iran: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Abadan.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-abadan.html",
+  "id": "/fi/prayer-times-in-abadan.html",
   "start_url": "./prayer-times-in-abadan.html",
   "scope": "./prayer-times-in-abadan.html",
   "display": "standalone",

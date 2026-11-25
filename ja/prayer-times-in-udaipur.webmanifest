@@ -2,7 +2,7 @@
   "name": "Loona Udaipur の礼拝時刻",
   "short_name": "Udaipur の礼拝時刻",
   "description": "Udaipur（インド）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Karachi 方式で、あなたのデバイス上で Udaipur についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-udaipur.html",
+  "id": "/ja/prayer-times-in-udaipur.html",
   "start_url": "./prayer-times-in-udaipur.html",
   "scope": "./prayer-times-in-udaipur.html",
   "display": "standalone",

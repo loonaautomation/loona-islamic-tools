@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Canberra Today",
   "short_name": "Prayer Times in Canberra Today",
   "description": "Today's prayer times in Canberra, Australia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Canberra.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-canberra.html",
+  "id": "/en-gb/prayer-times-in-canberra.html",
   "start_url": "./prayer-times-in-canberra.html",
   "scope": "./prayer-times-in-canberra.html",
   "display": "standalone",

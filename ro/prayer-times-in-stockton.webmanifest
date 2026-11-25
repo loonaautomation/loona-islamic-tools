@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Stockton",
   "short_name": "Ore de rugăciune în Stockton",
   "description": "Orele de rugăciune de azi în Stockton, Statele Unite: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda ISNA, calculate live pe dispozitivul dvs. pentru Stockton.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-stockton.html",
+  "id": "/ro/prayer-times-in-stockton.html",
   "start_url": "./prayer-times-in-stockton.html",
   "scope": "./prayer-times-in-stockton.html",
   "display": "standalone",

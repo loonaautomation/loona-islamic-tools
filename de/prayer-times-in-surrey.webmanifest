@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Surrey",
   "short_name": "Gebetszeiten in Surrey",
   "description": "Die heutigen Gebetszeiten in Surrey, Kanada: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Surrey.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-surrey.html",
+  "id": "/de/prayer-times-in-surrey.html",
   "start_url": "./prayer-times-in-surrey.html",
   "scope": "./prayer-times-in-surrey.html",
   "display": "standalone",

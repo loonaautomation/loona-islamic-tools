@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Mysuru",
   "short_name": "Час намазу в Mysuru",
   "description": "Сьогоднішній час намазу в Mysuru, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Mysuru.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-mysuru.html",
+  "id": "/uk/prayer-times-in-mysuru.html",
   "start_url": "./prayer-times-in-mysuru.html",
   "scope": "./prayer-times-in-mysuru.html",
   "display": "standalone",

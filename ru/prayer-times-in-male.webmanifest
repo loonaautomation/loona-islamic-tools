@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Male",
   "short_name": "Время намаза в городе Male",
   "description": "Время намаза на сегодня: Male, Мальдивы: Фаджр, Восход, Зухр, Аср (шафиитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Male.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-male.html",
+  "id": "/ru/prayer-times-in-male.html",
   "start_url": "./prayer-times-in-male.html",
   "scope": "./prayer-times-in-male.html",
   "display": "standalone",

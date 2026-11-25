@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Guntur",
   "short_name": "Часове за намаз в Guntur",
   "description": "Днешните часове за намаз в Guntur, Индия: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Guntur.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-guntur.html",
+  "id": "/bg/prayer-times-in-guntur.html",
   "start_url": "./prayer-times-in-guntur.html",
   "scope": "./prayer-times-in-guntur.html",
   "display": "standalone",

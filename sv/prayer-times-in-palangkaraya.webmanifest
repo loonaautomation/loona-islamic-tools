@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Palangkaraya",
   "short_name": "Bönetider i Palangkaraya",
   "description": "Dagens bönetider i Palangkaraya, Indonesien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Palangkaraya.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-palangkaraya.html",
+  "id": "/sv/prayer-times-in-palangkaraya.html",
   "start_url": "./prayer-times-in-palangkaraya.html",
   "scope": "./prayer-times-in-palangkaraya.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Kabul",
   "short_name": "Часове за намаз в Kabul",
   "description": "Днешните часове за намаз в Kabul, Афганистан: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислени на живо на вашето устройство за Kabul.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-kabul.html",
+  "id": "/bg/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

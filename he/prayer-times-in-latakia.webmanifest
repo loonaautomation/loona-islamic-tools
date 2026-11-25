@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Latakia",
   "short_name": "זמני תפילה בעיר Latakia",
   "description": "זמני התפילה של היום בעיר Latakia, סוריה: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Latakia.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-latakia.html",
+  "id": "/he/prayer-times-in-latakia.html",
   "start_url": "./prayer-times-in-latakia.html",
   "scope": "./prayer-times-in-latakia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Rukousajat: Zinder",
   "short_name": "Rukousajat: Zinder",
   "description": "Tämän päivän rukousajat paikassa Zinder, Niger: Fajr, Auringonnousu, Dhuhr, Asr (Shafi), Maghrib ja Isha, sekä Qibla-suunta ja tämän päivän hijri-päivämäärä. Muslim World League -menetelmä, laskettuna reaaliajassa laitteellasi paikalle Zinder.",
-  "id": "/loona-islamic-tools/fi/prayer-times-in-zinder.html",
+  "id": "/fi/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

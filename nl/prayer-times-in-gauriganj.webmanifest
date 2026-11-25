@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Gauriganj",
   "short_name": "Gebedstijden in Gauriganj",
   "description": "De gebedstijden van vandaag in Gauriganj, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Gauriganj.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-gauriganj.html",
+  "id": "/nl/prayer-times-in-gauriganj.html",
   "start_url": "./prayer-times-in-gauriganj.html",
   "scope": "./prayer-times-in-gauriganj.html",
   "display": "standalone",

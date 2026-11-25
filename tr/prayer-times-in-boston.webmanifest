@@ -2,7 +2,7 @@
   "name": "Loona Boston Namaz Vakitleri",
   "short_name": "Boston Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Boston, Amerika Birleşik Devletleri: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. ISNA yöntemi, Boston için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-boston.html",
+  "id": "/tr/prayer-times-in-boston.html",
   "start_url": "./prayer-times-in-boston.html",
   "scope": "./prayer-times-in-boston.html",
   "display": "standalone",

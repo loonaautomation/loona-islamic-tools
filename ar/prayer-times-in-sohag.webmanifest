@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Sohag",
   "short_name": "مواقيت الصلاة في Sohag",
   "description": "مواقيت الصلاة اليوم في Sohag، مصر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة الهيئة المصرية العامة، تُحسب مباشرة على جهازك لـSohag.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-sohag.html",
+  "id": "/ar/prayer-times-in-sohag.html",
   "start_url": "./prayer-times-in-sohag.html",
   "scope": "./prayer-times-in-sohag.html",
   "display": "standalone",

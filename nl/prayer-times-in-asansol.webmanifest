@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Āsansol",
   "short_name": "Gebedstijden in Āsansol",
   "description": "De gebedstijden van vandaag in Āsansol, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Āsansol.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-asansol.html",
+  "id": "/nl/prayer-times-in-asansol.html",
   "start_url": "./prayer-times-in-asansol.html",
   "scope": "./prayer-times-in-asansol.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Elazığ",
   "short_name": "Bönetider i Elazığ",
   "description": "Dagens bönetider i Elazığ, Turkiet: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Elazığ.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-elazig.html",
+  "id": "/sv/prayer-times-in-elazig.html",
   "start_url": "./prayer-times-in-elazig.html",
   "scope": "./prayer-times-in-elazig.html",
   "display": "standalone",

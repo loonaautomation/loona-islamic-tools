@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Salé",
   "short_name": "Ore de rugăciune în Salé",
   "description": "Orele de rugăciune de azi în Salé, Maroc: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Ligii Mondiale Musulmane, calculate live pe dispozitivul dvs. pentru Salé.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-sale.html",
+  "id": "/ro/prayer-times-in-sale.html",
   "start_url": "./prayer-times-in-sale.html",
   "scope": "./prayer-times-in-sale.html",
   "display": "standalone",

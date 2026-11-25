@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Banjarmasin",
   "short_name": "Gebedstijden in Banjarmasin",
   "description": "De gebedstijden van vandaag in Banjarmasin, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Banjarmasin.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-banjarmasin.html",
+  "id": "/nl/prayer-times-in-banjarmasin.html",
   "start_url": "./prayer-times-in-banjarmasin.html",
   "scope": "./prayer-times-in-banjarmasin.html",
   "display": "standalone",

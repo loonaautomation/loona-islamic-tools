@@ -2,7 +2,7 @@
   "name": "Loona Yanbu Namaz Vakitleri",
   "short_name": "Yanbu Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Yanbu, Suudi Arabistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Umm al-Qura yöntemi, Yanbu için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-yanbu.html",
+  "id": "/tr/prayer-times-in-yanbu.html",
   "start_url": "./prayer-times-in-yanbu.html",
   "scope": "./prayer-times-in-yanbu.html",
   "display": "standalone",

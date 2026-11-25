@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Khamis Mushait",
   "short_name": "Gebedstijden in Khamis Mushait",
   "description": "De gebedstijden van vandaag in Khamis Mushait, Saoedi-Arabië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Umm al-Qura, live berekend op je apparaat voor Khamis Mushait.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-khamis-mushait.html",
+  "id": "/nl/prayer-times-in-khamis-mushait.html",
   "start_url": "./prayer-times-in-khamis-mushait.html",
   "scope": "./prayer-times-in-khamis-mushait.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ώρες Προσευχής στο Nanded",
   "short_name": "Ώρες Προσευχής στο Nanded",
   "description": "Οι σημερινές ώρες προσευχής στο Nanded, Ινδία: Φατζρ, Ανατολή, Ντουχρ, Ασρ (Hanafi), Μαγκρίμπ και Ισά, συν την κατεύθυνση της Κίμπλα και τη σημερινή ημερομηνία Χίτζρι. Μέθοδος Karachi, υπολογίζονται ζωντανά στη συσκευή σας για το Nanded.",
-  "id": "/loona-islamic-tools/el/prayer-times-in-nanded.html",
+  "id": "/el/prayer-times-in-nanded.html",
   "start_url": "./prayer-times-in-nanded.html",
   "scope": "./prayer-times-in-nanded.html",
   "display": "standalone",

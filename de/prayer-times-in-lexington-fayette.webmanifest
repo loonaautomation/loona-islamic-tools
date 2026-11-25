@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Lexington-Fayette",
   "short_name": "Gebetszeiten in Lexington-Fayette",
   "description": "Die heutigen Gebetszeiten in Lexington-Fayette, Vereinigte Staaten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. ISNA-Methode, live auf Ihrem Gerät berechnet für Lexington-Fayette.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-lexington-fayette.html",
+  "id": "/de/prayer-times-in-lexington-fayette.html",
   "start_url": "./prayer-times-in-lexington-fayette.html",
   "scope": "./prayer-times-in-lexington-fayette.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Suez",
   "short_name": "Ore de rugăciune în Suez",
   "description": "Orele de rugăciune de azi în Suez, Egipt: Fajr, Răsărit, Dhuhr, Asr (Shafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Autorității Generale Egiptene, calculate live pe dispozitivul dvs. pentru Suez.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-suez.html",
+  "id": "/ro/prayer-times-in-suez.html",
   "start_url": "./prayer-times-in-suez.html",
   "scope": "./prayer-times-in-suez.html",
   "display": "standalone",

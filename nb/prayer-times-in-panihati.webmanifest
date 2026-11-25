@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Pānihāti",
   "short_name": "Bønnetider i Pānihāti",
   "description": "Dagens bønnetider i Pānihāti, India: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Pānihāti.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-panihati.html",
+  "id": "/nb/prayer-times-in-panihati.html",
   "start_url": "./prayer-times-in-panihati.html",
   "scope": "./prayer-times-in-panihati.html",
   "display": "standalone",

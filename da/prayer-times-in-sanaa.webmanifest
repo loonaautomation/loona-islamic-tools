@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Sanaa",
   "short_name": "Bønnetider i Sanaa",
   "description": "Dagens bønnetider i Sanaa, Yemen: Fajr, Solopgang, Dhuhr, Asr (Shafi), Maghrib og Isha, plus Qibla-retningen og dagens Hijri-dato. Muslim World League-metoden, beregnet live på din enhed for Sanaa.",
-  "id": "/loona-islamic-tools/da/prayer-times-in-sanaa.html",
+  "id": "/da/prayer-times-in-sanaa.html",
   "start_url": "./prayer-times-in-sanaa.html",
   "scope": "./prayer-times-in-sanaa.html",
   "display": "standalone",

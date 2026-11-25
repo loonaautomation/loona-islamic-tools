@@ -2,7 +2,7 @@
   "name": "Loona Tétouan imaidői",
   "short_name": "Tétouan imaidői",
   "description": "A mai imaidők: Tétouan, Marokkó: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Tétouan számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-tetouan.html",
+  "id": "/hu/prayer-times-in-tetouan.html",
   "start_url": "./prayer-times-in-tetouan.html",
   "scope": "./prayer-times-in-tetouan.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Misratah",
   "short_name": "مواقيت الصلاة في Misratah",
   "description": "مواقيت الصلاة اليوم في Misratah، ليبيا: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـMisratah.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-misratah.html",
+  "id": "/ar/prayer-times-in-misratah.html",
   "start_url": "./prayer-times-in-misratah.html",
   "scope": "./prayer-times-in-misratah.html",
   "display": "standalone",

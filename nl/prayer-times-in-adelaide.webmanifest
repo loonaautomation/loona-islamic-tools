@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Adelaide",
   "short_name": "Gebedstijden in Adelaide",
   "description": "De gebedstijden van vandaag in Adelaide, Australië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Adelaide.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-adelaide.html",
+  "id": "/nl/prayer-times-in-adelaide.html",
   "start_url": "./prayer-times-in-adelaide.html",
   "scope": "./prayer-times-in-adelaide.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Amsterdam",
   "short_name": "זמני תפילה בעיר Amsterdam",
   "description": "זמני התפילה של היום בעיר Amsterdam, הולנד: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Amsterdam.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-amsterdam.html",
+  "id": "/he/prayer-times-in-amsterdam.html",
   "start_url": "./prayer-times-in-amsterdam.html",
   "scope": "./prayer-times-in-amsterdam.html",
   "display": "standalone",

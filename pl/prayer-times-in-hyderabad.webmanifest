@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Hyderabad",
   "short_name": "Czasy modlitw w miejscowości Hyderabad",
   "description": "Dzisiejsze czasy modlitw w miejscowości Hyderabad, kraj Pakistan: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Hyderabad.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-hyderabad.html",
+  "id": "/pl/prayer-times-in-hyderabad.html",
   "start_url": "./prayer-times-in-hyderabad.html",
   "scope": "./prayer-times-in-hyderabad.html",
   "display": "standalone",

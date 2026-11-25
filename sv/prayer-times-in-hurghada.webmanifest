@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Hurghada",
   "short_name": "Bönetider i Hurghada",
   "description": "Dagens bönetider i Hurghada, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Hurghada.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-hurghada.html",
+  "id": "/sv/prayer-times-in-hurghada.html",
   "start_url": "./prayer-times-in-hurghada.html",
   "scope": "./prayer-times-in-hurghada.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Lucknow",
   "short_name": "Bönetider i Lucknow",
   "description": "Dagens bönetider i Lucknow, Indien: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Karachi-metoden, beräknad live på din enhet för Lucknow.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-lucknow.html",
+  "id": "/sv/prayer-times-in-lucknow.html",
   "start_url": "./prayer-times-in-lucknow.html",
   "scope": "./prayer-times-in-lucknow.html",
   "display": "standalone",

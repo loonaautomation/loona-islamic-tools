@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Kassala",
   "short_name": "Orari di preghiera a Kassala",
   "description": "Orari di preghiera di oggi a Kassala, Sudan: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Kassala.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-kassala.html",
+  "id": "/it/prayer-times-in-kassala.html",
   "start_url": "./prayer-times-in-kassala.html",
   "scope": "./prayer-times-in-kassala.html",
   "display": "standalone",

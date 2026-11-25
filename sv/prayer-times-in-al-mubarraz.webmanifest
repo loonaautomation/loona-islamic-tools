@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Al Mubarraz",
   "short_name": "Bönetider i Al Mubarraz",
   "description": "Dagens bönetider i Al Mubarraz, Saudiarabien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Umm al-Qura-metoden, beräknad live på din enhet för Al Mubarraz.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-al-mubarraz.html",
+  "id": "/sv/prayer-times-in-al-mubarraz.html",
   "start_url": "./prayer-times-in-al-mubarraz.html",
   "scope": "./prayer-times-in-al-mubarraz.html",
   "display": "standalone",

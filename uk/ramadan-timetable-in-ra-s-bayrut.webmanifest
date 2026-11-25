@@ -2,7 +2,7 @@
   "name": "Loona Розклад Рамадану в Ra’s Bayrūt 2027 (1448)",
   "short_name": "Розклад Рамадану в Ra’s Bayrūt 2027 (1448)",
   "description": "Розклад Рамадану 2027 для Ra’s Bayrūt, Ліван: час закінчення сухуру (Фаджр) та іфтару (Магріб) на кожен день Рамадану 1448. Очікується з 8 лютого до 8 березня 2027, залежно від спостереження місяця.",
-  "id": "/loona-islamic-tools/uk/ramadan-timetable-in-ra-s-bayrut.html",
+  "id": "/uk/ramadan-timetable-in-ra-s-bayrut.html",
   "start_url": "./ramadan-timetable-in-ra-s-bayrut.html",
   "scope": "./ramadan-timetable-in-ra-s-bayrut.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Camayenne",
   "short_name": "Vremena namaza u gradu Camayenne",
   "description": "Današnja vremena namaza u gradu Camayenne, Gvineja: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Camayenne.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-camayenne.html",
+  "id": "/hr/prayer-times-in-camayenne.html",
   "start_url": "./prayer-times-in-camayenne.html",
   "scope": "./prayer-times-in-camayenne.html",
   "display": "standalone",

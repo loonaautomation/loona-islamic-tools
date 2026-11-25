@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Jalandhar",
   "short_name": "זמני תפילה בעיר Jalandhar",
   "description": "זמני התפילה של היום בעיר Jalandhar, הודו: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת Karachi, מחושב בשידור חי במכשיר שלך עבור Jalandhar.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-jalandhar.html",
+  "id": "/he/prayer-times-in-jalandhar.html",
   "start_url": "./prayer-times-in-jalandhar.html",
   "scope": "./prayer-times-in-jalandhar.html",
   "display": "standalone",

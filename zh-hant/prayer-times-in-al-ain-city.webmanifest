@@ -2,7 +2,7 @@
   "name": "Loona Al Ain City的禮拜時間",
   "short_name": "Al Ain City的禮拜時間",
   "description": "Al Ain City（阿拉伯聯合大公國）今天的禮拜時間：Fajr、日出、Dhuhr、Asr（Shafi）、Maghrib和Isha，外加朝向方向和今天的伊斯蘭曆日期。Umm al-Qura方法，在您的裝置上為Al Ain City實時計算。",
-  "id": "/loona-islamic-tools/zh-hant/prayer-times-in-al-ain-city.html",
+  "id": "/zh-hant/prayer-times-in-al-ain-city.html",
   "start_url": "./prayer-times-in-al-ain-city.html",
   "scope": "./prayer-times-in-al-ain-city.html",
   "display": "standalone",

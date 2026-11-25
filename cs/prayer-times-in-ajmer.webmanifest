@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ajmer",
   "short_name": "Časy modliteb v Ajmer",
   "description": "Dnešní časy modliteb v Ajmer, Indie: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Karachi, počítáno živě ve vašem zařízení pro Ajmer.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-ajmer.html",
+  "id": "/cs/prayer-times-in-ajmer.html",
   "start_url": "./prayer-times-in-ajmer.html",
   "scope": "./prayer-times-in-ajmer.html",
   "display": "standalone",

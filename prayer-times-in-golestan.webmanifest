@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Golestān",
   "short_name": "Prayer Times in Golestān",
   "description": "Today's prayer times in Golestān, Iran: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Golestān.",
-  "id": "/loona-islamic-tools/prayer-times-in-golestan.html",
+  "id": "/prayer-times-in-golestan.html",
   "start_url": "./prayer-times-in-golestan.html",
   "scope": "./prayer-times-in-golestan.html",
   "display": "standalone",

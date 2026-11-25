@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Duisburg",
   "short_name": "Orari di preghiera a Duisburg",
   "description": "Orari di preghiera di oggi a Duisburg, Germania: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Muslim World League, calcolati live sul tuo dispositivo per Duisburg.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-duisburg.html",
+  "id": "/it/prayer-times-in-duisburg.html",
   "start_url": "./prayer-times-in-duisburg.html",
   "scope": "./prayer-times-in-duisburg.html",
   "display": "standalone",

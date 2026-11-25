@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Banī Suwayf",
   "short_name": "Bönetider i Banī Suwayf",
   "description": "Dagens bönetider i Banī Suwayf, Egypten: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Egyptian General Authority-metoden, beräknad live på din enhet för Banī Suwayf.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-bani-suwayf.html",
+  "id": "/sv/prayer-times-in-bani-suwayf.html",
   "start_url": "./prayer-times-in-bani-suwayf.html",
   "scope": "./prayer-times-in-bani-suwayf.html",
   "display": "standalone",

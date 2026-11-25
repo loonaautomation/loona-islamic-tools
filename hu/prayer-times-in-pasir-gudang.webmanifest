@@ -2,7 +2,7 @@
   "name": "Loona Pasir Gudang imaidői",
   "short_name": "Pasir Gudang imaidői",
   "description": "A mai imaidők: Pasir Gudang, Malajzia: Fajr, napkelte, Dhuhr, Asr (sáfi), Maghrib és Isha, valamint a Kibla irány és a mai hidzsri dátum. Muszlim Világliga módszer, élőben számítva az Ön eszközén Pasir Gudang számára.",
-  "id": "/loona-islamic-tools/hu/prayer-times-in-pasir-gudang.html",
+  "id": "/hu/prayer-times-in-pasir-gudang.html",
   "start_url": "./prayer-times-in-pasir-gudang.html",
   "scope": "./prayer-times-in-pasir-gudang.html",
   "display": "standalone",

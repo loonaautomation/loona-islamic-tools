@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Erzurum",
   "short_name": "זמני תפילה בעיר Erzurum",
   "description": "זמני התפילה של היום בעיר Erzurum, טורקיה: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Erzurum.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-erzurum.html",
+  "id": "/he/prayer-times-in-erzurum.html",
   "start_url": "./prayer-times-in-erzurum.html",
   "scope": "./prayer-times-in-erzurum.html",
   "display": "standalone",

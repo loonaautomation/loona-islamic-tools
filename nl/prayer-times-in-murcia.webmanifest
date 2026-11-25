@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Murcia",
   "short_name": "Gebedstijden in Murcia",
   "description": "De gebedstijden van vandaag in Murcia, Spanje: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Murcia.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-murcia.html",
+  "id": "/nl/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

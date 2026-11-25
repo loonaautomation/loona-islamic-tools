@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Isfara",
   "short_name": "Časy modliteb v Isfara",
   "description": "Dnešní časy modliteb v Isfara, Tádžikistán: Fadžr, východ slunce, Dhuhr, Asr (hanafijský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Isfara.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-isfara.html",
+  "id": "/cs/prayer-times-in-isfara.html",
   "start_url": "./prayer-times-in-isfara.html",
   "scope": "./prayer-times-in-isfara.html",
   "display": "standalone",

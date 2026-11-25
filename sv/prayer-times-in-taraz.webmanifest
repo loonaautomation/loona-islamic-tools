@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Taraz",
   "short_name": "Bönetider i Taraz",
   "description": "Dagens bönetider i Taraz, Kazakstan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Taraz.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-taraz.html",
+  "id": "/sv/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

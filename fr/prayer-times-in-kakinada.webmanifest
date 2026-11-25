@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kākināda",
   "short_name": "Heures de prière à Kākināda",
   "description": "Les heures de prière d’aujourd’hui à Kākināda, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Kākināda.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kakinada.html",
+  "id": "/fr/prayer-times-in-kakinada.html",
   "start_url": "./prayer-times-in-kakinada.html",
   "scope": "./prayer-times-in-kakinada.html",
   "display": "standalone",

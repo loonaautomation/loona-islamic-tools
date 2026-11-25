@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Salé Al Jadida Today",
   "short_name": "Prayer Times in Salé Al Jadida Today",
   "description": "Today's prayer times in Salé Al Jadida, Morocco: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Salé Al Jadida.",
-  "id": "/loona-islamic-tools/en-gb/prayer-times-in-sale-al-jadida.html",
+  "id": "/en-gb/prayer-times-in-sale-al-jadida.html",
   "start_url": "./prayer-times-in-sale-al-jadida.html",
   "scope": "./prayer-times-in-sale-al-jadida.html",
   "display": "standalone",

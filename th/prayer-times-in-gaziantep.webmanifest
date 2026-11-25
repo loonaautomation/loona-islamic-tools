@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Gaziantep",
   "short_name": "เวลาละหมาดใน Gaziantep",
   "description": "เวลาละหมาดวันนี้ใน Gaziantep, Turkey: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Gaziantep",
-  "id": "/loona-islamic-tools/th/prayer-times-in-gaziantep.html",
+  "id": "/th/prayer-times-in-gaziantep.html",
   "start_url": "./prayer-times-in-gaziantep.html",
   "scope": "./prayer-times-in-gaziantep.html",
   "display": "standalone",

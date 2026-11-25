@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Al Fayyum",
   "short_name": "זמני תפילה בעיר Al Fayyum",
   "description": "זמני התפילה של היום בעיר Al Fayyum, מצרים: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הרשות הכללית המצרית, מחושב בשידור חי במכשיר שלך עבור Al Fayyum.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-al-fayyum.html",
+  "id": "/he/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

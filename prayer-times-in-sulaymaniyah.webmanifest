@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Sulaymaniyah",
   "short_name": "Prayer Times in Sulaymaniyah",
   "description": "Today's prayer times in Sulaymaniyah, Iraq: Fajr, Sunrise, Dhuhr, Asr (Hanafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Sulaymaniyah.",
-  "id": "/loona-islamic-tools/prayer-times-in-sulaymaniyah.html",
+  "id": "/prayer-times-in-sulaymaniyah.html",
   "start_url": "./prayer-times-in-sulaymaniyah.html",
   "scope": "./prayer-times-in-sulaymaniyah.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Qarshi",
   "short_name": "Bönetider i Qarshi",
   "description": "Dagens bönetider i Qarshi, Uzbekistan: Fajr, soluppgång, Dhuhr, Asr (Hanafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Qarshi.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-qarshi.html",
+  "id": "/sv/prayer-times-in-qarshi.html",
   "start_url": "./prayer-times-in-qarshi.html",
   "scope": "./prayer-times-in-qarshi.html",
   "display": "standalone",

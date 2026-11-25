@@ -2,7 +2,7 @@
   "name": "Loona Banjar Namaz Vakitleri",
   "short_name": "Banjar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Banjar, Endonezya: İmsak, Güneş Doğuşu, Öğle, İkindi (Şafii), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. İslam Dünyası Birliği yöntemi, Banjar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-banjar.html",
+  "id": "/tr/prayer-times-in-banjar.html",
   "start_url": "./prayer-times-in-banjar.html",
   "scope": "./prayer-times-in-banjar.html",
   "display": "standalone",

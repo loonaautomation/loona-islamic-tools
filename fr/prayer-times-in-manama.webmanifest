@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Manama",
   "short_name": "Heures de prière à Manama",
   "description": "Les heures de prière d’aujourd’hui à Manama, Bahreïn : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Umm al-Qura, calculées en direct sur votre appareil pour Manama.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-manama.html",
+  "id": "/fr/prayer-times-in-manama.html",
   "start_url": "./prayer-times-in-manama.html",
   "scope": "./prayer-times-in-manama.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Tando Bago",
   "short_name": "Vremena namaza u gradu Tando Bago",
   "description": "Današnja vremena namaza u gradu Tando Bago, Pakistan: Fadžr, izlazak sunca, Dhuhr, Asr (hanefijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Karachi, izračunato uživo na vašem uređaju za grad Tando Bago.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-tando-bago.html",
+  "id": "/hr/prayer-times-in-tando-bago.html",
   "start_url": "./prayer-times-in-tando-bago.html",
   "scope": "./prayer-times-in-tando-bago.html",
   "display": "standalone",

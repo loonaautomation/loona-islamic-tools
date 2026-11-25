@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Bitung",
   "short_name": "Waktu Salat di Bitung",
   "description": "Waktu salat hari ini di Bitung, Indonesia: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Muslim World League, dihitung langsung di perangkat Anda untuk Bitung.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-bitung.html",
+  "id": "/id/prayer-times-in-bitung.html",
   "start_url": "./prayer-times-in-bitung.html",
   "scope": "./prayer-times-in-bitung.html",
   "display": "standalone",

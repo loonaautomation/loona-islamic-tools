@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Kabul",
   "short_name": "เวลาละหมาดใน Kabul",
   "description": "เวลาละหมาดวันนี้ใน Kabul, Afghanistan: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ฮานาฟี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Karachi คำนวณสดบนอุปกรณ์ของคุณสำหรับ Kabul",
-  "id": "/loona-islamic-tools/th/prayer-times-in-kabul.html",
+  "id": "/th/prayer-times-in-kabul.html",
   "start_url": "./prayer-times-in-kabul.html",
   "scope": "./prayer-times-in-kabul.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Shāhjānpur",
   "short_name": "Gebedstijden in Shāhjānpur",
   "description": "De gebedstijden van vandaag in Shāhjānpur, India: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Shāhjānpur.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-shahjanpur.html",
+  "id": "/nl/prayer-times-in-shahjanpur.html",
   "start_url": "./prayer-times-in-shahjanpur.html",
   "scope": "./prayer-times-in-shahjanpur.html",
   "display": "standalone",

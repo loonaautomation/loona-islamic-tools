@@ -2,7 +2,7 @@
   "name": "Loona Ore de rugăciune în Ambattur",
   "short_name": "Ore de rugăciune în Ambattur",
   "description": "Orele de rugăciune de azi în Ambattur, India: Fajr, Răsărit, Dhuhr, Asr (Hanafi), Maghrib și Isha, plus direcția Qibla și data Hijri de azi. Metoda Karachi, calculate live pe dispozitivul dvs. pentru Ambattur.",
-  "id": "/loona-islamic-tools/ro/prayer-times-in-ambattur.html",
+  "id": "/ro/prayer-times-in-ambattur.html",
   "start_url": "./prayer-times-in-ambattur.html",
   "scope": "./prayer-times-in-ambattur.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Zinder",
   "short_name": "مواقيت الصلاة في Zinder",
   "description": "مواقيت الصلاة اليوم في Zinder، النيجر: الفجر والشروق والظهر والعصر (شافعي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـZinder.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-zinder.html",
+  "id": "/ar/prayer-times-in-zinder.html",
   "start_url": "./prayer-times-in-zinder.html",
   "scope": "./prayer-times-in-zinder.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Dezful",
   "short_name": "Vremena namaza u gradu Dezful",
   "description": "Današnja vremena namaza u gradu Dezful, Iran: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Dezful.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-dezful.html",
+  "id": "/hr/prayer-times-in-dezful.html",
   "start_url": "./prayer-times-in-dezful.html",
   "scope": "./prayer-times-in-dezful.html",
   "display": "standalone",

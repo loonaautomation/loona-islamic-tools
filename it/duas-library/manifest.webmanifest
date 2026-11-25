@@ -2,7 +2,7 @@
   "name": "Loona Raccolta di dua",
   "short_name": "Raccolta di dua",
   "description": "Una raccolta di dua autentiche per ogni momento — mattina, cibo, viaggio, casa, ansia, perdono — ognuna con arabo, traslitterazione, traduzione e fonte.",
-  "id": "/loona-islamic-tools/it/duas-library/",
+  "id": "/it/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

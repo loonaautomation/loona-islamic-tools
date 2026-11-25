@@ -2,7 +2,7 @@
   "name": "Loona Vremena namaza u gradu Reading",
   "short_name": "Vremena namaza u gradu Reading",
   "description": "Današnja vremena namaza u gradu Reading, Ujedinjeno Kraljevstvo: Fadžr, izlazak sunca, Dhuhr, Asr (šafijski), Maghrib i Iša, plus smjer kible i današnji hidžretski datum. Metoda Muslim World League, izračunato uživo na vašem uređaju za grad Reading.",
-  "id": "/loona-islamic-tools/hr/prayer-times-in-reading.html",
+  "id": "/hr/prayer-times-in-reading.html",
   "start_url": "./prayer-times-in-reading.html",
   "scope": "./prayer-times-in-reading.html",
   "display": "standalone",

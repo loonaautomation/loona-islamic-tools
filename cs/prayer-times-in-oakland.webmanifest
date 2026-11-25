@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Oakland",
   "short_name": "Časy modliteb v Oakland",
   "description": "Dnešní časy modliteb v Oakland, Spojené státy: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda ISNA, počítáno živě ve vašem zařízení pro Oakland.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-oakland.html",
+  "id": "/cs/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

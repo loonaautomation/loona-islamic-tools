@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i N'Djamena",
   "short_name": "Bönetider i N'Djamena",
   "description": "Dagens bönetider i N'Djamena, Tchad: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för N'Djamena.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-n-djamena.html",
+  "id": "/sv/prayer-times-in-n-djamena.html",
   "start_url": "./prayer-times-in-n-djamena.html",
   "scope": "./prayer-times-in-n-djamena.html",
   "display": "standalone",

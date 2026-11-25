@@ -2,7 +2,7 @@
   "name": "Loona Aksaray の礼拝時刻",
   "short_name": "Aksaray の礼拝時刻",
   "description": "Aksaray（トルコ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Hanafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。Muslim World League 方式で、あなたのデバイス上で Aksaray についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-aksaray.html",
+  "id": "/ja/prayer-times-in-aksaray.html",
   "start_url": "./prayer-times-in-aksaray.html",
   "scope": "./prayer-times-in-aksaray.html",
   "display": "standalone",

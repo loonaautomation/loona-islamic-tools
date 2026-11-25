@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Konya",
   "short_name": "Gebetszeiten in Konya",
   "description": "Die heutigen Gebetszeiten in Konya, Türkei: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Konya.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-konya.html",
+  "id": "/de/prayer-times-in-konya.html",
   "start_url": "./prayer-times-in-konya.html",
   "scope": "./prayer-times-in-konya.html",
   "display": "standalone",

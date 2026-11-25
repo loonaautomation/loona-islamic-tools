@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Calgary",
   "short_name": "Waktu Salat di Calgary",
   "description": "Waktu salat hari ini di Calgary, Kanada: Subuh, Matahari Terbit, Zuhur, Asar (Syafi'i), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode ISNA, dihitung langsung di perangkat Anda untuk Calgary.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-calgary.html",
+  "id": "/id/prayer-times-in-calgary.html",
   "start_url": "./prayer-times-in-calgary.html",
   "scope": "./prayer-times-in-calgary.html",
   "display": "standalone",

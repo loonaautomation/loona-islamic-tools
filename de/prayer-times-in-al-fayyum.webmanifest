@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Al Fayyum",
   "short_name": "Gebetszeiten in Al Fayyum",
   "description": "Die heutigen Gebetszeiten in Al Fayyum, Ägypten: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Egyptian General Authority, live auf Ihrem Gerät berechnet für Al Fayyum.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-al-fayyum.html",
+  "id": "/de/prayer-times-in-al-fayyum.html",
   "start_url": "./prayer-times-in-al-fayyum.html",
   "scope": "./prayer-times-in-al-fayyum.html",
   "display": "standalone",

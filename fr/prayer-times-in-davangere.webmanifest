@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Davangere",
   "short_name": "Heures de prière à Davangere",
   "description": "Les heures de prière d’aujourd’hui à Davangere, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Davangere.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-davangere.html",
+  "id": "/fr/prayer-times-in-davangere.html",
   "start_url": "./prayer-times-in-davangere.html",
   "scope": "./prayer-times-in-davangere.html",
   "display": "standalone",

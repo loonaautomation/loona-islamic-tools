@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Memphis",
   "short_name": "Gebedstijden in Memphis",
   "description": "De gebedstijden van vandaag in Memphis, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Memphis.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-memphis.html",
+  "id": "/nl/prayer-times-in-memphis.html",
   "start_url": "./prayer-times-in-memphis.html",
   "scope": "./prayer-times-in-memphis.html",
   "display": "standalone",

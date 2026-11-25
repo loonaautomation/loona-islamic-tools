@@ -2,7 +2,7 @@
   "name": "Loona Waktu Solat di Nyala",
   "short_name": "Waktu Solat di Nyala",
   "description": "Waktu solat hari ini di Nyala, Sudan: Subuh, Matahari Terbit, Zohor, Asar (Shafi), Maghrib dan Isyak, serta arah Kiblat dan tarikh Hijri hari ini. Kaedah Muslim World League, dikira secara langsung pada peranti anda untuk Nyala.",
-  "id": "/loona-islamic-tools/ms/prayer-times-in-nyala.html",
+  "id": "/ms/prayer-times-in-nyala.html",
   "start_url": "./prayer-times-in-nyala.html",
   "scope": "./prayer-times-in-nyala.html",
   "display": "standalone",

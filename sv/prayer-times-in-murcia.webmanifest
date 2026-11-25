@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Murcia",
   "short_name": "Bönetider i Murcia",
   "description": "Dagens bönetider i Murcia, Spanien: Fajr, soluppgång, Dhuhr, Asr (Shafi), Maghrib och Isha, samt qiblariktningen och dagens hijridatum. Muslim World League-metoden, beräknad live på din enhet för Murcia.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-murcia.html",
+  "id": "/sv/prayer-times-in-murcia.html",
   "start_url": "./prayer-times-in-murcia.html",
   "scope": "./prayer-times-in-murcia.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Kluang",
   "short_name": "Gebetszeiten in Kluang",
   "description": "Die heutigen Gebetszeiten in Kluang, Malaysia: Fajr, Sonnenaufgang, Dhuhr, Asr (Shafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Muslim World League, live auf Ihrem Gerät berechnet für Kluang.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-kluang.html",
+  "id": "/de/prayer-times-in-kluang.html",
   "start_url": "./prayer-times-in-kluang.html",
   "scope": "./prayer-times-in-kluang.html",
   "display": "standalone",

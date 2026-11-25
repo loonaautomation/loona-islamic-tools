@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Comilla",
   "short_name": "Czasy modlitw w miejscowości Comilla",
   "description": "Dzisiejsze czasy modlitw w miejscowości Comilla, kraj Bangladesz: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Comilla.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-comilla.html",
+  "id": "/pl/prayer-times-in-comilla.html",
   "start_url": "./prayer-times-in-comilla.html",
   "scope": "./prayer-times-in-comilla.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona เวลาละหมาดใน Banjul",
   "short_name": "เวลาละหมาดใน Banjul",
   "description": "เวลาละหมาดวันนี้ใน Banjul, Gambia: ฟัจญ์ร พระอาทิตย์ขึ้น ซุฮร์ อัศร์ (ชาฟิอี) มัฆริบ และอีชาอ์ พร้อมทิศกิบลัตและวันที่ฮิจเราะห์ของวันนี้ ใช้วิธี Muslim World League คำนวณสดบนอุปกรณ์ของคุณสำหรับ Banjul",
-  "id": "/loona-islamic-tools/th/prayer-times-in-banjul.html",
+  "id": "/th/prayer-times-in-banjul.html",
   "start_url": "./prayer-times-in-banjul.html",
   "scope": "./prayer-times-in-banjul.html",
   "display": "standalone",

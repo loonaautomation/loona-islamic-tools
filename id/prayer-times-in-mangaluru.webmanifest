@@ -2,7 +2,7 @@
   "name": "Loona Waktu Salat di Mangaluru",
   "short_name": "Waktu Salat di Mangaluru",
   "description": "Waktu salat hari ini di Mangaluru, India: Subuh, Matahari Terbit, Zuhur, Asar (Hanafi), Magrib dan Isya, plus arah kiblat dan tanggal Hijriah hari ini. Metode Karachi, dihitung langsung di perangkat Anda untuk Mangaluru.",
-  "id": "/loona-islamic-tools/id/prayer-times-in-mangaluru.html",
+  "id": "/id/prayer-times-in-mangaluru.html",
   "start_url": "./prayer-times-in-mangaluru.html",
   "scope": "./prayer-times-in-mangaluru.html",
   "display": "standalone",

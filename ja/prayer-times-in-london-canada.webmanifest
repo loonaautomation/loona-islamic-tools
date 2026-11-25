@@ -2,7 +2,7 @@
   "name": "Loona London（カナダ）の礼拝時刻",
   "short_name": "London（カナダ）の礼拝時刻",
   "description": "London（カナダ）の今日の礼拝時刻：Fajr、日の出、Dhuhr、Asr（Shafi）、Maghrib、Isha、そしてキブラの方向と今日のヒジュラ暦日付。ISNA 方式で、あなたのデバイス上で London についてライブ計算されます。",
-  "id": "/loona-islamic-tools/ja/prayer-times-in-london-canada.html",
+  "id": "/ja/prayer-times-in-london-canada.html",
   "start_url": "./prayer-times-in-london-canada.html",
   "scope": "./prayer-times-in-london-canada.html",
   "display": "standalone",

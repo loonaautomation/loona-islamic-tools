@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Oakland",
   "short_name": "Orari di preghiera a Oakland",
   "description": "Orari di preghiera di oggi a Oakland, Stati Uniti: Fajr, alba, Dhuhr, Asr (Shafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo ISNA, calcolati live sul tuo dispositivo per Oakland.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-oakland.html",
+  "id": "/it/prayer-times-in-oakland.html",
   "start_url": "./prayer-times-in-oakland.html",
   "scope": "./prayer-times-in-oakland.html",
   "display": "standalone",

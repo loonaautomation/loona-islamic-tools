@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Sukabumi",
   "short_name": "Gebedstijden in Sukabumi",
   "description": "De gebedstijden van vandaag in Sukabumi, Indonesië: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Muslim World League, live berekend op je apparaat voor Sukabumi.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-sukabumi.html",
+  "id": "/nl/prayer-times-in-sukabumi.html",
   "start_url": "./prayer-times-in-sukabumi.html",
   "scope": "./prayer-times-in-sukabumi.html",
   "display": "standalone",

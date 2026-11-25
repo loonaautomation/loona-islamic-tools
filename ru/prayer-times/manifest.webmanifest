@@ -2,7 +2,7 @@
   "name": "Loona Время намаза сегодня",
   "short_name": "Время намаза сегодня",
   "description": "Получите сегодняшнее время намазов Фаджр, Зухр, Аср, Магриб и Иша для любого города: методы Карачи, ISNA, MWL и другие, ханафитский или шафиитский Аср, поддержка точных координат.",
-  "id": "/loona-islamic-tools/ru/prayer-times/",
+  "id": "/ru/prayer-times/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

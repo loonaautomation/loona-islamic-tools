@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Bikaner",
   "short_name": "Horarios de oración en Bikaner",
   "description": "Horarios de oración de hoy en Bikaner, India: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Bikaner.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-bikaner.html",
+  "id": "/es/prayer-times-in-bikaner.html",
   "start_url": "./prayer-times-in-bikaner.html",
   "scope": "./prayer-times-in-bikaner.html",
   "display": "standalone",

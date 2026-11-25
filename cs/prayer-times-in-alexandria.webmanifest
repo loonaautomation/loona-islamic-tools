@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Alexandria",
   "short_name": "Časy modliteb v Alexandria",
   "description": "Dnešní časy modliteb v Alexandria, Egypt: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Egyptian General Authority, počítáno živě ve vašem zařízení pro Alexandria.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-alexandria.html",
+  "id": "/cs/prayer-times-in-alexandria.html",
   "start_url": "./prayer-times-in-alexandria.html",
   "scope": "./prayer-times-in-alexandria.html",
   "display": "standalone",

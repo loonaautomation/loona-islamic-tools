@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Kochi",
   "short_name": "Heures de prière à Kochi",
   "description": "Les heures de prière d’aujourd’hui à Kochi, Inde : Fajr, lever du soleil, Dhuhr, Asr (hanafite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Karachi, calculées en direct sur votre appareil pour Kochi.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-kochi.html",
+  "id": "/fr/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

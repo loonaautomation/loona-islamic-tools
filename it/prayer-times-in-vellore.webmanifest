@@ -2,7 +2,7 @@
   "name": "Loona Orari di preghiera a Vellore",
   "short_name": "Orari di preghiera a Vellore",
   "description": "Orari di preghiera di oggi a Vellore, India: Fajr, alba, Dhuhr, Asr (Hanafi), Maghrib e Isha, più la direzione della Qibla e la data dell'egira di oggi. Metodo Karachi, calcolati live sul tuo dispositivo per Vellore.",
-  "id": "/loona-islamic-tools/it/prayer-times-in-vellore.html",
+  "id": "/it/prayer-times-in-vellore.html",
   "start_url": "./prayer-times-in-vellore.html",
   "scope": "./prayer-times-in-vellore.html",
   "display": "standalone",

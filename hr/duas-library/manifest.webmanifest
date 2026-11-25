@@ -2,7 +2,7 @@
   "name": "Loona Knjižnica dova",
   "short_name": "Knjižnica dova",
   "description": "Knjižnica autentičnih dova za svaki trenutak — jutro, hrana, putovanje, dom, tjeskoba, oprost — svaka s arapskim tekstom, transliteracijom, prijevodom i izvorom.",
-  "id": "/loona-islamic-tools/hr/duas-library/",
+  "id": "/hr/duas-library/",
   "start_url": ".",
   "scope": ".",
   "display": "standalone",

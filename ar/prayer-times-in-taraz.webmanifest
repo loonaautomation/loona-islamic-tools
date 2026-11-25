@@ -2,7 +2,7 @@
   "name": "Loona مواقيت الصلاة في Taraz",
   "short_name": "مواقيت الصلاة في Taraz",
   "description": "مواقيت الصلاة اليوم في Taraz، كازاخستان: الفجر والشروق والظهر والعصر (حنفي) والمغرب والعشاء، بالإضافة إلى اتجاه القبلة والتاريخ الهجري لليوم. طريقة رابطة العالم الإسلامي، تُحسب مباشرة على جهازك لـTaraz.",
-  "id": "/loona-islamic-tools/ar/prayer-times-in-taraz.html",
+  "id": "/ar/prayer-times-in-taraz.html",
   "start_url": "./prayer-times-in-taraz.html",
   "scope": "./prayer-times-in-taraz.html",
   "display": "standalone",

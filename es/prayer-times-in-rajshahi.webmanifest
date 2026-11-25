@@ -2,7 +2,7 @@
   "name": "Loona Horarios de oración en Rajshahi",
   "short_name": "Horarios de oración en Rajshahi",
   "description": "Horarios de oración de hoy en Rajshahi, Bangladés: Fajr, amanecer, Dhuhr, Asr (Hanafi), Maghrib e Isha, además de la dirección de la Qibla y la fecha de la hégira de hoy. Método de Karachi, calculado en vivo en tu dispositivo para Rajshahi.",
-  "id": "/loona-islamic-tools/es/prayer-times-in-rajshahi.html",
+  "id": "/es/prayer-times-in-rajshahi.html",
   "start_url": "./prayer-times-in-rajshahi.html",
   "scope": "./prayer-times-in-rajshahi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Antalya",
   "short_name": "Bønnetider i Antalya",
   "description": "Dagens bønnetider i Antalya, Tyrkia: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Antalya.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-antalya.html",
+  "id": "/nb/prayer-times-in-antalya.html",
   "start_url": "./prayer-times-in-antalya.html",
   "scope": "./prayer-times-in-antalya.html",
   "display": "standalone",

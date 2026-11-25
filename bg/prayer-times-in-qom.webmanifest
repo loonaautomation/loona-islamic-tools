@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Qom",
   "short_name": "Часове за намаз в Qom",
   "description": "Днешните часове за намаз в Qom, Иран: Фаджр, Изгрев, Зухр, Аср (Шафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод на Мюсюлманската световна лига, изчислени на живо на вашето устройство за Qom.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-qom.html",
+  "id": "/bg/prayer-times-in-qom.html",
   "start_url": "./prayer-times-in-qom.html",
   "scope": "./prayer-times-in-qom.html",
   "display": "standalone",

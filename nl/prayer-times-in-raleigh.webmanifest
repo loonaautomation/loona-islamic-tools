@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Raleigh",
   "short_name": "Gebedstijden in Raleigh",
   "description": "De gebedstijden van vandaag in Raleigh, Verenigde Staten: Fajr, Zonsopgang, Dhuhr, Asr (Shafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. ISNA-methode, live berekend op je apparaat voor Raleigh.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-raleigh.html",
+  "id": "/nl/prayer-times-in-raleigh.html",
   "start_url": "./prayer-times-in-raleigh.html",
   "scope": "./prayer-times-in-raleigh.html",
   "display": "standalone",

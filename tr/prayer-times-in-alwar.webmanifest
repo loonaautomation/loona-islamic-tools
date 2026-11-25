@@ -2,7 +2,7 @@
   "name": "Loona Alwar Namaz Vakitleri",
   "short_name": "Alwar Namaz Vakitleri",
   "description": "Bugünün namaz vakitleri — Alwar, Hindistan: İmsak, Güneş Doğuşu, Öğle, İkindi (Hanefi), Akşam ve Yatsı; ayrıca Kıble yönü ve bugünün Hicri tarihi. Karachi yöntemi, Alwar için cihazınızda canlı hesaplanır.",
-  "id": "/loona-islamic-tools/tr/prayer-times-in-alwar.html",
+  "id": "/tr/prayer-times-in-alwar.html",
   "start_url": "./prayer-times-in-alwar.html",
   "scope": "./prayer-times-in-alwar.html",
   "display": "standalone",

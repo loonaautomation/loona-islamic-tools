@@ -2,7 +2,7 @@
   "name": "Loona זמני תפילה בעיר Nasimshahr",
   "short_name": "זמני תפילה בעיר Nasimshahr",
   "description": "זמני התפילה של היום בעיר Nasimshahr, איראן: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib ו-Isha, וכן כיוון הקיבלה והתאריך ההיג'רי של היום. שיטת הליגה העולמית המוסלמית, מחושב בשידור חי במכשיר שלך עבור Nasimshahr.",
-  "id": "/loona-islamic-tools/he/prayer-times-in-nasimshahr.html",
+  "id": "/he/prayer-times-in-nasimshahr.html",
   "start_url": "./prayer-times-in-nasimshahr.html",
   "scope": "./prayer-times-in-nasimshahr.html",
   "display": "standalone",

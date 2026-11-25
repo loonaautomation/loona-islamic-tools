@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Rangpur",
   "short_name": "Časy modlitieb v Rangpur",
   "description": "Dnešné časy modlitieb v Rangpur, Bangladéš: Fadžr, východ slnka, Dhuhr, Asr (hanafijský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Karachi, počítané naživo vo vašom zariadení pre Rangpur.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-rangpur.html",
+  "id": "/sk/prayer-times-in-rangpur.html",
   "start_url": "./prayer-times-in-rangpur.html",
   "scope": "./prayer-times-in-rangpur.html",
   "display": "standalone",

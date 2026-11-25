@@ -2,7 +2,7 @@
   "name": "Loona Время намаза в городе Çankaya",
   "short_name": "Время намаза в городе Çankaya",
   "description": "Время намаза на сегодня: Çankaya, Турция: Фаджр, Восход, Зухр, Аср (ханафитский), Магриб и Иша, а также направление Киблы и сегодняшняя дата по Хиджре. Метод Всемирной мусульманской лиги, расчёт в реальном времени на вашем устройстве для города Çankaya.",
-  "id": "/loona-islamic-tools/ru/prayer-times-in-cankaya.html",
+  "id": "/ru/prayer-times-in-cankaya.html",
   "start_url": "./prayer-times-in-cankaya.html",
   "scope": "./prayer-times-in-cankaya.html",
   "display": "standalone",

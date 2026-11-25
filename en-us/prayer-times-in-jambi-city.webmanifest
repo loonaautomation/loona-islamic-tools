@@ -2,7 +2,7 @@
   "name": "Loona Prayer Times in Jambi City Today",
   "short_name": "Prayer Times in Jambi City Today",
   "description": "Today's prayer times in Jambi City, Indonesia: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib and Isha, plus the Qibla direction and today's Hijri date. Muslim World League method, calculated live on your device for Jambi City.",
-  "id": "/loona-islamic-tools/en-us/prayer-times-in-jambi-city.html",
+  "id": "/en-us/prayer-times-in-jambi-city.html",
   "start_url": "./prayer-times-in-jambi-city.html",
   "scope": "./prayer-times-in-jambi-city.html",
   "display": "standalone",

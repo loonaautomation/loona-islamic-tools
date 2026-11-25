@@ -2,7 +2,7 @@
   "name": "Loona Časy modliteb v Ségou",
   "short_name": "Časy modliteb v Ségou",
   "description": "Dnešní časy modliteb v Ségou, Mali: Fadžr, východ slunce, Dhuhr, Asr (šáfiovský), Maghrib a Išá, plus směr qibly a dnešní datum hidžry. Metoda Muslim World League, počítáno živě ve vašem zařízení pro Ségou.",
-  "id": "/loona-islamic-tools/cs/prayer-times-in-segou.html",
+  "id": "/cs/prayer-times-in-segou.html",
   "start_url": "./prayer-times-in-segou.html",
   "scope": "./prayer-times-in-segou.html",
   "display": "standalone",

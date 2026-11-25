@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Hafizabad",
   "short_name": "Gebetszeiten in Hafizabad",
   "description": "Die heutigen Gebetszeiten in Hafizabad, Pakistan: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Hafizabad.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-hafizabad.html",
+  "id": "/de/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

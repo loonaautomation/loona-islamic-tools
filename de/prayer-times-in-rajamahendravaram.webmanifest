@@ -2,7 +2,7 @@
   "name": "Loona Gebetszeiten in Rajamahendravaram",
   "short_name": "Gebetszeiten in Rajamahendravaram",
   "description": "Die heutigen Gebetszeiten in Rajamahendravaram, Indien: Fajr, Sonnenaufgang, Dhuhr, Asr (Hanafi), Maghrib und Isha, plus die Qibla-Richtung und das heutige Hidschri-Datum. Methode Karachi, live auf Ihrem Gerät berechnet für Rajamahendravaram.",
-  "id": "/loona-islamic-tools/de/prayer-times-in-rajamahendravaram.html",
+  "id": "/de/prayer-times-in-rajamahendravaram.html",
   "start_url": "./prayer-times-in-rajamahendravaram.html",
   "scope": "./prayer-times-in-rajamahendravaram.html",
   "display": "standalone",

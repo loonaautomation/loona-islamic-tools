@@ -2,7 +2,7 @@
   "name": "Loona Час намазу в Kochi",
   "short_name": "Час намазу в Kochi",
   "description": "Сьогоднішній час намазу в Kochi, Індія: Фаджр, схід сонця, Зугр, Аср (ханафітський), Магріб та Іша, а також напрямок Кібли й сьогоднішня дата за хіджрою. Метод Karachi, розраховано наживо на вашому пристрої для Kochi.",
-  "id": "/loona-islamic-tools/uk/prayer-times-in-kochi.html",
+  "id": "/uk/prayer-times-in-kochi.html",
   "start_url": "./prayer-times-in-kochi.html",
   "scope": "./prayer-times-in-kochi.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Gebedstijden in Hafizabad",
   "short_name": "Gebedstijden in Hafizabad",
   "description": "De gebedstijden van vandaag in Hafizabad, Pakistan: Fajr, Zonsopgang, Dhuhr, Asr (Hanafi), Maghrib en Isha, plus de Qibla-richting en de Hijri-datum van vandaag. Methode Karachi, live berekend op je apparaat voor Hafizabad.",
-  "id": "/loona-islamic-tools/nl/prayer-times-in-hafizabad.html",
+  "id": "/nl/prayer-times-in-hafizabad.html",
   "start_url": "./prayer-times-in-hafizabad.html",
   "scope": "./prayer-times-in-hafizabad.html",
   "display": "standalone",

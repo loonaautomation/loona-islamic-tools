@@ -2,7 +2,7 @@
   "name": "Loona Bönetider i Liverpool",
   "short_name": "Bönetider i Liverpool",
   "description": "Dagens bönetider i Liverpool, Storbritannien: Fajr, Sunrise, Dhuhr, Asr (Shafi), Maghrib och Isha, plus qiblariktningen och dagens Hijri-datum. Muslim World League-metoden, beräknad live på din enhet för Liverpool.",
-  "id": "/loona-islamic-tools/sv/prayer-times-in-liverpool.html",
+  "id": "/sv/prayer-times-in-liverpool.html",
   "start_url": "./prayer-times-in-liverpool.html",
   "scope": "./prayer-times-in-liverpool.html",
   "display": "standalone",

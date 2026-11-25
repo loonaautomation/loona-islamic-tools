@@ -2,7 +2,7 @@
   "name": "Loona Czasy modlitw w miejscowości Lagos",
   "short_name": "Czasy modlitw w miejscowości Lagos",
   "description": "Dzisiejsze czasy modlitw w miejscowości Lagos, kraj Nigeria: Fadżr, wschód słońca, Dhuhr, Asr (hanaficki), Maghrib i Isza, a także kierunek kibla i dzisiejsza data hidżry. Metoda Karachi, obliczane na żywo na Twoim urządzeniu dla miejscowości Lagos.",
-  "id": "/loona-islamic-tools/pl/prayer-times-in-lagos.html",
+  "id": "/pl/prayer-times-in-lagos.html",
   "start_url": "./prayer-times-in-lagos.html",
   "scope": "./prayer-times-in-lagos.html",
   "display": "standalone",

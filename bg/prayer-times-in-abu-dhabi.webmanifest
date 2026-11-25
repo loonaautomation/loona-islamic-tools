@@ -2,7 +2,7 @@
   "name": "Loona Часове за намаз в Abu Dhabi",
   "short_name": "Часове за намаз в Abu Dhabi",
   "description": "Днешните часове за намаз в Abu Dhabi, UAE: Фаджр, Изгрев, Зухр, Аср (Ханафи), Магриб и Иша, плюс посоката на Киблата и днешната дата по Хиджра. Метод Karachi, изчислен на живо на вашето устройство за Abu Dhabi.",
-  "id": "/loona-islamic-tools/bg/prayer-times-in-abu-dhabi.html",
+  "id": "/bg/prayer-times-in-abu-dhabi.html",
   "start_url": "./prayer-times-in-abu-dhabi.html",
   "scope": "./prayer-times-in-abu-dhabi.html",
   "display": "standalone",

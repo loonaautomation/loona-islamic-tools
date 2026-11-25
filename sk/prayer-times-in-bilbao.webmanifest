@@ -2,7 +2,7 @@
   "name": "Loona Časy modlitieb v Bilbao",
   "short_name": "Časy modlitieb v Bilbao",
   "description": "Dnešné časy modlitieb v Bilbao, Španielsko: Fadžr, východ slnka, Dhuhr, Asr (šáfiovský), Magrib a Išá, plus smer Kibly a dnešný dátum hidžry. Metóda Muslim World League, počítané naživo vo vašom zariadení pre Bilbao.",
-  "id": "/loona-islamic-tools/sk/prayer-times-in-bilbao.html",
+  "id": "/sk/prayer-times-in-bilbao.html",
   "start_url": "./prayer-times-in-bilbao.html",
   "scope": "./prayer-times-in-bilbao.html",
   "display": "standalone",

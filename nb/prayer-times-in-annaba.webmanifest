@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Annaba",
   "short_name": "Bønnetider i Annaba",
   "description": "Dagens bønnetider i Annaba, Algerie: Fajr, soloppgang, Dhuhr, Asr (Shafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Metoden til Muslim World League, beregnet direkte på enheten din for Annaba.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-annaba.html",
+  "id": "/nb/prayer-times-in-annaba.html",
   "start_url": "./prayer-times-in-annaba.html",
   "scope": "./prayer-times-in-annaba.html",
   "display": "standalone",

@@ -2,7 +2,7 @@
   "name": "Loona Bønnetider i Kunri",
   "short_name": "Bønnetider i Kunri",
   "description": "Dagens bønnetider i Kunri, Pakistan: Fajr, soloppgang, Dhuhr, Asr (Hanafi), Maghrib og Isha, pluss Qibla-retningen og dagens Hijri-dato. Karachi-metoden, beregnet direkte på enheten din for Kunri.",
-  "id": "/loona-islamic-tools/nb/prayer-times-in-kunri.html",
+  "id": "/nb/prayer-times-in-kunri.html",
   "start_url": "./prayer-times-in-kunri.html",
   "scope": "./prayer-times-in-kunri.html",
   "display": "standalone",

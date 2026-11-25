@@ -2,7 +2,7 @@
   "name": "Loona Heures de prière à Gaza",
   "short_name": "Heures de prière à Gaza",
   "description": "Les heures de prière d’aujourd’hui à Gaza, Palestine : Fajr, lever du soleil, Dhuhr, Asr (chafiite), Maghrib et Isha, plus la direction de la Qibla et la date hégirienne d’aujourd’hui. Méthode Muslim World League, calculées en direct sur votre appareil pour Gaza.",
-  "id": "/loona-islamic-tools/fr/prayer-times-in-gaza.html",
+  "id": "/fr/prayer-times-in-gaza.html",
   "start_url": "./prayer-times-in-gaza.html",
   "scope": "./prayer-times-in-gaza.html",
   "display": "standalone",
